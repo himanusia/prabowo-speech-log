@@ -1,11 +1,11 @@
 {
  "event_count": 67,
- "token_count": 161299,
+ "token_count": 159075,
  "upload_count": 128,
  "date_first": "2024-08-27",
  "date_last": "2026-09-09",
  "length": {
-  "median": 1822,
+  "median": 1841,
   "longest": 7900,
   "longest_title": "🔴BREAKING NEWS - Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR 2026",
   "shortest": 213,
@@ -14,50 +14,50 @@
  "topics": [
   {
    "topic": "nasional_dan_identitas",
-   "count": 5520,
-   "per_1000": 34.22,
+   "count": 5442,
+   "per_1000": 34.21,
    "speeches": 67,
    "share": 100.0
   },
   {
    "topic": "ekonomi",
-   "count": 1082,
-   "per_1000": 6.71,
+   "count": 1081,
+   "per_1000": 6.8,
    "speeches": 60,
    "share": 89.6
   },
   {
    "topic": "kesehatan_dan_gizi",
-   "count": 903,
-   "per_1000": 5.6,
+   "count": 902,
+   "per_1000": 5.67,
    "speeches": 62,
    "share": 92.5
   },
   {
    "topic": "pendidikan",
    "count": 793,
-   "per_1000": 4.92,
+   "per_1000": 4.99,
    "speeches": 52,
    "share": 77.6
   },
   {
    "topic": "pangan",
    "count": 653,
-   "per_1000": 4.05,
+   "per_1000": 4.1,
    "speeches": 47,
    "share": 70.1
   },
   {
    "topic": "tata_kelola",
-   "count": 650,
-   "per_1000": 4.03,
+   "count": 645,
+   "per_1000": 4.05,
    "speeches": 60,
    "share": 89.6
   },
   {
    "topic": "pertahanan_dan_keamanan",
-   "count": 574,
-   "per_1000": 3.56,
+   "count": 562,
+   "per_1000": 3.53,
    "speeches": 60,
    "share": 89.6
   }
@@ -68,7 +68,7 @@
    "full": "Makan Bergizi Gratis",
    "events": 29,
    "share": 43.3,
-   "mentions": 120,
+   "mentions": 118,
    "per_event": 4.1,
    "first": "2024-10-09",
    "last": "2026-09-09"
@@ -190,7 +190,7 @@
    "full": "kosakata negatif yang paling dominan, jauh di atas hinaan pribadi",
    "events": 43,
    "share": 64.2,
-   "mentions": 191,
+   "mentions": 190,
    "per_event": 4.4,
    "first": "2024-08-27",
    "last": "2026-09-09"
@@ -219,50 +219,50 @@
  "framing": [
   {
    "label": "kita",
-   "count": 6465,
-   "per_1000": 40.08,
+   "count": 6423,
+   "per_1000": 40.38,
    "speeches": 67,
    "share": 100.0
   },
   {
    "label": "saya",
-   "count": 4258,
-   "per_1000": 26.4,
+   "count": 4239,
+   "per_1000": 26.65,
    "speeches": 67,
    "share": 100.0
   },
   {
    "label": "saudara",
-   "count": 2257,
-   "per_1000": 13.99,
+   "count": 2254,
+   "per_1000": 14.17,
    "speeches": 66,
    "share": 98.5
   },
   {
    "label": "rakyat",
-   "count": 1128,
-   "per_1000": 6.99,
+   "count": 1115,
+   "per_1000": 7.01,
    "speeches": 63,
    "share": 94.0
   },
   {
    "label": "mereka",
-   "count": 654,
-   "per_1000": 4.05,
+   "count": 653,
+   "per_1000": 4.1,
    "speeches": 59,
    "share": 88.1
   },
   {
    "label": "kami",
-   "count": 333,
-   "per_1000": 2.06,
-   "speeches": 52,
-   "share": 77.6
+   "count": 302,
+   "per_1000": 1.9,
+   "speeches": 50,
+   "share": 74.6
   },
   {
    "label": "kalian",
    "count": 106,
-   "per_1000": 0.66,
+   "per_1000": 0.67,
    "speeches": 29,
    "share": 43.3
   }
@@ -288,132 +288,487 @@
   {
    "year": "2026",
    "speeches": 41,
-   "tokens": 110453,
-   "kita_per_1000": 40.57,
-   "saya_per_1000": 25.32,
+   "tokens": 108229,
+   "kita_per_1000": 41.01,
+   "saya_per_1000": 25.67,
    "ratio": 1.6
   }
  ],
  "top_words": [
   {
    "word": "indonesia",
-   "count": 1802,
-   "per_1000": 11.17
+   "count": 1770,
+   "per_1000": 11.13
   },
   {
    "word": "rakyat",
-   "count": 1122,
-   "per_1000": 6.96
+   "count": 1109,
+   "per_1000": 6.97
   },
   {
    "word": "harus",
-   "count": 1080,
-   "per_1000": 6.7
+   "count": 1079,
+   "per_1000": 6.78
   },
   {
    "word": "bangsa",
-   "count": 914,
-   "per_1000": 5.67
+   "count": 903,
+   "per_1000": 5.68
   },
   {
    "word": "negara",
-   "count": 869,
-   "per_1000": 5.39
-  },
-  {
-   "word": "tahun",
-   "count": 767,
-   "per_1000": 4.76
+   "count": 854,
+   "per_1000": 5.37
   },
   {
    "word": "tangan",
-   "count": 760,
-   "per_1000": 4.71
+   "count": 772,
+   "per_1000": 4.85
+  },
+  {
+   "word": "tahun",
+   "count": 762,
+   "per_1000": 4.79
   },
   {
    "word": "tepuk",
-   "count": 719,
-   "per_1000": 4.46
+   "count": 732,
+   "per_1000": 4.6
   },
   {
    "word": "enggak",
    "count": 630,
-   "per_1000": 3.91
+   "per_1000": 3.96
   },
   {
    "word": "menteri",
-   "count": 568,
-   "per_1000": 3.52
-  },
-  {
-   "word": "presiden",
-   "count": 545,
-   "per_1000": 3.38
+   "count": 567,
+   "per_1000": 3.56
   },
   {
    "word": "ketua",
-   "count": 527,
-   "per_1000": 3.27
+   "count": 522,
+   "per_1000": 3.28
+  },
+  {
+   "word": "presiden",
+   "count": 509,
+   "per_1000": 3.2
   },
   {
    "word": "republik",
-   "count": 429,
-   "per_1000": 2.66
+   "count": 417,
+   "per_1000": 2.62
   },
   {
    "word": "seluruh",
-   "count": 416,
-   "per_1000": 2.58
+   "count": 406,
+   "per_1000": 2.55
+  },
+  {
+   "word": "bersorak",
+   "count": 379,
+   "per_1000": 2.38
   },
   {
    "word": "hadir",
-   "count": 382,
+   "count": 377,
    "per_1000": 2.37
   },
   {
    "word": "satu",
-   "count": 350,
-   "per_1000": 2.17
+   "count": 354,
+   "per_1000": 2.23
   },
   {
    "word": "orang",
-   "count": 343,
-   "per_1000": 2.13
+   "count": 342,
+   "per_1000": 2.15
   },
   {
    "word": "punya",
-   "count": 330,
-   "per_1000": 2.05
+   "count": 329,
+   "per_1000": 2.07
   },
   {
    "word": "dunia",
-   "count": 329,
-   "per_1000": 2.04
+   "count": 327,
+   "per_1000": 2.06
   },
   {
    "word": "ekonomi",
    "count": 320,
-   "per_1000": 1.98
+   "per_1000": 2.01
   },
   {
    "word": "mungkin",
-   "count": 310,
-   "per_1000": 1.92
+   "count": 309,
+   "per_1000": 1.94
   },
   {
    "word": "ingin",
    "count": 309,
-   "per_1000": 1.92
-  },
-  {
-   "word": "hormati",
-   "count": 300,
-   "per_1000": 1.86
+   "per_1000": 1.94
   },
   {
    "word": "boleh",
-   "count": 298,
+   "count": 299,
+   "per_1000": 1.88
+  },
+  {
+   "word": "hormati",
+   "count": 295,
    "per_1000": 1.85
+  },
+  {
+   "word": "pemerintah",
+   "count": 290,
+   "per_1000": 1.82
+  },
+  {
+   "word": "wakil",
+   "count": 290,
+   "per_1000": 1.82
+  },
+  {
+   "word": "masih",
+   "count": 285,
+   "per_1000": 1.79
+  },
+  {
+   "word": "bukan",
+   "count": 266,
+   "per_1000": 1.67
+  },
+  {
+   "word": "benar",
+   "count": 265,
+   "per_1000": 1.67
+  },
+  {
+   "word": "musik",
+   "count": 260,
+   "per_1000": 1.63
+  },
+  {
+   "word": "luar",
+   "count": 258,
+   "per_1000": 1.62
+  },
+  {
+   "word": "umum",
+   "count": 253,
+   "per_1000": 1.59
+  },
+  {
+   "word": "jangan",
+   "count": 252,
+   "per_1000": 1.58
+  },
+  {
+   "word": "nanti",
+   "count": 237,
+   "per_1000": 1.49
+  },
+  {
+   "word": "mana",
+   "count": 236,
+   "per_1000": 1.48
+  },
+  {
+   "word": "bapak",
+   "count": 226,
+   "per_1000": 1.42
+  },
+  {
+   "word": "partai",
+   "count": 224,
+   "per_1000": 1.41
+  },
+  {
+   "word": "selalu",
+   "count": 224,
+   "per_1000": 1.41
+  },
+  {
+   "word": "lain",
+   "count": 224,
+   "per_1000": 1.41
+  },
+  {
+   "word": "waktu",
+   "count": 216,
+   "per_1000": 1.36
+  },
+  {
+   "word": "sekolah",
+   "count": 211,
+   "per_1000": 1.33
+  },
+  {
+   "word": "terus",
+   "count": 204,
+   "per_1000": 1.28
+  },
+  {
+   "word": "bekerja",
+   "count": 203,
+   "per_1000": 1.28
+  },
+  {
+   "word": "kerja",
+   "count": 202,
+   "per_1000": 1.27
+  },
+  {
+   "word": "kekayaan",
+   "count": 199,
+   "per_1000": 1.25
+  },
+  {
+   "word": "kepala",
+   "count": 199,
+   "per_1000": 1.25
+  },
+  {
+   "word": "berdehem",
+   "count": 198,
+   "per_1000": 1.24
+  },
+  {
+   "word": "juta",
+   "count": 195,
+   "per_1000": 1.23
+  },
+  {
+   "word": "salam",
+   "count": 194,
+   "per_1000": 1.22
+  },
+  {
+   "word": "sendiri",
+   "count": 194,
+   "per_1000": 1.22
+  },
+  {
+   "word": "lihat",
+   "count": 192,
+   "per_1000": 1.21
+  },
+  {
+   "word": "baru",
+   "count": 192,
+   "per_1000": 1.21
+  },
+  {
+   "word": "berapa",
+   "count": 190,
+   "per_1000": 1.19
+  },
+  {
+   "word": "negeri",
+   "count": 187,
+   "per_1000": 1.18
+  },
+  {
+   "word": "kali",
+   "count": 186,
+   "per_1000": 1.17
+  },
+  {
+   "word": "sini",
+   "count": 184,
+   "per_1000": 1.16
+  },
+  {
+   "word": "suatu",
+   "count": 183,
+   "per_1000": 1.15
+  },
+  {
+   "word": "kira",
+   "count": 180,
+   "per_1000": 1.13
+  },
+  {
+   "word": "hidup",
+   "count": 176,
+   "per_1000": 1.11
+  }
+ ],
+ "length_histogram": [
+  {
+   "label": "<500",
+   "count": 4
+  },
+  {
+   "label": "500–1k",
+   "count": 7
+  },
+  {
+   "label": "1k–1,5k",
+   "count": 12
+  },
+  {
+   "label": "1,5k–2k",
+   "count": 12
+  },
+  {
+   "label": "2k–3k",
+   "count": 15
+  },
+  {
+   "label": "3k–4k",
+   "count": 9
+  },
+  {
+   "label": "4k–6k",
+   "count": 5
+  },
+  {
+   "label": ">6k",
+   "count": 3
+  }
+ ],
+ "length_histogram_max": 15,
+ "per_year_words": [
+  {
+   "year": "2024",
+   "tokens": 18910,
+   "top": [
+    {
+     "word": "indonesia",
+     "count": 197,
+     "per_1000": 10.42
+    },
+    {
+     "word": "harus",
+     "count": 150,
+     "per_1000": 7.93
+    },
+    {
+     "word": "rakyat",
+     "count": 129,
+     "per_1000": 6.82
+    },
+    {
+     "word": "bangsa",
+     "count": 115,
+     "per_1000": 6.08
+    },
+    {
+     "word": "tangan",
+     "count": 113,
+     "per_1000": 5.98
+    },
+    {
+     "word": "tepuk",
+     "count": 110,
+     "per_1000": 5.82
+    },
+    {
+     "word": "negara",
+     "count": 94,
+     "per_1000": 4.97
+    },
+    {
+     "word": "menteri",
+     "count": 80,
+     "per_1000": 4.23
+    }
+   ]
+  },
+  {
+   "year": "2025",
+   "tokens": 31936,
+   "top": [
+    {
+     "word": "indonesia",
+     "count": 404,
+     "per_1000": 12.65
+    },
+    {
+     "word": "rakyat",
+     "count": 247,
+     "per_1000": 7.73
+    },
+    {
+     "word": "tangan",
+     "count": 226,
+     "per_1000": 7.08
+    },
+    {
+     "word": "tepuk",
+     "count": 214,
+     "per_1000": 6.7
+    },
+    {
+     "word": "bangsa",
+     "count": 187,
+     "per_1000": 5.86
+    },
+    {
+     "word": "harus",
+     "count": 185,
+     "per_1000": 5.79
+    },
+    {
+     "word": "negara",
+     "count": 182,
+     "per_1000": 5.7
+    },
+    {
+     "word": "enggak",
+     "count": 139,
+     "per_1000": 4.35
+    }
+   ]
+  },
+  {
+   "year": "2026",
+   "tokens": 108229,
+   "top": [
+    {
+     "word": "indonesia",
+     "count": 1169,
+     "per_1000": 10.8
+    },
+    {
+     "word": "harus",
+     "count": 744,
+     "per_1000": 6.87
+    },
+    {
+     "word": "rakyat",
+     "count": 733,
+     "per_1000": 6.77
+    },
+    {
+     "word": "bangsa",
+     "count": 601,
+     "per_1000": 5.55
+    },
+    {
+     "word": "tahun",
+     "count": 587,
+     "per_1000": 5.42
+    },
+    {
+     "word": "negara",
+     "count": 578,
+     "per_1000": 5.34
+    },
+    {
+     "word": "enggak",
+     "count": 441,
+     "per_1000": 4.07
+    },
+    {
+     "word": "tangan",
+     "count": 433,
+     "per_1000": 4.0
+    }
+   ]
   }
  ],
  "per_year": [
@@ -430,7 +785,7 @@
   {
    "year": "2026",
    "speeches": 41,
-   "tokens": 110453
+   "tokens": 108229
   }
  ]
 }

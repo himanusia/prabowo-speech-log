@@ -1,0 +1,91 @@
+{
+ "id": "8Wu5wtWOOT0",
+ "url": "https://www.youtube.com/watch?v=8Wu5wtWOOT0",
+ "title": "Presiden Prabowo Ucapkan Selamat Tahun Baru Imlek 2576, 29 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "raw_snippets": [
+  {
+   "text": "Bismillahirrahmanirrahim.",
+   "start": 1.0,
+   "duration": 2
+  },
+  {
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian.",
+   "start": 3.0,
+   "duration": 6
+  },
+  {
+   "text": "Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan.",
+   "start": 9.0,
+   "duration": 6
+  },
+  {
+   "text": "Saya Prabowo Subianto, Presiden Republik Indonesia.",
+   "start": 15.0,
+   "duration": 5
+  },
+  {
+   "text": "Atas nama Pemerintah Republik Indonesia dan atas nama pribadi mengucapkan selamat tahun baru Imlek.",
+   "start": 20.0,
+   "duration": 10
+  },
+  {
+   "text": "2.576 kepada seluruh saudara-saudara kita yang merayakannya.",
+   "start": 30.0,
+   "duration": 8
+  },
+  {
+   "text": "Semoga perayaan Imlek tahun ini membawa kebahagiaan, kesejahteraan, dan keberuntungan bagi",
+   "start": 38.0,
+   "duration": 8
+  },
+  {
+   "text": "seluruh masyarakat keturunan Tionghoa dan masyarakat Tionghoa yang berada di Indonesia. Di momen penuh harapan ini,",
+   "start": 46.0,
+   "duration": 8
+  },
+  {
+   "text": "mari kita bersama-sama mempererat persaudaraan, menjaga kerukunan, dan",
+   "start": 54.0,
+   "duration": 7
+  },
+  {
+   "text": "merayakan keberagaman sebagai kekuatan bangsa kita. Bhineka tunggal ika berbeda tapi satu.",
+   "start": 61.0,
+   "duration": 10
+  },
+  {
+   "text": "Saya juga mengucapkan selamat memasuki tahun ular kayu. Semoga tahun ini menjadi tahun yang penuh keberkahan,",
+   "start": 71.0,
+   "duration": 9
+  },
+  {
+   "text": "kedamaian, dan kebahagiaan bagi kita semua. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam",
+   "start": 80.0,
+   "duration": 9
+  },
+  {
+   "text": "sejahtera bagi kita sekalian. Shalom salve. Om santi santi om namo buddhaya. Salam kebajikan.",
+   "start": 89.0,
+   "duration": 3
+  }
+ ]
+}

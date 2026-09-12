@@ -1,0 +1,76 @@
+{
+ "id": "Lo02DeFW7OM",
+ "url": "https://www.youtube.com/watch?v=Lo02DeFW7OM",
+ "title": "HIGHLIGHT: Kunjungan Resmi Kenegaraan Presiden Prabowo ke Prancis",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "Pertama-tama saya menyampaikan terima kasih yang sebesar-besarnya, penghargaan yang setinggi-tingginya.",
+   "start": 21.0,
+   "duration": 9
+  },
+  {
+   "text": "atas penerimaan yang begitu besar, yang begitu baik, penuh kehormatan untuk saya dan delegasi saya.",
+   "start": 30.0,
+   "duration": 12
+  },
+  {
+   "text": "Hubungan Indonesia dan Prancis berada di tingkat menurut saya yang terbaik selama ini.",
+   "start": 42.0,
+   "duration": 11
+  },
+  {
+   "text": "Dalam beberapa hal Indonesia dan Prancis memiliki sikap yang sama",
+   "start": 53.0,
+   "duration": 9
+  },
+  {
+   "text": "dan saat ini hubungan bilateral kita sangat baik. ini",
+   "start": 62.0,
+   "duration": 9
+  },
+  {
+   "text": "tidak lain adalah karena dukungan langsung dari Presiden Macron.",
+   "start": 71.0,
+   "duration": 9
+  },
+  {
+   "text": "Keadaan global yang penuh ketidakpastian, penuh ketegangan, penuh konflik.",
+   "start": 80.0,
+   "duration": 12
+  },
+  {
+   "text": "Kedua negara kita bisa mainkan suatu peranan yang positif.",
+   "start": 92.0,
+   "duration": 7
+  },
+  {
+   "text": "Indonesia selalu akan mendorong semua usaha untuk memelihara perdamaian.",
+   "start": 99.0,
+   "duration": 11
+  },
+  {
+   "text": "Semoga Indonesia dan Prancis terus melangkah maju dengan arah yang jelas, komitmen yang kuat.",
+   "start": 110.0,
+   "duration": 3
+  }
+ ]
+}

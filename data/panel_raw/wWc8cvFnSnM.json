@@ -1,0 +1,61 @@
+{
+ "id": "wWc8cvFnSnM",
+ "url": "https://www.youtube.com/watch?v=wWc8cvFnSnM",
+ "title": "Keterangan Pers Gubernur Kalimantan Selatan Muhidin, Istana Negara, 16 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "raw_snippets": [
+  {
+   "text": "Terima kasih asalamualaikum warahmatullahi wabarakatuh kebetulan kemarin kita mau pulang dapat undangan untuk pelantikan padahal kita sudah",
+   "start": 0.0,
+   "duration": 8
+  },
+  {
+   "text": "ketemu menteri Negeri bahwa mungkin pelantikan Sekalian aja nanti setelah tanggal 7 Februari tapi alhamdulillah",
+   "start": 8.0,
+   "duration": 8
+  },
+  {
+   "text": "kemarin ada surat e dari apa presiden bahwa kita akan dilantik pada hari ini Alhamdulillah jadi kita meneruskan",
+   "start": 16.0,
+   "duration": 9
+  },
+  {
+   "text": "sampai sampai nanti mungk mungkin tanggal 7 Februari kita meneruskan kembali karena kita terpilih menjadi",
+   "start": 25.0,
+   "duration": 8
+  },
+  {
+   "text": "gubernur Kalimantan Selatan Pak ada komunikasi enggak sih Pak dengan Pak Sabirin e yang mengundurkan diri belum",
+   "start": 33.0,
+   "duration": 8
+  },
+  {
+   "text": "sampai saat ini belum ketemu pernah ketemu lagi beliau tidak ada di",
+   "start": 41.0,
+   "duration": 6
+  },
+  {
+   "text": "tempat Ada lagi Ada lagi okeima kasih pakasih Pak",
+   "start": 47.0,
+   "duration": 3
+  }
+ ]
+}

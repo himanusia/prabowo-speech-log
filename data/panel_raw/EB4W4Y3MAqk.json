@@ -1,0 +1,81 @@
+{
+ "id": "EB4W4Y3MAqk",
+ "url": "https://www.youtube.com/watch?v=EB4W4Y3MAqk",
+ "title": "Presiden Prabowo Ucapkan Selamat Natal dan Tahun Baru, 25 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh salam sejahtera bagi kita",
+   "start": 1.0,
+   "duration": 7
+  },
+  {
+   "text": "sekalian Shalom salve Om Swastiastu namo budhaya salam",
+   "start": 8.0,
+   "duration": 9
+  },
+  {
+   "text": "kebajikan Saya Prabowo Subianto Presiden Republik",
+   "start": 17.0,
+   "duration": 7
+  },
+  {
+   "text": "Indonesia atas nama pemerintah Republik Indonesia dan atas nama pribadi",
+   "start": 24.0,
+   "duration": 7
+  },
+  {
+   "text": "mengucapkan selamat hari raya Natal untuk semua saudara-saudara sebangsa dan",
+   "start": 31.0,
+   "duration": 9
+  },
+  {
+   "text": "setanah air yang beragama Kristiani semoga hari raya Natal dinikmati oleh",
+   "start": 40.0,
+   "duration": 9
+  },
+  {
+   "text": "seluruh umat Kristiani dalam keadaan damai dan menerima berkah dan kebaikan dari yang maha",
+   "start": 49.0,
+   "duration": 9
+  },
+  {
+   "text": "kuasa saya juga mengucapkan selamat tahun baru 2025 semoga tahun baru membawa",
+   "start": 58.0,
+   "duration": 9
+  },
+  {
+   "text": "perdamaian kebaikan dan berkah bagi kita semua terima kasih wasalamualaikum",
+   "start": 67.0,
+   "duration": 9
+  },
+  {
+   "text": "warahmatullahi wabarakatuh salam sejahtera B kita sekalian Shalom salve om Santi Santi",
+   "start": 76.0,
+   "duration": 8
+  },
+  {
+   "text": "Santi om namo Budha salam kebajikan foreign",
+   "start": 84.0,
+   "duration": 3
+  }
+ ]
+}

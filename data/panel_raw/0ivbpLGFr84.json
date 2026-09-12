@@ -1,0 +1,71 @@
+{
+ "id": "0ivbpLGFr84",
+ "url": "https://www.youtube.com/watch?v=0ivbpLGFr84",
+ "title": "Kunjungan Kerja ke Jawa Tengah, Presiden Prabowo Tinjau TPST BLE Banyumas, 28 April 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "raw_snippets": [
+  {
+   "text": "[bersorak]",
+   "start": 3.0,
+   "duration": 14
+  },
+  {
+   "text": "[musik]",
+   "start": 17.0,
+   "duration": 8
+  },
+  {
+   "text": "[musik]",
+   "start": 25.0,
+   "duration": 8
+  },
+  {
+   "text": "Ee ini suatu terobosan inisiatif yang sangat baik. pengolahan sampah dengan menggunakan teknologi yang tidak terlalu",
+   "start": 33.0,
+   "duration": 8
+  },
+  {
+   "text": "canggih tapi efektif sebagian besar produk lokal dan dalam suatu rangkaian",
+   "start": 41.0,
+   "duration": 6
+  },
+  {
+   "text": "[musik] sistem dari rumah tangga sampai ke kabupaten.",
+   "start": 47.0,
+   "duration": 6
+  },
+  {
+   "text": "Jadi ini saya kira sangat efektif ya ee menjadi contoh untuk banyak ee provinsi,",
+   "start": 53.0,
+   "duration": 7
+  },
+  {
+   "text": "banyak kabupaten, bahkan dari negara lain ada yang ke sini. [musik]",
+   "start": 60.0,
+   "duration": 12
+  },
+  {
+   "text": "[musik]",
+   "start": 72.0,
+   "duration": 3
+  }
+ ]
+}

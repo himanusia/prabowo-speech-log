@@ -1,25 +1,25 @@
 # Status pengumpulan
 
-Diperbarui: 2026-09-13T04:02:50+07:00
+Diperbarui: 2026-09-13T04:17:04+07:00
 
 ## Ringkasan
 
 | Keadaan | Jumlah |
 |---|---:|
-| ok_belum_masuk_arsip | 333 |
-| menunggu | 351 |
-| panel_kosong | 2 |
-| tanpa_track | 132 |
+| ok_belum_masuk_arsip | 449 |
+| menunggu | 171 |
+| panel_kosong | 3 |
+| tanpa_track | 195 |
 
-**Sisa yang masih bisa ditarik: 686** dari 818 video era presiden.
+**Sisa yang masih bisa ditarik: 623** dari 818 video era presiden.
 
 ## Per jenis
 
 | Jenis | Total | Sudah | Sisa |
 |---|---:|---:|---:|
-| ambigu | 555 | 280 | 275 |
+| ambigu | 555 | 388 | 167 |
 | keterangan_pers | 50 | 46 | 4 |
-| kunjungan | 194 | 0 | 194 |
+| kunjungan | 194 | 8 | 186 |
 | pidato | 19 | 7 | 12 |
 
 ## Yang belum ditarik
@@ -78,7 +78,7 @@ Diperbarui: 2026-09-13T04:02:50+07:00
 - `A` ?? `CPGEPGic-8A` President Prabowo's Press Statement after the Inauguration of the Friendship T
 - … dan 6 lagi (lihat data/collection-state.json)
 
-### ambigu — 439 video
+### ambigu — 391 video
 
 - `A` ?? `OBpFpAEfjAg` INDONESIA WINS!!! The Indonesian Contingent Heads to the 20th Asian Games in A
 - `A` 2026-00-00? `Ewi73wny_qA` Bilateral Meeting between President Prabowo and President Putin, Vladivostok, 
@@ -120,33 +120,18 @@ Diperbarui: 2026-09-13T04:02:50+07:00
 - `A` 2026-00-00? `ozsnenS1PW4` Moved and Proud: Diaspora Welcomes President Prabowo in Paris, May 26, 2026
 - `A` ?? `W46cPCjedXA` President Prabowo Inaugurates the Renovation of the Seskoad Museum and Library
 - `A` ?? `s1cM9185FmQ` President Prabowo Leads Grand Shrimp Harvest at the Regional-Based Shrimp Farm
-- … dan 399 lagi (lihat data/collection-state.json)
+- … dan 351 lagi (lihat data/collection-state.json)
 
-### kunjungan — 194 video
+### kunjungan — 179 video
 
-- `·` 2026-00-00? `qlfS2rcWN1E` President Prabowo Warmly Welcomed by Indonesian Students and Diaspora, New Del
-- `·` 2026-09-11 `nK4AJza0YfA` Presiden Prabowo Tiba di India untuk Hadiri KTT ke-18 BRICS, New Delhi, 11 Sep
-- `·` 2026-09-04 `KTEWjE7KwMw` Presiden Prabowo Tiba di Tanah Air Usai Tuntaskan Agenda di Vladivostok, 4 Sep
-- `·` 2026-00-00? `9ROspyEde_M` President Prabowo Arrives in Vladivostok as Guest of Honor for the 11th EEF, S
-- `·` 2026-09-01 `bE30NUSGI9o` Bertolak ke Rusia, Presiden Prabowo Jadi Tamu Kehormatan Utama EEF, 1 Septembe
-- `·` ?? `RC2ZPbF4j7U` President Prabowo Inspects Relocation Housing for Residents Near Senen Railway
-- `·` 2026-08-24 `wwRH4iL3mOE` Presiden Prabowo Bertolak ke Sumatra, Kembali Turun Langsung Tangani Karhutla,
-- `·` 2026-08-22 `icWzRqlzcEc` Presiden Prabowo Tinjau Lokasi Karhutla di Kubu Raya, Kalimantan Barat, 22 Agu
-- `·` 2026-00-00? `nfN2hEhPwkI` [HIGHLIGHT] Official Visit of Thai Prime Minister Anutin Charnvirakul to Indon
-- `·` 2026-07-30 `bAOo_SP7R8c` Presiden Prabowo Akan Resmikan Stasiun Tawang dan Akad Massal 62 Ribu Rumah Su
-- `·` 2026-07-10 `VQkYjcRxvU4` Presiden Prabowo Bertolak ke NTB untuk Resmikan Lima Bendungan, 10 Juli 2026
-- `·` ?? `3E-fn6CmPdA` [HIGHLIGHT] Indian PM Narendra Modi’s State Visit to Indonesia
-- `·` 2026-06-24 `X7Nx39YMTbo` Bertolak ke Gorontalo, Presiden Prabowo Hadiri Puncak PENAS Petani dan Nelayan
-- `·` 2026-06-23 `9VzlmoUEeog` Ke Jatim, Presiden Prabowo Resmikan Jalan Daerah 1.151 Km serta Hadiri Munas N
-- `·` ?? `o6t9J3wtY1M` HIGHLIGHT: State Visit of the President of the Federal Republic of Germany Fra
-- `·` 2026-06-10 `-2gsJ0uXQqo` Presiden Prabowo Bertolak ke Lampung dalam Rangka Kunjungan Kerja, 10 Juni 202
-- `·` 2026-00-00? `7609oB0Y5AI` President Prabowo Subianto inspects Tabanan Junior High School 17, Bali, June 
-- `·` 2026-00-00? `eglPJ0Nb6wc` President Prabowo Receives Visit from Turkish Foreign Minister, Bogor Regency,
-- `·` 2026-06-02 `MJbIsQPcHrE` Presiden Prabowo Tinjau SPPG Palmerah, Pastikan Program Gizi Berjalan dari Hul
-- `·` ?? `AL5U7YYP7no` President Prabowo Receives Visit from Qatar's Deputy Prime Minister/Defense Mi
-- `·` ?? `Lo02DeFW7OM` HIGHLIGHT: President Prabowo's Official State Visit to France
-- `·` 2026-05-29 `rr9Ds-eScDQ` Usai Kunjungan Resmi Kenegaraan di Paris, Presiden Prabowo Bertolak Menuju Tan
-- `·` 2026-00-00? `wajs6rcOAD4` Escorted by 146 Cavalry Troops, President Prabowo Arrives at the Élysée Palace
+- `A` 2026-00-00? `qlfS2rcWN1E` President Prabowo Warmly Welcomed by Indonesian Students and Diaspora, New Del
+- `A` 2026-00-00? `9ROspyEde_M` President Prabowo Arrives in Vladivostok as Guest of Honor for the 11th EEF, S
+- `A` ?? `RC2ZPbF4j7U` President Prabowo Inspects Relocation Housing for Residents Near Senen Railway
+- `A` 2026-00-00? `nfN2hEhPwkI` [HIGHLIGHT] Official Visit of Thai Prime Minister Anutin Charnvirakul to Indon
+- `A` ?? `o6t9J3wtY1M` HIGHLIGHT: State Visit of the President of the Federal Republic of Germany Fra
+- `A` 2026-00-00? `7609oB0Y5AI` President Prabowo Subianto inspects Tabanan Junior High School 17, Bali, June 
+- `A` ?? `Lo02DeFW7OM` HIGHLIGHT: President Prabowo's Official State Visit to France
+- `A` 2026-00-00? `wajs6rcOAD4` Escorted by 146 Cavalry Troops, President Prabowo Arrives at the Élysée Palace
 - `·` 2026-00-00? `LyPP1hs52gw` President Prabowo Welcomed with State Honors Ceremony at Les Invalides, Paris,
 - `·` 2026-05-26 `2zmBSsXiX6w` Presiden Prabowo Tiba di Paris untuk Kunjungan Resmi Kenegaraan, Paris, 26 Mei
 - `·` 2026-00-00? `ZM-ON0kAxcY` HIGHLIGHT: President Prabowo's Working Visit to East Java, May 16, 2026
@@ -164,7 +149,22 @@ Diperbarui: 2026-09-13T04:02:50+07:00
 - `·` 2026-03-31 `LUmYZnbmyG4` Presiden Prabowo Tiba di Seoul, Awali Kunjungan Kenegaraan ke Republik Korea, 
 - `·` 2026-03-30 `50t-puuceXs` Kunjungan Kehormatan Presiden Prabowo kepada Kaisar Jepang Naruhito, Tokyo, 30
 - `·` 2026-03-29 `cVQZhqCFW9s` Presiden Prabowo Tiba di Tokyo, Jepang, 29 Maret 2026
-- … dan 154 lagi (lihat data/collection-state.json)
+- `·` 2026-03-27 `O0ltNCJ_idY` Presiden Prabowo Terima Kunjungan PM Malaysia Anwar Ibrahim, Istana Merdeka, 2
+- `·` 2026-00-00? `5QrdgbOqEdw` President Prabowo's surprise visit to Senen, Jakarta, March 26, 2026
+- `·` 2026-00-00? `wVcQbCNQIO0` Cabinet Secretary Inspects Peak Return Traffic for Eid al-Fitr 2026 Early Morn
+- `·` 2026-02-25 `y4Q_2-ge3aI` Presiden Prabowo Tiba di Abu Dhabi, Perkuat Kemitraan Strategis Indonesia - PE
+- `·` 2026-00-00? `Yc1SJh9F_ho` Presiden Prabowo Disambut Upacara Resmi oleh Raja Abdullah II di Istana Basman
+- `·` 2026-02-24 `1S9sAwA2GoE` Presiden Prabowo Tiba di Amman disambut Putra Mahkota, Yordania, 24 Februari 2
+- `·` 2026-02-22 `OH0OWPzpgeA` Serah Terima Kawal Istana, Jakarta, 22 Februari 2026
+- `·` 2026-02-17 `22IJkSp3JCQ` Tiba di AS, Presiden Prabowo Akan Bertemu Presiden Trump Guna Perkuat Hubungan
+- `·` 2026-00-00? `9-Un8Iuztcs` Presiden Prabowo Bertolak Menuju Washington DC, Pangkalan TNI AU Halim Perdana
+- `·` 2026-02-15 `VhrM7rk2vo8` Serah Terima Kawal Istana, Jakarta, 15 Februari 2026
+- `·` 2026-00-00? `RsdRm47eOAI` Pastikan Kesiapan Program Gizi Nasional, Presiden Prabowo Tinjau SPPG Polri Pa
+- `·` 2026-00-00? `lDX_tRQx7OM` Presiden Prabowo Tiba di Jawa Timur Untuk Hadiri Mujahadah Kubro Satu Abad NU,
+- `·` 2026-02-06 `KDZGi3C6htA` HIGHLIGHT - Kunjungan Kerja PM Australia Anthony Albanese di Indonesia, 6 Febr
+- `·` 2026-01-21 `juAwIQrvRMw` Presiden Prabowo Tiba di Zurich untuk Hadiri World Economic Forum 2026, Swiss,
+- `·` 2026-01-18 `L0fA0KN4IBg` Presiden Prabowo Tiba di London, Inggris, 18 Januari 2026
+- … dan 139 lagi (lihat data/collection-state.json)
 
 ## Arti tanda
 

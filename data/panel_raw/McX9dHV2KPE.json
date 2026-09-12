@@ -1,0 +1,81 @@
+{
+ "id": "McX9dHV2KPE",
+ "url": "https://www.youtube.com/watch?v=McX9dHV2KPE",
+ "title": "Pertemuan Presiden Prabowo dengan Presiden ke-7 RI Joko Widodo, Jakarta, 6 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Saya dengar Pak Jokowi ada di Jakarta saya undang makan begitu Jadi Beliau pernah saya pernah ke rumah beliau di",
+   "start": 9.0,
+   "duration": 8
+  },
+  {
+   "text": "Solo saya undang sekarang ke katanegara saya kira itu ya agenda apa",
+   "start": 17.0,
+   "duration": 7
+  },
+  {
+   "text": "P tadi kita makan makan e makan malam Pak ya makan malam makan menunya apa Pak nasi goreng",
+   "start": 24.0,
+   "duration": 10
+  },
+  {
+   "text": "jawa P Aam ayam goreng dan macam-macamlah ya Ada pembahasan politik sama ekonom masuk ke partai Gerindra",
+   "start": 34.0,
+   "duration": 7
+  },
+  {
+   "text": "mungkin atau bagaimana mau masuk ke partai Gerindra m Gerindra terbuka terbuka tapi kita tentunya enggak bisa maksa beliau",
+   "start": 41.0,
+   "duration": 9
+  },
+  {
+   "text": "masuk beliau bapak presiden dulu waktu ke mirauk kan kemudian mampir ke Solo ini saya pas ke",
+   "start": 50.0,
+   "duration": 8
+  },
+  {
+   "text": "Jakarta kayak kunjungan balasan G J ber karena kangen jam berapa di sini tadi Pak Pak Jokowi Sampai jam berapa di",
+   "start": 58.0,
+   "duration": 8
+  },
+  {
+   "text": "Jakarta tadi Pak sampai jam ber Berarti Pak Jokowi sudah menentukan sikap belum mau masuk ke partai mana mungkin gitu",
+   "start": 66.0,
+   "duration": 9
+  },
+  {
+   "text": "nanya-nanyatik semuanya tawarannya ada pak Mungkin ada pertimbangan Pak makan malam makan malam Bapak ada perbincangan",
+   "start": 75.0,
+   "duration": 7
+  },
+  {
+   "text": "soal pkad Jakarta mungkin pak maunyak ekonomi",
+   "start": 82.0,
+   "duration": 9
+  },
+  {
+   "text": "Pak Terima kasih Pak presidenaasih pakasih Bapak",
+   "start": 91.0,
+   "duration": 3
+  }
+ ]
+}

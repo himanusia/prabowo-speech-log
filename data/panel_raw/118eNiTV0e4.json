@@ -1,0 +1,81 @@
+{
+ "id": "118eNiTV0e4",
+ "url": "https://www.youtube.com/watch?v=118eNiTV0e4",
+ "title": "Anak-Anak Sekolah Sambut Kedatangan Presiden Prabowo di Sumedang, 20 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "tanganti Rusak kamangan nanti gurumu",
+   "start": 3.0,
+   "duration": 16
+  },
+  {
+   "text": "marahajuaju jadilah ini contoh kebanggaan bahwa",
+   "start": 19.0,
+   "duration": 8
+  },
+  {
+   "text": "putra-utrionesia kompak keras Kalau jujur kalau ikhlas mampu",
+   "start": 27.0,
+   "duration": 8
+  },
+  {
+   "text": "untuk memberi kemajuan kepada bangsa Indonesia dengan mengucap",
+   "start": 35.0,
+   "duration": 7
+  },
+  {
+   "text": "Bismillahirrahmanirrahim pada pagi hari ini tanggal 20 Januari",
+   "start": 42.0,
+   "duration": 7
+  },
+  {
+   "text": "2025 saya Presiden Republik Indonesia resmikan proyek strategis ketenag",
+   "start": 49.0,
+   "duration": 7
+  },
+  {
+   "text": "listrikan di 18 provinsi Terima kasih wasalamualaikum warahmatullahi",
+   "start": 56.0,
+   "duration": 8
+  },
+  {
+   "text": "[Musik]",
+   "start": 64.0,
+   "duration": 8
+  },
+  {
+   "text": "wabarakatuh belajar ya semuanya",
+   "start": 72.0,
+   "duration": 2
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 74.0,
+   "duration": 5
+  },
+  {
+   "text": "[Musik]",
+   "start": 79.0,
+   "duration": 3
+  }
+ ]
+}

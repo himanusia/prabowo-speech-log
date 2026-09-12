@@ -1,0 +1,51 @@
+{
+ "id": "gRNRYKEZ7cQ",
+ "url": "https://www.youtube.com/watch?v=gRNRYKEZ7cQ",
+ "title": "Saksikan! Pelantikan Kepala Daerah Seluruh Indonesia, Kamis, 20 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "raw_snippets": [
+  {
+   "text": "pelantikan ini merupakan yang pertama kali digelar secara serentak di Istana Kepresidenan dan ini menandai babak baru",
+   "start": 12.0,
+   "duration": 10
+  },
+  {
+   "text": "dalam tata kelola pemerintahan daerah di Indonesia momen ini adalah momen yang sangat bersejarah yang juga merupakan",
+   "start": 22.0,
+   "duration": 9
+  },
+  {
+   "text": "komitmen Pemerintah Daerah yang lebih efektif efisien transparan dan",
+   "start": 31.0,
+   "duration": 8
+  },
+  {
+   "text": "berorientasi kepada pelayanan publik saksikan live Pelantikan kepala daerah seluruh Indonesia besok Kamis 20",
+   "start": 39.0,
+   "duration": 9
+  },
+  {
+   "text": "Februari 2025 mulai pukul 0900 Waktu Indonesia Barat",
+   "start": 48.0,
+   "duration": 3
+  }
+ ]
+}

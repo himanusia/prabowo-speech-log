@@ -1,0 +1,61 @@
+{
+ "id": "TAPirwWpObo",
+ "url": "https://www.youtube.com/watch?v=TAPirwWpObo",
+ "title": "Kunjungan Kerja Presiden Prabowo ke Magelang, Jawa Tengah, 18 April 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "raw_snippets": [
+  {
+   "text": "Setelah saya mengetahui bahwa di sini adalah seluruh ketua DPRD dari seluruh Indonesia, saya anggap penting dan tepat kalau saya hadir langsung.",
+   "start": 41.0,
+   "duration": 14
+  },
+  {
+   "text": "Hari ini saya ingin bicara sebagai anak bangsa ya. Sama dengan saudara-saudara sekalian.",
+   "start": 55.0,
+   "duration": 8
+  },
+  {
+   "text": "Sebagai anak bangsa hari ini saya ingin bicara dari hati ke hati. Saya datang ke sini saya jumpa, Saudara-saudara",
+   "start": 63.0,
+   "duration": 8
+  },
+  {
+   "text": "dengan satu peranggapan bahwa kita semua",
+   "start": 71.0,
+   "duration": 7
+  },
+  {
+   "text": "di tenda ini adalah patriot.",
+   "start": 78.0,
+   "duration": 14
+  },
+  {
+   "text": "Terima kasih atas kehadiran Pak Prabowo atas red anggota DPRD seluruh Indonesia.",
+   "start": 92.0,
+   "duration": 6
+  },
+  {
+   "text": "Mudah-mudahan ini menjadi motivasi untuk kita semua membangun dari daerah untuk Indonesia. Saya Rimos Ketua DPRD Kabupaten LAN Batu Utara Provinsi Sumatera Utara.",
+   "start": 98.0,
+   "duration": 3
+  }
+ ]
+}

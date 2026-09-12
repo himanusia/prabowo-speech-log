@@ -1,0 +1,76 @@
+{
+ "id": "o6t9J3wtY1M",
+ "url": "https://www.youtube.com/watch?v=o6t9J3wtY1M",
+ "title": "HIGHLIGHT: Kunjungan Kenegaraan Presiden Republik Federal Jerman Frank-Walter Steinmeier, 15/06/2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "Selamat datang dan terima kasih kepada Presiden Steinmer atas kunjungannya kembali ke Indonesia.",
+   "start": 7.0,
+   "duration": 17
+  },
+  {
+   "text": "Ini kehormatan besar bagi kami.",
+   "start": 24.0,
+   "duration": 7
+  },
+  {
+   "text": "Kunjungan kenegaraan ini memiliki arti yang sangat penting bagi Indonesia karena ini juga menunjukkan",
+   "start": 31.0,
+   "duration": 8
+  },
+  {
+   "text": "hubungan antara Jerman dan Indonesia yang sangat baik.",
+   "start": 39.0,
+   "duration": 19
+  },
+  {
+   "text": "Kunjungan ini juga merupakan momentum penting di tengah",
+   "start": 58.0,
+   "duration": 6
+  },
+  {
+   "text": "dinamika global yang semakin penuh dengan ketidakpastian.",
+   "start": 64.0,
+   "duration": 10
+  },
+  {
+   "text": "Penguatan dan keberlanjutan kemitraan Indonesia dan Jerman tentunya menjadi prioritas.",
+   "start": 74.0,
+   "duration": 9
+  },
+  {
+   "text": "Kunjungan ini juga mengawali peringatan 75 tahun hubungan bilateral Indonesia Jerman",
+   "start": 83.0,
+   "duration": 10
+  },
+  {
+   "text": "pada tahun 202 yang akan datang.",
+   "start": 93.0,
+   "duration": 21
+  },
+  {
+   "text": "e",
+   "start": 114.0,
+   "duration": 3
+  }
+ ]
+}

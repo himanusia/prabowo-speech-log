@@ -1,0 +1,81 @@
+{
+ "id": "9ROspyEde_M",
+ "url": "https://www.youtube.com/watch?v=9ROspyEde_M",
+ "title": "Presiden Prabowo Tiba di Vladivostok Jadi Tamu Kehormatan EEF ke-11, 2 September 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Tunggu dulu, Mbak. Tunggu berhenti.",
+   "start": 101.0,
+   "duration": 1
+  },
+  {
+   "text": "Nanti kita tetap ya. K.",
+   "start": 102.0,
+   "duration": 6
+  },
+  {
+   "text": "Oke. Majuan. Maju sedikit. Maju maju.",
+   "start": 108.0,
+   "duration": 11
+  },
+  {
+   "text": "Selamat datang.",
+   "start": 119.0,
+   "duration": 6
+  },
+  {
+   "text": "Jujur ini senang banget karena pengalaman pertama saya juga dan saya di Rusianya di Vladivostok untuk e presiden",
+   "start": 125.0,
+   "duration": 9
+  },
+  {
+   "text": "yang pertama kali datang setelah sekian lama yaitu Pak Prabowo. Jadi saya happy banget, jelas bangga banget karena ini",
+   "start": 134.0,
+   "duration": 9
+  },
+  {
+   "text": "kan ee forum internasional ekonomi yang selalu dihadiri sama Presiden Putinnya dan kebetulan tahun ini secara langsung",
+   "start": 143.0,
+   "duration": 9
+  },
+  {
+   "text": "Bapak Presiden ee Rusia Pak Putin e mengundang langsung Bapak Presiden Bad.",
+   "start": 152.0,
+   "duration": 6
+  },
+  {
+   "text": "E perasaannya tentu aja degdegan, ngerasa senang ee campur dedekan karena ini pertama kalinya bisa bertemu Bapak dan diberi kesempatan buat salaman sama",
+   "start": 158.0,
+   "duration": 9
+  },
+  {
+   "text": "Bapak. Ya, buat saya itu sangat berkesan. Eh, saya beserta teman-teman sangat senang Bapak bisa datang ke sini",
+   "start": 167.0,
+   "duration": 9
+  },
+  {
+   "text": "mengikuti forum ekonomi dan ini menurut saya bisa membuat Indonesia dan Rusia menjadi lebih dekat lagi.",
+   "start": 176.0,
+   "duration": 3
+  }
+ ]
+}

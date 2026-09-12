@@ -81,9 +81,11 @@ def yt_at(video_id: str, t) -> str:
 
 # --------------------------------------------------------------------- kerangka
 
+ASSET_V = {"css": "", "js": ""}
+
+
 def page(title: str, body: str, *, desc: str = "", canonical: str = "",
-         jsonld: str = "", active: str = "", rel_root: str = "", bg: bool = False) -> str:
-    figure = '<div class="bg-figure" aria-hidden="true"></div>\n' if bg else ""
+         jsonld: str = "", active: str = "", rel_root: str = "") -> str:
     return f"""<!doctype html>
 <html lang="id">
 <head>
@@ -99,12 +101,12 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
 <meta property="og:description" content="{e(desc or SITE_TAGLINE)}">
 <meta property="og:url" content="{e(SITE_BASE + canonical)}">
 <meta name="twitter:card" content="summary">
-<link rel="stylesheet" href="{rel_root}theme.css">
+<link rel="stylesheet" href="{rel_root}theme.css?v={ASSET_V['css']}">
 <link rel="alternate" type="application/json" href="{rel_root}data/index.json" title="Indeks JSON">
 <script type="application/ld+json">{jsonld}</script>
 </head>
 <body>
-{figure}<header class="top">
+<header class="top">
   <div class="wrap top__row">
     <div class="brand">
       <span class="brand__mark">&#9632;</span>
@@ -125,7 +127,7 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
   <p>{e(SITE_NAME)} &middot; <a href="{rel_root}data/index.json">data JSON</a></p>
   <p class="hint">Transkrip dari caption YouTube (auto-generated). Periksa video aslinya sebelum mengutip.</p>
 </footer>
-<script src="{rel_root}app.js" defer></script>
+<script src="{rel_root}app.js?v={ASSET_V['js']}" defer></script>
 </body>
 </html>
 """
@@ -133,15 +135,63 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
 
 # ------------------------------------------------------------------ daftar utama
 
-def _meter(label: str, share: float, right: str, *, soft: bool = False) -> str:
-    """Satu baris diagram batang. `share` = persen 0-100 untuk panjang batang."""
-    width = max(1.0, min(100.0, share))
-    cls = "meter__fill meter__fill--soft" if soft else "meter__fill"
-    return f"""      <div class="meter">
-        <span class="meter__label">{e(label)}</span>
-        <span class="meter__track"><span class="{cls}" style="width:{width:.1f}%"></span></span>
-        <span class="meter__val">{right}</span>
-      </div>"""
+def _bar(label: str, frac: float, value: str, *, soft: bool = False,
+         rank: int | None = None) -> str:
+    """Satu batang horizontal.
+
+    `frac` 0-1 menentukan panjang. `rank` memberi intensitas warna bertingkat
+    supaya peringkat terbaca sekilas, bukan cuma dari panjangnya.
+    """
+    w = max(0.008, min(1.0, frac)) * 100
+    style = f"width:{w:.1f}%"
+    cls = "brow__f"
+    if soft:
+        cls += " brow__f--soft"
+    elif rank is not None:
+        # peringkat 1 paling pekat, makin ke bawah makin pudar
+        mix = max(30, 100 - rank * 9)
+        style += f";background:color-mix(in srgb, var(--primary) {mix}%, var(--border))"
+    return (f'<div class="brow"><span class="brow__k">{e(label)}</span>'
+            f'<span class="brow__t"><span class="{cls}" style="{style}"></span></span>'
+            f'<span class="brow__v">{value}</span></div>')
+
+
+def _word_cloud(words: list[dict], limit: int = 34) -> str:
+    """Awan kata: ukuran huruf mengikuti frekuensi, jadi besar = sering."""
+    if not words:
+        return '<p class="hint">tidak ada</p>'
+    top = words[:limit]
+    hi = top[0]["count"] or 1
+    lo = top[-1]["count"] or 1
+    out = []
+    for i, w in enumerate(top):
+        # skala akar supaya perbedaan ekstrem tidak mendominasi
+        frac = ((w["count"] / hi) ** 0.5 - (lo / hi) ** 0.5) / max(1e-6, 1 - (lo / hi) ** 0.5)
+        size = 0.95 + max(0.0, min(1.0, frac)) * 2.0
+        tier = "cloud__w--1" if i < 3 else ("cloud__w--2" if i < 10 else "cloud__w--3")
+        out.append(f'<span class="cloud__w {tier}" style="font-size:{size:.2f}rem">'
+                   f'{e(w["word"])}<b>{fmt_int(w["count"])}</b></span>')
+    return f'<div class="cloud">{"".join(out)}</div>'
+
+
+def _cov_cells(coverage: dict) -> str:
+    months = coverage.get("months", [])
+    peak = max((m["events"] for m in months), default=1) or 1
+    out = []
+    for m in months:
+        if not m["covered"]:
+            out.append(f'<div class="heat__c heat__c--0" title="{e(m["month"])}: kosong">'
+                       f'<span class="heat__m">{e(m["month"][:4])}</span>'
+                       f'<span class="heat__n">&middot;</span></div>')
+            continue
+        inten = m["events"] / peak
+        bg = f"color-mix(in srgb, var(--primary) {8 + inten * 62:.0f}%, var(--card))"
+        fg = "" if inten < 0.5 else "color:#fff"
+        out.append(f'<div class="heat__c" style="background:{bg};border-color:transparent;{fg}" '
+                   f'title="{e(m["month"])}: {m["events"]} pidato, {fmt_int(m["tokens"])} token">'
+                   f'<span class="heat__m">{e(m["month"])}</span>'
+                   f'<span class="heat__n">{m["events"]}</span></div>')
+    return "".join(out)
 
 
 def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -> str:
@@ -160,165 +210,205 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
         </a>
       </li>""")
 
-    stats = f"""    <div class="stat-row">
-      <div class="stat"><span class="stat__n">{fmt_int(home.get('event_count'))}</span><span class="stat__l">pidato</span></div>
-      <div class="stat"><span class="stat__n">{fmt_int(home.get('token_count'))}</span><span class="stat__l">token</span></div>
-      <div class="stat"><span class="stat__n">{fmt_int(home.get('upload_count'))}</span><span class="stat__l">unggahan</span></div>
-      <div class="stat"><span class="stat__n">{e(format_span(coverage))}</span><span class="stat__l">rentang</span></div>
-    </div>"""
+    L = home.get("length") or {}
+    hook = f"""  <div class="hero">
+    <div class="hero__i"><span class="hero__n hero__n--accent">{fmt_int(home.get('event_count'))}</span><span class="hero__l">pidato</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(home.get('token_count'))}</span><span class="hero__l">token</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(home.get('upload_count'))}</span><span class="hero__l">unggahan</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(L.get('median'))}</span><span class="hero__l">token median</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(L.get('longest'))}</span><span class="hero__l">terpanjang</span></div>
+    <div class="hero__i"><span class="hero__n">{e(format_span(coverage))}</span><span class="hero__l">rentang</span></div>
+  </div>"""
+
+    # ---- awan kata + batang kata
+    tw = home.get("top_words", [])
+    wc = _word_cloud(tw, 44)
+    top12 = tw[:10]
+    hi12 = (top12[0]["count"] if top12 else 1) or 1
+    word_bars = "".join(
+        _bar(w["word"], w["count"] / hi12, fmt_int(w["count"]), rank=i)
+        for i, w in enumerate(top12))
+
+    # ---- program
+    prog = home.get("programs", [])[:10]
+    prog_bars = "".join(_bar(x["label"], x["share"] / 100, f'{x["share"]:.0f}%', rank=i)
+                        for i, x in enumerate(prog))
+
+    # ---- konsep
+    conc = home.get("concepts", [])
+    conc_bars = "".join(_bar(x["label"], x["share"] / 100, f'{x["share"]:.0f}%', rank=i)
+                        for i, x in enumerate(conc))
+
+    # ---- topik
+    top = home.get("topics", [])
+    hi_t = (top[0]["per_1000"] if top else 1) or 1
+    topic_bars = "".join(
+        _bar(x["topic"].replace("_", " "), x["per_1000"] / hi_t, f'{x["per_1000"]:.1f}', rank=i)
+        for i, x in enumerate(top))
 
     # ---- framing
     fr = {f["label"]: f for f in home.get("framing", [])}
-    kita, saya = fr.get("kita"), fr.get("saya")
     ratio = home.get("kita_saya_ratio")
-    yr_rows = ""
-    for y in home.get("framing_per_year", []):
-        yr_rows += _meter(y["year"], 100.0, f"<b>{y['ratio']}</b>&times;")
+    # urutkan menurut nilainya, jangan hardcode — pernah salah urut
+    fr_sorted = sorted(home.get("framing", []), key=lambda x: -x["per_1000"])
+    fr_bars = "".join(
+        _bar(x["label"], x["per_1000"] / (fr_sorted[0]["per_1000"] or 1),
+             f'{x["per_1000"]:.1f}', soft=x["label"] in ("kalian", "kami", "mereka"), rank=i)
+        for i, x in enumerate(fr_sorted))
+    yr_bars = "".join(
+        _bar(y["year"], (y["ratio"] or 0) / 2.0, f'{y["ratio"]}&times;', rank=i)
+        for i, y in enumerate(home.get("framing_per_year", [])))
 
-    framing_block = f"""  <section class="sect">
-    <div class="sect__head">
-      <h2>Cara dia menyapa</h2>
-      <span class="hint">per 1.000 token</span>
-    </div>
-    {_meter('kita', (kita or {}).get('per_1000', 0) / 40 * 100, f"<b>{(kita or {}).get('per_1000', 0):.2f}</b>")}
-    {_meter('saya', (saya or {}).get('per_1000', 0) / 40 * 100, f"<b>{(saya or {}).get('per_1000', 0):.2f}</b>")}
-    {_meter('saudara', (fr.get('saudara') or {}).get('per_1000', 0) / 40 * 100, f"<b>{(fr.get('saudara') or {}).get('per_1000', 0):.2f}</b>")}
-    {_meter('kalian', (fr.get('kalian') or {}).get('per_1000', 0) / 40 * 100, f"<b>{(fr.get('kalian') or {}).get('per_1000', 0):.2f}</b>", soft=True)}
-    <p class="note-inline">Kata <em>kita</em> muncul <b>{ratio}&times;</b> lebih sering daripada <em>saya</em>.
-    Yang paling jarang justru <em>kalian</em> — {fmt_int((fr.get('kalian') or {}).get('count'))} kali
-    dalam {fmt_int(home.get('token_count'))} token.</p>
-    <div style="margin-top:1rem">
-      <p class="hint" style="margin:0 0 .3rem">Rasio kita&nbsp;:&nbsp;saya per tahun</p>
-{yr_rows}
-    </div>
-  </section>"""
+    # ---- histogram panjang
+    hist = home.get("length_histogram", [])
+    hmax = home.get("length_histogram_max", 1) or 1
+    hist_html = "".join(
+        f'<div class="hist__c" title="{e(h["label"])} token: {h["count"]} pidato">'
+        f'<span class="hist__n">{h["count"]}</span>'
+        f'<span class="hist__b{"" if h["count"] else " hist__b--zero"}" '
+        f'style="height:{(max(h["count"], 0.4) / hmax * 100):.1f}%"></span>'
+        f'<span class="hist__l">{e(h["label"])}</span></div>'
+        for h in hist)
 
-    # ---- topik
-    topic_rows = "".join(
-        _meter(t["topic"].replace("_", " "), t["per_1000"] / 35 * 100,
-               f"<b>{t['per_1000']:.1f}</b>&thinsp;/1k")
-        for t in home.get("topics", [])
-    )
-
-    # ---- program
-    prog_rows = "".join(
-        _meter(p["label"], p["share"], f"<b>{p['share']:.0f}%</b>")
-        for p in home.get("programs", [])[:10]
-    )
-
-    # ---- konsep
-    conc_rows = "".join(
-        _meter(c["label"], c["share"], f"<b>{c['share']:.0f}%</b>")
-        for c in home.get("concepts", [])
-    )
-
-    # ---- kata isi
-    word_chips = "".join(
-        f'<span class="word">{e(w["word"])} <b>{fmt_int(w["count"])}</b></span>'
-        for w in home.get("top_words", [])[:18]
-    )
-
-    # ---- cakupan bulan
-    cells = []
-    for m in coverage.get("months", []):
-        cls = "cov__cell" + ("" if m["covered"] else " cov__cell--empty")
-        cells.append(
-            f'<div class="{cls}" title="{e(m["month"])}: {m["events"]} pidato">'
-            f'<span class="cov__m">{e(m["month"][2:])}</span>'
-            f'<span class="cov__n">{m["events"] if m["covered"] else "·"}</span></div>'
-        )
+    # ---- kata teratas per tahun
+    pyw = "".join(
+        f'<div style="margin-bottom:.7rem"><div class="card__h" style="border:0;margin:0 0 .35rem;padding:0">'
+        f'<h2 style="font-size:var(--step-1)">{e(y["year"])}</h2>'
+        f'<span class="unit">{fmt_int(y["tokens"])} token</span></div>'
+        + "".join(_bar(w["word"], w["count"] / (y["top"][0]["count"] or 1),
+                       fmt_int(w["count"]), rank=i)
+                  for i, w in enumerate(y["top"]))
+        + "</div>"
+        for y in home.get("per_year_words", []))
 
     body = f"""  <h1>{e(SITE_NAME)}</h1>
-  <p class="lede">Seluruh pidato, sambutan, dan pernyataan resmi yang berhasil dikumpulkan —
-  dengan transkrip ber-cap-waktu dan sumber yang bisa diperiksa sendiri.</p>
+  <p class="lede">Seluruh pidato, sambutan, dan pernyataan resmi yang terkumpul —
+  diukur, bukan diringkas.</p>
 
-{stats}
+{hook}
 
-  <div class="sect">
-    <p class="note-inline" style="border:0;padding:0;margin:0">
-      <strong>{fmt_int(home.get('event_count'))} pidato</strong> ·
-      <strong>{fmt_int(home.get('token_count'))} token</strong> ·
-      median <strong>{fmt_int((home.get('length') or {}).get('median'))} token</strong> per pidato ·
-      terpanjang <strong>{fmt_int((home.get('length') or {}).get('longest'))}</strong>
-    </p>
-  </div>
+  <div class="dash" style="margin-top:1rem">
 
-{framing_block}
+    <section class="card c7">
+      <div class="card__h">
+        <h2>Kata terbanyak</h2>
+        <span class="unit">tanpa kata fungsi &amp; pronomina</span>
+      </div>
+      {wc}
+      <p class="sub">10 teratas, dengan jumlah persisnya</p>
+      <div class="bars">{word_bars}</div>
+    </section>
 
-  <section class="sect">
-    <div class="sect__head">
-      <h2>Bahasan yang paling sering muncul</h2>
-      <span class="hint">kepadatan per 1.000 token</span>
-    </div>
-{topic_rows}
-    <p class="note-inline">Angka ini kepadatan kata, bukan tingkat kepentingan.
-    Kategori <em>nasional &amp; identitas</em> memakai banyak kata sekaligus, jadi angkanya
-    selalu paling tinggi dan tidak bisa dibandingkan langsung dengan yang lain.</p>
-  </section>
+    <section class="card c5">
+      <div class="card__h">
+        <h2>Program yang dibahas</h2>
+        <span class="unit">% pidato</span>
+      </div>
+      <div class="bars">{prog_bars}</div>
+      <p class="note-inline">Dihitung dari seluruh cara penyebutannya: akronim, nama panjang,
+      maupun badan pelaksananya.</p>
+    </section>
 
-  <section class="sect">
-    <div class="sect__head">
-      <h2>Program yang paling sering dibahas</h2>
-      <span class="hint">persen pidato yang menyebutnya</span>
-    </div>
-{prog_rows}
-    <p class="note-inline">Dihitung dari seluruh cara program disebut — akronim, nama panjang,
-    maupun lembaga pelaksananya. Contohnya MBG mencakup
-    &ldquo;makan bergizi gratis&rdquo;, &ldquo;gizi gratis&rdquo;, SPPG, dan Badan Gizi Nasional.</p>
-  </section>
+    <section class="card c5">
+      <div class="card__h">
+        <h2>Cara dia menyapa</h2>
+        <span class="unit">per 1.000 token</span>
+      </div>
+      <div class="bars">{fr_bars}</div>
+      <p class="note-inline"><strong>kita</strong> {ratio}&times; lebih sering daripada
+      <strong>saya</strong>. <strong>kalian</strong> hampir tidak pernah dipakai.</p>
+    </section>
 
-  <section class="sect">
-    <div class="sect__head">
-      <h2>Yang dia sebut sebagai masalah</h2>
-      <span class="hint">persen pidato yang menyebutnya</span>
-    </div>
-{conc_rows}
-    <p class="note-inline">Korupsi jauh mengalahkan hinaan pribadi. Kata seperti
-    <em>goblok</em> atau <em>bajingan</em> jarang, dan sebagian diucapkan sebagai
-    tiruan atau lelucon, bukan sebagai serangan.</p>
-  </section>
+    <section class="card c7">
+      <div class="card__h">
+        <h2>Topik</h2>
+        <span class="unit">kepadatan per 1.000 token</span>
+      </div>
+      <div class="bars">{topic_bars}</div>
+      <p class="note-inline">Kepadatan kata, bukan tingkat kepentingan. Kategori
+      <em>nasional &amp; identitas</em> memakai banyak kata sekaligus sehingga selalu
+      paling tinggi.</p>
+    </section>
 
-  <section class="sect">
-    <div class="sect__head">
-      <h2>Kata isi teratas</h2>
-      <span class="hint">tanpa kata fungsi dan pronomina</span>
-    </div>
-    <div class="words">{word_chips}</div>
-  </section>
+    <section class="card c6">
+      <div class="card__h">
+        <h2>Yang disebut masalah</h2>
+        <span class="unit">% pidato</span>
+      </div>
+      <div class="bars">{conc_bars}</div>
+      <p class="note-inline">Korupsi jauh di atas hinaan pribadi.</p>
+    </section>
 
-  <section class="sect">
-    <div class="sect__head">
-      <h2>Sebaran waktu</h2>
-      <span class="hint">{len(coverage.get('months_without_events', []))} bulan kosong</span>
-    </div>
-    <div class="cov">
-{chr(10).join("      " + c for c in cells)}
-    </div>
-    <p class="note-inline">Kotak bergaris putus-putus berarti bulan itu tidak ada pidato sama sekali.
-    Sebaran yang condong ke 2026 itu <strong>artefak cara pencarian</strong>, bukan tanda
-    Prabowo lebih sering berpidato tahun itu. Halaman
-    <a href="cakupan.html">cakupan</a> menjelaskan lubangnya.</p>
-  </section>
+    <section class="card c6">
+      <div class="card__h">
+        <h2>Panjang pidato</h2>
+        <span class="unit">jumlah pidato</span>
+      </div>
+      <div class="hist">{hist_html}</div>
+    </section>
 
-  <section class="sect">
-    <div class="sect__head">
-      <h2>Semua pidato</h2>
-      <span class="hint" id="count">{len(speeches)} pidato</span>
-    </div>
-    <div class="searchbar">
-      <input id="q" type="search" placeholder="Cari pidato atau isi transkrip…" aria-label="Cari pidato" autocomplete="off">
-    </div>
-    <ol class="list" id="list" style="margin-top:1rem;list-style:none;padding:0">
+    <section class="card c4">
+      <div class="card__h">
+        <h2>Rasio kita : saya</h2>
+        <span class="unit">per tahun</span>
+      </div>
+      <div class="bars">{yr_bars}</div>
+      <p class="note-inline">Stabil di atas 1&times; setiap tahun — dia lebih sering
+      memakai kata kolektif daripada kata tunggal.</p>
+    </section>
+
+    <section class="card c8">
+      <div class="card__h">
+        <h2>Sebaran waktu</h2>
+        <span class="unit">{len(coverage.get('months_without_events', []))} bulan kosong</span>
+      </div>
+      <div class="heat">{_cov_cells(coverage)}</div>
+      <div class="legend">
+        <span>jumlah pidato per bulan</span>
+        <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 12%, var(--card))"></span>
+        <span>sedikit</span>
+        <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 70%, var(--card))"></span>
+        <span>banyak</span>
+        <span class="legend__s" style="border-style:dashed;background:transparent"></span>
+        <span>kosong</span>
+      </div>
+      <p class="note-inline">Kotak bergaris putus-putus = bulan tanpa pidato sama sekali.
+      Sebaran yang condong ke 2026 itu <strong>artefak cara pencarian</strong>, bukan tanda
+      Prabowo lebih sering berpidato tahun itu — lihat halaman
+      <a href="cakupan.html">cakupan</a>.</p>
+    </section>
+
+    <section class="card c12">
+      <div class="card__h">
+        <h2>Kata teratas per tahun</h2>
+        <span class="unit">melihat pergeseran kosakata</span>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:1.5rem">
+      {pyw}
+      </div>
+    </section>
+
+    <section class="card c12">
+      <div class="card__h">
+        <h2>Semua pidato</h2>
+        <span class="unit" id="count">{len(speeches)} pidato</span>
+      </div>
+      <div class="searchbar">
+        <input id="q" type="search" placeholder="Cari pidato atau isi transkrip…" aria-label="Cari pidato" autocomplete="off">
+      </div>
+      <ol class="list" id="list" style="margin-top:1rem;list-style:none;padding:0">
 {chr(10).join(rows)}
-    </ol>
-    <p class="empty" id="empty" hidden>Tidak ada yang cocok.</p>
-  </section>
+      </ol>
+      <p class="empty" id="empty" hidden>Tidak ada yang cocok.</p>
+    </section>
+
+  </div>
 """
     return page(
         f"{SITE_NAME} — {len(speeches)} pidato",
         body,
         desc=f"Arsip {len(speeches)} pidato Presiden Prabowo dengan transkrip ber-cap-waktu: "
-             f"bahasan teratas, program yang paling sering dibahas, dan tautan ke video asalnya.",
+             f"kata terbanyak, program yang paling dibahas, topik, dan tautan ke video asalnya.",
         canonical="/",
         jsonld=json.dumps({
             "@context": "https://schema.org",
@@ -334,7 +424,6 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
             } for s in speeches],
         }, ensure_ascii=False),
         active="daftar",
-        bg=True,
     )
 
 
@@ -578,7 +667,6 @@ def render_coverage(coverage: dict, meta: dict, speeches: list[dict]) -> str:
              "dan batas-batas yang perlu diketahui sebelum memakai datanya.",
         canonical="/cakupan.html",
         active="cakupan",
-        bg=True,
     )
 
 
@@ -658,7 +746,6 @@ def render_about(meta: dict, coverage: dict) -> str:
              "dan cara setiap kutipan ditautkan ke detik di video aslinya.",
         canonical="/tentang.html",
         active="tentang",
-        bg=True,
     )
 
 
@@ -773,6 +860,17 @@ def main() -> int:
         print("Tidak ada pidato. Jalankan build_log.py dulu.")
         return 1
 
+    # Versi aset = potongan hash isi berkasnya. Karena nama berkasnya tidak
+    # pernah berubah, tanpa ini browser bisa terus menyajikan CSS lama dan
+    # perubahan tidak pernah terlihat walau deploy-nya sudah benar.
+    import hashlib
+    def asset_version(path: Path) -> str:
+        return hashlib.sha256(path.read_bytes()).hexdigest()[:10]
+
+    ASSET_V["css"] = asset_version(WEB / "theme.css")
+    ASSET_V["js"] = hashlib.sha256(APP_JS.encode("utf-8")).hexdigest()[:10]
+    print(f"versi aset: css={ASSET_V['css']} js={ASSET_V['js']}")
+
     # Bersihkan keluaran lama supaya tidak ada sisa halaman yatim.
     if DOCS.exists():
         shutil.rmtree(DOCS)
@@ -793,12 +891,6 @@ def main() -> int:
 
     # aset
     shutil.copy2(WEB / "theme.css", DOCS / "theme.css")
-    for asset in ("prabowo-mask.png",):
-        src_asset = WEB / asset
-        if src_asset.exists():
-            shutil.copy2(src_asset, DOCS / asset)
-        else:
-            print(f"  peringatan: {asset} tidak ada di web/ — siluet latar dilewati")
     (DOCS / "app.js").write_text(APP_JS, encoding="utf-8")
 
     # data mesin
@@ -829,6 +921,37 @@ def main() -> int:
         f"User-agent: *\nAllow: /\n\nSitemap: {SITE_BASE}/sitemap.xml\n", encoding="utf-8")
 
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
+
+    # Kebijakan cache eksplisit. Tanpa ini Cloudflare tidak mengirim
+    # Cache-Control sama sekali, dan browser menebak sendiri kapan CSS basi —
+    # itulah sebabnya perubahan tidak terlihat walau deploy-nya sudah benar.
+    # Aset boleh di-cache lama karena URL-nya sudah berversi hash;
+    # HTML harus selalu diperiksa ulang supaya perubahan langsung terlihat.
+    (DOCS / "_headers").write_text(
+        "/*\n"
+        "  X-Content-Type-Options: nosniff\n"
+        "\n"
+        "/theme.css\n"
+        "  Cache-Control: public, max-age=31536000, immutable\n"
+        "\n"
+        "/app.js\n"
+        "  Cache-Control: public, max-age=31536000, immutable\n"
+        "\n"
+        "/index.html\n"
+        "  Cache-Control: public, max-age=0, must-revalidate\n"
+        "\n"
+        "/cakupan.html\n"
+        "  Cache-Control: public, max-age=0, must-revalidate\n"
+        "\n"
+        "/tentang.html\n"
+        "  Cache-Control: public, max-age=0, must-revalidate\n"
+        "\n"
+        "/pidato/*\n"
+        "  Cache-Control: public, max-age=300\n"
+        "\n"
+        "/data/*\n"
+        "  Cache-Control: public, max-age=3600\n",
+        encoding="utf-8")
 
     total_bytes = sum(f.stat().st_size for f in DOCS.rglob("*") if f.is_file())
     print(f"OK  {len(speeches)} halaman pidato + 3 halaman utama")

@@ -151,7 +151,35 @@ def main() -> int:
                 continue
             words[w] += 1
     top_words = [{"word": w, "count": c, "per_1000": round(c / total_tokens * 1000, 2)}
-                 for w, c in words.most_common(24)]
+                 for w, c in words.most_common(60)]
+
+    # Sebaran panjang pidato — untuk histogram.
+    buckets = [(0, 500), (500, 1000), (1000, 1500), (1500, 2000), (2000, 3000),
+               (3000, 4000), (4000, 6000), (6000, 10**9)]
+    labels = ["<500", "500–1k", "1k–1,5k", "1,5k–2k", "2k–3k", "3k–4k", "4k–6k", ">6k"]
+    hist = []
+    for (lo, hi), lab in zip(buckets, labels):
+        n = sum(1 for s in speeches if lo <= (s["token_count"] or 0) < hi)
+        hist.append({"label": lab, "count": n})
+    max_hist = max((h["count"] for h in hist), default=1)
+
+    # Kata terbanyak per tahun — untuk melihat pergeseran kosakata
+    per_year_words = []
+    for y in sorted(years):
+        sub = [s for s in speeches if s["date"].startswith(y)]
+        tk = sum(s["token_count"] or 0 for s in sub)
+        c = Counter()
+        for s in sub:
+            for w in re.findall(r"[a-z][a-z'-]{2,}", text_of(s).lower()):
+                if w in STOP or w in PRONOUNS or len(w) < 4:
+                    continue
+                c[w] += 1
+        per_year_words.append({
+            "year": y, "tokens": tk,
+            "top": [{"word": w, "count": n,
+                     "per_1000": round(n / tk * 1000, 2) if tk else 0}
+                    for w, n in c.most_common(8)],
+        })
 
     # ---------- panjang pidato ----------
     toks = sorted((s["token_count"] or 0) for s in speeches)
@@ -176,6 +204,9 @@ def main() -> int:
         "kita_saya_ratio": ratio,
         "framing_per_year": per_year_framing,
         "top_words": top_words,
+        "length_histogram": hist,
+        "length_histogram_max": max_hist,
+        "per_year_words": per_year_words,
         "per_year": [{"year": y, "speeches": years[y], "tokens": year_tokens[y]}
                      for y in sorted(years)],
     }

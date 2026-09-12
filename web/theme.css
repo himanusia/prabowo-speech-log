@@ -111,6 +111,8 @@ body {
   font-size: var(--step-0);
   line-height: var(--lh);
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1, "liga" 1;
 }
 
 a { color: var(--primary); text-decoration: none; }
@@ -243,124 +245,333 @@ h3 { font-size: var(--step-1); }
 
 .stat__l { color: var(--muted-fg); font-size: var(--step--1); }
 
-/* ------------------------------------------------------- latar belakang */
+/* ------------------------------------------------------- tekstur latar */
 
-/* Siluet tipis satu warna. Warnanya dari CSS, bentuknya dari mask PNG,
-   jadi satu berkas melayani tema terang dan gelap. */
-.bg-figure {
-  position: fixed;
-  right: -3rem;
-  bottom: -3rem;
-  width: min(44rem, 74vw);
-  aspect-ratio: 420 / 590;
-  background-color: var(--primary);
-  -webkit-mask-image: url('prabowo-mask.png');
-  mask-image: url('prabowo-mask.png');
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-  -webkit-mask-size: contain;
-  mask-size: contain;
-  -webkit-mask-position: bottom right;
-  mask-position: bottom right;
-  opacity: 0.10;
-  pointer-events: none;
-  user-select: none;
-  z-index: 0;
+/* Butiran halus, meniru noise Hermes Desktop.
+   Hermes memakai shader WebGL; di sini ditiru dengan feTurbulence di dalam
+   SVG data-URI, jadi nol JavaScript, nol WebGL, nol permintaan jaringan.
+   Parameternya mengikuti punya Hermes: butiran rapat, warna terang,
+   opacity rendah supaya terbaca sebagai tekstur, bukan bercak. */
+:root {
+  --grain-opacity: 0.30;
+  --grain-blend: multiply;
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
 }
 
-:root[data-theme='dark'] .bg-figure { opacity: 0.16; }
+:root[data-theme='dark'] {
+  --grain-opacity: 0.14;
+  --grain-blend: screen;
+}
 
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme='light']) .bg-figure { opacity: 0.16; }
+  :root:not([data-theme='light']) {
+    --grain-opacity: 0.14;
+    --grain-blend: screen;
+  }
 }
 
-@media (max-width: 60rem) {
-  .bg-figure { width: 34rem; right: -6rem; opacity: 0.085; }
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: var(--grain-opacity);
+  mix-blend-mode: var(--grain-blend);
+  background-image: var(--grain);
+  background-size: 160px 160px;
 }
 
-@media print { .bg-figure { display: none; } }
-
+/* Isi harus di atas tekstur. */
 .top, main, footer { position: relative; z-index: 1; }
 
-/* ------------------------------------------------------------ pengukur */
+@media print { body::before { display: none; } }
 
-.meter {
-  display: grid;
-  grid-template-columns: minmax(7rem, 12rem) 1fr 5.5rem;
-  gap: 0.7rem;
-  align-items: center;
-  padding: 0.3rem 0;
+/* ------------------------------------------------------- tipografi tegas */
+
+:root {
+  --step--2: 0.72rem;
+  --step--1: 0.82rem;
+  --step-0: 0.94rem;
+  --step-1: 1.05rem;
+  --step-2: 1.35rem;
+  --step-3: 1.85rem;
+  --step-4: 2.6rem;
+  --step-5: 3.4rem;
 }
 
-.meter__label {
+/* ------------------------------------------------------------ dasbor */
+
+.dash {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 1rem;
+}
+
+.card {
+  grid-column: span 12;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.1rem 1.25rem 1.25rem;
+}
+
+.card__h {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.card__h h2 {
+  margin: 0;
+  font-size: var(--step-2);
+  letter-spacing: -0.025em;
+  font-weight: 750;
+}
+
+.card__h .unit {
+  font-family: var(--font-mono);
   font-size: var(--step--1);
+  color: var(--muted-fg);
+  text-align: right;
+  flex-shrink: 0;
+}
+
+@media (min-width: 60rem) {
+  .c6 { grid-column: span 6; }
+  .c7 { grid-column: span 7; }
+  .c5 { grid-column: span 5; }
+  .c4 { grid-column: span 4; }
+  .c8 { grid-column: span 8; }
+  .c3 { grid-column: span 3; }
+}
+
+/* --------------------------------------------------------- angka besar */
+
+.hero {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  gap: 0.6rem;
+}
+
+.hero__i {
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card);
+  min-width: 0;
+}
+
+
+
+.hero__n {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--step-5);
+  font-weight: 800;
+  line-height: 0.95;
+  letter-spacing: -0.05em;
+  font-variant-numeric: tabular-nums;
+  color: var(--fg);
+}
+
+.hero__n--accent { color: var(--primary); }
+
+.hero__l {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+/* -------------------------------------------------------- batang besar */
+
+.bars { display: grid; gap: 0.5rem; }
+
+.brow {
+  display: grid;
+  grid-template-columns: minmax(6rem, 10rem) 1fr minmax(3.6rem, auto);
+  gap: 0.7rem;
+  align-items: center;
+}
+
+.brow__k {
+  font-size: var(--step-0);
+  font-weight: 600;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-.meter__track {
-  display: flex;
-  height: 0.6rem;
-  background: color-mix(in srgb, var(--border) 70%, var(--bg));
-  border-radius: 999px;
+.brow__t {
+  height: 1.35rem;
+  background: color-mix(in srgb, var(--border) 55%, var(--bg));
+  border-radius: 4px;
   overflow: hidden;
+  display: flex;
 }
 
-.meter__fill {
-  display: block;              /* WAJIB: span inline tidak menerima width */
+.brow__f {
+  display: block;
   height: 100%;
   background: var(--primary);
-  border-radius: 999px;
+  border-radius: 4px;
   min-width: 3px;
 }
 
-.meter__val {
+.brow__f--soft { background: color-mix(in srgb, var(--primary) 42%, var(--border)); }
+
+.brow__v {
   font-family: var(--font-mono);
-  font-size: var(--step--1);
-  color: var(--muted-fg);
+  font-size: var(--step-0);
+  font-weight: 700;
   text-align: right;
   font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
 }
-
-.meter__val b { color: var(--fg); font-weight: 650; }
 
 @media (max-width: 46rem) {
-  .meter { grid-template-columns: 1fr 4.5rem; }
-  .meter__track { grid-column: 1 / -1; }
+  .brow { grid-template-columns: 1fr auto; }
+  .brow__t { grid-column: 1 / -1; grid-row: 2; }
 }
 
-.sect { margin-top: 2.25rem; }
+/* ------------------------------------------------------------- awan kata */
 
-.sect__head { display: flex; align-items: baseline; gap: 0.75rem; margin-bottom: 0.6rem; flex-wrap: wrap; }
-.sect__head h2 { margin: 0; font-size: var(--step-2); }
-.sect__head .hint { margin: 0; }
-
-.grid2 {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
-  gap: 1.5rem 2.5rem;
+.cloud {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.6rem;
+  line-height: 1.1;
 }
 
-.words { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.cloud__w {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--fg);
+  white-space: nowrap;
+}
 
-.word {
+.cloud__w b {
   font-family: var(--font-mono);
-  font-size: var(--step--1);
-  padding: 0.2rem 0.5rem;
-  border: var(--rule);
-  border-radius: 999px;
-  background: var(--card);
+  font-weight: 400;
+  font-size: 0.5em;
+  color: var(--muted-fg);
+  margin-left: 0.15em;
+  letter-spacing: 0;
 }
 
-.word b { color: var(--primary); font-weight: 650; }
+.cloud__w--1 { color: var(--primary); }
+.cloud__w--2 { color: color-mix(in srgb, var(--primary) 78%, var(--fg)); }
+.cloud__w--3 { color: color-mix(in srgb, var(--primary) 45%, var(--fg)); }
+
+/* ------------------------------------------------------------ histogram */
+
+.hist {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  gap: 0.45rem;
+  align-items: end;
+  height: 13rem;
+}
+
+.hist__c { display: grid; align-content: end; gap: 0.3rem; text-align: center; min-width: 0; }
+
+.hist__n {
+  font-family: var(--font-mono);
+  font-size: var(--step-0);
+  font-weight: 700;
+  line-height: 1;
+}
+
+.hist__b {
+  background: linear-gradient(180deg, var(--primary), color-mix(in srgb, var(--primary) 62%, var(--border)));
+  border-radius: 4px 4px 0 0;
+  min-height: 4px;
+}
+
+.hist__b--zero { background: color-mix(in srgb, var(--border) 70%, var(--bg)); }
+
+.hist__l {
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  font-family: var(--font-mono);
+  transform: rotate(-38deg);
+  transform-origin: center;
+  white-space: nowrap;
+  margin-top: 0.5rem;
+  height: 2.2rem;
+}
+
+/* ------------------------------------------------------------- peta panas */
+
+.heat {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(3.4rem, 1fr));
+  gap: 0.3rem;
+}
+
+.heat__c {
+  aspect-ratio: 1;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  display: grid;
+  place-content: center;
+  font-family: var(--font-mono);
+  line-height: 1.15;
+}
+
+.heat__c--0 {
+  border-style: dashed;
+  color: var(--muted-fg);
+  background: repeating-linear-gradient(45deg, transparent, transparent 4px,
+    color-mix(in srgb, var(--border) 40%, transparent) 4px,
+    color-mix(in srgb, var(--border) 40%, transparent) 8px);
+}
+
+.heat__m { font-size: var(--step--2); opacity: 0.8; letter-spacing: -0.02em; }
+.heat__n { font-size: var(--step-1); font-weight: 700; }
+
+/* ------------------------------------------------------------- catatan */
+
+.sub {
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.legend {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  margin-top: 0.75rem;
+}
+
+.legend__s {
+  width: 1.1rem;
+  height: 1.1rem;
+  border-radius: 3px;
+  border: 1px solid var(--border);
+}
 
 .note-inline {
-  border-left: 3px solid var(--border-strong);
-  padding-left: 0.8rem;
+  border-left: 3px solid color-mix(in srgb, var(--primary) 45%, var(--border));
+  padding-left: 0.7rem;
   color: var(--muted-fg);
   font-size: var(--step--1);
-  margin: 0.6rem 0 0;
+  margin: 0.9rem 0 0;
+  line-height: 1.5;
 }
 
 /* ------------------------------------------------------------------ chip */

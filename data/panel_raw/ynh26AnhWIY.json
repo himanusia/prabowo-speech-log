@@ -1,0 +1,86 @@
+{
+ "id": "ynh26AnhWIY",
+ "url": "https://www.youtube.com/watch?v=ynh26AnhWIY",
+ "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Beijing, 9 November 2024",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "raw_snippets": [
+  {
+   "text": "Selamat pagi rekan-rekan sekalian terima kasih sudah menunggu ee seperti kita ketahui bersama pada pagi hari ini bapak",
+   "start": 0.0,
+   "duration": 9
+  },
+  {
+   "text": "Presiden akan memulai ee rangkaian kunjungan kenegaraan beliau di",
+   "start": 9.0,
+   "duration": 10
+  },
+  {
+   "text": "Beijing hari ini beliau akan mulai dengan pertemuan",
+   "start": 19.0,
+   "duration": 7
+  },
+  {
+   "text": "bilateral dengan pimpinan ee kongres rakyat Tiongkok yang mulia cau",
+   "start": 26.0,
+   "duration": 8
+  },
+  {
+   "text": "Leci yang kemudian nanti akan dilanjutkan juga dengan pertemuan bilateral dengan eh Premier atau perdana menteri",
+   "start": 34.0,
+   "duration": 9
+  },
+  {
+   "text": "rrt yang mulia Li Jang setelah itu",
+   "start": 43.0,
+   "duration": 7
+  },
+  {
+   "text": "Eh pak presiden juga akan ke tianamen Square untuk meletakkan karangan bunga",
+   "start": 50.0,
+   "duration": 9
+  },
+  {
+   "text": "di sana dan rencananya Nanti malam akan ada pertemuan bilateral antara bapak",
+   "start": 59.0,
+   "duration": 8
+  },
+  {
+   "text": "Presiden dan Presiden x jining eh yang dilanjutkan dengan cara makan malam",
+   "start": 67.0,
+   "duration": 8
+  },
+  {
+   "text": "kenegaraan Saya kira itu garis besar e acara pada pagi hari ini sesuai dengan",
+   "start": 75.0,
+   "duration": 6
+  },
+  {
+   "text": "eh jadwal yang diberikan kepada pihak kita dalam rangka",
+   "start": 81.0,
+   "duration": 6
+  },
+  {
+   "text": "kunjungan kenegaraan kali ini foreign",
+   "start": 87.0,
+   "duration": 3
+  }
+ ]
+}
