@@ -108,7 +108,6 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
     <div class="brand">
       <span class="brand__mark">&#9632;</span>
       <span class="brand__name"><a href="{rel_root}index.html" style="color:inherit">{e(SITE_NAME)}</a></span>
-      <span class="brand__sub">arsip yang bisa ditelusuri</span>
     </div>
     <nav class="nav" aria-label="Navigasi utama">
       <button type="button" data-go="{rel_root}index.html" {'aria-current="page"' if active == 'daftar' else ''}>Daftar</button>
@@ -122,12 +121,8 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
 {body}
 </main>
 <footer class="wrap">
-  <p>{e(SITE_NAME)} &middot; sumber: rekaman publik YouTube &middot;
-  setiap kutipan bertaut ke video dan detik asalnya &middot;
-  <a href="{rel_root}data/index.json">data JSON</a> &middot;
-  <a href="{rel_root}sitemap.xml">sitemap</a></p>
-  <p class="hint">Transkrip berasal dari caption YouTube (auto-generated). Bukan transkrip dari audio,
-  dan bukan sumber resmi. Selalu periksa video aslinya sebelum mengutip.</p>
+  <p>{e(SITE_NAME)} &middot; <a href="{rel_root}data/index.json">data JSON</a></p>
+  <p class="hint">Transkrip dari caption YouTube (auto-generated). Periksa video aslinya sebelum mengutip.</p>
 </footer>
 <script src="{rel_root}app.js" defer></script>
 </body>
@@ -165,33 +160,22 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict) -> str:
       <div class="stat"><span class="stat__n">{e(format_span(coverage))}</span><span class="stat__l">rentang</span></div>
     </div>"""
 
-    body = f"""  <p class="eyebrow">Daftar</p>
-  <h1>{e(SITE_NAME)}</h1>
-  <p class="lede">{e(SITE_TAGLINE)} Tiap halaman memuat transkrip penuh dengan cap waktu,
-  daftar semua unggahan yang memuat pidato yang sama, dan alasan pemilihan sumbernya.</p>
+    body = f"""  <h1>{e(SITE_NAME)}</h1>
+  <p class="lede">Setiap kutipan bertaut ke video dan detiknya.</p>
 
 {stats}
 
   <section style="margin-top:1.5rem">
     <div class="searchbar">
-      <input id="q" type="search" placeholder="Saring pidato — judul, kanal, tanggal, kata di transkrip…" aria-label="Saring pidato" autocomplete="off">
+      <input id="q" type="search" placeholder="Cari pidato atau isi transkrip…" aria-label="Cari pidato" autocomplete="off">
       <span class="count" id="count">{len(speeches)} pidato</span>
     </div>
-    <p class="hint" style="margin:.4rem 0 0">Penyaring ini berjalan di browser.
-    Tanpa JavaScript, seluruh daftar di bawah tetap lengkap dan bisa dibaca.</p>
   </section>
 
   <ol class="list" id="list" style="margin-top:1rem;list-style:none;padding:0">
 {chr(10).join(rows)}
   </ol>
   <p class="empty" id="empty" hidden>Tidak ada yang cocok.</p>
-
-  <section class="note" style="margin-top:2rem">
-    <h3>Yang perlu diketahui sebelum membaca angka di halaman ini</h3>
-    <ul>
-{chr(10).join(f"      <li>{e(x)}</li>" for x in coverage.get("known_limits", []))}
-    </ul>
-  </section>
 """
     return page(
         f"{SITE_NAME} — daftar {len(speeches)} pidato",
@@ -320,9 +304,7 @@ def render_speech(s: dict, prev: dict | None, nxt: dict | None) -> str:
 
   <section style="margin-top:1.25rem">
     <h2 style="font-size:var(--step-1)">Semua unggahan pidato ini</h2>
-    <p class="hint" style="margin:0 0 .5rem">Pidato yang sama sering diunggah banyak kanal.
-    Hanya satu yang dipakai untuk hitungan; sisanya tetap dicatat supaya bisa diperiksa —
-    termasuk unggahan yang panjangnya tidak wajar karena terpadding pembawa acara.</p>
+    <p class="hint" style="margin:0 0 .5rem">Hanya satu yang dipakai untuk hitungan. Sisanya tetap dicatat.</p>
     <div style="overflow-x:auto">
     <table class="tbl">
       <thead><tr><th></th><th>Video</th><th>Kanal</th><th>Diunggah</th><th class="num">Token</th><th>Diambil via</th><th>Status</th></tr></thead>
@@ -338,14 +320,12 @@ def render_speech(s: dict, prev: dict | None, nxt: dict | None) -> str:
   <section style="margin-top:1.25rem">
     <h2 style="font-size:var(--step-1)">Topik yang terdeteksi</h2>
     <div class="chips">{topic_chips or '<span class="hint">tidak ada</span>'}</div>
-    <p class="hint" style="margin:.5rem 0 0">Ini sinyal leksikal, bukan klasifikasi.
-    Kategori dihitung dari daftar kata di profil, jadi bisa salah baca konteks.</p>
+    <p class="hint" style="margin:.5rem 0 0">Sinyal leksikal, bukan klasifikasi.</p>
   </section>
 
   <section style="margin-top:1.75rem">
     <h2 style="font-size:var(--step-1)">Transkrip</h2>
-    <p class="hint" style="margin:0 0 .5rem">Cap waktu di kiri bertaut ke detik yang tepat di YouTube.
-    Teks di bawah ini ada di dalam HTML halaman — bukan diambil lewat JavaScript.</p>
+    <p class="hint" style="margin:0 0 .5rem">Cap waktu di kiri bertaut ke detik yang tepat di YouTube.</p>
     <div class="transcript">
 {chr(10).join(paras)}
     </div>
@@ -402,10 +382,8 @@ def render_coverage(coverage: dict, meta: dict, speeches: list[dict]) -> str:
     methods = " ".join(f'<span class="chip">{e(k)} {v}</span>'
                        for k, v in sorted((coverage.get("fetch_methods") or {}).items(), key=lambda kv: -kv[1]))
 
-    body = f"""  <p class="eyebrow">Cakupan</p>
-  <h1>Seberapa lengkap arsip ini</h1>
-  <p class="lede">Halaman ini menunjukkan apa yang <strong>tidak</strong> ada, bukan cuma apa yang ada.
-  Arsip yang mengklaim lengkap tanpa menunjukkan lubangnya tidak bisa dipercaya.</p>
+    body = f"""  <h1>Seberapa lengkap arsip ini</h1>
+  <p class="lede">Halaman ini menunjukkan apa yang <strong>tidak</strong> ada, bukan cuma apa yang ada.</p>
 
   <div class="stat-row">
     <div class="stat"><span class="stat__n">{fmt_int(coverage.get('span_days'))}</span><span class="stat__l">hari rentang</span></div>
@@ -416,8 +394,7 @@ def render_coverage(coverage: dict, meta: dict, speeches: list[dict]) -> str:
 
   <section style="margin-top:1.5rem">
     <h2 style="font-size:var(--step-1)">Pidato per bulan</h2>
-    <p class="hint" style="margin:0 0 .5rem">Kotak bergaris putus-putus = bulan tanpa pidato sama sekali.
-    Angka di dalam kotak = jumlah pidato bulan itu.</p>
+    <p class="hint" style="margin:0 0 .5rem">Kotak bergaris putus-putus = bulan tanpa pidato.</p>
     <div class="cov">
 {chr(10).join("      " + c for c in cells)}
     </div>
@@ -469,10 +446,8 @@ def render_coverage(coverage: dict, meta: dict, speeches: list[dict]) -> str:
 # ---------------------------------------------------------------------- tentang
 
 def render_about(meta: dict, coverage: dict) -> str:
-    body = f"""  <p class="eyebrow">Tentang</p>
-  <h1>Metode dan janji penelusuran</h1>
-  <p class="lede">Setiap angka di situs ini harus bisa ditelusuri balik sampai ke video dan detiknya.
-  Kalau tidak bisa, angka itu tidak layak ditampilkan.</p>
+    body = f"""  <h1>Metode</h1>
+  <p class="lede">Setiap angka di situs ini bisa ditelusuri balik sampai ke video dan detiknya.</p>
 
   <section class="panel">
     <h2 style="font-size:var(--step-1)">Satu pidato, satu halaman</h2>

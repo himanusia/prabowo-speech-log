@@ -1,0 +1,686 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pratinjau — Arsip Pidato Presiden Prabowo</title>
+<style>
+/* ---------------------------------------------------------------------------
+   theme.css — sistem desain arsip pidato.
+
+   Token diturunkan dari tema Hermes Desktop (struktur --dt-*), dengan palet
+   merah-putih pastel. Aturannya: yang pastel adalah PERMUKAAN (accent/secondary),
+   sementara `primary` tetap cukup gelap supaya lulus kontras WCAG AA saat
+   dipakai untuk teks. Dua-duanya pastel = teks tenggelam.
+
+   Tipografi mengikuti Hermes: sans = SF Pro Text / system-ui, mono = SF Mono / Menlo.
+   --------------------------------------------------------------------------- */
+
+:root {
+  color-scheme: light;
+
+  --bg: #fffbfa;
+  --fg: #241f20;
+  --card: #fdf6f5;
+  --card-fg: #241f20;
+  --muted: #f7efee;
+  --muted-fg: #7a6b6a;
+  --popover: #ffffff;
+  --border: #ecdbd9;
+  --border-strong: #dcc6c3;
+
+  --primary: #b8453f;
+  --primary-fg: #ffffff;
+  --secondary: #f9e3e1;
+  --secondary-fg: #241f20;
+  --accent: #f9e3e1;
+  --accent-fg: #241f20;
+  --ring: #b8453f;
+
+  --ok: #2f7d4f;
+  --warn: #9a6a00;
+  --danger: #c0392b;
+
+  --font-sans: 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    system-ui, sans-serif;
+  --font-mono: 'SF Mono', Menlo, Monaco, 'Courier Prime', ui-monospace, monospace;
+
+  --step--1: 0.78rem;
+  --step-0: 0.875rem;
+  --step-1: 1rem;
+  --step-2: 1.2rem;
+  --step-3: 1.5rem;
+  --step-4: 1.95rem;
+
+  --lh: 1.55;
+  --radius: 6px;
+  --rule: 1px solid var(--border);
+  --maxw: 78rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    color-scheme: dark;
+    --bg: #161213;
+    --fg: #f2eaea;
+    --card: #1d1819;
+    --card-fg: #f2eaea;
+    --muted: #241e1f;
+    --muted-fg: #a3969a;
+    --popover: #221c1d;
+    --border: #35292a;
+    --border-strong: #4a3a3b;
+    --primary: #e8908a;
+    --primary-fg: #2a1416;
+    --secondary: #2e1f21;
+    --secondary-fg: #f2eaea;
+    --accent: #2e1f21;
+    --accent-fg: #f2eaea;
+    --ring: #e8908a;
+    --ok: #6fc48f;
+    --warn: #d9a441;
+    --danger: #f08076;
+  }
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #161213;
+  --fg: #f2eaea;
+  --card: #1d1819;
+  --card-fg: #f2eaea;
+  --muted: #241e1f;
+  --muted-fg: #a3969a;
+  --popover: #221c1d;
+  --border: #35292a;
+  --border-strong: #4a3a3b;
+  --primary: #e8908a;
+  --primary-fg: #2a1416;
+  --secondary: #2e1f21;
+  --secondary-fg: #f2eaea;
+  --accent: #2e1f21;
+  --accent-fg: #f2eaea;
+  --ring: #e8908a;
+  --ok: #6fc48f;
+  --warn: #d9a441;
+  --danger: #f08076;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  font-size: var(--step-0);
+  line-height: var(--lh);
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--primary); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 2px; }
+
+code, .mono, kbd, samp { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+
+:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* ---------------------------------------------------------------- kerangka */
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.25rem; }
+
+.top {
+  position: sticky; top: 0; z-index: 30;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: var(--rule);
+}
+
+.top__row {
+  display: flex; align-items: center; gap: 1rem;
+  min-height: 3.25rem;
+}
+
+.brand { display: flex; align-items: baseline; gap: .6rem; min-width: 0; }
+
+.brand__mark {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: var(--step-1);
+  color: var(--primary);
+  letter-spacing: -.02em;
+}
+
+.brand__name {
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.brand__sub {
+  color: var(--muted-fg);
+  font-size: var(--step--1);
+  white-space: nowrap;
+}
+
+.nav { display: flex; gap: .25rem; margin-left: auto; }
+
+.nav button {
+  font: inherit;
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  background: none;
+  border: 1px solid transparent;
+  padding: .35rem .7rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.nav button:hover { color: var(--fg); background: var(--muted); }
+
+.nav button[aria-current='page'] {
+  color: var(--primary);
+  background: var(--accent);
+  border-color: var(--border);
+  font-weight: 600;
+}
+
+main { padding: 1.75rem 0 4rem; }
+
+.view[hidden] { display: none; }
+
+/* --------------------------------------------------------------- tipografi */
+
+h1, h2, h3 { line-height: 1.25; margin: 0 0 .5rem; font-weight: 650; letter-spacing: -.011em; }
+
+h1 { font-size: var(--step-3); }
+h2 { font-size: var(--step-2); }
+h3 { font-size: var(--step-1); }
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  text-transform: uppercase;
+  letter-spacing: .09em;
+  color: var(--muted-fg);
+  margin: 0 0 .4rem;
+}
+
+.lede { color: var(--muted-fg); max-width: 62ch; margin: 0 0 1.25rem; }
+
+.hint { color: var(--muted-fg); font-size: var(--step--1); }
+
+/* ------------------------------------------------------------------ kartu */
+
+.panel {
+  background: var(--card);
+  border: var(--rule);
+  border-radius: var(--radius);
+  padding: 1rem 1.15rem;
+}
+
+.panel + .panel { margin-top: .85rem; }
+
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  border: var(--rule);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--card);
+}
+
+.stat { padding: .7rem .9rem; border-right: var(--rule); }
+.stat:last-child { border-right: 0; }
+
+.stat__n {
+  font-family: var(--font-mono);
+  font-size: var(--step-2);
+  font-weight: 650;
+  letter-spacing: -.02em;
+  display: block;
+}
+
+.stat__l { color: var(--muted-fg); font-size: var(--step--1); }
+
+/* ------------------------------------------------------------------ chip */
+
+.chip {
+  display: inline-flex; align-items: center; gap: .32rem;
+  font-size: var(--step--1);
+  font-family: var(--font-mono);
+  padding: .1rem .45rem;
+  border: var(--rule);
+  border-radius: 999px;
+  color: var(--muted-fg);
+  background: var(--muted);
+  white-space: nowrap;
+}
+
+.chip--accent { background: var(--accent); color: var(--accent-fg); border-color: var(--border-strong); }
+.chip--warn { background: color-mix(in srgb, var(--warn) 15%, var(--bg)); color: var(--warn); }
+.chip--ok { background: color-mix(in srgb, var(--ok) 15%, var(--bg)); color: var(--ok); }
+
+.chips { display: flex; flex-wrap: wrap; gap: .3rem; }
+
+/* ------------------------------------------------------------------ tabel */
+
+.tbl { width: 100%; border-collapse: collapse; font-size: var(--step-0); }
+
+.tbl th, .tbl td {
+  text-align: left;
+  padding: .5rem .6rem;
+  border-bottom: var(--rule);
+  vertical-align: top;
+}
+
+.tbl th {
+  font-size: var(--step--1);
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--muted-fg);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.tbl tbody tr:hover { background: var(--muted); }
+.tbl .num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; text-align: right; }
+
+/* --------------------------------------------------------------- pencarian */
+
+.searchbar { display: flex; gap: .5rem; align-items: center; flex-wrap: wrap; }
+
+.searchbar input[type='search'],
+.searchbar input[type='text'] {
+  flex: 1 1 20rem;
+  min-width: 0;
+  font: inherit;
+  font-size: var(--step-1);
+  padding: .6rem .8rem;
+  color: var(--fg);
+  background: var(--popover);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+}
+
+.searchbar input::placeholder { color: var(--muted-fg); }
+
+.count { font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted-fg); }
+
+/* ----------------------------------------------------------------- daftar */
+
+.list { list-style: none; margin: 0; padding: 0; border-top: var(--rule); }
+
+.list li { border-bottom: var(--rule); }
+
+.entry {
+  display: grid;
+  grid-template-columns: 6.2rem 1fr auto;
+  gap: .9rem;
+  align-items: baseline;
+  padding: .7rem .35rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+.entry:hover { background: var(--muted); text-decoration: none; }
+
+.entry__date { font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted-fg); }
+.entry__title { font-weight: 550; }
+.entry__meta { font-family: var(--font-mono); font-size: var(--step--1); color: var(--muted-fg); white-space: nowrap; }
+
+@media (max-width: 46rem) {
+  .entry { grid-template-columns: 5.4rem 1fr; }
+  .entry__meta { grid-column: 2; }
+}
+
+/* -------------------------------------------------------------- transkrip */
+
+.transcript { border-top: var(--rule); }
+
+.para {
+  display: grid;
+  grid-template-columns: 4.4rem 1fr;
+  gap: .9rem;
+  padding: .55rem .35rem;
+  border-bottom: var(--rule);
+  scroll-margin-top: 4.25rem;
+}
+
+.para:hover { background: var(--muted); }
+
+.para__t {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  text-align: right;
+  padding-top: .12rem;
+} 
+
+.para__t a { color: inherit; }
+.para__t a:hover { color: var(--primary); }
+
+.para__text { max-width: 74ch; }
+
+.para mark { background: color-mix(in srgb, var(--primary) 22%, transparent); color: inherit; padding: 0 .1em; }
+
+@media (max-width: 46rem) {
+  .para { grid-template-columns: 1fr; gap: .2rem; }
+  .para__t { text-align: left; }
+}
+
+/* ---------------------------------------------------------- sorotan kutipan */
+
+.hit {
+  border-left: 3px solid var(--primary);
+  padding: .5rem .8rem;
+  background: var(--card);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+.hit + .hit { margin-top: .5rem; }
+
+.hit__meta {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  margin-bottom: .2rem;
+}
+
+.hit__text { max-width: 80ch; }
+
+/* ---------------------------------------------------------------- cakupan */
+
+.cov {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(3.6rem, 1fr));
+  gap: .3rem;
+  margin: .75rem 0 0;
+}
+
+.cov__cell {
+  border: var(--rule);
+  border-radius: 4px;
+  padding: .3rem .35rem;
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  line-height: 1.3;
+  background: var(--card);
+  text-align: center;
+}
+
+.cov__cell--empty {
+  color: var(--muted-fg);
+  background: repeating-linear-gradient(
+    45deg, transparent, transparent 5px, var(--muted) 5px, var(--muted) 10px
+  );
+  border-style: dashed;
+}
+
+.cov__m { display: block; color: var(--muted-fg); }
+.cov__n { display: block; font-weight: 650; }
+
+/* ------------------------------------------------------- bilah komposisi */
+
+.bar { display: flex; height: 1.6rem; border: var(--rule); border-radius: 4px; overflow: hidden; }
+.bar__seg { display: grid; place-items: center; font-family: var(--font-mono); font-size: var(--step--1); }
+.bar__seg--big { background: var(--primary); color: var(--primary-fg); }
+.bar__seg--rest { background: var(--accent); color: var(--accent-fg); }
+
+/* ----------------------------------------------------------------- catatan */
+
+.note {
+  border: 1px solid var(--border-strong);
+  border-left: 3px solid var(--warn);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  background: color-mix(in srgb, var(--warn) 7%, var(--bg));
+  padding: .7rem .9rem;
+}
+
+.note h3 { margin: 0 0 .3rem; font-size: var(--step-0); }
+.note ul { margin: .3rem 0 0; padding-left: 1.1rem; }
+.note li { margin: .18rem 0; }
+
+footer {
+  border-top: var(--rule);
+  padding: 1rem 0 2.5rem;
+  color: var(--muted-fg);
+  font-size: var(--step--1);
+}
+
+.empty { padding: 2rem .5rem; color: var(--muted-fg); text-align: center; }
+
+.crumb { font-size: var(--step--1); color: var(--muted-fg); margin-bottom: .6rem; }
+.crumb a { color: var(--muted-fg); }
+
+.dl { display: grid; grid-template-columns: max-content 1fr; gap: .15rem 1rem; margin: 0; }
+.dl dt { color: var(--muted-fg); font-size: var(--step--1); }
+.dl dd { margin: 0; }
+
+@media print {
+  .top, .searchbar, .nav { display: none; }
+  body { background: #fff; color: #000; }
+}
+
+
+/* --- khusus pratinjau: halaman mandiri, jadi boleh menimpa dasar --- */
+html, body { background: var(--bg); }
+.pv-bar {
+  position: sticky; top: 0; z-index: 40;
+  display: flex; align-items: center; gap: .75rem; flex-wrap: wrap;
+  padding: .5rem 1.25rem;
+  background: var(--accent); color: var(--accent-fg);
+  border-bottom: var(--rule); font-size: var(--step--1);
+}
+.pv-bar b { font-family: var(--font-mono); letter-spacing: .04em; text-transform: uppercase; }
+.pv-bar button {
+  font: inherit; font-family: var(--font-mono); cursor: pointer;
+  background: var(--bg); color: var(--fg); border: var(--rule);
+  border-radius: var(--radius); padding: .25rem .6rem;
+}
+.pv-bar .sp { margin-left: auto; color: var(--muted-fg); }
+.pv-sec { border-top: 2px solid var(--border-strong); margin-top: 2.5rem; padding-top: 1.25rem; }
+.pv-sec > .wrap > .eyebrow { color: var(--primary); }
+</style>
+</head>
+<body>
+
+<div class="pv-bar">
+  <b>Pratinjau</b>
+  <span>tema, daftar, halaman pidato, cakupan</span>
+  <button id="tg" type="button">Terang / Gelap</button>
+  <span class="sp">data asli &middot; CSS asli</span>
+</div>
+
+<!-- ============ 1. DAFTAR ============ -->
+<div class="wrap" style="padding-top:1.75rem">
+  <p class="eyebrow">Daftar</p>
+  <h1>Arsip Pidato Presiden Prabowo</h1>
+  <p class="lede">Log pidato, sambutan, dan pernyataan resmi — lengkap dengan sumber
+  yang bisa ditelusuri. Tiap halaman memuat transkrip penuh dengan cap waktu, daftar
+  semua unggahan yang memuat pidato yang sama, dan alasan pemilihan sumbernya.</p>
+
+  <div class="stat-row">
+    <div class="stat"><span class="stat__n">67</span><span class="stat__l">pidato</span></div>
+    <div class="stat"><span class="stat__n">128</span><span class="stat__l">unggahan tercatat</span></div>
+    <div class="stat"><span class="stat__n">153.699</span><span class="stat__l">token</span></div>
+    <div class="stat"><span class="stat__n">2024–2026</span><span class="stat__l">rentang</span></div>
+  </div>
+
+  <div style="margin-top:1.5rem">
+    <div class="searchbar">
+      <input type="search" placeholder="Saring pidato — judul, kanal, tanggal, kata di transkrip…">
+      <span class="count">67 pidato</span>
+    </div>
+    <p class="hint" style="margin:.4rem 0 0">Penyaring ini berjalan di browser.
+    Tanpa JavaScript, seluruh daftar tetap lengkap dan bisa dibaca.</p>
+  </div>
+
+  <ol class="list" style="margin-top:1rem;list-style:none;padding:0">
+      <li><a class="entry" href="#">
+        <span class="entry__date">2024-08-27</span>
+        <span class="entry__title">Kocak! Pidato Prabowo Subianto di Penutupan Kongres III NasDem: Ingin &quot;Brewokan&quot; Seperti Surya Paloh
+          <span class="entry__meta" style="display:block">KOMPASTV SUKABUMI &middot; 40:05 &middot; 2.648 token &middot; 1 unggahan</span>
+        </span>
+        <span class="entry__meta">media</span>
+      </a></li>
+      <li><a class="entry" href="#">
+        <span class="entry__date">2024-10-09</span>
+        <span class="entry__title">[FULL] Pidato Prabowo di Investor Summit: Bocorkan Susunan Kabinet hingga Bicara Konflik Geopolitik
+          <span class="entry__meta" style="display:block">KOMPASTV &middot; 50:15 &middot; 3.315 token &middot; 1 unggahan</span>
+        </span>
+        <span class="entry__meta">full_media</span>
+      </a></li>
+      <li><a class="entry" href="#">
+        <span class="entry__date">2024-10-20</span>
+        <span class="entry__title">[FULL] Pidato Perdana Presiden RI Ke-8 Prabowo Subianto | Beritasatu
+          <span class="entry__meta" style="display:block">BeritaSatu &middot; 53:15 &middot; 3.655 token &middot; 2 unggahan</span>
+        </span>
+        <span class="entry__meta">full_media</span>
+      </a></li>
+      <li><a class="entry" href="#">
+        <span class="entry__date">2024-11-29</span>
+        <span class="entry__title">[FULL] Pidato Presiden Prabowo Subianto Umumkan Kenaikan Gaji Guru di Puncak Hari Guru Nasional
+          <span class="entry__meta" style="display:block">KOMPASTV DEWATA &middot; 31:45 &middot; 1.788 token &middot; 1 unggahan</span>
+        </span>
+        <span class="entry__meta">full_media</span>
+      </a></li>
+      <li><a class="entry" href="#">
+        <span class="entry__date">2024-12-04</span>
+        <span class="entry__title">[FULL] Pidato Presiden Prabowo di Pembukaan Sidang Tanwir &amp; Resepsi Milad ke-112 Muhammadiyah
+          <span class="entry__meta" style="display:block">METRO TV  &middot; 52:47 &middot; 3.552 token &middot; 2 unggahan</span>
+        </span>
+        <span class="entry__meta">full_media</span>
+      </a></li>
+      <li><a class="entry" href="#">
+        <span class="entry__date">2024-12-19</span>
+        <span class="entry__title">[FULL] Pidato Prabowo di Kairo: Singgung Gus Dur, Hitung Koruptor yang Ditangkap
+          <span class="entry__meta" style="display:block">Kompas.com &middot; 36:58 &middot; 2.388 token &middot; 1 unggahan</span>
+        </span>
+        <span class="entry__meta">full_media</span>
+      </a></li>
+  </ol>
+  <p class="hint">&hellip; 61 pidato lainnya di halaman penuh.</p>
+
+  <div class="note" style="margin-top:1.5rem">
+    <h3>Yang perlu diketahui sebelum membaca angka di halaman ini</h3>
+    <ul><li>Penemuan lewat pencarian YouTube, yang condong ke hasil terbaru — periode lama lebih tipis bukan karena Prabowo lebih jarang bicara.</li><li>Semua caption auto-generated, bukan transkrip dari audio.</li><li>Yang masuk hanya pidato, sambutan, dan pernyataan resmi — bukan wawancara, konferensi pers pendek, atau potongan klip.</li><li>Pidato berbahasa asing (forum internasional) tidak punya track Indonesia sehingga tidak masuk.</li></ul>
+  </div>
+</div>
+
+<!-- ============ 2. HALAMAN PIDATO ============ -->
+<div class="pv-sec"><div class="wrap">
+  <p class="eyebrow">Halaman pidato</p>
+  <p class="crumb"><a href="#">Daftar</a> / 2026-07-24</p>
+  <h1>FULL! Pidato Prabowo di Harlah PKB, Singgung Prabowonomics hingga Tegaskan Jalankan Amanat UUD 1945</h1>
+
+  <div class="chips" style="margin:.5rem 0 1rem">
+    <span class="chip chip--accent">24 Jul 2026</span>
+    <span class="chip">KOMPASTV</span>
+    <span class="chip">48:40</span>
+    <span class="chip">full_media</span>
+    <span class="chip">caption_api</span>
+    <span class="chip">2 unggahan</span>
+  </div>
+
+  <section class="panel">
+    <h2 style="font-size:var(--step-1)">Sumber</h2>
+    <dl class="dl">
+      <dt>Video kanonik</dt><dd><a href="#">vyp6JITYFM8</a></dd>
+      <dt>Transkrip dari</dt><dd class="mono">engine/data/prabowo/raw/vyp6JITYFM8.json</dd>
+      <dt>Jumlah token</dt><dd class="mono">2.730</dd>
+      <dt>Kata unik</dt><dd class="mono">900</dd>
+      <dt>Durasi</dt><dd class="mono">48:40 (2.920 detik)</dd>
+      <dt>Metode</dt><dd class="mono">caption_api</dd>
+      <dt>Commit engine</dt><dd class="mono">7ad3851ac0ad</dd>
+    </dl>
+  </section>
+
+  <section style="margin-top:1.25rem">
+    <h2 style="font-size:var(--step-1)">Semua unggahan pidato ini</h2>
+    <p class="hint" style="margin:0 0 .5rem">Pidato yang sama sering diunggah banyak kanal.
+    Hanya satu yang dipakai untuk hitungan; sisanya tetap dicatat supaya bisa diperiksa.</p>
+    <div style="overflow-x:auto"><table class="tbl">
+      <thead><tr><th></th><th>Video</th><th>Kanal</th><th>Diunggah</th><th class="num">Token</th><th>Diambil via</th><th>Status</th></tr></thead>
+      <tbody>        <tr><td><span class="chip chip--ok">kanonik</span></td>
+          <td><a href="#">vyp6JITYFM8</a><div class="hint">FULL! Pidato Prabowo di Harlah PKB, Singgung Prabowonomics hingga Tega</div></td>
+          <td>KOMPASTV</td>
+          <td class="mono">2026-07-24</td>
+          <td class="num">2.730</td>
+          <td>caption API</td><td>ok</td></tr>
+        <tr><td></td>
+          <td><a href="#">kGOo1E2KmLw</a><div class="hint">LIVE Pidato Prabowo di Harlah PKB</div></td>
+          <td>CNN Indonesia</td>
+          <td class="mono">2026-07-23</td>
+          <td class="num">2.793</td>
+          <td>panel transkrip</td><td>ok</td></tr></tbody>
+    </table></div>
+  </section>
+
+  <section style="margin-top:1.75rem">
+    <h2 style="font-size:var(--step-1)">Transkrip</h2>
+    <p class="hint" style="margin:0 0 .5rem">Cap waktu di kiri bertaut ke detik yang tepat di YouTube.
+    Perhatikan <mark>sorotan</mark> pada bagian yang memuat sinonim "antek asing".</p>
+    <div class="transcript">    <div class="para"><div class="para__t"><a href="#">34:02</a></div>
+      <div class="para__text">Ada juga media-media yang ya kan walaupun kita sudah perbaiki 67.000 Ibu sekolah dia cari sekolah yang belum diperbaiki, dia foto besar taruh di halaman pertama. Aduh, dia kira kita enggak ngerti ya. Saya enggak sebutlah media mana itu. Kalau saya sebut ya pada saatnya akan saya sebut.</div></div>
+    <div class="para"><div class="para__t"><a href="#">34:36</a></div>
+      <div class="para__text">Kalian sudah tahulah. Kita negara demokrasi kita tidak antikritik, tapi kita bukan anak kecil. Kita tahu ada orang-orang Indonesia yang senang mengabdi dan berbakti kepada bangsa lain. Itu yang dulu kita sebut <mark>Londo Ireng</mark>. Ulul ya. Yang ikut Belanda perang lawan kita.</div></div>
+    <div class="para"><div class="para__t"><a href="#">35:28</a></div>
+      <div class="para__text">Lond-<mark>londo Ireng</mark> ini sampai sekarang masih ada. Hanya dia sekarang pakai baju lain kan. wartawan, jurnalis, apa itu ee pengamat ee LSM. LSM harus kita tanya yang gaji lo siapa? Yang bayar listrikmu siapa? Yang bayar handphone-emu siapa? Cari pekerjaan susah. Kita tahu kan?</div></div>
+    <div class="para"><div class="para__t"><a href="#">36:15</a></div>
+      <div class="para__text">Jadi, Saudara-saudara, kita paham ada kampanye besar untuk kita goyah. Indonesia akan collapse. Bulan April akan collaps. Eh, April liwat enggak collaps. Bulan Mei akan collaps. Bulan Mei lewat enggak? Bulan Juni akan collaps. Bulan Juli akan collaps. Tiap bulan akan collaps.</div></div></div>
+    <p class="hint">&hellip; 56 paragraf lainnya.</p>
+  </section>
+</div></div>
+
+<!-- ============ 3. CAKUPAN ============ -->
+<div class="pv-sec"><div class="wrap">
+  <p class="eyebrow">Cakupan</p>
+  <h1>Seberapa lengkap arsip ini</h1>
+  <p class="lede">Halaman ini menunjukkan apa yang <strong>tidak</strong> ada, bukan cuma
+  apa yang ada. Arsip yang mengklaim lengkap tanpa menunjukkan lubangnya tidak bisa dipercaya.</p>
+
+  <div class="stat-row">
+    <div class="stat"><span class="stat__n">743</span><span class="stat__l">hari rentang</span></div>
+    <div class="stat"><span class="stat__n">67</span><span class="stat__l">pidato</span></div>
+    <div class="stat"><span class="stat__n">3</span><span class="stat__l">bulan kosong</span></div>
+    <div class="stat"><span class="stat__n">2024-08-27</span><span class="stat__l">pidato pertama</span></div>
+  </div>
+
+  <h2 style="font-size:var(--step-1);margin-top:1.5rem">Pidato per bulan</h2>
+  <p class="hint" style="margin:0 0 .5rem">Kotak bergaris putus-putus = bulan tanpa pidato sama sekali.</p>
+  <div class="cov"><div class="cov__cell"><span class="cov__m">24-08</span><span class="cov__n">1</span></div><div class="cov__cell cov__cell--empty"><span class="cov__m">24-09</span><span class="cov__n">·</span></div><div class="cov__cell"><span class="cov__m">24-10</span><span class="cov__n">2</span></div><div class="cov__cell"><span class="cov__m">24-11</span><span class="cov__n">1</span></div><div class="cov__cell"><span class="cov__m">24-12</span><span class="cov__n">3</span></div><div class="cov__cell cov__cell--empty"><span class="cov__m">25-01</span><span class="cov__n">·</span></div><div class="cov__cell"><span class="cov__m">25-02</span><span class="cov__n">1</span></div><div class="cov__cell cov__cell--empty"><span class="cov__m">25-03</span><span class="cov__n">·</span></div><div class="cov__cell"><span class="cov__m">25-04</span><span class="cov__n">1</span></div><div class="cov__cell"><span class="cov__m">25-05</span><span class="cov__n">1</span></div><div class="cov__cell"><span class="cov__m">25-06</span><span class="cov__n">2</span></div><div class="cov__cell"><span class="cov__m">25-07</span><span class="cov__n">3</span></div><div class="cov__cell"><span class="cov__m">25-08</span><span class="cov__n">3</span></div><div class="cov__cell"><span class="cov__m">25-09</span><span class="cov__n">1</span></div><div class="cov__cell"><span class="cov__m">25-10</span><span class="cov__n">2</span></div><div class="cov__cell"><span class="cov__m">25-11</span><span class="cov__n">3</span></div><div class="cov__cell"><span class="cov__m">25-12</span><span class="cov__n">2</span></div><div class="cov__cell"><span class="cov__m">26-01</span><span class="cov__n">2</span></div><div class="cov__cell"><span class="cov__m">26-02</span><span class="cov__n">2</span></div><div class="cov__cell"><span class="cov__m">26-03</span><span class="cov__n">2</span></div><div class="cov__cell"><span class="cov__m">26-04</span><span class="cov__n">1</span></div><div class="cov__cell"><span class="cov__m">26-05</span><span class="cov__n">6</span></div><div class="cov__cell"><span class="cov__m">26-06</span><span class="cov__n">7</span></div><div class="cov__cell"><span class="cov__m">26-07</span><span class="cov__n">12</span></div><div class="cov__cell"><span class="cov__m">26-08</span><span class="cov__n">7</span></div><div class="cov__cell"><span class="cov__m">26-09</span><span class="cov__n">2</span></div></div>
+
+  <h2 style="font-size:var(--step-1);margin-top:1.5rem">Bulan tanpa pidato</h2>
+  <p><code>2024-09</code>, <code>2025-01</code>, <code>2025-03</code></p>
+
+  <h2 style="font-size:var(--step-1);margin-top:1.5rem">Komposisi sumber</h2>
+  <div class="chips"><span class="chip">full_media 40</span> <span class="chip">media 15</span> <span class="chip">official 12</span></div>
+  <p class="hint" style="margin:.9rem 0 .4rem">Cara pengambilan transkrip</p>
+  <div class="chips"><span class="chip">caption_api 34</span> <span class="chip">transcript_panel 28</span> <span class="chip">baseline_import 5</span></div>
+</div></div>
+
+<script>
+(function(){
+  var tg = document.getElementById('tg');
+  var saved = null;
+  try { saved = localStorage.getItem('pv'); } catch(e) {}
+  if (saved) document.documentElement.dataset.theme = saved;
+  tg.addEventListener('click', function(){
+    var cur = document.documentElement.dataset.theme;
+    if (!cur) cur = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    var next = cur === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = next;
+    try { localStorage.setItem('pv', next); } catch(e) {}
+  });
+})();
+</script>
+</body>
+</html>
