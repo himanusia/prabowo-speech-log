@@ -1,19 +1,19 @@
 {
  "id": "2026-07-01-di-hut-ke-80-bhayangkara-hukum-tak-boleh",
- "video_id": "HBuj_rOU5yA",
+ "video_id": "MExLyHOhkkE",
  "date": "2026-07-01",
  "title": "FULL! Pidato Prabowo di HUT ke-80 Bhayangkara: Hukum Tak Boleh Tajam ke Bawah, Polri Lindungi Rakyat",
- "channel": "KOMPASTV",
+ "channel": "METRO TV ",
  "youtube_url": "https://www.youtube.com/watch?v=HBuj_rOU5yA",
- "duration_s": 1935,
- "duration_hms": "32:15",
+ "duration_s": 1950,
+ "duration_hms": "32:30",
  "source_tier": "full_media",
  "fetch_method": "caption_api",
- "snippet_count": 615,
- "token_count": 1822,
- "unique_word_count": 679,
- "canonical_overridden": false,
- "canonical_note": null,
+ "snippet_count": 618,
+ "token_count": 1841,
+ "unique_word_count": 692,
+ "canonical_overridden": true,
+ "canonical_note": "ada unggahan berpembuka bersih yang lebih panjang; HBuj_rOU5yA → MExLyHOhkkE",
  "duplicate_count": 3,
  "uploads": [
   {
@@ -38,26 +38,6 @@
    "canonical": true
   },
   {
-   "video_id": "CpQyrmIrasU",
-   "url": "https://www.youtube.com/watch?v=CpQyrmIrasU",
-   "title": "[FULL] Pidato Presiden Prabowo di Peringatan ke-80 Hari Bhayangkara | Liputan 6",
-   "channel": "Liputan6",
-   "upload_date": "2026-07-01",
-   "duration_s": 1590,
-   "source_tier": "full_media",
-   "fetch_method": "caption_api",
-   "token_count": 1470,
-   "status": "ok",
-   "language": "Indonesian (auto-generated)",
-   "is_generated": true,
-   "snippet_count": 506,
-   "discovery_origins": [
-    "search_pidato"
-   ],
-   "selection_reason": "media_full_speech_candidate",
-   "canonical": false
-  },
-  {
    "video_id": "MExLyHOhkkE",
    "url": "https://www.youtube.com/watch?v=MExLyHOhkkE",
    "title": "Live Event - Pidato Presiden Prabowo di HUT ke-80 Bhayangkara (FULL)",
@@ -74,6 +54,26 @@
    "discovery_origins": [
     "search_pidato",
     "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "CpQyrmIrasU",
+   "url": "https://www.youtube.com/watch?v=CpQyrmIrasU",
+   "title": "[FULL] Pidato Presiden Prabowo di Peringatan ke-80 Hari Bhayangkara | Liputan 6",
+   "channel": "Liputan6",
+   "upload_date": "2026-07-01",
+   "duration_s": 1590,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1470,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 506,
+   "discovery_origins": [
+    "search_pidato"
    ],
    "selection_reason": "media_full_speech_candidate",
    "canonical": false
@@ -135,224 +135,224 @@
  },
  "transcript": [
   {
-   "t": 5.4,
-   "d": 59.72,
-   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Selamat pagi, salam sejahtera bagi kita sekalian. Shalom. Salve, Om swastiastu. Namo buddhaya, salam kebajikan. Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka."
+   "t": 6.0,
+   "d": 60.12,
+   "text": "Amanat inspektur upacara. Pasukan diistirahatkan. Parade istirahat di tempat. [berteriak] Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Selamat pagi, salam sejahtera bagi kita sekalian. Shalom, salve, om swastiastu. Namo buddhaya, salam kebajikan."
   },
   {
-   "t": 34.84,
-   "d": 67.56,
-   "text": "Yang saya hormati Presiden ketujuh Republik Indonesia, Bapak Joko Widodo, istri Presiden keempat Republik Indonesia, Ibu Hajah Sinta Nuriah Wahid, Wakil Presiden ke-10 dan ke-12 Republik Indonesia, Bapak Muhammad Yusuf Kala, istri Wakil Presiden keesemb pilihan Republik Indonesia, Ibu Soraya Hamzah Khas."
+   "t": 49.8,
+   "d": 86.68,
+   "text": "Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka. Yang saya hormati Presiden ketujuh Republik Indonesia, Bapak Joko Widodo, istri Presiden Keempat Republik Indonesia, Ibu Hajah Sinta Nuriah Wahid, Wakil Presiden ke-10 dan ke-12 Republik Indonesia, Bapak Muhammad Yusuf Kala, istri Wakil Presiden keesemb Pan Republik Indonesia, Ibu Soraya Hamzah Khas."
   },
   {
-   "t": 69.16,
-   "d": 125.96,
-   "text": "Yang saya hormati Kepala Kepolisian Negara Republik Indonesia Jenderal Polisi Listio Sigit Prabowo beserta seluruh prajurit Polri di mana pun berada. Para pimpinan lembaga tinggi negara, Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani beserta para wakil ketua DPR RI, Ketua Dewan Perwakilan Daerah, Saudara Sultan Bakhtiar Najamuddin, Ketua Mahkamah Agung Prof. Sunartto, para menteri koordinator, para menteri, jaksa Agung, Panglima TNI, beserta para kepala staf angkatan, Kepala Badan, Wakil Menteri, serta seluruh anggota kabinet merah putih."
+   "t": 93.04,
+   "d": 126.16,
+   "text": "Yang saya hormati Kepala Kepolisian Negara Republik Indonesia Jenderal Polisi Listio Sigit Prabowo beserta seluruh prajurit Polri di mana pun berada. Para pimpinan lembaga tinggi negara, Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani beserta para wakil ketua DPR RI, Ketua Dewan Perwakilan Daerah, Saudara Sultan Bakhtiar Najudin, Ketua Mahkamah Agung Prof. Sunartto, para menteri koordinator, para menteri, jaksa Agung, Panglima TNI, beserta para kepala staf angkatan, Kepala Badan, Wakil Menteri, serta seluruh anggota kabinet Merah Putih."
   },
   {
-   "t": 135.64,
-   "d": 99.52,
-   "text": "Para mantan Kapolri Jenderal Polisi Punawiraan Rusman Hadi Kapolri 1988 sampai 2000. Jenderal Polisi Purnawirawan Bimantoro Kapolri 2000 sampai 2001. Jenderal Polisi Purawirawan Prof. Dai Baktiar Kapolri 2001-2005 Jenderal Polisi Punawirawan Sutanto, Kapolri 2005-2008 Jenderal Polisi Purnawirawan Bambang Hendarso Danuri, Kapolri 2008-2010 Jenderal Polisi Purawirawan Timur Pradopo, Kapolri 2010-2013."
+   "t": 159.6,
+   "d": 97.68,
+   "text": "Para mantan Kapolri, Jenderal Polisi Punawira Rusman Hadi, Kapolri 1988 sampai 2000. Jenderal Polisi Purnawirawan Bimantoro Kapolri 2000 sampai 2001. Jenderal Polisi Purawirawan Prof. Dai Baktiar Kapolri 2001-2005 Jenderal Polisi Purnawirawan Sutanto. Kapolri 2005-2008 Jenderal Polisi Purnawirawan Bambang Hendarso Danuri Kapolri 2008-2010 Jenderal Polisi Prawirawan Timur Pradopo Kapolri 2010-2013."
   },
   {
-   "t": 190.6,
-   "d": 72.48,
-   "text": "Jenderal Polisi Purawirawan Sutarman, Kapolri 2013-2015, Jenderal Polisi Purawiirawan Badrudin Haiti, Kapolri 2015-2016 Jenderal Polisi Purnawirawan Muhammad Tito Karnavian, Kapolri 2016-2019. Para duta besar negara sahabat yang hadir, serta para AT Keberusian Negara-negara sahabat yang hadir, para pimpinan organisasi keagamaan dan kemasyarakatan."
+   "t": 214.48,
+   "d": 91.96,
+   "text": "Jenderal Polisi Purawirawan Sutarman, Kapolri 2013-2015 Jenderal Polisi Purawirawan Badrudin Haiti. Kapolri 2015-2016 Jenderal Polisi Purnawirawan Muhammad Tito Karnavian, Kapolri 2016-2019. para duta besar negara sahabat yang hadir serta para atsi keperusian negara-negara sahabat yang hadir, para pimpinan organisasi keagamaan dan kemasyarakatan dan yang saya banggakan para anggota kepolisian negara Republik Indonesia di mana pun engkau berada."
   },
   {
-   "t": 233.16,
-   "d": 79.92,
-   "text": "Dan yang saya banggakan para anggota kepolisian Negara Republik Indonesia di mana pun Engkau berada. Para hadirin, tamu undangan, serta seluruh masyarakat Indonesia sebangsa dan setanah air. Pertama-tama sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Kuasa, Tuhan Maha Besar, bagi umat Islam Allah Subhanahu wa taala."
+   "t": 268.44,
+   "d": 57.28,
+   "text": "Para hadirin, tamu undangan, serta seluruh masyarakat Indonesia sebangsa dan setanah air. Pertama-tama sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Kuasa, Tuhan Maha Besar, bagi umat Islam Allah Subhanahu wa taala."
   },
   {
-   "t": 275.84,
-   "d": 79.64,
-   "text": "yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyalah kita memohon pertolongan. Kita bersyukur atas segala karunia yang diberikan kepada bangsa dan negara kita atas kedamaian yang masih kita alami atas nafas dan kesehatan yang masih diberikan kepada kita sehingga kita dapat berkumpul pagi hari ini di tempat yang terhormat ini untuk hadir pada acara peringatan Hari Bayangkara ke-80."
+   "t": 299.76,
+   "d": 79.56,
+   "text": "yang memiliki sekalian alam. Hanya kepadalah kita berdoa dan hanya kepadanyalah kita memohon pertolongan. Kita bersyukur atas segala karunia yang diberikan kepada bangsa dan negara kita atas kedamaian yang masih kita alami, atas nafas dan kesehatan yang masih diberikan kepada kita sehingga kita dapat berkumpul pagi hari ini di tempat yang terhormat ini untuk hadir pada acara peringatan Hari Bayangkara ke-80."
   },
   {
-   "t": 317.16,
-   "d": 55.32,
-   "text": "Atas nama pemerintah Republik Indonesia dan seluruh rakyat Indonesia, saya ucapkan selamat hari bayangkara ke-80 kepada seluruh keluarga besar kepolisian negara Republik Indonesia di manapun saudara bertugas. Tema peringatan tahun ini untuk masyarakat adalah sangat tepat."
+   "t": 341.08,
+   "d": 55.96,
+   "text": "Atas nama pemerintah Republik Indonesia dan seluruh rakyat Indonesia, saya ucapkan selamat hari bayangkara ke-80 kepada seluruh keluarga besar kepolisian negara Republik Indonesia di manaun saudara bertugas. Tema peringatan tahun ini po untuk masyarakat adalah sangat tepat."
   },
   {
-   "t": 347.56,
-   "d": 79.52,
-   "text": "Ini adalah jati diri. Ini adalah arah pengabdian. Ini adalah dan harus terus menjadi kompas moral setiap insan bayangkara. Polri hadir untuk rakyat. Polri bekerja untuk rakyat. Polri harus melindungi rakyat. Polri mengabdi kepada bangsa dan negara. Saudara-saudara, bangsa Indonesia sedang berada pada persimpangan sejarah."
+   "t": 371.44,
+   "d": 79.44,
+   "text": "Ini adalah jati diri. Ini adalah arah pengabdian. Ini adalah dan harus terus menjadi kompas moral setiap insan bayangkara. WRI hadir untuk rakyat. WRI bekerja untuk rakyat. WRI harus melindungi rakyat. Polri mengabdi kepada bangsa dan negara. Saudara-saudara, bangsa Indonesia sedang berada pada persimpangan sejarah."
   },
   {
-   "t": 391.64,
-   "d": 66.12,
-   "text": "Kita sedang melakukan transformasi besar. Di tengah dunia yang penuh ketidakpastian, di tengah dunia penuh ketegangan dan konflik. Kita sedang melakukan transformasi ekonomi, transformasi birokrasi, transformasi pendidikan, transformasi pangan, transformasi energi."
+   "t": 415.52,
+   "d": 66.16,
+   "text": "Kita sedang melakukan transformasi besar. Di tengah dunia yang penuh ketidakpastian, di tengah dunia penuh [mendengus] ketegangan dan konflik. Kita sedang melakukan transformasi ekonomi, transformasi birokrasi, transformasi pendidikan, transformasi pangan, transformasi energi."
   },
   {
-   "t": 427.56,
-   "d": 69.88,
+   "t": 451.48,
+   "d": 69.8,
    "text": "Transformasi kita adalah agar Indonesia menjadi negara yang modern, negara yang makmur dalam keadilan. Negara yang berdiri di atas kedaulatan rakyat. Saudara-saudara sekalian, saya ingin mengingatkan kepada kita semua, tidak mungkin ada kemakmuran tanpa stabilitas."
   },
   {
-   "t": 467.4,
+   "t": 491.28,
    "d": 125.8,
-   "text": "Tidak mungkin ada pembangunan tanpa keamanan. Tidak mungkin ada pertumbuhan ekonomi, ada investasi tanpa kepastian hukum. Tidak mungkin ada keadilan tanpa pemerintah yang bersih dan pemerintah yang penuh kompetensi. tidak akan pernah ada kesejahteraan tanpa ketertiban dan tidak mungkin ada negara yang kuat tanpa aparat negara yang dipercaya rakyat, yang setia kepada rakyat dan yang melind lindungi rakyat."
+   "text": "Tidak mungkin ada pembangunan tanpa keamanan. Tidak mungkin ada pertumbuhan ekonomi, ada investasi tanpa kepastian hukum. Tidak mungkin ada keadilan tanpa pemerintah yang bersih dan pemerintah yang penuh kompetensi. Tidak akan pernah ada kesejahteraan tanpa ketertiban dan tidak mungkin ada negara yang kuat tanpa aparat negara yang dipercaya rakyat, yang setia kepada rakyat dan yang melindung lindungi rakyat."
   },
   {
-   "t": 533.36,
-   "d": 95.36,
+   "t": 557.28,
+   "d": 95.4,
    "text": "Karena itu peran kepolisian sangat penting, sangat strategis, sangat menentukan. Sejarah peradaban manusia menunjukkan suatu peradaban yang berhasil memiliki kepolisian yang unggul. Itulah peradaban yang langgeng, yang bertahan lama, yang berhasil. Negara-negara yang gagal di antaranya adalah tidak mampu memiliki kepolisian yang baik."
   },
   {
-   "t": 583.52,
+   "t": 607.48,
    "d": 108.76,
-   "text": "Saudara-saudara, saya memberi penghargaan yang setinggi-tingginya kepada seluruh anggota Kepolisian Republik Indonesia yang siang dan malam menjaga keamanan dan ketertiban bangsa. Saya juga melihat sendiri bagaimana Polri beserta institusi-institusi pemerintah Republik Indonesia lainnya terus bertransformasi, terus perbaiki diri, terus bekerja keras membangun kepolisian yang unggul."
+   "text": "Saudara-saudara, saya memberi penghargaan yang setinggi-tingginya kepada seluruh anggota Kepolisian Republik Indonesia yang siang dan malam menjaga keamanan dan ketertiban bangsa. Saya juga melihat sendiri bagaimana Polri beserta institusi-institusi pemerintah Republik Indonesia lainnya terus bertransformasi, terus memperbaiki diri, terus bekerja keras membangun kepolisian yang unggul."
   },
   {
-   "t": 635.32,
-   "d": 76.44,
-   "text": "yang di dambakkan oleh rakyat Indonesia. Saya juga mengatakan bahwa kepolisian [berdehem] Republik Indonesia memiliki ciri khas tertentu. Kepolisian Indonesia lahir dari perang kemerdekaan. Dalam perang kemerdekaan kita, kepolisian ikut aktif ikut dalam pertempuran."
+   "t": 659.28,
+   "d": 120.16,
+   "text": "yang di dambakkan oleh rakyat Indonesia. Saya juga mengatakan bahwa kepolisian Republik Indonesia memiliki ciri khas tertentu. Kepolisian Indonesia lahir dari perang kemerdekaan. Dalam perang kemerdekaan kita, kepolisian ikut aktif ikut dalam pertempuran. Karena itu kepolisian Republik Indonesia memiliki sifat selalu di tengah-tengah rakyat dan harus selalu membela rakyat, merasakan penderitaan rakyat."
   },
   {
-   "t": 675.88,
-   "d": 99.92,
-   "text": "Karena itu kepolisian Republik Indonesia memiliki sifat selalu di tengah-tengah rakyat dan harus selalu membela rakyat, merasakan penderitaan rakyat. Karena itu saya sangat menyampaikan penghargaan saya bagaimana giatnya kepolisian Republik Indonesia sekarang ikut aktif terlibat dalam upaya ketahanan pangan rakyat kita."
+   "t": 722.04,
+   "d": 106.48,
+   "text": "Karena itu saya sangat menyampaikan penghargaan saya bagaimana giatnya kepolisian Republik Indonesia sekarang ikut aktif terlibat dalam upaya ketahanan pangan rakyat kita. Polri selalu berada di garis depan apabila masyarakat mengalami bencana. PORI terus membantu menjaga stabilitas harga-harga di Republik Indonesia."
   },
   {
-   "t": 727.52,
-   "d": 100.52,
-   "text": "PRI selalu berada di garis depan apabila masyarakat mengalami bencana. Polri terus membantu menjaga stabilitas harga-harga di Republik Indonesia. Tokoh-tokoh kepolisian aktif di semua sektor kenegaraan. Polri membantu secara aktif dan menentukan dalam mendukung program-program strategis seperti program makan bergizi gratis."
+   "t": 776.96,
+   "d": 96.28,
+   "text": "Tokoh-tokoh kepolisian aktif di semua sektor kenegaraan. Polri membantu secara aktif dan menentukan dalam mendukung program-program strategis seperti program makan bergizi gratis. WRI hadir di desa-desa, Wri hadir di perbatasan. Saya melihat sendiri bagaimana program ketahanan pangan Polri sangat membantu ketahanan pangan nasional khususnya di bidang produksi jagung."
   },
   {
-   "t": 780.68,
-   "d": 66.56,
-   "text": "Polri hadir di desa-desa, Polri hadir di perbatasan. Saya melihat sendiri bagaimana program ketahanan pangan Polri sangat membantu ketahanan pangan nasional khususnya di bidang produksi jagung. Saya melihat sendiri Polri membangun gudang-gudang pangan yang sangat dibutuhkan."
+   "t": 835.16,
+   "d": 104.52,
+   "text": "Saya melihat sendiri Polri membangun gudang-gudang pangan yang sangat dibutuhkan. Gudang-gudang dengan kualitas yang sangat baik. Wri juga ikut aktif membangun lebih dari 1000 satuan pelayanan pemunan gizi atau dapur-dapur untuk program MBG. Dan saya tidak ragu-ragu sampaikan di sini, dapur-dapur yang dibangun oleh Polri adalah dapur-dapur yang terbaik."
   },
   {
-   "t": 821.36,
-   "d": 84.04,
-   "text": "Gudang-gudang dengan kualitas yang sangat baik. WRI juga ikut aktif membangun lebih dari 1000 satuan pelayanan pemunan gizi atau dapur-dapur untuk program MBG. Dan saya tidak ragu-ragu sampaikan di sini, dapur-dapur yang dibangun oleh Polri adalah dapur-dapur yang terbaik."
-  },
-  {
-   "t": 870.88,
-   "d": 81.2,
+   "t": 894.84,
+   "d": 81.24,
    "text": "Dan ini bukan kata saya banyak pengamat, banyak peninjau dari lembaga-lembaga dunia yang datang ke Indonesia melihat dapur-dapur tersebut. Dan di antaranya sebagian besar yang dilihat dapur-dapur dari Polri. Polri juga terus membangun sumur bor air, jembatan jembatan dan membantu masyarakat yang terdampak bencana."
   },
   {
-   "t": 913.32,
-   "d": 124.2,
+   "t": 937.24,
+   "d": 121.4,
    "text": "Semangat inilah yang harus terus saudara-saudara pelihara. Saudara-saudara sekalian, keamanan tidak hanya berarti tidak adanya kejahatan. Keamanan berarti rakyat leluasa bekerja. Petani berani menanam, nelayan berani melaut, pengusaha berani investasi. Guru tenang mengajar, anak-anak tenang belajar, dan masyarakat dapat beribadah dengan damai sesuai agama dan kepercayaan masing-masing. dalam suasana yang rukun, dalam suasana penuh toleransi, Saudara-saudara, ini adalah kekuatan bangsa Indonesia."
   },
   {
-   "t": 983.16,
-   "d": 167.56,
-   "text": "Saya bersyukur bahwa stabilitas keamanan nasional terus terjaga. Memang setiap bangsa Indonesia akan bangkit selalu ada usaha-usaha untuk menghambat bahkan untuk mengganjal kebangkitan bangsa Indonesia. Tapi bangsa Indonesia sangat besar, sangat kuat. punya modal yang sangat besar sehingga percayalah bangsa kita akan bangkit terus bangsa kita akan transformasi menjadi bangsa yang kuat bangsa yang modern bangsa yang makmur di tengah keadilan saya juga mengapresiasi keberhasilan Polri bersama pertama TNI, Kementerian-kementerian, Pemerintah Daerah, BUMN dan seluruh pemangku kepentingan dalam mengamankan hari-hari besar, hari Natal, tahun baru, Idul Fitri dan hari-hari besar lainnya."
+   "t": 1007.08,
+   "d": 167.52,
+   "text": "Saya bersyukur bahwa stabilitas keamanan nasional terus terjaga. Memang setiap bangsa Indonesia akan bangkit selalu ada usaha-usaha untuk menghambat bahkan untuk mengganjal kebangkitan bangsa Indonesia. Tapi bangsa Indonesia sangat besar, sangat kuat. punya modal yang sangat besar sehingga percayalah bangsa kita akan bangkit terus bangsa kita akan transformasi menjadi bangsa yang kuat bangsa yang modern bangsa yang makmur di tengah keadilan saya juga mengapresiasi keberhasilan Polri bersama pertama TNI, kementerian-kementerian, pemerintah daerah, BUMN dan seluruh pemangku kepentingan dalam mengamankan hari-hari besar, hari Natal tahun baru, Idul Fitri dan hari-hari besar lainnya."
   },
   {
-   "t": 1073.2,
-   "d": 76.16,
+   "t": 1097.12,
+   "d": 76.32,
    "text": "Jutaan masyarakat dapat bepergian dan berkumpul bersama keluarganya dengan aman. Kecelakaan lalu lintas dapat ditekan. Pelayanan publik semakin baik. Keberhasilan seperti ini menunjukkan bahwa negara hadir setiap saat rakyat memerlukan. Saudara-saudara anggota Polri yang saya banggakan."
   },
   {
-   "t": 1110.56,
-   "d": 69.64,
+   "t": 1134.56,
+   "d": 69.48,
    "text": "Tantangan kita tidak semakin ringan. Dunia penuh konflik dan ketegangan. Perang di suatu belahan bumi berpengaruh kepada kita. Kejata kejahatan pun semakin canggih dan terus berubah. Ancaman berubah. Teknologi dapat juga dipakai dengan maksud-maksud yang jahat."
   },
   {
-   "t": 1146.68,
-   "d": 117.44,
-   "text": "Dengan demikian cara kerja kita juga harus menyesuaikan. Saudara-saudara, saya tekankan kembali narkotika adalah ancaman yang sangat besar bagi bangsa kita. Judi online, ancaman yang sangat merugikan bangsa kita. perdagangan orang, kejahatan, cyber, terorisme, korupsi, penyelundupan, kegiatan-kegiatan ilegal lainnya, tambang-tambang ilegal, perkebunan-perkebunan ilegal, praktik-praktik white color crime sangat merugikan bangsa kita."
+   "t": 1170.6,
+   "d": 113.8,
+   "text": "Dengan demikian cara kerja kita juga harus menyesuaikan. Saudara-saudara, saya tekankan kembali, narkotika adalah ancaman yang sangat besar bagi bangsa kita. Judi online, ancaman yang sangat merugikan bangsa kita. perdagangan orang, kejahatan, cyber, terorisme, korupsi, penyelundupan, kegiatan-kegiatan ilegal lainnya, tambang-tambang ilegal, perkebunan-perkebunan ilegal, praktik-praktik white color crime sangat merugikan bangsa kita."
   },
   {
-   "t": 1212.32,
+   "t": 1236.24,
    "d": 80.24,
-   "text": "Tapi saya apresiasi keberhasilan Polri bersama lembaga-lembaga lain terus membongkar dan mengungkap ribuan kasus narkotika dan bersama Komdigi memberantas judi online serta berhasil mempertahankan nol insiden terorisme dalam kurun waktu beberapa tahun terakhir."
+   "text": "Tapi saya apresiasi keberhasilan Polri bersama lembaga-lembaga lain terus membongkar dan mengungkap ribuan kasus narkotika dan bersama Komdiji memberantas judi online serta berhasil mempertahankan nol insiden terorisme dalam kurun waktu beberapa tahun terakhir."
   },
   {
-   "t": 1251.76,
-   "d": 87.48,
+   "t": 1275.68,
+   "d": 87.52,
    "text": "Ini prestasi yang perlu kita hargai. Tetapi saya juga mengatakan dan mengingatkan jangan kita lengah, jangan pernah cepat puas. Tantangan masih besar. Rakyat kita masih menderita kemiskinan. Dan kemiskinan ini adalah akibat langsung dari korupsi, dari penyelidupan, dan dari kegiatan-kegiatan ekonomi ilegal."
   },
   {
-   "t": 1306.24,
-   "d": 69.72,
-   "text": "Karena itu tantangan saudara, tantangan kita semua masih besar dan masih banyak. Saudara-saudara, negara kita adalah negara hukum. Karena itu hukum harus kita tegakkan, hukum harus dihormati dan dihargai. Hukum harus menjadi pelindung rakyat. Hukum harus memberi rasa aman kepada rakyat."
+   "t": 1330.2,
+   "d": 69.76,
+   "text": "Karena itu tantangan saudara, tantangan kita semua masih besar dan masih banyak. Saudara-saudara, negara kita [berdehem] adalah negara hukum. Karena itu hukum harus kita tegakkan, hukum harus dihormati dan dihargai. Hukum harus menjadi pelindung rakyat. Hukum harus memberi rasa aman kepada rakyat."
   },
   {
-   "t": 1344.88,
-   "d": 80.72,
+   "t": 1368.84,
+   "d": 80.8,
    "text": "yang jujur. Hukum harus menjadi tempat berlindung bagi mereka yang lemah. Hukum tidak boleh tajam ke bawah, tumpul ke atas. Hukum tidak boleh menjadi alat mereka-mereka yang punya uang. Hukum tidak boleh menjadi alat balas dendam politik. Hukum tidak boleh digunakan untuk kepentingan satu kelompok manapun."
   },
   {
-   "t": 1387.52,
+   "t": 1411.52,
    "d": 60.36,
    "text": "Tidak boleh ada kriminalisasi, tidak boleh ada penyalahgunaan wewenang, dan tidak boleh ada siapapun yang kebal terhadap hukum. Saya tekankan kembali, rakyat paling lemah harus mendapat perlindungan. Masyarakat yang mencari kebenaran dan keadilan harus dilayani."
   },
   {
-   "t": 1418.76,
-   "d": 71.16,
+   "t": 1442.76,
+   "d": 71.2,
    "text": "Orang yang benar harus merasa aman. Orang yang bersalah harus bertanggung jawab atas perbuatannya. Saudara-saudara sekalian, kita terus membangun kehidupan demokrasi kita. Kita menghormati kritik. Kritik adalah penting. Kita butuh kritik untuk mengingatkan kita. Kita butuh kritik untuk memperbaiki diri kita."
   },
   {
-   "t": 1456.64,
+   "t": 1480.64,
    "d": 82.44,
    "text": "Tapi keamanan demokrasi juga harus kita jaga. Janganlah demokrasi dibajak oleh mereka-mereka yang punya uang banyak. Janganlah demokrasi kita di rusak oleh kepentingan-kepentingan asing. Perbedaan pendapat tidak boleh berubah menjadi kebencian. Kita adalah semuanya anak bangsa Indonesia."
   },
   {
-   "t": 1497.28,
-   "d": 102.88,
-   "text": "Demokrasi kita harus berciri nilai-nilai bangsa Indonesia. Perbedaan jangan menjadi sumber perpecahan. Kita harus selalu mengutamakan persatuan. dan kerukunan di antara kita. Polri harus menjaga penjaga, harus menjadi penjaga demokrasi yang dewasa, menjamin setiap warga negara dapat menyampaikan pendapatnya secara damai dan pada saat yang sama menjaga agar hukum tetap tegak dan ketertiban tetap terpelihara."
+   "t": 1521.28,
+   "d": 102.92,
+   "text": "Demokrasi kita harus berciri nilai-nilai bangsa Indonesia. Perbedaan jangan menjadi sumber perpecahan. Kita harus selalu mengutamakan persatuan dan kerukunan di antara kita. Polri harus menjaga penjaga, harus menjadi penjaga demokrasi yang dewasa, menjamin setiap warga negara dapat menyampaikan pendapatnya secara damai dan pada saat yang sama menjaga agar hukum tetap tegak dan ketertiban tetap terpelihara."
   },
   {
-   "t": 1558.8,
+   "t": 1582.8,
    "d": 56.2,
-   "text": "Di momen hari ulang tahun Bayangkara ke-80, saya ingin menyampaikan beberapa pesan saya sebagai Presiden Republik Indonesia. Pertama, jagalah kepercayaan rakyat karena kepercayaan adalah senjata terkuat seorang polisi. Kedua, jadilah polisi yang dekat dengan rakyat."
+   "text": "Di momen hari ulang tahun Bayangkara ke-80, saya ingin menyampaikan beberapa pesan saya sebagai Presiden Republik Indonesia. Pertama, jagalah kepercayaan rakyat. Karena kepercayaan adalah senjata terkuat seorang polisi. Kedua, jadilah polisi yang dekat dengan rakyat."
   },
   {
-   "t": 1585.96,
+   "t": 1609.96,
    "d": 66.8,
    "text": "Datanglah ketika rakyat membutuhkan. Dengarkan rakyat, layani rakyat, lindungi rakyat. Jangan justru menyusahkan rakyat. Ingat, gaji kita sebagai alat negara adalah dari rakyat. semua perlengkapan kita dari rakyat. Karena itu kita harus benar-benar menjaga dan melindungi rakyat kita."
   },
   {
-   "t": 1626.12,
-   "d": 65.72,
+   "t": 1650.12,
+   "d": 65.68,
    "text": "Ketiga, tegakkan hukum dengan adil. Beranilah membela yang benar. Beranilah melindungi yang lemah. Jangan pernah takut kepada siapapun. Kita hanya takut kepada Tuhan yang Maha Esa. Keempat, terus tingkatkan profesionalisme saudara. Kuasai ilmu pengetahuan. Kuasai teknologi."
   },
   {
-   "t": 1660.84,
-   "d": 115.08,
-   "text": "Kuasai kecerdasan buatan. Kejahatan masa kini dan masa depan hanya bisa dikalahkan oleh aparat yang selalu belajar, yang cerdas, [mendengus] dan yang handal. Kelima, perkuat sinergi. Polri tidak bisa bekerja sendiri. harus selalu bersama institusi lain, bersama TNI, bersama pemerintah, bersama semua institusi pemerintah, bersama tokoh masyarakat, bersama ulama, bersama akademisi, bersama media, bersama pengusaha, bersama petani, nelayan, dan buruh bersama seluruh rakyat Indonesia."
+   "t": 1684.84,
+   "d": 81.52,
+   "text": "Kuasai kecerdasan buatan. Kejahatan masa kini dan masa depan hanya bisa dikalahkan oleh aparat. yang selalu belajar yang cerdas dan yang handal. Kelima, perkuat sinergi. Polri tidak bisa bekerja sendiri. Harus selalu bersama institusi lain, bersama TNI, bersama pemerintah, bersama semua institusi pemerintah, bersama tokoh masyarakat."
   },
   {
-   "t": 1719.32,
-   "d": 70.68,
-   "text": "Keenam, jangan pernah berhenti memperbaiki diri. Jangan sombong. Semakin berisi semakin menunduk. Rendah hati tidak berarti rendah diri. Justru mereka yang kuat akan semakin sopan dan semakin berperilaku baik. Institusi yang besar adalah institusi yang mau mendengar."
+   "t": 1725.36,
+   "d": 75.48,
+   "text": "bersama ulama, bersama akademisi, bersama media, bersama pengusaha, bersama petani, nelayan, dan buruh, bersama seluruh rakyat Indonesia. Keenam, jangan pernah berhenti memperbaiki diri. Jangan sombong. Semakin berisi semakin menunduk. Rendah hati tidak berarti rendah diri."
   },
   {
-   "t": 1760.2,
-   "d": 90.96,
-   "text": "Institusi yang kuat adalah institusi yang berani berubah. Institusi yang dicintai oleh rakyat adalah institusi yang selalu rendah hati. Saudara-saudara sekalian, saya menyampaikan terima kasih kepada Kapolri beserta seluruh jajarannya yang terus melakukan pembenahan organisasi, meningkatkan profesionalisme, meningkatkan disiplin, memperkuat pelayanan publik, dan membangun sinergi dengan seluruh komponen bangsa."
+   "t": 1766.16,
+   "d": 59.72,
+   "text": "Justru mereka yang kuat akan semakin sopan dan semakin berperilaku baik. Institusi yang besar adalah institusi yang mau mendengar. Institusi yang kuat adalah institusi yang berani berubah. Institusi yang dicintai oleh rakyat adalah institusi yang selalu rendah hati."
   },
   {
-   "t": 1816.8,
-   "d": 74.28,
-   "text": "Jagalah kehormatan kepolisian Republik Indonesia dan yang paling penting jagalah bangsa dan rakyat Indonesia. Dirgayu ke-80 kepolisian negara Republik Indonesia. Polri untuk masyarakat Polri presisi untuk Indonesia maju. Selalu bersama rakyat selalu menjaga Indonesia di depan sebagai bayangkara bangsa Indonesia. Terima kasih."
+   "t": 1798.88,
+   "d": 63.44,
+   "text": "Saudara-saudara sekalian, saya menyampaikan terima kasih kepada Kapolri beserta seluruh jajarannya yang terus melakukan pembenahan organisasi, meningkatkan profesionalisme, meningkatkan disiplin, memperkuat pelayanan publik, dan membangun sinergi dengan seluruh komponen bangsa."
   },
   {
-   "t": 1859.36,
+   "t": 1840.8,
+   "d": 73.88,
+   "text": "Jagalah kehormatan kepolisian Republik Indonesia dan yang paling penting jagalah bangsa dan rakyat Indonesia. Dirgayu ke-80 kepolisian negara Republik Indonesia. Polri untuk masyarakat presisi untuk Indonesia maju. Selalu bersama rakyat selalu menjaga Indonesia di depan sebagai bayangkara bangsa Indonesia. Terima kasih."
+  },
+  {
+   "t": 1883.36,
    "d": 58.24,
-   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom salve. Om santi shanti shanti om. Namo buddhaya. Salam kebajikan. Semoga Tuhan yang mah besar selalu melindungi setiap anggota Polri di mana pun bertugas. Terima kasih. Merdeka!"
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom salvei. Om santi shanti shanti om. Namo buddhaya. Salam kebajikan. Semoga Tuhan yang mah besar selalu melindungi setiap anggota Polri di mana pun bertugas. Terima kasih. Merdeka!"
   },
   {
-   "t": 1893.56,
-   "d": 23.26,
-   "text": "Merdeka! Merdeka! Terima kasih. Selesai. [berteriak] Undangan dimohon berdiri. Andika Bayangkari. Yeah."
+   "t": 1917.56,
+   "d": 25.66,
+   "text": "Merdeka! [berteriak][erangan] Merdeka! Terima kasih. Selesai. [berteriak] Jelajahi cara baru mendapatkan informasi. Download Metro TV Extend sekarang."
   }
  ],
  "provenance": {
   "engine_repo": "himanusia/youtube-speech-corpus",
   "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
-  "canonical_video_id": "HBuj_rOU5yA",
+  "canonical_video_id": "MExLyHOhkkE",
   "language_code": "id",
   "language": "Indonesian (auto-generated)",
   "is_generated": true,
   "fetched_via": "caption_api",
-  "source_of_truth": "engine/data/prabowo/raw/HBuj_rOU5yA.json"
+  "source_of_truth": "engine/data/prabowo/raw/MExLyHOhkkE.json"
  }
 }

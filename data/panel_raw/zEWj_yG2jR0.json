@@ -1,0 +1,61 @@
+{
+ "id": "zEWj_yG2jR0",
+ "url": "https://www.youtube.com/watch?v=zEWj_yG2jR0",
+ "title": "Keterangan Pers Presiden Prabowo Usai Hadiri KTT ke-13 ASEAN-US, Kuala Lumpur, 26 Oktober 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "raw_snippets": [
+  {
+   "text": "Presiden, Pak Presiden, Pak Prabo, Bapak boleh kongsi sedikit Bapak apa tadi berlaku dalam meeting tadi?",
+   "start": 3.0,
+   "duration": 9
+  },
+  {
+   "text": "Apa, Pak, tadi yang disampaikan Pak?",
+   "start": 12.0,
+   "duration": 3
+  },
+  {
+   "text": "Baik, bagus. Baik kita we",
+   "start": 15.0,
+   "duration": 7
+  },
+  {
+   "text": "support continued US engagement with Asian.",
+   "start": 22.0,
+   "duration": 4
+  },
+  {
+   "text": "The engagement has been very positive for AAN and for United States and we were very happy that the US has mediated",
+   "start": 26.0,
+   "duration": 11
+  },
+  {
+   "text": "the conflict between Thailand and and Cambodja. So",
+   "start": 37.0,
+   "duration": 7
+  },
+  {
+   "text": "very positive outcome of thank Pak",
+   "start": 44.0,
+   "duration": 3
+  }
+ ]
+}

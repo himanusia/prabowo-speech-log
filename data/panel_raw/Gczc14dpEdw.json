@@ -1,0 +1,56 @@
+{
+ "id": "Gczc14dpEdw",
+ "url": "https://www.youtube.com/watch?v=Gczc14dpEdw",
+ "title": "Keterangan Pers Presiden Prabowo Usai Hadiri KSTI Indonesia 2025, Bandung, 7 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 6,
+ "raw_snippets": [
+  {
+   "text": "Ih, Pak. Tadi kenapa tertumb biar lebih bebas gitu ya. Jangan selalu nempel, jangan dipelentir, jangan dipolitisasi.",
+   "start": 0.0,
+   "duration": 8
+  },
+  {
+   "text": "Ini kan kita bicara, kita bicara ilmu, kita bicara ilmu sains, teknologi. Ya, Pak. Kalau soal ambalan ada yang bakal ditigasinya enggak apa?",
+   "start": 8.0,
+   "duration": 10
+  },
+  {
+   "text": "Kan tadi pagi sudah diaksin sama pemerintah Malaysia. Jadi tahu Sulawesi pertambahan pemerintah ya. Kita cari e penyelesaian yang baik.",
+   "start": 18.0,
+   "duration": 12
+  },
+  {
+   "text": "yang damai itu ada itikad baik dari dua dua pihak ya kita jangan biasalah ada mungkin",
+   "start": 30.0,
+   "duration": 7
+  },
+  {
+   "text": "intinya kita mau penyelesaian yang baik ya Pak soal 17 Agustus Pak mau undang kepala negara siap Pak 17 Agustus Pakar Pak",
+   "start": 37.0,
+   "duration": 8
+  },
+  {
+   "text": "kita relatif sederhana duluah kita masih banyak pekerjaan untuk rakyat ya oke makasih Pak",
+   "start": 45.0,
+   "duration": 3
+  }
+ ]
+}

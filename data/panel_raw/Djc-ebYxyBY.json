@@ -1,0 +1,61 @@
+{
+ "id": "Djc-ebYxyBY",
+ "url": "https://www.youtube.com/watch?v=Djc-ebYxyBY",
+ "title": "Ket Pers Presiden Prabowo usai Hadiri Sidang Senat Terbuka dan Dies Natalis UKRI,Bandung,18 Okt 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "raw_snippets": [
+  {
+   "text": "Hadir wisudanya Ukri.",
+   "start": 0.0,
+   "duration": 4
+  },
+  {
+   "text": "Kita hari ini wisuda berapa? 500 521 21 sarjana dan ee UKRI berkembang pesat ya.",
+   "start": 4.0,
+   "duration": 11
+  },
+  {
+   "text": "Sekarang sudah tujuh fakultas ya. Iya. Tujuh.",
+   "start": 15.0,
+   "duration": 3
+  },
+  {
+   "text": "Tujuh Pak 15 prodi.",
+   "start": 18.0,
+   "duration": 3
+  },
+  {
+   "text": "Prodi sangat pesat. Kampus lagi dibangun ada di beberapa tempat.",
+   "start": 21.0,
+   "duration": 7
+  },
+  {
+   "text": "Saya kira ee saya ucapkan terima kasih kepada",
+   "start": 28.0,
+   "duration": 7
+  },
+  {
+   "text": "yang sekarang megangri sangat besar prestasinya. Oke, terima kasih.",
+   "start": 35.0,
+   "duration": 3
+  }
+ ]
+}

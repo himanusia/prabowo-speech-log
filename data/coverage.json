@@ -120,7 +120,7 @@
   {
    "month": "2026-03",
    "events": 2,
-   "tokens": 2593,
+   "tokens": 2406,
    "covered": true
   },
   {
@@ -138,13 +138,13 @@
   {
    "month": "2026-06",
    "events": 7,
-   "tokens": 21392,
+   "tokens": 19152,
    "covered": true
   },
   {
    "month": "2026-07",
    "events": 12,
-   "tokens": 31940,
+   "tokens": 32143,
    "covered": true
   },
   {
@@ -181,7 +181,7 @@
   {
    "year": "2026",
    "events": 41,
-   "tokens": 110453,
+   "tokens": 108229,
    "event_share": 61.2
   }
  ],
@@ -191,8 +191,8 @@
   "official": 12
  },
  "fetch_methods": {
-  "transcript_panel": 28,
-  "caption_api": 34,
+  "transcript_panel": 29,
+  "caption_api": 33,
   "baseline_import": 5
  },
  "known_limits": [

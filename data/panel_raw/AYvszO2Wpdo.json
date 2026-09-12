@@ -1,0 +1,71 @@
+{
+ "id": "AYvszO2Wpdo",
+ "url": "https://www.youtube.com/watch?v=AYvszO2Wpdo",
+ "title": "Keterangan Pers Presiden Prabowo, Jeddah, 3 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "raw_snippets": [
+  {
+   "text": "Bapak, bagaimana hasil pertemuan Bapak dengan Pangeran MBS? Bagaimana, Pak?",
+   "start": 0.0,
+   "duration": 4
+  },
+  {
+   "text": "Saya kira sangat produktif ya. Eh, kita sepakat untuk tingkatkan kerja sama.",
+   "start": 4.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita baru bentuk ee Dewan Koordinasi Koordinasi tertinggi ya,",
+   "start": 12.0,
+   "duration": 8
+  },
+  {
+   "text": "Supreme Coordination Council antara pihak Saudi dan Indonesia. kita sepakat",
+   "start": 20.0,
+   "duration": 8
+  },
+  {
+   "text": "tingkatkan semua ee kerja sama di semua bidang. Jadi saya sangat puas, alhamdulillah ee produktif.",
+   "start": 28.0,
+   "duration": 9
+  },
+  {
+   "text": "Insyaallah kita akan ee melihat suatu peningkatan kerja sama antara kita dan Saudi Arabia dan banyak",
+   "start": 37.0,
+   "duration": 9
+  },
+  {
+   "text": "ee masalah-masalah geopolitik.",
+   "start": 46.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita punya persamaan visi. Ya, saya kira itu. Terima kasih.",
+   "start": 51.0,
+   "duration": 6
+  },
+  {
+   "text": "Indonesia gimana",
+   "start": 57.0,
+   "duration": 3
+  }
+ ]
+}

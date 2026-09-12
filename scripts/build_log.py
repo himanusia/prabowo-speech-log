@@ -83,6 +83,65 @@ def slugify(text: str, max_words: int = 7) -> str:
     return "-".join(words[:max_words]) or "pidato"
 
 
+RE_SPEECH_OPEN = re.compile(
+    r"(bismillah|assalamualaikum|assalamu'alaikum|salam\s+sejahtera|shalom|"
+    r"om\s+swastiastu|namo\s+buddhaya|salam\s+kebajikan|salve|"
+    r"yang\s+saya\s+hormati|yang\s+terhormat|saudara-saudara|hadirin|"
+    r"sidang\s+dewan|para\s+yang\s+saya\s+muliakan|pimpinan\s+dewan)", re.I)
+
+
+def choose_clean_canonical(members, existing_id, raw_path_for, load_json):
+    """Pilih unggahan yang transkripnya dimulai oleh pidatonya sendiri.
+
+    Aturan lama hanya membuang livestream yang pembukanya terpadding, dan
+    melewatkan kasus sebaliknya: unggahan panjang yang diawali nyanyi, lagu
+    kebangsaan, atau kedatangan — tokennya besar tapi pidatonya mulai di
+    tengah. Aturan ini memilih yang pembukanya benar-benar pidato, lalu
+    mengambil yang terpanjang di antara mereka.
+
+    Kembalikan (video_id, alasan, berubah?).
+    """
+    scored = []
+    for m in members:
+        vid = m.get("id") if isinstance(m, dict) else m
+        if not vid:
+            continue
+        p = raw_path_for(vid)
+        if not p:
+            continue
+        try:
+            raw = load_json(p)
+        except Exception:
+            continue
+        snips = raw.get("raw_snippets") or []
+        if len(snips) < 5:
+            continue
+        head = " ".join(x.get("text", "") for x in snips[:6])[:400]
+        toks = sum(len(x.get("text", "").split()) for x in snips)
+        scored.append({"id": vid, "tokens": toks,
+                       "clean": bool(RE_SPEECH_OPEN.search(head))})
+
+    if not scored:
+        return existing_id, "tidak ada transkrip pembanding di disk", False
+
+    clean = [s for s in scored if s["clean"]]
+    pool = clean if clean else scored
+    best = max(pool, key=lambda s: s["tokens"])
+
+    if best["id"] == existing_id:
+        return existing_id, ("pembukanya sudah benar" if best["clean"]
+                             else "tidak ada unggahan berpembuka bersih"), False
+
+    existing = next((s for s in scored if s["id"] == existing_id), None)
+    if existing and existing["clean"] and existing["tokens"] >= best["tokens"]:
+        return existing_id, "kanonik lama tetap yang terbaik", False
+
+    reason = ("kanonik lama dibuka bukan oleh pidato (nyanyi/upacara/kedatangan)"
+              if existing and not existing["clean"]
+              else "ada unggahan berpembuka bersih yang lebih panjang")
+    return best["id"], f"{reason}; {existing_id} → {best['id']}" if existing else reason, True
+
+
 def load_json(path: Path):
     return json.loads(path.read_text(encoding="utf-8"))
 
@@ -151,15 +210,23 @@ def main() -> int:
 
     for src in analysis["sources"]:
         gid = src.get("duplicate_group") or src["id"]
+        members = by_event.get(gid, [])
+        if not members:
+            fallback = by_id_variant.get(src["id"]) or {
+                "id": src["id"], "url": src.get("url"), "title": src.get("title"),
+                "channel": src.get("channel"), "is_canonical": True,
+            }
+            members = [fallback]
 
-        # Penimpaan kanonik: audit menemukan unggahan terpilih hanya potongan.
+        # 1) penimpaan manual dari profil = keputusan yang sudah diperiksa manusia
         ov = overrides.get(gid)
         if ov and ov.get("video_id"):
-            vid = ov["video_id"]
-            overridden = True
+            vid, overridden = ov["video_id"], True
+            ov_reason = ov.get("reason")
         else:
-            vid = src["id"]
-            overridden = False
+            # 2) aturan otomatis: pilih unggahan yang transkripnya dimulai pidato
+            vid, ov_reason, overridden = choose_clean_canonical(
+                members, src["id"], raw_path_for, load_json)
 
         raw_path = raw_path_for(vid)
         if not raw_path:
@@ -169,15 +236,7 @@ def main() -> int:
         meta = metadata.get(vid, {})
 
         if overridden:
-            print(f"  timpa kanonik {gid}: {src['id']} → {vid}")
-
-        members = by_event.get(gid, [])
-        if not members:
-            fallback = by_id_variant.get(vid) or {
-                "id": vid, "url": src.get("url"), "title": src.get("title"),
-                "channel": src.get("channel"), "is_canonical": True,
-            }
-            members = [fallback]
+            print(f"  kanonik {gid}: {src['id']} → {vid}  ({ov_reason})")
 
         uploads = []
         for v in members:
@@ -237,7 +296,7 @@ def main() -> int:
             "token_count": token_count,
             "unique_word_count": unique_words,
             "canonical_overridden": overridden,
-            "canonical_note": (ov or {}).get("reason") if overridden else None,
+            "canonical_note": ov_reason if overridden else None,
             "duplicate_count": src.get("duplicate_count", max(0, len(uploads) - 1)),
             "uploads": uploads,
             "topics": src.get("topics", {}),

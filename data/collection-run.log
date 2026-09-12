@@ -1,0 +1,294 @@
+=== mulai 2026-09-13 03:24:24 batch=3 ===
+
+--- putaran 1 03:24:24 ---
+daftar kerja : 818 | sudah ok: 5 | batch ini: 3
+  1/3 OK        y1TgC2EgNS8   732 seg  5621s  Arahan Presiden RI dari Banda Aceh Terkait Pen
+  2/3 OK        rzZk7Z5OC98    82 seg  654s  Arahan Presiden Prabowo pada Komisi Percepatan
+  3/3 no_indonesian_track ysv3asHfnMo  Pidato Presiden Prabowo pada KTT APEC 2025 Ses
+
+selesai: 2/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                808
+    ok_belum_masuk_arsip      6
+    tanpa_track               4
+  SISA BISA DITARIK       : 814
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=814  kena_batas=no  rc=0
+
+--- putaran 2 03:24:56 ---
+daftar kerja : 818 | sudah ok: 7 | batch ini: 3
+  1/3 no_indonesian_track vv4f00RIyGM  Pidato Presiden Prabowo pada KTT APEC 2025 Ses
+  2/3 OK        yeZcpieTLY8    15 seg  130s  Hangatnya Sambutan Diaspora Indonesia untuk Pr
+  3/3 no_indonesian_track 1HKjQsVFslw  Dari Osaka, Presiden Prabowo Bertolak ke New Y
+
+selesai: 1/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                805
+    ok_belum_masuk_arsip      7
+    tanpa_track               6
+  SISA BISA DITARIK       : 812
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=812  kena_batas=no  rc=0
+
+--- putaran 3 03:25:27 ---
+daftar kerja : 818 | sudah ok: 8 | batch ini: 3
+  1/3 no_indonesian_track PkQ2LmK9dEQ  Presiden Prabowo Beri Arahan dan Lepas Keberan
+  2/3 OK        pQ-fc9HwqxA   287 seg  2323s  Sambutan Presiden Prabowo pada Peluncuran Prog
+  3/3 no_indonesian_track RA4wPTwUpbg  President Prabowo's Speech at the World Govern
+
+selesai: 1/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                802
+    ok_belum_masuk_arsip      8
+    tanpa_track               8
+  SISA BISA DITARIK       : 810
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=810  kena_batas=no  rc=0
+
+--- putaran 4 03:25:57 ---
+daftar kerja : 818 | sudah ok: 9 | batch ini: 3
+  1/3 OK        xaNqn7ay0go    72 seg  591s  Pengarahan Presiden Prabowo Kepada Komandan Sa
+  2/3 OK        CC6WjideZv0    67 seg  580s  Presiden Prabowo Beri Arahan pada Rapat Pimpin
+  3/3 OK        XrWa6uh_J70    23 seg  189s  Keterangan Pers Presiden Prabowo Usai Beri Ara
+
+selesai: 3/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                799
+    ok_belum_masuk_arsip     11
+    tanpa_track               8
+  SISA BISA DITARIK       : 810
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=810  kena_batas=no  rc=0
+
+--- putaran 5 03:26:30 ---
+daftar kerja : 818 | sudah ok: 12 | batch ini: 3
+  1/3 no_indonesian_track dZNvdhX-gus  Pidato Presiden Prabowo pada Sesi Khusus KTT D
+  2/3 no_indonesian_track 0I8RdyPW49s  Sambutan Presiden Prabowo pada Jamuan Makan Si
+  3/3 no_indonesian_track 5fJm7WLbH0c  President Prabowo's Address at the US-ASEAN Bu
+
+selesai: 0/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                796
+    ok_belum_masuk_arsip     11
+    tanpa_track              11
+  SISA BISA DITARIK       : 807
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=807  kena_batas=no  rc=0
+
+--- putaran 6 03:26:59 ---
+daftar kerja : 818 | sudah ok: 12 | batch ini: 3
+  1/3 no_indonesian_track 5W5NRt0c4X4  Keynote Speech Presiden Prabowo pada APEC CEO 
+  2/3 OK        8-cctoi8ELg    30 seg  226s  Keterangan Pers Presiden Prabowo usai Hadiri B
+  3/3 OK        atzqXDtCM1I     6 seg  52s  Keterangan Pers Presiden Prabowo Usai Hadiri B
+
+selesai: 2/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                793
+    ok_belum_masuk_arsip     13
+    tanpa_track              12
+  SISA BISA DITARIK       : 806
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=806  kena_batas=no  rc=0
+
+--- putaran 7 03:27:32 ---
+daftar kerja : 818 | sudah ok: 14 | batch ini: 3
+  1/3 OK        ziV6tfvrQf0    25 seg  192s  Keterangan Pers Presiden Prabowo, London, 20 J
+  2/3 OK        JJf1NWrjxds    21 seg  160s  Keterangan Pers Seskab Teddy terkait Agenda Pr
+  3/3 no_indonesian_track 585TcicET8M  Keterangan Pers Presiden Prabowo Usai Tuntaska
+
+selesai: 2/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                790
+    ok_belum_masuk_arsip     15
+    tanpa_track              13
+  SISA BISA DITARIK       : 805
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=805  kena_batas=no  rc=0
+
+--- putaran 8 03:28:03 ---
+daftar kerja : 818 | sudah ok: 16 | batch ini: 3
+  1/3 OK        R1w1mx6ftCc    26 seg  195s  Keterangan Pers Presiden Prabowo Usai Kunjungi
+  2/3 OK        MtaiC0EXW_A    13 seg  100s  Keterangan Pers Presiden Prabowo Usai Terima K
+  3/3 OK        BTnIHAb0ytI    19 seg  151s  Keterangan Pers Presiden Prabowo Usai Pertemua
+
+selesai: 3/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                787
+    ok_belum_masuk_arsip     18
+    tanpa_track              13
+  SISA BISA DITARIK       : 805
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=805  kena_batas=no  rc=0
+
+--- putaran 9 03:28:36 ---
+daftar kerja : 818 | sudah ok: 19 | batch ini: 3
+  1/3 OK        EkyqIyPg7nE    17 seg  128s  Keterangan Pers Presiden Prabowo Usai Pemusnah
+  2/3 OK        zEWj_yG2jR0     7 seg  55s  Keterangan Pers Presiden Prabowo Usai Hadiri K
+  3/3 OK        Djc-ebYxyBY     7 seg  47s  Ket Pers Presiden Prabowo usai Hadiri Sidang S
+
+selesai: 3/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                784
+    ok_belum_masuk_arsip     21
+    tanpa_track              13
+  SISA BISA DITARIK       : 805
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=805  kena_batas=no  rc=0
+
+--- putaran 10 03:29:08 ---
+daftar kerja : 818 | sudah ok: 22 | batch ini: 3
+  1/3 OK        gBzZ2gLSDKg    18 seg  126s  Keterangan Pers Presiden Prabowo Subianto, New
+  2/3 OK        _XCtirhQJv0    66 seg  488s  Keterangan Pers Presiden Prabowo Usai Jenguk P
+  3/3 OK        Lk27E4bo_lA     7 seg  50s  Keterangan Pers Presiden Prabowo usai Resmikan
+
+selesai: 3/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                781
+    ok_belum_masuk_arsip     24
+    tanpa_track              13
+  SISA BISA DITARIK       : 805
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=805  kena_batas=no  rc=0
+
+--- putaran 11 03:29:41 ---
+daftar kerja : 818 | sudah ok: 25 | batch ini: 3
+  1/3 OK        Gczc14dpEdw     6 seg  57s  Keterangan Pers Presiden Prabowo Usai Hadiri K
+  2/3 OK        g2Rsaoc2K90    69 seg  537s  Keterangan Pers Presiden Prabowo, Pangkalan TN
+  3/3 no_indonesian_track 1Pdx9IBy3dg  Keterangan Pers Presiden Prabowo Sebelum Berto
+
+selesai: 2/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                778
+    ok_belum_masuk_arsip     26
+    tanpa_track              14
+  SISA BISA DITARIK       : 804
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=804  kena_batas=no  rc=0
+
+--- putaran 12 03:30:14 ---
+daftar kerja : 818 | sudah ok: 27 | batch ini: 3
+  1/3 OK        GYSUFgb5wP4    16 seg  121s  Keterangan Pers Presiden Prabowo, Brussel, 13 
+  2/3 OK        AYvszO2Wpdo     9 seg  64s  Keterangan Pers Presiden Prabowo, Jeddah, 3 Ju
+  3/3 no_indonesian_track fRqxhw4k3WA  Keterangan Pers Presiden Prabowo Usai Hadiri S
+
+selesai: 2/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                775
+    ok_belum_masuk_arsip     28
+    tanpa_track              15
+  SISA BISA DITARIK       : 803
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=803  kena_batas=no  rc=0
+
+--- putaran 13 03:30:46 ---
+daftar kerja : 818 | sudah ok: 29 | batch ini: 3
+  1/3 OK        qfj5NiwiZLc    12 seg  98s  Keterangan Pers Presiden Prabowo, Bengkayang, 
+  2/3 OK        BQA3S0SlZLY    12 seg  96s  Keterangan Pers Presiden Prabowo usai Resmikan
+  3/3 OK        O0hiVqHtkRw    11 seg  95s  Keterangan Pers Presiden Prabowo, Bandara Inte
+
+selesai: 3/3 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                772
+    ok_belum_masuk_arsip     31
+    tanpa_track              15
+  SISA BISA DITARIK       : 803
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=803  kena_batas=no  rc=0
+
+--- putaran 14 03:31:19 ---
+=== mulai 2026-09-13 03:31:37 batch=60 ===
+
+--- putaran 1 03:31:37 ---
+daftar kerja : 818 | sudah ok: 32 | batch ini: 60
+  1/60 OK        GXI54W2zw6E    22 seg  186s  Keterangan Pers Presiden Prabowo Usai Luncurka

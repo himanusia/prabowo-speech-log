@@ -431,6 +431,11 @@ def main() -> int:
              {"urls": ["*googlevideo.com*", "*manifest.googlevideo.com*"]}, session=session)
 
     ok = 0
+    consecutive_bad = 0
+    BLOCK_SIGNS = {"no_panel", "empty_panel", "error"}
+    STOP_AFTER = 6  # sebanyak ini berturut-turut = berhenti, kemungkinan kena batas
+    stopped_early = False
+
     for i, item in enumerate(batch, 1):
         vid = item["video_id"]
         try:
@@ -442,18 +447,40 @@ def main() -> int:
         row["kind"] = item["kind"]
         row["known_title"] = item["title"][:90]
         append(row)
+
         if row["status"] == "ok":
             ok += 1
+            consecutive_bad = 0
             print(f'{i:>3}/{len(batch)} OK        {vid}  {row["segments"]:>4} seg  '
                   f'{row.get("duration")}s  {row["title"][:46]}')
         else:
             print(f'{i:>3}/{len(batch)} {row["status"]:<17} {vid}  {item["title"][:46]}')
+            if row["status"] in BLOCK_SIGNS:
+                consecutive_bad += 1
+            else:
+                consecutive_bad = 0
+
+        # Berhenti sendiri kalau berkali-kali gagal berturut-turut: itu tanda
+        # sedang kena batas, bukan tanda videonya bermasalah. Lebih baik
+        # berhenti bersih dan lanjut nanti daripada terus menembak.
+        if consecutive_bad >= STOP_AFTER:
+            stopped_early = True
+            print(f"\n! {consecutive_bad} kegagalan berturut-turut — berhenti sendiri.")
+            print("! Kemungkinan sedang kena batas. Sisanya tetap tercatat sebagai sisa,")
+            print("! tidak ada yang hilang. Jalankan lagi nanti.")
+            append({"id": "_BATCH_STOP", "status": "blocked_suspected",
+                    "at_index": i, "consecutive_bad": consecutive_bad,
+                    "note": "berhenti sendiri setelah kegagalan berturut-turut"})
+            break
+
         time.sleep(args.pause + random.uniform(0, 0.8))
 
     cdp.close()
-    print(f"\nselesai: {ok}/{len(batch)} berhasil")
+    print(f"\nselesai: {ok}/{len(batch)} berhasil"
+          + (" (berhenti lebih awal)" if stopped_early else ""))
     print(f"progres  : {PROGRESS}")
     print(f"raw      : {RAW}")
+    print("lanjutkan: python3 scripts/status.py")
     return 0
 
 

@@ -1,0 +1,56 @@
+{
+ "id": "atzqXDtCM1I",
+ "url": "https://www.youtube.com/watch?v=atzqXDtCM1I",
+ "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Board of Peace (BoP) Charter, Davos, 22 Januari 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 6,
+ "raw_snippets": [
+  {
+   "text": "Saya kira ini kesempatan bersejarah. Ini kesempatan bersejarah.",
+   "start": 1.0,
+   "duration": 5
+  },
+  {
+   "text": "Ee ini benar-benar peluang untuk mencapai perdamaian di Gaza. Yang jelas penderitaan rakyat Gaza sudah berkurang.",
+   "start": 6.0,
+   "duration": 9
+  },
+  {
+   "text": "Sangat berkurang ya. Sangat berkurang.",
+   "start": 15.0,
+   "duration": 4
+  },
+  {
+   "text": "Ee bantuan-bantuan ee kemanusiaan begitu deras, begitu besar masuk. Sudah masuk.",
+   "start": 19.0,
+   "duration": 6
+  },
+  {
+   "text": "Saya sangat ee saya sangat berharap dan Indonesia siap ikut serta membersmembers yang ada di ya. Siapa yang ingin perdamaian di situ?",
+   "start": 25.0,
+   "duration": 13
+  },
+  {
+   "text": "Siapa yang ingin bantu rakyat Gaza rakyat Palestina?",
+   "start": 38.0,
+   "duration": 3
+  }
+ ]
+}

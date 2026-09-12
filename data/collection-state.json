@@ -1,0 +1,6586 @@
+{
+ "generated_at": "2026-09-13T03:31:30+07:00",
+ "channel_total": 4878,
+ "era_total": 894,
+ "worklist_total": 818,
+ "counts": {
+  "menunggu": 771,
+  "ok_belum_masuk_arsip": 31,
+  "tanpa_track": 16
+ },
+ "by_kind": {
+  "ambigu": {
+   "menunggu": 555
+  },
+  "kunjungan": {
+   "menunggu": 194
+  },
+  "keterangan_pers": {
+   "ok_belum_masuk_arsip": 24,
+   "tanpa_track": 4,
+   "menunggu": 22
+  },
+  "pidato": {
+   "tanpa_track": 12,
+   "ok_belum_masuk_arsip": 7
+  }
+ },
+ "remaining": 802,
+ "blocked_suspected": false,
+ "block_tail": [
+  "no_indonesian_track",
+  "ok",
+  "ok",
+  "no_indonesian_track",
+  "ok",
+  "ok",
+  "ok",
+  "no_indonesian_track"
+ ],
+ "rows": [
+  {
+   "video_id": "F70FUJv9Rx0",
+   "title": "President Prabowo's Statement at the BRICS Summit Restricted Session in India, September 12, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "qlfS2rcWN1E",
+   "title": "President Prabowo Warmly Welcomed by Indonesian Students and Diaspora, New Delhi, September 11, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nK4AJza0YfA",
+   "title": "Presiden Prabowo Tiba di India untuk Hadiri KTT ke-18 BRICS, New Delhi, 11 September 2026",
+   "kind": "kunjungan",
+   "date": "2026-09-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "OBpFpAEfjAg",
+   "title": "INDONESIA WINS!!! The Indonesian Contingent Heads to the 20th Asian Games in Aichi-Nagoya, Japan",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "KTEWjE7KwMw",
+   "title": "Presiden Prabowo Tiba di Tanah Air Usai Tuntaskan Agenda di Vladivostok, 4 September 2026",
+   "kind": "kunjungan",
+   "date": "2026-09-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5vOHC50PErE",
+   "title": "[HIGHLIGHT] President Prabowo Becomes Main Guest of Honor at the 11th EEF at President Putin's In...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Ewi73wny_qA",
+   "title": "Bilateral Meeting between President Prabowo and President Putin, Vladivostok, September 3, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9ROspyEde_M",
+   "title": "President Prabowo Arrives in Vladivostok as Guest of Honor for the 11th EEF, September 2, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "bE30NUSGI9o",
+   "title": "Bertolak ke Rusia, Presiden Prabowo Jadi Tamu Kehormatan Utama EEF, 1 September 2026",
+   "kind": "kunjungan",
+   "date": "2026-09-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "rvojUOnKVXU",
+   "title": "Running Together with Spirit in the 2026 Independence Run, August 29, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "RC2ZPbF4j7U",
+   "title": "President Prabowo Inspects Relocation Housing for Residents Near Senen Railway Tracks, Jakarta, A...",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "EAWTKlagU4M",
+   "title": "President Prabowo Receives Panglima Jilah, Merdeka Palace, August 28, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eFlAfs6YKHg",
+   "title": "President Prabowo Receives President of Timor-Leste and Several Nobel Laureates, August 28, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6wP_ckneI2o",
+   "title": "Presiden Prabowo di Tengah Pengungsi Nagekeo: Menyapa, Mendengar, dan Menguatkan, 26 Agustus 2026",
+   "kind": "ambigu",
+   "date": "2026-08-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "t6IsYONtH0Y",
+   "title": "President Prabowo Oversees Natural Disaster Relief Efforts Following Earthquake, Nagekeo, August ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wwRH4iL3mOE",
+   "title": "Presiden Prabowo Bertolak ke Sumatra, Kembali Turun Langsung Tangani Karhutla, 24 Agustus 2026",
+   "kind": "kunjungan",
+   "date": "2026-08-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BOw2keguqKY",
+   "title": "President Prabowo Orders Rapid Response, Aid Sent Again to NTT and Kalimantan, 8/24/2026",
+   "kind": "ambigu",
+   "date": "2026-08-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "icWzRqlzcEc",
+   "title": "Presiden Prabowo Tinjau Lokasi Karhutla di Kubu Raya, Kalimantan Barat, 22 Agustus 2026",
+   "kind": "kunjungan",
+   "date": "2026-08-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Qi02c6m9fFI",
+   "title": "Presiden Prabowo Terbang ke Kalimantan, Pimpin Langsung Penanganan Karhutla, 22 Agustus 2026",
+   "kind": "ambigu",
+   "date": "2026-08-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iAYdQFAzpCo",
+   "title": "Merah Putih Satukan Ratusan Ribu Warga dalam Semarak Kemerdekaan",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kKcxPvGjzGM",
+   "title": "65 Tons of Additional Logistics Shipped, Bringing Total to 253 Tons in NTT, August 19, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3_G2ExSPIJE",
+   "title": "The Pride of Participants in the 81st Indonesian Independence Day Commemoration, August 17, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Ka3kgJJb0Bk",
+   "title": "The Warmth of the People's Feast at the Palace: Celebrating Independence with SMEs and the Commun...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5mCry8WTE4Q",
+   "title": "“Indonesia Berdaulat” Paskibraka Team Ready to Carry Out the Duty of Hoisting the Red and White F...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "v8cbMDP-fBg",
+   "title": "Watch! 81st Independence Day Anniversary Celebration of the Republic of Indonesia",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gxzLqk-Q6hM",
+   "title": "Citizen Enthusiasm Ahead of the 81st Indonesian Independence Day, Jakarta, August 16, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "fk14ICzlzEs",
+   "title": "Aksi Cepat Arahan Bapak Presiden untuk Penanganan Gempa Flores, 15 Agustus 2026",
+   "kind": "ambigu",
+   "date": "2026-08-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YfThNWTDsX0",
+   "title": "Independence Day Celebration for Everyone",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nfN2hEhPwkI",
+   "title": "[HIGHLIGHT] Official Visit of Thai Prime Minister Anutin Charnvirakul to Indonesia, August 3-4, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oxNjh6fAs0E",
+   "title": "Presiden Prabowo Terima Pimpinan MPR RI, Jakarta, 3 Agustus 2026",
+   "kind": "ambigu",
+   "date": "2026-08-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "qV8_My__qJM",
+   "title": "Interfaith Prayer Strengthens the Spirit of Unity Ahead of Indonesia's 81st Independence Day, Mon...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mtHXIANYu3s",
+   "title": "Meeting Between the President of the Republic of Indonesia and KADIN Entrepreneurs from Across In...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "qQOz36NOUoc",
+   "title": "Revitalization of Semarang Tawang Station and Mass Signing for 62,000 Subsidized Mortgages, July ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "bAOo_SP7R8c",
+   "title": "Presiden Prabowo Akan Resmikan Stasiun Tawang dan Akad Massal 62 Ribu Rumah Subsidi, 30 Juli 2026",
+   "kind": "kunjungan",
+   "date": "2026-07-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1FTHuRLmJzs",
+   "title": "The Palace for School Students: SMAN 55 Jakarta",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "p3oqLCWgipM",
+   "title": "President Prabowo Inaugurates 1,177 Young TNI-Polri Officers, Merdeka Palace, July 22, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QR1wAxIQoL8",
+   "title": "The Palace for School Kids: SMPN 15 Jakarta & SMAN 46 Jakarta",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eCOPt2WI6es",
+   "title": "Students with Disabilities Realize Their Dream of Visiting the Presidential Palace, Jakarta, July...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0eAM4UI45rE",
+   "title": "Presiden Prabowo Sampaikan Belasungkawa atas Wafatnya Sheikh Hamad bin Khalifa Al Thani, 15/07/26",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "W-aZQ9PzKos",
+   "title": "Press Conference with Coordinating Minister for Economic Affairs Airlangga Hartarto and Minister ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "XI09xqDqTsk",
+   "title": "Residents Enthusiastically Welcome the Inauguration of Meninting Dam, West Lombok, July 10, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "077vmLENDfY",
+   "title": "President Prabowo Inaugurates 5 Dams in Indonesia, West Lombok, July 10, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "VQkYjcRxvU4",
+   "title": "Presiden Prabowo Bertolak ke NTB untuk Resmikan Lima Bendungan, 10 Juli 2026",
+   "kind": "kunjungan",
+   "date": "2026-07-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3E-fn6CmPdA",
+   "title": "[HIGHLIGHT] Indian PM Narendra Modi’s State Visit to Indonesia",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LHbVHK3X4K8",
+   "title": "President Prabowo Awards the Star of the Republic of Indonesia Adipurna to PM Modi",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "MIoNztA-UOM",
+   "title": "Government Launches 2026 National Internship Program (PMN) Second Cohort, June 29, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "aWMKFjJHQR8",
+   "title": "President Prabowo Donates Marching Band Equipment to SDN Tegallega, Sukabumi Regency, June 24, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "IMT06KAREq4",
+   "title": "The Presidential Palace for Students: Qurrotu Nafsin Islamic Boarding School",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "brynzY_CnxA",
+   "title": "Announcement of the 81st Indonesian Independence Day Logo Poll, June 24, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "V0GgaMVmSz0",
+   "title": "President Prabowo Inaugurates 1,151 KM of Regional Roads, Residents Feel Greatly Helped and Proud...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "X7Nx39YMTbo",
+   "title": "Bertolak ke Gorontalo, Presiden Prabowo Hadiri Puncak PENAS Petani dan Nelayan XVII, 24 Juni 2026",
+   "kind": "kunjungan",
+   "date": "2026-06-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8tXHCJl4Vvs",
+   "title": "President Prabowo Attends the Closing of the 2026 NU National Conference, Bangkalan, June 23, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9VzlmoUEeog",
+   "title": "Ke Jatim, Presiden Prabowo Resmikan Jalan Daerah 1.151 Km serta Hadiri Munas NU, 23 Juni 2026",
+   "kind": "kunjungan",
+   "date": "2026-06-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nMX_7sjNEHI",
+   "title": "Press Statement by President Director of PT. PLN (Persero) Darmawan Prasodjo, Jakarta, June 22, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "o6t9J3wtY1M",
+   "title": "HIGHLIGHT: State Visit of the President of the Federal Republic of Germany Frank-Walter Steinmeie...",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5IAhNki57ds",
+   "title": "Press Statement from the Minister of Primary and Secondary Education, Merdeka Palace, June 11, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2i10txapRYU",
+   "title": "Press Statement by the 10th and 12th Vice President of the Republic of Indonesia Jusuf Kalla, Mer...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pn-OKLO5MX8",
+   "title": "Presiden Prabowo Terima Wakil Presiden ke-10 dan ke-12 RI Jusuf Kalla, Istana Merdeka, 11 Juni 2026",
+   "kind": "ambigu",
+   "date": "2026-06-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-2gsJ0uXQqo",
+   "title": "Presiden Prabowo Bertolak ke Lampung dalam Rangka Kunjungan Kerja, 10 Juni 2026",
+   "kind": "kunjungan",
+   "date": "2026-06-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "JFeyxs6aT6M",
+   "title": "President Prabowo Receives Letters of Credence from 9 Ambassadors of Friendly Nations, June 9, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yBpY8Cn01gc",
+   "title": "President Prabowo Receives Letters of Credence from 8 Ambassadors of Friendly Nations, Merdeka Pa...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iN2YUUEyr6k",
+   "title": "Parents' Hopes for Their Children's Future at SRMP 17 Tabanan, Bali, June 7, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "7609oB0Y5AI",
+   "title": "President Prabowo Subianto inspects Tabanan Junior High School 17, Bali, June 7, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eglPJ0Nb6wc",
+   "title": "President Prabowo Receives Visit from Turkish Foreign Minister, Bogor Regency, June 3, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iZf3T1ntC3I",
+   "title": "From a Classroom at SMPN 111 Jakarta, Big Dreams Reverberate Before President Prabowo, June 2, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "MJbIsQPcHrE",
+   "title": "Presiden Prabowo Tinjau SPPG Palmerah, Pastikan Program Gizi Berjalan dari Hulu ke Hilir,2 Juni 2026",
+   "kind": "kunjungan",
+   "date": "2026-06-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AL5U7YYP7no",
+   "title": "President Prabowo Receives Visit from Qatar's Deputy Prime Minister/Defense Minister, Merdeka Pal...",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "xzvdEtRRRBQ",
+   "title": "Presiden Prabowo Beri Penghormatan Terakhir Jenderal TNI (Purn) Ryamizard Ryacudu, 1 Juni 2026",
+   "kind": "ambigu",
+   "date": "2026-06-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Lo02DeFW7OM",
+   "title": "HIGHLIGHT: President Prabowo's Official State Visit to France",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "rr9Ds-eScDQ",
+   "title": "Usai Kunjungan Resmi Kenegaraan di Paris, Presiden Prabowo Bertolak Menuju Tanah Air, 29 Mei 2026",
+   "kind": "kunjungan",
+   "date": "2026-05-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wajs6rcOAD4",
+   "title": "Escorted by 146 Cavalry Troops, President Prabowo Arrives at the Élysée Palace, Paris, May 28, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LyPP1hs52gw",
+   "title": "President Prabowo Welcomed with State Honors Ceremony at Les Invalides, Paris, May 28, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vQPblz56CpM",
+   "title": "Indonesian Diaspora Experiences the Warmth of Eid al-Adha with President Prabowo, Paris, May 27, ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Gl9We_PwpSg",
+   "title": "President Prabowo Performs Eid al-Adha Prayer 1447 Hijriah with the Indonesian Diaspora in Paris,...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ozsnenS1PW4",
+   "title": "Moved and Proud: Diaspora Welcomes President Prabowo in Paris, May 26, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2zmBSsXiX6w",
+   "title": "Presiden Prabowo Tiba di Paris untuk Kunjungan Resmi Kenegaraan, Paris, 26 Mei 2026",
+   "kind": "kunjungan",
+   "date": "2026-05-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "W46cPCjedXA",
+   "title": "President Prabowo Inaugurates the Renovation of the Seskoad Museum and Library, Bandung, May 25, ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "s1cM9185FmQ",
+   "title": "President Prabowo Leads Grand Shrimp Harvest at the Regional-Based Shrimp Farming Project, Kebume...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "4QIU8hU5KCM",
+   "title": "The Palace for Students: Gadjah Mada University (UGM) & Budi Luhur University (UBL), May 19, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FrEfcNiDYDQ",
+   "title": "The Palace for Students: SMPN 94 and SMPN 4 Jakarta, May 19, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZM-ON0kAxcY",
+   "title": "HIGHLIGHT: President Prabowo's Working Visit to East Java, May 16, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Cbz0seUPZVQ",
+   "title": "Presiden Prabowo Berziarah ke Makam Marsinah, Nganjuk, 16 Mei 2026",
+   "kind": "ambigu",
+   "date": "2026-05-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "4qYghDYhs_k",
+   "title": "President Prabowo Receives Hisense Delegation, Jakarta, May 15, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Sf2nVL2-YXg",
+   "title": "President Prabowo Inspects the Merah Putih Fisherman Village in South Leato, Gorontalo, May 9, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "bHPh8p3Eo4k",
+   "title": "President Prabowo Greets Soldiers at the Miangas Army Post, Talaud Islands, May 9, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "uIj_dal7lCE",
+   "title": "Momen Hangat Presiden Prabowo Bersama Anak-Anak Sekolah di Pulau Miangas, Kep. Talaud, 9 Mei 2026",
+   "kind": "ambigu",
+   "date": "2026-05-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "DPqfmY8OTxw",
+   "title": "Presiden Prabowo Tinjau Puskesmas Miangas, Kepulauan Talaud, 9 Mei 2026",
+   "kind": "kunjungan",
+   "date": "2026-05-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QZYIq6CGLDQ",
+   "title": "President Prabowo's \"Maung\" Captures the Attention of the ASEAN Delegation and Filipinos, Cebu, M...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BMFtkMwrKC8",
+   "title": "Presiden Prabowo Hadiri Gala Dinner KTT ke-48 ASEAN Filippina 2026, Cebu, 8 Mei 2026",
+   "kind": "ambigu",
+   "date": "2026-05-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "43t_feUKKCk",
+   "title": "Presiden Prabowo Disambut Hangat Diaspora Indonesia, Cebu, 7 Mei 2026",
+   "kind": "kunjungan",
+   "date": "2026-05-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1j1BJ--K964",
+   "title": "President Prabowo Attends BIMP-EAGA Summit, Cebu, May 7, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "USAsfeU_idk",
+   "title": "Tiba di Filipina, Presiden Prabowo Gunakan Maung Selama KTT ke-48 ASEAN, Cebu, 7 Mei 2026",
+   "kind": "kunjungan",
+   "date": "2026-05-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZlnCXHBpnDM",
+   "title": "Presiden Prabowo Bertolak ke Filipina Hadiri KTT ke-48 ASEAN, 7 Mei 2026",
+   "kind": "kunjungan",
+   "date": "2026-05-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "7d7XUkaKsbY",
+   "title": "Palace for School Children: West Java Student Council Forum (FOJB), May 5, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "7BR7epIOXcI",
+   "title": "Press Statement from the Financial System Stability Committee (KSSK), Merdeka Palace, May 5, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "IN6jX0VGWWY",
+   "title": "Press Statement from the Commission for the Acceleration of Police Reform, Merdeka Palace, May 5,...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "VSABYun0dtQ",
+   "title": "Komisi Percepatan Reformasi Polri Serahkan Buku Rekomendasi kepada Presiden Prabowo, 5 Mei 2026",
+   "kind": "ambigu",
+   "date": "2026-05-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hvL3uu66X_g",
+   "title": "Press Decree of the Head of the Development Control and Special Investigation Agency Aris Marsudi...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_Mc1W2edm9E",
+   "title": "President Prabowo Commemorates May Day with Workers at Monas Square, May 1, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2O6isRVI4H4",
+   "title": "Workers' Voices Resound at Monas, Appreciating President Prabowo's Presence, May 1, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "24ktbt62aJY",
+   "title": "When President Prabowo and Students of SMAN 1 Cilacap Sing National Anthems, April 29, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0ivbpLGFr84",
+   "title": "During a working visit to Central Java, President Prabowo inspected the Banyumas BLE TPST, April ...",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "CqYfgpyXdQ8",
+   "title": "President Prabowo's Press Statement After Inspecting the BLE TPST, Banyumas, April 28, 2026",
+   "kind": "keterangan_pers",
+   "date": "2026-00-00?",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "TqrjcE1uLPA",
+   "title": "This morning, President Prabowo visited the victims of the train accident in Bekasi, April 28, 2026.",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FdBLZcFadxU",
+   "title": "Palace for School Children: SMPN 60 Jakarta",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "TAPirwWpObo",
+   "title": "President Prabowo's Working Visit to Magelang, Central Java, April 18, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-E-Va1kZ2oY",
+   "title": "Presiden Prabowo Subianto Sidak Langsung ke Kompleks Gudang Bulog Danurejo, Magelang, 18 April 2026",
+   "kind": "ambigu",
+   "date": "2026-04-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "PqwsKKlXbIc",
+   "title": "President Prabowo Conveys Congratulations on the 2026 Dharma Santi Celebration, April 17, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_Nk4pAl8C-w",
+   "title": "Palace for School Children: SMPN 39 Jakarta",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_gm-Yn_RJPI",
+   "title": "Palace for School Children: Taruna Nusantara High School",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "j2vzDyO6ktI",
+   "title": "Press Statement from the Minister of Energy and Mineral Resources and Cabinet Secretary, Merdeka ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8U4tz7TL1Gc",
+   "title": "Pertemuan Presiden Prabowo dengan Presiden Macron, Paris, 14 April 2026",
+   "kind": "ambigu",
+   "date": "2026-04-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Nl4I1q7teVE",
+   "title": "President Prabowo's Working Visit to Moscow, Russia, April 13, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nG0qNF05odM",
+   "title": "Presiden Prabowo Tiba di Paris, Prancis, 13 April 2026",
+   "kind": "kunjungan",
+   "date": "2026-04-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "xAlPjE8R-Ng",
+   "title": "Presiden Prabowo Tiba di Moskow, Rusia, 13 April 2026",
+   "kind": "kunjungan",
+   "date": "2026-04-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "7TB1aIy5wV8",
+   "title": "Presiden Prabowo Bertolak Menuju Moskow, Rusia, Pangkalan TNI AU Halim Perdanakusuma, 12 April 2026",
+   "kind": "kunjungan",
+   "date": "2026-04-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "v4BJpBfTvN8",
+   "title": "Cabinet Secretary Teddy Highlights \"Observer Inflation,\" Emphasizes Fact-Based Opinions",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FcQWWbV_Vyo",
+   "title": "Press Statement by Cabinet Secretary Teddy Indra Wijaya, Jakarta, April 10, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "z4rzFf3n900",
+   "title": "Press Statement by Constitutional Justice Liliek Prisbawono Adi, State Palace, April 10, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BJgp9b2Dv50",
+   "title": "Press Statement by Ombudsman Chairman Hery Susanto, State Palace, April 10, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "x4UA7Rfyn4I",
+   "title": "Press Release of the Indonesian Ambassador to the Sultanate of Oman and the Republic of Yemen, An...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "b3GiJwhwsxY",
+   "title": "On the Indonesian Air Force's anniversary, President Prabowo's presidential plane was escorted by...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "g9IAsgFUrIU",
+   "title": "President Prabowo Inaugurates Electric Commercial Vehicle Assembly Plant on April 9, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "VNsBUryu-nU",
+   "title": "Press Statement by Cabinet Secretary Teddy Indra Wijaya, Jakarta, April 7, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gwb4z3Lfl2g",
+   "title": "Handover of Control of the Palace, Front Page of the Merdeka Palace, 5 April 2026",
+   "kind": "ambigu",
+   "date": "2026-04-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6cji__Gqs_E",
+   "title": "Press Statement from the Coordinating Minister for Economic Affairs and the Minister of Investmen...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "v0t6l6bTGrU",
+   "title": "President Prabowo Attends State Banquet and Receives Republic of Korea's Highest Award, April 1, ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "cK2XbWVokcI",
+   "title": "President Prabowo Received a State Welcome at the Blue House in Seoul, April 1, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3T9w5opAGAc",
+   "title": "President Prabowo Receives a Warm and Proud Welcome from the Indonesian Diaspora, Seoul, March 31...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LUmYZnbmyG4",
+   "title": "Presiden Prabowo Tiba di Seoul, Awali Kunjungan Kenegaraan ke Republik Korea, 31 Maret 2026",
+   "kind": "kunjungan",
+   "date": "2026-03-31",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1LZL_OtzJC0",
+   "title": "Official Welcoming Ceremony for President Prabowo at Akasaka Palace, Japan, March 31, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "H81-pE-oBl4",
+   "title": "Joint Press Statement by President Prabowo with Prime Minister Sanae Takaichi, Tokyo, March 31, 2026",
+   "kind": "keterangan_pers",
+   "date": "2026-00-00?",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "faZQzjX7eUA",
+   "title": "Press Release from the Minister of Investment and Downstreaming, Minister of Energy and Mineral R...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1y5JYu2nxqE",
+   "title": "President Prabowo's remarks at the Indonesia-Japan Business Forum, Tokyo, March 30, 2026",
+   "kind": "pidato",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "50t-puuceXs",
+   "title": "Kunjungan Kehormatan Presiden Prabowo kepada Kaisar Jepang Naruhito, Tokyo, 30 Maret 2026",
+   "kind": "kunjungan",
+   "date": "2026-03-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Erc8sAPMr8E",
+   "title": "The Indonesian Diaspora Welcomes President Prabowo's Arrival in Tokyo, March 29, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "cVQZhqCFW9s",
+   "title": "Presiden Prabowo Tiba di Tokyo, Jepang, 29 Maret 2026",
+   "kind": "kunjungan",
+   "date": "2026-03-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5xWMAaam1MU",
+   "title": "Keberangkatan Presiden Prabowo menuju Jepang, Pangkalan TNI AU Halim Perdanakusuma, 29 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0sexj8LAruA",
+   "title": "Press Statement by Cabinet Secretary Teddy and Minister of SMEs Maman Abdurrahman, Jakarta, March...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "O0ltNCJ_idY",
+   "title": "Presiden Prabowo Terima Kunjungan PM Malaysia Anwar Ibrahim, Istana Merdeka, 27 Maret 2026",
+   "kind": "kunjungan",
+   "date": "2026-03-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5QrdgbOqEdw",
+   "title": "President Prabowo's surprise visit to Senen, Jakarta, March 26, 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wVcQbCNQIO0",
+   "title": "Cabinet Secretary Inspects Peak Return Traffic for Eid al-Fitr 2026 Early Morning, Jakarta, March...",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NLqVUIwWiGg",
+   "title": "President Prabowo Greets Thousands of Residents at the 1447 H Griya Ceremony, March 21, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-TRJdVKW4lo",
+   "title": "President Prabowo Performs Eid Al-Fitr Prayers and Halalbihalal with the Community at Darussalam ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "StcmycI_PPM",
+   "title": "Press Statement by President Prabowo after Eid al-Fitr Prayers, Aceh Tamiang, March 21, 2026",
+   "kind": "keterangan_pers",
+   "date": "2026-00-00?",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "A4CGZ86uQtM",
+   "title": "President Prabowo Distributes Thousands of Food Packages to North Sumatra Residents, March 20, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yju7lC1JBmg",
+   "title": "President Prabowo Wishes Happy Eid Al-Fitr 1 Shawwal 1447 Hijriah, March 20, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "JrFZJkcM5r4",
+   "title": "President Prabowo, Moving Quickly for the Nation",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ByM_Yd3uy-M",
+   "title": "Pernyataan Ketum MUI K.H. Anwar Iskandar pada Silaturahmi Presiden dengan Kiai dan Tokoh Ormas Islam",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "GnzCdwuxpes",
+   "title": "Keterangan Pers Menteri ATR/BPN Nusron Wahid, Jakarta, 5 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "SWOkxv6ovOY",
+   "title": "Keterangan Pers Para Tokoh dan Pimpinan Ormas Islam, Jakarta, 5 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2mDuEoHi7ro",
+   "title": "Presiden Prabowo Berbuka Puasa Bersama Tokoh dan Pimpinan Ormas Islam di Istana Merdeka,5 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mdmR6eKXXvw",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala Danantara Rosan Roeslani, 5 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "y_Ev82ef8C4",
+   "title": "Keterangan Pers Mendiktisaintek Brian Yuliarto, Jakarta, 5 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "52s1kQVKR5A",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 5 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "dGrDvs6uNoc",
+   "title": "Keterangan Pers Ketua MPR RI Ahmad Muzani, Jakarta, 4 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0_HGdy7Aqwk",
+   "title": "Keterangan Pers Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, Jakarta, 4 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_77YSgAg-Fo",
+   "title": "Keterangan Pers Menteri Agama Nasaruddin Umar, Jakarta, 4 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kiJo0cN4_f4",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Jakarta, 3 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "4VZy-HBdfp4",
+   "title": "Keterangan Pers Ketua Umum Golkar dan Presiden PKS, Jakarta, 3 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-CIQInd2q2E",
+   "title": "Keterangan Pers Hassan Wirajuda, Jakarta, 3 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "05xWm3UcqmQ",
+   "title": "Presiden Prabowo Gelar Silaturahmi dan Diskusi Bersama para Tokoh Bangsa, 3 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ooZvi-hw-L8",
+   "title": "Presiden Prabowo Pimpin Upacara Pemakaman Wapres ke-6 RI Try Sutrisno, TMPNU Kalibata, 2 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hj1mWPKxJy0",
+   "title": "Keterangan Pers Menko Pangan Zulkifli Hasan, Jakarta, 2 Maret 2026",
+   "kind": "ambigu",
+   "date": "2026-03-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZQ04p2F6OKU",
+   "title": "Seskab Teddy: Bantah MBG Kurangi Program dan Anggaran Pendidikan, bahkan Ditambah, 27 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "SZf86LmGjQs",
+   "title": "Presiden Prabowo dan Presiden MBZ Perkuat Kemitraan Strategis dalam Suasana Hangat Ramadan",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "y4Q_2-ge3aI",
+   "title": "Presiden Prabowo Tiba di Abu Dhabi, Perkuat Kemitraan Strategis Indonesia - PEA, 25 Februari 2026",
+   "kind": "kunjungan",
+   "date": "2026-02-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lqVsLRPPrzM",
+   "title": "Kemudikan Mobil, Raja Abdullah II Antar & Lepas Keberangkatan Presiden Prabowo ke Abu Dhabi 25/02/26",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lCoZ5j0SrZM",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Raja Abdullah II, Amman, 25 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Yc1SJh9F_ho",
+   "title": "Presiden Prabowo Disambut Upacara Resmi oleh Raja Abdullah II di Istana Basman, Yordania 25 Feb 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "UQA-Bu3Rf3s",
+   "title": "Dikawal F16 di Langit Yordania, Presiden Prabowo Ucapkan Terima Kasih dari Kokpit Indonesia One",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1S9sAwA2GoE",
+   "title": "Presiden Prabowo Tiba di Amman disambut Putra Mahkota, Yordania, 24 Februari 2026",
+   "kind": "kunjungan",
+   "date": "2026-02-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YucpUYBwqZY",
+   "title": "Presiden Prabowo Saksikan Kemitraan Danantara–Arm Limited, London, 23 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "OH0OWPzpgeA",
+   "title": "Serah Terima Kawal Istana, Jakarta, 22 Februari 2026",
+   "kind": "kunjungan",
+   "date": "2026-02-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wnl-kttbbpk",
+   "title": "Keterangan Pers Presiden Prabowo Terkait Hasil Pertemuan dengan Presiden Trump, 21 Februari 2026",
+   "kind": "keterangan_pers",
+   "date": "2026-02-21",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "2f5eDVTa2As",
+   "title": "Keterangan Pers Menko Perekonomian dan Sekretaris Kabinet Tentang Tarif Global, 21 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "I20_ibtCStE",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Washington D.C, 20 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "TWvuOB8ZthY",
+   "title": "Ketpers Menteri Investasi Rosan Roeslani, CIO Danantara Pandu Sjahrir dan Ketua Kadin Anindya Bakrie",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "qr8_rkq0Fhg",
+   "title": "Presiden Trump Sebut Presiden Prabowo Pemimpin Tangguh dan Dihormati Dunia, 19 Feb 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8-cctoi8ELg",
+   "title": "Keterangan Pers Presiden Prabowo usai Hadiri Board of Peace, Washington D.C, 19 Februari 2026",
+   "kind": "keterangan_pers",
+   "date": "2026-02-19",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "RRbA5Z9jttI",
+   "title": "Sambutan Presiden Prabowo pada Roundtable Business Summit di Washington DC, 18 Februari 2026",
+   "kind": "pidato",
+   "date": "2026-02-18",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "37dayrDBRK8",
+   "title": "Sambutan Presiden Prabowo pada Gala Iftar Dinner Business Summit, Washington DC, 18 Feb 2026",
+   "kind": "pidato",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "22IJkSp3JCQ",
+   "title": "Tiba di AS, Presiden Prabowo Akan Bertemu Presiden Trump Guna Perkuat Hubungan Bilateral, 17/02/2026",
+   "kind": "kunjungan",
+   "date": "2026-02-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9-Un8Iuztcs",
+   "title": "Presiden Prabowo Bertolak Menuju Washington DC, Pangkalan TNI AU Halim Perdanakusuma, 16 Feb 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "VhrM7rk2vo8",
+   "title": "Serah Terima Kawal Istana, Jakarta, 15 Februari 2026",
+   "kind": "kunjungan",
+   "date": "2026-02-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "RsdRm47eOAI",
+   "title": "Pastikan Kesiapan Program Gizi Nasional, Presiden Prabowo Tinjau SPPG Polri Palmerah, 13 Feb 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FUF-Jbi9ifE",
+   "title": "Keterangan Pers Duta Besar Pakistan untuk Indonesia Zahid H Chaudhary, Jakarta, 12 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "sv9Z_5ORpqM",
+   "title": "Keterangan Pers Kepala BP Taskin Budiman Sudjatmiko, Jakarta, 12 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "RR54YFvuD9E",
+   "title": "Keterangan Pers Kepala Badan Pengaturan BUMN Dony Oskaria, Jakarta, 12 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "n5KWx28-gwQ",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 11 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "tdL42ILT0UM",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 11 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZjB-P6Iayng",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Jakarta, 9 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lDX_tRQx7OM",
+   "title": "Presiden Prabowo Tiba di Jawa Timur Untuk Hadiri Mujahadah Kubro Satu Abad NU, Malang, 7 Feb 2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "KDZGi3C6htA",
+   "title": "HIGHLIGHT - Kunjungan Kerja PM Australia Anthony Albanese di Indonesia, 6 Februari 2026",
+   "kind": "kunjungan",
+   "date": "2026-02-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Fk8P_c2ZkH4",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Jakarta, 6 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kMNGKi2RX9U",
+   "title": "Pengucapan Sumpah Hakim Konstitusi dan Pelantikan Wamen Keuangan Kabinet Merah Putih, 5 Feb 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kU2XV1-02AE",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Jakarta, 4 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pSNSSX9oJvY",
+   "title": "Keterangan Pers Hassan Wirajuda, Alwi Shihab, dan Jusuf Wanandi, Jakarta, 4 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FOTeSU2nfq0",
+   "title": "Keterangan Pers Dino Patti Djalal, Jakarta, 4 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eHTPhAKORIE",
+   "title": "Keterangan Pers Ketua Umum DPP PKB Muhaimin Iskandar, Jakarta, 4 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "UpI-vtnpvQU",
+   "title": "Keterangan Pers Ketua Umum MUI KH. M. Anwar Iskandar, Jakarta, 3 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BEqt2TC9Cd4",
+   "title": "Keterangan Pers Menteri Agama Nasaruddin Umar dan Para Tokoh Agama Islam, Jakarta, 3 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QOqE3fbCz2E",
+   "title": "Keterangan Pers Seskab Teddy Indra Wijaya, Jakarta, 3 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "WN6n_SIxnHw",
+   "title": "Keterangan Pers Dirut Garuda Indonesia Glenny Kairupan, Jakarta, 2 Februari 2026",
+   "kind": "ambigu",
+   "date": "2026-02-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "cCevQSpEtSU",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 28 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "XY4GTVYQKVI",
+   "title": "Keterangan Pers Menteri ATR/Kepala BPN Nusron Wahid, Jakarta, 28 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "jFKoDKffxzU",
+   "title": "Presiden Prabowo Hadiri Jamuan Makan Malam oleh Presiden Macron, Paris, 23 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "HnjlTBMLztI",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Bad Ragaz, Swiss, 23 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2yOiIpmMe0s",
+   "title": "Presiden Prabowo Tandatangani Board of Peace (BoP) Charter, Davos, 22 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "atzqXDtCM1I",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Board of Peace (BoP) Charter, Davos, 22 Januari 2026",
+   "kind": "keterangan_pers",
+   "date": "2026-01-22",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "juAwIQrvRMw",
+   "title": "Presiden Prabowo Tiba di Zurich untuk Hadiri World Economic Forum 2026, Swiss, 21 Januari 2026",
+   "kind": "kunjungan",
+   "date": "2026-01-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "rOzar7Jm-zc",
+   "title": "Keterangan Pers Sekretaris Kabinet Teddy Indra Wijaya, London, 21 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "dDfMQ0CXAbc",
+   "title": "Presiden Prabowo Bertemu dengan Wakil PM Inggris David Lammy, London, 20 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ziV6tfvrQf0",
+   "title": "Keterangan Pers Presiden Prabowo, London, 20 Januari 2026",
+   "kind": "keterangan_pers",
+   "date": "2026-01-20",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "oSuEnlDGKMo",
+   "title": "Presiden Prabowo Bertemu dengan PM Inggris Keir Starmer, London, 20 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "L0fA0KN4IBg",
+   "title": "Presiden Prabowo Tiba di London, Inggris, 18 Januari 2026",
+   "kind": "kunjungan",
+   "date": "2026-01-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mhbM-TVoalY",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Jakarta, 15 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Q444E89OIMs",
+   "title": "Keterangan Pers Menteri Pendidikan Tinggi, Sains dan Teknologi Brian Yuliarto, 15 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "J9jMNVW4RJQ",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Jakarta, 15 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pd1cyim2t-g",
+   "title": "Kisah Bangga dan Harapan Atlet SEA Games saat Terima Apresiasi Presiden Prabowo, 8 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0IT-lwJvoeE",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Hambalang, 6 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hTUVN3Te1dM",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Medan, 1 Januari 2026",
+   "kind": "ambigu",
+   "date": "2026-01-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "P-qC_SuFM7g",
+   "title": "Kaleidoskop 2025: Kepemimpinan Presiden Prabowo, Arah Tegas Menuju Indonesia Berdaulat",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "JJf1NWrjxds",
+   "title": "Keterangan Pers Seskab Teddy terkait Agenda Presiden Prabowo di Tapanuli Selatan, 31 Desember 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-12-31",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "5kN-glUEIek",
+   "title": "Presiden Prabowo Tiba di Tapanuli Utara Pastikan Pemulihan Pascabencana, 31 Desember 2025",
+   "kind": "kunjungan",
+   "date": "2025-12-31",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lxVuL4HBvag",
+   "title": "Ketpers Kepala Staf Kepresidenan M. Qodari dan Wamen Perumahan dan Kawasan Permukiman Fahri Hamzah",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "M8ZjWgYEvtc",
+   "title": "Presiden Prabowo Percepat Kampung Haji dan Hunian Warga Terdampak Bencana, Jakarta, 27 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Gxka7SXu3bg",
+   "title": "Presiden Prabowo Hadiri Akad Massal 50.030 Unit KPR FLPP dan Serah Terima Kunci, Serang, 20 Des 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AzLczJ-zYhs",
+   "title": "Presiden Prabowo Kunjungi Warga dan Tinjau Infrastruktur Pascabanjir di Sumatra Barat, 18 Des 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kFN0-evSNQs",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Padang Pariaman, 18 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yBvCXbOfrF4",
+   "title": "Keterangan Menteri Investasi Rosan Roeslani, Jakarta, 17 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZEchahHI8Os",
+   "title": "Keterangan Pers Menteri Pertanian Andi Amran Sulaiman, Jakarta, 16 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "aOG_-58jkwA",
+   "title": "Presiden Prabowo Jenguk Siswa dan Guru SDN Kalibaru 01 Cilincing, RS Koja Jakarta, 16 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "sC3T0zOrMDw",
+   "title": "Presiden Prabowo Tinjau Wilayah Bencana Bener Meriah, 12 Desember 2025",
+   "kind": "kunjungan",
+   "date": "2025-12-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "An2UBq_cqck",
+   "title": "Presiden Prabowo Bertemu Presiden Putin di Istana Kremlin, Moscow, 10 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZzbS0lLtBzM",
+   "title": "Dari Islamabad, Presiden Prabowo Tiba di Moskow, Rusia, 10 Desember 2025",
+   "kind": "kunjungan",
+   "date": "2025-12-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "g4YkNeOwuLo",
+   "title": "PM Shehbaz Dampingi Presiden Zardari Anugerahkan Bintang Tertinggi Pakistan kepada Presiden Prabowo",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eu51viYs0ok",
+   "title": "Pertemuan Bilateral, Pertukaran MOU dan Pernyataan Pers Bersama antara Indonesia dan Pakistan",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yyQaYeS7Cms",
+   "title": "Presiden Prabowo Disambut Hangat PM Sharif dalam Upacara Kenegaraan di Islamabad, 9 Desember 2025",
+   "kind": "kunjungan",
+   "date": "2025-12-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kXV2x_ztjr0",
+   "title": "PM dan Presiden Pakistan Jemput langsung Presiden Prabowo di bandara Islamabad, 8 Desember 2025",
+   "kind": "kunjungan",
+   "date": "2025-12-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "y1TgC2EgNS8",
+   "title": "Arahan Presiden RI dari Banda Aceh Terkait Penanganan & Pemulihan Bencana Aceh, Sumut, dan Sumbar",
+   "kind": "pidato",
+   "date": null,
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "Ae0BcQbY97I",
+   "title": "Keterangan Pers Ketua Perkumpulan Pemain Piring Terbang Indonesia, Jakarta, 5 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "SVau5uMXz20",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 4 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Mqn9oJY1zaM",
+   "title": "Presiden Prabowo Terima Sekjen Liga Muslim Dunia, Istana Merdeka, 4 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-roLkyZycpo",
+   "title": "Kedatangan Ketua MPR RRT Wang Huning di Indonesia, Bandara Internasional Soeta, 3 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vO9zYMdz0Ws",
+   "title": "Keterangan Pers Ketua MPR RI Ahmad Muzani, Jakarta, 2 Desember 2025",
+   "kind": "ambigu",
+   "date": "2025-12-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-FwHIGfJrTQ",
+   "title": "Presiden Prabowo Tinjau Langsung Daerah Terdampak Bencana di Sumatra Utara, Aceh, dan Sumatra Barat",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "585TcicET8M",
+   "title": "Keterangan Pers Presiden Prabowo Usai Tuntaskan Rangkaian Kunjungan ke Daerah Bencana, 1 Des 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "R1w1mx6ftCc",
+   "title": "Keterangan Pers Presiden Prabowo Usai Kunjungi Lokasi Bencana di Tapanuli Tengah, 1 Desember 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-12-01",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "yn1b5cHw9jY",
+   "title": "Presiden Prabowo Kunjungi Wilayah Terdampak Bencana di Tapanuli Tengah, 1 Desember 2025",
+   "kind": "kunjungan",
+   "date": "2025-12-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wKWhviTAqWs",
+   "title": "Keterangan Pers Mendiktisaintek Brian Yuliarto, Jakarta, 28 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "btAfeSAW49U",
+   "title": "Pengiriman Bantuan Penanganan Bencana Alam ke Tiga Provinsi Terdampak Bencana, 28 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Xo0vFyS7iDE",
+   "title": "Presiden Prabowo Perintahkan Pengiriman Bantuan Cepat ke Tiga Provinsi Terdampak Bencana,28 Nov 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YqdQkpUyD5U",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 27 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "82c9UJKZipQ",
+   "title": "Keterangan Pers Menko Bidang Perekonomian Airlangga Hartarto, Jakarta, 27 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "aP0ZeqCtWSc",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 26 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8QwvfafgroE",
+   "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 26 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Njr75zfENZQ",
+   "title": "Keterangan Pers Menteri Pemuda dan Olahraga Erick Thohir, Jakarta, 25 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "O8skkj11OBI",
+   "title": "Keterangan Pers Menteri Kependudukan dan Pembangunan Keluarga Wihaji, Jakarta, 25 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hehrkeF82T4",
+   "title": "Advokat Khusus Sekjen PBB Ratu Máxima tiba di Indonesia, Tangerang, 24 November 2025",
+   "kind": "kunjungan",
+   "date": "2025-11-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "whMHi_M8EOQ",
+   "title": "Keterangan Pers Mendagri Tito Karnavian, Jakarta, 24 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "uaddSdV8nck",
+   "title": "Keterangan Pers Kepala BRIN Arif Satria, Jakarta, 24 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ISL8FlkE7nc",
+   "title": "Keterangan Pers Menteri Pertanian Amran Sulaiman, Jakarta, 20 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BFQ1895toq0",
+   "title": "Keterangan Pers Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, 20 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "4wiIW24f_Dc",
+   "title": "Keterangan Pers Menteri Investasi Rosan Roeslani, Jakarta, 20 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "p4EKi5BEH0U",
+   "title": "Presiden Prabowo Resmikan RS Kardiologi Emirates–Indonesia, 19 November 2025",
+   "kind": "kunjungan",
+   "date": "2025-11-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Xp8lmsj05y4",
+   "title": "Presiden Prabowo Resmikan Jembatan Kabanaran dan 4 Proyek Infrastruktur, Bantul, 19 November 2025",
+   "kind": "kunjungan",
+   "date": "2025-11-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "v9sXT_pgx54",
+   "title": "Keterangan Pers Duta Besar Pakistan Zahid Hafeez Chaudhri, Jakarta, 17 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ibp7WTu6bMc",
+   "title": "Ketpers Presiden Prabowo Usai Luncurkan Digitalisasi Pembelajaran untuk Indonesia Cerdas",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8cCRJpQ1Z_U",
+   "title": "HIGHLIGHT - Kunjungan Kenegaraan Raja Kerajaan Yordania Hasyimiah, Raja Abdullah II ibn Al Hussein",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pSFhTXa6H0U",
+   "title": "Saksikan Demonstrasi Drone, Presiden Prabowo dan Raja Abdullah II ibn Al Hussein Gunakan Heli",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pK_jxcmfttc",
+   "title": "Prajurit TNI Bangga Tampil di Hadapan Presiden Prabowo dan Raja Abdullah II ibn Al Hussein, 15/11/25",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "flcWq2q2upg",
+   "title": "Momen Hangat Anak Anak Sambut Raja Abdullah II ibn Al Hussein Bersama Presiden Prabowo, 14 Nov 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yr0V2Hwt7-k",
+   "title": "Pemberian Rehabilitasi oleh Presiden Kepada Dua Orang Guru, Jakarta,13 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6tWx7v6N0LI",
+   "title": "Presiden Prabowo Bertolak Kembali ke Tanah Air Usai Kunjungan Kenegaraan di Australia, 12 Nov 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Dkn4-4GyUsM",
+   "title": "Presiden Prabowo Tinjau Kapal HMAS Canberra Bersama PM Albanese, Sydney, 12 November 2025",
+   "kind": "kunjungan",
+   "date": "2025-11-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "MtaiC0EXW_A",
+   "title": "Keterangan Pers Presiden Prabowo Usai Terima Kunjungan Paul Keating, Sydney, 12 November 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-11-12",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "uLhquviACCY",
+   "title": "Gubernur Jenderal Australia Sam Mostyn Sambut Presiden Prabowo dengan Upacara Kenegaraan",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lDx6rWIQdzM",
+   "title": "Pertemuan Presiden Prabowo dan PM Australia Anthony Albanese, Sydney, 12 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-tjXJTkNPm0",
+   "title": "Presiden Prabowo Tiba di Sydney untuk Kunjungan Kenegaraan, Sydney, 11 November 2025",
+   "kind": "kunjungan",
+   "date": "2025-11-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "4YuXyQQRDm0",
+   "title": "Keterangan Pers Menteri Ketenagakerjaan Yassierli, Jakarta, 10 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "df3a1SjQAwg",
+   "title": "Upacara Penganugerahan Gelar Pahlawan Nasional Tahun 2025, Istana Negara, 10 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "rzZk7Z5OC98",
+   "title": "Arahan Presiden Prabowo pada Komisi Percepatan Reformasi Polri, Istana Merdeka, 7 November 2025",
+   "kind": "pidato",
+   "date": "2025-11-07",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "RR_f73iktkU",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi Rosan Roeslani, Jakarta, 6 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "WXTZkBU0Pnk",
+   "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 6 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "GcVYOImQSmk",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 6 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_E9m4CvnFq0",
+   "title": "Keterangan Pers Menteri Kebudayaan Fadli Zon, Jakarta, 5 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pNS6T4YIZO4",
+   "title": "Keterangan Pers Menko Pemberdayaan Masyarakat dan Menteri UMKM, Jakarta, 4 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-YKhZsxb03s",
+   "title": "Presiden Prabowo Tinjau KRL dari Stasiun Manggarai menuju Stasiun Tanah Abang Baru, 4 November 2025",
+   "kind": "kunjungan",
+   "date": "2025-11-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iby2v23K8Ec",
+   "title": "Keterangan Pers Ignasius Jonan, Jakarta, 3 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZswlTO_0s9U",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 3 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ysv3asHfnMo",
+   "title": "Pidato Presiden Prabowo pada KTT APEC 2025 Sesi Kedua, Gyeongju, 1 November 2025",
+   "kind": "pidato",
+   "date": "2025-11-01",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "lmYR55UOja0",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Presiden Lee Jae Myung, Gyeongju, 1 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vv4f00RIyGM",
+   "title": "Pidato Presiden Prabowo pada KTT APEC 2025 Sesi Pertama, Gyeongju, 31 Oktober 2025",
+   "kind": "pidato",
+   "date": "2025-10-31",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "7EQ2IbWcqFk",
+   "title": "Presiden Prabowo Hadiri KTT APEC 2025 Retret Sesi Kedua, Gyeongju, 1 November 2025",
+   "kind": "ambigu",
+   "date": "2025-11-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "clGy_eIDx2I",
+   "title": "Presiden Prabowo Hadiri Jamuan Gala Dinner KTT APEC 2025, Gyeongju, 31 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-31",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BTnIHAb0ytI",
+   "title": "Press Statement by President Prabowo Following Bilateral Meeting with Prime Minister Luxon, Gyeon...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "UoX35X-yiWs",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan PM Selandia Baru Luxon, Gyeongju, 31 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-31",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "sabJx-dWaFg",
+   "title": "Presiden Prabowo Hadiri KTT APEC 2025 di Gyeongju, Republik Korea, 31 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-31",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yeZcpieTLY8",
+   "title": "Hangatnya Sambutan Diaspora Indonesia untuk Presiden Prabowo di Gyeongju, 30 Oktober 2025",
+   "kind": "pidato",
+   "date": "2025-10-30",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "_PXuhafa7dQ",
+   "title": "Presiden Prabowo Tiba di Republik Korea untuk Hadiri KTT APEC 2025, Busan, 30 Oktober 2025",
+   "kind": "kunjungan",
+   "date": "2025-10-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "jK59w_aftoo",
+   "title": "Keterangan Pers Kepala Badan Gizi Nasional (BGN) Dadan Hindayana, Jakarta, 29 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nggu14qNxZc",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 29 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "EkyqIyPg7nE",
+   "title": "President Prabowo's Press Statement Following the Destruction of 214.84 Tons of Drug Evidence, Oc...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "zDmNmv18Yyw",
+   "title": "President Prabowo: Indonesia's Strength and Future Lie in the Hands of Youth",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8dFnXTPIKEY",
+   "title": "President Prabowo Attends the 26th ASEAN-Republic of Korea Summit, Kuala Lumpur, October 27, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QDKwMZCbvfk",
+   "title": "Presiden Prabowo Hadiri KTT ke-28 ASEAN Plus Three, Kuala Lumpur, 27 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "CtOLq_s97fI",
+   "title": "Presiden Prabowo Hadiri KTT ke-28 ASEAN-Jepang, Kuala Lumpur, 26 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "zEWj_yG2jR0",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri KTT ke-13 ASEAN-US, Kuala Lumpur, 26 Oktober 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-10-26",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "hrf6N_79n48",
+   "title": "Presiden Trump Puji Kepemimpinan Presiden Prabowo Wujudkan Perdamaian di Timur Tengah",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "q5nnN-XQ4ns",
+   "title": "Presiden Prabowo Hadiri Sesi Pleno KTT ke-47 ASEAN, Kuala Lumpur, 26 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0G4EuU8UAVY",
+   "title": "Presiden Prabowo Hadiri KTT ke-47 ASEAN, Kuala Lumpur, 26 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "IuE7NGQs_xk",
+   "title": "Presiden Prabowo Tiba di Malaysia untuk Hadiri KTT ke-47 ASEAN, 25 Oktober 2025",
+   "kind": "kunjungan",
+   "date": "2025-10-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6Zmdg0j4Eek",
+   "title": "Keterangan Pers Mensesneg dan Kapolri, Jakarta, 25 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5wo0lqfmlCU",
+   "title": "HIGHLIGHT - Kunjungan Kenegaraan Presiden Brasil Luiz Inácio Lula da Silva ke Indonesia",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "CJTdjn9jWZk",
+   "title": "HIGHLIGHT - Kunjungan Kenegaraan Presiden Afrika Selatan Matamela Cyril Ramaphosa ke Indonesia",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9veS2HVlJbA",
+   "title": "Cabinet Secretary's Press Statement after Visiting Senior High School 33, South Tangerang, Octobe...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "MCe-bClNGhU",
+   "title": "President Prabowo Attends the Open Senate Session and UKRI's 2025 Anniversary Celebration, Bandun...",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Djc-ebYxyBY",
+   "title": "Press Statement from President Prabowo after Attending the Open Senate Session and UKRI Anniversa...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "97XQE7kc-LI",
+   "title": "Dialog Presiden Prabowo dengan CEO Forbes pada Forbes Global CEO Conference 2025, 15 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "JzEQ_M34rHw",
+   "title": "Seskab Teddy: Indonesia Salah Satu Penentu dan Pencetak Sejarah dalam Perdamaian Timur Tengah",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NEgi4UekwaY",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Pangkalan TNI AU Halim Perdanakusuma, 14 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QMjBxuI6D-4",
+   "title": "President Prabowo Arrives Home After Attending Peace Summit & Gaza Ceasefire, Oct 14, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Q6Dmt9mlPEU",
+   "title": "Presiden Prabowo menghadiri KTT Perdamaian Sharm El-Sheikh, Mesir, 13 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pBebT2kBrvQ",
+   "title": "Tiba di Mesir, Presiden Prabowo Hadiri KTT Perdamaian Sharm El Sheik",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8tm0muSTm6o",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Jakarta, 12 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "89tm0XVf3EI",
+   "title": "Keterangan Pers Ketua Dewan Komisioner LPS Anggito Abimanyu, Jakarta, 8 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YQF8-IUvWB0",
+   "title": "Keterangan Pers Ketua Komite Percepatan Papua Velix Vernando Wanggai, Istana Negara, 8 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "inCNfGA_u-4",
+   "title": "Keterangan Pers Gubernur Papua Matius Fakhiri, Istana Negara, 8 Oktober 2025",
+   "kind": "ambigu",
+   "date": "2025-10-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YsbLDNLb1PM",
+   "title": "Presiden Prabowo Saksikan Penyerahan Aset Rampasan Negara dari Tambang Ilegal kepada PT Timah Tbk.",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "TEstWOU7di0",
+   "title": "Presiden Prabowo Terima Juara Dunia MotoGP Marc Marquez dan Dua Pembalap Muda Indonesia, 30 Sep 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AFYylKSXzrc",
+   "title": "Bogor Residents Happily Welcome FLPP Subsidized Housing, September 29, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0KGQ20dO8FA",
+   "title": "Lawatan Presiden Prabowo 6 Hari 4 Negara, 27 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pjR5u6NyH4Q",
+   "title": "Presiden Prabowo Diterima Raja dan Ratu Belanda di Royal Palace Huis ten Bosch, Den Haag,26 Sep 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "x8tmBpAlygY",
+   "title": "Presiden Prabowo Tiba di Amsterdam, Belanda, 25 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BBNDJuthdTA",
+   "title": "Presiden Prabowo Hadiri Jamuan Makan Malam Resmi PM Kanada di National Gallery, Ottawa, 24 Sep 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "IJkbO-IDswc",
+   "title": "Presiden Prabowo Bertolak ke Belanda, Ottawa, 24 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "xIJc0fyL-a0",
+   "title": "Pertemuan Presiden Prabowo dengan PM Carney pada Kunjungan Resmi, Ottawa, 24 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "JiyO0ZTM-Ng",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Gubernur Jenderal Kanada Mary Simon, Ottawa, 24 Sep 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1_95JA48FDg",
+   "title": "Presiden Prabowo Tiba di Ottawa, Kanada, 24 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "XFKqAlRSeMY",
+   "title": "Presiden Prabowo Menerima Kunjungan Presiden FIFA Gianni Infantino, New York, 24 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "7P_aZVuQB0o",
+   "title": "Presiden Prabowo Bertolak ke Ottawa, Kanada, 24 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gBzZ2gLSDKg",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, New York, 24 September 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-09-24",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "zFu2_urrpz0",
+   "title": "Presiden Prabowo Hadiri Pertemuan Multilateral, Penuhi Undangan Presiden Trump, New York,23 Sep 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nTYRwP1B0_c",
+   "title": "Presiden Prabowo Anugerahkan Bintang Jasa Utama kepada Bill Gates, New York, 23 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6y5r6NmrROM",
+   "title": "Presiden Prabowo Tegaskan Dukungan Indonesia untuk Solusi Dua Negara di PBB, New York, 23 Sep 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "swuH7_9NrC4",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Sekjen PBB Antonio Guterres, New York, 22 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "qvFKVehlswI",
+   "title": "Presiden Prabowo Hadiri High-Level UN Conference on the Two State Solution, New York, 22 Sep 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3O0hZVxtrKo",
+   "title": "Diaspora Bangga Presiden Prabowo Akan Berpidato Ketiga di Sidang PBB, New York, 20 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "La4Uo2evFSM",
+   "title": "Tiba di New York, Presiden Prabowo Siap Berpidato Ketiga pada Sidang Majelis Umum PBB, 20 Sep 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1HKjQsVFslw",
+   "title": "Dari Osaka, Presiden Prabowo Bertolak ke New York Sampaikan Pidato di Sidang Umum PBB, 20 Sep 2025",
+   "kind": "pidato",
+   "date": "2025-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "PqYW_TF2pzE",
+   "title": "Presiden Prabowo Kunjungi Paviliun Indonesia di Expo 2025 Osaka, Jepang, 20 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-5WN1_d0-6E",
+   "title": "Presiden Prabowo Tiba di Osaka, Jepang, 20 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "fIuHF8YaQrs",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Pangkalan TNI AU Halim Perdanakusuma, 19 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "17n-TC_Lej8",
+   "title": "Keterangan Pers Dirut Pertamina Simon Aloysius Mantiri, Jakarta, 19 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wN6oOiIkkeA",
+   "title": "Keterangan Pers Menteri Sosial Saifullah Yusuf, Jakarta, 19 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Y2K7mrn2DTY",
+   "title": "Keterangan Pers Menteri Keuangan Purbaya Yudhi Sadewa, Jakarta, 19 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "O9_DI5hcgVQ",
+   "title": "Keterangan Pers Menteri Sekretaris Negara Prasetyo Hadi, Istana Negara, 17 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NrvoF7AFP5c",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 16 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "fWLePyy6bPY",
+   "title": "Presiden Prabowo Kunjungi Warga Bali Pasca Banjir, 13 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lzEqlrvJQKc",
+   "title": "Pertemuan Presiden Prabowo dengan Presiden PEA Syekh Mohamed bin Zayed, Abu Dhabi, 12 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-5trEu1FLyo",
+   "title": "Presiden Prabowo Tiba di Abu Dhabi, Persatuan Emirat Arab, 12 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "818nkGGpZTw",
+   "title": "Pertemuan Presiden Prabowo dengan Emir Qatar Syekh Tamim bin Hamad Al-Thani, Doha, 12 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "orb-XidsssI",
+   "title": "Presiden Prabowo Tiba di Doha, Qatar, 12 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gjxPyE4icD8",
+   "title": "Presiden Prabowo Terima Tokoh Gerakan Nurani Bangsa, Istana Merdeka, 11 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "UhEtUBiFWgw",
+   "title": "Belajar, Bermimpi dan Didengar Presiden Prabowo di Sekolah Rakyat, 11 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "B8dZEvyTzN0",
+   "title": "Presiden Prabowo Tinjau Sekolah Rakyat Menengah Atas Margaguna, Jakarta Selatan,11 September 2025",
+   "kind": "kunjungan",
+   "date": "2025-09-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gDWnZ8czb28",
+   "title": "Keterangan Pers Menteri Keuangan Purbaya Yudhi Sadewa, Jakarta, 10 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NpZ_Ojw67IQ",
+   "title": "Press Statement by Finance Minister Purbaya Yudhi Sadewa, Jakarta, September 9, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kJW5fZ3UHg8",
+   "title": "Keterangan Pers Menko Pangan Zulkifli Hasan, Jakarta, 9 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "aSP_oQOcPZA",
+   "title": "Presiden Prabowo Hadiri BRICS Leaders Virtual Meeting, Jakarta, 8 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "s7LzeP9fMfc",
+   "title": "Keterangan Pers Menteri Koperasi Ferry Joko Juliantono, Jakarta, 8 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gAdkPB4qcl0",
+   "title": "Keterangan Pers Menteri Perlindungan Pekerja Migran Mukhtarudin, Jakarta, 8 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "sHqZZWfRigg",
+   "title": "Keterangan Pers Menteri Haji dan Umrah Irfan Yusuf, Jakarta, 8 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NvX-xjSu5qs",
+   "title": "Keterangan Pers Perwakilan Mahasiswa usai Dialog dengan Pemerintah di Istana Negara,4 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wPKd2IIicHQ",
+   "title": "Keterangan Pers Menko Kumham Impias Yusril Ihza Mahendra, Jakarta, 4 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "n_WJgiyrm_E",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 4 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iZdB6Lh7zHQ",
+   "title": "Presiden Prabowo Hadiri Peringatan 80 Tahun Kemenangan Perlawanan Rakyat Tiongkok, 3 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LExIflmodlA",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Presiden Xi Jinping, Beijing, 3 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "aefht08o_64",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Pangkalan TNI AU Halimperdanakusuma, 2 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZrLIQnH-oII",
+   "title": "Keterangan Pers Perwakilan Serikat Pekerja, Jakarta, 1 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iZsOQRgX3ms",
+   "title": "Press Release from the Interfaith Youth Organization, Jakarta, September 1, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_a8ygjskbqo",
+   "title": "Keterangan Pers Para Tokoh Lintas Agama, Jakarta, 1 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AgjKrM_aNMM",
+   "title": "Presiden Prabowo Jenguk Polisi dan Masyarakat di RS Polri, 1 September 2025",
+   "kind": "ambigu",
+   "date": "2025-09-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_XCtirhQJv0",
+   "title": "Keterangan Pers Presiden Prabowo Usai Jenguk Polisi dan Masyarakat Korban Demo, 1 September 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-09-01",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "ZZofuJHr9SQ",
+   "title": "Keterangan Pers Ketum Organisasi Masyarakat Islam, Hambalang, 30 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Jq0bv-uKV9A",
+   "title": "Presiden Prabowo Takziah ke Rumah Duka Keluarga Affan Kurniawan, Jakarta, 29 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LJ8yd0uRvwY",
+   "title": "Pernyataan Presiden Prabowo, 29 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kLxuTrdr_7g",
+   "title": "Presiden Prabowo Resmi Buka APKASI Otonomi Expo 2025, Tangerang, 28 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2QViz6nTLhE",
+   "title": "Keterangan Pers Mendikdasmen  Abdul Mu'ti, Jakarta, 27 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "q7mEU_EMoK4",
+   "title": "Keterangan Pers Ketua Dewan Ekonomi Nasional Luhut Binsar Pandjaitan, Jakarta, 27 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mauY4zD7TiU",
+   "title": "President Prabowo Reviews Modern Facilities at RSPON Mahar Mardjono, Welcomed Positively, August ...",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Lk27E4bo_lA",
+   "title": "Keterangan Pers Presiden Prabowo usai Resmikan Gedung Layanan Terpadu dan INN RSPON, 26 Agustus 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-08-26",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "6PZayyDann8",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 25 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-qDI0-wNicI",
+   "title": "Keterangan Pers Menko Bidang Pangan Zulkifli Hasan, Jakarta, 25 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "V0EQScIUjWk",
+   "title": "Keterangan Pers Menteri Pertanian Amran Sulaiman, Jakarta, 25 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Q4bplkag0vg",
+   "title": "Merdeka Run 8.0K Celebrates the 80th Anniversary of Indonesia's Independence, Jakarta, August 24,...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "px1vtrT6jGQ",
+   "title": "80 Tahun Indonesia Merdeka. Bersatu Berdaulat, Rakyat Sejahtera, Indonesia Maju",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mU9YtIuYsCc",
+   "title": "People's Celebration at the Palace Grounds, Citizens United in Independence, August 17, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yQYBWonMjmo",
+   "title": "Kebanggaan Para Pemeran Serta di Peringatan HUT ke-80 Kemerdekaan RI, Jakarta, 17 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "C-pCMMlg5zk",
+   "title": "Indonesia Berdaulat Team Ready to Hoist the Red and White Flag, August 17, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0vfRDrI21gA",
+   "title": "Watch Tomorrow! The 80th Anniversary Celebration of the Republic of Indonesia's Independence",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "g6CEA3m8vu8",
+   "title": "Istana Sambut Semua Masyarakat di Hari Kemerdekaan, Jakarta, 16 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "aIFkZ-EHS2E",
+   "title": "Keterangan Pers Ketua Dewan Pengarah BPIP Megawati Soekarno Putri, Istana Negara, 16 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9YT-4ajKe5M",
+   "title": "Citizens Prepare to Fulfill Presidential Invitation to Merdeka Palace, August 16, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iNTNLzJ5f7U",
+   "title": "Euforia Masyarakat Sambut Upacara HUT ke-80 Kemerdekaan RI di Istana",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6fEGd6ce6RU",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Halaman Istana Merdeka, 12 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LA-2pDSdvJM",
+   "title": "State Visit of President of Peru Dina Ercilia Boluarte Zegarra to Indonesia, August 10-11, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yomkQzmtkCs",
+   "title": "Bilateral Meeting of President Prabowo with President Dina Ercilia Boluarte Zegarra, August 11, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "fRRqCMoDleE",
+   "title": "Presiden Prabowo Hadiri Parade Hari Nasional, Singapura, 9 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gZFyA9zWoBk",
+   "title": "President Prabowo Arrives in Singapore to Attend National Day Parade, Singapore, August 9, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "77h5ANR4ae4",
+   "title": "Keberangkatan Presiden Prabowo ke Singapura untuk hadiri Parade Hari Nasional 2025, 9 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "PkQ2LmK9dEQ",
+   "title": "Presiden Prabowo Beri Arahan dan Lepas Keberangkatan Retreat Anggota KADIN Indonesia, 8 Agustus 2025",
+   "kind": "pidato",
+   "date": "2025-08-08",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "vaKpK0rJLk4",
+   "title": "Presiden Prabowo Kembali Menuju Jakarta dengan Whoosh, Kab. Bandung Barat, 7 Agustus 2025",
+   "kind": "kunjungan",
+   "date": "2025-08-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Gczc14dpEdw",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri KSTI Indonesia 2025, Bandung, 7 Agustus 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-08-07",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "as92Uz4DLlo",
+   "title": "Gunakan Whoosh, Presiden Prabowo Kunjungan Kerja ke Jawa Barat, 6 Agustus 2025",
+   "kind": "kunjungan",
+   "date": "2025-08-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_1N-gA1LTQo",
+   "title": "Keterangan Pers Menteri Usai Sidang Kabinet Paripurna, Jakarta, 6 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "w42y9ws0jZI",
+   "title": "Keterangan Pers Menteri Kesehatan Budi Gunadi Sadikin, Jakarta, 5 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "JyGl5dN1Yzc",
+   "title": "Keterangan Pers Menteri Sekretaris Negara Prasetyo Hadi, Jakarta, 5 Agustus 2025",
+   "kind": "ambigu",
+   "date": "2025-08-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mT7k94ldWP0",
+   "title": "National Prayer for the 80th Anniversary of Indonesian Independence, Proclamation Monument, Augus...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5JXzjUR5Z20",
+   "title": "Keterangan Pers Menteri Pertanian usai Rapat Terbatas, Jakarta, 30 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LU-jOd2EKDk",
+   "title": "Keterangan Pers Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait, Jakarta, 30 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "sIfscbmA3Og",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Roslan Roeslani, Jakarta, 30 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Ou6_dtfW91M",
+   "title": "Keterangan Pers Menteri Pertanian Amran Sulaiman, Jakarta, 30 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eW9XzFJ0bgE",
+   "title": "President Prabowo Pays Respects to the Late Kwik Kian Gie, Jakarta, July 30, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Yv5iFv-XT3I",
+   "title": "Kunjungan PM Malaysia Anwar Ibrahim ke Indonesia, 28-29 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "4Nbha0KAxdU",
+   "title": "President Prabowo Chairs Meeting on People's School Implementation, Merdeka Palace, July 29, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "jNd-3Ze4Gh4",
+   "title": "President Prabowo Receives Leadership of the Prosperous Justice Party, Merdeka Palace, July 29, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "w1x1fbuzr9Y",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Istana Merdeka, 29 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Ir7_6-uk1YE",
+   "title": "Prasetya Perwira TNI dan Polri Tahun 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "p5ZieuM4rLM",
+   "title": "President Prabowo Receives MPR RI Leadership, Merdeka Palace, July 23, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "U4nM3WRspNI",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi, serta Chairman Forbes Media, Jakarta, 23 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "MLT3s4VgLts",
+   "title": "Keterangan Pers Menteri Keuangan Sri Mulyani, Jakarta, 22 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NO6w94v3IPw",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi Rosan Roeslani, Jakarta, 22 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5BanUv0j3mc",
+   "title": "President Prabowo Inaugurates the Institution of 80,081 Merah Putih Village/Sub-district Cooperat...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oE0yW0HjUrw",
+   "title": "Presiden Prabowo Kunjungi Kediaman Presiden ke-7 RI Joko Widodo, Surakarta, 20 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "y-K7n8Ntsgw",
+   "title": "Pertemuan Presiden Prabowo dengan Presiden Belarus Aleksandr Lukashenko, Minsk, 15 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hBTfAuk3jH8",
+   "title": "Presiden Prabowo Tiba di Tanah Air, Pangkalan TNI AU Halim Perdanakusuma, 16 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "g2Rsaoc2K90",
+   "title": "Keterangan Pers Presiden Prabowo, Pangkalan TNI AU Halim Perdanakusuma, 16 Juli 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-07-16",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "9q5UvRmTytg",
+   "title": "Keterangan Pers Sekretaris Kabinet Teddy Indra Wijaya, Paris, 15 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1Pdx9IBy3dg",
+   "title": "Keterangan Pers Presiden Prabowo Sebelum Bertolak Menuju Tanah Air, Paris, 15 Juli 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-07-15",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "GDT29TR1uqk",
+   "title": "Presiden Prabowo Hadiri Jamuan Makan Malam oleh Presiden Macron, Paris, 14 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "a2efRjsz9B4",
+   "title": "Presiden Prabowo Tiba di Paris, Prancis, 13 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "B8-Kbgi--wg",
+   "title": "Presiden Prabowo Bertemu Raja Belgia di Istana Laeken, Brussel, 13 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "GYSUFgb5wP4",
+   "title": "Press Statement by President Prabowo, Brussels, July 13, 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-00-00?",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "ojvdFqwWW_8",
+   "title": "Pertemuan Presiden Prabowo dengan Presiden Dewan Eropa António Costa, Brussel, 13 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8WaeakOd1Mc",
+   "title": "Pertemuan Presiden Prabowo dengan Presiden Komisi Eropa Ursula von der Leyen, Brussel, 13 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AbyIcxc9kfE",
+   "title": "Keterangan Pers Menteri Perdagangan Budi Santoso, Brussel, 12 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "c3rsoK29nn8",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Brussel, 12 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "VYYJdOROO9c",
+   "title": "Presiden Prabowo Tiba di Brussel, Belgia, 12 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "PwJ8JZGJk9M",
+   "title": "Kunjungan Kenegaraan Presiden Prabowo di Brasilia, 9 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AkxNJVgeuUA",
+   "title": "Presiden Prabowo Tinggalkan Brasil Usai KTT BRICS dan Kunjungan Kenegaraan, Brasilia, 9 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-B_w1us2MMI",
+   "title": "Presiden Prabowo Tiba di Brasilia, 7 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "rkkpGwS1OGU",
+   "title": "Keterangan Pers Sekretaris Kabinet dan Wakil Menlu, Rio de Janeiro, 7 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "KVMRSChWijM",
+   "title": "Keberangkatan Presiden Prabowo ke Brasilia, Rio de Janeiro, 7 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Waaq13rGqWM",
+   "title": "Presiden Prabowo Hadiri KTT BRICS Hari ke-2, Rio de Janeiro, 7 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gZflqY-xhFY",
+   "title": "Keterangan Pers Menko Perekonomian dan Wakil Menlu, Rio de Janeiro, 7 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3274hug3lrM",
+   "title": "Presiden Prabowo Hadiri KTT BRICS Brasil, Rio de Janeiro, 6 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "zCP4MVAVAMw",
+   "title": "Presiden Prabowo Tiba di Brasil, Rio de Janeiro, 5 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "EcF3snr1cIU",
+   "title": "Presiden Prabowo Melaksanakan Ibadah Umrah, Makkah, 3 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "F4Bz760uM3A",
+   "title": "Presiden Prabowo Tinggalkan Arab Saudi untuk Lanjutkan Lawatan ke Negara Berikutnya, 3 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AYvszO2Wpdo",
+   "title": "Keterangan Pers Presiden Prabowo, Jeddah, 3 Juli 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-07-03",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "fr-yu17u-Cs",
+   "title": "Presiden Prabowo Disambut Hangat Putra Mahkota Mohammed bin Salman, Jeddah, 2 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Ld4gAFA2l-I",
+   "title": "Presiden Prabowo Tiba di Jeddah, Arab Saudi, 1 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LcgyMQSpYDc",
+   "title": "Upacara Peringatan ke-79 Hari Bhayangkara, Monas, 1 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3xp3UBWoavY",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Pangkalan TNI AU Halim Perdanakusuma, 1 Juli 2025",
+   "kind": "ambigu",
+   "date": "2025-07-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yXqdZ8GFLp4",
+   "title": "Presiden Prabowo Bertolak ke Arab Saudi untuk Kunjungan Kenegaraan, 1 Juli 2025",
+   "kind": "kunjungan",
+   "date": "2025-07-01",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "RI4tUWQY_Mk",
+   "title": "President Prabowo Inaugurates Southeast Asia's Largest Battery Project, Karawang, June 29, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ReUe1Ztc_xY",
+   "title": "Kunjungan Resmi PM Malaysia Anwar Ibrahim, 27 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pIg-UJCExOg",
+   "title": "President Prabowo Inaugurates Sanur SEZ and Bali International Hospital, Denpasar, June 25, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "PNk9OSQKSBc",
+   "title": "Presiden Prabowo Resmikan Ngoerah Sun Wellness and Aesthetic Center, Denpasar, 25 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "qSNk0ORsaGk",
+   "title": "Press Statement by PBNU Chairman Yahya Cholil Staquf, Jakarta, June 24, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "v-roV2XYJm4",
+   "title": "President Prabowo's Official Visit to Russia",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3XVMBZmU9TY",
+   "title": "Dari St. Petersburg, Presiden Prabowo Bertolak Menuju Tanah Air, 20 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "fRqxhw4k3WA",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri SPIEF’25, St. Petersburg, 20 Juni 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-06-20",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "oB_JhW-32Dg",
+   "title": "Presiden Prabowo Bertemu Presiden Putin di Istana Konstantinovsky, St. Petersburg, 19 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5iWJOK9ChQQ",
+   "title": "Presiden Prabowo Letakkan Karangan Bunga di Piskaryovskoye Memorial, St. Petersburg, 19 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Kyt7DQMcIT8",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, St. Petersburg, 18 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oY4nyooNRiM",
+   "title": "Presiden Prabowo Tiba di St. Petersburg, Rusia, 18 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QmlLB9teLkU",
+   "title": "Transit di Praha, Presiden Prabowo Terima Kunjungan PM Ceko Petr Fiala, 17 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "cdhw3tkyimk",
+   "title": "President Prabowo Decides Four Islands Are Part of Aceh Province, June 17, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "uovi8y9NEUQ",
+   "title": "Bertolak dari Singapura, Presiden Prabowo Lanjutkan Lawatan ke Rusia, 16 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "r364Cdy1RQ4",
+   "title": "Press Statement by Foreign Minister Sugiono, Singapore, June 16, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "g38fuFLqV-k",
+   "title": "Presiden Prabowo Hadiri Jamuan Santap Siang Kenegaraan oleh Presiden Tharman, Singapura,16 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vb0NU9P07Z8",
+   "title": "Leaders' Retreat Perdana Presiden Prabowo dan PM Lawrence Wong, Singapura, 16 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "WcaWJGFdjzk",
+   "title": "Presiden Prabowo Disambut Upacara Kenegaraan di Parliament House Singapore, 16 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "DWUlJKnk7iw",
+   "title": "Tiba di Singapura, Presiden Prabowo Disambut Langsung oleh PM Lawrence Wong, 15 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kCpLVxcXtoI",
+   "title": "Presiden Prabowo Bertolak Menuju Singapura untuk Kunjungan Kenegaraan, Jakarta, 15 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_xdWBOvabSY",
+   "title": "Presiden Prabowo Resmikan Kampus Bhinneka Tunggal Ika Universitas Pertahanan, 11 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yZVIm9vDw7c",
+   "title": "Presiden Prabowo Resmikan Indo Defence 2025 Expo & Forum, 11 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "j4c2-MA4_NY",
+   "title": "Presiden Prabowo Instruksikan Akselerasi Penanganan Sampah Lewat Skema Hulu Hilir, 10 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9rxD7xLWeLo",
+   "title": "President Prabowo Welcomes the Indonesian National Team, Jakarta, June 6, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QlBvMg3ixZk",
+   "title": "President Prabowo Witnesses the National Team's Victory Over China, Jakarta, June 5, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QlgjsuHN0Pw",
+   "title": "Presiden Prabowo Panen Raya Jagung dan Lepas Ekspor ke Malaysia, Bengkayang, 5 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "RQ9Q1o9sud4",
+   "title": "Presiden Prabowo Terima Kunjungan Wakil PM Australia Richard Marles di Kertanegara, 5 Juni 2025",
+   "kind": "kunjungan",
+   "date": "2025-06-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "qfj5NiwiZLc",
+   "title": "Keterangan Pers Presiden Prabowo, Bengkayang, 5 Juni 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-06-05",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "maSEio7Gb90",
+   "title": "Keterangan Pers Menteri BUMN Erick Thohir, Jakarta, 4 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "WBiIInK_9Ec",
+   "title": "Keterangan Pers Menteri Kesehatan Budi Gunadi Sadikin, Jakarta, 3 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "C9czK35LCcw",
+   "title": "Presiden Prabowo Pimpin Upacara Hari Lahir Pancasila, Gedung Pancasila, 2 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "S90lKlT8FSc",
+   "title": "Presiden Prabowo Pimpin Ratas Terkait Stimulus Ekonomi, Istana Merdeka, 2 Juni 2025",
+   "kind": "ambigu",
+   "date": "2025-06-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "J-00qCrN14A",
+   "title": "75 Tahun Indonesia-Prancis, Kunjungan Presiden Emmanuel Macron di Indonesia",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-lOEMlzcUZ0",
+   "title": "Presiden Prabowo dan Presiden Macron Kunjungi Candi Borobudur, 29 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pISQqF34k3E",
+   "title": "Presiden Prabowo Terima Utusan Khusus PM Inggris Urusan Pendidikan, Kabupaten Bogor, 30 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "CvAm6PgpL28",
+   "title": "President Prabowo and President Macron Visit the Military Academy, Magelang, May 29, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_rLNL-UZqpc",
+   "title": "Rangkaian Penyambutan Kenegaraan Presiden Macron, Jakarta, 28 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "rLK84wJLOsc",
+   "title": "Jamuan Makan Malam Kenegaraan Presiden Republik Prancis Emmanuel Macron, Istana Negara, 28 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "W5jwNEGAfgs",
+   "title": "Antusiasme Siswa Sambut Kunjungan Kenegaraan Presiden Prancis, Jakarta, 28 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "DZyj_v9WnWU",
+   "title": "Dari Kuala Lumpur, Presiden Prabowo Bertolak Menuju Tanah Air, 27 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QPd_JpmRWLo",
+   "title": "Presiden Prabowo Hadiri KTT ke-2 ASEAN-GCC, Kuala Lumpur, 27 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "GRIV-wrxsEM",
+   "title": "Presiden Prabowo Hadiri KTT ke-16 BIMP-EAGA, Kuala Lumpur, 27 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "i3won2ibcnc",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Kuala Lumpur, 26 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "x2VGj8OnNog",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan PM Singapura Lawrence Wong, Kuala Lumpur, 26 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3ec4qGez0FI",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan PM Laos Sonexay Siphandone, Kuala Lumpur, 26 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "qTrT15cm-v0",
+   "title": "Presiden Prabowo Hadiri KTT ke-46 ASEAN, Kuala Lumpur, 26 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Opeb1Pvz7kc",
+   "title": "Antusiasme dari Monas, Pelajar dan Masyarakat Sambut Kedatangan Premier Li Qiang, 25 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Z1BO71-EDwI",
+   "title": "Presiden Prabowo Tiba di Kuala Lumpur, Malaysia, 25 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "EgOgisZsqs4",
+   "title": "Presiden Prabowo Bertolak Menuju Malaysia untuk Hadiri KTT ke-46 ASEAN, Jakarta, 25 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iws0C_SlM2E",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 23 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oZrsq1nO5R0",
+   "title": "President Prabowo's MBG Program for Children on Rote Island",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "aGdHmLKqu8E",
+   "title": "CKG di Rote, Program Presiden Prabowo Sentuh Pulau Terluar Indonesia",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "o2vqzTjOCps",
+   "title": "Keterangan Pers Kepala Badan Pengusahaan Batam, Jakarta, 22 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yS6hEdTfYIs",
+   "title": "Pameran Tahunan ke-49 Indonesian Petroleum Association (IPA) Tahun 2025, Tangerang, 21 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BQA3S0SlZLY",
+   "title": "Keterangan Pers Presiden Prabowo usai Resmikan Pembukaan IPA ke 49, Tangerang, 21 Mei 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-05-21",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "0KubAzr6jGE",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 20 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yTYdiBn_EaU",
+   "title": "Keterangan Pers Kepala BPI Danantara Indonesia Rosan Roeslani, Jakarta, 20 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eQHYkUwjWv0",
+   "title": "Dari Thailand, Presiden Prabowo Bertolak ke Tanah Air, Bangkok, 19 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "XI-CPpothUs",
+   "title": "Indonesia dan Thailand Setujui MoU Kesehatan, Fokus pada Kapasitas & Kolaborasi Global, 19 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nbS3m8Rohco",
+   "title": "Tiba di Government House Thailand, Presiden Prabowo Disambut dengan Upacara Resmi, 19 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "128p8-aEs08",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers dan Media Yusuf Permana, Bangkok, 18 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "D3l3Kby_jn8",
+   "title": "Presiden Prabowo Tiba di Bangkok, Thailand, 17 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mOWFnsh8E-M",
+   "title": "Presiden Prabowo Bertolak ke Thailand untuk Kunjungan Resmi, Jakarta, 17 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "y5fpsogcMQY",
+   "title": "Keterangan Pers Dubes RRT Untuk Indonesia Wang Lutong, Jakarta, 16 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "7OR9kzllLr4",
+   "title": "Keterangan Pers Wakil Menteri ESDM Yuliot Tanjung, Jakarta, 16 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "zeVu5l2Ekt4",
+   "title": "Presiden Prabowo Disambut Hangat di Istana Nurul Iman, Brunei Darussalam, 14 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6CmZle3HLes",
+   "title": "Presiden Prabowo Tiba di Brunei Darussalam untuk Kunjungan Kenegaraan, 14 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "fyDfkzY5VFE",
+   "title": "Keberangkatan Presiden Prabowo ke Brunei Darussalam, 14 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "zwwliMLufr0",
+   "title": "President Prabowo Subianto Pays Last Respects to the Late Eddie Mardjoeki Nalapraya, Jakarta, May...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "R7UKKU5kHfI",
+   "title": "Presiden Prabowo Panggil Menteri Rosan, Bahas Evaluasi dan Asesmen BUMN, 8 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oCI_AhDd3CA",
+   "title": "Keterangan Pers Menko Pangan Zulkifli Hasan, Istana Kepresidenan Jakarta, 8 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "EXAPK70vg-Y",
+   "title": "Presiden Prabowo Terima Kunjungan Bill Gates ke Indonesia, 7 Mei 2025",
+   "kind": "kunjungan",
+   "date": "2025-05-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ymLYizcd1yU",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Jakarta, 7 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0NwzCuQvZm8",
+   "title": "Bilateral Meeting between President Prabowo and President of the Senate of the Kingdom of Cambodi...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "E6OvXSuerYM",
+   "title": "Keterangan Pers Menteri Koordinator Bidang Perekonomian Airlangga Hartarto, Jakarta, 4 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "O0hiVqHtkRw",
+   "title": "Keterangan Pers Presiden Prabowo, Bandara Internasional Soekarno-Hatta, 4 Mei 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-05-04",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "BmLk0e1Kj0U",
+   "title": "President Prabowo Inaugurates Special Hajj and Umrah Terminal 2F at Soekarno-Hatta Airport, May 4...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oTmzK6ZHQsk",
+   "title": "Akhir Pekan, Presiden Prabowo Gelar Rapat dengan BGN Dorong Percepatan Operasional SPPG, 3 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5Qc5RaAu0Qk",
+   "title": "Presiden Prabowo Hadiri Hari Pendidikan Nasional 2025 dan Luncurkan PHTC Presiden, Bogor, 2 Mei 2025",
+   "kind": "ambigu",
+   "date": "2025-05-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hE4X-pD2ziI",
+   "title": "President Prabowo Attends International Workers' Day Commemoration at Monas, May 1, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "OKFjUaZGY68",
+   "title": "Keterangan Pers Menteri Sosial, Menteri Pendidikan Dasar dan Menengah, dan Kepala BPS, 30 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "cye1nniNT_I",
+   "title": "Keterangan Pers Ketua MPR Ahmad Muzani, Jakarta, 29 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "frZVeZZwRzo",
+   "title": "Keterangan Pers CEO Danantara Rosan Roeslani, JCC, 28 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YsLQOdhVXwU",
+   "title": "Presiden Prabowo Hadiri Town Hall Danantara Indonesia, JCC, 28 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YwBTbI8mGgM",
+   "title": "Presiden Prabowo Terima Chairman Lotte Group dan Delegasi FKI, Istana Merdeka, 28 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pQ-fc9HwqxA",
+   "title": "Sambutan Presiden Prabowo pada Peluncuran Program Gerakan Indonesia Menanam, Banyuasin,23 April 2025",
+   "kind": "pidato",
+   "date": "2025-04-23",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "wGHEqe7DDhY",
+   "title": "Keterangan Pers Bersama Presiden Prabowo dengan PM Sitiveni Rabuka, Istana Merdeka, 24 April 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-04-24",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "803U51PrWgs",
+   "title": "Kedatangan PM Republik Fiji, Sitiveni Rabuka di Bandara Internasional Soekarno Hatta, 23 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "CdREyuYKRkA",
+   "title": "President Prabowo's Working Visit to South Sumatra, April 23, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "4_iyGWo0X8o",
+   "title": "Keterangan Pers Menko Pangan dan Mentan, 23 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "GXI54W2zw6E",
+   "title": "Press Statement by President Prabowo After Launching the Indonesia Plants Movement Program, April...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "KrIOeAE2yZU",
+   "title": "Presiden Prabowo Tebar Benih Padi Dengan Teknologi Drone Pertanian, Ogan Ilir, 23 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_RAYcUNIfz8",
+   "title": "Pertemuan Hangat Presiden Prabowo dan Wakil PM Malaysia, Istana Merdeka, 22 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-22",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hW206OKlKU0",
+   "title": "Ucapan Belasungkawa Presiden Prabowo atas Wafatnya Paus Fransiskus, Istana Merdeka, 21 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6-PQqhNYwso",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Sekretariat Presiden, Jakarta, 15 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "l5YMx5rBhgI",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Istana Kepresidenan Jakarta, 15 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "uy4wVtxC1R0",
+   "title": "Presiden Prabowo Terima Kunjungan Kehormatan Wakil PM Pertama Federasi Rusia, Istana Merdeka,15/4/25",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_5608k9SOr8",
+   "title": "Presiden Prabowo Tiba di Tanah Air, Pangkalan TNI AU Halim Perdanakusuma, 15 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BDfzqX5KuUc",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Amman, 14 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "EGVuwnKOQLM",
+   "title": "Pangeran Ghazi Antar Keberangkatan Presiden Prabowo ke Tanah Air, Amman, 14 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "tGl7-GA6TiI",
+   "title": "Raja Abdullah II Sambut Kunjungan Resmi Presiden Prabowo, Istana Al Husseiniya Amman, 14 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "TSGyrSE6pmg",
+   "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Raja Abdullah II, Amman, 14 April 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-04-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "L0cHNnjQy9M",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Amman, 13 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wHy-ptfVMWs",
+   "title": "Tiba di Yordania, Presiden Prabowo Disambut Langsung Raja Abdullah II, Amman, 13 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BBeqAKULV5U",
+   "title": "Pertemuan Presiden Prabowo dengan Emir Qatar Sheikh Tamim bin Hamad Al-Thani, Doha, 13 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hwW0lHNBJkU",
+   "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Emir Qatar, Doha, 13 April 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-04-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_uezr-fAhnk",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Doha, 12 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9gdRkImfa1s",
+   "title": "President Prabowo Arrives in Doha, Qatar, April 12, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Bx59-VmSPvY",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres, Kairo, 12 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Czalm_-T57I",
+   "title": "Dari Kairo, Presiden El-Sisi Antar Keberangkatan Presiden Prabowo Menuju Doha, Qatar, 12 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hF4yWdOp6zQ",
+   "title": "Presiden Prabowo dan Presiden El-Sisi Kunjungi Akademi Militer Mesir, Kairo, 12 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nmd5MEys15o",
+   "title": "Pertemuan Presiden Prabowo dengan Presiden El-Sisi di Istana Al Ittihadiya, Kairo, 12 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QnBLUESJgUA",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Kairo, 12 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Kccsdk3fviU",
+   "title": "President Prabowo Arrives in Cairo, Egypt, April 11, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Pg_IY8i4G2A",
+   "title": "Dari Antalya, Presiden Prabowo Bertolak Menuju Kairo, Mesir, 11 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "riUzV50He6k",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Antalya Diplomacy Forum, Turkiye, 11 April 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-04-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NcZYbNEXBPM",
+   "title": "Dialog Bersama Presiden Prabowo pada Antalya Diplomacy Forum, Turkiye, 11 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ygpLsvWlI1U",
+   "title": "Meriahnya Penyambutan Presiden Prabowo oleh Presiden Erdoğan di Ankara, Turkiye, 10 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "h0-EfpsjmT4",
+   "title": "President Prabowo Arrives in Antalya, Turkiye, April 11, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vELMxBAJC3Q",
+   "title": "Dari Ankara, Presiden Prabowo Bertolak Menuju Antalya, Turkiye, 11 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "guyB_xYGSUk",
+   "title": "Keterangan Pers Presiden Prabowo Sebelum Bertolak Menuju Antalya, Ankara, 11 April 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-04-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "25L4xNnPRD4",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Ankara, 10 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "cHWJyGQ7Cjg",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Ankara, 10 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eeRCT3YSbps",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Ankara, 9 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FIqp1y_Qwz4",
+   "title": "Tiba di Ankara, Presiden Prabowo Disambut Langsung Presiden Erdoğan, Turkiye, 9 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hJEitGVQEzg",
+   "title": "Dari Abu Dhabi, Presiden Prabowo Bertolak Menuju Ankara Turkiye, 9 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "96XOSdQ2Avk",
+   "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Presiden MBZ, Abu Dhabi, 9 April 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-04-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nF72J0kX-Y0",
+   "title": "President Prabowo's meeting with President Mohamed bin Zayed, Abu Dhabi, April 9, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Ap2FXQmw-U4",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Abu Dhabi, 9-4-2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "uV_tF0eZwQk",
+   "title": "Tiba di Abu Dhabi, Presiden Prabowo akan Bertemu Presiden MBZ, Persatuan Emirat Arab, 9 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yylPZkAZk68",
+   "title": "Keberangkatan Presiden Prabowo Menuju Kawasan Timur Tengah dan Türkiye, 9 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "GwjWuJPoDF8",
+   "title": "Presiden Prabowo Hadiri Panen Raya Padi Serentak di 14 Provinsi, Majalengka, 7 April 2025",
+   "kind": "kunjungan",
+   "date": "2025-04-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "TFr_cl0a26Q",
+   "title": "Presiden Prabowo Berbelasungkawa atas Wafatnya Uskup Emeritus Keuskupan Agung Kupang, 4 April 2025",
+   "kind": "ambigu",
+   "date": "2025-04-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wM_JUEFoAqk",
+   "title": "Presiden Prabowo Ucapkan Selamat Hari Raya Idulfitri 1446 Hijriah, 30 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vXMF0Cvl77U",
+   "title": "Presiden Prabowo Ucapkan Selamat Hari Raya Nyepi Tahun Baru Saka 1947, 30 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lhECnV4-H08",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Yusuf Permana, Jakarta, 30 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "R54iL8U2f8g",
+   "title": "Saat Presiden Prabowo dan Presiden ke-7 RI Joko Widodo Berbuka Puasa Bersama, 26 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5LxnfqSBo2s",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Istana Kepresidenan Jakarta, 26 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "sLDpP3xniqE",
+   "title": "Keterangan Pers Menteri Luar Negeri Prancis Jean-Noël Barrot, Jakarta, 26 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Ce_DH1xHDcg",
+   "title": "Presiden Prabowo Saksikan Langsung Indonesia Lawan Bahrain, Jakarta, 25 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "tLM3iOgnuGY",
+   "title": "Presiden Prabowo Terima Kunjungan Kehormatan Presiden NDB Dilma Rousseff, 25 Maret 2025",
+   "kind": "kunjungan",
+   "date": "2025-03-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "rioHl3ugdjE",
+   "title": "Presiden Prabowo Sambangi Timnas Indonesia Jelang Laga Lawan Bahrain, 25 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "HSTEvZz-7ok",
+   "title": "Kebersamaan dan Kepedulian, Ribuan Paket Sembako untuk Warga, Kabupaten bogor, 25 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "u24BNhoLsHc",
+   "title": "President Prabowo Receives Ustadz Adi Hidayat, Presidential Office, March 21, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vPjYlyKzMqg",
+   "title": "Keterangan Pers Menko Infrastruktur dan Pembangunan Kewilayahan, Jakarta, 21 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NZmP3r7rXpg",
+   "title": "President Prabowo Inaugurates Industropolis Batang SEZ, Central Java, March 20, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FlgrOf957NU",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 20 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9lhVB31qLEc",
+   "title": "President Prabowo's Press Statement After Inaugurating the Batang Industropolis Special Economic ...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hhuPcwaFNPw",
+   "title": "Keterangan Pers Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait, 19 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6K2mGcxxx-o",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Istana Kepresidenan Jakarta, 18 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1Z653IT0zpU",
+   "title": "Presiden Prabowo Terima Utusan Khusus Presiden Palestina, Istana Merdeka, 18 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-PJERGJJjes",
+   "title": "President Prabowo's Working Visit to East Java Province, March 17, 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3p-Lz93cQQg",
+   "title": "Press Statement by President Prabowo After Inaugurating the Precious Metal Refinery, Gresik, Marc...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "giLYRuGcrVU",
+   "title": "Minggu Siang, Presiden Prabowo Panggil Sejumlah Menteri untuk Rapat Terbatas, Bogor, 16 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3zHuvfAjNts",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Bogor, 16 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "W96jQ_qR3tA",
+   "title": "Keterangan Pers Mendikti Saintek Brian Yuliarto, Jakarta, 13 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oxPlIL63hNk",
+   "title": "Keterangan Pers Menko Bidang Infrastruktur dan Pembangunan Kewilayahan AHY, Jakarta, 12 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vSH8L1zIhe4",
+   "title": "Keterangan Pers Wakil Menteri Pertanian Sudaryono, Jakarta, 12 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "zOGqCMud3vs",
+   "title": "Presiden Prabowo Terima Pandawara Group, Istana Merdeka, 11 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "t54m11OSrZY",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Jakarta, 10 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "WTe2KAb2sgg",
+   "title": "Presiden Prabowo Pimpin Ratas Terkait Percepatan Hilirisasi, Istana Merdeka, 10 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "r4uz3mLx3HM",
+   "title": "Presiden Prabowo Pimpin Ratas Rencana Penyelenggaraan Sekolah Rakyat, Istana Merdeka, 10 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_uwmjM4iQ-s",
+   "title": "Keterangan Pers Menteri Ketenagakerjaan Yassierli, Jakarta, 10 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0ek5-SPrSfo",
+   "title": "Keterangan Pers Presiden Prabowo Terkait Bonus Hari Raya kepada Pengemudi Online, 10 Maret 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-03-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "COUeuopTMo0",
+   "title": "Presiden Prabowo Tinjau Warga Terdampak Banjir di Kabupaten Bekasi, 8 Maret 2025",
+   "kind": "kunjungan",
+   "date": "2025-03-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "BGW_jtM4tUQ",
+   "title": "Keterangan Pers Ketua Kamar Dagang dan Industri (Kadin) Anindya Bakrie, Jakarta, 7 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pqsB1MMlDDE",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Jakarta, 7 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vZRGsv-9ihc",
+   "title": "Pengantar Presiden RI pada Pertemuan dengan Investor Global Ray Dalio, Istana Merdeka, 7 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "SA6JMtcehXE",
+   "title": "Ket Pers Menteri Koperasi dan Mendagri Terkait Rencana Pembentukan Koperasi Desa Merah Putih, 7/3/25",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "a_Q-KzbGJGM",
+   "title": "Presiden Prabowo Terima 8 Pengusaha Besar, Bahas Perekonomian dan Investasi Nasional, 6 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2xqQwUnD9oo",
+   "title": "Press Conference by the Leadership of the Danantara National Investment Management Agency, March ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AdrrNAGmKS8",
+   "title": "Keterangan Pers Menteri Sosial Saifullah Yusuf, Istana Kepresidenan Jakarta, 4 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "PCiGVP1ULGQ",
+   "title": "Presiden Prabowo Pimpin Ratas dan Berikan Taklimat, Istana Kepresidenan Jakarta, 4 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "haTINB1bIZY",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 3 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "sIZK7CTHW7I",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Jakarta, 3 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "46rAakxMqlc",
+   "title": "Keterangan Pers Menko Bidang Pangan, Menteri Koperasi dan Menteri Desa, Jakarta, 3 Maret 2025",
+   "kind": "ambigu",
+   "date": "2025-03-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6MEuZdbbA5I",
+   "title": "President Prabowo Leads Sunset Parade Ceremony, Magelang, February 27, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "X0qHQh1jAg0",
+   "title": "Presiden RI Terima Kunjungan Kehormatan Sekretaris Dewan Keamanan Rusia, Istana Merdeka, 25 Feb 2025",
+   "kind": "kunjungan",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vCe2xfbJrEw",
+   "title": "Keterangan Pers Menteri Koperasi Budi Arie Setiadi dan Wamentan Sudaryono, Jakarta, 24 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hB0LQfqr8MA",
+   "title": "Keterangan Pers Kepala Badan Gizi Nasional Dadan Hindayana, Jakarta, 24 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "WE7q-v42XUg",
+   "title": "Keterangan Pers Rosan Roeslani Terkait Danantara, Jakarta, 24 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "gRNRYKEZ7cQ",
+   "title": "Saksikan! Pelantikan Kepala Daerah Seluruh Indonesia, Kamis, 20 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YxQcVtI30tY",
+   "title": "Ketpers Menteri usai Ratas Terkait Infrastruktur dan Pembangunan Kewilayahan, 18 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "VBzhEpOyoMc",
+   "title": "Keterangan Pers Menteri ATR/Kepala BPN Nusron Wahid, Jakarta, 17 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "a81h8TkN6vE",
+   "title": "Keterangan Pers Menkomdigi Meutya Hafid, Jakarta, 17 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "RA4wPTwUpbg",
+   "title": "President Prabowo's Speech at the World Governments Summit, February 13, 2025",
+   "kind": "pidato",
+   "date": "2025-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "q4U1CeiRrW4",
+   "title": "Program Makan Bergizi Gratis di Kota Sorong, Papua Barat Daya",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vLWjgNiYoDE",
+   "title": "Press Statement by President Prabowo After Opening the XVIII Muslimat NU Congress, Surabaya, Febr...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lbiVSHXX9vc",
+   "title": "Presiden Prabowo Tinjau Program MBG di Bogor, 10 Februari 2025",
+   "kind": "kunjungan",
+   "date": "2025-02-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Sw60jVMNOiA",
+   "title": "Presiden Prabowo Ucapkan Selamat Hari Pers Nasional ke-79 Tahun 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "xaNqn7ay0go",
+   "title": "Pengarahan Presiden Prabowo Kepada Komandan Satuan TNI, Istana Bogor, 7 Februari 2025",
+   "kind": "pidato",
+   "date": "2025-02-07",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "jyyNVE9Qwjk",
+   "title": "Pengantar Presiden Prabowo pada Sidang Perdana Dewan Pertahanan Nasional, 7 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "LTmDCXPJlUA",
+   "title": "Keterangan Pers Anggota Dewan Ekonomi Nasional (DEN), Jakarta, 6 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "uGCx2WrulpU",
+   "title": "Ket Pers Menteri Investasi dan Hilirisasi/Kepala BKPM terkait Investasi Mobil Listrik, 6 Feb 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vY3Cr_GNn04",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Harlah ke-102 Nahdlatul Ulama, Jakarta, 5 Februari 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-02-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mBX4sAGxJFI",
+   "title": "Keterangan Pers Menteri Pariwisata Widiyanti Putri, Jakarta, 5 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mi78AiAL_X0",
+   "title": "Keterangan Pers Menteri Kesehatan Budi Gunadi Sadikin, Jakarta, 5 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "KSCieB_OXSQ",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM terkait Target Investasi, 4 Feb 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pkqLWT8m1iI",
+   "title": "Presiden Prabowo Panggil Menteri ESDM Bahlil Lahadalia Terkait Reformasi Subsidi LPG, 4 Feb 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2a3oM8golp8",
+   "title": "Keterangan Pers Menteri Pertanian Terkait Stok Pangan Nasional Jelang Ramadan, 4 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Bi4aY-P5ljI",
+   "title": "Keterangan Pers Wakil Ketua DPR Sufmi Dasco Ahmad Sebelum Bertemu Presiden Prabowo, 4 Februari 2025",
+   "kind": "keterangan_pers",
+   "date": "2025-02-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "xyNXlOBy5Fs",
+   "title": "President Prabowo Pushes for Completion of Legislative and Judiciary Infrastructure in IKN, Febru...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "jJ8IWpsjX8E",
+   "title": "Keterangan Pers Menteri Kehutanan Raja Juli Antoni, Jakarta, 3 Februari 2025",
+   "kind": "ambigu",
+   "date": "2025-02-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YOEvJsoUj9I",
+   "title": "Press Statement by MPR Speaker Ahmad Muzani, Jakarta, February 3, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "KgSCkkTX2IU",
+   "title": "Unexpectedly, President Prabowo Attends Teleconference to Discuss Food Self-Sufficiency and Grain...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "brvM2PD_G1U",
+   "title": "Terima Kunjungan PBNU, Presiden Prabowo Bahas Kontribusi NU bagi Kemajuan Bangsa, 3 Februari 2025",
+   "kind": "kunjungan",
+   "date": "2025-02-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "RUt3s4zrFYw",
+   "title": "Presiden Prabowo Subianto Tinjau Pelaksanaan Makan Bergizi Gratis di Jakarta, 3 Februari 2025",
+   "kind": "kunjungan",
+   "date": "2025-02-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "CC6WjideZv0",
+   "title": "Presiden Prabowo Beri Arahan pada Rapat Pimpinan TNI Polri Tahun 2025, Jakarta, 30 Januari 2025",
+   "kind": "pidato",
+   "date": "2025-01-30",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "XrWa6uh_J70",
+   "title": "Keterangan Pers Presiden Prabowo Usai Beri Arahan pada Rapim TNI Polri Tahun 2025, 30 Januari 2025",
+   "kind": "pidato",
+   "date": "2025-01-30",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "c9XBbbkTKJQ",
+   "title": "Indonesia-PEA Perkuat Kemitraan, Presiden Prabowo Terima Kunjungan Menteri Suhail, 30 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-30",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8Wu5wtWOOT0",
+   "title": "Presiden Prabowo Ucapkan Selamat Tahun Baru Imlek 2576, 29 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "PXZsPM7Wtns",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media terkait Survei Kepuasan Publik, 29 Jan 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "___zQVTDZ98",
+   "title": "Pertemuan Hangat Presiden Prabowo dan PM Anwar di Menara Kembar Petronas, Kuala Lumpur, 27 Jan 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "fQ-zMAy6fnM",
+   "title": "Presiden Prabowo Tiba di Tanah Air, Pangkalan TNI AU Halim Perdanakusuma, 27 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8FlxeMZpNpA",
+   "title": "Presiden Prabowo Disambut Upacara Kenegaraan di Istana Negara Malaysia, 27 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "bf2mI4oUDQc",
+   "title": "Presiden Prabowo Tiba di Malaysia, 27 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "opbevBYtKxk",
+   "title": "Presiden Prabowo Hadiri Acara Resepsi Diplomatik “At Home Reception”, New Delhi, 26 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YiP33kARAG8",
+   "title": "Presiden Prabowo Jadi Tamu Kehormatan Hari Republik India ke 76, New Delhi, 26 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "7EOnXJRkXUA",
+   "title": "Presiden Prabowo Hadiri Jamuan Santap Malam Kenegaraan oleh Presiden Murmu, New Delhi, 25 Jan 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9umYDelJg08",
+   "title": "Tiba di Rashtrapati Bhavan, Presiden Prabowo Disambut Upacara Kenegaraan, New Delhi, 25 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yr7U1vP7SH4",
+   "title": "Pertemuan Hangat Presiden Prabowo dan PM Narendra Modi di Hyderabad House, New Delhi, 25 Jan 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "k6KOP8aFxDE",
+   "title": "Penghormatan Presiden Prabowo untuk Mahatma Gandhi di Rajghat Memorial, New Delhi, 25 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "sj6JZx8RlSk",
+   "title": "Presiden Prabowo Terima Kunjungan Kehormatan Menteri Luar Negeri India, New Delhi, 24 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8vdz1JCTPQA",
+   "title": "Presiden Prabowo Tiba di New Delhi, India, 23 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NzbVDKN5xKI",
+   "title": "Presiden Prabowo Bertolak Menuju India, Pangkalan TNI AU Halim Perdanakusuma, 23 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1J1IFd_FT2I",
+   "title": "Presiden Prabowo Pimpin Ratas Terkait Kebijakan Devisa Hasil Ekspor, Istana Merdeka, 21 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "118eNiTV0e4",
+   "title": "Schoolchildren Welcome President Prabowo's Arrival in Sumedang, January 20, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5ZQIk_jjrLQ",
+   "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 20 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "GP1U9lau9hU",
+   "title": "Press Statement by President Prabowo After Inaugurating Strategic Electricity Projects, January 2...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2WL4XExTxag",
+   "title": "School Bags from President Prabowo for Students Welcoming State Guests",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "bBzAiuA3COo",
+   "title": "Presiden Prabowo Dorong Percepatan Program Makan Bergizi Gratis, Jakarta, 17 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1x-bYjCz_Jk",
+   "title": "Ket Pers Presiden Prabowo Usai Hadiri Munas Konsolidasi Persatuan Kadin, Jakarta, 16 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "TIArBvoW82U",
+   "title": "Presiden Prabowo Terima Audiensi Ketum PP dan Jajaran Muslimat NU, Istana Merdeka, 14 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "cPPiCxLKBEI",
+   "title": "Presiden Prabowo Panggil Jaksa Agung dan Jajaran Jaksa Agung Muda, Istana Merdeka, 13 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1BmayjFMKGc",
+   "title": "Keterangan Pers Menkomdigi Terkait Transformasi Digital dan E-Government, Jakarta, 13 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Ny_wGYJ2-jE",
+   "title": "Perdana Menteri Jepang Ishiba Shigeru Tiba di Indonesia, 10 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "307Uk_aB0rg",
+   "title": "Presiden Prabowo Subianto Bertolak Menuju Tanah Air, Kuala Lumpur, Malaysia, 9 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NZrDtWBQwVU",
+   "title": "Pertemuan Hangat Presiden Prabowo dan PM Ibrahim di Rumah Tangsi Malaysia, 9 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "dv4I0j9gw40",
+   "title": "Presiden Prabowo Tiba di Kuala Lumpur, Malaysia, 9 Januari 2025",
+   "kind": "kunjungan",
+   "date": "2025-01-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "w7UB0o1YP0k",
+   "title": "Keterangan Pers Menteri PANRB dan Dewan Ekonomi Nasional, Jakarta, 7 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oZDpuwkHt7k",
+   "title": "Keterangan Pers Menteri Perumahan dan Kawasan Permukiman & Kepala Bappenas, Jakarta, 7 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Dgrq9baY7ls",
+   "title": "Keterangan Pers Menko Pemberdayaan Masyarakat Muhaimin Iskandar, Istana Bogor, 3 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "vB-a0Y-RDRo",
+   "title": "Presiden Prabowo Terima IHPS I Tahun 2024 dari BPK, Istana Merdeka, 2 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0NaN_lnhXCk",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi Terkait Target Investasi, Jakarta, 2 Januari 2025",
+   "kind": "ambigu",
+   "date": "2025-01-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Oke0Yxbixks",
+   "title": "Keterangan Pers Presiden Prabowo: Tarif PPN 12% Hanya Barang & Jasa Mewah, Jakarta, 31 Desember 2024",
+   "kind": "keterangan_pers",
+   "date": "2024-12-31",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "1fa5ykWhcXE",
+   "title": "Ket Pers Menko Bidang Pangan Zulkifli Hasan Terkait Ratas Mengenai Swasembada Pangan, 30 Des 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "EB4W4Y3MAqk",
+   "title": "Presiden Prabowo Ucapkan Selamat Natal dan Tahun Baru, 25 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-25",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "WPFBWVh_yaA",
+   "title": "Presiden Prabowo Tiba di Tanah Air dan Lakukan Ratas Terkait Nataru, Halim Perdanakusuma,23 Des 2024",
+   "kind": "kunjungan",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "dZNvdhX-gus",
+   "title": "Pidato Presiden Prabowo pada Sesi Khusus KTT D-8, Kairo, 19 Desember 2024",
+   "kind": "pidato",
+   "date": "2024-12-19",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "_o8Vi_mdXwo",
+   "title": "Presiden Prabowo Hadiri KTT D-8, Kairo, 19 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-19",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FKWsP6NoNKY",
+   "title": "Press Statement by President Prabowo Subianto, Cairo, December 18, 2024",
+   "kind": "keterangan_pers",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "MVDEfUA5ASI",
+   "title": "Bilateral Meeting between President Prabowo and Pakistani PM Shehbaz Sharif, Cairo, December 18, ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "dUvWeJ6VSMA",
+   "title": "Presiden Prabowo Bertemu dengan Mahasiswa Indonesia di Kairo, 18 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eGRhvt8ATmI",
+   "title": "Pertemuan Presiden Prabowo dengan Grand Syekh Al Azhar Ahmed El-Tayeb, Kairo, 18 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "rv6t94xnt_0",
+   "title": "Upacara Kenegaraan Sambut Presiden Prabowo di Istana Al Ittihadiya, Kairo, 18 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "MqUtILjOSuw",
+   "title": "President Prabowo Arrives in Cairo, Egypt, December 17, 2024",
+   "kind": "kunjungan",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YOt11SEpDkY",
+   "title": "Presiden Prabowo Bertolak Menuju Kairo, Mesir, Pangkalan TNI AU Halim Perdanakusuma,17 Desember 2024",
+   "kind": "kunjungan",
+   "date": "2024-12-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "b2C_VBLND0o",
+   "title": "Keterangan Pers Menteri Terkait Kesiapan Nataru, Kantor Presiden, 16 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0eO0o4CyPl4",
+   "title": "Pengantar Presiden Prabowo pada Rapat Terbatas Jelang Nataru, Kantor Presiden, 16 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "MKiKzFzn4CE",
+   "title": "Keterangan Pers Dewan Pengawas KPK, Istana Negara, 16 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "wWc8cvFnSnM",
+   "title": "Keterangan Pers Gubernur Kalimantan Selatan Muhidin, Istana Negara, 16 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "jzOh89HaKZ8",
+   "title": "Keterangan Pers Ketua KPK Setyo Budiyanto, Istana Negara, 16 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YBXMq-t0WpQ",
+   "title": "Ministerial Press Statement After Limited Meeting Regarding Amnesty Grant, December 13, 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Q9QuIEe0iB8",
+   "title": "Presiden Prabowo Resmikan Terowongan Masjid Istiqlal-Gereja Katedral, 12 Desember 2024",
+   "kind": "kunjungan",
+   "date": "2024-12-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "CPGEPGic-8A",
+   "title": "President Prabowo's Press Statement after the Inauguration of the Friendship Tunnel, December 12,...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "W_Rf8O98bqs",
+   "title": "Presiden Prabowo Resmikan Flyover Madukoro, Semarang, 11 Desember 2024",
+   "kind": "kunjungan",
+   "date": "2024-12-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "tYuYMkprT1Q",
+   "title": "Apresiasi Presiden Prabowo pada Rapat Koordinasi Pengendalian Inflasi, Jakarta, 9 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "McX9dHV2KPE",
+   "title": "Pertemuan Presiden Prabowo dengan Presiden ke-7 RI Joko Widodo, Jakarta, 6 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "PtDQNiMPcGE",
+   "title": "President Prabowo’s Press Statement, Merdeka Palace, December 6, 2024",
+   "kind": "keterangan_pers",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kVJw2kgNeT4",
+   "title": "Presiden Prabowo Terima Ketua Dewan dan CEO GAVI, Istana Merdeka, 6 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0I8RdyPW49s",
+   "title": "Sambutan Presiden Prabowo pada Jamuan Makan Siang Bersama JAPINDA dan JJC, 6 Desember 2024",
+   "kind": "pidato",
+   "date": "2024-12-06",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "_2cJD45BnwM",
+   "title": "President Prabowo Receives JAPINDA, Merdeka Palace, December 5, 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "SPgOqUSH4Hc",
+   "title": "Keterangan Pers Wakil Ketua DPR RI, Kantor Presiden, 5 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "daL1Ulq5BD4",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, 3 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5fJm7WLbH0c",
+   "title": "President Prabowo's Address at the US-ASEAN Business Council, State Palace, December 3, 2024",
+   "kind": "pidato",
+   "date": "2024-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "5xO_JJZXbh0",
+   "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna, Kantor Presiden, 2 Desember 2024",
+   "kind": "ambigu",
+   "date": "2024-12-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "IVwUIvbVXQU",
+   "title": "Presiden Prabowo Tinjau Kawasan BLUPPB Karawang, 2 Desember 2024",
+   "kind": "kunjungan",
+   "date": "2024-12-02",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Tl4FlfgfjZ4",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 28 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "9HZTOJbSV5c",
+   "title": "Keterangan Pers Sekjen OECD Mathias Cormann, Jakarta, 28 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-28",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mqfTlAVZzMk",
+   "title": "Presiden Prabowo Gunakan Hak Pilih di TPS 008 Desa Bojongkoneng, Bogor, 27 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "XXMU677hZ1E",
+   "title": "Keterangan Pers Para Menteri Usai Ratas Terkait KEK dan PSN, Jakarta, 26 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "aDIfV59T71Q",
+   "title": "Keterangan Pers Menko Pangan Zulkifli Hasan Usai Ratas Soal Pangan, Jakarta, 26 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Gq5OTGuYVDY",
+   "title": "Keterangan Pers Mendikdasmen Abdul Mu'ti, Jakarta, 26 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "zT1qLlSscrs",
+   "title": "Kedatangan Presiden Prabowo di Tanah Air, Pangkalan TNI AU Halim Perdanakusuma, 24 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-24",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "IBDhaN29zwU",
+   "title": "Presiden Prabowo Disambut Upacara Kenegaraan di Qasr Al Watn, Abu Dhabi, 23 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0p4ea7tex-k",
+   "title": "Presiden Prabowo Tiba di Abu Dhabi, Persatuan Emirat Arab, 23 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "r4ydPc9hO7c",
+   "title": "Presiden Prabowo Hadiri CEO Roundtable Forum, London, 21 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YBMwqUyfRB0",
+   "title": "Presiden Prabowo Bertemu dengan Wakil PM Inggris Angela Rayner, London, 21 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "FcdliXHmqHc",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, London, 21 November 2024",
+   "kind": "keterangan_pers",
+   "date": "2024-11-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "zCyLli-GRIw",
+   "title": "Presiden Prabowo Bertemu dengan PM Inggris Keir Starmer, London, 21 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "u0SiUo5H95U",
+   "title": "Presiden Prabowo Tiba di London, Inggris, 20 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-20",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ydj9JJdzLpg",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Presiden Emmanuel Macron, Rio de Janeiro, 19 Nov 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "upjeBhV5Tj4",
+   "title": "President Prabowo's Statement at the Third Session of the G20 Brazil Summit, November 19, 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "bnqts-B3jZY",
+   "title": "Pernyataan Presiden Prabowo pada Sesi Pertama KTT G20 Brasil, 18 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "fx_SpDgepMY",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan PM India Narendra Modi, Rio de Janeiro, 18 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "A2zvKUn-c9I",
+   "title": "President Prabowo Meets MIKTA Leaders at the 2024 G20 Brazil Summit, Rio de Janeiro, November 18,...",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "hpCYK6BrenE",
+   "title": "Presiden Prabowo Hadiri KTT G20 Brasil, Rio de Janeiro, 18 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-18",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "V8FuZlgEdf8",
+   "title": "Presiden Prabowo Hadiri Indonesia-Brazil Business Forum, Rio de Janeiro, 17 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "21bu5Og0qXc",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, Rio de Janeiro, 17 November 2024",
+   "kind": "keterangan_pers",
+   "date": "2024-11-17",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "kruYdyAiLpw",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Sekjen PBB Antonio Guterres, Rio de Janeiro, 17 Nov 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "AxOllDt4ar4",
+   "title": "President Prabowo Arrives in Rio de Janeiro, Brazil, November 16, 2024",
+   "kind": "kunjungan",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QtGK9NEI22A",
+   "title": "Dari Peru, Presiden Prabowo Bertolak Menuju Brasil, 16 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "RJnYpiVNJuU",
+   "title": "Presiden Prabowo Hadiri Leaders Retreat KTT APEC 2024, Lima, Peru, 16 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "GW-0apdof30",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, Lima, 16 November 2024",
+   "kind": "keterangan_pers",
+   "date": "2024-11-16",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5aaiLRKepMM",
+   "title": "Presiden Prabowo Hadiri APEC Economic Gala Dinner, Lima, 15 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oMamYJNu4tE",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan PM Selandia Baru Christopher Luxon, Lima, 15 Nov 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "XNqsF8VdYVw",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Presiden Viet Nam Luong Cuong, Lima, 15 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-15",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "yv8kbEGu4pE",
+   "title": "Bilateral Meeting between President Prabowo and Canadian Prime Minister Justin Trudeau, Lima, Nov...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5W5NRt0c4X4",
+   "title": "Keynote Speech Presiden Prabowo pada APEC CEO Summit Peru 2024, Lima, 14 November 2024",
+   "kind": "pidato",
+   "date": "2024-11-14",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "bVJW040lCbs",
+   "title": "Kunjungan Resmi Presiden Prabowo Kepada Presiden Republik Peru Dina Boluarte, Lima, 14 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "6blF4u0drL0",
+   "title": "Presiden Prabowo Terima Kunjungan PM Australia Anthony Albanese, Lima, 14 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-14",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "oywuzPmip9M",
+   "title": "Presiden Prabowo Tiba di Lima, Peru, 13 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-13",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-v129GdlTv8",
+   "title": "Press Statement by President Prabowo After Meeting with the United States Secretary of Defense, N...",
+   "kind": "keterangan_pers",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mtAt3gHJzfE",
+   "title": "Presiden Prabowo Bertemu Presiden Joe Biden di Gedung Putih, Washington DC, 12 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-12",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "iWv_f7TR4jk",
+   "title": "Rapat Terbatas Terkait Erupsi Gunung Lewotobi Laki Laki di Flores Timur, Washington DC, 12 Nov 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "5ERHhlufGhc",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, 11 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-11",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "mlY9ljeckaQ",
+   "title": "Ket Pers Presiden Prabowo Usai Bertemu dengan Anggota Korporasi USINDO,Washington DC, 11 Nov 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "lR65VaIC940",
+   "title": "Presiden Prabowo Hadiri Forum Bisnis Indonesia-China, Beijing, 10 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "-c-T00GFwo4",
+   "title": "Presiden Prabowo Tiba di Washington DC, Amerika Serikat, 10 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Z0lo4gr12JM",
+   "title": "Dari Beijing, Presiden Prabowo Bertolak Menuju Washington, D.C., 10 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-10",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "VuodFdxMQTk",
+   "title": "Upacara Kenegaraan Presiden Prabowo oleh Presiden RRT Xi Jinping, Beijing, 9 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "U7A-XBvLqGY",
+   "title": "Presiden Prabowo Kunjungi Monumen Pahlawan Rakyat, Beijing, 9 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "2PpQjuKbDiU",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan PM RRT Li Qiang, Beijing, 9 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "Q65SsAC-KbU",
+   "title": "President Prabowo's Bilateral Meeting with Zhao Leji, Beijing, November 9, 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ynh26AnhWIY",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Beijing, 9 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-09",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "J6J_YxCYguM",
+   "title": "Presiden Prabowo Tiba di Beijing, RRT, 8 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-08",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YQRNLmSKzHU",
+   "title": "Press Statement by President Prabowo, Halim Perdanakusuma Air Force Base, November 8, 2024",
+   "kind": "keterangan_pers",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "7H-nnHz7f9k",
+   "title": "Presiden Prabowo Resmikan Rakornas Pemerintah Pusat dan Daerah Tahun 2024, Bogor, 7 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-07",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "pKY6c7ydVDc",
+   "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna, Kantor Presiden, 6 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-06",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "eAguwCpwfJA",
+   "title": "Ketibaan Perdana Menteri Singapura Lawrence Wong, Bandara Internasional Soekarno Hatta, 5 Nov 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8gZaBLETh3o",
+   "title": "Presiden Prabowo Tanda Tangani PP Tentang Penghapusan Piutang Macet UMKM, 5 November 2024",
+   "kind": "ambigu",
+   "date": "2024-11-05",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "bq9NE1whcGM",
+   "title": "Upacara Penyerahan Surat Surat Kepercayaan Duta Besar LBBP untuk Republik Indonesia, 4 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-04",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "DARe0D4zGtM",
+   "title": "Presiden Prabowo Tinjau Infrastruktur Areal Lumbung Pangan di Wanam, Merauke, 3 November 2024",
+   "kind": "kunjungan",
+   "date": "2024-11-03",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NWSTT2z-FOU",
+   "title": "President Prabowo Inspects Rice Harvest, Merauke, November 3, 2024",
+   "kind": "kunjungan",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "YBXZXpn60xU",
+   "title": "Keterangan Pers Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, Jakarta, 31 Okt 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "QZ25LdkfaY8",
+   "title": "Keterangan Pers Menteri Ketenagakerjaan Yassierli, Jakarta, 29 Oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "_kBvSI4wvkg",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 29 Oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-29",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "0YoDGPYyuQ4",
+   "title": "Jajaran Kabinet Merah Putih Bawa Semangat Kebersamaan ke Jakarta, 27 Oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-27",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "ZPpQzb5EgyE",
+   "title": "Retreat Kabinet Merah Putih Bangun Sinergi dan Disiplin di Akmil Magelang, 26 Oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-26",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "xT_hpnEXd1g",
+   "title": "Presiden Prabowo Pimpin Upacara Parade Senja dan Jamuan Santap Malam, Magelang, 25 Okt 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "nKYpgONg9TU",
+   "title": "Presiden Prabowo Tiba di Akmil Magelang, 24 Okt 2024",
+   "kind": "kunjungan",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "IWewatK6Vxw",
+   "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna Perdana, Kantor Presiden, 23 Oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-23",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "8blgi-YRSWM",
+   "title": "Presiden Prabowo Hadiri Upacara Penerimaan dan Penyerahan Memorandum Menhan RI, Jakarta,22 Okt 2024",
+   "kind": "kunjungan",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "3LItrb3CCY8",
+   "title": "Pertemuan Bilateral Prabowo dengan Utusan Khusus Presiden Republik Arab Mesir, 22 Okt 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "dFloQ2g1u2I",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Utusan Khusus Persatuan Emirat Arab, 22 Okt 2024",
+   "kind": "ambigu",
+   "date": "2024-00-00?",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "JKatMpozoyU",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan PM Timor Leste, Istana Merdeka, 21 Oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "WyB_dRKrbec",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan PM Kepulauan Solomon, Istana Merdeka, 21 Oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "S5QzPmi0B54",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Utusan Khusus Presiden Prancis Francois Corbin, 21/10/24",
+   "kind": "ambigu",
+   "date": null,
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "4UHObBb6x34",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Wakil Presiden Viet Nam Vo Thi Anh Xuan, 21 oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-21",
+   "state": "menunggu",
+   "detail": ""
+  },
+  {
+   "video_id": "NVFvLTld_d4",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Utusan Khusus Presiden Amerika Serikat,  21 Oktober 2024",
+   "kind": "ambigu",
+   "date": "2024-10-21",
+   "state": "menunggu",
+   "detail": ""
+  }
+ ]
+}

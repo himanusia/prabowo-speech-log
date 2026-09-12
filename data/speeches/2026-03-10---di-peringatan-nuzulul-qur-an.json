@@ -1,19 +1,19 @@
 {
  "id": "2026-03-10---di-peringatan-nuzulul-qur-an",
- "video_id": "Fm09R5akNzM",
+ "video_id": "rr-pObURxuc",
  "date": "2026-03-10",
  "title": "BREAKING NEWS - [FULL] Pidato Presiden Prabowo di Peringatan Nuzulul Qur'an",
- "channel": "METRO TV ",
+ "channel": "BeritaSatu",
  "youtube_url": "https://www.youtube.com/watch?v=Fm09R5akNzM",
- "duration_s": 1309,
- "duration_hms": "21:49",
+ "duration_s": 1184,
+ "duration_hms": "19:44",
  "source_tier": "full_media",
  "fetch_method": "caption_api",
- "snippet_count": 442,
- "token_count": 1388,
- "unique_word_count": 559,
- "canonical_overridden": false,
- "canonical_note": null,
+ "snippet_count": 397,
+ "token_count": 1201,
+ "unique_word_count": 489,
+ "canonical_overridden": true,
+ "canonical_note": "kanonik lama dibuka bukan oleh pidato (nyanyi/upacara/kedatangan); Fm09R5akNzM → rr-pObURxuc",
  "duplicate_count": 1,
  "uploads": [
   {
@@ -55,7 +55,7 @@
     "search_sambutan"
    ],
    "selection_reason": "media_full_speech_candidate",
-   "canonical": false
+   "canonical": true
   }
  ],
  "topics": {
@@ -81,144 +81,134 @@
  },
  "transcript": [
   {
-   "t": 0.64,
-   "d": 155.8,
-   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Alhamdulillahiabbil alamin. Wasalatu wasalamu ala asrofilya wal mursalin wa ala alihi wasohbihi ajmain. Amma badu. Saudara-saudara sekalian yang saya hormati. Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka, para pimpinan lembaga negara, ketua majelis Rakyat Republik Indonesia, Saudara Ahmad Muzani, Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudara, Saudari Puan Maharani, Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Baktiar Najamudin, Ketua Mahkamah Agung Republik Indonesia, Profesor Sunarto, Ketua Komisi Yudisial Republik Indonesia, Saudara Abdul Khair Ramadan, Wakil Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Sari Yuliati, para Menteri, koordinator, Menteri, Kepala Badan, para anggota Kabinat Merah Putih yang hadir."
+   "t": 0.04,
+   "d": 151.72,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Alhamdulillahiabbil alamin wasalatu wasalamu ala asrofilyaai wal mursalin wa ala alihi wasohbihi ajmain. Amma badu. Saudara-saudara sekalian, yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming, Raka, para pimpinan lembaga negara, ketua majelis Perusahan Rakyat Republik Indonesia, Saudara Ahmad Muzani, Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudara saudari Puan Maharani, Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Bakhtiar Najudin, Ketua Mahkamah Agung Reparat, Profesor Sunarto, Ketua Komisi Yudisial Republik Indonesia, Saudara Abdul Khair Ramadan, Wakil Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Sari Yuliati, para menteri, koordinator menteri, kepala Kepala Badan."
   },
   {
-   "t": 88.72,
-   "d": 82.48,
-   "text": "Ketua Basnas, Ketua KPK, Panglima TNI, Kapolri, para kepala badan yang hadir. Yang saya hormati dan muliakan para tokoh agama, para ulama, para ustaz yang turut hadir hari ini di tengah-tengah kita. Begitu banyak tokoh keagamaan kita, Ketua Majelis Ulama Indonesia beserta para wakil ketua umum Ketua Umum Pengurus Besar Nadatul Ulama."
+   "t": 85.68,
+   "d": 114.92,
+   "text": "Para anggota kabinet merah putih yang hadir, ketua Basnas, Ketua KPK, Panglima TNI, Kapolri, para kepala badan yang hadir. Yang saya hormati dan muliakan para tokoh agama, para ulama, para ustaz yang turut hadir hari ini di tengah-tengah kita. Begitu banyak tokoh keagamaan kita, Ketua Majelis Ulama Indonesia beserta para wakil ketua umum Ketua Umum Pengurus Besar Nadatul Ulama Bapak K. H. Yahya Khalis Takqf. Yang saya hormati Ketua Pengurus Pusat Muhammadiyah bidang ekonomi, Bus dan Industri Halal."
   },
   {
-   "t": 134.04,
-   "d": 74.76,
-   "text": "Bapak K. H. Yahya Khalis Taquf. Yang saya hormati Ketua Pengurus Pusat Muhammadiyah bidang ekonomi, Bisnis dan Industri Halal sekaligus utusan khusus Presiden Republik Indonesia bidang haji. Yang saya hormati Prof. Muhammad Quraisy Sihab, pendiri Pusat Studi Quran yang hari ini baru saja memberi ceramah yang sangat berharga bagi kita semua."
+   "t": 148.88,
+   "d": 69.12,
+   "text": "sekaligus utusan khusus presidenya bidang haji. Yang saya hormati Prof. Muhammad Quraisy Sihab, pendiri Pusat Studi Quran yang hari ini yang saya hormati Prof. Muhammad Quraisy Sihab. pendiri Pusat Studi Quran yang hari ini baru saja memberi ceramah yang sangat berharga bagi kita semua."
   },
   {
-   "t": 174.96,
-   "d": 138.8,
-   "text": "Ee Ketua Umum Ikatan Cendidikan Muslim Indonesia, Prof. Arif Satria K. Haji Ali bin Abdurrahman Al Habsyi, Habib Ali Kwitang, Habib Nabil Almusawa, Profesor Alwi Syihab. Terima kasih. Turut hadir perwakilan dari organisasi-organisasi Islam dari Perserikatan Islam persis Persatuan Umat Islam, PP Aisiah, Fatayat NU, Muslimat NU, Pengurus Pusat Wanita Islam, PP Al-Irsyad Al-Islamiyah, Ikatan Dai Indonesia, Persatuan Tarbiyah Islamiah, Pemuda Remaja Masjid Indonesia, Gerakan Pemuda Ansor, para pimpinan Pondok Pesantren yang saya muliakan, hadirin undangan, rekan-rekan pers serta anak-anakku yang turut hadir bersama kita semua."
+   "t": 191.48,
+   "d": 138.72,
+   "text": "Ee Ketua Umum Ikatan Cendidikan Muslim Indonesia Prof. Arif Satria, K. Haji Ali bin Abdurrahman Alhabsyi, Habib Ali Kitang, Habib Nabil Almusawa, Profesor Alwi Shihab. Terima kasih. Turut hadir perwakilan dari organisasi-organisasi Islam dari Perserikatan Islam persis persatuan umat Islam, PP Aisyah, Fatayat NU, Muslimat NU, Pengurus Pusat Wanita Islam, PP Al-Irsyad Al-Islamiyah, Ikatan Dai Indonesia, Persatuan Tarbiyah Islamiah, Pemuda Remaja Masjid Indonesia, Gerakan Pemuda Ansor, para pimpinan Pondok Pesantren yang saya muliakan, hadirin undangan, rekan-rekan pers serta anak-anakku yang turut hadir bersama kita semua."
   },
   {
-   "t": 263.36,
-   "d": 90.52,
+   "t": 279.88,
+   "d": 90.64,
    "text": "Saya juga ucapkan terima kasih kepada Ananda Muhammad Zian Fakrezi, umur 11 tahun, juara 1 MTQ di Irak, di Iran ya tahun 2026. Saya minta nanti sesudah acara ini menghadap saya, Ananda Muhammad Zian Farizi. Pertama-tama tentunya sebagai insan yang bertakwa tidak henti-hentinya kita panjatkan puji syukur kehadirat Allah Subhanahu wa taala."
   },
   {
-   "t": 327.72,
+   "t": 344.24,
    "d": 66.04,
    "text": "Tuhan maha kuasa, Tuhan maha besar yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita memohon pertolongan. Selawat dan salam kita haturkan kehadirat junjungan kita Nabi Besar Muhammad Rasulullah sallallahu alaihi wasallam yang telah memberi kepada kita petunjuk agama dan peradaban."
   },
   {
-   "t": 364.72,
-   "d": 75.36,
+   "t": 381.24,
+   "d": 75.44,
    "text": "Kita bersyukur masih diberi kesehatan dapat hadir bersama pada peringatan Nuzul Quran tahun 1447 Hijriah pada hari Ramadan hari ke-20 malam ke-21 malam ganjil yang kita percaya Lailatul Qadar turun di antara malam ganjil bulan Ramadan pada 10 hari terakhir. Semoga ini akan menambah kebaikan, keberkahan bagi kita semua."
   },
   {
-   "t": 410.08,
-   "d": 78.52,
-   "text": "Saya terima kasih atas kehadiran Bapak-bapak dan begitu banyak tokoh-tokoh agama, para ulama besar, para ustaz. Saya sangat terima kasih dengan Profesor Qurais Siihab yang baru saja memberi ceramah singkat kepada kita sekalian dan juga memberi arti tentang hal-hal yang mendasar."
+   "t": 426.6,
+   "d": 78.56,
+   "text": "Saya terima kasih atas kehadiran Bapak-bapak dan begitu banyak tokoh-tokoh agama, para ulama besar, para ustaz. Saya sangat terima kasih dengan Profesor Quraisiahap yang baru saja memberi ceramah singkat kepada kita sekalian dan juga memberi arti tentang hal-hal yang mendasar."
   },
   {
-   "t": 451.2,
-   "d": 113.56,
-   "text": "arti-arti damai, arti kedamaian, arti perdamaian dapat juga memberi kepada kita perbedaan itu bukan sesuatu yang harus mengarah [mendengus] kepada perpecahan yang sangat besar. Artinya bagi saya adalah pencerahan pengertian beliau yang disampaikan yaitu tentang keadilan dan juga tentang takdir seorang pemimpin yang di percaya oleh bangsa dan rakyat."
+   "t": 467.72,
+   "d": 113.6,
+   "text": "arti-arti damai, arti kedamaian, arti perdamaian dapat juga memberi kepada kita perbedaan itu bukan sesuatu yang harus mengarah kepada perpecahan yang sangat besar. Artinya bagi saya adalah pencerahan pengertian beliau yang disampaikan yaitu tentang keadilan dan juga tentang takdir seorang pemimpin yang di percaya oleh bangsa dan rakyat."
   },
   {
-   "t": 511.76,
+   "t": 528.28,
    "d": 107.04,
    "text": "Semakin saya sadar bahwa kepemimpinan itu adalah takdir dan kekuasaan itu bersumber daripada yang maha kuasa dan kekuasaan itu diberi sebagai penugasan untuk membela kebenaran keadilan. dan kejujuran dan bahwa kekuasaan itu adalah tugas untuk melindungi dan membawa kesejahteraan dan keadilan kepada seluruh rakyat yang dipimpin."
   },
   {
-   "t": 564.96,
+   "t": 581.48,
    "d": 173.84,
    "text": "Saudara-saudara sekalian, peringatan Nuzul Quran kali ini saya kira adalah suatu kesempatan bagi kita sekalian untuk masing-masing memahami masing-masing meresap meresapi Tapi arti daripada apa yang di ajarkan dalam Al-Qur'an itu tersebut. Dengan demikian, pesan-pesan tadi yang diberikan oleh penceramah saya kira sangat-sangat berarti bagi kita semua di tengah dunia sekarang yang penuh ketidakpastian bahkan penuh bahaya di mana banyak pemimpin di dunia yang memiliki kekuatan besar tidak dengan lancar menjaga perdamaian yang kita perlukan, yang diperlukan oleh seluruh umat manusia."
   },
   {
-   "t": 661.0,
-   "d": 96.12,
+   "t": 677.36,
+   "d": 96.08,
    "text": "Kita sebagai bangsa Indonesia bersama banyak-banyak bangsa lain, kita perlu untuk menggalang persatuan di antara kita, menggalang kerukunan di antara kita untuk menghadapi keadaan penuh ketidakpastian. ini untuk menghadapi keadaan yang penuh bahaya ini. Tetapi kita juga diingatkan oleh penceramah bahwa kita harus yakin bahwa pada ujungnya yang benar yang akan menang."
   },
   {
-   "t": 712.08,
-   "d": 71.84,
+   "t": 728.44,
+   "d": 71.88,
    "text": "bahwa kita akan mencapai apa yang kita cita-citakan dengan tekad dan komitmen yang sangat jelas dan teguh. Insyaallah apa yang kita cita-citakan akan kita capai bersama. Saudara-saudara sekalian, sebagai Presiden Republik Indonesia, saya selalu ingat akan tugas yang dibebankan kepada saya."
   },
   {
-   "t": 749.16,
+   "t": 765.56,
    "d": 74.72,
-   "text": "Bahwa tugas saya sebagai presiden di Republik Indonesia adalah untuk melindungi seluruh tumpah darah Indonesia, seluruh rakyat Indonesia. Seluruh rakyat Indonesia, apapun sukunya, apapun rasnya, apapun agamanya harus dilindungi, harus dijaga, harus diurus, harus dirawat, harus dibina."
+   "text": "Bahwa tugas saya sebagai Presiden Republik Indonesia adalah untuk melindungi seluruh tumpah darah Indonesia, seluruh rakyat Indonesia. Seluruh rakyat Indonesia, apapun sukunya, apapun rasnya, apapun agamanya harus dilindungi, harus dijaga, harus diurus, harus dirawat, harus dibina."
   },
   {
-   "t": 788.28,
-   "d": 86.24,
+   "t": 804.64,
+   "d": 86.32,
    "text": "Karena itu yang terutama yang saya sadari adalah bekerja dengan sangat keras untuk menjaga perdamaian bangsa Indonesia di bawah kepemimpinan pemerintah saya dan semua pembantu-pembantu saya. Kita bertekad untuk memelihara persahabatan dan hubungan baik dengan semua bangsa, dengan semua negara, dengan semua kekuatan."
   },
   {
-   "t": 833.48,
-   "d": 65.72,
+   "t": 849.88,
+   "d": 68.76,
    "text": "Kita tidak mau campur tangan dalam urusan dalam negeri, negara manapun. Kita hormati semua kekuatan di dunia yang besar maupun yang kecil. Ini adalah jalan yang telah ditunjuk oleh pendiri-pendiri bangsa kita. Ini juga ditunjuk oleh hampir semua guru-guru agama dari semua agama."
   },
   {
-   "t": 871.2,
-   "d": 79.56,
-   "text": "bahwa kita akan berusaha sangat keras untuk menjaga perdamaian. Tentunya menjaga perdamaian itu tidak dengan cara berdoa dan berharap, tapi juga dengan ikhtiar, dengan kerja keras [mendengus] mencapai kesejahteraan dan keadilan. Kita sadari tidak mungkin jatuh dari langit tanpa ikhtiar dan usaha keras dari kita semua."
+   "t": 887.44,
+   "d": 79.76,
+   "text": "bahwa kita akan berusaha sangat keras untuk menjaga perdamaian. Tentunya menjaga perdamaian itu tidak dengan cara berdoa dan berharap, tapi juga dengan ikhtiar, dengan kerja keras mencapai kesejahteraan dan keadilan. Kita sadari tidak mungkin jatuh dari langit tanpa ikhtiar dan usaha keras dari kita semua."
   },
   {
-   "t": 913.12,
-   "d": 75.36,
-   "text": "Kita diberi karunia oleh Maha Kuasa, kekayaan yang sangat besar. Pada kesempatan ini sekali lagi saya sampaikan bahwa kita harus berjuang keras untuk menghilangkan kemiskinan, kelaparan, dan penderitaan dari seluruh rakyat kita. Kita tidak boleh mengizinkan ada di antara rakyat kita yang terlantar."
+   "t": 929.32,
+   "d": 75.4,
+   "text": "Kita diberi karunia oleh maha kuasa, kekayaan yang sangat besar. Pada kesempatan ini sekali lagi saya sampaikan bahwa kita harus berjuang keras untuk menghilangkan kemiskinan, kelaparan, dan penderitaan dari seluruh rakyat kita. Kita tidak boleh mengizinkan ada di antara rakyat kita yang terlantar."
   },
   {
-   "t": 950.96,
-   "d": 81.04,
-   "text": "Kita mampu, kita telah diberikan kekayaan yang cukup oleh maha kuasa. Sekarang adalah para pemimpin-pemimpinnya yang harus bekerja dengan baik. Saya terima kasih Prof. Kuraisi tadi. Terima kasih atas dukungan Bapak, atas dukungan semuanya. Memang kita harus menghilangkan korupsi, penyelewengan, semua praktik-praktik yang tidak benar dan tidak baik yang dilarang oleh semua agama."
+   "t": 967.16,
+   "d": 80.8,
+   "text": "Kita mampu. Kita telah diberikan kekayaan yang cukup oleh maha kuasa. Sekarang adalah para pemimpin-pemimpinnya yang harus bekerja dengan baik. Saya terima kasih Prof. Qurais Siihab tadi. Terima kasih atas dukungan Bapak, atas dukungan semuanya. Memang kita harus menghilangkan korupsi, penyelewengan semua praktik-praktik yang tidak benar dan tidak baik yang dilarang oleh semua agama."
   },
   {
-   "t": 996.64,
-   "d": 101.16,
-   "text": "Itu adalah ajaran agama, itu juga ajaran sejarah. Tidak ada negara yang berhasil manakala pemerintahnya tidak mampu membersihkan diri dari korupsi. Ini ajaran agama dan sejarah. Kita tidak boleh kalah dengan mereka yang ingin mengambil kekayaan rakyat, membawanya ke negara lain dan memelihara bangsa dan [berdehem] rakyat Indonesia dalam keadaan lemah."
+   "t": 1012.56,
+   "d": 101.2,
+   "text": "Itu adalah ajaran agama, itu juga ajaran sejarah. Tidak ada negara yang berhasil manakala pemerintahnya tidak mampu membersihkan diri dari korupsi. Ini ajaran agama dan sejarah. Kita tidak boleh kalah dengan mereka yang ingin mengambil kekayaan rakyat, membawanya ke negara lain dan memelihara bangsa dan rakyat Indonesia dalam keadaan lemah."
   },
   {
-   "t": 1049.4,
-   "d": 85.84,
-   "text": "Saya bersyukur, saya berterima kasih pada malam yang baik ini, saya terus dibeli, diberi pelajaran, diberi peringatan, diberi tambahan semangat. Saya berterima kasih atas penceramah yang bersedia hadir dan terus [mendengus] memberi kepada saya pencerahan akan tugas-tugas saya."
+   "t": 1065.4,
+   "d": 85.6,
+   "text": "Saya bersyukur, saya berterima kasih pada malam yang baik ini, saya terus dibeli, diberi pelajaran, diberi peringatan, diberi tambahan semangat. Saya berterima kasih atas penceramah yang bersedia hadir dan terus memberi kepada saya pencerahan akan tugas-tugas saya."
   },
   {
-   "t": 1092.12,
-   "d": 64.4,
-   "text": "Saya berterima kasih kepada para ulama, para ustaz, para pemimpin masyarakat. Mari kita bersatu. Mari kita bekerja keras. [mendengus] Mari kita amankan dan selamatkan seluruh rakyat kita. Saya mohon doa terus, saya mohon dukungan. Kita akan berhasil, kita akan unggul."
+   "t": 1107.96,
+   "d": 70.04,
+   "text": "Saya berterima kasih kepada para ulama, para ustaz, para pemimpin masyarakat. Mari kita bersatu. Mari kita bekerja keras. Mari kita amankan dan selamatkan seluruh rakyat kita. Saya mohon doa terus, saya mohon dukungan. Kita akan berhasil, kita akan unggul. Kita akan mengatasi semua kesulitan."
   },
   {
-   "t": 1124.72,
-   "d": 51.24,
-   "text": "Kita akan mengatasi semua kesulitan. Kita akan memberantas mereka-mereka yang selama ini merusak perekonomian kita. Kita akan berantas mereka. Kita akan hadapi mereka dan kita akan menjalankan, kita akan tegakkan kebenaran dan keadilan. Terima kasih atas perhatian saudara-saudara sekali."
+   "t": 1143.24,
+   "d": 59.32,
+   "text": "Kita akan memberantas mereka-mereka yang selama ini merusak perekonomian kita. Kita akan berantas mereka. Kita akan hadapi mereka dan kita akan menjalankan, kita akan tegakkan kebenaran dan keadilan. Terima kasih atas perhatian saudara-saudara sekalian. Wasalamualaikum warahmatullahi wabarakatuh. Terima kasih semuanya."
   },
   {
-   "t": 1152.4,
-   "d": 91.05,
-   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Terima kasih semuanya. Terima kasih atas doa dan dukungan Bapak-bapak, Ibu-ibu, dan anak-anakku yang aku cintai. Terima kasih. Selesai. Hadirin yang kami muliakan, demikianlah acara peringatan Nuzulul Quran tingkat kenegaraan tahun 1447 Hijriah 2026 Masehi selesai. Kami ucapkan terima kasih kepada yang terhormat Presiden Republik Indonesia dan Wakil Presiden Republik Indonesia yang telah berkenan hadir. Akirul kalam wabillahi taufik wal hidayah. Wasalamualaikum warahmatullahi wabarakatuh."
-  },
-  {
-   "t": 1204.56,
-   "d": 100.64,
-   "text": "[musik] [musik] Ya pemirsa, kita baru saja mendengarkan amanat Presiden Prabowo Subianto dalam rangka peringatan Nuzulul Quran tingkat kenegaraan yang digelar di [musik] kompleks Istana Kepresidenan Jakarta. Dalam peringatan tahun ini pemirsa, pemerintah mengusung tema yang relevan dengan tantangan global yakni peran Al-Qur'an dalam menjaga amanah ekologis dan mewujudkan perdamaian dunia yang mana sebelumnya terdapat juga tausiah dari Profesor Quraisy Syihab yang mengupas tuntas pesan-pesan Al-Qur'an terkait hubungan manusia alam dan juga perdamaian antarbangsa. Hal inilah juga yang tadi disampaikan oleh Presiden Prabu Subianto dalam amanat yaitu menegaskan bahwa peringatan ini bukan sekedar seremoni tahunan melainkan juga momentum [musik] bagi pemerintah untuk memastikan bahwa nilai keagamaan akan diterjemahkan dalam tindakan nyata yang juga berdampak bagi masyarakat dan lingkungan. Dan tadi juga menegaskan"
-  },
-  {
-   "t": 1267.52,
-   "d": 50.73,
-   "text": "Presiden Prab [musik] Presiden Prabo Subianto bahwa perdamaian ini akan menjadi pengingat untuk selalu menjaga perdamaian dengan seluruh bangsa yang mana memposisikan Indonesia sebagai negara nonblok. [bernyanyi] [musik] [bernyanyi] [musik] Jelajahi cara baru mendapatkan informasi. Download Metro TV Extend sekarang."
+   "t": 1174.0,
+   "d": 19.12,
+   "text": "Terima kasih atas doa dan dukungan Bapak-bapak, Ibu-ibu, dan anak-anakku yang aku cintai. Terima kasih. Okay."
   }
  ],
  "provenance": {
   "engine_repo": "himanusia/youtube-speech-corpus",
   "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
-  "canonical_video_id": "Fm09R5akNzM",
+  "canonical_video_id": "rr-pObURxuc",
   "language_code": "id",
   "language": "Indonesian (auto-generated)",
   "is_generated": true,
   "fetched_via": "caption_api",
-  "source_of_truth": "engine/data/prabowo/raw/Fm09R5akNzM.json"
+  "source_of_truth": "engine/data/prabowo/raw/rr-pObURxuc.json"
  }
 }

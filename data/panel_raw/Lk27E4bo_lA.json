@@ -1,0 +1,61 @@
+{
+ "id": "Lk27E4bo_lA",
+ "url": "https://www.youtube.com/watch?v=Lk27E4bo_lA",
+ "title": "Keterangan Pers Presiden Prabowo usai Resmikan Gedung Layanan Terpadu dan INN RSPON, 26 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "raw_snippets": [
+  {
+   "text": "Baik. Iya. Ya. Izin Bapak ya. Kalian sudah dengar kan? Sudah ikuti semua acara ya.",
+   "start": 0.0,
+   "duration": 6
+  },
+  {
+   "text": "Alhamdulillah kita bangga kita punya pusat seperti ini. Ee kualitasnya sangat baik. Saya sudah lihat sampai ke atas ee",
+   "start": 6.0,
+   "duration": 8
+  },
+  {
+   "text": "pasien-pasiennya juga diraut dengan baik.",
+   "start": 14.0,
+   "duration": 4
+  },
+  {
+   "text": "Ee kita sudah tidak kalah dengan rumah sakit terbaik di luar negeri.",
+   "start": 18.0,
+   "duration": 4
+  },
+  {
+   "text": "Alhamdulillah ee banyak ee lembaga luar negeri pun mau ikut riset di sini. Pak Presiden, Pak",
+   "start": 22.0,
+   "duration": 8
+  },
+  {
+   "text": "Presiden mohon izin, Pak. Mengenai anggota kabinet Bapak, salah satu wam sudah diurus semuanya tuh ya. Oke.",
+   "start": 30.0,
+   "duration": 8
+  },
+  {
+   "text": "Penggantinya, Pak. Penggantinya, Pak. Penggantinya, Pak. Ada nanti. Tenang aja. Terima kasih.",
+   "start": 38.0,
+   "duration": 3
+  }
+ ]
+}
