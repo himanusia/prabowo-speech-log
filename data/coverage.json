@@ -132,7 +132,7 @@
   {
    "month": "2026-05",
    "events": 6,
-   "tokens": 9343,
+   "tokens": 16943,
    "covered": true
   },
   {
@@ -181,7 +181,7 @@
   {
    "year": "2026",
    "events": 41,
-   "tokens": 102853,
+   "tokens": 110453,
    "event_share": 61.2
   }
  ],

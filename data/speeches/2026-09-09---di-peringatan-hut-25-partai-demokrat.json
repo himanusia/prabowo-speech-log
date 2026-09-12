@@ -12,6 +12,8 @@
  "snippet_count": 380,
  "token_count": 3310,
  "unique_word_count": 1011,
+ "canonical_overridden": false,
+ "canonical_note": null,
  "duplicate_count": 5,
  "uploads": [
   {

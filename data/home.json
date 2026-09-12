@@ -1,105 +1,105 @@
 {
  "event_count": 67,
- "token_count": 153699,
+ "token_count": 161299,
  "upload_count": 128,
  "date_first": "2024-08-27",
  "date_last": "2026-09-09",
  "length": {
-  "median": 1788,
+  "median": 1822,
   "longest": 7900,
   "longest_title": "🔴BREAKING NEWS - Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR 2026",
-  "shortest": 68,
-  "shortest_title": "Presiden Prabowo Sampaikan Pidato pada Rapat Paripurna DPR RI ke-19, Jakarta, 20 Mei 2026"
+  "shortest": 213,
+  "shortest_title": "Presiden Prabowo Sampaikan Ucapan Selamat Hari Natal 2025, Jakarta, 25 Desember 2025"
  },
  "topics": [
   {
    "topic": "nasional_dan_identitas",
-   "count": 5261,
-   "per_1000": 34.23,
+   "count": 5520,
+   "per_1000": 34.22,
    "speeches": 67,
    "share": 100.0
   },
   {
    "topic": "ekonomi",
-   "count": 974,
-   "per_1000": 6.34,
+   "count": 1082,
+   "per_1000": 6.71,
    "speeches": 60,
    "share": 89.6
   },
   {
    "topic": "kesehatan_dan_gizi",
-   "count": 884,
-   "per_1000": 5.75,
-   "speeches": 61,
-   "share": 91.0
+   "count": 903,
+   "per_1000": 5.6,
+   "speeches": 62,
+   "share": 92.5
   },
   {
    "topic": "pendidikan",
-   "count": 767,
-   "per_1000": 4.99,
-   "speeches": 51,
-   "share": 76.1
+   "count": 793,
+   "per_1000": 4.92,
+   "speeches": 52,
+   "share": 77.6
   },
   {
    "topic": "pangan",
-   "count": 613,
-   "per_1000": 3.99,
-   "speeches": 46,
-   "share": 68.7
+   "count": 653,
+   "per_1000": 4.05,
+   "speeches": 47,
+   "share": 70.1
   },
   {
    "topic": "tata_kelola",
-   "count": 588,
-   "per_1000": 3.83,
-   "speeches": 59,
-   "share": 88.1
+   "count": 650,
+   "per_1000": 4.03,
+   "speeches": 60,
+   "share": 89.6
   },
   {
    "topic": "pertahanan_dan_keamanan",
-   "count": 567,
-   "per_1000": 3.69,
-   "speeches": 59,
-   "share": 88.1
+   "count": 574,
+   "per_1000": 3.56,
+   "speeches": 60,
+   "share": 89.6
   }
  ],
  "programs": [
   {
    "label": "MBG",
    "full": "Makan Bergizi Gratis",
-   "events": 28,
-   "share": 41.8,
-   "mentions": 113,
-   "per_event": 4.0,
+   "events": 29,
+   "share": 43.3,
+   "mentions": 120,
+   "per_event": 4.1,
    "first": "2024-10-09",
    "last": "2026-09-09"
   },
   {
    "label": "Danantara",
    "full": "dana investasi negara",
-   "events": 19,
-   "share": 28.4,
-   "mentions": 51,
-   "per_event": 2.7,
+   "events": 20,
+   "share": 29.9,
+   "mentions": 53,
+   "per_event": 2.6,
    "first": "2025-07-21",
    "last": "2026-08-25"
   },
   {
    "label": "Hilirisasi",
    "full": "industri pengolahan dalam negeri",
-   "events": 17,
-   "share": 25.4,
-   "mentions": 34,
-   "per_event": 2.0,
+   "events": 18,
+   "share": 26.9,
+   "mentions": 35,
+   "per_event": 1.9,
    "first": "2024-10-09",
    "last": "2026-09-09"
   },
   {
    "label": "Koperasi desa",
    "full": "koperasi desa merah putih",
-   "events": 10,
-   "share": 14.9,
-   "mentions": 32,
-   "per_event": 3.2,
+   "events": 11,
+   "share": 16.4,
+   "mentions": 34,
+   "per_event": 3.1,
    "first": "2025-08-15",
    "last": "2026-09-09"
   },
@@ -114,6 +114,26 @@
    "last": "2026-08-14"
   },
   {
+   "label": "Swasembada",
+   "full": "swasembada pangan/energi",
+   "events": 8,
+   "share": 11.9,
+   "mentions": 15,
+   "per_event": 1.9,
+   "first": "2024-10-09",
+   "last": "2026-08-14"
+  },
+  {
+   "label": "PLTS / energi surya",
+   "full": "pembangkit listrik tenaga surya",
+   "events": 7,
+   "share": 10.4,
+   "mentions": 21,
+   "per_event": 3.0,
+   "first": "2025-09-29",
+   "last": "2026-08-25"
+  },
+  {
    "label": "Sekolah Rakyat",
    "full": "sekolah rakyat",
    "events": 7,
@@ -124,32 +144,12 @@
    "last": "2026-09-09"
   },
   {
-   "label": "Swasembada",
-   "full": "swasembada pangan/energi",
-   "events": 7,
-   "share": 10.4,
-   "mentions": 14,
-   "per_event": 2.0,
-   "first": "2024-10-09",
-   "last": "2026-08-14"
-  },
-  {
-   "label": "PLTS / energi surya",
-   "full": "pembangkit listrik tenaga surya",
-   "events": 6,
-   "share": 9.0,
-   "mentions": 19,
-   "per_event": 3.2,
-   "first": "2025-09-29",
-   "last": "2026-08-25"
-  },
-  {
    "label": "Rumah subsidi",
    "full": "rumah rakyat / subsidi perumahan",
-   "events": 6,
-   "share": 9.0,
-   "mentions": 10,
-   "per_event": 1.7,
+   "events": 7,
+   "share": 10.4,
+   "mentions": 11,
+   "per_event": 1.6,
    "first": "2024-12-04",
    "last": "2026-08-14"
   },
@@ -188,9 +188,9 @@
   {
    "label": "Korupsi dan kebocoran",
    "full": "kosakata negatif yang paling dominan, jauh di atas hinaan pribadi",
-   "events": 42,
-   "share": 62.7,
-   "mentions": 186,
+   "events": 43,
+   "share": 64.2,
+   "mentions": 191,
    "per_event": 4.4,
    "first": "2024-08-27",
    "last": "2026-09-09"
@@ -198,10 +198,10 @@
   {
    "label": "Bencana dan penanganan",
    "full": "sering dibahas lewat nama lembaga, bukan nama bencananya",
-   "events": 15,
-   "share": 22.4,
-   "mentions": 25,
-   "per_event": 1.7,
+   "events": 16,
+   "share": 23.9,
+   "mentions": 26,
+   "per_event": 1.6,
    "first": "2025-09-29",
    "last": "2026-09-09"
   },
@@ -219,55 +219,55 @@
  "framing": [
   {
    "label": "kita",
-   "count": 5978,
-   "per_1000": 38.89,
+   "count": 6465,
+   "per_1000": 40.08,
    "speeches": 67,
    "share": 100.0
   },
   {
    "label": "saya",
-   "count": 4098,
-   "per_1000": 26.66,
+   "count": 4258,
+   "per_1000": 26.4,
+   "speeches": 67,
+   "share": 100.0
+  },
+  {
+   "label": "saudara",
+   "count": 2257,
+   "per_1000": 13.99,
    "speeches": 66,
    "share": 98.5
   },
   {
-   "label": "saudara",
-   "count": 2165,
-   "per_1000": 14.09,
-   "speeches": 65,
-   "share": 97.0
-  },
-  {
    "label": "rakyat",
-   "count": 1092,
-   "per_1000": 7.1,
+   "count": 1128,
+   "per_1000": 6.99,
    "speeches": 63,
    "share": 94.0
   },
   {
    "label": "mereka",
-   "count": 589,
-   "per_1000": 3.83,
-   "speeches": 58,
-   "share": 86.6
+   "count": 654,
+   "per_1000": 4.05,
+   "speeches": 59,
+   "share": 88.1
   },
   {
    "label": "kami",
-   "count": 329,
-   "per_1000": 2.14,
-   "speeches": 51,
-   "share": 76.1
+   "count": 333,
+   "per_1000": 2.06,
+   "speeches": 52,
+   "share": 77.6
   },
   {
    "label": "kalian",
-   "count": 103,
-   "per_1000": 0.67,
-   "speeches": 28,
-   "share": 41.8
+   "count": 106,
+   "per_1000": 0.66,
+   "speeches": 29,
+   "share": 43.3
   }
  ],
- "kita_saya_ratio": 1.46,
+ "kita_saya_ratio": 1.52,
  "framing_per_year": [
   {
    "year": "2024",
@@ -288,131 +288,131 @@
   {
    "year": "2026",
    "speeches": 41,
-   "tokens": 102853,
-   "kita_per_1000": 38.83,
-   "saya_per_1000": 25.64,
-   "ratio": 1.51
+   "tokens": 110453,
+   "kita_per_1000": 40.57,
+   "saya_per_1000": 25.32,
+   "ratio": 1.6
   }
  ],
  "top_words": [
   {
    "word": "indonesia",
-   "count": 1744,
-   "per_1000": 11.35
+   "count": 1802,
+   "per_1000": 11.17
   },
   {
    "word": "rakyat",
-   "count": 1086,
-   "per_1000": 7.07
+   "count": 1122,
+   "per_1000": 6.96
   },
   {
    "word": "harus",
-   "count": 994,
-   "per_1000": 6.47
+   "count": 1080,
+   "per_1000": 6.7
   },
   {
    "word": "bangsa",
-   "count": 875,
-   "per_1000": 5.69
+   "count": 914,
+   "per_1000": 5.67
   },
   {
    "word": "negara",
-   "count": 804,
-   "per_1000": 5.23
-  },
-  {
-   "word": "tangan",
-   "count": 729,
-   "per_1000": 4.74
+   "count": 869,
+   "per_1000": 5.39
   },
   {
    "word": "tahun",
-   "count": 718,
-   "per_1000": 4.67
+   "count": 767,
+   "per_1000": 4.76
+  },
+  {
+   "word": "tangan",
+   "count": 760,
+   "per_1000": 4.71
   },
   {
    "word": "tepuk",
-   "count": 692,
-   "per_1000": 4.5
+   "count": 719,
+   "per_1000": 4.46
   },
   {
    "word": "enggak",
-   "count": 604,
-   "per_1000": 3.93
+   "count": 630,
+   "per_1000": 3.91
   },
   {
    "word": "menteri",
-   "count": 562,
-   "per_1000": 3.66
+   "count": 568,
+   "per_1000": 3.52
   },
   {
    "word": "presiden",
-   "count": 535,
-   "per_1000": 3.48
+   "count": 545,
+   "per_1000": 3.38
   },
   {
    "word": "ketua",
-   "count": 505,
-   "per_1000": 3.29
+   "count": 527,
+   "per_1000": 3.27
   },
   {
    "word": "republik",
-   "count": 415,
-   "per_1000": 2.7
+   "count": 429,
+   "per_1000": 2.66
   },
   {
    "word": "seluruh",
-   "count": 408,
-   "per_1000": 2.65
+   "count": 416,
+   "per_1000": 2.58
   },
   {
    "word": "hadir",
-   "count": 376,
-   "per_1000": 2.45
+   "count": 382,
+   "per_1000": 2.37
   },
   {
    "word": "satu",
-   "count": 349,
-   "per_1000": 2.27
+   "count": 350,
+   "per_1000": 2.17
   },
   {
    "word": "orang",
-   "count": 326,
-   "per_1000": 2.12
+   "count": 343,
+   "per_1000": 2.13
   },
   {
    "word": "punya",
-   "count": 314,
-   "per_1000": 2.04
+   "count": 330,
+   "per_1000": 2.05
   },
   {
    "word": "dunia",
-   "count": 311,
-   "per_1000": 2.02
+   "count": 329,
+   "per_1000": 2.04
+  },
+  {
+   "word": "ekonomi",
+   "count": 320,
+   "per_1000": 1.98
   },
   {
    "word": "mungkin",
-   "count": 295,
+   "count": 310,
    "per_1000": 1.92
   },
   {
-   "word": "musik",
-   "count": 290,
-   "per_1000": 1.89
+   "word": "ingin",
+   "count": 309,
+   "per_1000": 1.92
   },
   {
    "word": "hormati",
-   "count": 289,
-   "per_1000": 1.88
+   "count": 300,
+   "per_1000": 1.86
   },
   {
-   "word": "ingin",
-   "count": 289,
-   "per_1000": 1.88
-  },
-  {
-   "word": "wakil",
-   "count": 285,
+   "word": "boleh",
+   "count": 298,
    "per_1000": 1.85
   }
  ],
@@ -430,7 +430,7 @@
   {
    "year": "2026",
    "speeches": 41,
-   "tokens": 102853
+   "tokens": 110453
   }
  ]
 }

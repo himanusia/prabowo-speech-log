@@ -1,17 +1,19 @@
 {
  "id": "2026-05-20-sampaikan-pada-rapat-paripurna-dpr-ri-ke-19",
- "video_id": "7gTnSb4faRk",
+ "video_id": "WJtmyDrIgHg",
  "date": "2026-05-20",
  "title": "Presiden Prabowo Sampaikan Pidato pada Rapat Paripurna DPR RI ke-19, Jakarta, 20 Mei 2026",
- "channel": "Sekretariat Presiden",
+ "channel": "KOMPASTV MADIUN",
  "youtube_url": "https://www.youtube.com/watch?v=7gTnSb4faRk",
- "duration_s": 70,
- "duration_hms": "1:10",
+ "duration_s": 5972,
+ "duration_hms": "1:39:32",
  "source_tier": "official",
  "fetch_method": "caption_api",
- "snippet_count": 16,
- "token_count": 68,
- "unique_word_count": 47,
+ "snippet_count": 1933,
+ "token_count": 7668,
+ "unique_word_count": 1747,
+ "canonical_overridden": true,
+ "canonical_note": "Kanonik otomatis memilih unggahan kanal resmi yang ternyata klip 70 detik (68 token) padahal acaranya 1 jam 39 menit. Diperiksa lewat audit_speeches.py pada 13 Sep 2026: unggahan KOMPASTV MADIUN memuat pidato lengkap (753 segmen, 5972 detik). Ditimpa manual supaya angkanya mewakili acara, bukan potongannya.",
  "duplicate_count": 2,
  "uploads": [
   {
@@ -53,7 +55,7 @@
     "search_sambutan"
    ],
    "selection_reason": "media_full_speech_candidate",
-   "canonical": false
+   "canonical": true
   },
   {
    "video_id": "rVhF-GrMi8k",
@@ -99,19 +101,819 @@
  },
  "transcript": [
   {
-   "t": 1.96,
-   "d": 94.84,
-   "text": "[musik] [musik] APBN adalah wujud dari alat perjuangan kita sebagai bangsa. APBN adalah alat untuk melindungi rakyat, alat untuk memperkokoh dasar dasasar dan sendi-sendi ekonomi bangsa. Alat untuk memastikan setiap warga negara dapat hidup lebih sejahtera dan sebagai alat untuk menjadi pedoman perjalanan kita ke depan. Dengan kesadaran itu, APBN kita susun sebagai bentuk komitmen bersama untuk mewujudkan cita-cita mulia yang telah diamanatkan dalam Undang-Undang Dasar kita, Undang-Undang Dasar Tahun 1945."
+   "t": 0.65,
+   "d": 66.74,
+   "text": "[tepuk tangan] Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Rahayu-rahayu. Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka."
+  },
+  {
+   "t": 61.56,
+   "d": 81.12,
+   "text": "Yang saya hormati Ketua Majelis Permusyawaratan Rakyat Republik Indonesia, Saudara Ahmad Muzani dan para wakil ketua MPR RI. Yang saya hormati Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani dan para wakil Ketua DPR RI. Yang saya hormati Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Bakhtiar Najudin beserta para wakil ketua DPD RI."
+  },
+  {
+   "t": 104.16,
+   "d": 74.92,
+   "text": "Yang saya hormati pimpinan serta seluruh anggota MPR RI, DPR RI dan DPD RI. Para pimpinan lembaga tinggi negara yang hadir. Yang saya hormati para ketua umum partai politik yang hadir, Ketua Umum PDI Perjuangan yang diwakili oleh Saudara Puan Maharani, Ketua Umum Partai Golkar Saudara Bahlil Lahadalia, Ketua Umum Partai Nasdem, Saudara Suryawak."
+  },
+  {
+   "t": 150.84,
+   "d": 55.44,
+   "text": "Ketua Umum Partai Kebangkitan Bangsa, Saudara Abdul Muhaimin Iskandar yang sedang berangkat haji. Presiden Partai Keadilan Sejahtera, Saudara Muzamil Yusuf. Ketua Umum Partai Amanat Nasional, Saudara Zulkifli Hasan, [tepuk tangan] Ketua Umum Partai Demokrat, Saudara Agus Sarimurti Yudoyono."
+  },
+  {
+   "t": 181.52,
+   "d": 64.68,
+   "text": "Yang saya hormati Ketua Badan Pemeriksa Keuangan, Ketua Mahkamah Agung, Ketua Mahkamah Konstitusi, Ketua Komisi Yudisial, Gubernur Bank Indonesia, dan pimpinan lembaga-lembaga tinggi negara lainnya. Saya hormati para menteri, Panglima TNI, Kapolri, Jaksa Agung, serta seluruh anggota kabinet merah putih yang hadir."
+  },
+  {
+   "t": 215.4,
+   "d": 58.88,
+   "text": "Dan yang saya hormati perwakilan dari kelompok-kelompok masyarakat yang hadir dan yang saya muliakan saudara-saudara sebangsa dan setanah air yang saya cintai di mana pun engkau berada. Alhamdulillahiabbil alamin. Puji syukur kita panjatkan kehadirat Allah Subhanahu wa taala."
+  },
+  {
+   "t": 247.0,
+   "d": 82.6,
+   "text": "Atas rahmat dan hidayah-Nya kita dapat menjalankan tugas kenegaraan hari ini dalam suasana yang aman, tentram, dan damai. Pada kesempatan yang baik ini, saya ingin menyampaikan penghargaan saya setinggi-tingginya. Kepada pimpinan dan anggota MPR, DPR, dan DPD RI atas diselenggarakannya rapat paripurna DPR ini yang dihadiri anggota DPR dan DPD RI bertepatan dengan peringatan hari kebangkitan nasional kita."
+  },
+  {
+   "t": 287.8,
+   "d": 56.56,
+   "text": "Saya sengaja minta waktu untuk berdiri di hadapan saudara-saudara sekalian untuk menyampaikan langsung sendiri arah kebijakan ekonomi dan fiskal negara kita. Sebagai pembicaraan pendahuluan dalam penyusunan rancangan anggaran pendapatan dan belanja negara APBN tahun 2027."
+  },
+  {
+   "t": 318.32,
+   "d": 93.44,
+   "text": "pimpinan dan seluruh anggota dewan yang saya muliakan. Kita sekarang sebagai bangsa menghadapi tantangan geopolitik dan geoekonomi yang penuh dengan konflik, ketegangan, dan ketidakpastian. Peperangan terjadi di banyak tempat, bahkan di Eropa, di Timur Tengah, di kawasan yang walaupun jauh dari kita, tetapi ternyata memiliki dampak dan pengaruh yang sangat besar terhadap kehidupan kita."
+  },
+  {
+   "t": 364.88,
+   "d": 60.16,
+   "text": "Oleh karena itu, karena kondisi yang kita hadapi seperti ini, saya berpendapat bahwa Presiden Republik Indonesia harus hadir langsung menyampaikan pokok-pokok pikiran perekonomian dan pengelolaan negara. Saudara-saudara sekalian, saya telah disumpah oleh saudara-saudara sekalian di hadapan saudara-saudara sekalian dan di hadapan rakyat."
+  },
+  {
+   "t": 396.72,
+   "d": 70.64,
+   "text": "Tugas saya untuk menjalankan Undang-Undang Dasar Negara Republik Indonesia 1945 di mana saya bertanggung jawab untuk melindungi segenap tumpah darah Indonesia. bertanggung jawab untuk memajukan kesejahteraan, memajukan kecerdasan bangsa, untuk menjaga peran Indonesia dalam menjaga perdamaian dan ketertiban dunia."
+  },
+  {
+   "t": 432.2,
+   "d": 60.68,
+   "text": "Dalam rangka itulah saya memandang bahwa anggaran pendapatan dan belanja negara bukan sekedar dokumen keuangan negara. APBN adalah wujud dari alat perjuangan kita sebagai bangsa. APBN adalah alat untuk melindungi rakyat, alat untuk memperkokoh dasar-dasar dan sendi-sendi ekonomi bangsa."
+  },
+  {
+   "t": 462.44,
+   "d": 70.32,
+   "text": "alat untuk memastikan setiap warga negara dapat hidup lebih sejahtera dan sebagai alat untuk menjadi pedoman perjalanan kita ke depan. Dengan kesadaran itu, APBN kita susun sebagai bentuk komitmen bersama untuk mewujudkan cita-cita mulia yang telah diamanatkan dalam Undang-Undang Dasar kita. Undang-Undang Dasar Tahun 1945."
+  },
+  {
+   "t": 497.36,
+   "d": 74.48,
+   "text": "Satu Undang-Undang Dasar yang lahir dari kancah perjuangan lama. Perjuangan untuk meraih kemerdekaan. yang berjalan ratusan tahun yang telah meminta korban ribuan, puluhan ribu pendahulu-pendahulu kita, yaitu cita-cita mewujudkan suatu negara Indonesia yang merdeka, yang berdaulat, yang adil, yang makmur, yang berdiri."
+  },
+  {
+   "t": 536.24,
+   "d": 76.08,
+   "text": "di atas kaki kita sendiri. Saudara-saudara sekalian, sekarang izinkanlah saya menyampaikan angka-angka kunci dari kerangka ekonomi makro dan pokok-pokok kebijakan fiskal atau bisa kita sebut kemun 2027. Pertama, pendapatan negara dalam APBN 2027. kami targetkan mencapai kisaran 11,82 hingga 12,40% dari produk domestik bruto kita."
+  },
+  {
+   "t": 577.4,
+   "d": 88.24,
+   "text": "Untuk mendukung berbagai program prioritas dan program-program vital kita, belanja negara direncanakan berada pada kisaran 13,62 hingga 14,80% dari PDB kita. Dari sisi pembiayaan defisit kita di tahun 2027, defisit APBN akan kami jaga pada kisaran 1,80 hingga maksimal 2,40% PDB. Dan kita akan berjuang terus untuk menekan dan memperkecil defisit ini."
+  },
+  {
+   "t": 620.72,
+   "d": 74.24,
+   "text": "Suku bunga, surat berharga negara SBN Tenor 10 tahun kami jaga berada pada kisaran 6,5 hingga 7,3%. Nilai tukur rupiah terhadap dolar Amerika Serikat berada pada rentang Rp16.800 hingga Rp17.500. R. Strategi fiskal dan moneter kita haruslah strategi yang mampu untuk menjaga nilai tukar kita tetap stabil terhadap mata uang dunia."
+  },
+  {
+   "t": 659.56,
+   "d": 81.12,
+   "text": "Inflasi akan kami jaga tetap pada kisaran 1,5 hingga 3,5%. Pada sektor energi, harga minyak mentah Indonesia diperkirakan sebesar 70 hingga 95 Amerika per barel. Selanjutnya, lifting minyak bumi ditargetkan 602 hingga 615.000 barel per hari dan lifting gas 934 hingga 977.000 barel. setara minyak bumi per hari."
+  },
+  {
+   "t": 701.36,
+   "d": 71.68,
+   "text": "Dengan strategi ekonomi yang tepat, kebijakan fiskal yang prudent dan berkelanjutan, saya yakin ekonomi Indonesia dapat tumbuh pada kisaran 5,8 hingga 6,5% di tahun 2007 menuju pertumbuhan ekonomi 8% pada tahun 202 dan pertumbuhan tersebut harus tercermin. pada meningkatnya kesejahteraan rakyat secara nyata."
+  },
+  {
+   "t": 736.96,
+   "d": 101.76,
+   "text": "Karena itu angka kemiskinan ditargetkan turun ke rentang 6,0 hingga 6,5% dari target sebelumnya 6,5 hingga 7,5%. Sementara itu tingkat pengangguran terbuka harus turun pada rentang 4,30 hingga 4,87% dari target sebelumnya 4,44 hingga 4,96%. Lebih lanjut rasio gini kita targetkan harus semakin membaik pada rentang 0,362 hingga 0,367 dari target sebelumnya 0,37 hingga 0,380."
+  },
+  {
+   "t": 792.96,
+   "d": 53.48,
+   "text": "Jarak antara yang terkaya dan yang termiskin tidak boleh semakin lebar. Bahkan harus kita perjuangkan untuk terus menyempit. Dengan berbagai program prioritas di bidang sumber daya manusia, indeks modal manusia ditargetkan membaik menjadi 0,575 dari sebelumnya 0,570."
+  },
+  {
+   "t": 822.36,
+   "d": 59.76,
+   "text": "dibantu berbagai program di bidang pertanian. Indeks kesejahteraan petani ditargetkan meningkat menjadi 0,8038 dari sebelumnya 0,7731. Nilai tukar petani atau NTP yang sekarang sudah mencapai angka tertinggi sepanjang sejarah di angka 126 harus kita perjuangkan untuk bisa kita tingkatkan lagi."
+  },
+  {
+   "t": 853.24,
+   "d": 69.64,
+   "text": "Kita juga akan membuka lapangan kerja secara besar-besaran. ditargetkan proporsi lapangan kerja formal meningkat menjadi 40,81% di tahun 2007 dari sebelumnya 3500% di tahun 2026 atau naik 5,81%. Saudara-saudara sekalian, demikian telah saya sampaikan angka-angka kunci dari kerangka ekonomi makro dan pokok-pokok kebijakan fiskal tahun 2027."
+  },
+  {
+   "t": 888.96,
+   "d": 71.32,
+   "text": "Sekarang saya minta waktu untuk menyampaikan beberapa hal yang fundamental tentang perekonomian kita. Saya merasa harus ini harus saya sampaikan dari eksekutif kepada legislatif dihadiri oleh pimpinan-pimpinan lembaga tinggi negara. Marilah kita berani untuk menghadapi masalah walaupun itu merupakan tantangan, hambatan atau kekurangan."
+  },
+  {
+   "t": 928.68,
+   "d": 79.08,
+   "text": "Tentang pengelolaan ekonomi negara kita sesungguhnya telah dirumuskan oleh para pendiri-pendiri bangsa kita. Para pendiri-pendiri bangsa kita bukan orang-orang yang lugu atau naif. Mereka merasakan penjajahan. Mereka merasakan dijajah. Mereka merasakan dihina. Mereka merasakan diperbudak. Mereka merasakan dirampas kehormatan, dirampas harga diri, dirampas dignity bangsa Indonesia."
+  },
+  {
+   "t": 967.92,
+   "d": 54.48,
+   "text": "Mereka menyaksikan dan merasakan dihilangkan segala kehormatan, segala kepercayaan diri kepada bangsa, kepada budaya, kepada sejarah kita. Mereka merasakan apa artinya imperialisme itu. Mereka merasakan bahwa bangsa Indonesia ditempatkan derajatnya di bawah anjing."
+  },
+  {
+   "t": 1000.24,
+   "d": 58.25,
+   "text": "Mereka melihat dan merasakan kekayaan Nusantara ratusan tahun diambil oleh penjajah-penjajah kita untuk memperkaya mereka. Hendaknya janganlah kita terlalu kagum kepada bangsa-bangsa yang kayanya dari merampas kekayaan bangsa-bangsa lain. [tepuk tangan] Janganlah kita rendah diri."
+  },
+  {
+   "t": 1034.72,
+   "d": 49.53,
+   "text": "Janganlah kita selalu mengagumi apa yang mereka ajarkan kepada kita. Padahal mereka sendiri tidak menjalankan apa yang mereka ajarkan kepada kita. [tepuk tangan] Saya tidak mengajak kita untuk membenci siapapun. Saya tidak mengajak kita membenci bangsa-bangsa lain. Tidak."
+  },
+  {
+   "t": 1067.36,
+   "d": 56.24,
+   "text": "Bahkan saya mengajak kita belajar, tapi juga kita harus belajar dari sejarah. Ada suatu adagium bahwa mereka yang tidak belajar dari sejarah akan dihukum oleh sejarah akan mengulangi sejarah kelam yang sama yang dialami oleh nenek moyang mereka. Ini ada yang terjadi di banyak negara."
+  },
+  {
+   "t": 1096.32,
+   "d": 60.36,
+   "text": "Para pendiri bangsa kita sadar bahwa apabila pemimpin-pemimpin di Nusantara kita lemah, apabila pemimpin-pemimpin di Nusantara tidak bersatu, maka kekayaan Nusantara akan terus diambil oleh kekuatan-kekuatan di luar Nusantara. Ini sejarah ini terjadi. Marilah kita buka fakta."
+  },
+  {
+   "t": 1128.4,
+   "d": 117.76,
+   "text": "Negara Netherland Belanda dari sejak tahun 1500 dilanjutkan 1600 dilanjutkan 1700 dilanjutkan 1800 memiliki PDB per kapita tertinggi di dunia selama itu. 1500 1500 1700 1800 400 tahun telah memiliki PDB perkapita tertinggi. negara yang mungkin dari utara ke selatan mungkin tidak sampai 8 jam naik kendaraan dari laut ke perbatasan mereka mungkin tidak sampai 4 jam dengan kendaraan bisa memiliki PDB tertinggi di dunia. Kenapa?"
+  },
+  {
+   "t": 1188.72,
+   "d": 79.24,
+   "text": "Karena mereka menguasai Nusantara kita. Mereka menguasai wilayah yang sekarang adalah Republik Indonesia. Saudara-saudara sekalian, karena itu para pendiri bangsa kita dipimpin oleh Bung Karno, Bung Hatta, Bung Syahrir, dan mereka-mereka yang menyusun Pancasila dan Undang-Undang Dasar kita, Undang-Undang Dasar 1945."
+  },
+  {
+   "t": 1228.32,
+   "d": 131.88,
+   "text": "Mereka telah menetapkan cetak biru perekonomian bangsa kita. Cetak biru itu dituangkan dalam pasal 33 Undang-Undang Dasar 1945. Pasal 33 dengan jelas menjabarkan sistem perekonomian yang harusnya kita jalankan sebagai bangsa. Dan saya ingin tegaskan hari ini keyakinan saya bahwa apabila kita menjalankan pasal 33 Undang-Undang Dasar 1945 kita jalankan dengan baik, kita jalankan dengan murni dan konsekuen, negara kita akan memiliki sumber daya yang cukup untuk menjamin Indonesia sungguh-sungguh akan menjadi negara yang makmur, yang adil, di mana rakyatnya menikmati kesejahteraan dan kualitas hidup yang layak."
+  },
+  {
+   "t": 1301.5,
+   "d": 94.42,
+   "text": "[tepuk tangan] Rakyat kita tidak bermimpi untuk mengalami kehidupan yang kaya raya, tapi mereka bermimpi untuk bisa hidup dengan layak, dengan baik. Mereka bermimpi bisa makan dengan baik tiap hari. bisa memberi susu untuk anak-anaknya, bisa mencari obat bila bilamana anak mereka sakit atau bapak mereka sakit, mereka bermimpi bisa punya rumah yang layak."
+  },
+  {
+   "t": 1347.56,
+   "d": 102.0,
+   "text": "Mereka bermimpi bisa melihat anaknya berangkat sekolah dengan sehat. Mereka bermimpi bahwa orang tuanya bisa dapat pekerjaan yang baik dengan pendapatan yang cukup. Itu adalah mimpi dan harapan rakyat kita. Saudara-saudara sekalian, setelah saya evaluasi, setelah saya melihat angka-angka, setelah saya melihat sungguh betapa besarnya kekayaan kita, saya semakin yakin bahwa menjalankan Undang-Undang Dasar 1945 ini haruslah menjadi tanggung jawab kita semua."
+  },
+  {
+   "t": 1401.12,
+   "d": 54.93,
+   "text": "Kita tentu ingin masa depan yang lebih baik untuk rakyat kita. Untuk itu menurut pendapat pemerintah dan saya yakin seluruh patriot Indonesia akan mendukung bahwa bumi dan air dan semua kekayaan alam yang terkandung di dalamnya harus dinikmati oleh seluruh rakyat Indonesia."
+  },
+  {
+   "t": 1430.54,
+   "d": 111.82,
+   "text": "[tepuk tangan] Itu adalah cita-cita pendiri bangsa kita dan hanya itu yang bisa membuat kita tinggal landas mencapai cita-cita kita semua. Saudara-saudara sekalian, kita ingin petani-petani kita tersenyum, cerah karena hasil panen yang melimpah dan mendapat nilai yang sewajarnya, nilai yang cukup tinggi. Kita ingin nelayan-nelaian kita yang mempertaruhkan nyawa untuk menghasilkan protein untuk rakyat kita. pergi ke laut dengan perlengkapan yang baik dan aman dan mendapatkan hasil tangkapan yang bernilai tinggi. Sekarang nelayan-nelayan kita sulit mendapat es batu."
+  },
+  {
+   "t": 1492.8,
+   "d": 151.36,
+   "text": "Es batu saja mereka sulit untuk mendapatkan. Apalagi solar yang mereka butuh. Pemerintah akan intervensi, akan melakukan upaya besar. Kita akan bangun dalam 3 tahun yang akan datang 5.000 desa nelayan. Tahun ini kita akan resmikan 1386 desa nelayan. Kita akan menjamin tiap nelayan bisa punya es batu. Kita akan membikin instalasi pembuat es batu di tiap desa nelayan. Kita akan membikin ruang cold storage pendingin di setiap desa nelayan dan kita akan bikin S PBU khusus untuk nelayan di setiap desa nelayan. Para nelaian kita harus kita berdayakan karena mereka di ujungnya akan menguasai lautan kita. Saudara-saudara sekalian, kita ingin guru-guru kita terjamin kesejahteraannya."
+  },
+  {
+   "t": 1571.56,
+   "d": 55.48,
+   "text": "Masa depan suatu bangsa ditentukan oleh kualitas pendidikan yang dapat diberikan kepada anak-anaknya. Kualitas pendidikan ditentukan oleh guru-guru yang berkualitas, guru-guru yang semangat, guru-guru yang gembira, guru-guru yang bisa menjadi contoh bagi generasi-generasi penerus bangsa."
+  },
+  {
+   "t": 1602.72,
+   "d": 74.4,
+   "text": "memperbaiki kondisi kehidupan guru harus menjadi prioritas kita. Kita ingin juga usaha mikro kecil dan menengah kita berkembang sehingga bisa mendapat penghasilan yang cukup baik untuk sebagian besar rakyat kita. Dan kita ingin para orang tua serta mereka yang sudah lanjut usia dan hidup sendiri dapat hidup dengan tenang di usia senja karena ditopang jaringan jaminan sosial yang memadai."
+  },
+  {
+   "t": 1643.52,
+   "d": 103.48,
+   "text": "Kita ingin melihat Indonesia yang setiap warga negaranya hidup rukun, damai, cukup sandang pangan dan papan. Kita ingin Indonesia yang gemah ripah, loh jinawi, toto tentram Kerto Raharjo. Kita ingin mewujudkan cita-cita nenek moyang kita. Negeri yang baldatun thyibatun warabun gfur. Negeri yang makmur, baik dan selalu mendapat ampunan dan anugerah dari Allah Subhanahu wa taala. Tuhan maha besar, Tuhan maha kuasa. Negara di mana hukum berlaku adil untuk semua, terutama menjamin keadilan bagi yang paling tidak berdaya."
+  },
+  {
+   "t": 1695.2,
+   "d": 61.04,
+   "text": "Jangan hukum. yang adil hanya untuk mereka yang kuat dan mereka yang punya uang banyak. Saudara-saudara sekalian, kita sesungguhnya memiliki modal yang sangat kuat untuk mewujudkan cita-cita dan harapan ini. Posisi geografis kita sangat strategis. Puluhan persen perdagangan dunia melalui perairan kita."
+  },
+  {
+   "t": 1730.08,
+   "d": 88.76,
+   "text": "Bumi dan air kita sangat luas. Tiap malam puluhan ribu kapal berbendara asing mengambil kekayaan kita secara ilegal, secara tidak sah. Harus kita tegakkan kedaulat kita di lautan kita sendiri. Kita memiliki bonus demografi yang menopang domestik, konsumsi domestik dan pasar domestik yang besar. Pasar kita bisa sebesar Eropa dan sungguh sumber daya alam kita melimpah."
+  },
+  {
+   "t": 1779.92,
+   "d": 51.72,
+   "text": "Kita punya komunitas-komunitas yang sangat berharga. Batu bara kita, nikel kita, tembaga kita, minyak kelapa sawit kita, logam tanah jarang, kekayaan laut yang melimpah. Saudara-saudara sekalian, Indonesia adalah pengekspor minyak kelapa sawit terbesar di dunia."
+  },
+  {
+   "t": 1806.6,
+   "d": 108.52,
+   "text": "Devisa ekspor minyak kelapa sawit mencapai 23 miliar dolar setara dengan Rp391 triliun pada tahun 2025. Indonesia juga adalah pengekspor batu bara terbesar di dunia. Devisa ekspor batu bara mencapai 30 miliar dolar Amerika setara Rp510 triliun pada tahun 2025. Selain itu kita juga sekarang sudah jadi pengekspor paduan besi atau Fero alloy terbesar di dunia. Devisa ekspor paduan besi kita mencapai 16 miliar dolar setara dengan R272 triliun pada tahun 2025. Tiga komoditas strategis ini menghasilkan devisa lebih dari 65 miliar dolar Amerika setara dengan R.100 triliun per tahun."
+  },
+  {
+   "t": 1860.64,
+   "d": 69.76,
+   "text": "Tapi marilah kita jujur kepada diri kita sendiri. Hari ini Indonesia sebagai negara anggota G20, tapi rasio belanja negara kita terhadap produk domestik bruto kita adalah yang paling rendah di antara negara-negara ke-20. Demikian juga rasio penerimaan negara kita terhadap PDB kita adalah yang paling rendah di antara negara-negara G20."
+  },
+  {
+   "t": 1894.92,
+   "d": 97.44,
+   "text": "Dari data terbaru IMF, kita bisa melihat rasio pendapatan Meksiko 25% dari PDB, India 20% dari PDB, Filipina 21% dari PDB, Kamboja saja 15% dari PDB. Indonesia 11 sampai 12% dari PDB. Kita harus introspeksi dan sadar dan berani bertanya kenapa kita tidak bisa kelola ekonomi kita sehingga pendapatan negara kita bisa setara dengan negara-negara seperti Filipina Meksiko?"
+  },
+  {
+   "t": 1944.56,
+   "d": 107.28,
+   "text": "Sekarang pun kita masih di bawah Malaysia. Apa yang sebabkan kita tidak mampu? Bedanya apa kita sama orang Malaysia, orang Kamboja? Bedanya apa kita sama orang Filipina? Saudara-saudara sekalian, pertemuan kita dalam 7 tahun terakhir memang baik. 5% tiap tahun selama 7 tahun kali 5% pertumbuhan kita 35% harusnya kita tambah kaya 35% tapi apa yang terjadi sekali lagi saya mengajak kita jujur kepada diri kita sendiri dan kepada rakyat kita ini mungkin menyakitkan bagi kita."
+  },
+  {
+   "t": 2004.16,
+   "d": 66.12,
+   "text": "Saya merasa setelah saya terima data-data ini, beberapa minggu setelah saya jadi presiden, saya merasa seolah saya di dipukul di ulu hati saya, Saudara-saudara sekalian. 7 tahun 5% 35% ekonomi kita tumbuh. Tapi rakyat kita yang miskin tambah dari 46,1% naik jadi 4,9%."
+  },
+  {
+   "t": 2044.32,
+   "d": 84.88,
+   "text": "8% naiknya eh 3% naiknya lebih yang kelas menengah turun, Saudara-saudara. Saya bertanya di hadapan majelis yang terhormat ini. Saya bertanya kepada semua partai politik, semua ormas. Saya bertanya kepada semua pakar-pakar dan semua guru besar. Bagaimana bisa pertumbuhan 35% tapi kelas menengah menurun, kemiskinan meningkat."
+  },
+  {
+   "t": 2086.96,
+   "d": 75.48,
+   "text": "Saudara-saudara, jawaban harus ilmiah, jawaban harus matematis. Dan menurut saya jawabannya adalah bahwa kemungkinan besar, bukan kemungkinan saya yakin sistem perekonomian yang kita jalankan berada pada trajektori yang tidak tepat. Mungkin perbedaan kita dengan negara-negara seperti Meksiko, seperti India, Filipina dan lain sebagainya adalah perbedaan sistemik."
+  },
+  {
+   "t": 2127.92,
+   "d": 52.8,
+   "text": "Kita harus lihat fakta. Fakta kalau kita teruskan yang seperti ini, kalau kita teruskan sistem seperti ini untuk sekian tahun lagi, saya yakin bahwa tidak mungkin kita jadi bangsa yang makmur. Tidak mungkin kita jadi tanpa kemakmuran kita tidak mungkin bisa menjaga kedaulatan kita."
+  },
+  {
+   "t": 2153.8,
+   "d": 62.36,
+   "text": "bahwa kemungkinan besar kita akan menjadi bangsa yang lemah, bangsa yang selalu takut. Takut kursus dolar, takut BBM enggak cukup, takut ini, takut itu. Bangsa yang takut, bangsa yang elitnya takut. Padahal kita diberi karunia yang luar biasa oleh maha kuasa."
+  },
+  {
+   "t": 2185.24,
+   "d": 70.4,
+   "text": "Fakta juga telah menunjukkan bahwa telah terjadi mengalir keluarnya kekayaan kita sejak lama bahkan sejak Orde Baru. Kalau kita melihat masa tahun '50-an masa pemerintahan Bung Karno, sekali lagi saya bukan membela Bung Karno ya. Walaupun Bung Karno memang milik bangsa, ya. Ini harus saya sampaikan juga Bung Karno milik bangsa."
+  },
+  {
+   "t": 2224.56,
+   "d": 62.08,
+   "text": "Tapi kita tidak bisa menilai tahun 50 sampai tahun 60-an Indonesia di disibukkan oleh intervensi asing. Pemberontakan demi pemberontakan demi pemberontakan. Tidak mungkin kita bangun ekonomi kita. Di awal orde baru pun kita di kacaukan oleh banyak masalah. Tapi alhamdulillah kita telah bangun ekonomi kita."
+  },
+  {
+   "t": 2256.92,
+   "d": 68.92,
+   "text": "Tapi apa yang kita ketemukan setelah berapa puluh tahun terjadi apa yang saya namakan outflow of national wealth, Saudara-saudara sekalian. Bahwa negara kita tidak pernah rugi. 1 tahun pun kita tidak pernah rugi. Ekspor kita selalu lebih daripada impor kita. Kalau ilmu dagang, berarti yang kita jual adalah lebih banyak dari yang kita beli. Harusnya negara ini tidak pernah akan mengalami krisis ekonomi."
+  },
+  {
+   "t": 2291.44,
+   "d": 69.68,
+   "text": "Tapi apa yang terjadi? Yang terjadi adalah keuntungan kita yang selama 22 tahun adalah 436 miliar dolar yang keluar adalah 343 miliar. dolar. Ini angka-angka dari PBB. Berarti selama 22 tahun kekayaan kita yang tinggal di Indonesia adalah 436 miliar dikurangi 343 miliar."
+  },
+  {
+   "t": 2336.24,
+   "d": 65.92,
+   "text": "Saudara-saudara sekalian, ini yang yang sebabnya gaji-gaji guru kecil, gaji-gaji aparat penegak hukum kecil, gaji-gaji kecil. Ini yang selalu anggaran tidak cukup, anggaran tidak kuat dan sebagainya. Selama 34 tahun apa yang terjadi? Yang terjadi adalah apa yang disebut undervoicing."
+  },
+  {
+   "t": 2372.0,
+   "d": 60.68,
+   "text": "Underinvoicing adalah sebenarnya fraud atau penipuan yang mereka jual yang dijual oleh pengusaha-pengusaha tidak dilaporkan yang sebenarnya. Banyak di antara mereka membuat perusahaan di luar negeri. Dia jual dari perusahaan dia di dalam negeri ke perusahaan dia di luar negeri yang harganya jauh di bawah harga yang sebenarnya."
+  },
+  {
+   "t": 2403.08,
+   "d": 54.0,
+   "text": "Ini yang terjadi. Sekali lagi ini adalah data dari PBB. Karena begini, katakanlah kita bisa bohong di pelabuhan Indonesia, kita bisa bohong di negara kita, kita kirim 10.000 ton batu barat, kita hanya laporkan 5.000 ton. Bisa di Indonesia, di sana tidak bisa. Di sana dicatat."
+  },
+  {
+   "t": 2431.8,
+   "d": 45.56,
+   "text": "Itu terjadi pada kelapa sawit itu terjadi hampir semua komoditas. Itu adalah penipuan di atas kertas. Ada lagi penyeludupan. Ada lagi penyedupan melalui pelabuhan. Kita harus berani mengatakan yang merah-merah, yang putih-putih. Kita harus berani mengatakan apaadanya."
+  },
+  {
+   "t": 2462.24,
+   "d": 77.49,
+   "text": "Kita harus perbaiki lembaga-lembaga pemerintah kita. [tepuk tangan] B cuki harus kita perbaiki. Saya masih ingat di zaman Orde Baru saking parahnya bia cuk, kita tutup bia cukai, kita outsourcing ke swasta dan penghasilan negara naik. Apa enggak sedih itu? Ini perjuangan kita semua ya. Saya bukan mau jatuhkan Mu siapapun, tapi sudah saatnya kita bicara jujur kepada diri kita. Kita bicara jujur kepada rakyat kita, [tepuk tangan] Saudara-saudara sekalian."
+  },
+  {
+   "t": 2523.6,
+   "d": 98.92,
+   "text": "Coba ditayangkan lagi slide. 900 miliar dolar kita hilang. Bayangkan kalau 900 miliar dolar kita nikmati, kita pakai negara apa Indonesia ini, Saudara sekalian. Ada under invoicing, ada undering, ada transfer pricing, Saudara-saudara. Banyak di antara kalian senyum, mungkin di antara kalian ada pengusaha-pengusaha juga di ruangan ini. berarti tahu apa yang saya bicara itu keadaan yang sebenarnya, Saudara-saudara sekalian, kita sudah hitung, kita sudah pakai random, kita tahu bahwa perbedaan antara yang dilaporkan yang tidak dilaporkan itu sering mencapai 50%."
+  },
+  {
+   "t": 2578.84,
+   "d": 66.38,
+   "text": "yang dilaporkan adalah 50% dari keadaan yang sebenarnya, Saudara-saudara sekalian. Dan kita merasa aneh, kita produsen kelapa sawit terbesar di dunia, tapi harga kelapa sawit ditentukan di negara lain. Saya mengatakan kepada menteri-menteri saya, ini tidak boleh terjadi. Saya tidak mau kelapa sawit kita harganya ditentukan. oleh bangsa lain. Kita tentukan harga kita."
+  },
+  {
+   "t": 2612.82,
+   "d": 61.26,
+   "text": "[tepuk tangan] Dan kalau mereka enggak mau beli pakai harga kita, ya enggak usah beli. Kita pakai kelapa sawit kita sendiri, Saudara-saudara sekalian. Kenapa nikel kita ditentukan harganya oleh negara lain? Tidak boleh. Saya instruksikan kabinet saya rumuskan harga nikel, harga mas, harga semua tambang kita, harga semua komunitas harus ditentukan di negara kita sendiri."
+  },
+  {
+   "t": 2648.36,
+   "d": 63.55,
+   "text": "Dan kalau mereka mau beli ya enggak apa-apa. Biar raja itu di bawah tanah untuk cucu kita nanti [tepuk tangan] daripada kita jual murah, Saudara-saudara sekalian. Saya minta dukungan majelis ini. Marilah bersama-sama. [tepuk tangan] Hm. Sepertinya saya lebih marhin daripada banyak kekuatan di Saudara-saudara sekalian. Karena generasi itu mengerti apa arti penjajahan."
+  },
+  {
+   "t": 2685.68,
+   "d": 57.12,
+   "text": "Saudara sekalian, di mimbar ini saya ingin saya ingin ingatkan kembali bunyi dari pasal 33. Ayat pertama dari pasal 33. Perekonomian disusun sebagai usaha bersama berdasar atas azas kekeluargaan. Tidak ada kata-kata azas-azas lain. Azas kapitalisme neoliberal."
+  },
+  {
+   "t": 2714.8,
+   "d": 66.04,
+   "text": "azas konglomerasi, azas yang sekaya boleh sekaya kayanya yang miskin salahnya orang miskin itu bukan falsafah Pancasila. Ayat kedua, cabang-cabang produksi yang penting bagian yang menguasai hajat hidup orang banyak dikuasai oleh negara. Ayat ketiga, bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat."
+  },
+  {
+   "t": 2751.76,
+   "d": 74.61,
+   "text": "Ayat keempat. Perekonomian nasional diselenggarakan berdasar atas demokrasi ekonomi. Artinya kalau demokrasi ekonomi rakyat banyak, rakyat semuanya harus menikmati ekonomi kita, Saudara-saudara, [tepuk tangan] dengan prinsip kebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian, mandiri berdiri di atas kaki kita sendiri."
+  },
+  {
+   "t": 2792.64,
+   "d": 58.36,
+   "text": "dan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional. Saudara-saudara sekalian, saya rasa bahasa Indonesia yang digunakan oleh para pendiri bangsa kita sangat jelas. Tidak perlu kita cari tafsiran-tafsiran yang macam-macam. Ini adalah cetak biru ekonomi kita, Saudara-saudara sekalian."
+  },
+  {
+   "t": 2821.76,
+   "d": 59.84,
+   "text": "Manakala kita menyimpang cetak biru ini, ya jangan salahkan siapa-siapa, kecuali diri kita sendiri yang tidak mau menerima titipan amanah dari pendiri-pendiri bangsa kita. Seb seberapa jauhkah telah kita menyimpang dari cetak biru perekonomian kita sendiri? mungkin harus kita bahas di tempat dan waktu yang terpisah."
+  },
+  {
+   "t": 2852.88,
+   "d": 71.12,
+   "text": "Tapi saya berkeyakinan kalau kita jalankan pasal 33 secara konsekuen, kita akan terhindar dari praktik-praktik under invoicing, undercounting dan sebagainya. pemalsuan atas tonase dan kualitas produk yang diekspor, praktik-praktik fraud terhadap bangsa dan negara kita, serta praktik-praktik tambang ilegal, hutan ilegal, kebun-kebun ilegal."
+  },
+  {
+   "t": 2888.28,
+   "d": 58.12,
+   "text": "Saudara-saudara, bagaimana bisa ada orang yang tambang di hutan lindung bertahun-tahun? dan tidak ada yang berani untuk menegakkan hukum. Saudara-saudara, kita perhitungkan, kita perkirakan potensi uang yang bisa kita selamatkan dari kebocoran-kebocoran itu adalah 150 miliar dolar 1 tahun."
+  },
+  {
+   "t": 2919.76,
+   "d": 61.08,
+   "text": "Potensi apa kita mampu atau tidak tergantung. tergantung keberanian kita, tergantung tekad kita, tergantung apa kita bisa bekerja sama dengan baik atau tidak. Karena itu saya selalu sampaikan dari awal saya menjabat sebagai Presiden Republik Indonesia, kita harus bersama-sama berani mencari solusi dan berani bertindak."
+  },
+  {
+   "t": 2950.08,
+   "d": 59.2,
+   "text": "Saya berkeyakinan akar masalah ekonomi bangsa kita adalah bocornya kekayaan kita, tidak tinggalnya kekayaan kita di Republik Indonesia ini harus berani kita hadapi dan berani kita selesaikan. Untuk itu saya di hadapan majelis yang terhormat ini, di hadapan seluruh rakyat Indonesia, saya ingatkan bahwa saya pernah disumpah di sini untuk menjalankan Undang-Undang Dasar 1945."
+  },
+  {
+   "t": 2979.8,
+   "d": 78.72,
+   "text": "dengan segala perundang-undangan yang berlaku. Dan saudara-saudara sekalian, kita paham dan mengerti bahwa kalau kita terus mengulangi kesalahan yang sama, janganlah kita bisa berharap mendapat hasil yang lebih baik. Untuk itu, untuk mencapai tujuan bernegara kita hari ini, pemerintah Republik Indonesia yang saya pimpin menerbitkan peraturan pemerintah tentang tata kelola ekspor komoditas sumber daya alam."
+  },
+  {
+   "t": 3019.88,
+   "d": 57.96,
+   "text": "Penertiban penerbitan peraturan ini, peraturan pemerintah ini adalah langkah strategis untuk memperkuat tata kelola ekspor komunitas sumber daya alam kita. Penjualan semua hasil sumber daya alam kita. Kita mulai dengan minyak kelapa sawit, batu bara dan paduan besi feru alloyis."
+  },
+  {
+   "t": 3049.04,
+   "d": 52.72,
+   "text": "kita wajibkan harus dilakukan penjualannya melalui BUMN yang ditunjuk oleh Pemerintah Republik Indonesia sebagai pengekspor tunggal. Dalam artian hasil dari setiap penjualan ekspor akan diteruskan oleh BUMN yang ditunjuk oleh pemerintah kepada pelaku usaha pengelola kegiatan tersebut."
+  },
+  {
+   "t": 3075.72,
+   "d": 53.6,
+   "text": "ini bisa dikatakan sebagai marketing marketing facility. Tujuan utama kebijakan ini adalah memperkuat pengawasan dan monitoring serta memberantas praktik kurang bayar under invoicing, praktik pemindahan harga transfer pricing, dan pelarian devisa hasil ekspor."
+  },
+  {
+   "t": 3102.56,
+   "d": 48.52,
+   "text": "Saudara-saudara sekalian, kebijakan ini akan optimalkan penerimaan pajak dan penerimaan negara atas pengelolaan dan penjualan sumber daya alam kita. Dengan kebijakan ini, kita berharap bahwa penerimaan kita bisa seperti Meksiko, seperti Filipina, seperti negara-negara tetangga kita."
+  },
+  {
+   "t": 3126.76,
+   "d": 55.32,
+   "text": "Kita tidak mau penerimaan kita paling rendah karena kita tidak berani mengelola milik kita sendiri, milik bangsa Indonesia sendiri. Saudara-saudara sekalian, [tepuk tangan] sesungguhnya kita harus percaya bahwa semua sumber daya alam Indonesia adalah milik rakyat Indonesia, milik bangsa Indonesia."
+  },
+  {
+   "t": 3156.32,
+   "d": 137.45,
+   "text": "Karena itu negara berhak mengetahui secara rinci sumber daya alam kita yang dijual ke luar Indonesia. Kita kita tidak mau dibohongi lagi. Kita mau tahu persis berapa kekayaan kita yang dijual. Saya percaya dan yakin setiap warga negara apalagi pemimpin-pemimpin seperti yang ada di majelis ini, saya percaya setiap pemimpin yang punya akal sehat, yang punya kecerdasan, yang punya hati nurani, yang punya rasa cinta tanah air, saya yakin dan percaya yang tidak akan mengizinkan kekayaan alam kita terus dikelola tanpa pengawasan, tanpa kendali. Sudah terlalu lama, Saudara-saudara sekalian, [tepuk tangan] kebijakan ini telah banyak dijalankan oleh negara-negara lain yang benar-benar menguasai kekayaan sumber daya alam mereka."
+  },
+  {
+   "t": 3235.24,
+   "d": 47.84,
+   "text": "Kita harus lihat dan belajar dari Saudi Arabia, dari Qatar, dari Rusia, dari Aljazair, dari Kuwait, dari Maroko, dari Ghana, bahkan dari tetangga kita Malaysia dan Vietnam. Kita tidak boleh naif, kita tidak boleh dugu, kita tidak boleh tidak menggunakan akal sehat kita."
+  },
+  {
+   "t": 3264.44,
+   "d": 44.92,
+   "text": "Kita harus belajar dari negara-negara seperti ini. Mereka telah mampu mengelola kekayaan sumber daya alam mereka untuk kepentingan rakyat mereka. Mereka berhasil menyelenggarakan pendidikan yang terbaik yang tidak kalah dengan pendidikan negara-negara industri maju."
+  },
+  {
+   "t": 3286.4,
+   "d": 45.92,
+   "text": "Mereka punya layanan kesehatan juga yang baik, infrastruktur yang modern, sovereign well wealth fund class dunia. Kita tidak boleh malu belajar dari negara-negara yang sudah lama mampu memanfaatkan sumber daya alam mereka untuk sebesar-besarnya kemakmuran rakyat mereka."
+  },
+  {
+   "t": 3309.2,
+   "d": 71.52,
+   "text": "Karena itu saya tegaskan apa yang dilakukan oleh pemerintah Indonesia hari ini bukan kebijakan yang aneh-aneh, bukan kebijakan luar biasa. Ini adalah praktik yang sudah dilakukan banyak negara. Ini adalah kebijakan akal sehat. Sumber daya alam milik kita. kita yang harus pertentukan ke mana sumber alam ini dijual. Kita harus menentukan berapa harga yang layak."
+  },
+  {
+   "t": 3345.0,
+   "d": 77.64,
+   "text": "Kita tidak mau selalu menjadi korban dan selalu harus terima perlakuan tidak adil terhadap bangsa kita. Cukup sudah saya katakan di sini Indonesia sekarang berdiri di atas kaki kita sendiri. [tepuk tangan] Sejalan dengan itu, pemerintah yang saya pimpin juga hari ini memperkuat kebijakan devisa hasil ekspor melalui peraturan pemerintah devisa hasil ekspor dari kegiatan pengusahaan, pengelolaan, dan pengolahan sumber daya alam."
+  },
+  {
+   "t": 3385.44,
+   "d": 44.84,
+   "text": "Kebijakan ini bertujuan untuk memastikan kontribusi pelaku usaha sektor sumber daya alam dapat dioptimalkan sekali lagi guna sebesar-besar kemakmuran rakyat. Sekali lagi bumi, air dan semua hasil sumber daya alam Indonesia adalah milik kita, milik rakyat dan bangsa Indonesia."
+  },
+  {
+   "t": 3411.92,
+   "d": 55.88,
+   "text": "dalam usaha kita memperbaiki kelemahan-kelemahan dalam sistem tata kelola kita. Saya minta saudara-saudara sekalian untuk tidak berkesimpulan bahwa Indonesia tidak perlu suatu perekonomian di mana sektor swasta memainkan peran yang besar. Justru kita perlu sektor swasta. Kita perlu mendukung peran sektor swasta. Kita butuh sektor swasta yang dinamis."
+  },
+  {
+   "t": 3439.24,
+   "d": 70.76,
+   "text": "Kita perlu pengusaha-pengusaha yang penuh dengan inovasi, penuh dengan inisiatif, penuh dengan inovasi, dan yang memiliki kemampuan manajerial yang baik dan handal. Justru saya selalu mengatakan bahwa perekonomi kita yang kita sebut sebagai ekonomi Pancasila atau ekonomi jalan tengah atau istilah yang lebih populer dari dalam perkembangan perekonomian dunia, kita harus bangun Indonesia Incorporated."
+  },
+  {
+   "t": 3474.52,
+   "d": 56.4,
+   "text": "Perekonomian, kekeluargaan, semua bergotong-royong. Itu arti gotong-royong yang kuat, maju. menarik yang lemah, yang lemah berhimpun melaksanakan usaha bersama dalam bentuk-bentuk koperasi. Tidak boleh yang kaya menang sendiri dan membiarkan yang lemah terlantar."
+  },
+  {
+   "t": 3505.04,
+   "d": 63.96,
+   "text": "Justru kita maksudkan bahwa ekonomi yang cocok untuk Indonesia adalah ekonomi jalan tengah. ekonomi yang berani mengambil yang terbaik dari sosialisme dan yang terbaik dari kapitalisme. Kita butuh peran negara, kita butuh perlindungan negara, kita butuh pengawasan, dan kita butuh keberpihakan dari negara untuk menjamin keadilan dan pemerataan."
+  },
+  {
+   "t": 3536.04,
+   "d": 54.04,
+   "text": "Tapi kita juga perlu yang terbaik dari mekanisme pasar. Kita butuh yang terbaik dari ekonomi pasar bebas yang saya sebut tadi inisiatif inovasi persaingan, keberanian mengambil risiko manajerial yang baik. Kita harus menumbuhkan golongan pengusaha yang baru, yang muda-muda."
+  },
+  {
+   "t": 3563.76,
+   "d": 55.88,
+   "text": "Untuk itu, pemerintah ingin membuka pendidikan-pendidikan kewirausaha, pendidikan entrepreneurship. Kita ingin anak-anak muda jangan semua minta jadi ASN, jangan semua minta jadi pemerintah, tapi harus berani untuk bersaing dengan dunia usaha lain. Dan kita harus bantu. Kita punya anak-anak muda yang hebat-hebat."
+  },
+  {
+   "t": 3591.88,
+   "d": 67.2,
+   "text": "Kita punya banyak ribuan anak-anak yang hebat-hebat. ini yang sedang kita godok bersama untuk kita beri tidak hanya pendidikan entrepreneurship. Begitu dia selesai, kita juga harus memberi kredit start up. Kita harus dorong mereka, memberi kesempatan mereka untuk tumbuh jadi pengusaha-pengusaha yang kuat, pengusaha-pengusaha yang baru."
+  },
+  {
+   "t": 3624.0,
+   "d": 62.0,
+   "text": "Demokrasi ekonomi artinya janganlah yang itu saja. Ya, saya minta bank-bank Himbara cobalah menjadi bank yang patriotik ya. Jangan dia lagi, dia lagi ya kan. Yang dikasih kredit orang yang sudah kaya. Kalau dia sudah lama terima kredit dari pemerintah, ya sudah berjuang dong."
+  },
+  {
+   "t": 3655.88,
+   "d": 44.11,
+   "text": "Masa terus-menerus dikasih kepada mereka ya. Kemudian orang miskin, orang kaya disuruh bayar bunga lebih tinggi daripada pengusaha besar. Ini saya kira sudah di luar akal sehat. Saya perintahkan bank-bank pemerintah rubah turunkan bunga-bunga untuk rakyat miskin, Saudara-saudara sekalian."
+  },
+  {
+   "t": 3678.52,
+   "d": 70.5,
+   "text": "[tepuk tangan] harusnya yang besar-besar dengan kekuatan mereka dia bisa dapat financing dari mana-mana. Kan harusnya begitu, Saudara-saudara sekalian. Tapi sebaliknya, kita tidak boleh merasa bahwa negara akan berbuat semuanya. Kita tidak ingin, kita ingin justru menemukan peran swasta yang lebih besar. Tapi besar tapi benar."
+  },
+  {
+   "t": 3724.64,
+   "d": 45.76,
+   "text": "Jangan besar tidak benar. Kita juga harus mengakui prestasi banyak perusahaan-perusahaan kita yang bisa bersaing di tingkat global. Bagaimanapun perusahaan seperti Indofood sudah dipasarkan di seluruh dunia. Kalau saya ke Eropa, banyak orang Eropa nyarinya Indomie."
+  },
+  {
+   "t": 3751.2,
+   "d": 62.57,
+   "text": "Bahkan banyak negara Afrika menganggap itu produk mereka. juga perusahaan seperti Mayora berhasil memasarkan Kopiko di lebih dari 100 negara karena mereka memiliki brand ambassador, presidennya juga mendorong minum kopi di mana-mana. [tepuk tangan] Tapi saya paham, saya paham, saya paham."
+  },
+  {
+   "t": 3789.8,
+   "d": 71.72,
+   "text": "Panitia penyelenggara DPR tahu kalau Oh, ada, ada, Pak. Ada, Pak. Ada, Pak. Saya mohon izin. Boleh saya minum? Ibu Ketua Kopiko sedang presidennya peminum kopi mayora kan sama kita harus dorong perusahaan-perusahaan swasta kita unggul. Ada juga itu apa? S apa itu? S teler 77 I kan. Hah? Berapa?"
+  },
+  {
+   "t": 3850.44,
+   "d": 70.48,
+   "text": "Hah? 77 kan? Kalau orang Gerinda enggak mau bikin saingannya. Steler 88. Maaf, Ibu Ketua. Supaya enggak ngantuk majelis ini. Saya hanya berhak atas Gerindra, ya. Jadi, saya cek ada Gerindra yang tidur enggak, Saudara-saudara sekalian? Justru pemerintah harus perbaiki semua institusi kita supaya ada iklim usaha yang baik."
+  },
+  {
+   "t": 3901.6,
+   "d": 74.45,
+   "text": "Jangan pengusaha diperes terus. Jangan pengusaha diganggu. Kalau Malaysia bisa bikin izin dalam 2 minggu, kenapa kita izinnya 2 tahun? Memalukan. Dan kita jangan banyak inisiatif. Sudah perintah presiden, perintah menteri di bawah bikin lagi dia diolah lagi. Peraturan menterilah, peraturan teknislah, rekomendasilah, akal-akalnya itu saya ingatkan ya, semua menteri tertibkan birokrasimu ke bawah."
+  },
+  {
+   "t": 3946.42,
+   "d": 65.05,
+   "text": "[bersorak] [tepuk tangan] waspada kalau birokrat-birokrat itu karena dia itu pengalamannya lama kok masuk keluar kan tiap 5 tahun. Iya kan? Itu kalau enggak di shuffel ya. Benar enggak? Mereka tuh lama. Nah, ciri khas birokrat yang dia akan minta tanda tangan pada waktu jam 1730 sore. Kamu sudah capek, kamu sudah capek. Dia datang minta tanda tangan."
+  },
+  {
+   "t": 3984.36,
+   "d": 75.96,
+   "text": "Benar. Benar. Ini banyak dari Golkar yang senyum. Berarti pengalamannya banyak itu golcar banyak pengalaman ini soal ini karena saya mantan golkar juga itu. So itu banyak mantan ketua umum Golkar di situ tuh. Bahlil Hartarto mana Erangga itu. Ahah. Ini mereka paling pengalaman itu minta tanda tangan sore kita sudah penat capek eh lihatnya. Ah ini hati-hati tuh saudar."
+  },
+  {
+   "t": 4025.08,
+   "d": 92.04,
+   "text": "Saudara-saudara sekalian pengusaha dan pemerintah harus kerja sama. Saya ingatkan buruh, jangan kau minta aja terus. I kan pengusaha-pengusaha juga kerja keras, pusing juga. Mereka harus bayar kredit ke bank ya. Tapi pemerintah ingin bekerja sama. Kita banyak memberi perlindungan sosial supaya beban pengusaha juga tidak terlalu berat dan kita terbuka. Kalau ada pengusaha-pengusaha yang sulit, laporkan kepada kita. Kalau dia minta penurunan tarif, ya kita bantu untuk sementara. Jangan terus-menerus minta penurunan tarif pajak. Iya kan? Kita mengerti krisis dunia kita mengerti."
+  },
+  {
+   "t": 4071.32,
+   "d": 53.4,
+   "text": "Kita akan bantu. Ya, Saudara-saudara sekalian. Bila kita bersatu, bila kita kerja sama seperti ini, pengusaha, swasta, pemerintah, UMKM, ya kan, pemerintah pusat, pemerintah daerah, semuanya kita kerja sama, semuanya memiliki rasa panggilan yang sama, kita akan menciptakan kemakmuran yang luar biasa."
+  },
+  {
+   "t": 4100.12,
+   "d": 91.84,
+   "text": "Saudara-saudara sekalian, kita sudah buktikan di krisis yang bikin panik banyak negara Indonesia masih tenang. Kita tidak kita tidak uforia, kita tidak sombong, kita tidak mau, tapi kita tenang. Kita tenang. Kita punya kemampuan. Saudara-saudara sekalian, pakar-pakar dunia, institusi-institusi dunia menaksir pada tahun 2045 yang hanya 19 tahun lagi Indonesia akan menjadi ekonomi kelima bahkan keempat terbesar di dunia."
+  },
+  {
+   "t": 4146.04,
+   "d": 54.8,
+   "text": "Ini bukan saya mengatakan. Saya sendiri tidak pernah bermimpi berharap ya. Kita hanya ingin hidup layak tapi mereka mengatakan kita akan menjadi negara keempat, kelima. Bayangkan kita akan menyalib Inggris, Perancis, Itali. Saudara-saudara, saya kalau ke luar negeri sebagai Presiden Indonesia, saya sangat dihormati sekarang."
+  },
+  {
+   "t": 4173.76,
+   "d": 67.68,
+   "text": "Sangat dihormati. Ya, bahkan mereka sekarang banyak negara minta bantuan ke kita. Mereka minta bantuan pupuk ke kita karena produksi pupuk kita lebih, Saudara-saudara. Kita diminta bantuan oleh Australia. Kita berikan India, Brazil, Filipina. Saudara-saudara bayangkan Indonesia sekarang bisa membantu negara-negara lebih kaya dari kita."
+  },
+  {
+   "t": 4208.88,
+   "d": 42.32,
+   "text": "Ini jangan membuat kita sombong, tapi ini membuat kita harus lebih percaya diri. Memang masih ada banyak kekurangan dan saya orang yang selalu mengajak, ayo kita berani menghadapi kekurangan kita, kita berani menghadapi kesulitan. Kita berani menghadapi tantangan."
+  },
+  {
+   "t": 4230.16,
+   "d": 75.36,
+   "text": "Kita harus bisa atasi penyelewengan di ekonomi kita. Kalau demikian, kita akan tumbuh luar biasa, Saudara-saudara sekalian. Banyak yang sudah kita capai, Saudara-saudara. Karena kita memang sudah antisipasi ketegangan dan krisis yang mungkin timbul. Karena kita telah diberi warning dengan COVID. Kita baru mengerti dan sadar begitu ada krisis dunia, negara-negara pengekspor pangan akan tutup."
+  },
+  {
+   "t": 4270.8,
+   "d": 71.72,
+   "text": "Waktu berapa tahun yang lalu, Rusia mengalami kebakaran hutan yang besar, mereka tutup. Ekspor gandum. Harga pangan naik semua. Tidak hanya gandum, beras, jagung, gula naik semua. Begitu perang Ukrain naik lagi, Covid naik lagi. Jadi kita sudah antisipasi. Karena itu saya canangkan program utama saya adalah mengamankan pangan Indonesia. Kita harus swasembada pangan."
+  },
+  {
+   "t": 4306.52,
+   "d": 85.0,
+   "text": "Dan alhamdulillah alhamdulillah saya dibantu oleh tim pertanian saya yang luar biasa. Saya beri target 4 tahun mereka hasilkan swasmada dalam 1 tahun. Saudara-saudara sekalian produksi kita tertinggi selama sejarah Republik Indonesia. Cadangan yang ada di gudang-gudang kita, di gudang pemerintah cadangannya tidak cukup. Kita harus sewa gudang-gudang lain. Kita sekarang punya cadangan sudah lebih dari 5 koma 3 juta ton. Beras cadangan."
+  },
+  {
+   "t": 4356.16,
+   "d": 82.08,
+   "text": "Cadangan beras Desember 2025 3,25. Sekarang 10 Mei cadangan beras yang kita kuasai 5,3 juta ton. Saudara-saudara sekalian, kita juga sudah amankan produksi pupuk kita untuk pertama kali dalam sejarah Republik Indonesia, harga pupuk kita turunkan 20%, Saudara-saudara sekalian, petani-petani kita sekarang bisa menikmati pupuk dengan jumlah yang cukup. yang sekarang kita harus jaga adalah jangan sampai pupuk susidi diselewengkan atau diselundupkan ke tempat lain. Ini harus kita jaga bersama, Saudara-saudara sekalian."
+  },
+  {
+   "t": 4400.48,
+   "d": 105.24,
+   "text": "Masalah makan bergizi gratis. Makan bergizi gratis sekarang sudah dinikmati oleh 62,4 juta penerima setiap hari. Angka ini termasuk 6,3 juta balita, 2 juta ibu menyusui, dan 868.000 ibu hamil menerima MBG setiap hari. Kita juga akan memberi MBG ke 500.000 lansia yang tinggal sendiri, yang hidup sebatang kara, dan yang membutuhkan makan bergizi. Karena apa itu? adalah perintah Undang-Undang Dasar pasal 33 dan pasal 34 bahwa kaum miskin harus diurus oleh negara."
+  },
+  {
+   "t": 4456.88,
+   "d": 93.0,
+   "text": "Saudara-saudara sekalian, kita mengakui bahwa dalam pengelolaan MBG masih banyak kekurangan. Kita sudah tutup lebih dari 3.000 dapur. Saya sudah minta para pejabat dan saya persilakan anggota DPR, Bupati di mana-mana silakan periksa semua dapur. Kalau ada yang tidak sesuai, laporkan segera. Akan segera kita tindak. Saudara-saudara, kita tidak akan mengizinkan masalah yang begini. penting untuk diurus secara tidak benar."
+  },
+  {
+   "t": 4505.64,
+   "d": 69.44,
+   "text": "Saudara sekalian, setelah bertahun-tahun kita bercita-cita memiliki dana kedaulatan, di tahun 2025 yang lalu, kita berhasil membentuk dana kedaulatan kita, Sovereign wealth fund kita yang kita beri nama Danantara. atau singkatan dari daya anagata nusantara yang artinya energi kekuatan masa depan bagi Indonesia."
+  },
+  {
+   "t": 4541.84,
+   "d": 74.2,
+   "text": "Dan antara ini sekarang memiliki memanage lebih dari 1000 miliar dolar kekayaan dan kita menemukan terus kekayaan-kekayaan negara yang saya enggak mengerti. mungkin disembunyikan atau diapakan oleh birukat-birukat itu. Kita terus menemukan tanah milik negara, aset milik negara, gedung milik negara yang nilainya tidak sedikit."
+  },
+  {
+   "t": 4580.08,
+   "d": 58.64,
+   "text": "Tidak sedikit. Dan antara ternyata sudah dirasakan keampuhannya dan antara akan mempercepat pembiayaan pembangunan khususnya investasi dan modal kerja untuk percepatan industrialisasi. Kita harus industrialisasi. Kita harus bikin mobil kita sendiri. Kita harus bikin motor kita sendiri."
+  },
+  {
+   "t": 4609.8,
+   "d": 48.32,
+   "text": "Kita harus bikin televisi, komputer, handphone kita sendiri. Kita tidak boleh hanya jadi pasar untuk bangsa lain. Dan kita akan lakukan. Saya sudah kumpulkan profesor-profesor kita, saya sudah kumpulkan pakar-pakar kita. Saya katakan pengabdianmu untuk bangsa wujudkan hal ini."
+  },
+  {
+   "t": 4635.84,
+   "d": 57.4,
+   "text": "Tidak boleh kita menyerah. Tidak boleh kita rasa rendah diri, Saudara-saudara. Dengan ini industrialisasi yang kita mulai dengan hilirisasi sumber daya alam kita. Kita tidak mau sumber daya alam kita gelondongan diekspor. Nikel sudah kita wajibkan diolah di sini. Boksit harus diolah di sini. Nanti turunan-turunan batu bara akan kita buat di sini."
+  },
+  {
+   "t": 4663.56,
+   "d": 79.44,
+   "text": "Penciptaan pekerja ini sangat penting dari pekerjaan meningkatkan daya beli rakyat. Dari MBG saja kita sudah buka 1,2 juta lapangan kerja baru di dapur-dapur dan kita pastikan pasar terjamin, offtake terjamin untuk puluhan juta petani kita, peternak kita, dan nelayan kita. Dari Menteri Investasi saya mendapat laporan telah tercipta 2,7 juta lapangan kerja baru hasil realisasi investasi dari dalam dan luar negeri di tahun 2025."
+  },
+  {
+   "t": 4704.48,
+   "d": 52.88,
+   "text": "Setiap koperasi desa dan koperasi Kelurahan Merah Putih akan membuka lapangan kerja formal baru di desa-desa. Setiap koperasi butuh 17 pekerja. Artinya dari 1061 koperasi yang sudah operasional, kita telah buka 18.000 lapangan kerja baru yang hanya boleh diisi oleh warga desa setempat."
+  },
+  {
+   "t": 4731.0,
+   "d": 51.16,
+   "text": "Masih banyak lagi program-program pemerintah yang disusun oleh kabinet merah putih untuk menciptakan lapan kerja. Desa Nelayan, Rumah Subsidi kita telah susun dalam kluster program kerja prioritas nasional atau PKPN yang terdiri dari 60 program prioritas untuk dilaksanakan hingga tahun 2026."
+  },
+  {
+   "t": 4757.56,
+   "d": 65.0,
+   "text": "Saudara-saudara sekalian, kita butuh investasi dari luar, tapi kita tidak mau tergantung hanya investasi dari luar. Kita yakin bahwa kita bisa kerahkan kekuatan kita. Kita tidak boleh mengemis, kita tidak boleh bertekuk lutut, kita tidak boleh menghamba kepada bangsa lain. Kita adalah bangsa yang besar, bangsa yang berani, bangsa pejuang yang berhasil melawan dan mengusir kekuatan penjajah."
+  },
+  {
+   "t": 4790.48,
+   "d": 53.24,
+   "text": "Kita harus percaya diri. Kita harus percaya kepada kekuatan kita sendiri. Kita harus percaya kepada kepribadian kita sendiri. Kepada budaya kita sendiri. kepada falsafah nenek moyang kita. Kita percaya kepada gotong-royong. Kita percaya kepada saling mendukung dan saling membantu."
+  },
+  {
+   "t": 4816.6,
+   "d": 63.12,
+   "text": "Itu naluri kita, itu budaya kita. Bukan saling membenci, bukan saling curiga, bukan saling caci maki, bukan saling menghantam. Itu bukan demokrasi kita. Mazhab ekonomi yang kita jalankan adalah mazhab ekonomi Pancasila, ekonomi yang berketuhanan, ekonomi yang berkemanusiaan, ekonomi yang menjunjung tinggi persatuan nasional."
+  },
+  {
+   "t": 4850.2,
+   "d": 74.56,
+   "text": "Jangan kita ekonomi hanya mikirin daerah masing-masing. Ekonomi kita harus ekonomi kerakyatan. Bukan ekonomi yang menindas dan membiarkan yang lemah terus lemah, yang miskin terus miskin. Ekonomi kita harus berkeadilan sosial. Ekonomi kita harus berpihak kepada rakyat Indonesia seluruhnya. Saudara sekalian, negara harus hadir. Negara harus menjaga keseimbangan. Negara harus memastikan pertumbuhan sekaligus pemerataan."
+  },
+  {
+   "t": 4888.08,
+   "d": 51.0,
+   "text": "Negara harus ambil inisiatif untuk bantu rakyat yang belum mampu, rakyat yang belum berdaya. Pemerintah harus ambil peranan. Amerika Serikat, Jepang, Tiongkok, Korea Selatan juga pernah menjalankan kebijakan-kebijakan strategis dengan peran negara yang kuat pada saat krisis, pada saat kesulitan ekonomi, dan pada saat mereka mulai industrialisasi."
+  },
+  {
+   "t": 4913.2,
+   "d": 49.84,
+   "text": "Saudara-saudara sekalian, tidak ada negara maju yang tidak unggul dalam memberikan pelayanan publik. Pemerintah harus menjadi pemerintah yang unggul membantu swasta menciptakan lapangan kerja. Tidak ada negara yang maju kalau pemerintah yang lemah, birokrasi yang lemah."
+  },
+  {
+   "t": 4941.36,
+   "d": 65.04,
+   "text": "Tidak ada negara maju kalau tidak ada kepastian hukum. Karena itu pemerintah saya telah menaikin gaji-gaji guru. Ada yang sampai hampir 300% naiknya penghasilan guru-guru ee hakim-hakim kita. Maaf hakim. Saya sekarang karena mendapat laporan ketua Mahkamah Agung kita penghasilannya lebih tinggi dari ketua Mahkamah Agung Singapura."
+  },
+  {
+   "t": 4975.44,
+   "d": 81.96,
+   "text": "Dan juga hakim-hakim paling junior kita gajinya lebih tinggi dari gaji hakim-hakim junior di Malaysia. Saudara-saudara, ini langkah nyata untuk kita ciptakan institusi-institusi yang bersih. Kita tidak mau hakim-hakim kita disogok, dibeli. Kita tidak mau juga semua aparat-aparat kita lainnya seperti itu, Saudara-saudara. Langkah-langkah yang harus diambil kita harus perbaiki tidak hanya sistem tata kelola ekspor, sistem perekonomian kita."
+  },
+  {
+   "t": 5016.28,
+   "d": 77.8,
+   "text": "Kita harus berani memperbaiki institusi-institusi kita semuanya. Kita harus bertekad terus membangun pemerintah yang kuat, pemerintah yang profesional, pemerintah yang tidak korup. Kita harus bersama-sama menjaga semua para pengusaha mengeluh. Mereka mengalami pungli-pungli yang terlalu banyak."
+  },
+  {
+   "t": 5055.48,
+   "d": 79.32,
+   "text": "Saya ingatkan semua kepala badan, menteri-menteri dan pemimpin-pemimpin, lembaga-lembaga pemerintah untuk segera mengambil inisiatif membersihkan birokrasi yang masing-masing. Jangan ragu-ragu, yang melanggar tindak. Sekali lagi, semua institusi pemerintah harus bekerja dengan baik. Kita harus menghilangkan korupsi, penyalahgunaan wewenang, dan praktik-praktik yang menghambat perjalanan ekonomi kita."
+  },
+  {
+   "t": 5095.92,
+   "d": 84.35,
+   "text": "Saya ingatkan kembali untuk kesekian kali biaya cukai kita harus diperbaiki. Menteri Keuangan kalau pimpinan Be Cukai tidak mampu segera diganti. Bangsa dan rakyat menuntut pekerjaan yang cepat. Jangan kita jadi pemerintah yang santai, pemerintah yang leha-leha, pemerintah yang kumaha engkek w kita harus jadi pemerintah yang didorong oleh engkek kumaha bukan kumaha engkek."
+  },
+  {
+   "t": 5156.8,
+   "d": 45.86,
+   "text": "Kalau negara di sekitar kita bisa memberi izin usaha, bisa memberi AMDAL dalam 3 minggu, kenapa kita harus berbulan-bulan bahkan 3 tahun? [tepuk tangan] Tidak ada orang yang tidak bisa diganti. Rakyat menuntut pemerintah yang benar dan baik. Jangan mentang-mentang sudah jadi ASN tidak bisa diberhentikan."
+  },
+  {
+   "t": 5189.8,
+   "d": 44.4,
+   "text": "Kalau enggak suruh dia tinggal di rumah aja biar dia malu sama istrinya dan anaknya. Pak, kenapa enggak ke kantor? Enggak. Saya enggak dipercaya karena saya banyak korupsinya. Coba kau jawab kepada anakmu nanti. Ini tantangan kita bersama. Saya minta dukungan dari Bapak-bapak dan Ibu-ibu wakil rakyat."
+  },
+  {
+   "t": 5212.92,
+   "d": 70.64,
+   "text": "Ini untuk kita semua. Ini untuk masa depan kita, ini untuk anak dan cucu kita. Kita harus jadi negara yang hebat. Kita tidak mau jadi negara yang lemah terus-menerus, Saudara sekalian. Untuk itu saya menghimbau pemimpin-pemimpin pemerintah daerah di setiap tingkatan juga untuk bantu kita semua. Mari bersama-sama kita bersihkan aparat kita semuanya. Jangan mengira sekarang engkau jadi bupati, engkau jadi gubernur, kita tidak bisa monitor dari sini. Sekarang teknologi sudah hebat."
+  },
+  {
+   "t": 5248.2,
+   "d": 47.24,
+   "text": "Cepat kita akan tahu kalau ada penyimpangan. Saudara-saudara, saya sedih kalau yang sekarang pejabat masih coba korupsi. Cepat ketahuan. Sekarang ada teknologi ya, ada radar bisa kita pakai, kita bisa lihat bawah tanah. Jadi, Saudara-saudara yang punya bungker-bungker disembunyikan nanti kita ketemu juga kekayaanmu."
+  },
+  {
+   "t": 5273.72,
+   "d": 45.56,
+   "text": "Saudara-saudara, saya akan menggunakan teknologi yang paling canggih. Teknologi pertahanan bisa mencari gudang senjata di bawah tanah. Radar sekarang bisa mencari, ranjo bisa mencari. kita akan pakai untuk mencari bungker-bungker di sekitar kau. Jangan main-main sama teknologi."
+  },
+  {
+   "t": 5300.44,
+   "d": 54.48,
+   "text": "Iya kan? Mereka yang punya kebun-kebun luas dikira enggak akan ada pejabat yang bisa ngecek. Saudara-saudara, sekarang ada satelit, enggak usah kita cek fisik. Kita bisa foto tiap pohon. Kita bisa foto pohon per pohon kita bisa foto. Jadi kau mau nipu bagaimanapun kita akan ketemu penipuan kau saudara-saudara sekalian."
+  },
+  {
+   "t": 5326.44,
+   "d": 46.06,
+   "text": "Tapi biasanya mereka-mereka itu ada backing-nya. Nah backing-nya biasanya seragamnya itu kalau enggak hijau ya coklat. Betul. Betul. Saya ini sebagai senior, saya sebagai alumni, saya enggak ragu-ragu. Jangan mencemarkan TNI dan Polri, Saudara-saudara sekalian."
+  },
+  {
+   "t": 5355.34,
+   "d": 50.94,
+   "text": "[tepuk tangan][bersorak] TNI dan Polri adalah tentara dan polisi milik rakyat. Harus berjuang untuk rakyat. [tepuk tangan] Rakyat kita sudah tidak bodoh lagi. Rakyat kita sudah punya gadget semua, Saudara-saudara. Kalau ada kelakuan, aparatnya enggak beres, saya minta rakyat video. Langsung video."
+  },
+  {
+   "t": 5379.92,
+   "d": 73.08,
+   "text": "Jangan kau ngelawan, jangan dilawan. Video aja. Lapor langsung ke saya, Saudara-saudara sekalian. I sudah lama saya jadi orang Indonesia. Saudara-saudara sekalian, saya yakin sebagian ASN kita baik, sebagian besar baik, yang tidak baik sedikit. Tapi nenek moyang kita sudah ingatkan nila setitik merusak susu sebelanga yang sedikit itu yang harus kita tindak. Yang namanya deep state."
+  },
+  {
+   "t": 5428.4,
+   "d": 53.6,
+   "text": "Deep state itu merasa dia kebal. Karena pemimpin politik gonta-ganti kan. Oh dia nanti kalah pemilu ya kan. Dia out. Menteri saya bilang 5 tahun maksimal. Iya kan? Enggak beres. 2 tahun sudah diganti. Dia nongkrong terus nunggu pemimpin capek langsung minta tand tangan."
+  },
+  {
+   "t": 5455.52,
+   "d": 63.92,
+   "text": "Saudara-saudara sekalian, pimpinan dan para anggota dewan yang saya muliakan. Dengan dukungan dari dewan yang terhormat ini, pemerintah yang saya pimpin bertekad untuk kembali di mimbar ini bulan Agustus yang akan datang untuk menyampaikan laporan tentang kemajuan-kemajuan yang telah berhasil menjelang kemerdekaan negara kita yang ke-81 tahun."
+  },
+  {
+   "t": 5487.56,
+   "d": 71.4,
+   "text": "Saudara-saudara sekalian, sudah banyak yang kita capai. Koperasi merah putih sudah 1061 yang operasional. Target kita di bulan Agustus kita akan operasionalkan minimal 20.000 koperasi dan di akhir tahun harus di atas 60.000. Koperasi ini adalah rantai pasok pertama di republik kita yang bisa di kuasai oleh pemerintah."
+  },
+  {
+   "t": 5522.44,
+   "d": 121.12,
+   "text": "Koperasi ini akan mempermudah logistik, akan menjadi motor pertumbuhan dan kesejahteraan di tingkat yang paling bawah. Akan mengakibatkan ratusan triliun berputar di desa, kecamatan, dan kabupaten. Akan membalikkan arus. keluar dari luar negeri menjadi berputar di desa kecematan Kabupaten mengatasi krisis energi kita sedang mempercepat produksi solar dari minyak kelapa sawit kita juga sedang mengkaji produksi bensin dari minyak kelapa sawit kita juga akan produksi solar dan gas dari batu Kita juga bisa produksi energi untuk masak dengan sangat murah dengan limbah-limbah dan batang-batang jagung."
+  },
+  {
+   "t": 5583.96,
+   "d": 65.8,
+   "text": "Produksi listrik dari tenaga surya akan kita percepat. kita sudah canangkan akan membangun 100 GW dari tenaga surya dari dalam 3 tahun ini. Kita padukan ini dengan konversi motor dan mobil dari motor dan mobil BBM ke motor listrik. Insyaallah kita akan hilangkan kedergantungan kita kepada impor BBM dan kita akan menghemat devisa kita yang sangat berharga."
+  },
+  {
+   "t": 5616.16,
+   "d": 65.98,
+   "text": "Saudara-saudara sekalian, terima kasih atas waktu yang diberikan kepada saya. [tepuk tangan] Terima kasih atas kehormatan yang diberikan kepada saya. Sekali lagi terima kasih atas kerja sama kita. Memang tidak semua partai di sini bagian dari pemerintah dan saya hormati dan saya hargai itu."
+  },
+  {
+   "t": 5653.8,
+   "d": 52.39,
+   "text": "Demokrasi kita perlu check and balances. [tepuk tangan] Saya paham dan saya mengerti bahwa PDIP berkorban untuk berada di luar pemerintah. Saya mengerti itu. Sebenarnya saya ingin ucapan terima kasih kepada PDIP. [tepuk tangan] Saudara berjasa untuk demokrasi kita."
+  },
+  {
+   "t": 5690.84,
+   "d": 84.63,
+   "text": "Memang maunya saya itu gotong-royong. Kalau semua partai di pemerintah, alangkah manisnya, alangkah manisnya untuk saya. Tapi mungkin tidak baik setiap pemimpin harus mau dikritik. Setiap eksekutif harus diawasi. Terima kasih atas pengawasan saudara. [tepuk tangan] Kadang-kadang saya malam-malam sebelum tidur pilu hati saya."
+  },
+  {
+   "t": 5738.84,
+   "d": 64.04,
+   "text": "Ini anggota PDIP ini kadang-kadang kritiknya keras banget itu. Tapi saya sadar lama-lama sebetulnya mungkin ada dasarnya. Iya kan? Ada pepatah yang mengatakan kalau orang mengingatkan kita walaupun kita tidak suka dikasih peringatan, tapi sebenarnya dia menyelamatkan kita, saudara-saudara sekalian."
+  },
+  {
+   "t": 5771.27,
+   "d": 60.3,
+   "text": "[tepuk tangan] Jadi saya saya terima kasih saya hormati pengorban pengorbanan kalian ya kan kalau di pemerintah kan banyak banyak fasilitas tapi tanya saya selalu mengatakan menteri-menteri minta petunjuk Pak ini bagaimana Pak ada proyek ada tend tapi ini di belakang Akangnya PDIP."
+  },
+  {
+   "t": 5808.92,
+   "d": 54.32,
+   "text": "Benar. Ayo menteri-menteri benar kan? Tapi apa jawaban saya? Apa jawaban saya? Tidak ada masalah. Kalau dia menang, dia menang aja. Jangan kita lihat latar belakangnya. Benar, Saudara-saudara. tenang aja karena waktu saya enggak berkuasa, waktu saya enggak berkuasa, Ibu Mega juga bantu saya di bidang ekonomi."
+  },
+  {
+   "t": 5844.68,
+   "d": 55.72,
+   "text": "Enggak, saya mau terbuka. Saya mau terbuka. Saya enggak berkuasa waktu itu alias lontang-lantunglah. Ibu Megawati Soekarno Putri intervensi mengatakan kalau memang Prabowo yang menang tender itu jangan diganggu, diteruskan. Saya sekarang mengikuti contoh beliau. Saya sekarang presiden."
+  },
+  {
+   "t": 5878.04,
+   "d": 55.68,
+   "text": "Tidak boleh kita lihat latar belakang politik. Kalau dia benar, dia menang dengan benar, harus kita berikan. Saudara-saudara, semoga Allah Subhanahu wa taala senantiasa memberi bimbingan dan perlindungannya kepada kita semua. Dalam melaksanakan tugas suci dan amanah, menjalankan amanah dari seluruh rakyat Indonesia."
+  },
+  {
+   "t": 5908.72,
+   "d": 56.46,
+   "text": "Amin ya rabbal alamin. Amin. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam. Shalom. Salve. Om santi santi santi om. Selamat Hari Kebangkitan Nasional. [bersorak] Mari kita lanjutkan perjuangan Bapak-bapak pendiri bangsa kita. Merdeka. [berteriak] Terima kasih."
+  },
+  {
+   "t": 5939.61,
+   "d": 54.74,
+   "text": "[tepuk tangan] Merdekanya tadi enggak ada ya, Saudara. Kita baru saja tadi mendengarkan pernyataan dari Presiden Prabowo Subianto terkait dengan pidato politiknya atau pidato ekonominya terkait dengan kerangka ekonomi makro APBN tahun 2027 di mana sejumlah target dipasang termasuk di antaranya adalah soal harga nilai atau nilai tukar rupiah yang dipasang target 16.800 sampai dengan 17.500."
+  },
+  {
+   "t": 5968.56,
+   "d": 7.76,
+   "text": "Bukan hanya itu, dari sisi ekonomi Presiden Prab"
   }
  ],
  "provenance": {
   "engine_repo": "himanusia/youtube-speech-corpus",
   "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
-  "canonical_video_id": "7gTnSb4faRk",
+  "canonical_video_id": "WJtmyDrIgHg",
   "language_code": "id",
   "language": "Indonesian (auto-generated)",
   "is_generated": true,
   "fetched_via": "caption_api",
-  "source_of_truth": "engine/data/prabowo/raw/7gTnSb4faRk.json"
+  "source_of_truth": "engine/data/prabowo/raw/WJtmyDrIgHg.json"
  }
 }

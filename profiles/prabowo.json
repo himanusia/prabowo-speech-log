@@ -392,5 +392,13 @@
    "note": "sering dibahas lewat nama lembaga, bukan nama bencananya",
    "re": "karhutla|kebakaran\\s+hutan|kabut\\s+asap|titik\\s+api|\\bbnpb\\b|\\bbmkg\\b|gempa|banjir|longsor|erupsi|bencana|kekeringan"
   }
- ]
+ ],
+ "canonical_overrides": {
+  "event-010": {
+   "video_id": "WJtmyDrIgHg",
+   "reason": "Kanonik otomatis memilih unggahan kanal resmi yang ternyata klip 70 detik (68 token) padahal acaranya 1 jam 39 menit. Diperiksa lewat audit_speeches.py pada 13 Sep 2026: unggahan KOMPASTV MADIUN memuat pidato lengkap (753 segmen, 5972 detik). Ditimpa manual supaya angkanya mewakili acara, bukan potongannya.",
+   "verified_at": "2026-09-13"
+  }
+ },
+ "canonical_rule_note": "Aturan pemilihan kanonik berbasis fraksi pembuka terpadding: menolak livestream yang pembukanya jauh dari pola pembuka pidato. Aturan itu TIDAK menangkap kasus sebaliknya — unggahan pendek yang isinya hanya potongan. Karena itu ada canonical_overrides."
 }

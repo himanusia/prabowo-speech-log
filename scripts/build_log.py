@@ -26,6 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 ENGINE = ROOT / "engine"
 OUT = ROOT / "data"
+RAW = OUT / "panel_raw"
 WIB = timezone(timedelta(hours=7))
 
 # ---------------------------------------------------------------------------
@@ -125,6 +126,15 @@ def main() -> int:
     analysis = load_json(SRC / "analysis.json")
     manifest = load_json(SRC / "manifest.json")
     metadata = load_json(SRC / "metadata.json")
+    profile = load_json(ROOT / "profiles" / "prabowo.json")
+    overrides = profile.get("canonical_overrides") or {}
+
+    def raw_path_for(video_id: str) -> Path | None:
+        """Transkrip bisa ada di korpus, atau di panel_raw repo ini (hasil perbaikan)."""
+        for cand in (SRC / "raw" / f"{video_id}.json", RAW / f"{video_id}.json"):
+            if cand.exists():
+                return cand
+        return None
 
     by_id_manifest = {s["id"]: s for s in manifest.get("sources", [])}
     by_id_variant = {v["id"]: v for v in analysis.get("variants", [])}
@@ -140,15 +150,27 @@ def main() -> int:
     (OUT / "speeches").mkdir(parents=True, exist_ok=True)
 
     for src in analysis["sources"]:
-        vid = src["id"]
-        raw_path = SRC / "raw" / f"{vid}.json"
-        if not raw_path.exists():
+        gid = src.get("duplicate_group") or src["id"]
+
+        # Penimpaan kanonik: audit menemukan unggahan terpilih hanya potongan.
+        ov = overrides.get(gid)
+        if ov and ov.get("video_id"):
+            vid = ov["video_id"]
+            overridden = True
+        else:
+            vid = src["id"]
+            overridden = False
+
+        raw_path = raw_path_for(vid)
+        if not raw_path:
             print(f"  lewat {vid}: raw tidak ada")
             continue
         raw = load_json(raw_path)
         meta = metadata.get(vid, {})
 
-        gid = src.get("duplicate_group") or vid
+        if overridden:
+            print(f"  timpa kanonik {gid}: {src['id']} → {vid}")
+
         members = by_event.get(gid, [])
         if not members:
             fallback = by_id_variant.get(vid) or {
@@ -183,20 +205,39 @@ def main() -> int:
         uploads.sort(key=lambda u: (not u["canonical"], u.get("upload_date") or ""))
 
         slug = f"{src['date']}-{slugify(src['title'])}"
+
+        # Kalau kanonik ditimpa, angka harus dihitung ulang dari transkrip baru —
+        # jangan mewarisi angka unggahan lama.
+        if overridden:
+            words_all = re.findall(r"[a-z][a-z'-]+",
+                                   " ".join(x.get("text", "") for x in raw.get("raw_snippets", [])).lower())
+            token_count = len(words_all)
+            unique_words = len(set(words_all))
+        else:
+            token_count = src.get("token_count")
+            unique_words = src.get("unique_word_count")
+
+        # Durasi & kanal ikut unggahan kanonik yang dipakai, bukan yang lama.
+        ov_variant = by_id_variant.get(vid) or {}
+        rec_duration = ov_variant.get("duration") or src.get("duration")
+        rec_channel = ov_variant.get("channel") or src.get("channel")
+
         record = {
             "id": slug,
             "video_id": vid,
             "date": src["date"],
             "title": src["title"],
-            "channel": src["channel"],
+            "channel": rec_channel,
             "youtube_url": src.get("url") or f"https://www.youtube.com/watch?v={vid}",
-            "duration_s": src.get("duration"),
-            "duration_hms": _hms(src.get("duration")),
+            "duration_s": rec_duration,
+            "duration_hms": _hms(rec_duration),
             "source_tier": src.get("source_tier"),
-            "fetch_method": src.get("fetch_method"),
+            "fetch_method": raw.get("fetch_method") or src.get("fetch_method"),
             "snippet_count": len(raw.get("raw_snippets", [])),
-            "token_count": src.get("token_count"),
-            "unique_word_count": src.get("unique_word_count"),
+            "token_count": token_count,
+            "unique_word_count": unique_words,
+            "canonical_overridden": overridden,
+            "canonical_note": (ov or {}).get("reason") if overridden else None,
             "duplicate_count": src.get("duplicate_count", max(0, len(uploads) - 1)),
             "uploads": uploads,
             "topics": src.get("topics", {}),

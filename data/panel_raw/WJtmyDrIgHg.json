@@ -1,0 +1,3791 @@
+{
+ "id": "WJtmyDrIgHg",
+ "url": "https://www.youtube.com/watch?v=WJtmyDrIgHg",
+ "title": "Pidato Lengkap Presiden Prabowo di Rapat Paripurna DPR",
+ "channel": "KOMPASTV MADIUN",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 753,
+ "raw_snippets": [
+  {
+   "text": "[tepuk tangan]",
+   "start": 0.0,
+   "duration": 23
+  },
+  {
+   "text": "Bismillahirrahmanirrahim.",
+   "start": 23.0,
+   "duration": 3
+  },
+  {
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah.",
+   "start": 26.0,
+   "duration": 5
+  },
+  {
+   "text": "Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu.",
+   "start": 31.0,
+   "duration": 9
+  },
+  {
+   "text": "Namo buddhaya. Salam kebajikan. Rahayu-rahayu.",
+   "start": 40.0,
+   "duration": 7
+  },
+  {
+   "text": "Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka.",
+   "start": 47.0,
+   "duration": 14
+  },
+  {
+   "text": "Yang saya hormati Ketua Majelis Permusyawaratan Rakyat Republik Indonesia,",
+   "start": 61.0,
+   "duration": 9
+  },
+  {
+   "text": "Saudara Ahmad Muzani dan para wakil ketua MPR RI.",
+   "start": 70.0,
+   "duration": 6
+  },
+  {
+   "text": "Yang saya hormati Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani dan para wakil Ketua DPR RI.",
+   "start": 76.0,
+   "duration": 14
+  },
+  {
+   "text": "Yang saya hormati Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Bakhtiar Najudin",
+   "start": 90.0,
+   "duration": 9
+  },
+  {
+   "text": "beserta para wakil ketua DPD RI.",
+   "start": 99.0,
+   "duration": 5
+  },
+  {
+   "text": "Yang saya hormati pimpinan serta seluruh anggota MPR RI, DPR RI dan DPD RI.",
+   "start": 104.0,
+   "duration": 11
+  },
+  {
+   "text": "Para pimpinan lembaga tinggi negara yang hadir.",
+   "start": 115.0,
+   "duration": 5
+  },
+  {
+   "text": "Yang saya hormati para ketua umum partai politik yang hadir, Ketua Umum PDI Perjuangan yang diwakili",
+   "start": 120.0,
+   "duration": 9
+  },
+  {
+   "text": "oleh Saudara Puan Maharani, Ketua Umum Partai Golkar Saudara Bahlil Lahadalia,",
+   "start": 129.0,
+   "duration": 10
+  },
+  {
+   "text": "Ketua Umum Partai Nasdem, Saudara Suryawak.",
+   "start": 139.0,
+   "duration": 11
+  },
+  {
+   "text": "Ketua Umum Partai Kebangkitan Bangsa, Saudara Abdul Muhaimin Iskandar yang sedang berangkat haji.",
+   "start": 150.0,
+   "duration": 12
+  },
+  {
+   "text": "Presiden Partai Keadilan Sejahtera, Saudara Muzamil Yusuf.",
+   "start": 162.0,
+   "duration": 5
+  },
+  {
+   "text": "Ketua Umum Partai Amanat Nasional, Saudara Zulkifli Hasan,",
+   "start": 167.0,
+   "duration": 5
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 172.0,
+   "duration": 1
+  },
+  {
+   "text": "Ketua Umum Partai Demokrat, Saudara Agus Sarimurti Yudoyono.",
+   "start": 173.0,
+   "duration": 8
+  },
+  {
+   "text": "Yang saya hormati Ketua Badan Pemeriksa Keuangan,",
+   "start": 181.0,
+   "duration": 6
+  },
+  {
+   "text": "Ketua Mahkamah Agung, Ketua Mahkamah Konstitusi, Ketua Komisi Yudisial,",
+   "start": 187.0,
+   "duration": 9
+  },
+  {
+   "text": "Gubernur Bank Indonesia, dan pimpinan lembaga-lembaga tinggi negara lainnya.",
+   "start": 196.0,
+   "duration": 9
+  },
+  {
+   "text": "Saya hormati para menteri, Panglima TNI, Kapolri, Jaksa Agung, serta seluruh anggota kabinet merah putih yang hadir.",
+   "start": 205.0,
+   "duration": 10
+  },
+  {
+   "text": "Dan yang saya hormati perwakilan dari kelompok-kelompok masyarakat",
+   "start": 215.0,
+   "duration": 9
+  },
+  {
+   "text": "yang hadir dan yang saya muliakan saudara-saudara sebangsa dan setanah air yang saya cintai di mana pun engkau berada.",
+   "start": 224.0,
+   "duration": 15
+  },
+  {
+   "text": "Alhamdulillahiabbil alamin. Puji syukur kita panjatkan kehadirat Allah Subhanahu wa taala.",
+   "start": 239.0,
+   "duration": 8
+  },
+  {
+   "text": "Atas rahmat dan hidayah-Nya kita dapat menjalankan tugas kenegaraan hari ini",
+   "start": 247.0,
+   "duration": 7
+  },
+  {
+   "text": "dalam suasana yang aman, tentram, dan damai.",
+   "start": 254.0,
+   "duration": 6
+  },
+  {
+   "text": "Pada kesempatan yang baik ini, saya ingin menyampaikan penghargaan saya setinggi-tingginya.",
+   "start": 260.0,
+   "duration": 7
+  },
+  {
+   "text": "Kepada pimpinan dan anggota MPR, DPR, dan DPD RI atas",
+   "start": 267.0,
+   "duration": 7
+  },
+  {
+   "text": "diselenggarakannya rapat paripurna DPR ini yang dihadiri anggota DPR dan DPD RI bertepatan",
+   "start": 274.0,
+   "duration": 9
+  },
+  {
+   "text": "dengan peringatan hari kebangkitan nasional kita.",
+   "start": 283.0,
+   "duration": 4
+  },
+  {
+   "text": "Saya sengaja minta waktu untuk berdiri di hadapan saudara-saudara sekalian",
+   "start": 287.0,
+   "duration": 8
+  },
+  {
+   "text": "untuk menyampaikan langsung sendiri arah kebijakan ekonomi dan fiskal negara kita.",
+   "start": 295.0,
+   "duration": 10
+  },
+  {
+   "text": "Sebagai pembicaraan pendahuluan dalam penyusunan rancangan anggaran pendapatan dan belanja negara APBN tahun 2027.",
+   "start": 305.0,
+   "duration": 13
+  },
+  {
+   "text": "pimpinan dan seluruh anggota dewan yang saya muliakan.",
+   "start": 318.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita sekarang sebagai bangsa menghadapi tantangan geopolitik",
+   "start": 323.0,
+   "duration": 8
+  },
+  {
+   "text": "dan geoekonomi yang penuh dengan konflik, ketegangan, dan ketidakpastian.",
+   "start": 331.0,
+   "duration": 11
+  },
+  {
+   "text": "Peperangan terjadi di banyak tempat, bahkan di Eropa, di Timur Tengah,",
+   "start": 342.0,
+   "duration": 7
+  },
+  {
+   "text": "di kawasan yang walaupun jauh dari kita, tetapi ternyata memiliki dampak dan",
+   "start": 349.0,
+   "duration": 9
+  },
+  {
+   "text": "pengaruh yang sangat besar terhadap kehidupan kita.",
+   "start": 358.0,
+   "duration": 6
+  },
+  {
+   "text": "Oleh karena itu, karena kondisi yang kita hadapi seperti ini,",
+   "start": 364.0,
+   "duration": 7
+  },
+  {
+   "text": "saya berpendapat bahwa Presiden Republik Indonesia harus hadir langsung menyampaikan pokok-pokok pikiran perekonomian dan pengelolaan negara.",
+   "start": 371.0,
+   "duration": 12
+  },
+  {
+   "text": "Saudara-saudara sekalian, saya telah disumpah oleh saudara-saudara sekalian di hadapan saudara-saudara sekalian dan di hadapan rakyat.",
+   "start": 383.0,
+   "duration": 13
+  },
+  {
+   "text": "Tugas saya untuk menjalankan Undang-Undang Dasar Negara Republik Indonesia 1945",
+   "start": 396.0,
+   "duration": 8
+  },
+  {
+   "text": "di mana saya bertanggung jawab untuk melindungi segenap tumpah darah Indonesia.",
+   "start": 404.0,
+   "duration": 10
+  },
+  {
+   "text": "bertanggung jawab untuk memajukan kesejahteraan, memajukan kecerdasan bangsa,",
+   "start": 414.0,
+   "duration": 8
+  },
+  {
+   "text": "untuk menjaga peran Indonesia dalam menjaga perdamaian dan ketertiban dunia.",
+   "start": 422.0,
+   "duration": 10
+  },
+  {
+   "text": "Dalam rangka itulah saya memandang bahwa anggaran pendapatan dan belanja negara bukan sekedar dokumen keuangan negara.",
+   "start": 432.0,
+   "duration": 10
+  },
+  {
+   "text": "APBN adalah wujud dari alat perjuangan kita sebagai bangsa.",
+   "start": 442.0,
+   "duration": 7
+  },
+  {
+   "text": "APBN adalah alat untuk melindungi rakyat, alat untuk memperkokoh",
+   "start": 449.0,
+   "duration": 8
+  },
+  {
+   "text": "dasar-dasar dan sendi-sendi ekonomi bangsa.",
+   "start": 457.0,
+   "duration": 5
+  },
+  {
+   "text": "alat untuk memastikan setiap warga negara dapat hidup lebih sejahtera",
+   "start": 462.0,
+   "duration": 7
+  },
+  {
+   "text": "dan sebagai alat untuk menjadi pedoman perjalanan kita ke depan.",
+   "start": 469.0,
+   "duration": 8
+  },
+  {
+   "text": "Dengan kesadaran itu, APBN kita susun sebagai bentuk komitmen bersama",
+   "start": 477.0,
+   "duration": 8
+  },
+  {
+   "text": "untuk mewujudkan cita-cita mulia yang telah diamanatkan dalam Undang-Undang",
+   "start": 485.0,
+   "duration": 7
+  },
+  {
+   "text": "Dasar kita. Undang-Undang Dasar Tahun 1945.",
+   "start": 492.0,
+   "duration": 5
+  },
+  {
+   "text": "Satu Undang-Undang Dasar yang lahir dari kancah perjuangan lama.",
+   "start": 497.0,
+   "duration": 7
+  },
+  {
+   "text": "Perjuangan untuk meraih kemerdekaan.",
+   "start": 504.0,
+   "duration": 2
+  },
+  {
+   "text": "yang berjalan ratusan tahun yang telah",
+   "start": 506.0,
+   "duration": 8
+  },
+  {
+   "text": "meminta korban ribuan, puluhan ribu pendahulu-pendahulu kita,",
+   "start": 514.0,
+   "duration": 9
+  },
+  {
+   "text": "yaitu cita-cita mewujudkan suatu negara Indonesia yang merdeka,",
+   "start": 523.0,
+   "duration": 7
+  },
+  {
+   "text": "yang berdaulat, yang adil, yang makmur, yang berdiri. di atas kaki kita sendiri.",
+   "start": 530.0,
+   "duration": 9
+  },
+  {
+   "text": "Saudara-saudara sekalian, sekarang izinkanlah saya menyampaikan angka-angka kunci dari kerangka ekonomi",
+   "start": 539.0,
+   "duration": 10
+  },
+  {
+   "text": "makro dan pokok-pokok kebijakan fiskal atau bisa kita sebut kemun 2027.",
+   "start": 549.0,
+   "duration": 11
+  },
+  {
+   "text": "Pertama, pendapatan negara dalam APBN 2027.",
+   "start": 560.0,
+   "duration": 5
+  },
+  {
+   "text": "kami targetkan mencapai kisaran 11,82 hingga 12,40% dari produk domestik bruto kita.",
+   "start": 565.0,
+   "duration": 12
+  },
+  {
+   "text": "Untuk mendukung berbagai program prioritas dan program-program vital kita, belanja",
+   "start": 577.0,
+   "duration": 7
+  },
+  {
+   "text": "negara direncanakan berada pada kisaran 13,62 hingga 14,80% dari PDB kita.",
+   "start": 584.0,
+   "duration": 12
+  },
+  {
+   "text": "Dari sisi pembiayaan defisit kita di tahun 2027, defisit APBN",
+   "start": 596.0,
+   "duration": 8
+  },
+  {
+   "text": "akan kami jaga pada kisaran 1,80 hingga maksimal 2,40%",
+   "start": 604.0,
+   "duration": 7
+  },
+  {
+   "text": "PDB. Dan kita akan berjuang terus untuk menekan dan memperkecil defisit ini.",
+   "start": 611.0,
+   "duration": 9
+  },
+  {
+   "text": "Suku bunga, surat berharga negara SBN Tenor 10 tahun kami jaga berada pada kisaran 6,5 hingga 7,3%.",
+   "start": 620.0,
+   "duration": 11
+  },
+  {
+   "text": "Nilai tukur rupiah terhadap dolar Amerika Serikat berada pada rentang Rp16.800 hingga Rp17.500. R.",
+   "start": 631.0,
+   "duration": 12
+  },
+  {
+   "text": "Strategi fiskal dan moneter kita haruslah strategi yang mampu",
+   "start": 643.0,
+   "duration": 7
+  },
+  {
+   "text": "untuk menjaga nilai tukar kita tetap stabil terhadap mata uang dunia.",
+   "start": 650.0,
+   "duration": 9
+  },
+  {
+   "text": "Inflasi akan kami jaga tetap pada kisaran 1,5 hingga 3,5%.",
+   "start": 659.0,
+   "duration": 9
+  },
+  {
+   "text": "Pada sektor energi, harga minyak mentah Indonesia diperkirakan sebesar 70 hingga 95 Amerika per barel.",
+   "start": 668.0,
+   "duration": 13
+  },
+  {
+   "text": "Selanjutnya, lifting minyak bumi ditargetkan 602 hingga 615.000",
+   "start": 681.0,
+   "duration": 8
+  },
+  {
+   "text": "barel per hari dan lifting gas 934 hingga 977.000 barel. setara minyak bumi per hari.",
+   "start": 689.0,
+   "duration": 12
+  },
+  {
+   "text": "Dengan strategi ekonomi yang tepat, kebijakan fiskal yang prudent dan berkelanjutan,",
+   "start": 701.0,
+   "duration": 9
+  },
+  {
+   "text": "saya yakin ekonomi Indonesia dapat tumbuh pada kisaran 5,8 hingga",
+   "start": 710.0,
+   "duration": 6
+  },
+  {
+   "text": "6,5% di tahun 2007 menuju pertumbuhan ekonomi 8% pada tahun 202",
+   "start": 716.0,
+   "duration": 10
+  },
+  {
+   "text": "dan pertumbuhan tersebut harus tercermin.",
+   "start": 726.0,
+   "duration": 5
+  },
+  {
+   "text": "pada meningkatnya kesejahteraan rakyat secara nyata.",
+   "start": 731.0,
+   "duration": 5
+  },
+  {
+   "text": "Karena itu angka kemiskinan ditargetkan turun ke rentang 6,0",
+   "start": 736.0,
+   "duration": 8
+  },
+  {
+   "text": "hingga 6,5% dari target sebelumnya 6,5 hingga 7,5%.",
+   "start": 744.0,
+   "duration": 9
+  },
+  {
+   "text": "Sementara itu tingkat pengangguran terbuka harus turun pada rentang 4,30",
+   "start": 753.0,
+   "duration": 9
+  },
+  {
+   "text": "hingga 4,87% dari target sebelumnya 4,44 hingga 4,96%.",
+   "start": 762.0,
+   "duration": 11
+  },
+  {
+   "text": "Lebih lanjut rasio gini kita targetkan harus semakin membaik",
+   "start": 773.0,
+   "duration": 7
+  },
+  {
+   "text": "pada rentang 0,362 hingga 0,367 dari target sebelumnya 0,37 hingga 0,380.",
+   "start": 780.0,
+   "duration": 12
+  },
+  {
+   "text": "Jarak antara yang terkaya dan yang termiskin tidak boleh semakin lebar.",
+   "start": 792.0,
+   "duration": 8
+  },
+  {
+   "text": "Bahkan harus kita perjuangkan untuk terus menyempit.",
+   "start": 800.0,
+   "duration": 6
+  },
+  {
+   "text": "Dengan berbagai program prioritas di bidang sumber daya manusia, indeks modal manusia ditargetkan",
+   "start": 806.0,
+   "duration": 8
+  },
+  {
+   "text": "membaik menjadi 0,575 dari sebelumnya 0,570.",
+   "start": 814.0,
+   "duration": 8
+  },
+  {
+   "text": "dibantu berbagai program di bidang pertanian.",
+   "start": 822.0,
+   "duration": 5
+  },
+  {
+   "text": "Indeks kesejahteraan petani ditargetkan meningkat menjadi 0,8038 dari sebelumnya 0,7731.",
+   "start": 827.0,
+   "duration": 11
+  },
+  {
+   "text": "Nilai tukar petani atau NTP yang sekarang sudah mencapai angka tertinggi sepanjang sejarah",
+   "start": 838.0,
+   "duration": 8
+  },
+  {
+   "text": "di angka 126 harus kita perjuangkan untuk bisa kita tingkatkan lagi.",
+   "start": 846.0,
+   "duration": 7
+  },
+  {
+   "text": "Kita juga akan membuka lapangan kerja secara besar-besaran.",
+   "start": 853.0,
+   "duration": 5
+  },
+  {
+   "text": "ditargetkan proporsi lapangan kerja formal meningkat menjadi 40,81%",
+   "start": 858.0,
+   "duration": 6
+  },
+  {
+   "text": "di tahun 2007 dari sebelumnya 3500% di tahun 2026 atau naik 5,81%.",
+   "start": 864.0,
+   "duration": 12
+  },
+  {
+   "text": "Saudara-saudara sekalian, demikian telah saya sampaikan angka-angka kunci dari kerangka ekonomi",
+   "start": 876.0,
+   "duration": 7
+  },
+  {
+   "text": "makro dan pokok-pokok kebijakan fiskal tahun 2027.",
+   "start": 883.0,
+   "duration": 5
+  },
+  {
+   "text": "Sekarang saya minta waktu untuk menyampaikan beberapa hal yang fundamental tentang perekonomian kita.",
+   "start": 888.0,
+   "duration": 11
+  },
+  {
+   "text": "Saya merasa harus ini harus saya sampaikan dari eksekutif kepada legislatif",
+   "start": 899.0,
+   "duration": 8
+  },
+  {
+   "text": "dihadiri oleh pimpinan-pimpinan lembaga tinggi negara.",
+   "start": 907.0,
+   "duration": 5
+  },
+  {
+   "text": "Marilah kita berani untuk menghadapi",
+   "start": 912.0,
+   "duration": 8
+  },
+  {
+   "text": "masalah walaupun itu merupakan tantangan, hambatan atau kekurangan.",
+   "start": 920.0,
+   "duration": 8
+  },
+  {
+   "text": "Tentang pengelolaan ekonomi negara kita sesungguhnya telah dirumuskan oleh para pendiri-pendiri bangsa kita.",
+   "start": 928.0,
+   "duration": 12
+  },
+  {
+   "text": "Para pendiri-pendiri bangsa kita bukan orang-orang yang lugu atau naif. Mereka",
+   "start": 940.0,
+   "duration": 7
+  },
+  {
+   "text": "merasakan penjajahan. Mereka merasakan dijajah. Mereka merasakan dihina. Mereka",
+   "start": 947.0,
+   "duration": 7
+  },
+  {
+   "text": "merasakan diperbudak. Mereka merasakan dirampas kehormatan,",
+   "start": 954.0,
+   "duration": 6
+  },
+  {
+   "text": "dirampas harga diri, dirampas dignity bangsa Indonesia.",
+   "start": 960.0,
+   "duration": 7
+  },
+  {
+   "text": "Mereka menyaksikan dan merasakan dihilangkan segala kehormatan, segala kepercayaan",
+   "start": 967.0,
+   "duration": 10
+  },
+  {
+   "text": "diri kepada bangsa, kepada budaya, kepada sejarah kita.",
+   "start": 977.0,
+   "duration": 5
+  },
+  {
+   "text": "Mereka merasakan apa artinya imperialisme itu.",
+   "start": 982.0,
+   "duration": 7
+  },
+  {
+   "text": "Mereka merasakan bahwa bangsa Indonesia ditempatkan derajatnya di bawah anjing.",
+   "start": 989.0,
+   "duration": 11
+  },
+  {
+   "text": "Mereka melihat dan merasakan kekayaan Nusantara ratusan tahun diambil oleh penjajah-penjajah kita untuk memperkaya mereka.",
+   "start": 1000.0,
+   "duration": 12
+  },
+  {
+   "text": "Hendaknya janganlah kita terlalu kagum kepada bangsa-bangsa yang kayanya dari merampas kekayaan bangsa-bangsa lain.",
+   "start": 1012.0,
+   "duration": 13
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 1025.0,
+   "duration": 4
+  },
+  {
+   "text": "Janganlah kita rendah diri.",
+   "start": 1029.0,
+   "duration": 5
+  },
+  {
+   "text": "Janganlah kita selalu mengagumi apa yang mereka ajarkan kepada kita.",
+   "start": 1034.0,
+   "duration": 9
+  },
+  {
+   "text": "Padahal mereka sendiri tidak menjalankan apa yang mereka ajarkan kepada kita.",
+   "start": 1043.0,
+   "duration": 5
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 1048.0,
+   "duration": 3
+  },
+  {
+   "text": "Saya tidak mengajak kita untuk membenci siapapun.",
+   "start": 1051.0,
+   "duration": 10
+  },
+  {
+   "text": "Saya tidak mengajak kita membenci bangsa-bangsa lain. Tidak.",
+   "start": 1061.0,
+   "duration": 6
+  },
+  {
+   "text": "Bahkan saya mengajak kita belajar, tapi juga kita harus belajar dari sejarah.",
+   "start": 1067.0,
+   "duration": 9
+  },
+  {
+   "text": "Ada suatu adagium bahwa mereka yang tidak belajar dari sejarah akan dihukum oleh sejarah akan",
+   "start": 1076.0,
+   "duration": 8
+  },
+  {
+   "text": "mengulangi sejarah kelam yang sama yang dialami oleh nenek moyang mereka. Ini ada yang terjadi di banyak negara.",
+   "start": 1084.0,
+   "duration": 12
+  },
+  {
+   "text": "Para pendiri bangsa kita sadar",
+   "start": 1096.0,
+   "duration": 7
+  },
+  {
+   "text": "bahwa apabila pemimpin-pemimpin di Nusantara kita lemah, apabila pemimpin-pemimpin di Nusantara tidak",
+   "start": 1103.0,
+   "duration": 7
+  },
+  {
+   "text": "bersatu, maka kekayaan Nusantara akan terus diambil oleh kekuatan-kekuatan di luar Nusantara.",
+   "start": 1110.0,
+   "duration": 10
+  },
+  {
+   "text": "Ini sejarah ini terjadi. Marilah kita buka fakta.",
+   "start": 1120.0,
+   "duration": 8
+  },
+  {
+   "text": "Negara Netherland Belanda dari sejak",
+   "start": 1128.0,
+   "duration": 8
+  },
+  {
+   "text": "tahun 1500 dilanjutkan 1600 dilanjutkan 1700",
+   "start": 1136.0,
+   "duration": 8
+  },
+  {
+   "text": "dilanjutkan 1800 memiliki",
+   "start": 1144.0,
+   "duration": 6
+  },
+  {
+   "text": "PDB per kapita tertinggi di dunia selama itu.",
+   "start": 1150.0,
+   "duration": 7
+  },
+  {
+   "text": "1500 1500 1700 1800 400 tahun telah memiliki PDB perkapita tertinggi.",
+   "start": 1157.0,
+   "duration": 11
+  },
+  {
+   "text": "negara yang mungkin dari utara ke selatan mungkin tidak sampai 8 jam naik",
+   "start": 1168.0,
+   "duration": 10
+  },
+  {
+   "text": "kendaraan dari laut ke perbatasan mereka mungkin tidak sampai 4 jam dengan kendaraan bisa memiliki PDB tertinggi di dunia. Kenapa?",
+   "start": 1178.0,
+   "duration": 10
+  },
+  {
+   "text": "Karena mereka menguasai Nusantara kita. Mereka menguasai",
+   "start": 1188.0,
+   "duration": 8
+  },
+  {
+   "text": "wilayah yang sekarang adalah Republik Indonesia.",
+   "start": 1196.0,
+   "duration": 7
+  },
+  {
+   "text": "Saudara-saudara sekalian, karena itu para pendiri bangsa kita",
+   "start": 1203.0,
+   "duration": 8
+  },
+  {
+   "text": "dipimpin oleh Bung Karno, Bung Hatta, Bung Syahrir, dan mereka-mereka yang menyusun",
+   "start": 1211.0,
+   "duration": 9
+  },
+  {
+   "text": "Pancasila dan Undang-Undang Dasar kita, Undang-Undang Dasar 1945.",
+   "start": 1220.0,
+   "duration": 8
+  },
+  {
+   "text": "Mereka telah menetapkan cetak biru perekonomian bangsa kita.",
+   "start": 1228.0,
+   "duration": 12
+  },
+  {
+   "text": "Cetak biru itu dituangkan dalam pasal 33 Undang-Undang Dasar 1945.",
+   "start": 1240.0,
+   "duration": 8
+  },
+  {
+   "text": "Pasal 33 dengan jelas menjabarkan sistem perekonomian yang harusnya kita jalankan sebagai bangsa.",
+   "start": 1248.0,
+   "duration": 8
+  },
+  {
+   "text": "Dan saya ingin tegaskan hari ini keyakinan saya bahwa apabila",
+   "start": 1256.0,
+   "duration": 9
+  },
+  {
+   "text": "kita menjalankan pasal 33 Undang-Undang Dasar 1945 kita jalankan",
+   "start": 1265.0,
+   "duration": 8
+  },
+  {
+   "text": "dengan baik, kita jalankan dengan murni dan konsekuen, negara kita akan memiliki sumber daya",
+   "start": 1273.0,
+   "duration": 7
+  },
+  {
+   "text": "yang cukup untuk menjamin Indonesia sungguh-sungguh akan menjadi negara",
+   "start": 1280.0,
+   "duration": 7
+  },
+  {
+   "text": "yang makmur, yang adil, di mana rakyatnya menikmati kesejahteraan dan kualitas hidup yang layak.",
+   "start": 1287.0,
+   "duration": 14
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 1301.0,
+   "duration": 1
+  },
+  {
+   "text": "Rakyat kita tidak bermimpi untuk mengalami kehidupan yang",
+   "start": 1302.0,
+   "duration": 9
+  },
+  {
+   "text": "kaya raya, tapi mereka bermimpi untuk bisa hidup",
+   "start": 1311.0,
+   "duration": 9
+  },
+  {
+   "text": "dengan layak, dengan baik.",
+   "start": 1320.0,
+   "duration": 5
+  },
+  {
+   "text": "Mereka bermimpi bisa makan dengan baik tiap hari.",
+   "start": 1325.0,
+   "duration": 5
+  },
+  {
+   "text": "bisa memberi susu untuk anak-anaknya, bisa mencari obat bila bilamana anak",
+   "start": 1330.0,
+   "duration": 8
+  },
+  {
+   "text": "mereka sakit atau bapak mereka sakit, mereka bermimpi bisa punya rumah yang layak.",
+   "start": 1338.0,
+   "duration": 9
+  },
+  {
+   "text": "Mereka bermimpi bisa melihat anaknya berangkat sekolah dengan sehat.",
+   "start": 1347.0,
+   "duration": 8
+  },
+  {
+   "text": "Mereka bermimpi bahwa orang tuanya bisa dapat pekerjaan yang baik dengan pendapatan yang cukup.",
+   "start": 1355.0,
+   "duration": 14
+  },
+  {
+   "text": "Itu adalah mimpi dan harapan rakyat kita.",
+   "start": 1369.0,
+   "duration": 5
+  },
+  {
+   "text": "Saudara-saudara sekalian, setelah saya evaluasi, setelah saya melihat angka-angka,",
+   "start": 1374.0,
+   "duration": 8
+  },
+  {
+   "text": "setelah saya melihat sungguh betapa besarnya kekayaan kita,",
+   "start": 1382.0,
+   "duration": 8
+  },
+  {
+   "text": "saya semakin yakin bahwa menjalankan Undang-Undang Dasar 1945 ini haruslah menjadi tanggung jawab kita semua.",
+   "start": 1390.0,
+   "duration": 11
+  },
+  {
+   "text": "Kita tentu ingin masa depan yang lebih baik untuk rakyat kita.",
+   "start": 1401.0,
+   "duration": 6
+  },
+  {
+   "text": "Untuk itu menurut pendapat pemerintah dan saya yakin seluruh patriot Indonesia",
+   "start": 1407.0,
+   "duration": 9
+  },
+  {
+   "text": "akan mendukung bahwa bumi dan air dan semua kekayaan alam",
+   "start": 1416.0,
+   "duration": 8
+  },
+  {
+   "text": "yang terkandung di dalamnya harus dinikmati oleh seluruh rakyat Indonesia.",
+   "start": 1424.0,
+   "duration": 6
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 1430.0,
+   "duration": 7
+  },
+  {
+   "text": "Itu adalah cita-cita pendiri bangsa kita dan hanya itu yang bisa membuat kita",
+   "start": 1437.0,
+   "duration": 8
+  },
+  {
+   "text": "tinggal landas mencapai cita-cita kita semua.",
+   "start": 1445.0,
+   "duration": 7
+  },
+  {
+   "text": "Saudara-saudara sekalian, kita ingin petani-petani kita tersenyum, cerah karena hasil panen yang melimpah",
+   "start": 1452.0,
+   "duration": 9
+  },
+  {
+   "text": "dan mendapat nilai yang sewajarnya, nilai yang cukup tinggi. Kita ingin nelayan-nelaian kita yang mempertaruhkan",
+   "start": 1461.0,
+   "duration": 9
+  },
+  {
+   "text": "nyawa untuk menghasilkan protein untuk rakyat kita. pergi ke laut dengan",
+   "start": 1470.0,
+   "duration": 7
+  },
+  {
+   "text": "perlengkapan yang baik dan aman dan mendapatkan hasil tangkapan yang",
+   "start": 1477.0,
+   "duration": 7
+  },
+  {
+   "text": "bernilai tinggi. Sekarang nelayan-nelayan kita sulit mendapat es batu.",
+   "start": 1484.0,
+   "duration": 8
+  },
+  {
+   "text": "Es batu saja mereka sulit untuk mendapatkan. Apalagi solar yang mereka butuh.",
+   "start": 1492.0,
+   "duration": 8
+  },
+  {
+   "text": "Pemerintah akan intervensi, akan melakukan upaya besar.",
+   "start": 1500.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita akan bangun dalam 3 tahun yang akan datang 5.000 desa nelayan. Tahun ini kita akan",
+   "start": 1508.0,
+   "duration": 8
+  },
+  {
+   "text": "resmikan 1386 desa nelayan.",
+   "start": 1516.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita akan menjamin tiap nelayan bisa punya es batu. Kita akan membikin",
+   "start": 1522.0,
+   "duration": 10
+  },
+  {
+   "text": "instalasi pembuat es batu di tiap desa nelayan. Kita akan membikin ruang cold",
+   "start": 1532.0,
+   "duration": 7
+  },
+  {
+   "text": "storage pendingin di setiap desa nelayan dan kita akan bikin S PBU khusus untuk",
+   "start": 1539.0,
+   "duration": 7
+  },
+  {
+   "text": "nelayan di setiap desa nelayan. Para nelaian kita harus kita berdayakan",
+   "start": 1546.0,
+   "duration": 9
+  },
+  {
+   "text": "karena mereka di ujungnya akan menguasai lautan kita. Saudara-saudara sekalian,",
+   "start": 1555.0,
+   "duration": 10
+  },
+  {
+   "text": "kita ingin guru-guru kita terjamin kesejahteraannya.",
+   "start": 1565.0,
+   "duration": 6
+  },
+  {
+   "text": "Masa depan suatu bangsa ditentukan oleh kualitas pendidikan yang dapat diberikan kepada anak-anaknya.",
+   "start": 1571.0,
+   "duration": 11
+  },
+  {
+   "text": "Kualitas pendidikan ditentukan oleh guru-guru yang berkualitas, guru-guru",
+   "start": 1582.0,
+   "duration": 7
+  },
+  {
+   "text": "yang semangat, guru-guru yang gembira, guru-guru yang bisa menjadi contoh bagi generasi-generasi penerus bangsa.",
+   "start": 1589.0,
+   "duration": 13
+  },
+  {
+   "text": "memperbaiki kondisi kehidupan guru harus menjadi prioritas kita. Kita ingin juga",
+   "start": 1602.0,
+   "duration": 8
+  },
+  {
+   "text": "usaha mikro kecil dan menengah kita berkembang sehingga bisa mendapat penghasilan yang",
+   "start": 1610.0,
+   "duration": 9
+  },
+  {
+   "text": "cukup baik untuk sebagian besar rakyat kita.",
+   "start": 1619.0,
+   "duration": 5
+  },
+  {
+   "text": "Dan kita ingin para orang tua serta mereka yang sudah lanjut usia dan hidup sendiri",
+   "start": 1624.0,
+   "duration": 8
+  },
+  {
+   "text": "dapat hidup dengan tenang di usia senja karena ditopang jaringan jaminan sosial yang memadai.",
+   "start": 1632.0,
+   "duration": 11
+  },
+  {
+   "text": "Kita ingin melihat Indonesia yang setiap warga negaranya hidup rukun, damai, cukup sandang pangan dan papan.",
+   "start": 1643.0,
+   "duration": 11
+  },
+  {
+   "text": "Kita ingin Indonesia yang gemah ripah, loh jinawi, toto tentram Kerto Raharjo.",
+   "start": 1654.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita ingin mewujudkan cita-cita nenek moyang kita.",
+   "start": 1662.0,
+   "duration": 5
+  },
+  {
+   "text": "Negeri yang baldatun thyibatun warabun gfur. Negeri yang makmur, baik dan",
+   "start": 1667.0,
+   "duration": 8
+  },
+  {
+   "text": "selalu mendapat ampunan dan anugerah dari Allah Subhanahu wa taala. Tuhan maha besar,",
+   "start": 1675.0,
+   "duration": 7
+  },
+  {
+   "text": "Tuhan maha kuasa. Negara di mana hukum berlaku adil untuk semua,",
+   "start": 1682.0,
+   "duration": 7
+  },
+  {
+   "text": "terutama menjamin keadilan bagi yang paling tidak berdaya. Jangan hukum.",
+   "start": 1689.0,
+   "duration": 8
+  },
+  {
+   "text": "yang adil hanya untuk mereka yang kuat dan mereka yang punya uang banyak.",
+   "start": 1697.0,
+   "duration": 7
+  },
+  {
+   "text": "Saudara-saudara sekalian, kita sesungguhnya memiliki modal yang sangat kuat untuk mewujudkan cita-cita dan harapan ini.",
+   "start": 1704.0,
+   "duration": 11
+  },
+  {
+   "text": "Posisi geografis kita sangat strategis.",
+   "start": 1715.0,
+   "duration": 7
+  },
+  {
+   "text": "Puluhan persen perdagangan dunia melalui perairan kita.",
+   "start": 1722.0,
+   "duration": 8
+  },
+  {
+   "text": "Bumi dan air kita sangat luas.",
+   "start": 1730.0,
+   "duration": 4
+  },
+  {
+   "text": "Tiap malam puluhan ribu kapal berbendara asing mengambil kekayaan kita",
+   "start": 1734.0,
+   "duration": 9
+  },
+  {
+   "text": "secara ilegal, secara tidak sah.",
+   "start": 1743.0,
+   "duration": 6
+  },
+  {
+   "text": "Harus kita tegakkan kedaulat kita di lautan kita sendiri.",
+   "start": 1749.0,
+   "duration": 9
+  },
+  {
+   "text": "Kita memiliki bonus demografi yang menopang domestik, konsumsi domestik dan pasar",
+   "start": 1758.0,
+   "duration": 10
+  },
+  {
+   "text": "domestik yang besar. Pasar kita bisa sebesar Eropa",
+   "start": 1768.0,
+   "duration": 6
+  },
+  {
+   "text": "dan sungguh sumber daya alam kita melimpah.",
+   "start": 1774.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita punya komunitas-komunitas yang sangat berharga.",
+   "start": 1779.0,
+   "duration": 8
+  },
+  {
+   "text": "Batu bara kita, nikel kita, tembaga kita, minyak kelapa sawit kita, logam tanah jarang, kekayaan laut yang melimpah.",
+   "start": 1787.0,
+   "duration": 10
+  },
+  {
+   "text": "Saudara-saudara sekalian, Indonesia adalah pengekspor minyak kelapa sawit terbesar di dunia.",
+   "start": 1797.0,
+   "duration": 9
+  },
+  {
+   "text": "Devisa ekspor minyak kelapa sawit mencapai 23 miliar dolar setara dengan Rp391 triliun pada tahun 2025.",
+   "start": 1806.0,
+   "duration": 9
+  },
+  {
+   "text": "Indonesia juga adalah pengekspor batu bara terbesar di dunia. Devisa ekspor batu bara mencapai 30 miliar dolar",
+   "start": 1815.0,
+   "duration": 8
+  },
+  {
+   "text": "Amerika setara Rp510 triliun pada tahun 2025. Selain itu kita juga sekarang",
+   "start": 1823.0,
+   "duration": 8
+  },
+  {
+   "text": "sudah jadi pengekspor paduan besi atau Fero alloy terbesar di dunia. Devisa ekspor paduan besi kita",
+   "start": 1831.0,
+   "duration": 9
+  },
+  {
+   "text": "mencapai 16 miliar dolar setara dengan R272 triliun pada tahun 2025. Tiga",
+   "start": 1840.0,
+   "duration": 8
+  },
+  {
+   "text": "komoditas strategis ini menghasilkan devisa lebih dari 65 miliar dolar Amerika setara dengan R.100 triliun per tahun.",
+   "start": 1848.0,
+   "duration": 12
+  },
+  {
+   "text": "Tapi marilah kita jujur kepada diri kita sendiri.",
+   "start": 1860.0,
+   "duration": 5
+  },
+  {
+   "text": "Hari ini Indonesia sebagai negara anggota G20,",
+   "start": 1865.0,
+   "duration": 7
+  },
+  {
+   "text": "tapi rasio belanja negara kita terhadap produk domestik bruto kita adalah yang",
+   "start": 1872.0,
+   "duration": 7
+  },
+  {
+   "text": "paling rendah di antara negara-negara ke-20.",
+   "start": 1879.0,
+   "duration": 6
+  },
+  {
+   "text": "Demikian juga rasio penerimaan negara kita terhadap PDB kita adalah yang paling rendah di antara negara-negara G20.",
+   "start": 1885.0,
+   "duration": 9
+  },
+  {
+   "text": "Dari data terbaru IMF, kita bisa melihat rasio pendapatan Meksiko 25%",
+   "start": 1894.0,
+   "duration": 8
+  },
+  {
+   "text": "dari PDB, India 20% dari PDB, Filipina 21% dari",
+   "start": 1902.0,
+   "duration": 8
+  },
+  {
+   "text": "PDB, Kamboja saja 15% dari PDB.",
+   "start": 1910.0,
+   "duration": 7
+  },
+  {
+   "text": "Indonesia 11 sampai 12% dari PDB.",
+   "start": 1917.0,
+   "duration": 7
+  },
+  {
+   "text": "Kita harus introspeksi dan sadar dan berani bertanya kenapa kita tidak bisa kelola ekonomi",
+   "start": 1924.0,
+   "duration": 8
+  },
+  {
+   "text": "kita sehingga pendapatan negara kita bisa setara dengan negara-negara seperti Filipina Meksiko?",
+   "start": 1932.0,
+   "duration": 12
+  },
+  {
+   "text": "Sekarang pun kita masih di bawah Malaysia. Apa yang sebabkan kita tidak mampu?",
+   "start": 1944.0,
+   "duration": 7
+  },
+  {
+   "text": "Bedanya apa kita sama orang Malaysia, orang Kamboja? Bedanya apa kita sama orang Filipina?",
+   "start": 1951.0,
+   "duration": 12
+  },
+  {
+   "text": "Saudara-saudara sekalian, pertemuan kita dalam 7 tahun terakhir memang baik.",
+   "start": 1963.0,
+   "duration": 11
+  },
+  {
+   "text": "5% tiap tahun selama 7 tahun kali 5%",
+   "start": 1974.0,
+   "duration": 7
+  },
+  {
+   "text": "pertumbuhan kita 35% harusnya kita tambah kaya 35%",
+   "start": 1981.0,
+   "duration": 7
+  },
+  {
+   "text": "tapi apa yang terjadi sekali lagi saya mengajak kita jujur kepada diri kita sendiri dan kepada",
+   "start": 1988.0,
+   "duration": 7
+  },
+  {
+   "text": "rakyat kita ini mungkin menyakitkan bagi kita.",
+   "start": 1995.0,
+   "duration": 9
+  },
+  {
+   "text": "Saya merasa setelah saya terima data-data ini, beberapa minggu setelah saya jadi presiden, saya merasa seolah",
+   "start": 2004.0,
+   "duration": 8
+  },
+  {
+   "text": "saya di dipukul di ulu hati saya, Saudara-saudara sekalian.",
+   "start": 2012.0,
+   "duration": 11
+  },
+  {
+   "text": "7 tahun 5% 35% ekonomi kita tumbuh. Tapi",
+   "start": 2023.0,
+   "duration": 8
+  },
+  {
+   "text": "rakyat kita yang miskin tambah dari 46,1% naik jadi 4,9%.",
+   "start": 2031.0,
+   "duration": 13
+  },
+  {
+   "text": "8% naiknya eh 3% naiknya lebih yang kelas menengah",
+   "start": 2044.0,
+   "duration": 8
+  },
+  {
+   "text": "turun, Saudara-saudara.",
+   "start": 2052.0,
+   "duration": 4
+  },
+  {
+   "text": "Saya bertanya di hadapan majelis yang terhormat ini.",
+   "start": 2056.0,
+   "duration": 6
+  },
+  {
+   "text": "Saya bertanya kepada semua partai politik, semua ormas. Saya bertanya",
+   "start": 2062.0,
+   "duration": 9
+  },
+  {
+   "text": "kepada semua pakar-pakar dan semua guru besar.",
+   "start": 2071.0,
+   "duration": 5
+  },
+  {
+   "text": "Bagaimana bisa pertumbuhan 35% tapi kelas menengah menurun, kemiskinan meningkat.",
+   "start": 2076.0,
+   "duration": 10
+  },
+  {
+   "text": "Saudara-saudara, jawaban harus ilmiah, jawaban harus matematis. Dan menurut",
+   "start": 2086.0,
+   "duration": 10
+  },
+  {
+   "text": "saya jawabannya adalah bahwa kemungkinan besar, bukan kemungkinan",
+   "start": 2096.0,
+   "duration": 8
+  },
+  {
+   "text": "saya yakin sistem perekonomian yang kita jalankan berada pada trajektori yang tidak tepat.",
+   "start": 2104.0,
+   "duration": 11
+  },
+  {
+   "text": "Mungkin perbedaan kita dengan negara-negara seperti Meksiko, seperti India, Filipina dan lain sebagainya adalah perbedaan sistemik.",
+   "start": 2115.0,
+   "duration": 12
+  },
+  {
+   "text": "Kita harus lihat fakta.",
+   "start": 2127.0,
+   "duration": 3
+  },
+  {
+   "text": "Fakta kalau kita teruskan yang seperti ini, kalau kita teruskan sistem seperti",
+   "start": 2130.0,
+   "duration": 7
+  },
+  {
+   "text": "ini untuk sekian tahun lagi, saya yakin bahwa tidak mungkin kita jadi bangsa",
+   "start": 2137.0,
+   "duration": 8
+  },
+  {
+   "text": "yang makmur. Tidak mungkin kita jadi tanpa kemakmuran kita tidak mungkin bisa menjaga kedaulatan kita.",
+   "start": 2145.0,
+   "duration": 8
+  },
+  {
+   "text": "bahwa kemungkinan besar kita akan menjadi bangsa yang lemah, bangsa yang selalu takut.",
+   "start": 2153.0,
+   "duration": 12
+  },
+  {
+   "text": "Takut kursus dolar, takut BBM enggak cukup,",
+   "start": 2165.0,
+   "duration": 6
+  },
+  {
+   "text": "takut ini, takut itu. Bangsa yang takut, bangsa yang elitnya takut.",
+   "start": 2171.0,
+   "duration": 7
+  },
+  {
+   "text": "Padahal kita diberi karunia yang luar biasa oleh maha kuasa.",
+   "start": 2178.0,
+   "duration": 7
+  },
+  {
+   "text": "Fakta juga telah menunjukkan bahwa telah terjadi mengalir keluarnya",
+   "start": 2185.0,
+   "duration": 6
+  },
+  {
+   "text": "kekayaan kita sejak lama bahkan sejak Orde Baru.",
+   "start": 2191.0,
+   "duration": 10
+  },
+  {
+   "text": "Kalau kita melihat masa tahun '50-an masa pemerintahan Bung Karno,",
+   "start": 2201.0,
+   "duration": 8
+  },
+  {
+   "text": "sekali lagi saya bukan membela Bung Karno ya.",
+   "start": 2209.0,
+   "duration": 6
+  },
+  {
+   "text": "Walaupun Bung Karno memang milik bangsa, ya. Ini harus saya sampaikan juga Bung Karno milik bangsa.",
+   "start": 2215.0,
+   "duration": 9
+  },
+  {
+   "text": "Tapi kita tidak bisa menilai tahun 50 sampai tahun 60-an Indonesia di",
+   "start": 2224.0,
+   "duration": 9
+  },
+  {
+   "text": "disibukkan oleh intervensi asing. Pemberontakan demi pemberontakan demi pemberontakan.",
+   "start": 2233.0,
+   "duration": 10
+  },
+  {
+   "text": "Tidak mungkin kita bangun ekonomi kita.",
+   "start": 2243.0,
+   "duration": 3
+  },
+  {
+   "text": "Di awal orde baru pun kita di kacaukan oleh banyak masalah.",
+   "start": 2246.0,
+   "duration": 6
+  },
+  {
+   "text": "Tapi alhamdulillah kita telah bangun ekonomi kita.",
+   "start": 2252.0,
+   "duration": 4
+  },
+  {
+   "text": "Tapi apa yang kita ketemukan setelah berapa puluh tahun terjadi apa yang saya namakan outflow of",
+   "start": 2256.0,
+   "duration": 9
+  },
+  {
+   "text": "national wealth, Saudara-saudara sekalian. Bahwa negara kita tidak pernah rugi. 1 tahun pun kita",
+   "start": 2265.0,
+   "duration": 9
+  },
+  {
+   "text": "tidak pernah rugi. Ekspor kita selalu lebih daripada impor kita.",
+   "start": 2274.0,
+   "duration": 6
+  },
+  {
+   "text": "Kalau ilmu dagang, berarti yang kita jual adalah lebih banyak dari yang kita beli. Harusnya negara ini tidak pernah akan mengalami krisis ekonomi.",
+   "start": 2280.0,
+   "duration": 11
+  },
+  {
+   "text": "Tapi apa yang terjadi? Yang terjadi adalah keuntungan kita",
+   "start": 2291.0,
+   "duration": 7
+  },
+  {
+   "text": "yang selama 22 tahun adalah 436 miliar dolar yang keluar adalah 343 miliar.",
+   "start": 2298.0,
+   "duration": 11
+  },
+  {
+   "text": "dolar. Ini angka-angka dari PBB.",
+   "start": 2309.0,
+   "duration": 10
+  },
+  {
+   "text": "Berarti selama 22 tahun kekayaan kita yang tinggal di Indonesia adalah 436 miliar dikurangi 343 miliar.",
+   "start": 2319.0,
+   "duration": 17
+  },
+  {
+   "text": "Saudara-saudara sekalian, ini yang yang sebabnya gaji-gaji guru kecil,",
+   "start": 2336.0,
+   "duration": 9
+  },
+  {
+   "text": "gaji-gaji aparat penegak hukum kecil, gaji-gaji kecil.",
+   "start": 2345.0,
+   "duration": 7
+  },
+  {
+   "text": "Ini yang selalu anggaran tidak cukup, anggaran tidak kuat dan sebagainya.",
+   "start": 2352.0,
+   "duration": 10
+  },
+  {
+   "text": "Selama 34 tahun apa yang terjadi?",
+   "start": 2362.0,
+   "duration": 3
+  },
+  {
+   "text": "Yang terjadi adalah apa yang disebut undervoicing.",
+   "start": 2365.0,
+   "duration": 7
+  },
+  {
+   "text": "Underinvoicing adalah sebenarnya fraud atau penipuan",
+   "start": 2372.0,
+   "duration": 8
+  },
+  {
+   "text": "yang mereka jual yang dijual oleh pengusaha-pengusaha tidak dilaporkan yang sebenarnya.",
+   "start": 2380.0,
+   "duration": 9
+  },
+  {
+   "text": "Banyak di antara mereka membuat perusahaan di luar negeri. Dia jual dari perusahaan dia di dalam negeri ke perusahaan dia di luar negeri yang",
+   "start": 2389.0,
+   "duration": 8
+  },
+  {
+   "text": "harganya jauh di bawah harga yang sebenarnya.",
+   "start": 2397.0,
+   "duration": 6
+  },
+  {
+   "text": "Ini yang terjadi. Sekali lagi ini adalah data dari PBB.",
+   "start": 2403.0,
+   "duration": 6
+  },
+  {
+   "text": "Karena begini, katakanlah kita bisa bohong di pelabuhan Indonesia, kita bisa",
+   "start": 2409.0,
+   "duration": 6
+  },
+  {
+   "text": "bohong di negara kita, kita kirim 10.000 ton batu barat, kita hanya laporkan",
+   "start": 2415.0,
+   "duration": 9
+  },
+  {
+   "text": "5.000 ton. Bisa di Indonesia, di sana tidak bisa. Di sana dicatat.",
+   "start": 2424.0,
+   "duration": 7
+  },
+  {
+   "text": "Itu terjadi pada kelapa sawit itu terjadi hampir semua komoditas.",
+   "start": 2431.0,
+   "duration": 8
+  },
+  {
+   "text": "Itu adalah penipuan di atas kertas. Ada lagi penyeludupan.",
+   "start": 2439.0,
+   "duration": 7
+  },
+  {
+   "text": "Ada lagi penyedupan melalui pelabuhan.",
+   "start": 2446.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita harus berani mengatakan yang merah-merah, yang putih-putih. Kita harus berani mengatakan apaadanya.",
+   "start": 2454.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita harus perbaiki lembaga-lembaga pemerintah kita.",
+   "start": 2462.0,
+   "duration": 4
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 2466.0,
+   "duration": 8
+  },
+  {
+   "text": "B cuki harus kita perbaiki.",
+   "start": 2474.0,
+   "duration": 3
+  },
+  {
+   "text": "Saya masih ingat di zaman Orde Baru saking parahnya bia cuk, kita tutup bia cukai, kita outsourcing ke swasta",
+   "start": 2477.0,
+   "duration": 9
+  },
+  {
+   "text": "dan penghasilan negara naik. Apa enggak sedih itu?",
+   "start": 2486.0,
+   "duration": 12
+  },
+  {
+   "text": "Ini perjuangan kita semua ya. Saya bukan mau jatuhkan Mu siapapun, tapi sudah saatnya kita bicara jujur kepada diri",
+   "start": 2498.0,
+   "duration": 9
+  },
+  {
+   "text": "kita. Kita bicara jujur kepada rakyat kita,",
+   "start": 2507.0,
+   "duration": 5
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 2512.0,
+   "duration": 6
+  },
+  {
+   "text": "Saudara-saudara sekalian. Coba ditayangkan lagi slide.",
+   "start": 2518.0,
+   "duration": 9
+  },
+  {
+   "text": "900 miliar dolar kita hilang.",
+   "start": 2527.0,
+   "duration": 5
+  },
+  {
+   "text": "Bayangkan kalau 900 miliar dolar kita nikmati, kita pakai negara apa Indonesia ini, Saudara sekalian.",
+   "start": 2532.0,
+   "duration": 11
+  },
+  {
+   "text": "Ada under invoicing, ada undering, ada transfer pricing, Saudara-saudara.",
+   "start": 2543.0,
+   "duration": 8
+  },
+  {
+   "text": "Banyak di antara kalian senyum, mungkin di antara kalian ada pengusaha-pengusaha juga di ruangan ini. berarti tahu apa",
+   "start": 2551.0,
+   "duration": 7
+  },
+  {
+   "text": "yang saya bicara itu keadaan yang sebenarnya, Saudara-saudara sekalian, kita sudah hitung, kita sudah pakai",
+   "start": 2558.0,
+   "duration": 7
+  },
+  {
+   "text": "random, kita tahu bahwa perbedaan antara yang dilaporkan yang tidak dilaporkan",
+   "start": 2565.0,
+   "duration": 7
+  },
+  {
+   "text": "itu sering mencapai 50%.",
+   "start": 2572.0,
+   "duration": 6
+  },
+  {
+   "text": "yang dilaporkan adalah 50% dari keadaan yang sebenarnya, Saudara-saudara sekalian.",
+   "start": 2578.0,
+   "duration": 10
+  },
+  {
+   "text": "Dan kita merasa aneh, kita produsen kelapa sawit terbesar di dunia, tapi harga kelapa sawit ditentukan di negara lain.",
+   "start": 2588.0,
+   "duration": 10
+  },
+  {
+   "text": "Saya mengatakan kepada menteri-menteri saya, ini tidak boleh terjadi. Saya tidak mau kelapa sawit kita harganya",
+   "start": 2598.0,
+   "duration": 8
+  },
+  {
+   "text": "ditentukan. oleh bangsa lain. Kita tentukan harga kita.",
+   "start": 2606.0,
+   "duration": 6
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 2612.0,
+   "duration": 2
+  },
+  {
+   "text": "Dan kalau mereka enggak mau beli pakai harga kita, ya enggak usah beli. Kita pakai kelapa sawit kita sendiri, Saudara-saudara sekalian.",
+   "start": 2614.0,
+   "duration": 11
+  },
+  {
+   "text": "Kenapa nikel kita ditentukan harganya oleh negara lain? Tidak boleh.",
+   "start": 2625.0,
+   "duration": 6
+  },
+  {
+   "text": "Saya instruksikan kabinet saya rumuskan harga nikel, harga",
+   "start": 2631.0,
+   "duration": 7
+  },
+  {
+   "text": "mas, harga semua tambang kita, harga semua komunitas harus ditentukan di negara kita sendiri.",
+   "start": 2638.0,
+   "duration": 10
+  },
+  {
+   "text": "Dan kalau mereka mau beli ya enggak apa-apa. Biar raja itu di bawah tanah untuk cucu kita nanti",
+   "start": 2648.0,
+   "duration": 7
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 2655.0,
+   "duration": 2
+  },
+  {
+   "text": "daripada kita jual murah, Saudara-saudara sekalian.",
+   "start": 2657.0,
+   "duration": 4
+  },
+  {
+   "text": "Saya minta dukungan majelis ini. Marilah bersama-sama.",
+   "start": 2661.0,
+   "duration": 5
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 2666.0,
+   "duration": 6
+  },
+  {
+   "text": "Hm. Sepertinya saya lebih marhin daripada banyak kekuatan di Saudara-saudara sekalian. Karena",
+   "start": 2672.0,
+   "duration": 8
+  },
+  {
+   "text": "generasi itu mengerti apa arti penjajahan.",
+   "start": 2680.0,
+   "duration": 5
+  },
+  {
+   "text": "Saudara sekalian, di mimbar ini saya ingin saya ingin ingatkan kembali bunyi dari pasal 33.",
+   "start": 2685.0,
+   "duration": 9
+  },
+  {
+   "text": "Ayat pertama dari pasal 33. Perekonomian disusun sebagai usaha bersama berdasar atas azas kekeluargaan.",
+   "start": 2694.0,
+   "duration": 12
+  },
+  {
+   "text": "Tidak ada kata-kata azas-azas lain. Azas kapitalisme neoliberal.",
+   "start": 2706.0,
+   "duration": 8
+  },
+  {
+   "text": "azas konglomerasi, azas yang sekaya boleh sekaya kayanya",
+   "start": 2714.0,
+   "duration": 9
+  },
+  {
+   "text": "yang miskin salahnya orang miskin itu bukan falsafah Pancasila.",
+   "start": 2723.0,
+   "duration": 6
+  },
+  {
+   "text": "Ayat kedua, cabang-cabang produksi yang penting bagian yang menguasai hajat hidup orang banyak dikuasai oleh negara.",
+   "start": 2729.0,
+   "duration": 10
+  },
+  {
+   "text": "Ayat ketiga, bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.",
+   "start": 2739.0,
+   "duration": 12
+  },
+  {
+   "text": "Ayat keempat.",
+   "start": 2751.0,
+   "duration": 2
+  },
+  {
+   "text": "Perekonomian nasional diselenggarakan berdasar atas demokrasi ekonomi.",
+   "start": 2753.0,
+   "duration": 8
+  },
+  {
+   "text": "Artinya kalau demokrasi ekonomi rakyat banyak, rakyat semuanya harus menikmati",
+   "start": 2761.0,
+   "duration": 9
+  },
+  {
+   "text": "ekonomi kita, Saudara-saudara,",
+   "start": 2770.0,
+   "duration": 2
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 2772.0,
+   "duration": 2
+  },
+  {
+   "text": "dengan prinsip kebersamaan, efisiensi berkeadilan,",
+   "start": 2774.0,
+   "duration": 7
+  },
+  {
+   "text": "berkelanjutan, berwawasan lingkungan, kemandirian, mandiri berdiri di atas kaki kita sendiri.",
+   "start": 2781.0,
+   "duration": 11
+  },
+  {
+   "text": "dan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional.",
+   "start": 2792.0,
+   "duration": 8
+  },
+  {
+   "text": "Saudara-saudara sekalian, saya rasa bahasa Indonesia yang digunakan oleh para pendiri bangsa kita",
+   "start": 2800.0,
+   "duration": 9
+  },
+  {
+   "text": "sangat jelas. Tidak perlu kita cari tafsiran-tafsiran yang macam-macam. Ini adalah cetak biru ekonomi kita, Saudara-saudara sekalian.",
+   "start": 2809.0,
+   "duration": 12
+  },
+  {
+   "text": "Manakala kita menyimpang cetak biru ini, ya jangan salahkan siapa-siapa, kecuali",
+   "start": 2821.0,
+   "duration": 7
+  },
+  {
+   "text": "diri kita sendiri yang tidak mau menerima titipan amanah dari pendiri-pendiri bangsa kita.",
+   "start": 2828.0,
+   "duration": 12
+  },
+  {
+   "text": "Seb seberapa jauhkah telah kita menyimpang dari cetak biru perekonomian kita sendiri?",
+   "start": 2840.0,
+   "duration": 7
+  },
+  {
+   "text": "mungkin harus kita bahas di tempat dan waktu yang terpisah.",
+   "start": 2847.0,
+   "duration": 5
+  },
+  {
+   "text": "Tapi saya berkeyakinan kalau kita jalankan pasal 33 secara konsekuen,",
+   "start": 2852.0,
+   "duration": 7
+  },
+  {
+   "text": "kita akan terhindar dari praktik-praktik under invoicing, undercounting",
+   "start": 2859.0,
+   "duration": 8
+  },
+  {
+   "text": "dan sebagainya. pemalsuan atas tonase dan kualitas produk yang diekspor, praktik-praktik fraud terhadap bangsa",
+   "start": 2867.0,
+   "duration": 10
+  },
+  {
+   "text": "dan negara kita, serta praktik-praktik tambang ilegal, hutan ilegal, kebun-kebun ilegal.",
+   "start": 2877.0,
+   "duration": 11
+  },
+  {
+   "text": "Saudara-saudara, bagaimana bisa ada orang yang tambang di hutan lindung bertahun-tahun?",
+   "start": 2888.0,
+   "duration": 11
+  },
+  {
+   "text": "dan tidak ada yang berani untuk menegakkan hukum.",
+   "start": 2899.0,
+   "duration": 6
+  },
+  {
+   "text": "Saudara-saudara, kita perhitungkan, kita perkirakan potensi uang yang bisa kita selamatkan dari",
+   "start": 2905.0,
+   "duration": 8
+  },
+  {
+   "text": "kebocoran-kebocoran itu adalah 150 miliar dolar 1 tahun.",
+   "start": 2913.0,
+   "duration": 6
+  },
+  {
+   "text": "Potensi apa kita mampu atau tidak tergantung.",
+   "start": 2919.0,
+   "duration": 6
+  },
+  {
+   "text": "tergantung keberanian kita, tergantung tekad kita, tergantung apa kita bisa bekerja sama dengan baik atau tidak.",
+   "start": 2925.0,
+   "duration": 12
+  },
+  {
+   "text": "Karena itu saya selalu sampaikan dari awal saya menjabat sebagai Presiden Republik Indonesia, kita harus",
+   "start": 2937.0,
+   "duration": 6
+  },
+  {
+   "text": "bersama-sama berani mencari solusi dan berani bertindak.",
+   "start": 2943.0,
+   "duration": 7
+  },
+  {
+   "text": "Saya berkeyakinan akar masalah ekonomi bangsa kita adalah bocornya kekayaan kita, tidak tinggalnya kekayaan kita di",
+   "start": 2950.0,
+   "duration": 7
+  },
+  {
+   "text": "Republik Indonesia ini harus berani kita hadapi dan berani kita selesaikan.",
+   "start": 2957.0,
+   "duration": 7
+  },
+  {
+   "text": "Untuk itu saya di hadapan majelis yang terhormat ini, di hadapan seluruh rakyat Indonesia,",
+   "start": 2964.0,
+   "duration": 8
+  },
+  {
+   "text": "saya ingatkan bahwa saya pernah disumpah di sini untuk menjalankan Undang-Undang Dasar 1945.",
+   "start": 2972.0,
+   "duration": 7
+  },
+  {
+   "text": "dengan segala perundang-undangan yang berlaku.",
+   "start": 2979.0,
+   "duration": 4
+  },
+  {
+   "text": "Dan saudara-saudara sekalian, kita paham dan mengerti bahwa kalau kita terus mengulangi",
+   "start": 2983.0,
+   "duration": 9
+  },
+  {
+   "text": "kesalahan yang sama, janganlah kita bisa berharap mendapat hasil yang lebih baik.",
+   "start": 2992.0,
+   "duration": 7
+  },
+  {
+   "text": "Untuk itu, untuk mencapai tujuan bernegara kita hari ini,",
+   "start": 2999.0,
+   "duration": 7
+  },
+  {
+   "text": "pemerintah Republik Indonesia yang saya pimpin menerbitkan peraturan pemerintah",
+   "start": 3006.0,
+   "duration": 8
+  },
+  {
+   "text": "tentang tata kelola ekspor komoditas sumber daya alam.",
+   "start": 3014.0,
+   "duration": 5
+  },
+  {
+   "text": "Penertiban penerbitan peraturan ini, peraturan pemerintah ini adalah langkah strategis",
+   "start": 3019.0,
+   "duration": 9
+  },
+  {
+   "text": "untuk memperkuat tata kelola ekspor komunitas sumber daya alam kita.",
+   "start": 3028.0,
+   "duration": 8
+  },
+  {
+   "text": "Penjualan semua hasil sumber daya alam kita.",
+   "start": 3036.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita mulai dengan minyak kelapa sawit, batu bara dan paduan besi feru alloyis.",
+   "start": 3041.0,
+   "duration": 8
+  },
+  {
+   "text": "kita wajibkan harus dilakukan penjualannya melalui BUMN yang ditunjuk",
+   "start": 3049.0,
+   "duration": 7
+  },
+  {
+   "text": "oleh Pemerintah Republik Indonesia sebagai pengekspor tunggal.",
+   "start": 3056.0,
+   "duration": 7
+  },
+  {
+   "text": "Dalam artian hasil dari setiap penjualan ekspor akan diteruskan oleh BUMN yang ditunjuk oleh pemerintah kepada pelaku usaha pengelola kegiatan tersebut.",
+   "start": 3063.0,
+   "duration": 12
+  },
+  {
+   "text": "ini bisa dikatakan sebagai marketing marketing facility.",
+   "start": 3075.0,
+   "duration": 6
+  },
+  {
+   "text": "Tujuan utama kebijakan ini adalah memperkuat pengawasan dan monitoring serta memberantas praktik kurang bayar",
+   "start": 3081.0,
+   "duration": 10
+  },
+  {
+   "text": "under invoicing, praktik pemindahan harga transfer pricing, dan pelarian devisa hasil ekspor.",
+   "start": 3091.0,
+   "duration": 11
+  },
+  {
+   "text": "Saudara-saudara sekalian, kebijakan ini akan optimalkan penerimaan pajak dan penerimaan negara atas pengelolaan dan",
+   "start": 3102.0,
+   "duration": 9
+  },
+  {
+   "text": "penjualan sumber daya alam kita. Dengan kebijakan ini, kita berharap bahwa penerimaan kita bisa",
+   "start": 3111.0,
+   "duration": 10
+  },
+  {
+   "text": "seperti Meksiko, seperti Filipina, seperti negara-negara tetangga kita.",
+   "start": 3121.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita tidak mau penerimaan kita paling rendah karena kita tidak berani mengelola milik kita sendiri, milik bangsa Indonesia sendiri.",
+   "start": 3126.0,
+   "duration": 10
+  },
+  {
+   "text": "Saudara-saudara sekalian, [tepuk tangan] sesungguhnya",
+   "start": 3136.0,
+   "duration": 7
+  },
+  {
+   "text": "kita harus percaya bahwa semua sumber daya alam Indonesia",
+   "start": 3143.0,
+   "duration": 7
+  },
+  {
+   "text": "adalah milik rakyat Indonesia, milik bangsa Indonesia.",
+   "start": 3150.0,
+   "duration": 6
+  },
+  {
+   "text": "Karena itu negara berhak mengetahui secara rinci sumber daya alam kita yang",
+   "start": 3156.0,
+   "duration": 7
+  },
+  {
+   "text": "dijual ke luar Indonesia. Kita kita tidak mau dibohongi lagi. Kita mau tahu persis berapa kekayaan kita yang dijual.",
+   "start": 3163.0,
+   "duration": 17
+  },
+  {
+   "text": "Saya percaya dan yakin setiap warga negara apalagi pemimpin-pemimpin seperti yang ada di",
+   "start": 3180.0,
+   "duration": 8
+  },
+  {
+   "text": "majelis ini, saya percaya setiap pemimpin yang punya akal sehat,",
+   "start": 3188.0,
+   "duration": 8
+  },
+  {
+   "text": "yang punya kecerdasan, yang punya hati nurani, yang punya rasa cinta tanah air, saya yakin dan percaya",
+   "start": 3196.0,
+   "duration": 9
+  },
+  {
+   "text": "yang tidak akan mengizinkan kekayaan alam kita terus dikelola tanpa",
+   "start": 3205.0,
+   "duration": 9
+  },
+  {
+   "text": "pengawasan, tanpa kendali. Sudah terlalu lama, Saudara-saudara sekalian,",
+   "start": 3214.0,
+   "duration": 5
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 3219.0,
+   "duration": 2
+  },
+  {
+   "text": "kebijakan ini telah banyak dijalankan oleh negara-negara lain yang benar-benar",
+   "start": 3221.0,
+   "duration": 7
+  },
+  {
+   "text": "menguasai kekayaan sumber daya alam mereka.",
+   "start": 3228.0,
+   "duration": 7
+  },
+  {
+   "text": "Kita harus lihat dan belajar dari Saudi Arabia, dari Qatar, dari Rusia, dari Aljazair, dari Kuwait, dari Maroko, dari",
+   "start": 3235.0,
+   "duration": 10
+  },
+  {
+   "text": "Ghana, bahkan dari tetangga kita Malaysia dan Vietnam.",
+   "start": 3245.0,
+   "duration": 7
+  },
+  {
+   "text": "Kita tidak boleh naif, kita tidak boleh dugu, kita tidak boleh tidak menggunakan akal sehat kita.",
+   "start": 3252.0,
+   "duration": 12
+  },
+  {
+   "text": "Kita harus belajar dari negara-negara seperti ini. Mereka telah mampu mengelola kekayaan sumber daya alam mereka untuk kepentingan rakyat mereka.",
+   "start": 3264.0,
+   "duration": 12
+  },
+  {
+   "text": "Mereka berhasil menyelenggarakan pendidikan yang terbaik yang tidak kalah dengan pendidikan negara-negara industri maju.",
+   "start": 3276.0,
+   "duration": 10
+  },
+  {
+   "text": "Mereka punya layanan kesehatan juga yang baik, infrastruktur yang modern, sovereign well wealth fund class dunia.",
+   "start": 3286.0,
+   "duration": 9
+  },
+  {
+   "text": "Kita tidak boleh malu belajar dari negara-negara yang sudah lama mampu memanfaatkan sumber daya alam mereka",
+   "start": 3295.0,
+   "duration": 8
+  },
+  {
+   "text": "untuk sebesar-besarnya kemakmuran rakyat mereka.",
+   "start": 3303.0,
+   "duration": 6
+  },
+  {
+   "text": "Karena itu saya tegaskan apa yang dilakukan oleh pemerintah Indonesia hari ini bukan",
+   "start": 3309.0,
+   "duration": 7
+  },
+  {
+   "text": "kebijakan yang aneh-aneh, bukan kebijakan luar biasa. Ini adalah praktik yang sudah",
+   "start": 3316.0,
+   "duration": 9
+  },
+  {
+   "text": "dilakukan banyak negara. Ini adalah kebijakan akal sehat. Sumber daya alam milik kita.",
+   "start": 3325.0,
+   "duration": 8
+  },
+  {
+   "text": "kita yang harus pertentukan ke mana sumber alam ini dijual. Kita harus menentukan berapa harga yang layak.",
+   "start": 3333.0,
+   "duration": 12
+  },
+  {
+   "text": "Kita tidak mau selalu menjadi korban dan selalu harus terima perlakuan tidak adil terhadap bangsa",
+   "start": 3345.0,
+   "duration": 9
+  },
+  {
+   "text": "kita. Cukup sudah saya katakan di sini Indonesia sekarang berdiri di atas kaki kita sendiri.",
+   "start": 3354.0,
+   "duration": 8
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 3362.0,
+   "duration": 2
+  },
+  {
+   "text": "Sejalan dengan itu, pemerintah yang saya pimpin juga hari ini memperkuat kebijakan devisa hasil ekspor",
+   "start": 3364.0,
+   "duration": 10
+  },
+  {
+   "text": "melalui peraturan pemerintah devisa hasil ekspor dari kegiatan pengusahaan, pengelolaan, dan pengolahan sumber daya alam.",
+   "start": 3374.0,
+   "duration": 11
+  },
+  {
+   "text": "Kebijakan ini bertujuan untuk memastikan kontribusi pelaku usaha sektor sumber daya alam dapat dioptimalkan",
+   "start": 3385.0,
+   "duration": 8
+  },
+  {
+   "text": "sekali lagi guna sebesar-besar kemakmuran rakyat.",
+   "start": 3393.0,
+   "duration": 10
+  },
+  {
+   "text": "Sekali lagi bumi, air dan semua hasil sumber daya alam Indonesia adalah milik kita, milik rakyat dan bangsa Indonesia.",
+   "start": 3403.0,
+   "duration": 8
+  },
+  {
+   "text": "dalam usaha kita memperbaiki kelemahan-kelemahan dalam sistem tata kelola kita. Saya minta saudara-saudara",
+   "start": 3411.0,
+   "duration": 7
+  },
+  {
+   "text": "sekalian untuk tidak berkesimpulan bahwa Indonesia tidak perlu suatu",
+   "start": 3418.0,
+   "duration": 7
+  },
+  {
+   "text": "perekonomian di mana sektor swasta memainkan peran yang besar. Justru kita perlu sektor swasta. Kita perlu",
+   "start": 3425.0,
+   "duration": 9
+  },
+  {
+   "text": "mendukung peran sektor swasta. Kita butuh sektor swasta yang dinamis.",
+   "start": 3434.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita perlu pengusaha-pengusaha yang penuh dengan inovasi, penuh dengan",
+   "start": 3439.0,
+   "duration": 7
+  },
+  {
+   "text": "inisiatif, penuh dengan inovasi, dan yang memiliki kemampuan manajerial yang",
+   "start": 3446.0,
+   "duration": 7
+  },
+  {
+   "text": "baik dan handal. Justru saya selalu mengatakan bahwa perekonomi kita yang kita sebut sebagai ekonomi Pancasila",
+   "start": 3453.0,
+   "duration": 8
+  },
+  {
+   "text": "atau ekonomi jalan tengah atau istilah yang lebih populer dari dalam perkembangan perekonomian dunia, kita harus bangun Indonesia Incorporated.",
+   "start": 3461.0,
+   "duration": 13
+  },
+  {
+   "text": "Perekonomian, kekeluargaan, semua bergotong-royong. Itu arti gotong-royong yang kuat, maju.",
+   "start": 3474.0,
+   "duration": 10
+  },
+  {
+   "text": "menarik yang lemah, yang lemah berhimpun melaksanakan usaha bersama dalam bentuk-bentuk koperasi.",
+   "start": 3484.0,
+   "duration": 12
+  },
+  {
+   "text": "Tidak boleh yang kaya menang sendiri dan membiarkan yang lemah terlantar.",
+   "start": 3496.0,
+   "duration": 9
+  },
+  {
+   "text": "Justru kita maksudkan bahwa ekonomi yang cocok untuk Indonesia adalah ekonomi jalan tengah. ekonomi yang berani",
+   "start": 3505.0,
+   "duration": 8
+  },
+  {
+   "text": "mengambil yang terbaik dari sosialisme dan yang terbaik dari kapitalisme.",
+   "start": 3513.0,
+   "duration": 7
+  },
+  {
+   "text": "Kita butuh peran negara, kita butuh perlindungan negara, kita butuh pengawasan, dan kita butuh",
+   "start": 3520.0,
+   "duration": 8
+  },
+  {
+   "text": "keberpihakan dari negara untuk menjamin keadilan dan pemerataan.",
+   "start": 3528.0,
+   "duration": 8
+  },
+  {
+   "text": "Tapi kita juga perlu yang terbaik dari mekanisme pasar.",
+   "start": 3536.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita butuh yang terbaik dari ekonomi pasar bebas yang saya sebut tadi inisiatif inovasi",
+   "start": 3541.0,
+   "duration": 10
+  },
+  {
+   "text": "persaingan, keberanian mengambil risiko manajerial yang baik.",
+   "start": 3551.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita harus menumbuhkan golongan pengusaha yang baru, yang muda-muda.",
+   "start": 3557.0,
+   "duration": 6
+  },
+  {
+   "text": "Untuk itu, pemerintah ingin membuka pendidikan-pendidikan kewirausaha, pendidikan entrepreneurship.",
+   "start": 3563.0,
+   "duration": 9
+  },
+  {
+   "text": "Kita ingin anak-anak muda jangan semua minta jadi ASN, jangan semua minta jadi",
+   "start": 3572.0,
+   "duration": 7
+  },
+  {
+   "text": "pemerintah, tapi harus berani untuk bersaing dengan dunia usaha lain. Dan",
+   "start": 3579.0,
+   "duration": 7
+  },
+  {
+   "text": "kita harus bantu. Kita punya anak-anak muda yang hebat-hebat.",
+   "start": 3586.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita punya banyak ribuan anak-anak yang hebat-hebat. ini yang sedang kita godok bersama",
+   "start": 3591.0,
+   "duration": 8
+  },
+  {
+   "text": "untuk kita beri tidak hanya pendidikan entrepreneurship. Begitu dia selesai, kita juga harus memberi kredit start up.",
+   "start": 3599.0,
+   "duration": 11
+  },
+  {
+   "text": "Kita harus dorong mereka, memberi kesempatan mereka untuk tumbuh jadi pengusaha-pengusaha",
+   "start": 3610.0,
+   "duration": 8
+  },
+  {
+   "text": "yang kuat, pengusaha-pengusaha yang baru.",
+   "start": 3618.0,
+   "duration": 6
+  },
+  {
+   "text": "Demokrasi ekonomi artinya janganlah yang itu saja.",
+   "start": 3624.0,
+   "duration": 8
+  },
+  {
+   "text": "Ya, saya minta bank-bank Himbara cobalah",
+   "start": 3632.0,
+   "duration": 6
+  },
+  {
+   "text": "menjadi bank yang patriotik ya. Jangan dia lagi, dia lagi ya kan.",
+   "start": 3638.0,
+   "duration": 9
+  },
+  {
+   "text": "Yang dikasih kredit orang yang sudah kaya.",
+   "start": 3647.0,
+   "duration": 3
+  },
+  {
+   "text": "Kalau dia sudah lama terima kredit dari pemerintah, ya sudah berjuang dong.",
+   "start": 3650.0,
+   "duration": 5
+  },
+  {
+   "text": "Masa terus-menerus dikasih kepada mereka ya.",
+   "start": 3655.0,
+   "duration": 5
+  },
+  {
+   "text": "Kemudian orang miskin, orang kaya disuruh bayar bunga lebih tinggi daripada pengusaha besar. Ini saya kira",
+   "start": 3660.0,
+   "duration": 8
+  },
+  {
+   "text": "sudah di luar akal sehat. Saya perintahkan bank-bank pemerintah rubah turunkan bunga-bunga untuk rakyat miskin, Saudara-saudara sekalian.",
+   "start": 3668.0,
+   "duration": 10
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 3678.0,
+   "duration": 7
+  },
+  {
+   "text": "harusnya yang besar-besar dengan kekuatan mereka dia bisa dapat financing dari mana-mana. Kan harusnya",
+   "start": 3685.0,
+   "duration": 9
+  },
+  {
+   "text": "begitu, Saudara-saudara sekalian.",
+   "start": 3694.0,
+   "duration": 9
+  },
+  {
+   "text": "Tapi sebaliknya, kita tidak boleh merasa bahwa negara akan berbuat semuanya.",
+   "start": 3703.0,
+   "duration": 9
+  },
+  {
+   "text": "Kita tidak ingin, kita ingin justru menemukan peran swasta yang lebih besar. Tapi besar tapi benar.",
+   "start": 3712.0,
+   "duration": 12
+  },
+  {
+   "text": "Jangan besar tidak benar.",
+   "start": 3724.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita juga harus mengakui prestasi banyak perusahaan-perusahaan kita yang bisa bersaing di tingkat global.",
+   "start": 3729.0,
+   "duration": 10
+  },
+  {
+   "text": "Bagaimanapun perusahaan seperti Indofood sudah dipasarkan di seluruh dunia.",
+   "start": 3739.0,
+   "duration": 5
+  },
+  {
+   "text": "Kalau saya ke Eropa, banyak orang Eropa nyarinya Indomie.",
+   "start": 3744.0,
+   "duration": 7
+  },
+  {
+   "text": "Bahkan banyak negara Afrika menganggap itu produk mereka.",
+   "start": 3751.0,
+   "duration": 5
+  },
+  {
+   "text": "juga perusahaan seperti Mayora berhasil memasarkan Kopiko di lebih dari 100",
+   "start": 3756.0,
+   "duration": 7
+  },
+  {
+   "text": "negara karena mereka memiliki brand ambassador, presidennya juga mendorong minum kopi di mana-mana.",
+   "start": 3763.0,
+   "duration": 12
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 3775.0,
+   "duration": 9
+  },
+  {
+   "text": "Tapi saya paham, saya paham, saya paham.",
+   "start": 3784.0,
+   "duration": 5
+  },
+  {
+   "text": "Panitia penyelenggara DPR tahu kalau Oh, ada, ada, Pak. Ada, Pak.",
+   "start": 3789.0,
+   "duration": 9
+  },
+  {
+   "text": "Ada, Pak.",
+   "start": 3798.0,
+   "duration": 1
+  },
+  {
+   "text": "Saya mohon izin. Boleh saya minum? Ibu Ketua",
+   "start": 3799.0,
+   "duration": 14
+  },
+  {
+   "text": "Kopiko sedang presidennya peminum kopi",
+   "start": 3813.0,
+   "duration": 11
+  },
+  {
+   "text": "mayora kan sama kita harus dorong perusahaan-perusahaan swasta kita unggul.",
+   "start": 3824.0,
+   "duration": 13
+  },
+  {
+   "text": "Ada juga itu apa? S apa itu? S teler 77 I kan. Hah? Berapa?",
+   "start": 3837.0,
+   "duration": 13
+  },
+  {
+   "text": "Hah? 77 kan?",
+   "start": 3850.0,
+   "duration": 5
+  },
+  {
+   "text": "Kalau orang Gerinda enggak mau bikin saingannya. Steler 88.",
+   "start": 3855.0,
+   "duration": 9
+  },
+  {
+   "text": "Maaf, Ibu Ketua.",
+   "start": 3864.0,
+   "duration": 3
+  },
+  {
+   "text": "Supaya enggak ngantuk majelis ini. Saya hanya berhak atas Gerindra, ya.",
+   "start": 3867.0,
+   "duration": 8
+  },
+  {
+   "text": "Jadi, saya cek ada Gerindra yang tidur enggak, Saudara-saudara sekalian?",
+   "start": 3875.0,
+   "duration": 16
+  },
+  {
+   "text": "Justru pemerintah harus perbaiki semua institusi kita supaya ada iklim usaha yang baik.",
+   "start": 3891.0,
+   "duration": 10
+  },
+  {
+   "text": "Jangan pengusaha diperes terus. Jangan pengusaha diganggu.",
+   "start": 3901.0,
+   "duration": 7
+  },
+  {
+   "text": "Kalau Malaysia bisa bikin izin dalam 2 minggu, kenapa kita izinnya 2 tahun?",
+   "start": 3908.0,
+   "duration": 7
+  },
+  {
+   "text": "Memalukan.",
+   "start": 3915.0,
+   "duration": 3
+  },
+  {
+   "text": "Dan kita jangan banyak inisiatif. Sudah perintah presiden, perintah menteri di bawah bikin lagi dia diolah lagi.",
+   "start": 3918.0,
+   "duration": 11
+  },
+  {
+   "text": "Peraturan menterilah, peraturan teknislah, rekomendasilah,",
+   "start": 3929.0,
+   "duration": 10
+  },
+  {
+   "text": "akal-akalnya itu saya ingatkan ya, semua menteri tertibkan birokrasimu ke bawah.",
+   "start": 3939.0,
+   "duration": 7
+  },
+  {
+   "text": "[bersorak]",
+   "start": 3946.0,
+   "duration": 1
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 3947.0,
+   "duration": 6
+  },
+  {
+   "text": "waspada kalau birokrat-birokrat itu karena dia itu pengalamannya lama kok masuk keluar",
+   "start": 3953.0,
+   "duration": 8
+  },
+  {
+   "text": "kan tiap 5 tahun. Iya kan? Itu kalau enggak di shuffel ya.",
+   "start": 3961.0,
+   "duration": 7
+  },
+  {
+   "text": "Benar enggak? Mereka tuh lama. Nah, ciri khas birokrat yang dia akan minta tanda",
+   "start": 3968.0,
+   "duration": 6
+  },
+  {
+   "text": "tangan pada waktu jam 1730 sore. Kamu sudah capek, kamu sudah capek. Dia datang minta tanda tangan.",
+   "start": 3974.0,
+   "duration": 10
+  },
+  {
+   "text": "Benar.",
+   "start": 3984.0,
+   "duration": 1
+  },
+  {
+   "text": "Benar. Ini banyak dari Golkar yang senyum. Berarti pengalamannya banyak itu golcar banyak pengalaman ini soal ini",
+   "start": 3985.0,
+   "duration": 9
+  },
+  {
+   "text": "karena saya mantan golkar juga itu. So itu banyak mantan ketua umum Golkar di",
+   "start": 3994.0,
+   "duration": 7
+  },
+  {
+   "text": "situ tuh. Bahlil Hartarto mana Erangga itu.",
+   "start": 4001.0,
+   "duration": 7
+  },
+  {
+   "text": "Ahah. Ini mereka paling pengalaman itu minta tanda tangan sore kita sudah penat",
+   "start": 4008.0,
+   "duration": 9
+  },
+  {
+   "text": "capek eh lihatnya. Ah ini hati-hati tuh saudar.",
+   "start": 4017.0,
+   "duration": 8
+  },
+  {
+   "text": "Saudara-saudara sekalian pengusaha dan pemerintah harus kerja sama. Saya ingatkan buruh, jangan kau",
+   "start": 4025.0,
+   "duration": 8
+  },
+  {
+   "text": "minta aja terus. I kan pengusaha-pengusaha juga kerja keras, pusing juga. Mereka harus bayar kredit",
+   "start": 4033.0,
+   "duration": 8
+  },
+  {
+   "text": "ke bank ya. Tapi pemerintah ingin bekerja sama. Kita banyak memberi perlindungan sosial",
+   "start": 4041.0,
+   "duration": 9
+  },
+  {
+   "text": "supaya beban pengusaha juga tidak terlalu berat dan kita terbuka. Kalau ada pengusaha-pengusaha yang sulit,",
+   "start": 4050.0,
+   "duration": 7
+  },
+  {
+   "text": "laporkan kepada kita. Kalau dia minta penurunan tarif, ya kita bantu untuk sementara. Jangan terus-menerus minta",
+   "start": 4057.0,
+   "duration": 8
+  },
+  {
+   "text": "penurunan tarif pajak. Iya kan? Kita mengerti krisis dunia kita mengerti.",
+   "start": 4065.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita akan bantu. Ya, Saudara-saudara sekalian.",
+   "start": 4071.0,
+   "duration": 7
+  },
+  {
+   "text": "Bila kita bersatu, bila kita kerja sama seperti ini, pengusaha, swasta, pemerintah, UMKM, ya kan, pemerintah",
+   "start": 4078.0,
+   "duration": 7
+  },
+  {
+   "text": "pusat, pemerintah daerah, semuanya kita kerja sama, semuanya memiliki",
+   "start": 4085.0,
+   "duration": 7
+  },
+  {
+   "text": "rasa panggilan yang sama, kita akan menciptakan kemakmuran yang luar biasa.",
+   "start": 4092.0,
+   "duration": 8
+  },
+  {
+   "text": "Saudara-saudara sekalian, kita sudah buktikan di krisis yang bikin",
+   "start": 4100.0,
+   "duration": 6
+  },
+  {
+   "text": "panik banyak negara Indonesia masih tenang. Kita tidak kita tidak uforia, kita tidak sombong, kita tidak mau, tapi kita tenang.",
+   "start": 4106.0,
+   "duration": 12
+  },
+  {
+   "text": "Kita tenang. Kita punya kemampuan.",
+   "start": 4118.0,
+   "duration": 5
+  },
+  {
+   "text": "Saudara-saudara sekalian, pakar-pakar dunia, institusi-institusi dunia menaksir",
+   "start": 4123.0,
+   "duration": 9
+  },
+  {
+   "text": "pada tahun 2045 yang hanya 19 tahun lagi Indonesia akan menjadi ekonomi kelima bahkan keempat terbesar di dunia.",
+   "start": 4132.0,
+   "duration": 14
+  },
+  {
+   "text": "Ini bukan saya mengatakan. Saya sendiri tidak pernah bermimpi berharap",
+   "start": 4146.0,
+   "duration": 6
+  },
+  {
+   "text": "ya. Kita hanya ingin hidup layak tapi mereka mengatakan kita akan menjadi negara keempat, kelima. Bayangkan kita",
+   "start": 4152.0,
+   "duration": 10
+  },
+  {
+   "text": "akan menyalib Inggris, Perancis, Itali.",
+   "start": 4162.0,
+   "duration": 5
+  },
+  {
+   "text": "Saudara-saudara, saya kalau ke luar negeri sebagai Presiden Indonesia, saya sangat dihormati sekarang. Sangat dihormati.",
+   "start": 4167.0,
+   "duration": 8
+  },
+  {
+   "text": "Ya, bahkan mereka sekarang banyak negara minta bantuan ke kita. Mereka minta bantuan pupuk ke kita karena produksi pupuk kita lebih, Saudara-saudara.",
+   "start": 4175.0,
+   "duration": 10
+  },
+  {
+   "text": "Kita diminta bantuan oleh Australia.",
+   "start": 4185.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita berikan India, Brazil, Filipina.",
+   "start": 4190.0,
+   "duration": 8
+  },
+  {
+   "text": "Saudara-saudara bayangkan Indonesia sekarang bisa membantu negara-negara lebih kaya dari kita.",
+   "start": 4198.0,
+   "duration": 10
+  },
+  {
+   "text": "Ini jangan membuat kita sombong, tapi ini membuat kita harus lebih percaya diri.",
+   "start": 4208.0,
+   "duration": 7
+  },
+  {
+   "text": "Memang masih ada banyak kekurangan dan saya orang yang selalu mengajak, ayo kita berani menghadapi kekurangan kita,",
+   "start": 4215.0,
+   "duration": 9
+  },
+  {
+   "text": "kita berani menghadapi kesulitan. Kita berani menghadapi tantangan.",
+   "start": 4224.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita harus bisa atasi penyelewengan di ekonomi kita.",
+   "start": 4230.0,
+   "duration": 4
+  },
+  {
+   "text": "Kalau demikian, kita akan tumbuh luar biasa, Saudara-saudara sekalian.",
+   "start": 4234.0,
+   "duration": 7
+  },
+  {
+   "text": "Banyak yang sudah kita capai, Saudara-saudara.",
+   "start": 4241.0,
+   "duration": 8
+  },
+  {
+   "text": "Karena kita memang sudah antisipasi ketegangan dan krisis yang mungkin timbul. Karena kita telah diberi warning",
+   "start": 4249.0,
+   "duration": 9
+  },
+  {
+   "text": "dengan COVID. Kita baru mengerti dan sadar begitu ada krisis dunia,",
+   "start": 4258.0,
+   "duration": 7
+  },
+  {
+   "text": "negara-negara pengekspor pangan akan tutup.",
+   "start": 4265.0,
+   "duration": 5
+  },
+  {
+   "text": "Waktu berapa tahun yang lalu, Rusia mengalami kebakaran hutan yang besar, mereka tutup. Ekspor gandum. Harga",
+   "start": 4270.0,
+   "duration": 9
+  },
+  {
+   "text": "pangan naik semua. Tidak hanya gandum, beras, jagung, gula naik semua. Begitu",
+   "start": 4279.0,
+   "duration": 9
+  },
+  {
+   "text": "perang Ukrain naik lagi, Covid naik lagi. Jadi kita sudah antisipasi. Karena",
+   "start": 4288.0,
+   "duration": 6
+  },
+  {
+   "text": "itu saya canangkan program utama saya adalah mengamankan",
+   "start": 4294.0,
+   "duration": 7
+  },
+  {
+   "text": "pangan Indonesia. Kita harus swasembada pangan.",
+   "start": 4301.0,
+   "duration": 5
+  },
+  {
+   "text": "Dan alhamdulillah alhamdulillah saya dibantu oleh tim pertanian saya yang luar biasa. Saya",
+   "start": 4306.0,
+   "duration": 7
+  },
+  {
+   "text": "beri target 4 tahun mereka hasilkan swasmada dalam 1 tahun. Saudara-saudara",
+   "start": 4313.0,
+   "duration": 7
+  },
+  {
+   "text": "sekalian produksi kita tertinggi selama sejarah",
+   "start": 4320.0,
+   "duration": 6
+  },
+  {
+   "text": "Republik Indonesia. Cadangan yang ada di gudang-gudang kita, di gudang pemerintah",
+   "start": 4326.0,
+   "duration": 9
+  },
+  {
+   "text": "cadangannya tidak cukup. Kita harus sewa gudang-gudang lain. Kita sekarang punya",
+   "start": 4335.0,
+   "duration": 6
+  },
+  {
+   "text": "cadangan sudah lebih dari 5 koma 3 juta ton. Beras cadangan.",
+   "start": 4341.0,
+   "duration": 15
+  },
+  {
+   "text": "Cadangan beras Desember 2025 3,25.",
+   "start": 4356.0,
+   "duration": 4
+  },
+  {
+   "text": "Sekarang 10 Mei cadangan beras yang kita kuasai 5,3 juta ton. Saudara-saudara sekalian,",
+   "start": 4360.0,
+   "duration": 8
+  },
+  {
+   "text": "kita juga sudah amankan produksi pupuk kita untuk pertama kali dalam sejarah Republik Indonesia, harga pupuk kita turunkan",
+   "start": 4368.0,
+   "duration": 9
+  },
+  {
+   "text": "20%, Saudara-saudara sekalian, petani-petani kita sekarang bisa menikmati pupuk dengan jumlah yang",
+   "start": 4377.0,
+   "duration": 7
+  },
+  {
+   "text": "cukup. yang sekarang kita harus jaga adalah jangan sampai pupuk susidi diselewengkan atau diselundupkan ke",
+   "start": 4384.0,
+   "duration": 8
+  },
+  {
+   "text": "tempat lain. Ini harus kita jaga bersama, Saudara-saudara sekalian.",
+   "start": 4392.0,
+   "duration": 8
+  },
+  {
+   "text": "Masalah makan bergizi gratis.",
+   "start": 4400.0,
+   "duration": 4
+  },
+  {
+   "text": "Makan bergizi gratis sekarang sudah dinikmati oleh 62,4 juta penerima setiap hari.",
+   "start": 4404.0,
+   "duration": 9
+  },
+  {
+   "text": "Angka ini termasuk 6,3 juta balita, 2 juta ibu menyusui,",
+   "start": 4413.0,
+   "duration": 8
+  },
+  {
+   "text": "dan 868.000 ibu hamil menerima MBG setiap hari. Kita juga",
+   "start": 4421.0,
+   "duration": 10
+  },
+  {
+   "text": "akan memberi MBG ke 500.000 lansia yang tinggal sendiri, yang hidup sebatang kara, dan yang membutuhkan makan",
+   "start": 4431.0,
+   "duration": 9
+  },
+  {
+   "text": "bergizi. Karena apa itu? adalah perintah Undang-Undang Dasar pasal 33 dan pasal 34",
+   "start": 4440.0,
+   "duration": 11
+  },
+  {
+   "text": "bahwa kaum miskin harus diurus oleh negara.",
+   "start": 4451.0,
+   "duration": 5
+  },
+  {
+   "text": "Saudara-saudara sekalian, kita mengakui",
+   "start": 4456.0,
+   "duration": 7
+  },
+  {
+   "text": "bahwa dalam pengelolaan MBG masih banyak kekurangan. Kita sudah tutup lebih dari 3.000 dapur.",
+   "start": 4463.0,
+   "duration": 9
+  },
+  {
+   "text": "Saya sudah minta para pejabat dan saya persilakan",
+   "start": 4472.0,
+   "duration": 7
+  },
+  {
+   "text": "anggota DPR, Bupati di mana-mana silakan periksa semua dapur. Kalau ada yang tidak",
+   "start": 4479.0,
+   "duration": 8
+  },
+  {
+   "text": "sesuai, laporkan segera. Akan segera kita tindak. Saudara-saudara, kita tidak akan mengizinkan",
+   "start": 4487.0,
+   "duration": 10
+  },
+  {
+   "text": "masalah yang begini. penting untuk diurus secara tidak benar.",
+   "start": 4497.0,
+   "duration": 8
+  },
+  {
+   "text": "Saudara sekalian, setelah bertahun-tahun kita bercita-cita memiliki dana",
+   "start": 4505.0,
+   "duration": 8
+  },
+  {
+   "text": "kedaulatan, di tahun 2025 yang lalu, kita berhasil membentuk dana kedaulatan kita,",
+   "start": 4513.0,
+   "duration": 8
+  },
+  {
+   "text": "Sovereign wealth fund kita yang kita beri nama Danantara.",
+   "start": 4521.0,
+   "duration": 6
+  },
+  {
+   "text": "atau singkatan dari daya anagata nusantara yang artinya energi kekuatan masa depan bagi Indonesia.",
+   "start": 4527.0,
+   "duration": 14
+  },
+  {
+   "text": "Dan antara ini sekarang memiliki memanage",
+   "start": 4541.0,
+   "duration": 7
+  },
+  {
+   "text": "lebih dari 1000 miliar dolar kekayaan dan kita menemukan terus",
+   "start": 4548.0,
+   "duration": 7
+  },
+  {
+   "text": "kekayaan-kekayaan negara yang saya enggak mengerti. mungkin disembunyikan atau diapakan oleh birukat-birukat itu.",
+   "start": 4555.0,
+   "duration": 10
+  },
+  {
+   "text": "Kita terus menemukan tanah milik negara, aset milik negara,",
+   "start": 4565.0,
+   "duration": 9
+  },
+  {
+   "text": "gedung milik negara yang nilainya tidak sedikit. Tidak sedikit.",
+   "start": 4574.0,
+   "duration": 9
+  },
+  {
+   "text": "Dan antara ternyata sudah dirasakan keampuhannya",
+   "start": 4583.0,
+   "duration": 7
+  },
+  {
+   "text": "dan antara akan mempercepat pembiayaan pembangunan khususnya investasi dan modal kerja untuk percepatan industrialisasi.",
+   "start": 4590.0,
+   "duration": 12
+  },
+  {
+   "text": "Kita harus industrialisasi. Kita harus bikin mobil kita sendiri. Kita harus bikin motor kita sendiri.",
+   "start": 4602.0,
+   "duration": 7
+  },
+  {
+   "text": "Kita harus bikin televisi, komputer, handphone kita sendiri. Kita tidak boleh hanya jadi pasar untuk bangsa lain.",
+   "start": 4609.0,
+   "duration": 10
+  },
+  {
+   "text": "Dan kita akan lakukan. Saya sudah kumpulkan profesor-profesor kita, saya sudah kumpulkan pakar-pakar kita. Saya",
+   "start": 4619.0,
+   "duration": 9
+  },
+  {
+   "text": "katakan pengabdianmu untuk bangsa wujudkan hal ini.",
+   "start": 4628.0,
+   "duration": 7
+  },
+  {
+   "text": "Tidak boleh kita menyerah.",
+   "start": 4635.0,
+   "duration": 3
+  },
+  {
+   "text": "Tidak boleh kita rasa rendah diri, Saudara-saudara.",
+   "start": 4638.0,
+   "duration": 5
+  },
+  {
+   "text": "Dengan ini industrialisasi yang kita mulai dengan hilirisasi sumber daya alam kita. Kita tidak mau sumber daya alam kita gelondongan diekspor.",
+   "start": 4643.0,
+   "duration": 11
+  },
+  {
+   "text": "Nikel sudah kita wajibkan diolah di sini. Boksit harus diolah di sini. Nanti turunan-turunan batu bara akan kita buat di sini.",
+   "start": 4654.0,
+   "duration": 9
+  },
+  {
+   "text": "Penciptaan pekerja ini sangat penting dari pekerjaan meningkatkan daya beli rakyat.",
+   "start": 4663.0,
+   "duration": 9
+  },
+  {
+   "text": "Dari MBG saja kita sudah buka 1,2 juta lapangan kerja baru di dapur-dapur dan",
+   "start": 4672.0,
+   "duration": 6
+  },
+  {
+   "text": "kita pastikan pasar terjamin, offtake terjamin untuk puluhan juta petani kita,",
+   "start": 4678.0,
+   "duration": 8
+  },
+  {
+   "text": "peternak kita, dan nelayan kita. Dari Menteri Investasi saya mendapat laporan telah tercipta 2,7 juta lapangan kerja",
+   "start": 4686.0,
+   "duration": 9
+  },
+  {
+   "text": "baru hasil realisasi investasi dari dalam dan luar negeri di tahun 2025.",
+   "start": 4695.0,
+   "duration": 9
+  },
+  {
+   "text": "Setiap koperasi desa dan koperasi Kelurahan Merah Putih akan membuka lapangan kerja formal baru di desa-desa.",
+   "start": 4704.0,
+   "duration": 8
+  },
+  {
+   "text": "Setiap koperasi butuh 17 pekerja.",
+   "start": 4712.0,
+   "duration": 4
+  },
+  {
+   "text": "Artinya dari 1061 koperasi yang sudah operasional, kita telah buka 18.000",
+   "start": 4716.0,
+   "duration": 7
+  },
+  {
+   "text": "lapangan kerja baru yang hanya boleh diisi oleh warga desa setempat.",
+   "start": 4723.0,
+   "duration": 8
+  },
+  {
+   "text": "Masih banyak lagi program-program pemerintah yang disusun oleh kabinet merah putih untuk menciptakan lapan kerja. Desa Nelayan,",
+   "start": 4731.0,
+   "duration": 9
+  },
+  {
+   "text": "Rumah Subsidi kita telah susun dalam kluster program",
+   "start": 4740.0,
+   "duration": 7
+  },
+  {
+   "text": "kerja prioritas nasional atau PKPN yang terdiri dari 60 program prioritas untuk dilaksanakan hingga tahun 2026.",
+   "start": 4747.0,
+   "duration": 10
+  },
+  {
+   "text": "Saudara-saudara sekalian, kita butuh investasi dari luar, tapi kita tidak mau tergantung hanya investasi dari luar.",
+   "start": 4757.0,
+   "duration": 12
+  },
+  {
+   "text": "Kita yakin bahwa kita bisa kerahkan kekuatan kita.",
+   "start": 4769.0,
+   "duration": 4
+  },
+  {
+   "text": "Kita tidak boleh mengemis, kita tidak boleh bertekuk lutut, kita tidak boleh menghamba kepada bangsa lain. Kita",
+   "start": 4773.0,
+   "duration": 8
+  },
+  {
+   "text": "adalah bangsa yang besar, bangsa yang berani, bangsa pejuang yang berhasil melawan dan mengusir kekuatan penjajah.",
+   "start": 4781.0,
+   "duration": 9
+  },
+  {
+   "text": "Kita harus percaya diri.",
+   "start": 4790.0,
+   "duration": 3
+  },
+  {
+   "text": "Kita harus percaya kepada kekuatan kita sendiri. Kita harus percaya kepada kepribadian kita sendiri. Kepada budaya",
+   "start": 4793.0,
+   "duration": 7
+  },
+  {
+   "text": "kita sendiri. kepada falsafah nenek moyang kita.",
+   "start": 4800.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita percaya kepada gotong-royong. Kita percaya kepada saling mendukung dan saling membantu.",
+   "start": 4805.0,
+   "duration": 11
+  },
+  {
+   "text": "Itu naluri kita, itu budaya kita. Bukan saling membenci, bukan saling curiga,",
+   "start": 4816.0,
+   "duration": 7
+  },
+  {
+   "text": "bukan saling caci maki, bukan saling menghantam. Itu bukan demokrasi kita.",
+   "start": 4823.0,
+   "duration": 9
+  },
+  {
+   "text": "Mazhab ekonomi yang kita jalankan adalah mazhab ekonomi Pancasila, ekonomi",
+   "start": 4832.0,
+   "duration": 7
+  },
+  {
+   "text": "yang berketuhanan, ekonomi yang berkemanusiaan, ekonomi yang menjunjung tinggi persatuan nasional.",
+   "start": 4839.0,
+   "duration": 11
+  },
+  {
+   "text": "Jangan kita ekonomi hanya mikirin daerah masing-masing.",
+   "start": 4850.0,
+   "duration": 5
+  },
+  {
+   "text": "Ekonomi kita harus ekonomi kerakyatan.",
+   "start": 4855.0,
+   "duration": 5
+  },
+  {
+   "text": "Bukan ekonomi yang menindas dan membiarkan yang lemah terus lemah, yang miskin terus miskin.",
+   "start": 4860.0,
+   "duration": 9
+  },
+  {
+   "text": "Ekonomi kita harus berkeadilan sosial.",
+   "start": 4869.0,
+   "duration": 4
+  },
+  {
+   "text": "Ekonomi kita harus berpihak kepada rakyat Indonesia seluruhnya. Saudara sekalian, negara harus hadir. Negara",
+   "start": 4873.0,
+   "duration": 8
+  },
+  {
+   "text": "harus menjaga keseimbangan. Negara harus memastikan pertumbuhan sekaligus pemerataan.",
+   "start": 4881.0,
+   "duration": 7
+  },
+  {
+   "text": "Negara harus ambil inisiatif untuk bantu rakyat yang belum mampu, rakyat yang belum berdaya. Pemerintah harus ambil peranan. Amerika Serikat, Jepang,",
+   "start": 4888.0,
+   "duration": 8
+  },
+  {
+   "text": "Tiongkok, Korea Selatan juga pernah menjalankan kebijakan-kebijakan strategis dengan peran negara yang kuat",
+   "start": 4896.0,
+   "duration": 7
+  },
+  {
+   "text": "pada saat krisis, pada saat kesulitan ekonomi, dan pada saat mereka mulai industrialisasi.",
+   "start": 4903.0,
+   "duration": 10
+  },
+  {
+   "text": "Saudara-saudara sekalian, tidak ada negara maju yang tidak unggul dalam memberikan pelayanan publik.",
+   "start": 4913.0,
+   "duration": 14
+  },
+  {
+   "text": "Pemerintah harus menjadi pemerintah yang unggul membantu swasta menciptakan lapangan kerja.",
+   "start": 4927.0,
+   "duration": 8
+  },
+  {
+   "text": "Tidak ada negara yang maju kalau pemerintah yang lemah, birokrasi yang lemah.",
+   "start": 4935.0,
+   "duration": 6
+  },
+  {
+   "text": "Tidak ada negara maju kalau tidak ada kepastian hukum.",
+   "start": 4941.0,
+   "duration": 5
+  },
+  {
+   "text": "Karena itu pemerintah saya telah menaikin gaji-gaji guru. Ada yang sampai hampir 300% naiknya penghasilan",
+   "start": 4946.0,
+   "duration": 9
+  },
+  {
+   "text": "guru-guru ee hakim-hakim kita. Maaf hakim.",
+   "start": 4955.0,
+   "duration": 8
+  },
+  {
+   "text": "Saya sekarang karena mendapat laporan ketua Mahkamah Agung kita penghasilannya lebih tinggi dari ketua Mahkamah Agung Singapura.",
+   "start": 4963.0,
+   "duration": 12
+  },
+  {
+   "text": "Dan juga hakim-hakim paling junior kita gajinya lebih tinggi dari gaji hakim-hakim",
+   "start": 4975.0,
+   "duration": 9
+  },
+  {
+   "text": "junior di Malaysia. Saudara-saudara, ini langkah nyata untuk kita ciptakan institusi-institusi",
+   "start": 4984.0,
+   "duration": 9
+  },
+  {
+   "text": "yang bersih. Kita tidak mau hakim-hakim kita disogok, dibeli.",
+   "start": 4993.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita tidak mau juga semua aparat-aparat kita lainnya seperti itu, Saudara-saudara. Langkah-langkah yang",
+   "start": 4999.0,
+   "duration": 8
+  },
+  {
+   "text": "harus diambil kita harus perbaiki tidak hanya sistem tata kelola ekspor, sistem perekonomian kita.",
+   "start": 5007.0,
+   "duration": 9
+  },
+  {
+   "text": "Kita harus berani memperbaiki institusi-institusi kita semuanya.",
+   "start": 5016.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita harus bertekad terus membangun pemerintah",
+   "start": 5024.0,
+   "duration": 6
+  },
+  {
+   "text": "yang kuat, pemerintah yang profesional, pemerintah yang tidak korup.",
+   "start": 5030.0,
+   "duration": 11
+  },
+  {
+   "text": "Kita harus bersama-sama menjaga semua para pengusaha mengeluh. Mereka",
+   "start": 5041.0,
+   "duration": 8
+  },
+  {
+   "text": "mengalami pungli-pungli yang terlalu banyak.",
+   "start": 5049.0,
+   "duration": 6
+  },
+  {
+   "text": "Saya ingatkan semua kepala badan, menteri-menteri dan",
+   "start": 5055.0,
+   "duration": 7
+  },
+  {
+   "text": "pemimpin-pemimpin, lembaga-lembaga pemerintah untuk segera mengambil inisiatif membersihkan",
+   "start": 5062.0,
+   "duration": 9
+  },
+  {
+   "text": "birokrasi yang masing-masing. Jangan ragu-ragu, yang melanggar tindak.",
+   "start": 5071.0,
+   "duration": 8
+  },
+  {
+   "text": "Sekali lagi, semua institusi pemerintah harus bekerja dengan baik. Kita harus menghilangkan",
+   "start": 5079.0,
+   "duration": 8
+  },
+  {
+   "text": "korupsi, penyalahgunaan wewenang, dan praktik-praktik yang menghambat perjalanan ekonomi kita.",
+   "start": 5087.0,
+   "duration": 8
+  },
+  {
+   "text": "Saya ingatkan kembali untuk kesekian kali biaya cukai kita harus diperbaiki.",
+   "start": 5095.0,
+   "duration": 9
+  },
+  {
+   "text": "Menteri Keuangan kalau pimpinan Be Cukai tidak mampu segera diganti.",
+   "start": 5104.0,
+   "duration": 15
+  },
+  {
+   "text": "Bangsa dan rakyat menuntut pekerjaan yang cepat.",
+   "start": 5119.0,
+   "duration": 8
+  },
+  {
+   "text": "Jangan kita jadi pemerintah yang santai, pemerintah yang leha-leha, pemerintah yang",
+   "start": 5127.0,
+   "duration": 10
+  },
+  {
+   "text": "kumaha engkek w kita harus jadi pemerintah",
+   "start": 5137.0,
+   "duration": 9
+  },
+  {
+   "text": "yang didorong oleh engkek kumaha bukan kumaha engkek.",
+   "start": 5146.0,
+   "duration": 10
+  },
+  {
+   "text": "Kalau negara di sekitar kita bisa memberi izin usaha, bisa memberi AMDAL dalam 3 minggu, kenapa kita harus berbulan-bulan bahkan 3 tahun?",
+   "start": 5156.0,
+   "duration": 13
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 5169.0,
+   "duration": 2
+  },
+  {
+   "text": "Tidak ada orang yang tidak bisa diganti.",
+   "start": 5171.0,
+   "duration": 3
+  },
+  {
+   "text": "Rakyat menuntut pemerintah yang benar dan baik.",
+   "start": 5174.0,
+   "duration": 9
+  },
+  {
+   "text": "Jangan mentang-mentang sudah jadi ASN tidak bisa diberhentikan.",
+   "start": 5183.0,
+   "duration": 6
+  },
+  {
+   "text": "Kalau enggak suruh dia tinggal di rumah aja biar dia malu sama istrinya dan anaknya. Pak, kenapa enggak ke kantor?",
+   "start": 5189.0,
+   "duration": 7
+  },
+  {
+   "text": "Enggak. Saya enggak dipercaya karena saya banyak korupsinya. Coba kau jawab kepada anakmu nanti. Ini tantangan kita",
+   "start": 5196.0,
+   "duration": 8
+  },
+  {
+   "text": "bersama. Saya minta dukungan dari Bapak-bapak dan Ibu-ibu wakil rakyat.",
+   "start": 5204.0,
+   "duration": 8
+  },
+  {
+   "text": "Ini untuk kita semua. Ini untuk masa depan kita, ini untuk anak dan cucu kita. Kita harus jadi negara yang hebat.",
+   "start": 5212.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita tidak mau jadi negara yang lemah terus-menerus, Saudara sekalian.",
+   "start": 5220.0,
+   "duration": 6
+  },
+  {
+   "text": "Untuk itu saya menghimbau pemimpin-pemimpin pemerintah daerah di setiap tingkatan juga untuk bantu kita",
+   "start": 5226.0,
+   "duration": 8
+  },
+  {
+   "text": "semua. Mari bersama-sama kita bersihkan aparat kita semuanya. Jangan mengira sekarang engkau jadi bupati, engkau jadi",
+   "start": 5234.0,
+   "duration": 9
+  },
+  {
+   "text": "gubernur, kita tidak bisa monitor dari sini. Sekarang teknologi sudah hebat.",
+   "start": 5243.0,
+   "duration": 5
+  },
+  {
+   "text": "Cepat kita akan tahu kalau ada penyimpangan.",
+   "start": 5248.0,
+   "duration": 4
+  },
+  {
+   "text": "Saudara-saudara, saya sedih kalau yang sekarang pejabat masih coba korupsi. Cepat ketahuan.",
+   "start": 5252.0,
+   "duration": 8
+  },
+  {
+   "text": "Sekarang ada teknologi ya, ada radar bisa kita pakai, kita bisa lihat bawah tanah. Jadi, Saudara-saudara yang punya",
+   "start": 5260.0,
+   "duration": 8
+  },
+  {
+   "text": "bungker-bungker disembunyikan nanti kita ketemu juga kekayaanmu.",
+   "start": 5268.0,
+   "duration": 5
+  },
+  {
+   "text": "Saudara-saudara, saya akan menggunakan teknologi yang paling canggih. Teknologi pertahanan bisa mencari gudang senjata di bawah tanah.",
+   "start": 5273.0,
+   "duration": 11
+  },
+  {
+   "text": "Radar sekarang bisa mencari, ranjo bisa mencari. kita akan pakai untuk mencari bungker-bungker di sekitar kau.",
+   "start": 5284.0,
+   "duration": 13
+  },
+  {
+   "text": "Jangan main-main sama teknologi. Iya kan?",
+   "start": 5297.0,
+   "duration": 5
+  },
+  {
+   "text": "Mereka yang punya kebun-kebun luas dikira enggak akan ada pejabat yang bisa ngecek. Saudara-saudara, sekarang ada satelit,",
+   "start": 5302.0,
+   "duration": 9
+  },
+  {
+   "text": "enggak usah kita cek fisik. Kita bisa foto tiap pohon. Kita bisa foto pohon per pohon kita bisa foto. Jadi kau",
+   "start": 5311.0,
+   "duration": 9
+  },
+  {
+   "text": "mau nipu bagaimanapun kita akan ketemu penipuan kau saudara-saudara sekalian.",
+   "start": 5320.0,
+   "duration": 6
+  },
+  {
+   "text": "Tapi biasanya mereka-mereka itu ada backing-nya. Nah",
+   "start": 5326.0,
+   "duration": 9
+  },
+  {
+   "text": "backing-nya biasanya seragamnya itu kalau enggak hijau ya coklat. Betul.",
+   "start": 5335.0,
+   "duration": 9
+  },
+  {
+   "text": "Betul.",
+   "start": 5344.0,
+   "duration": 2
+  },
+  {
+   "text": "Saya ini sebagai senior, saya sebagai alumni, saya enggak ragu-ragu. Jangan mencemarkan TNI dan Polri, Saudara-saudara sekalian.",
+   "start": 5346.0,
+   "duration": 9
+  },
+  {
+   "text": "[tepuk tangan][bersorak]",
+   "start": 5355.0,
+   "duration": 1
+  },
+  {
+   "text": "TNI dan Polri adalah tentara dan polisi milik rakyat. Harus berjuang untuk rakyat.",
+   "start": 5356.0,
+   "duration": 7
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 5363.0,
+   "duration": 2
+  },
+  {
+   "text": "Rakyat kita sudah tidak bodoh lagi.",
+   "start": 5365.0,
+   "duration": 2
+  },
+  {
+   "text": "Rakyat kita sudah punya gadget semua, Saudara-saudara. Kalau ada kelakuan, aparatnya enggak beres, saya minta rakyat video. Langsung video.",
+   "start": 5367.0,
+   "duration": 12
+  },
+  {
+   "text": "Jangan kau ngelawan, jangan dilawan.",
+   "start": 5379.0,
+   "duration": 4
+  },
+  {
+   "text": "Video aja. Lapor langsung ke saya, Saudara-saudara sekalian. I sudah lama saya jadi orang Indonesia.",
+   "start": 5383.0,
+   "duration": 19
+  },
+  {
+   "text": "Saudara-saudara sekalian, saya yakin sebagian ASN kita baik,",
+   "start": 5402.0,
+   "duration": 7
+  },
+  {
+   "text": "sebagian besar baik, yang tidak baik sedikit. Tapi nenek moyang kita sudah ingatkan nila",
+   "start": 5409.0,
+   "duration": 9
+  },
+  {
+   "text": "setitik merusak susu sebelanga yang sedikit itu yang harus kita tindak. Yang namanya deep state.",
+   "start": 5418.0,
+   "duration": 10
+  },
+  {
+   "text": "Deep state itu merasa dia kebal. Karena pemimpin politik gonta-ganti kan. Oh dia nanti kalah pemilu ya kan. Dia out.",
+   "start": 5428.0,
+   "duration": 10
+  },
+  {
+   "text": "Menteri saya bilang 5 tahun maksimal.",
+   "start": 5438.0,
+   "duration": 3
+  },
+  {
+   "text": "Iya kan? Enggak beres. 2 tahun sudah diganti.",
+   "start": 5441.0,
+   "duration": 6
+  },
+  {
+   "text": "Dia nongkrong terus nunggu pemimpin capek langsung minta tand tangan.",
+   "start": 5447.0,
+   "duration": 8
+  },
+  {
+   "text": "Saudara-saudara sekalian, pimpinan dan para anggota dewan yang saya muliakan.",
+   "start": 5455.0,
+   "duration": 6
+  },
+  {
+   "text": "Dengan dukungan dari dewan yang terhormat ini, pemerintah yang saya pimpin bertekad untuk kembali",
+   "start": 5461.0,
+   "duration": 9
+  },
+  {
+   "text": "di mimbar ini bulan Agustus yang akan datang untuk menyampaikan laporan tentang kemajuan-kemajuan yang telah",
+   "start": 5470.0,
+   "duration": 9
+  },
+  {
+   "text": "berhasil menjelang kemerdekaan negara kita yang ke-81 tahun.",
+   "start": 5479.0,
+   "duration": 8
+  },
+  {
+   "text": "Saudara-saudara sekalian, sudah banyak yang kita capai.",
+   "start": 5487.0,
+   "duration": 5
+  },
+  {
+   "text": "Koperasi merah putih sudah 1061 yang operasional.",
+   "start": 5492.0,
+   "duration": 7
+  },
+  {
+   "text": "Target kita di bulan Agustus kita akan operasionalkan minimal 20.000 koperasi dan di akhir tahun harus di atas 60.000.",
+   "start": 5499.0,
+   "duration": 13
+  },
+  {
+   "text": "Koperasi ini adalah rantai pasok pertama di republik kita yang bisa di kuasai oleh pemerintah.",
+   "start": 5512.0,
+   "duration": 10
+  },
+  {
+   "text": "Koperasi ini akan mempermudah logistik, akan menjadi motor pertumbuhan dan kesejahteraan di tingkat yang paling bawah.",
+   "start": 5522.0,
+   "duration": 9
+  },
+  {
+   "text": "Akan mengakibatkan ratusan triliun berputar di desa, kecamatan, dan kabupaten.",
+   "start": 5531.0,
+   "duration": 7
+  },
+  {
+   "text": "Akan membalikkan arus.",
+   "start": 5538.0,
+   "duration": 3
+  },
+  {
+   "text": "keluar dari luar negeri menjadi berputar di desa kecematan Kabupaten",
+   "start": 5541.0,
+   "duration": 10
+  },
+  {
+   "text": "mengatasi krisis energi kita sedang mempercepat produksi solar dari minyak kelapa sawit kita juga",
+   "start": 5551.0,
+   "duration": 9
+  },
+  {
+   "text": "sedang mengkaji produksi bensin dari minyak kelapa sawit kita juga akan produksi solar dan gas",
+   "start": 5560.0,
+   "duration": 9
+  },
+  {
+   "text": "dari batu Kita juga bisa produksi energi untuk masak dengan sangat murah dengan",
+   "start": 5569.0,
+   "duration": 8
+  },
+  {
+   "text": "limbah-limbah dan batang-batang jagung.",
+   "start": 5577.0,
+   "duration": 6
+  },
+  {
+   "text": "Produksi listrik dari tenaga surya akan kita percepat.",
+   "start": 5583.0,
+   "duration": 4
+  },
+  {
+   "text": "kita sudah canangkan akan membangun 100 GW dari tenaga surya dari dalam 3 tahun ini.",
+   "start": 5587.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita padukan ini dengan konversi motor dan mobil dari motor dan mobil BBM ke motor listrik. Insyaallah kita akan",
+   "start": 5595.0,
+   "duration": 10
+  },
+  {
+   "text": "hilangkan kedergantungan kita kepada impor BBM dan kita akan menghemat devisa kita yang sangat berharga.",
+   "start": 5605.0,
+   "duration": 11
+  },
+  {
+   "text": "Saudara-saudara sekalian, terima kasih atas waktu yang diberikan kepada saya.",
+   "start": 5616.0,
+   "duration": 11
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 5627.0,
+   "duration": 2
+  },
+  {
+   "text": "Terima kasih atas kehormatan yang diberikan kepada saya. Sekali lagi terima kasih atas kerja sama kita.",
+   "start": 5629.0,
+   "duration": 12
+  },
+  {
+   "text": "Memang tidak semua partai di sini bagian dari pemerintah dan saya hormati dan saya hargai itu.",
+   "start": 5641.0,
+   "duration": 12
+  },
+  {
+   "text": "Demokrasi kita perlu check and balances.",
+   "start": 5653.0,
+   "duration": 8
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 5661.0,
+   "duration": 0.5
+  },
+  {
+   "text": "Saya paham dan saya mengerti bahwa PDIP berkorban untuk berada di luar pemerintah.",
+   "start": 5661.0,
+   "duration": 12
+  },
+  {
+   "text": "Saya mengerti itu. Sebenarnya saya ingin ucapan terima kasih kepada PDIP.",
+   "start": 5673.0,
+   "duration": 9
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 5682.0,
+   "duration": 3
+  },
+  {
+   "text": "Saudara berjasa untuk demokrasi kita.",
+   "start": 5685.0,
+   "duration": 5
+  },
+  {
+   "text": "Memang maunya saya itu gotong-royong.",
+   "start": 5690.0,
+   "duration": 6
+  },
+  {
+   "text": "Kalau semua partai di pemerintah, alangkah manisnya, alangkah manisnya untuk saya.",
+   "start": 5696.0,
+   "duration": 9
+  },
+  {
+   "text": "Tapi mungkin tidak baik setiap pemimpin harus mau dikritik.",
+   "start": 5705.0,
+   "duration": 12
+  },
+  {
+   "text": "Setiap eksekutif harus diawasi. Terima kasih atas pengawasan saudara.",
+   "start": 5717.0,
+   "duration": 9
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 5726.0,
+   "duration": 3
+  },
+  {
+   "text": "Kadang-kadang saya malam-malam sebelum tidur pilu hati saya.",
+   "start": 5729.0,
+   "duration": 9
+  },
+  {
+   "text": "Ini anggota PDIP ini kadang-kadang kritiknya keras banget itu.",
+   "start": 5738.0,
+   "duration": 8
+  },
+  {
+   "text": "Tapi saya sadar lama-lama sebetulnya mungkin ada dasarnya. Iya kan?",
+   "start": 5746.0,
+   "duration": 8
+  },
+  {
+   "text": "Ada pepatah yang mengatakan kalau orang",
+   "start": 5754.0,
+   "duration": 7
+  },
+  {
+   "text": "mengingatkan kita walaupun kita tidak suka dikasih peringatan, tapi sebenarnya dia menyelamatkan kita, saudara-saudara sekalian.",
+   "start": 5761.0,
+   "duration": 10
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 5771.0,
+   "duration": 2
+  },
+  {
+   "text": "Jadi saya saya terima kasih saya hormati pengorban pengorbanan kalian ya kan",
+   "start": 5773.0,
+   "duration": 9
+  },
+  {
+   "text": "kalau di pemerintah kan banyak banyak fasilitas tapi",
+   "start": 5782.0,
+   "duration": 7
+  },
+  {
+   "text": "tanya saya selalu mengatakan menteri-menteri minta petunjuk Pak ini bagaimana Pak",
+   "start": 5789.0,
+   "duration": 8
+  },
+  {
+   "text": "ada proyek ada tend tapi ini di belakang Akangnya PDIP.",
+   "start": 5797.0,
+   "duration": 11
+  },
+  {
+   "text": "Benar.",
+   "start": 5808.0,
+   "duration": 2
+  },
+  {
+   "text": "Ayo menteri-menteri benar kan? Tapi apa jawaban saya? Apa jawaban saya? Tidak ada masalah. Kalau dia menang, dia",
+   "start": 5810.0,
+   "duration": 8
+  },
+  {
+   "text": "menang aja. Jangan kita lihat latar belakangnya. Benar, Saudara-saudara.",
+   "start": 5818.0,
+   "duration": 13
+  },
+  {
+   "text": "tenang aja karena waktu saya enggak berkuasa, waktu saya enggak berkuasa, Ibu Mega juga bantu saya di bidang ekonomi.",
+   "start": 5831.0,
+   "duration": 13
+  },
+  {
+   "text": "Enggak, saya mau terbuka.",
+   "start": 5844.0,
+   "duration": 3
+  },
+  {
+   "text": "Saya mau terbuka. Saya enggak berkuasa waktu itu alias lontang-lantunglah.",
+   "start": 5847.0,
+   "duration": 11
+  },
+  {
+   "text": "Ibu Megawati Soekarno Putri intervensi mengatakan kalau memang",
+   "start": 5858.0,
+   "duration": 9
+  },
+  {
+   "text": "Prabowo yang menang tender itu jangan diganggu, diteruskan. Saya sekarang mengikuti contoh beliau. Saya sekarang presiden.",
+   "start": 5867.0,
+   "duration": 11
+  },
+  {
+   "text": "Tidak boleh kita lihat latar belakang politik. Kalau dia benar, dia menang dengan benar, harus kita berikan.",
+   "start": 5878.0,
+   "duration": 8
+  },
+  {
+   "text": "Saudara-saudara, semoga Allah Subhanahu wa taala",
+   "start": 5886.0,
+   "duration": 7
+  },
+  {
+   "text": "senantiasa memberi bimbingan dan perlindungannya kepada kita semua.",
+   "start": 5893.0,
+   "duration": 7
+  },
+  {
+   "text": "Dalam melaksanakan tugas suci dan amanah, menjalankan amanah dari seluruh rakyat Indonesia.",
+   "start": 5900.0,
+   "duration": 8
+  },
+  {
+   "text": "Amin ya rabbal alamin. Amin.",
+   "start": 5908.0,
+   "duration": 3
+  },
+  {
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh.",
+   "start": 5911.0,
+   "duration": 6
+  },
+  {
+   "text": "Salam. Shalom. Salve. Om santi santi santi om. Selamat Hari Kebangkitan Nasional.",
+   "start": 5917.0,
+   "duration": 9
+  },
+  {
+   "text": "[bersorak]",
+   "start": 5926.0,
+   "duration": 2
+  },
+  {
+   "text": "Mari kita lanjutkan perjuangan Bapak-bapak pendiri bangsa kita.",
+   "start": 5928.0,
+   "duration": 5
+  },
+  {
+   "text": "Merdeka. [berteriak] Terima kasih.",
+   "start": 5933.0,
+   "duration": 6
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 5939.0,
+   "duration": 2
+  },
+  {
+   "text": "Merdekanya tadi enggak ada ya, Saudara. Kita baru saja tadi mendengarkan pernyataan dari Presiden Prabowo Subianto terkait dengan pidato",
+   "start": 5941.0,
+   "duration": 9
+  },
+  {
+   "text": "politiknya atau pidato ekonominya terkait dengan kerangka ekonomi makro APBN tahun 2027 di mana sejumlah target",
+   "start": 5950.0,
+   "duration": 7
+  },
+  {
+   "text": "dipasang termasuk di antaranya adalah soal harga nilai atau nilai tukar rupiah yang dipasang target 16.800 sampai dengan 17.500.",
+   "start": 5957.0,
+   "duration": 11
+  },
+  {
+   "text": "Bukan hanya itu, dari sisi ekonomi Presiden Prab",
+   "start": 5968.0,
+   "duration": 3
+  }
+ ]
+}
