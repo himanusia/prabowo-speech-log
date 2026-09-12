@@ -1,0 +1,102 @@
+{
+ "id": "2026-05-31-pada-puncak-peringatan-hari-tri-suci-waisak",
+ "video_id": "e3ByeIYYKYU",
+ "date": "2026-05-31",
+ "title": "Sambutan Presiden Prabowo pada Puncak Peringatan Hari Tri Suci Waisak 2570 BE, 31 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=e3ByeIYYKYU",
+ "duration_s": 264,
+ "duration_hms": "4:24",
+ "source_tier": "official",
+ "fetch_method": "caption_api",
+ "snippet_count": 89,
+ "token_count": 352,
+ "unique_word_count": 206,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "e3ByeIYYKYU",
+   "url": "https://www.youtube.com/watch?v=e3ByeIYYKYU",
+   "title": "Sambutan Presiden Prabowo pada Puncak Peringatan Hari Tri Suci Waisak 2570 BE, 31 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "upload_date": "2026-05-31",
+   "duration_s": 264,
+   "source_tier": "official",
+   "fetch_method": "caption_api",
+   "token_count": 352,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 89,
+   "discovery_origins": [
+    "official_channel",
+    "search_sambutan"
+   ],
+   "selection_reason": "official_speech_candidate",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 17,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 0.64,
+   "d": 162.8,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Namo buddhaya. Salam kebajikan. Saudara-saudaraku sebangsa dan setanah air, umat Buddha Indonesia di mana pun saudara berada. Pertama-tama sebagai insan yang bertakwa, marilah kita panjatkan puji dan syukur kehadirat Tuhan yang maha esa karena atas rahmat dan karunia-Nya kita dapat memperingati hari raya Waisak dalam keadaan damai, sehat dan penuh rasa syukur. di hari waisak ini. Saya Prabowo Subianto, Presiden Republik Indonesia atas nama pribadi dan atas nama pemerintah mengucapkan selamat hari raya Waisak 2.570 Buddhist Era kepada seluruh umat Buddha Indonesia dan seluruh umat Buddha di berbagai penjuru dunia. Hari Raya Waisak merupakan momentum suci untuk mengenang kelahiran, pencapaian, pencerahan, dan wafatnya Sidarta Gautama, Sang Buddha."
+  },
+  {
+   "t": 82.44,
+   "d": 86.6,
+   "text": "Nilai-nilai yang terkandung dalam peringatan Waisak mengajarkan kepada kita tentang pentingnya kebijaksanaan, kasih sayang, pengendalian diri, serta pengabdian kepada sesama manusia. Bangsa Indonesia adalah bangsa yang besar karena keberagamannya. Kita memiliki latar belakang suku, agama, budaya, dan tradisi serta adat yang berbeda-beda. Namun kita dipersatukan oleh cita-cita yang sama, yaitu membangun Indonesia yang damai, yang adil, makmur, dan sejahtera."
+  },
+  {
+   "t": 124.84,
+   "d": 88.64,
+   "text": "Semangat Waisaktong ini dengan tema Dharma sebagai sumber moral dan kebijaksanaan, cinta kasih. Sumber perdamaian dunia hendaknya menjadi inspirasi bagi kita semua untuk terus memperkuat persaudaraan, menebarkan kebaikan, mengedepankan dialog, dan menjaga kerukunan di tengah kehidupan bermasyarakat, berbangsa, dan bernegara. Di tengah berbagai tantangan dunia yang penuh ketidakpastian, bangsa Indonesia harus tetap teguh menjaga persatuan dan optimisme."
+  },
+  {
+   "t": 169.4,
+   "d": 63.04,
+   "text": "Kita harus terus bekerja keras, saling membantu, dan bergotongroyong untuk mewujudkan kesejahteraan bagi seluruh rakyat Indonesia. Saya yakin dan percaya bahwa nilai-nilai welas asih, toleransi, dan kebijaksanaan yang diajarkan dalam ajaran Buddha akan semakin memperkokoh karakter bangsa Indonesia sebagai bangsa yang menjunjung tinggi kemanusiaan dan perdamaian."
+  },
+  {
+   "t": 201.04,
+   "d": 91.68,
+   "text": "Marilah kita jadikan peringatan hari raya Waisak ini sebagai momentum untuk mempererat persaudaraan nasional. memperkuat semangat pengabdian kepada bangsa dan meningkatkan kepedulian terhadap sesama. Kepada seluruh umat Buddha, saya sekali lagi mengucapkan selamat hari raya Waak 2570 Budis Era. Semoga cahaya kebijaksanaan, kedamaian, dan kasih sayang senantiasa menerangi langkah kita dalam membangun Indonesia yang maju. modern, kuat dan harmonis. Tabata Bwantu Tukitata."
+  },
+  {
+   "t": 246.84,
+   "d": 22.64,
+   "text": "Semoga semua makhluk hidup berbahagia. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Namo budhaya. Salam kebajikan."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "e3ByeIYYKYU",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/e3ByeIYYKYU.json"
+ }
+}

@@ -1,0 +1,626 @@
+{
+ "id": "2025-09-29-di-munas-ke-vi-pks-tvone",
+ "video_id": "gyT_qLziJ2M",
+ "date": "2025-09-29",
+ "title": "[FULL] Pidato Lengkap Presiden Prabowo di Munas Ke-VI PKS | tvOne",
+ "channel": "tvOneNews ",
+ "youtube_url": "https://www.youtube.com/watch?v=gyT_qLziJ2M",
+ "duration_s": 4928,
+ "duration_hms": "1:22:08",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 1463,
+ "token_count": 5204,
+ "unique_word_count": 1385,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "gyT_qLziJ2M",
+   "url": "https://www.youtube.com/watch?v=gyT_qLziJ2M",
+   "title": "[FULL] Pidato Lengkap Presiden Prabowo di Munas Ke-VI PKS | tvOne",
+   "channel": "tvOneNews ",
+   "upload_date": "2025-09-29",
+   "duration_s": 4928,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 5204,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1463,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 29,
+  "ekonomi": 16,
+  "pendidikan": 16,
+  "kesehatan_dan_gizi": 21,
+  "tata_kelola": 28,
+  "pertahanan_dan_keamanan": 10,
+  "nasional_dan_identitas": 133,
+  "mbg": 4
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 4,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 4,
+  "present": true,
+  "evidence": [
+   {
+    "start": 1924.88,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 2076.96,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 2094.399,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 2889.359,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 3.81,
+   "d": 99.31,
+   "text": "[Musik] Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullahi wabarakatuh. Selamat pagi, salam sejahtera bagi kita sekalian. Yang ee saya hormati Presiden Partai Keadilan Sejahtera, Saudara Almuzamil Yusuf, Ketua Majelis Syura PKS, Saudara Muhammad Shiibul Iman beserta jajaran seluruh majelis suruh PKS yang hadir. Yang saya hormati dan saya banggakan."
+  },
+  {
+   "t": 68.72,
+   "d": 148.28,
+   "text": "Wakil Ketua MPR RI, Saudara Hidayat Nur Wahid dan Saudara Edi Baskoro Yudoyono. [Tepuk tangan] Tokoh-tokoh PKS yang hadir, Saudara Ahmad Saiku, Presiden PKS 2020-2025. [Tepuk tangan] Wakil Ketua Majelis Suro, Saudara Suhama. Wakil Ketua Majelis Suro, Saudara Aunur Rofiq, [Tepuk tangan] Sekretaris Jenderal PK, Saudara Muhammad Kholid, [Tepuk tangan] Menteri Koordinator Politik dan Keamanan Jenderal TNI Purnawirawan Jamari Caniago, Menteri Koordinator Infrastruktur dan Pembangunan Wilayah yang juga adalah Ketua Umum Partai Demokrat, Saudara Agu Harimurti Yudoyono, [Tepuk tangan] lebih dikenal AHY, [Tepuk tangan] penerus SBY."
+  },
+  {
+   "t": 154.48,
+   "d": 98.23,
+   "text": "Kok saya enggak disingkat ya? PS 08 aja del. [Tepuk tangan] Tapi angka delapan itu ee selalu hadir di hidup saya. [Tepuk tangan] contoh ya saya pidato di PBB itu majelis itu ya ee sidang umum ya general assembly yang ke-80 B hari ini adalah munas keen benar enam ya tanggalnya 29."
+  },
+  {
+   "t": 205.48,
+   "d": 120.28,
+   "text": "Benar 2 + 9 adalah 11. Iya kan? 11 itu 2 September eh 9 kan 2 + 9 11 2 kan 2025 9 benar tambah 2 11 2 kan 2 + 6 8 [Tepuk tangan] jadi memang hari baik seharusnya nya saya diundang kemarin. Benar ya? Tapi kalau kemarin enggak enggak jumlahnya enggak delapan. Jadi terima kasih PKS berkenan menerima saya sehari setulah itu [Tepuk tangan] kan enggak bisa saya ngarang ini ya kan."
+  },
+  {
+   "t": 264.64,
+   "d": 56.64,
+   "text": "Ini kalau orang Jawa bilang tondo-tondo. Ini presiden kalau kasih sambutan harus serius kan. Menteri sekretaris negara saudara Prasetio Hadi, Menteri Ketenagakerjaan Prof. silakan duduk. Sudah hampir setahun sudah santai aja, Pak. Rileks. Kopasus itu dulu, Saudara-saudara. Saya terkesan sama PKS."
+  },
+  {
+   "t": 315.04,
+   "d": 85.74,
+   "text": "Kenapa? waktu PKS gabung di koisi kami ya kan setelah merantau sebentar kembali [Tepuk tangan] setelah gabung i minta silakan ajukan kader yang terbaik untuk di kabinet. Iya kan? Saya pikir pasti ya kan kader politik entah tokoh-tokoh yang terkenal yang disampaikan profesor dari ITB [Tepuk tangan] boleh juga ini PKS."
+  },
+  {
+   "t": 366.64,
+   "d": 69.04,
+   "text": "Jadi ternyata PKS ini juga punya suatu rasa tanggung jawab besar kepada negara yang diajukan teknokrat ya. Teknokrat. Walaupun saya percaya di semua partai banyak juga yang teknokrat yang kapabel dan saya alhamdulillah terima. Jadi, Saudara-saudara ee terima kasih PKS ee sampai sekarang yang saudara tunjuk berprestasi bekerja dengan sangat baik."
+  },
+  {
+   "t": 411.52,
+   "d": 64.67,
+   "text": "Walaupun saya perhatikan menjelang 1 tahun rambut putihnya tambah banyak gitu. [Tepuk tangan] Sekretaris Kabinet Republik Indonesia Lenan Kolonel Infantry Teddy Indrawijaya. [Tepuk tangan] Para anggota DPRRI dari Fraksi Partai Keadilan Sejahtera. [Tepuk tangan] Yang saya muliakan para pimpinan ormas Islam yang hadir di sini."
+  },
+  {
+   "t": 447.91,
+   "d": 78.37,
+   "text": "[Tepuk tangan] terutama yang saya banggakan para pengurus Dewan Pimpinan tingkat wilayah Partai Keadilan Sejahtera, [Tepuk tangan] seluruh kader Partai Keadilan Sejahtera beserta seluruh keluarga besar PKS di mana pun Saudara berada. Saudara-saudara sekalian, tentunya sebagai insan yang bertakwa marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Allah Subhanahu wa taala, Tuhan maha besar."
+  },
+  {
+   "t": 496.0,
+   "d": 59.5,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita meminta pertolongan. Selawat dan salam kita haturkan kehadirat junjungan kita Imam ee Muhammad Rasulullah sallallahu alaihi wasallam. Saudara-saudara sekalian, terima kasih atas undangan ini. Ini kehormatan yang besar bagi saya."
+  },
+  {
+   "t": 532.26,
+   "d": 70.34,
+   "text": "[Tepuk tangan] Saya minta maaf tidak bisa hadir kemarin, tapi saudara-saudara sangat baik hati mempersilakan saya hadir hari ini. Saudara-saudara, kita hadir kita hidup dalam keadaan sekarang yang kita sama-sama merasakan dunia yang penuh dengan ketidakpastian bahkan dengan ancaman."
+  },
+  {
+   "t": 566.84,
+   "d": 78.68,
+   "text": "Perang di mana-mana terjadi. Perang dahsyat yang di luar bayangan kemanusiaan kita. Bahkan di Eropa mereka sangat khawatir menetusnya perang dunia ketiga dengan perang nuklir. Saudara-saudara sekalian, bencana kemanusiaan katastrof di mana puluhan ribu ibu-ibu, anak kecil, orang tua yang tidak berdosa menjadi korban yang luar biasa."
+  },
+  {
+   "t": 606.6,
+   "d": 113.28,
+   "text": "Ini terjadi, Saudara-saudara sekalian. Ini terjadi di tengah bangsa kita. Sedang membereskan rumah tangga kita, sedang membereskan diri kita sendiri, sedang membereskan kehidupan kita, Saudara-saudara. Kita merasakan semua kekurangan-kekurangan bangsa kita. Dalam pidato saya pertama di hadapan MPR R waktu saya di sumpah, dilantik, saya sudah mengatakan kita harus berani berani menghadapi, menatap, melihat kekurangan kita sendiri. Kita harus berani melihat kekurangan bangsa kita sendiri."
+  },
+  {
+   "t": 667.16,
+   "d": 65.8,
+   "text": "Kadang-kadang melihat kekurangan, melihat ketidakbenaran itu sangat sulit. Kadang-kadang kita tidak mau melihat kekurangan, Saudara-saudara sekalian, kita merasakan semua, seluruh bangsa kita merasakan kekurangan-kekurangan tersebut. kita merasakan selalu kita mengerti dan memahami bahwa negara kita penuh dengan kekayaan."
+  },
+  {
+   "t": 699.76,
+   "d": 100.08,
+   "text": "Tetapi kita tidak bisa pungkiri bahwa sebagian cukup besar dari rakyat kita belum menikmati kekayaan tersebut. Sebagian rakyat kita masih hidup dalam kesusahan, masih hidup dalam kesulitan, masih hidup dalam kemiskinan. kita menyadari hal itu. Masalah-masalah yang kita hadapi, masalah-masalah yang diutarakan oleh banyak pakar di mana-mana kita pahami, Saudara-saudara, pahami. Karena itulah saudara berpolitik."
+  },
+  {
+   "t": 754.24,
+   "d": 63.48,
+   "text": "Saya ingatkan apa arti politik? Arti politik dalam ilmu ya. Arti politik kalau kita buka buku-buku, arti politik adalah keinginan untuk memperbaiki kehidupan rakyat. Itu arti politik. Keinginan untuk memperbaiki kehidupan rakyat itu arti yang murni dari politik."
+  },
+  {
+   "t": 786.32,
+   "d": 78.28,
+   "text": "Tapi ternyata karena manusia penuh dengan nafsu, penuh dengan naluri-naluri yang ingin dominasi, ingin berkuasa untuk kepentingan sendiri. Terjadi pengertian yang negatif. Artinya adalah bahwa politik adalah keinginan merebut kekuasaan dan bahkan dengan segala cara."
+  },
+  {
+   "t": 830.08,
+   "d": 101.56,
+   "text": "Benar. Politik adalah berurusan dengan kekuasaan. Tapi kekuasaan itu harus di minta dari rakyat. Rakyat harus memberi kekuasaan secara sukarela, secara legowo, secara ikhlas. baru si penerima kekuasaan harus menerima kekuasaan dan menggunakan kekuasaan dengan searif-arifnya, dengan sejujur-jujurnya, dan dengan seutuhnya bekerja untuk yang memberi kekuasaan tersebut."
+  },
+  {
+   "t": 884.08,
+   "d": 53.16,
+   "text": "baru suatu negara itu berhasil. Negara ada berapa macam di dunia ini? Negara yang berhasil dan negara yang tidak berhasil. Tentunya kita ingin jadi negara yang berhasil. Sebagaimana dikatakan tadi oleh Presiden PKS, negara yang berhasil adalah negara di mana semua rakyat bisa hidup dalam kecukupan."
+  },
+  {
+   "t": 910.84,
+   "d": 57.0,
+   "text": "Kemakmuran dirasakan oleh seluruh rakyat Indonesia. Itu tujuan kita. Jadi, Saudara-saudara, PKS sebagai partai politik dengan Demokrat, dengan Gerindra, dengan partai-parti lain, kita membentuk partai politik karena itu adalah pilihan kita sebagai bangsa. Kita memilih hidup secara demokrasi."
+  },
+  {
+   "t": 939.4,
+   "d": 68.28,
+   "text": "Demokrasi yang kita pilih adalah demokrasi melalui keterwakilan. Pelaku demokrasi adalah partai-partai politik dan kita lakukan melalui kedaulatan rakyat. Kedolatan rakyat diberikan melalui pemilihan umum dan pemilihan daerah. Ini konsensus, ini kesepakatan, ini keputusan politik."
+  },
+  {
+   "t": 979.48,
+   "d": 97.93,
+   "text": "Jadi kalau kita ingin berhasil sebagai bangsa, kita harus sepakat dengan hal ini dan kita harus konsekuen dengan hal ini dan kita harus patuh dengan keputusan rakyat. Saudara-saudara sekalian, dalam kurun waktu 80 tahun kita telah mengalami pasang surut. Kita pernah mengalami perang ideologi. Kita pernah mengalami perang saudara. Kita pernah mengalami gangguan-gangguan dari mana-mana. Tapi alhamdulillah kita sekarang utuh, kita sekarang kuat, kita sekarang masih berdiri di atas kaki kita sendiri."
+  },
+  {
+   "t": 1028.25,
+   "d": 79.43,
+   "text": "[Tepuk tangan] Kita mengerti banyak kekurangan antara lain kita tidak bisa pungkiri korupsi masih sangat berlaku di bangsa kita ini. Memang kita mengerti hampir semua negara ada korupsi, tapi korupsi di kita harus kita akui menurut saya dalam keadaan yang sangat-sangat memprihatinkan."
+  },
+  {
+   "t": 1067.08,
+   "d": 63.04,
+   "text": "Rakyat sudah mengerti, rakyat tahu. Dan pemerintah yang saya pimpin, saya sendiri sebagai mandataris, penerima mandat dari rakyat, penerima kekuasaan dari rakyat, saya bertekad untuk memenuhi janji dan sumpah saya kepada bangsa dan Indonesia. Sewaktu saya ambil alih pemerintahan, saya semakin kaget."
+  },
+  {
+   "t": 1107.2,
+   "d": 78.28,
+   "text": "Saya tidak menduga parahnya korupsi tersebut. Tapi saya bertekad saya harus tegakkan pemerintah yang bersih. [Tepuk tangan] Hanya dengan pemerintah yang bersih Indonesia bisa bangkit. Saudara-saudara sekalian, kekayaan kita luar biasa. Tapi kita harus akui kelemahan dari elit kita."
+  },
+  {
+   "t": 1151.28,
+   "d": 68.44,
+   "text": "Kelemahan dari mereka-mereka yang kita anggap pintar dan cemerlang. ternyata kalah pintar dengan koruptor dan penipu-penipu dan manipulator-manipulator. Saudara-saudara sekalian, saya ambil kesimpulan dan akan saya panggil jaksa Agung, semua penegak hukum [Tepuk tangan] ini. PKS banyak juga tepuk tangannya ini."
+  },
+  {
+   "t": 1193.92,
+   "d": 56.44,
+   "text": "Sayang pemilu masih lama itu enggak kembali ini serius ini. Serius serius ini. Kalau banyak emak-emak aku grogi juga di sini enggak? Ini serius ya. Kembali saya akan panggil. Ternyata iya, koruptor-koruptor itu memang luar biasa lihainnya dan merugikan bangsa cukup parah."
+  },
+  {
+   "t": 1227.2,
+   "d": 70.84,
+   "text": "Dan korupsi yang paling besar, penyimpangan yang paling besar itu yang setengah setengah korupsi atau korupsi yang tersamar ya. Seolah legal tapi nyolong. Ini pintarnya. Pintarnya orang pintar. Repotnya orang pintar itu sering pintar nyolong. Aku heran juga ini gimana caranya itu."
+  },
+  {
+   "t": 1262.96,
+   "d": 73.39,
+   "text": "Jadi, Saudara-saudara, yang paling parah adalah kerugian sistemik. Ya, koruptor itu brengsek. Dia nyolong berat. Ada yang nyolong 2T, ada yang nyolong 3T. Ya kan saya lihat banyak gelang-gelang kepala. Ah inilah untuk orang PKS 2T banyak sekali. Benar ya. Begitu aku omong 2T, ada yang geleng-geleng kepala 2T."
+  },
+  {
+   "t": 1317.32,
+   "d": 79.08,
+   "text": "Kalau saya cerita berapa berapa ratus T uang negara yang hilang hampir tiap tahun? Mungkin kalian enggak geleng-geleng kepala lagi kali harus panggil dokter serius ini. Saya karena banyak wartawan, saya harus hati-hati bicara. Jadi, Saudara-saudara, tapi saya yakin di dalam hatinya wartawan-wartawan, sebetulnya apa yang saya ngomong mereka merasakan karena wartawan pun penghasilannya sedikit."
+  },
+  {
+   "t": 1367.52,
+   "d": 90.12,
+   "text": "Benar. Yang mungkin duitnya banyak ya, bos-bos kalian. wartawan ya gajinya ya kan. Jadi, Saudara-saudara ini adalah yang saya lihat ya, yang saya harus kita harus beresin nanti semua ini adalah suatu menurut saya perampokan sistemik. sistem yang dibuat dan kelengahan elit kita selama ini sehingga kekayaan kita terkeruk."
+  },
+  {
+   "t": 1418.6,
+   "d": 82.68,
+   "text": "Sebagai contoh, sebagai contoh di Bangka Belitung yang untuk cukup lama menjadi pusat tambang timah terkemuka di dunia. itu terdapat 1000 tambang ilegal. 1000 tambang ilegal. Mulai tanggal 1 September kemarin saya perintahkan TNI, Polri, Be Cuki bikin operasi besar-besaran di Bangka Belitung."
+  },
+  {
+   "t": 1476.12,
+   "d": 72.84,
+   "text": "menutup yang selama ini hampir 80% hasil timah tiap tahun diselundupkan tiap tahun. 80% timah kita kita tutup dan nyelundumnya macam-macam. Ada yang pakai kapal, ada yang pakai feri, ada yang pakai sekarang tutup tidak bisa keluar. Sampan pun tidak bisa keluar."
+  },
+  {
+   "t": 1524.04,
+   "d": 123.28,
+   "text": "Kita perkirakan September, Oktober eh ya September, Oktober, November, Desember kita bisa selamatkan 22 triliun. Tahun depan kita perkirakan kita bisa ee selamatkan 45 triliun. dari dua pulau ini saja. Tetapi ah tetapi yang lebih merisaukan tapi juga memberi harapan ternyata limbahnya limbahnya memiliki nilai yang sangat tinggi karena limbahnya ternyata berisi mineral-mineral yang disebut But tanah jarang, rare earth."
+  },
+  {
+   "t": 1592.96,
+   "d": 68.2,
+   "text": "Jadi, Saudara-saudara, mungkin pejabat-pejabat kita tidak mengerti. Dia kira limbah, padahal tanah jarang. Makanya ini sekarang saya perintahkan biaya cukai itu harus merekrut beberapa ahli-ahli kimia supaya ngecek. Dia lihat pasir. Padahal ini pasirnya nilainya luar biasa, Saudara-saudara."
+  },
+  {
+   "t": 1628.16,
+   "d": 114.2,
+   "text": "Di banyak bidang sama. nikel, batubara, boksit, hampir semua terdapat tambang-tambang ilegal yang sangat besar dan sangat banyak. Ini saya perintahkan untuk segera ditertibkan, dibersihkan, tambang ilegal ditutup atau diambil alih untuk negara. Saudara-saudara sekalian dan ini menjanjikan bahwa bila kita tegakkan ini, insyaallah penerimaan negara jauh lebih besar, kebocoran-kebocoran kita tutup sehingga negara akan punya kemakmuran."
+  },
+  {
+   "t": 1699.96,
+   "d": 150.16,
+   "text": "Saudara-saudara sekalian, masalah ini ternyata menyinggung kekuatan-kekuatan besar yang selama ini menikmati penyimpangan sistemik ini. menikmati penyimpangan sistemik ini dan mungkin mereka terusik, mungkin mereka sedang menyusun perlawanan dan kita terus investigasi kerusuhan-kerusahan berapa saat yang lalu i yang kita melihat indikasi ada keterlibatan kekuatan-kekuatan tertentu untuk bikin gaduh, untuk menghentikan pembangunan dan kebangkitan ekonomi Indonesia. Karena mereka tidak ingin Indonesia makmur. Mereka tidak ingin rakyat Indonesia hidup sejahtera. Mereka ingin meneruskan paradoks yang kita alami sekarang."
+  },
+  {
+   "t": 1786.4,
+   "d": 66.12,
+   "text": "Kekayaan begitu besar hanya dinikmati oleh segelintir orang saja. Ini yang akan saya lawan. Ini akan saya. Dan saya berharap saudara-saudara sekalian, semua partai politik termasuk PKS bersama saya. Mari kita lawan ini, Saudara-saudara. Saya benar-benar tidak membenci siapapun."
+  },
+  {
+   "t": 1826.72,
+   "d": 82.32,
+   "text": "Tapi saya katakan bahwa perintah Undang-Undang Dasar, perintah pendiri-pendiri bangsa kita adalah bahwa bumi dan air dan semua kekayaan yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan sebesar-besarnya untuk kemampuran rakyat. Itu adalah perintah undang-undang dasar kita. Dan hanya itu, Saudara-saudara, hanya itu yang bisa menyelamatkan masa depan anak-anak dan cucu-cucu kita."
+  },
+  {
+   "t": 1871.2,
+   "d": 92.69,
+   "text": "Saudara-saudara sekalian, saya menjelang 1 tahun menerima mandat saya sekarang berdiri dengan penuh kepercayaan diri dan keyakinan. Karena dalam 11 bulan kita telah membuktikan dengan itikad yang baik. dengan tujuan yang baik, dengan hati yang ikhlas, dengan cinta tanah air dan cinta rakyat, kita bisa berbuat banyak. Kita telah menyelamatkan minimal Rp300 triliun."
+  },
+  {
+   "t": 1917.73,
+   "d": 74.59,
+   "text": "[Tepuk tangan] Rp300 triliun inilah yang kita pakai untuk makan bergizi gratis. Saudara-saudara sekalian, sampai hari ini sudah menjelang 30 juta penerima manfaat, 30 juta anak dan ibu-ibu hamil tiap hari menerima makanan. Bahwa ada kekurangan. Iya. Ada keracunan makan? Iya, kita hitung."
+  },
+  {
+   "t": 1961.12,
+   "d": 94.84,
+   "text": "Dari semua makanan yang keluar, penyimpangan atau kekurangan atau kesalahan itu adalah 0,0017%. ini tidak membuat bahwa kita puas dengan itu, tapi namanya usaha manusia yang demikian besar yang belum pernah dilaksanakan saya kira dalam sejarah dunia berasil memerlukan 11 tahun untuk mencapai 40 juta penerimaan manfaat. Presiden yang cerita sama saya, mereka butuh 11 tahun. Kita 11 bulan sudah 30 juta."
+  },
+  {
+   "t": 2018.52,
+   "d": 95.0,
+   "text": "[Tepuk tangan] Ada kekurangan? Ada, tapi manfaatnya sangat-sangat besar. Kita tidak bisa menduga, kita mungkin PKS yang di daerah-daerah merasakan pasti. Tapi banyak elit Indonesia tidak bisa menduga bahwa anak-anak kita, rakyat kita makan nasi pakai garam. Ini kita buktikan bahwa kita bisa memberi sesuatu, memberi bantuan, memberi apa yang mereka butuh."
+  },
+  {
+   "t": 2073.56,
+   "d": 61.41,
+   "text": "Saudara-saudara sekalian, dengan program makan bergizi ini menjadi strategis, menjadi sesuatu yang di luar ekspektasi kita. Ternyata dengan makan bergizi ini kita bisa menciptakan lapangan di akhir tahun di awal tahun depan Januari Februari 1,5 juta lapangan kerja baru."
+  },
+  {
+   "t": 2106.65,
+   "d": 112.55,
+   "text": "[Tepuk tangan] Kita telah berhasil menghidupkan ekonomi rakyat bahwa tiap hari kita butuh telur, kita butuh sayur, kita butuh ikan, kita butuh ayam, kita butuh bahan-bahan dari kampung-kampung itu sendiri, dari kecamatan-kecamatan itu sendiri. di puncaknya nanti tahun depan kita akan glontorkan mendekati 300 triliun untuk makan bergizi 300 triliun persisnya berapa menseknek 3005 335 triliun yang adalah 20 miliar dolar."
+  },
+  {
+   "t": 2171.48,
+   "d": 60.8,
+   "text": "20 miliar dolar kita kirim ke desa-desa. 335 triliun kita kirim ke desa-desa, Saudara-saudara, yang selama berapa puluh tahun uang dari daerah mengalir ke Jakarta dan di Jakarta sering mengalir ke luar negeri, menetap di luar negeri dan tidak tinggal. di Indonesia. Kita balik sekarang uang masuk ke desa-desa."
+  },
+  {
+   "t": 2207.7,
+   "d": 144.62,
+   "text": "[Tepuk tangan] Dan saudara-saudara, dalam ilmu ekonomi ada yang disebut the velocity of money. Kalau Rp1iah beredar di suatu tempat, rupiah itu bisa menimbulkan 2 3 4 rupiah baru yang beredar. Jadi, Saudara-saudara, kita bisa bayangkan kegiatan ini yang saya sebut tadi 300 triliun itu bisa menciptakan kehidupan ekonomi senilai 600 triliun, mungkin 900 triliun. Karena apa? Karena tiap hari rakyat desa itu tahu bahwa dapur itu memerlukan sekian ratus kilo beras, sekian timun, sekian sayur, sekian ikan, sekian telur, sekian ayam."
+  },
+  {
+   "t": 2288.56,
+   "d": 108.68,
+   "text": "Jadi dia punya captive market, dia punya offake, dia punya sesuatu harapan yang pasti. Petani-petani kita dari dulu justru waktu panen dia risau, waktu panen harga jatuh. Tapi sekarang karena yang akan menerima, yang akan mengambil hasilnya adalah rakyat sendiri, adalah saudara-saudara mereka sendiri, adalah pemerintah mereka sendiri. Jadi mereka punya jaminan pasar, mereka tidak akan punya panen yang tidak terserap. Ini, Saudara-saudara, sasaran kita. Dan ini kita sudah hampir sampai di titik itu."
+  },
+  {
+   "t": 2344.04,
+   "d": 93.64,
+   "text": "Jadi, Saudara-saudara 30 juta kita bangga, kita risa, makanya kita tertibkan semua SPPG, semua dapur kita sudah bikin SOP, semua alat harus dicuci pakai alat yang modern, tidak terlalu mahal. Untuk membersihkan, membunuh semua bakteri. Kita juga perintahkan semua dapur harus punya test kit, alat uji sebelum distribusi harus diuji semuanya dan langkah-langkah preventif lainnya, Saudara-saudara."
+  },
+  {
+   "t": 2395.04,
+   "d": 73.96,
+   "text": "Kita mengerti 30 juta suatu prestasi. Tapi ingat, sasaran kita masih jauh. Sasaran kita adalah 82 juta penerima manfaat. 30 juta kita boleh bangga. Tapi saya sebagai Presiden masih masih sangat sedih karena masih 50 juta anak-anak dan ibu hamil yang menunggu."
+  },
+  {
+   "t": 2434.32,
+   "d": 47.92,
+   "text": "Tapi kita tidak bisa paksakan untuk lebih cepat. Sekarang saja bisa terjadi penyimpangan. Bayangkan kalau kita paksakan dengan secepat-cepatnya, mungkin penyimpangan dan kekurangan bisa lebih dari itu. 30 juta prestasi dan saya yakin ini akan meningkat ya, tidak linier tapi akan meningkat."
+  },
+  {
+   "t": 2457.16,
+   "d": 64.24,
+   "text": "Tetapi ya inilah sebagai seorang pemimpin, sebagai seorang bapak, saya bangga dengan 30 juta. Tapi saya masih ingat 502 juta anak-anak kita masih berharap, masih menunggu dengan ibu-ibu hamil. Tapi saudara-saudara, rawi-rawi rantas, malang-malang putung, kita tidak takut dengan kesulitan."
+  },
+  {
+   "t": 2492.64,
+   "d": 57.44,
+   "text": "Kita tidak takut dengan tantangan. Kita tidak boleh gentar dengan masalah. Kita selesaikan, kita hadapi, kita atasi, kita kerja keras untuk rakyat yang kita cintai. Saudara-saudara, Saudara-saudara sekalian. Tadi saya singgung bahwa banyak kekurangan kita, banyak kesulitan kita, bahwa ada penyimpangan sistemik."
+  },
+  {
+   "t": 2537.16,
+   "d": 66.36,
+   "text": "Ya, sistem ini harus kita perbaiki dan insyaallah dengan dukungan saudara-saudara, kita akan memperbaiki sistem ini. Tidak ada pilihan lain untuk nyelamatkan yang sekian ratus juta rakyat, kita harus berani memperbaiki sistem yang keliru, sistem yang salah, sistem yang memungkinkan kekayaan kita diambil tiap hari, tiap bulan, dibawa ke luar negeri dan tidak kembali ke Indonesia. Ini harus kita hentikan dan akan kita hentikan."
+  },
+  {
+   "t": 2581.4,
+   "d": 71.48,
+   "text": "Saya mohon doa saudara-saudara, saya mohon dukungan saudara-saudara supaya Presiden Prabowo Subianto lebih berani lagi. Saudara sekalian, saya berharap semua organisasi dengan jalur, dengan sayap-sayap, dengan jaringan, Saudara-saudara sekalian, saya sudah bicara ke ulama-ulama, saya sudah bicara ke tokoh-tokoh agama, sampaikan ke semua rakyat, sampaikan ke ibu-ibu."
+  },
+  {
+   "t": 2623.24,
+   "d": 61.52,
+   "text": "Bapak-bapak kasih tahu ke anak-anaknya, jangan mau diadu domba, jangan mau dihasut. Kalau memperjuangkan demokrasi, kalau memperjuangkan hak azazi manusia, kalau memperjuangkan keadilan, kalau memperjuangkan perlawanan terhadap korupsi, tidak dengan kerusuhan, tidak dengan bakar-bakar, Saudara-saudara sekalian."
+  },
+  {
+   "t": 2659.0,
+   "d": 57.28,
+   "text": "Apalagi yang dibakar dibangun dengan uang rakyat. katanya memperjuangkan demokrasi, lembaga demokrasi, gedung DPR, DPRD dan dibakar, membuat kerusuhan, membikin bom molotov. Ini adalah kejahatan. Ini bukan aktivis, bukan pejuang demokrasi, bukan pejuang keadilan."
+  },
+  {
+   "t": 2690.04,
+   "d": 113.08,
+   "text": "Mereka hatinya jahat. They are evil. Mereka zalim. Mereka ingin membuat kekacauan. Mereka ingin mengadu domba. Mereka ingin menghentikan kebangkitan bangsa Indonesia. Selalu diberikan pesimisme, selalu diberikan gambar yang menurunkan harapan. Saudara-saudara, saya juga bisa, saya punya data itu semua, tapi saya harus menyaring dan saya harus melihat dan saya melihat bahwa tadi baru berapa bulan tapi dengan itikat baik, dengan niat untuk melakukan pemerintahan yang bersih."
+  },
+  {
+   "t": 2750.52,
+   "d": 77.24,
+   "text": "Kita buktikan kita bisa nyelamatkan 300 triliun mungkin lebih. Di semua bidang banyak kekurangan. Makanya kita kerja keras. Kita kerja keras. Saya kasihan sama menteri-menteri saya sebetulnya. Malam minggu ratas, hari Minggu ratas. Karena saya katakan kepada mereka, saya kutip apa yang disebut oleh Bung Karno pernah, \"The hungry stomach cannot wait.\" Perut yang lapar tidak bisa menunggu."
+  },
+  {
+   "t": 2803.32,
+   "d": 48.16,
+   "text": "Anak-anak yang berharap tidak boleh menunggu lama-lama lagi. Kita harus kerja keras dan kita sedang kerja keras. Saudara-saudara, prestasi pemerintah yang saya pimpin cukup membanggakan. Karena itu sekarang kalau saya diundang oleh parpol, saya semangat datang karena saya bisa cerita ya kan?"
+  },
+  {
+   "t": 2832.68,
+   "d": 87.56,
+   "text": "Dan karena saudara juga bagian dari koalisi saya ya, kalian ikut bangga juga dong. Iya kan? Tapi kau perhatikan enggak? Baru setelah ya setelah Agustus lah aku lebih berani tampil. Benar. Terus terang aja bulan-bulan pertama pemerintah komunikasinya kurang. Saya akui karena kita lagi kerja, kita komunikasi sering, bicara baik-baik, tapi hasilnya enggak ada. Malu, malu, malu sama rakyat. Kasihan sama rakyat."
+  },
+  {
+   "t": 2879.84,
+   "d": 61.64,
+   "text": "Saya kalau keliling daerah, anak-anak keluar dari rumah, mereka teriak, \"Pak, Pak, makan bergizi, Pak.\" Oh, ya. Sudah terima belum, Pak? Belum terima. Bayangkan itu gimana itu. Aduh, sabar ya. Habis itu langsung kepala BGN saya telepon. Kepala BGN sudah botak kepalanya itu, Saudara-saudara."
+  },
+  {
+   "t": 2917.24,
+   "d": 84.16,
+   "text": "Sekarang pupuk sampai ke petani. Tadinya ada 145 peraturan harus tanda tangan ini, tanda tangan ini, tanda tangan ini, tanda tangan ini, tanda tangan. Habis itu pupuknya menghilang enggak tahu ke mana. Ya, saya pernah diberitahu waktu saya hapus semua itu. Saya perintahkan dari pabrik pupuk milik negara, pupuk disubsidi oleh negara, uang rakyat, maka pupuk itu harus langsung ke petani."
+  },
+  {
+   "t": 2960.52,
+   "d": 56.44,
+   "text": "Jangan terlalu banyak perantara. Habis itu ada yang sampaikan ke saya, \"Pak, nanti Bapak kehilangan loh, kehilangan dukungan.\" Kenapa, Pak? Ada 20 7.000 distributor. Sekarang mereka kehilangan, Pak. 27.000 distributor. Saya bilang, \"Berapa petani yang ada di Indonesia?\""
+  },
+  {
+   "t": 2991.52,
+   "d": 71.52,
+   "text": "30 juta KK. Dengan suami istri 100 juta menang mana? 27.000 atau R00 juta? Dan saya sudah lama jadi orang Indonesia. Saya tahu itu distributor-distributor itu ya. Saya tahu itu pona bupati ya. He. Sepupunya tim suksesnya. Maaf deh, kan kita sudah lama jadi orang Indonesia ya kan?"
+  },
+  {
+   "t": 3034.84,
+   "d": 116.96,
+   "text": "Habis itu udahlah kita sudah tahu kan kalau bupati nanti dia yang harus tanda tangan nanti dia cek oh kecamatan itu enggak milih gue desa itu enggak milih saya enggak deh pupuknya kurangi aja kasih yang milih gue. Ya, ini yang enggak benar saudara-saudara. [Tepuk tangan] Dan waktu saya perintahkan ee apa itu potong mata rantai ini yang 27.000 apa itu kecewa ya kan ada kader Gerindra yang pintar dia datang ke Menteri Pertanian Pak kalau bisa yang 27.000 Ibu diganti kader-kader Grinder aja gitu."
+  },
+  {
+   "t": 3092.6,
+   "d": 149.48,
+   "text": "Ada wartawan sih. Pokoknya saya bilang enggak ada itu. Tidak ada yang gantikan dari Papuk sampai ke situ. Enggak ada itu hak. Mau petaninya milih PKS, milih Demokrat, mau enggak ada urusan. Politik adalah politik. Hak adalah hak. politik politik [Tepuk tangan] politik itu di kotak suara urusan si warga negara dengan hati nuraniainya dan dengan yang maha kuasa di atas enggak ada urusan namanya. Ya, kader kan lihat kesempatan enggak ada enggak ada kader-kader gerinda yang datang-datang lagi ke menteri-menteri macam-macam lagi enggak ada itu ya kan saudara-saudara dan kenyataan coba cek ya kan di mana coba Sumatera Barat saya kalah ya terlalu semangat."
+  },
+  {
+   "t": 3185.4,
+   "d": 54.52,
+   "text": "Minta minta izin boleh ya. Serikat panitia saya dibatasi sampai jam berapa ini? Saudara-saudara, ternyata cek Sumatera Barat. Pupuk lancar enggak di situ? Lancar. Aku kalah juga di Aceh ya kan. Coba cek ya kan pupuk lancar enggak? Coba cek bupati-bupati PKS ya kan? Enggak ada."
+  },
+  {
+   "t": 3222.96,
+   "d": 64.76,
+   "text": "Kita harus dewasa. Kita harus jadi bangsa yang dewasa. [Tepuk tangan] Kita ingin menang, tapi kita juga harus siap kalah. Kalau mau belajar kalah, belajar dari Prabowo Subianto. [Tepuk tangan] Lima kali pemilihan, empat kali kalah. PKS ikut-ikut lagi. Dua kali dukung gue, dua kali kalah."
+  },
+  {
+   "t": 3261.0,
+   "d": 53.32,
+   "text": "Yang gue menang, lu enggak dukung lagi. Tapi oke, yang liwat-liwat kita bersatu sekarang untuk bangsa dan negara, Saudara-saudara. Ya, politik seperti itu. Politik juga harus ramai ya kan. Enggak ada masalah. Aku aku tuh terusang aja loh. Saya tuh enggak enggak dendem sama Anis. Enggak."
+  },
+  {
+   "t": 3296.0,
+   "d": 53.04,
+   "text": "Kalau ya dikasih nilai 11 itu gua enggak apa-apa itu. Eh, benar loh. Sebetulnya dia yang bantu, aku menang, Saudara. Karena emak-emak kasihan gitu loh. Iya kan, Saudara-saudara? Kalau debat presiden atau kan enggak menarik. Rakyat senang lihat apa itu? lihat ramai-ramai senang. Benar enggak?"
+  },
+  {
+   "t": 3325.4,
+   "d": 76.94,
+   "text": "Jujur. Iya kan? Jadi saudara-saudara kita harus kita harus demokrasi yang dewasa ya kan. Siapa presiden? Siapa wakil presiden, siapa ya oke yang penting siapapun kita bersatu. Kita kerja untuk bangsa dan negara. [Tepuk tangan] Kita akan membentuk koperasi desa dan kelurahan di 80.000 Ibu Desa, Saudara-saudara sekalian, ini akan terwujud dan rakyat akan nanti punya kekuatan ekonomi."
+  },
+  {
+   "t": 3371.0,
+   "d": 76.24,
+   "text": "Karena kita anggap semua penduduk desa itu otomatis jadi anggota koperasi Desa Merah Putih tersebut. Otomatis. Jadi dia akan dapat barang-barang dengan harga yang semurah-murah yang kita bisa capai. Kita percepat mata rantai distribusi. Semua produksi mereka kita bisa serap. Kita akan bikin supermarket-supermarket milik koperasi di setiap kabupaten."
+  },
+  {
+   "t": 3415.16,
+   "d": 74.32,
+   "text": "Kita akan bikin hypermarket di tiap provinsi dan hypermarket di pusat Indonesia. Jadi semua produk dari petani kita, nelayan kita, UMKM kita, kita beri tempat beli pasar yang baik, yang bagus. Saudara-saudara sekalian, kita sudah hitung bahwa hitungan kita, kita akan meringankan beban hidup rakyat kita dengan signifikan."
+  },
+  {
+   "t": 3461.84,
+   "d": 107.16,
+   "text": "beras akan murah, minyak goreng akan murah, LPG bersubsidi akan sampai, pupuk bersubsidi harus sesuai harga jual dan nanti kita akan bikin tenaga surya di tiap desa sehingga nanti tiap desa kita akan mandiri, Saudara-saudara. Perumahan Rakyat. Hari ini berapa jam lagi? Saya akan resmikan pembagian rumah 25.000 rumah. Hari ini kita sudah tingkatkan kuota fasilitas likuiditas pembiayaan perumahan ke 350.000 penerima."
+  },
+  {
+   "t": 3516.2,
+   "d": 68.8,
+   "text": "Saudara-saudara sekalian, kita akan membangun ratusan ribu rumah. Memang ini tidak bisa seketika, tapi dalam minggu-minggu akan datang, bulan-bulan akan datang, kita akan perlihatkan membuktikan kepada rakyat real kita serius. tanah-tanah negara yang belum dimanfaatkan secara maksimal kita peruntukkan untuk perumahan rakyat tercapai."
+  },
+  {
+   "t": 3553.4,
+   "d": 74.28,
+   "text": "Tidak, tidak semata-mata selalu untuk perumahan mewah. Justru perumahan untuk rakyat yang paling bawah kita harus siapkan dan akan kita siapkan, Saudara-saudara. Pembangunan 100 Desa Nelayan sudah berjalan dan kita akan tambah minimal 1000 desa nelayan. Harapan kita tahun depan akhir bisa sampai 2000 desa nelayan. Satu desa nelayan terdiri dari 2.000 nelayan."
+  },
+  {
+   "t": 3592.36,
+   "d": 67.48,
+   "text": "Kalau 2000 desa nelayan berarti 4 juta nelayan. dengan istri dan anak dua itu berarti 16 juta. 16 juta saudara-saudara kita penghasilannya akan meningkat. Yang tadinya tidak punya pabrik es akan punya pabrik es. Yang tadinya tidak punya dermaga akan punya dermaga. yang tadinya tidak punya ee gudang cold storage akan punya gudang cold storage."
+  },
+  {
+   "t": 3627.4,
+   "d": 103.04,
+   "text": "Saudara-saudara, kita sudah uji coba satu desa nelayan di Papua, di Biak, ternyata penghasilan nelayan itu naik minimal 60%, ada yang naiknya 100%. Kita akan bangun 20.000 R000 hektar tambak di Pantura Jawa Barat sebagai awal ini akan membuka 130.000 lapangan kerja. Saudara-saudara sekalian, kita juga sudah merintis cetak sawah baru 480.000 000 hektar yang sudah dikerjakan adalah 200 80.000 hektar, Saudara-saudara."
+  },
+  {
+   "t": 3689.36,
+   "d": 78.96,
+   "text": "Produksi beras kita tertinggi sepanjang sejarah NKRI tertinggi. Dan masalahnya sekarang adalah kita kekurangan gudang. Karena itu saya sudah mengalokasikan 100 gudang baru untuk Bulok akan bangun 100 gudang baru masing-masing di tanah sekitar 5 hektar gudang tersebut. Gudang modern yang bisa disebut dan itu mereka hanya butuh 5 triliun, 5T."
+  },
+  {
+   "t": 3729.72,
+   "d": 92.6,
+   "text": "Karena penghematan kita dari macam-macam ee kebocoran dan korupsi yang kita cegat. Sekarang Presiden Republik Indonesia agak gagah sedikit. Kalau untuk kepentingan rakyat setuju turunkan uang segera. Saudara-saudara sekalian, kalau untuk hura-hura kita kurangi, maaf kita kurangi kunjungan-kunjungan kerja, anggota-anggota DPR, kunjungan kerja, apa itu FGD, FGD. D ya. Rapat-rapat di mana-mana ya. Kita kurangi."
+  },
+  {
+   "t": 3788.56,
+   "d": 55.84,
+   "text": "Saudara-saudara, kita juga akan modernisasi 1500 kapal nelayan ini akan menghasilkan 600.000 lapangan kerja baru. Gaji guru sudah kita tingkatkan. Dan kita sudah memberi tunjangan layak bagi guru-guru non IN. Dan sekarang tunjangan guru ditransfer langsung ke rekening penerima."
+  },
+  {
+   "t": 3826.64,
+   "d": 65.76,
+   "text": "Enggak liwat ini, lewat ini, lewat ini. Karena kita sudah lama jadi orang Indonesia. Tiap liwat potong sedikit, tiap liwat potong sedikit. Ya sudahlah, ya kan? Sudah lama. Jadi orang Indonesia, Saudara-saudara, kita akan bangun 20 sekolah unggul Garuda, 80 sekolah unggul Garuda Transformasi, dan total en SMA Taruna Nusantara di daerah-daerah."
+  },
+  {
+   "t": 3863.4,
+   "d": 81.04,
+   "text": "Dan rencana saya akan membangun 20 politeknik di daerah-daerah yang ketinggalan, yang terbelakang, 20 Politeknik Rakyat, Sekolah Rakyat sudah kita ee bangun 165 titik dan kita menuju ke 500 sekolah rakyat. Tapi saya sedang merencanakan dan saya sedang melihat keuangan. Saya ingin membuat sekolah unggulan terpadu di setiap kecamatan."
+  },
+  {
+   "t": 3912.12,
+   "d": 67.32,
+   "text": "Saya tidak tahu berapa tahun akan tercapai, tapi kita harus berani mulai, Saudara-saudara sekalian. Jadi, menghadapi masalah membutuhkan keberanian, bukan jiwa yang kecil. Tentukan tujuan, kerahkan pikiran, tenaga. Rencanakan dengan baik, cari sumber daya, wujudkan, atasi masalah."
+  },
+  {
+   "t": 3951.88,
+   "d": 76.0,
+   "text": "Dan nanti akan ada yang nyinyir. Apakah bisa? Uangnya dari mana? uangnya dari yang bocor-bocor itu, Bung. Saudara-saudara, tahun ini juga akan kita bagi 330.000 Ibu layar digital interaktif satu layar tiap sekolah di seluruh Indonesia termasuk 330.000 termasuk ee termasuk pesantren."
+  },
+  {
+   "t": 3997.36,
+   "d": 100.56,
+   "text": "Iya, insyaallah termasuk pesantren-pesantren, Saudara-saudara. Artinya di tiap sekolah tahun ini baru satu tiap sekolah. Tapi tahun depan kita akan tambah tiga layar tiap sekolah. Jadi nanti tiap sekolah akan punya empat layar. di layar itu bagi sekolah-sekolah yang di daerah kesulitan guru-guru tertentu, kita akan siarkan pelajaran dari pusat dengan guru-guru terbaik dengan animasi dan layar ini ternyata adalah layar interaktif."
+  },
+  {
+   "t": 4050.92,
+   "d": 69.4,
+   "text": "Jadi dari pusat kita bisa buka chat, kita cek SMP sekian, desa sekian, kecamatan sekian. Kita buka tak kelihatan gurunya ada atau tidak. Iya kan? Kita bisa monitor, Saudara-saudara. Ini jalan pintas kita. Kita harus kerahkan semua upaya kita untuk tingkatkan kemampuan pendidikan anak-anak kita. Anak-anak kita adalah masa depan kita."
+  },
+  {
+   "t": 4088.24,
+   "d": 56.68,
+   "text": "Bangsa Indonesia harus terdiri dari rakyat yang pandai, yang kuat, yang semangat, yang berani, yang gembira. Ini yang kita harapkan dari sekolah-sekolah kita. Saudara-saudara, salah satu prestasi kita 10 menit ya. Ini nanti ustaz-ustaz ini sudah wah ini sudah waktu hah waktu salat ya nih."
+  },
+  {
+   "t": 4122.72,
+   "d": 66.52,
+   "text": "Tapi habis salat saya siap kembali lagi kalau mau [Tepuk tangan] salah saudara-saudara sekalian ngundang saya itu Prabowo Subianto. Jangan dikasih podium. di PBB, di PBW aja saya lupa pakai pukul-pukul meja sampai saya disindir-sindir oleh Trump. Dia bilang gitu, \"Ini orang pukul-pukul meja.\" Dia bilang, \"Ini dia lagi semangat. Bagaimana kalau dia marah?\""
+  },
+  {
+   "t": 4167.44,
+   "d": 94.68,
+   "text": "Aduh, minta ampun. ini ad kuasa saudara-saudara. Salah satu prestasi kita yang harus kita syukuri. Kita telah membentuk suatu dana sovereign wealth fund, dana kedaulatan yang kita beri nama danantara Indonesia. Dan antara adalah singkatan daya anagata nusantara, daya energi kekuatan anagata masa depan Nusantara. Jadi dana ini adalah kekuatan energi masa depan Indonesia."
+  },
+  {
+   "t": 4219.6,
+   "d": 60.2,
+   "text": "Ternyata kaget banyak di antara kita, termasuk saya tidak menduga kalau kita kumpulin semua aset milik negara nilainya adalah lebih dari 1.000 miliar dolar. 1 triliun 1060 kumpulin semua. Ternyata kita ketemu aset di sini. Aset di sini, aset di sini. Luar biasa itu."
+  },
+  {
+   "t": 4254.28,
+   "d": 71.56,
+   "text": "Jadi banyak birokrat-birokrat kita yang pintar pintar sembunyikan aset 1000 triliun tinggal manajemen. Saya perintahkan bersihkan itu BUMN kadang-kadang nekat-nekat mereka itu ya diberi kepercayaan oleh negara. Dia kira itu perusahaan nenek moyangnya. Perusahaan rugi dia tambah bonus untuk dirinya sendiri. Brengsek banget ini."
+  },
+  {
+   "t": 4309.96,
+   "d": 72.64,
+   "text": "Saya mau kirim kejaksaan sama KPK untuk ngejar-ngejar itu semuanya. Bagaimana? Saudara perlu dikejar atau tidak? Nanti dibilang Prabowo kejam. Saudara-saudara, kita kasih kesempatan mereka bersihkan itu. Bom, saya berharap dari dalam 2 3 tahun 4 tahun kita bisa bersihkan ya saudara-saudara. Kalau dagang dagang yang biasa ya itu harusnya hasilnya itu yang wajar itu 10% dari aset."
+  },
+  {
+   "t": 4358.0,
+   "d": 81.44,
+   "text": "Kalau aset kita 100, harusnya tiap tahun kita dapat hasil 10%. Iya kan? Jadi dari 1000 miliar dolar harusnya negara kita dapat hasil 100 miliar dolar tiap tahun. 100 miliar dolar berapa itu MEKN? Menseknek ini ahli hitung berapa? 100 miliar dolar kali 16.000 100 1600 triliun."
+  },
+  {
+   "t": 4402.88,
+   "d": 87.16,
+   "text": "1600 triliun, Saudara-saudara harusnya. Oke. Karena kita orang Indonesia yang 10% ketawa ini PKS ini kalau dari 10% oke deh. 5%. 5% harusnya 50 miliar dolar kan berarti 800 triliun. Iya kan? Enggak defisit kita. Enggak juga 5%. Ya udah deh, enggak 5% 3%. Enggak juga. Tapi kita kasih target mereka ini dalam 3 tahun."
+  },
+  {
+   "t": 4455.68,
+   "d": 83.9,
+   "text": "Kita tunggu kita tunggu hasil mereka. Insyaallah akan mencapai yang kita harapkan saudara-saudara. [Musik] Masih ada 5 menit, Saudara-saudara. Saya percaya Danantara akan menciptakan jutaan lapangan kerja. Jutaan lapangan kerja. Cek cek kesehatan gratis pertama kali dalam sejarah Republik Indonesia sekarang sudah sampai 36 juta warga negara termasuk ibu hamil."
+  },
+  {
+   "t": 4502.24,
+   "d": 126.16,
+   "text": "Saudara-saudara, pemerintah sudah berhasil menguasai kembali 3,2 juta hektar kebun kelapa sawit yang bermasalah, yang melanggar aturan, yang tidak tertib, yang tidak memenuhi kewajiban-kewajibannya. sudah dikasih tahu peringatan berkali-kali bandel tidak mau kita kuasai kembali tidak ada alasan kita kembali sekarang milik negara dan ini akan membuka lapan kerja minimal 1 juta lapan kerja karena kita perintahkan kebun-kebun kelapa sawit itu harus nanti lahan-lahannya dibagi dalam bentuk ee inti rakyat Jadi tiap rakyat yang perlu dan yang ingin yang akan kita bagi 2 hektar masing-masing untuk dikelola."
+  },
+  {
+   "t": 4567.08,
+   "d": 83.32,
+   "text": "Jadi bukan korporasi besar, korporasi besar kerja sama dengan rakyat kecil. Ini yang kita inginkan. Ini adalah ekonomi kekeluargaan yang kuat, narik, yang lemah. Sama-sama kita meraih kemakmuran. Saudara-saudara sekalian, kita juga harus segera bangun tanggul laut pantura Jawa untuk selamatkan pantai utara Jawa. Segera akan kita mulai membangun tanggul sepanjang 535 km, Saudara-saudara."
+  },
+  {
+   "t": 4612.84,
+   "d": 80.12,
+   "text": "ini akan selamatkan 50 juta rakyat kita dan juga begitu banyak kawasan industri di pantai utara dan ini mungkin membutuhkan waktu yang tidak sedikit. Perhitungan kita mungkin ini butuh 20 sampai 25 tahun. Tapi kita tidak boleh ragu-ragu. Minimal kita mulai sekarang nanti ada generasi-generasi yang akan selesaikan. Perjalanan 1000 km dimulai oleh satu langkah. Langkah itu harus kita lakukan dengan keberanian dan keputusan."
+  },
+  {
+   "t": 4657.24,
+   "d": 105.08,
+   "text": "Saudara-saudara sekalian, dalam APBN 2026 yang baru saja disetujui dari alokasi tersebut 1377 137 triliun akan langsung ke rakyat, tidak ke mana-mana, langsung ke rakyat yaitu teruskan program keluarga harapan beasiswa sembakau, bantuan iuran BPJS, renovasi sekolah, cek kesehatan gratis dan semua program kita ini berarti ekonomi kita akan bangkit. Saudara-saudara sekalian, demikian yang ingin saya sampaikan kepada Saudara-saudara sekalian. Terima kasih dukungan Partai PKS."
+  },
+  {
+   "t": 4713.04,
+   "d": 82.08,
+   "text": "Mari kita bahu-membahu, rapatkan barisan, bekerja untuk rakyat. Saya minta saudara-saudara sampaikan kepada semua keluarga besar saudara, jaringan saudara bahwa Indonesia punya masa depan yang cerah. Syaratnya kita harus pandai menjaga dan mengelola kekayaan kita. Saudara-saudara sekalian, untuk menyelamatkan kepentingan rakyat, saya tidak akan ragu-ragu menegakkan Undang-Undang Dasar dan semua perundangan yang berlaku di Indonesia."
+  },
+  {
+   "t": 4761.48,
+   "d": 55.64,
+   "text": "Kalau ada yang menganggap pemerintah Indonesia ini bodoh, pemerintah Indonesia lemah, pemerintah Indonesia bisa dibeli. Kalau ada yang menganggap itu terus, saya kira mereka akan terus kaget karena kita akan buktikan bahwa pemerintah Indonesia yang sekarang tidak gentar dan tidak ragu-ragu menegakkan kebenaran dan keadilan."
+  },
+  {
+   "t": 4788.68,
+   "d": 73.5,
+   "text": "Saudara-saudara, sekali lagi terima kasih PKS. Ee minta maaf saya tidak siapkan pantun, tapi saya masih ingat pantun lama saya. 1 du cempaka biru 34 dalam jambangan biarlah saudara mendapat kawan baru kawan lama dilupa jangan [Tepuk tangan] terima kasih selesai Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 4842.64,
+   "d": 48.05,
+   "text": "Salam sejahtera kita. Dengan mengucap alhamdulillahiabbil alamin pada pagi hari ini, Senin 29 September 2025, saya Prabowo Subianto, Presiden Republik Indonesia dengan resmi menutup Musyawarah Nasional keenam, Partai Keadilan Sejahtera. [Tepuk tangan] Allahu Akbar."
+  },
+  {
+   "t": 4881.04,
+   "d": 64.45,
+   "text": "Allahu Akbar. Merdeka. Terima kasih. [Musik] Hadirin yang kami hormati, demikianlah acara Mundas Keenam Partai Keadilan Sejahtera telah selesai dilaksanakan. Terima kasih yang sebesar-besarnya kami haturkan kepada Presiden Republik Indonesia, Bapak Prabowo Subianto yang telah berkenan hadir dan menutup acara Munas keenam Partai Keadilan Sejahtera."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "gyT_qLziJ2M",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/gyT_qLziJ2M.json"
+ }
+}

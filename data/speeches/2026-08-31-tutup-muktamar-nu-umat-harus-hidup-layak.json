@@ -1,0 +1,312 @@
+{
+ "id": "2026-08-31-tutup-muktamar-nu-umat-harus-hidup-layak",
+ "video_id": "pikkD5C3swU",
+ "date": "2026-08-31",
+ "title": "[FULL] Pidato Prabowo Tutup Muktamar NU: Umat Harus Hidup Layak dan Tidak Pinjam Uang dari Rentenir",
+ "channel": "MerdekaDotCom",
+ "youtube_url": "https://www.youtube.com/watch?v=pikkD5C3swU",
+ "duration_s": 1448,
+ "duration_hms": "24:08",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 439,
+ "token_count": 1520,
+ "unique_word_count": 616,
+ "duplicate_count": 4,
+ "uploads": [
+  {
+   "video_id": "pikkD5C3swU",
+   "url": "https://www.youtube.com/watch?v=pikkD5C3swU",
+   "title": "[FULL] Pidato Prabowo Tutup Muktamar NU: Umat Harus Hidup Layak dan Tidak Pinjam Uang dari Rentenir",
+   "channel": "MerdekaDotCom",
+   "upload_date": "2026-08-31",
+   "duration_s": 1448,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1520,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 439,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "O1H9Au0hGxA",
+   "url": "https://www.youtube.com/watch?v=O1H9Au0hGxA",
+   "title": "Sambutan Prabowo di Penutupan Muktamar Ke-35 NU",
+   "channel": "NU Online",
+   "upload_date": "2026-08-31",
+   "duration_s": 1279,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 1370,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 150,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "ZqMj_BRxODM",
+   "url": "https://www.youtube.com/watch?v=ZqMj_BRxODM",
+   "title": "[FULL] PIDATO PRESIDEN PRABOWO DI PENUTUPAN MUKTAMAR KE-35 NU",
+   "channel": "METRO TV ",
+   "upload_date": "2026-08-31",
+   "duration_s": 1518,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1595,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 453,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "hkokmwX91Ts",
+   "url": "https://www.youtube.com/watch?v=hkokmwX91Ts",
+   "title": "Sambutan Presiden Prabowo di Penutupan Muktamar ke-35 NU, Resmi Jadi Anggota Nahdlatul Ulama!",
+   "channel": "KOMPASTV JAWA TIMUR",
+   "upload_date": "2026-08-31",
+   "duration_s": 1425,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 1500,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 181,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "zdU-K2x6Foc",
+   "url": "https://www.youtube.com/watch?v=zdU-K2x6Foc",
+   "title": "[FULL] Pidato Presiden Prabowo di Penutupan Muktamar ke-35 NU, Bahas Efisiensi BUMN hingga Utang IMF",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-08-31",
+   "duration_s": 1365,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1473,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 420,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 5,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 8,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 37,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 3.44,
+   "d": 55.72,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Alhamdulillahiabbil alamin. Wasalatu wasalamu asrofilya wal mursalin wa ala alihi wasohbihi ajmain. Amma badu. Saudara-saudara sekalian, peserta muktamar Nahdatul Ulama yang ke-35."
+  },
+  {
+   "t": 32.64,
+   "d": 74.48,
+   "text": "Yang saya hormati sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur ke hadirat Allah Subhanahu wa taala, Tuhan maha kuasa, Tuhan maha besar. Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita meminta pertolongan. Kita bersyukur atas segala berkah, segala kebaikan yang diberikan kepada bangsa kita."
+  },
+  {
+   "t": 69.2,
+   "d": 70.2,
+   "text": "perdamaian yang kita masih menikmati, kesehatan dan nafas yang masih kita nikmati sehingga kita dapat berkumpul di acara yang sangat istimewa dan bersejarah ini. Ini kehormatan besar bagi saya untuk diundang kedua kali. tentunya tidak lupa selawat dan salam kita haturkan ke hadirat junjungan kita baginda Nabi Besar Muhammad Rasulullah sallallahu alaihi wasallam."
+  },
+  {
+   "t": 116.16,
+   "d": 122.72,
+   "text": "Amin. Yang telah memberi kepada kita agama dan peradaban. Yang ee saya muliakan Rais AM PBNU terpilih beserta seluruh jajaran PBNU dan muktamarin yang hadir. Bapak K. H. Miftahul Akhyar yang saya muliakan, Ketum PBNU terpilih K. H. Abdul Hakim Mahfud, Gus Kikin yang saya hormati, [tepuk tangan] beserta tentunya ketua panitia muktamar NU yang juga adalah Menteri Sosial, Saudara Saifulah Yusuf Gus Ipul, Ketua Umum Majelis Ulama Indonesia K. H. Anwar Iskandar yang juga adalah anggota akhwa."
+  },
+  {
+   "t": 195.4,
+   "d": 71.48,
+   "text": "Anggota Akwa Tengku K. H. Nuruzzahri Yahya. Kemudian ada juga K. H. Sulfah Mustofa, Ketum PBNU periode hikmat 2021-2026, K. H. Yahya Kholil Stakuf. Yang saya hormati, dan ee tokoh-tokoh kiai-kiai sepuh semuanya. Yang saya hormati Ibu-ibu, Nyai-nyai juga yang saya hormati, saya banggakan. yang tidak saya sebut satu persatu tanpa mengurangi rasa hormat saya."
+  },
+  {
+   "t": 239.76,
+   "d": 78.36,
+   "text": "Pimpinan pondok pesantren yang hadir terutama K. H. Hasy Wahab Hasbullah yang hadir di sini, K. H. Abdur Razak yang kita [tepuk tangan] pinjam tempatnya di sini. K. H. Afifuddin Muhajir. K. H. Yusuf Khudori. K. H. Mustofa Bisri yang saya hormati dan saya muliakan."
+  },
+  {
+   "t": 282.28,
+   "d": 70.0,
+   "text": "Maaf tadi pangling, Gus. Pakai kopiah soalnya Gus Gutfan Arif Gfur, Gus Maksum Faqih dan ee tokoh-tokoh lain yang saya minta maaf kalau saya tidak sebut satu persatu. Sesepuh Tambak Beras, Jombang, Ibu Nyai Mahfud ya. Saudari Yeni Wahid yang saya hormati, para menteri koordinator, para menteri kabinet merah putih yang hadir."
+  },
+  {
+   "t": 326.84,
+   "d": 70.02,
+   "text": "Kapolri Pangdam dan Kapolda yang saya hormati Menko Pangan Saudara Zulkifli Hasan yang kebetulan hari ini juga hari istimewa ulang tahun beliau [tepuk tangan] yang ke-64 Menteri Luar Negeri Saudara Sugyon Menteri Sekretaris Negara, Saudara Prasetyo Hadi, Menteri Energi dan Sumber Daya Mineral, [tepuk tangan][bersorak] Mas Bahlil ganteng."
+  },
+  {
+   "t": 378.68,
+   "d": 79.47,
+   "text": "Enak aja loh. Amil. Yang saya hormati Menteri Agama Prof. Dr. K. H. Nazaruddin Umar, [tepuk tangan] Menteri Haji dan Umrah. K. H. Muhammad Irfan Yusuf. Sudah sudah sah. Jadi Kiai Haji minta izin dulu. Menteri Agraria dan Tata Ruang, Saudara Nusran Wahid, [tepuk tangan][bersorak] Menteri Pemberdayaan Perempuan dan Perlindungan Anak, Saudari Arifatul Khoiri Fauzi."
+  },
+  {
+   "t": 436.12,
+   "d": 62.8,
+   "text": "Sekretaris Kabinet RI Red Call Infantry Teddy Indrawijaya, [tepuk tangan] [bersorak] Wakil Menteri Sekretaris Negara, Saudara Juri Ardiantoro. Saya minta maaf kalau ada pejabat-pejabat yang tidak saya sebut namanya tanpa mengurangi rasa hormat. Seluruh hadirin undangan dan peserta muktamaratul Ulama ke-35."
+  },
+  {
+   "t": 471.84,
+   "d": 48.88,
+   "text": "Para kiai mustasyar Rais Suriah, pengasuh pondok pesantren, para masyaik dan para habaib yang saya hormati. Pimpinan dan keluarga besar Ansor, Fatayat NU, Muslimat NU. Yang saya hormati, para kiai, alim ulama, para ibu nyai, para santri dan santriwati yang saya muliakan."
+  },
+  {
+   "t": 496.84,
+   "d": 60.46,
+   "text": "Saudara-saudara sekalian, tidak lupa rekan-rekan pers media yang saya cintai. Kenapa ketawa? Aku sayang sama media. [tepuk tangan] Hari ini memang hari besar saya sudah katakan tadi dan juga ternyata Gus Kikin juga kita tidak cari-cari ya, tapi angka-angka itu muncul di hidup kita."
+  },
+  {
+   "t": 534.92,
+   "d": 63.08,
+   "text": "Benar. Iya kan? Saya tidak saya tidak pernah tanya beliau. tanggal lahir dan sebagainya. Ternyata angka delan muncul terus. Bapak-bapak, Ibu-ibu sekalian, saya ini ee dua angka yang selalu muncul, 8 dan 13 ya. Kalau tidak salah hari ini adalah ee 31 Iya kan? Agustus 2026."
+  },
+  {
+   "t": 579.0,
+   "d": 64.87,
+   "text": "Kenapa? Oh iya 31 ya. [tertawa] Ya, baiklah, nanti kau cari-cari gitu loh. Saya terkesan saya memenuhi janji saya karena saya dapat telepon berapa berapa hari yang lalu berita dari Gus Yahya kartu anggota sudah ada. [tepuk tangan] Makanya saya datang. Saya datang karena janji."
+  },
+  {
+   "t": 628.4,
+   "d": 81.33,
+   "text": "Janji harus dipegang. Begitu saya dapat, saya putuskan saya hadir. [tepuk tangan] Terima kasih. Ee ini kehormatan besar bagi saya dan ini di sini ada luar biasa lagi di sini di bawahnya di di disebut anggota seumur hidup [tepuk tangan] ini luar biasa ini. Jadi dan ini saya buka ya, yang kita pimpin, sistem yang kita pimpin karena kita sudah milih demokrasi. Demokrasi adalah pilihan kita dan negara kita besar."
+  },
+  {
+   "t": 674.8,
+   "d": 68.8,
+   "text": "Kita sebesar Eropa. Di Eropa itu lebih dari 27 negara. Lebih 27 negara itu yang masuk NATO atau Uni Eropa. Nanti ada lagi yang tidak masuk. Mungkin totalnya saya mungkin 35 juga kita satu negara kita besar sekali dan ee karena demokrasi saya harus berkoalisi."
+  },
+  {
+   "t": 709.36,
+   "d": 88.88,
+   "text": "berkoalisi itu untuk memimpin dan memerintah dan mengurus negara yang sebentar lagi 300 juta orang. Negara keempat [berdehem] terbesar di dunia. Ya, tidak mungkin negara sebesar ini dipimpin hanya satu partai. Kita ini sekarang delapan partai. Sudah sudah luar biasa efisiennya."
+  },
+  {
+   "t": 753.6,
+   "d": 120.04,
+   "text": "Banyak negara lain mungkin belasan partai, puluhan partai. Kita lihat di Jepang walaupun hanya dua partai besar tapi dalam 56 tahun berapa kali ganti perdana menteri? di Inggris dalam 5 tahun mungkin 7 kali perdana menteri. Jadi bagaimanapun pemerintahan membutuhkan stabilitas, ketenangan. Ya. Jadi demikian pemerintah koalisi yang saya pimpin termasuk besar tujuh partai dari delan partai di parlemen dan kabinet yang saya susun pernah dikatakan kabinet gemuk, tidak efisien."
+  },
+  {
+   "t": 815.0,
+   "d": 58.04,
+   "text": "Padahal ada negara Timur Leste yang jumlah penduduknya hanya 1 juta. Lebih kecil dari banyak provinsi di Indonesia. Lebih kecil dari banyak kabupaten di Indonesia. Mungkin Kabupaten Bogor jauh lebih besar dari Timuleste. Banyuwangi. Berapa jumlah penduduk Banyuwangi?"
+  },
+  {
+   "t": 842.76,
+   "d": 68.22,
+   "text": "Mereka hanya 1,1 juta, kabinetnya 28. Kabinetnya Timul ST 28. Tapi bukan itu yang saya maksud. Dalam kurang 2 tahun pemerintah yang saya pimpin, kita telah menutup 290 BUMN. yang tidak menguntungkan, yang tidak punya kinerja baik, yang rugi kita tutup 290 BUMN."
+  },
+  {
+   "t": 884.26,
+   "d": 111.02,
+   "text": "[tepuk tangan] Dengan 290 BUMN kita telah menghemat R triliun. 50 triliun. Dan pemerintah yang saya pimpin Desember 31, 2026 kami akan menutup lagi paling sedikit 700 lagi yang kami akan tutup. Jadi nanti hanya tinggal mungkin 250 ee BUMN tinggal 200 250. Berarti harapan saya kita bisa menghemat 100 triliun dari overhead, dari biaya rutin, gaji direksi, gaji komisaris."
+  },
+  {
+   "t": 945.56,
+   "d": 45.41,
+   "text": "Jadi saya kira kita dan penghematan kita di berbagai bidang sudah mendekati tiap tahun lebih dari 200 triliun, mendekati 300 triliun tiap tahun. Uang inilah yang kita alihkan, yang kita gelontorkan sebesar-besarnya langsung ke rakyat. Ini yang kita pakai, Saudara-saudara."
+  },
+  {
+   "t": 968.76,
+   "d": 71.1,
+   "text": "[tepuk tangan] Dan kita sekarang berusaha tidak mau terlalu banyak pinjam-pinjam uang dari mana-mana. Ajak investasi boleh, Saudara-saudara. Kalau kita pinjam uang, kita mau pinjam uang yang bunganya sekecil mungkin. Saya kira kemarin berapa bulan yang lalu kaget Menteri Keuangan kita di Washington DC ditawarin ditawarin ee apa pinjaman dari IMF kita tolak."
+  },
+  {
+   "t": 1008.48,
+   "d": 118.14,
+   "text": "Terima kasih. Indonesia masih bisa tanpa pinjaman dari IMF. [tepuk tangan] Jadi, Saudara-saudara ee ke depan tadi pesan-pesan dari Royis AM terpilih saya tangkap. Kalau hari ini saya bisa langsung tangkap. Jadi inilah saya kira ee kewajiban kita bersama bahwa fokus perhatian, tujuan dari strategi transformasi bangsa kita yang saya sekarang pimpin dan kendalikan adalah bagaimana mengangkat sebanyak-banyaknya rakyat Indonesia keluar dari kemiskinan."
+  },
+  {
+   "t": 1070.28,
+   "d": 62.86,
+   "text": "[tepuk tangan] Kita harus berani. Dan saya sudah hitung dengan cermat sampai ke rupiah-rupiahnya saya sudah hitung dan saya yakin dan percaya kita akan berhasil. kita akan mengangkat jutaan rakyat kita keluar dari kemiskinan. Dan kita sudah buktikan dalam 2 tahun pertama kita."
+  },
+  {
+   "t": 1105.68,
+   "d": 81.52,
+   "text": "Jadi hari ini saya katakan saya diterima sebagai anggota Nadatul Ulama ya. [tepuk tangan] Terima kasih. Berarti Nadatul Ulama bersama seluruh rakyat Indonesia secara gotongroyong kita akan bekerja keras semuanya di semua bidang. Saudara-saudara sekalian [tepuk tangan] kuncinya adalah kita mengelola semua kekayaan kita sehingga bisa dimanfaatkan oleh seluruh rakyat kita."
+  },
+  {
+   "t": 1148.64,
+   "d": 81.68,
+   "text": "Dan karena NU adalah mungkin ormas yang terbesar di Republik Indonesia ini, NU sangat berkepentingan bahwa warganya, bahwa umat NU bisa meraih tingkat hidup yang layak. [tepuk tangan] Kita tidak beraspirasi untuk mau hidup seperti negara-negara katanya dunia pertama, dunia enggak."
+  },
+  {
+   "t": 1190.16,
+   "d": 117.28,
+   "text": "Kita hanya ingin rakyat kita hidup dengan layak, hidup dengan baik, bisa makan dengan baik, punya rumah yang layak, punya penghasilan tiap bulan yang layak, yang cukup sehingga tidak perlu pinjam uang dari rentenir. rentenir. Kita akan yakinkan bahwa nanti negara hadir, negara akan hadir di tengah-tengah rakyat sehingga rakyat kalau perlu dia dapat bisa dapat pinjaman lunak dari kekuatan kita sendiri. Tidak usah lagi ke tengkulak-tengkulak atau kepada siapapun. Ini strategi kita dan ini akan kita wujudkan dalam waktu dekat."
+  },
+  {
+   "t": 1249.56,
+   "d": 121.63,
+   "text": "Terima kasih. Saya kira tidak panjang lebar saya ucapan selamat kepada ee pimpinan NU yang terpilih. Ya, saya ucapkan selamat atas ee berjalannya muktamar dengan sukses, dengan guyub, dengan rukun. kita terima perbedaan, kita terima ee kompetisi yang sehat. Tapi saya kira NU memberi contoh kepada seluruh bangsa bagaimana suatu organisasi yang anggotanya puluhan juta, pesantrennya ribuan, kiainya puluhan ribu, tapi bisa melaksanakan muktamar dengan sukses."
+  },
+  {
+   "t": 1310.68,
+   "d": 69.38,
+   "text": "dengan damai, [tepuk tangan] dengan rukun. Saya kira itu yang paling penting yang saya sampaikan. Selamat atas terlaksananya muktamar ke 35 dan ee negara, bangsa dan umat menunggu dharma bakti. Nahdatul Ulama di hari-hari, bulan-bulan dan tahun-tahun yang akan datang. Terima kasih."
+  },
+  {
+   "t": 1347.4,
+   "d": 47.97,
+   "text": "Wasalamualaikum warahmatullahi [tepuk tangan] wabarakatuh. Terima kasih sekali lagi saudara-saudara Dirgahayu Nadatul Ulama [tepuk tangan] mohon berkenan mendampingi Presiden Republik Indonesia Roisam PBNU terpilih, Ketua Umum PBNU terpilih, Ketua Panitia Muktamar Gus Yahya Kholil Staquf, Gubernur Jawa Timur."
+  },
+  {
+   "t": 1390.44,
+   "d": 54.64,
+   "text": "Dengan mengucap alhamdulillahiabbil alamin pada siang hari ini, hari Senin, 31 Agustus 2026. Dengan rahmat Tuhan yang maha besar, saya Prabowo Subianto, Presiden Republik Indonesia dengan ini secara resmi menutup muktamar ke-35 Nadatul Ulama. Yuk, kut"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "pikkD5C3swU",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/pikkD5C3swU.json"
+ }
+}

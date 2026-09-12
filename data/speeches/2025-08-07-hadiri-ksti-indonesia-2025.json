@@ -1,0 +1,254 @@
+{
+ "id": "2025-08-07-hadiri-ksti-indonesia-2025",
+ "video_id": "E_doThSKS4E",
+ "date": "2025-08-07",
+ "title": "Presiden Prabowo Hadiri KSTI Indonesia 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=E_doThSKS4E",
+ "duration_s": 1980,
+ "duration_hms": "33:00",
+ "source_tier": "official",
+ "fetch_method": "baseline_import",
+ "snippet_count": 420,
+ "token_count": 588,
+ "unique_word_count": 315,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "E_doThSKS4E",
+   "url": "https://www.youtube.com/watch?v=E_doThSKS4E",
+   "title": "Presiden Prabowo Hadiri KSTI Indonesia 2025",
+   "channel": "Sekretariat Presiden",
+   "upload_date": "2025-08-07",
+   "duration_s": 1980,
+   "source_tier": "official",
+   "fetch_method": "baseline_import",
+   "token_count": 588,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 420,
+   "discovery_origins": [],
+   "selection_reason": null,
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 5,
+  "pendidikan": 9,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 11,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 261.88,
+   "d": 66.72,
+   "text": "Mohon perhatian. Presiden Republik Indonesia tiba di tempat acara. Hadirin dimohon berdiri menyanyikan bersama lagu kebangsaan Indonesia Raya. Hadirin disilakan duduk kembali. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera untuk kita semua. Kami ucapkan selamat datang kepada yang terhormat Presiden Republik Indonesia Bapak Prabowo Subianto."
+  },
+  {
+   "t": 456.72,
+   "d": 64.28,
+   "text": "serta tamu undangan yang kami hormati yang telah hadir di Sasana Budaya Ganesa Institut Teknologi Bandung pada acara Keynote Speech Presiden Republik Indonesia dalam Konvensi Sains Teknologi dan Industri Indonesia tahun 2025. Mengawali acara pada pagi hari ini, mari kita dengarkan laporan Menteri Pendidikan Tinggi, Sains, dan Teknologi, Bapak Brian Yuliarto."
+  },
+  {
+   "t": 504.68,
+   "d": 49.48,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Salam sejahtera bagi kita semua. Om swastiastu. Namo buddhaya. Salam kebajikan rahayu. Yang kami hormati dan kami muliakan Bapak Presiden Republik Indonesia, Bapak Prabowo Subianto. Yang kami hormati para menteri koordinator dan Menteri Kabinet Merah Putih."
+  },
+  {
+   "t": 528.96,
+   "d": 63.2,
+   "text": "Yang kami hormati Gubernur Jawa Barat, Walikota Bandung, para rektor dari seluruh wilayah Indonesia, pimpinan BUMN, industri, serta tokoh masyarakat, teman-teman dosen, peneliti, dan para guru besar yang kami banggakan. Dengan penuh rasa syukur, izinkan saya atas nama Kementerian Pendidikan Tinggi, Sains dan Teknologi untuk menyampaikan laporan singkat atas penyelenggaraan Konvensi Sains Teknologi dan Industri Indonesia 2025."
+  },
+  {
+   "t": 560.4,
+   "d": 58.72,
+   "text": "Konvensi ini merupakan inisiatif Bapak Presiden untuk mempertemukan, mengumpulkan para peneliti dan guru besar khususnya bidang STEM untuk bersama-sama menyamakan visi berkontribusi memajukan bangsa dan negara Indonesia. Konvensi ini dengan mengumpulkan lebih dari 2000 saintis adalah sebuah momentum besar yang pertama kali dilakukan di bangsa ini."
+  },
+  {
+   "t": 593.44,
+   "d": 58.8,
+   "text": "Kita sama-sama mengetahui bahwa Bapak Presiden kita, Presiden Prabowo senantiasa menginspirasi, menginisiasi, mengumpulkan peneliti-peneliti Indonesia di mana pun berada. Dan juga tadi Pak Rektor melaporkan kepada kami bahwa Presiden yang saat aktif menjabat mengunjungi ITB adalah Bapak Presiden Prabowo yang kedua setelah Presiden Soekarno."
+  },
+  {
+   "t": 627.0,
+   "d": 48.32,
+   "text": "Bapak, Ibu sekalian. Bapak Presiden yang kami hormati, KSTI merupakan ruang strategis untuk mempertemukan kekuatan ilmu pengetahuan, riset, inovasi, dan daya cipta industri, dan juga ketegasan arah kebijakan negara sebagai wujud tekad kita bersama menjadikan sains dan teknologi sebagai salah satu senjata perjuangan bangsa."
+  },
+  {
+   "t": 651.16,
+   "d": 48.24,
+   "text": "Konvensi ini juga dilaksanakan sebagai salah satu peringatan Hari Kebangkitan Teknologi Nasional. yang jatuh pada tanggal 10 Agustus 2025. Kami dapat laporkan Bapak Presiden bahwa peserta lebih dari 2.200 yang hadir terdiri dari 1066 peneliti unggul STEM dari seluruh Indonesia."
+  },
+  {
+   "t": 677.04,
+   "d": 48.12,
+   "text": "Jadi kami memilih peneliti yang memang produktif, yang aktif. Kita menggunakan pendekatan yang disebut high index, Pak Presiden. Lebih dari 15 poinnya. Sebagai informasi Bapak Ibu, Prof. Konstantinovoselov itu high indeksnya 154. Jadi semoga setelah acara ini semakin giat meneliti mengejar Pak Prof."
+  },
+  {
+   "t": 704.6,
+   "d": 55.76,
+   "text": "Konstantin Novacello. Kemudian juga hadir di sini 401 rektor dan wakil rektor PTNPTS seluruh Indonesia dan LL Dikti. Kemudian juga kita mengundang 351 dosen STEM di Jawa Barat dan Jakarta. Hadir di sini juga 26 diaspora Indonesia yang sedang di luar negeri. Kemudian 171 mahasiswa doktor bidang SEM."
+  },
+  {
+   "t": 731.96,
+   "d": 109.92,
+   "text": "Kemudian juga 150 guru besar dan senat Institut Teknologi Bandung serta lebih dari 250 dari 18 kementerian lembaga, 15 BUMN danara, dan 54 industri yang terkait riset di dengan perguruan tinggi. Pada konvensi ini yang akan dilaksanakan selama 3 hari juga akan dilakukan beberapa kegiatan karena kebetulan tidak mudah mengumpulkan peneliti-peneliti mumpung mereka sedang di sini kita akan melakukan penyusunan peta jalan riset dan inovasi teknologi untuk mempercepat pertumbuhan dan pemerataan ekonomi sehingga kita memiliki kemampuan SDM unggul dan penguasaan sains teknologi untuk mampu mengelola sumber daya-sumber daya penting yang menguasai hajat hidup orang banyak untuk sebesar-besar kemakmuran masyarakat."
+  },
+  {
+   "t": 787.52,
+   "d": 53.12,
+   "text": "Di sini juga akan dilakukan penguatan keterhubungan sains dan kebijakan serta menampilkan secara langsung lebih dari 400 hasil riset unggulan dari perguruan tinggi mempertemukan di dengan pihak industri dan juga kementerian sehingga dapat ditindaklanjuti. Bapak, Ibu, rekan-rekan dosen peneliti, guru besar, dan yang kami hormati Bapak Presiden."
+  },
+  {
+   "t": 814.4,
+   "d": 58.56,
+   "text": "Ini adalah kesempatan besar bagi kita semua untuk bersama-sama memikul tugas mulia memajukan bangsa, menguasai IPTETEK untuk kemajuan industri dan melahirkan SDM-SDM unggul yang siap memikul berbagai tugas negara dengan penuh kejujuran dan penuh integritas. Bapak, Ibu sekalian, marilah kita bersama-sama menyimak dengan seksama arahan dari Bapak Presiden sebagai keynote speech pagi pada pagi hari ini."
+  },
+  {
+   "t": 843.64,
+   "d": 51.72,
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Om santi shanti shanti. Om. Mohon berkenan untuk Pak Menteri tetap berada di tempat karena selanjutnya adalah sesi penandatanganan nota kesepahaman atau MOU. Dimohon untuk naik ke atas panggung Menteri Investasi dan Hilirisasi dan Ketua Umum Himpunan Kawasan Industri Indonesia."
+  },
+  {
+   "t": 869.0,
+   "d": 45.52,
+   "text": "Hadirin, nota kesepahaman atau MOU ini adalah sinergi pelaksanaan tugas dan fungsi di bidang investasi dan hilirisasi, pendidikan tinggi, ilmu pengetahuan dan teknologi, serta pengembangan kawasan industri. Kepada seluruh pihak kami persilakan untuk bersama-sama menandatangani dokumen."
+  },
+  {
+   "t": 899.28,
+   "d": 56.96,
+   "text": "Selanjutnya adalah sesi foto bersama. Dimohon untuk dapat mengangkat dokumen kami pandu dalam hitungan 3 2 1. Terima kasih. kami persilakan untuk kembali ke tempat. Hadirin, dengan sinergi lintas sektor ini diharapkan kolaborasi antara pendidikan, investasi dan industri nasional akan semakin kuat dan berkelanjutan."
+  },
+  {
+   "t": 936.56,
+   "d": 81.72,
+   "text": "Hadirin yang berbahagia, selanjutnya mari kita saksikan bersama penayangan video Konvensi Sains Teknologi dan Industri Indonesia tahun 2025. khususnya kita di zaman kita sekarang adalah sains dan teknologi harus kita kuasai di dunia modern ini hanya dengan sains dan teknologi kita bisa menghilangkan kemiskinan kita bisa menjadi negara maju negara modern Matahari yang kembali bersinar terang tak hanya membawa segudang harapan."
+  },
+  {
+   "t": 992.32,
+   "d": 58.68,
+   "text": "Bersamanya hadir juga berbagai tantangan. Tantangan untuk menebar pemerataan ekonomi dalam sebuah wujud kemandirian. Tantangan memacu denyut industrialisasi dan hilirisasi. demi menjangkau pasar global sebagai pemain terdepan. Tantangan memastikan tercapainya 8% target pertumbuhan ekonomi berada dalam genggaman."
+  },
+  {
+   "t": 1026.56,
+   "d": 71.04,
+   "text": "Sebuah harapan kembali disemai Kementerian Pendidikan Tinggi, Sains, dan Teknologi. Berjalan bersama merangkai hubungan antara riset pendidikan tinggi serta dunia industri. Masa depan kita akan ditentukan oleh apa yang disebut revolusi STEM. kita harus bisa meraih, menguasai, dan ikut mengembangkan sains technology engineering matematic."
+  },
+  {
+   "t": 1064.76,
+   "d": 53.4,
+   "text": "Berkolaborasi menyusun peta jalan industri masa depan. Saatnya menuai karya nyata sebagai wujud asta cita Presiden Prabowo Subianto melalui penguatan delan sektor prioritas riset nasional. Teknologi pangan cerdas untuk menunjang ketahanan pang. Kontribusi terkini pada ilmu kesehatan dan kedokteran modern."
+  },
+  {
+   "t": 1110.16,
+   "d": 54.08,
+   "text": "Kemandirian energi yang berorientasi pada lingkungan. Pertahanan presisi yang menopang kedaulatan negara. Teknologi maritim yang memaksimalkan potensi ekonomi biru. Akselerasi digitalisasi melalui kecerdasan buatan dan semikonduktor. Material dan manufaktur maju untuk optimasi serta efisiensi produksi."
+  },
+  {
+   "t": 1175.32,
+   "d": 59.8,
+   "text": "Hilirisasi dan industrialisasi yang memberi nilai tambah lebih tinggi. Semua bersiap menjadi bangsa yang mandiri. berdaulat secara teknologi, unggul dalam inovasi, dan menjadi kekuatan ekonomi dunia. Semua berorientasi pada masa depan. Menatap Indonesia Emas 2045 sebagai keniscayaan."
+  },
+  {
+   "t": 1220.6,
+   "d": 49.64,
+   "text": "Dan semua itu dimulai dari sini dari Konvensi Sains, Teknologi, dan Industri Indonesia 2025. Hadirin yang kami hormati, selanjutnya marilah kita simak bersama keu speech Presiden Republik Indonesia, Bapak Prabowo Subianto. So militaristik. Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 1336.2,
+   "d": 63.88,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Selamat pagi. Salam sejahtera bagi kita sekalian. Shalom salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Yang saya hormati dan yang saya banggakan Menteri Pendidikan Tinggi, Sains dan Teknologi Prof."
+  },
+  {
+   "t": 1369.44,
+   "d": 57.88,
+   "text": "Brian. Brian atau Brian? Brian Yuliarto sebagai penyelenggara. para menteri koordinator, para menteri, kepala badan, serta wakil menteri kabinat merah putih yang turut hadir. Rektor Institut Teknologi Bandung, Prof. Tata Cipta Dirgantara beserta jajaran pimpinan guru besar senat."
+  },
+  {
+   "t": 1410.24,
+   "d": 62.0,
+   "text": "dan civitas akademika Institut Teknologi Bandung. Yang saya hormati dan saya banggakan Gubernur Jawa Barat, Saudara Dedi Mulyadi. Kang Dedi Mulyadi beserta Forko Pimda Provinsi Provinsi Jawa Barat. Walikota Bandung, Saudara Muhammad Farhan. Para pimpinan BUMN yang hadir."
+  },
+  {
+   "t": 1452.4,
+   "d": 73.68,
+   "text": "Yang saya hormati dan saya banggakan para rektor perguruan tinggi negeri dan perguruan tinggi swasta yang hadir. Terima kasih kehormatan dan ee semua dosen yang berkenan hadir. Yang saya banggakan para mahasiswa kandidat doktor yang hadir di sini. Para peneliti unggul sains, teknologi, engineering, dan mathematics dari seluruh Indonesia. Yang saya hormati dan saya banggakan."
+  },
+  {
+   "t": 1498.52,
+   "d": 59.52,
+   "text": "Tamu undangan, serta rekan-rekan pers media yang turut hadir di sini. Ada catatan, wartawan akan meninggalkan ruangan setelah Bapak menyapa daftar hadir. Menteri dan setingkat menteri yang hadir saya bacakan semua ya. Karena penting ini ya. Ini budaya budaya kita ya. Jauh-jauh datang enggak disapa."
+  },
+  {
+   "t": 1553.08,
+   "d": 81.92,
+   "text": "Enggak apa-apa kan? Saya enggak dibatasi waktu siapa tahu ITB kan agak saudara. Menteri Koordinator Pembangunan Manusia dan Kebudayaan Prof. Dr. Pratikno. Yang saya hormati Menteri Investasi dan Hilirisasi, Saudara Rozan Perkasa Rozlani. Menteri Kesehatan, Saudara Budi Gunadi Sadikin, Menteri Pertahanan Letnan Jenderal TNI Purnawirawan Safri Samsudin, Menteri BAPENAS Prof."
+  },
+  {
+   "t": 1597.84,
+   "d": 68.8,
+   "text": "Rahmat Pambudi, Menteri Keuangan, Saudari Sri Mulyani, Menteri Kelautan dan Perikanan, Saudara Sakti Wahyu Tranggono, belum profesor ya, Menteri Komunikasi dan Digitalisasi, Saudari Metia Viada Hafid, Menteri Ketenagakerjaan Prof. Yasierli ITB rupanya nih. ITB banyak sekali."
+  },
+  {
+   "t": 1637.68,
+   "d": 82.56,
+   "text": "Menteri Sekretaris Negara, Saudara Prasetyo Hadi. Nah, UGM satu nih. Sekretaris Kabinet RI, Saudara Led Tedi Indrawijaya. UGM atau dari mana? UI. Hah? UI. UI. Ada temannya tuh Bu Sri. Kepala Badan Pusat Statistik Saudara Amalia Adi Ninggar. IPB, ITB, ITB lagi yang nyusun kabinet siapa?"
+  },
+  {
+   "t": 1698.2,
+   "d": 60.6,
+   "text": "Kepala Badan Gizi Nasional Prof. Dadan Hindayana. Ah, ini IPB ini ee Kepala Badan Riset dan Inovasi Nasional, Saudara Laksana Tri Handoko, Wakil Menteri Komunikasi dan Digitalisasi, Saudara Angga Raka Prabowo, Wakil Menteri Pendidikan Tinggi, Sains, dan Teknologi Prof. Fauzan."
+  },
+  {
+   "t": 1735.68,
+   "d": 66.36,
+   "text": "Wakil Menteri Pendidikan Tinggi, Sains dan Teknologi Profesor Stella Kristi, Wakil Menteri Investasi dan Hilisasi, Saudara Toda Pasarbu. Horas. Wakil Kepala Badan Riset dan Inovasi Nasional tidak hadir. Coba dicatat. Direktur Utama Pertamina, Saudara Ir. Simon Aloisius Mantiri, ITB lagi nih."
+  },
+  {
+   "t": 1778.52,
+   "d": 64.24,
+   "text": "Direktur Utama PLN, Saudara Darmawan Prasojo. Ada Direktur Utama Telkom Indonesia, Saudari Dian Siswarini. Direktur Utama PT Pindat Prof. Sigit Puji Santoso, ITB lagi. Direktur Utama Krakat Stir, Saudara Akbar Johan, Direktur Utama PT Land Industri, Saudara Yoga Dharma Setiawan."
+  },
+  {
+   "t": 1826.44,
+   "d": 86.57,
+   "text": "Ada uhang iB juga direktur utama PT Dirgantara Indonesia, Saudara Gita Amperiawan. Iya. Dari mana lu? ITB juga direktur PT Biofarma, Saudara Saddiq Akasya. Perguruan tingginya ITB. Boleh, boleh, boleh. Direktur PT Bahan Dahana, Saudara Hari Imawan. Direktur PT PAL Indonesia, Saudara Kaharudin Zenot."
+  },
+  {
+   "t": 1896.44,
+   "d": 101.08,
+   "text": "Eh, ini ITS Nagasaki Hiroshima. Oh. di Rektor Utama Lembaga Pengelola Dana Pendidikan Saudara Andin Hadianto. Dari mana Stan? Oke. Baik. Jadi sudah dibaca daftar hadir semuanya. Para wartawan dipersilakan minum kopi. Di sudah disiapkan kopi khusus karunia yang diberikan oleh yang maha kuasa kepada kita. sungguh sangat besar dan sungguh sangat beragam."
+  },
+  {
+   "t": 1963.04,
+   "d": 31.08,
+   "text": "Namun tengah segala karunia tersebut, kita pun harus berani untuk menjadi bangsa yang berani. Bangsa yang tidak takut tantangan, bangsa yang tidak takut rintangan, bangsa yang tidak takut ancaman."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "E_doThSKS4E",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "baseline_import",
+  "source_of_truth": "engine/data/prabowo/raw/E_doThSKS4E.json"
+ }
+}

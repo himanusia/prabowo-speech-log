@@ -1,0 +1,96 @@
+{
+ "id": "2025-10-25-pada-puncak-peringatan-hari-santri-24-oktober",
+ "video_id": "02IcsjvhFGQ",
+ "date": "2025-10-25",
+ "title": "Sambutan Presiden Prabowo Subianto pada Puncak Peringatan Hari Santri, 24 Oktober 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=02IcsjvhFGQ",
+ "duration_s": 175,
+ "duration_hms": "2:55",
+ "source_tier": "official",
+ "fetch_method": "caption_api",
+ "snippet_count": 57,
+ "token_count": 236,
+ "unique_word_count": 144,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "02IcsjvhFGQ",
+   "url": "https://www.youtube.com/watch?v=02IcsjvhFGQ",
+   "title": "Sambutan Presiden Prabowo Subianto pada Puncak Peringatan Hari Santri, 24 Oktober 2025",
+   "channel": "Sekretariat Presiden",
+   "upload_date": "2025-10-25",
+   "duration_s": 175,
+   "source_tier": "official",
+   "fetch_method": "caption_api",
+   "token_count": 236,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 57,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "existing_baseline",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 16,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 0.4,
+   "d": 166.08,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Saudara-saudara sebangsa dan setanah air khususnya para santri-santriwati, para kiai nyai, dan keluarga besar pondok pesantren di seluruh Indonesia. Pada kesempatan yang penuh berkah ini, saya Prabowo Subianto, Presiden Republik Indonesia menyampaikan selamat hari santri Nasional tahun 1447 Hijriah. Di hari santri ini, kita mengenang semangat juang para santri yang dengan ilmu, iman, takwa, dan cinta tanah air turut merebut dan mempertahankan kemerdekaan Indonesia. Kita tidak boleh lupa resolusi jihad 22 Oktober 1945 atau 1367 Hijriah yang digelorakan K. Ha. Hasyim Asy'ari adalah tonggak penting dalam sejarah bangsa. Sebuah perjalanan menuju Indonesia merdeka yang berdaulat dan bermartabat. Tema hari santri tahun ini yaitu mengawal Indonesia merdeka menuju peradaban dunia menggambarkan tekad bahwa santri Indonesia siap menjadi"
+  },
+  {
+   "t": 82.88,
+   "d": 52.72,
+   "text": "bagian dari kemajuan global dengan tanpa meninggalkan akar nilai keislaman dan keindonesiaan. Saya percaya santri hari ini bukan hanya penjaga moral bangsa, tetapi juga pelopor kemajuan yang menguasai ilmu agama dan ilmu dunia yang berakhlak dan berdaya saing."
+  },
+  {
+   "t": 110.08,
+   "d": 43.48,
+   "text": "Dalam kesempatan ini pula saya menyampaikan bahwa saya telah merestui usulan dibentuknya Direktorat Jenderal Pesantren ini menunjukkan prioritas strategis pemerintah untuk semakin memperhatikan, melindungi, memperkuat, dan meningkatkan kesejahteraan pondok pesantren."
+  },
+  {
+   "t": 131.16,
+   "d": 72.76,
+   "text": "Dengan semangat hari santri, kita teguhkan kembali tekad untuk mengawal kemerdekaan Indonesia menuju peradaban dunia yang semakin berkeadilan, berakhlak, dan bermartabat. Sekali lagi, selamat hari Santri Nasional 1447 Hijriah. Semoga Allah Subhanahu wa taala senantiasa melindungi dan meridai para santri-santriwati, para kiai nyai, dan seluruh rakyat Indonesia. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 166.76,
+   "d": 4.64,
+   "text": "Terima kasih. Merdeka."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "02IcsjvhFGQ",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/02IcsjvhFGQ.json"
+ }
+}

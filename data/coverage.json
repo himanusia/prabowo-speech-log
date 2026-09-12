@@ -1,0 +1,204 @@
+{
+ "date_first": "2024-08-27",
+ "date_last": "2026-09-09",
+ "span_days": 743,
+ "months": [
+  {
+   "month": "2024-08",
+   "events": 1,
+   "tokens": 2648,
+   "covered": true
+  },
+  {
+   "month": "2024-09",
+   "events": 0,
+   "tokens": 0,
+   "covered": false
+  },
+  {
+   "month": "2024-10",
+   "events": 2,
+   "tokens": 6970,
+   "covered": true
+  },
+  {
+   "month": "2024-11",
+   "events": 1,
+   "tokens": 1788,
+   "covered": true
+  },
+  {
+   "month": "2024-12",
+   "events": 3,
+   "tokens": 7504,
+   "covered": true
+  },
+  {
+   "month": "2025-01",
+   "events": 0,
+   "tokens": 0,
+   "covered": false
+  },
+  {
+   "month": "2025-02",
+   "events": 1,
+   "tokens": 1465,
+   "covered": true
+  },
+  {
+   "month": "2025-03",
+   "events": 0,
+   "tokens": 0,
+   "covered": false
+  },
+  {
+   "month": "2025-04",
+   "events": 1,
+   "tokens": 807,
+   "covered": true
+  },
+  {
+   "month": "2025-05",
+   "events": 1,
+   "tokens": 1687,
+   "covered": true
+  },
+  {
+   "month": "2025-06",
+   "events": 2,
+   "tokens": 2645,
+   "covered": true
+  },
+  {
+   "month": "2025-07",
+   "events": 3,
+   "tokens": 5039,
+   "covered": true
+  },
+  {
+   "month": "2025-08",
+   "events": 3,
+   "tokens": 7091,
+   "covered": true
+  },
+  {
+   "month": "2025-09",
+   "events": 1,
+   "tokens": 5204,
+   "covered": true
+  },
+  {
+   "month": "2025-10",
+   "events": 2,
+   "tokens": 1099,
+   "covered": true
+  },
+  {
+   "month": "2025-11",
+   "events": 3,
+   "tokens": 5370,
+   "covered": true
+  },
+  {
+   "month": "2025-12",
+   "events": 2,
+   "tokens": 1529,
+   "covered": true
+  },
+  {
+   "month": "2026-01",
+   "events": 2,
+   "tokens": 4007,
+   "covered": true
+  },
+  {
+   "month": "2026-02",
+   "events": 2,
+   "tokens": 6590,
+   "covered": true
+  },
+  {
+   "month": "2026-03",
+   "events": 2,
+   "tokens": 2593,
+   "covered": true
+  },
+  {
+   "month": "2026-04",
+   "events": 1,
+   "tokens": 543,
+   "covered": true
+  },
+  {
+   "month": "2026-05",
+   "events": 6,
+   "tokens": 9343,
+   "covered": true
+  },
+  {
+   "month": "2026-06",
+   "events": 7,
+   "tokens": 21392,
+   "covered": true
+  },
+  {
+   "month": "2026-07",
+   "events": 12,
+   "tokens": 31940,
+   "covered": true
+  },
+  {
+   "month": "2026-08",
+   "events": 7,
+   "tokens": 21562,
+   "covered": true
+  },
+  {
+   "month": "2026-09",
+   "events": 2,
+   "tokens": 4883,
+   "covered": true
+  }
+ ],
+ "months_without_events": [
+  "2024-09",
+  "2025-01",
+  "2025-03"
+ ],
+ "per_year": [
+  {
+   "year": "2024",
+   "events": 7,
+   "tokens": 18910,
+   "event_share": 10.4
+  },
+  {
+   "year": "2025",
+   "events": 19,
+   "tokens": 31936,
+   "event_share": 28.4
+  },
+  {
+   "year": "2026",
+   "events": 41,
+   "tokens": 102853,
+   "event_share": 61.2
+  }
+ ],
+ "source_tiers": {
+  "media": 15,
+  "full_media": 40,
+  "official": 12
+ },
+ "fetch_methods": {
+  "transcript_panel": 28,
+  "caption_api": 34,
+  "baseline_import": 5
+ },
+ "known_limits": [
+  "Penemuan lewat pencarian YouTube, yang condong ke hasil terbaru — periode lama lebih tipis bukan karena Prabowo lebih jarang bicara.",
+  "Semua caption auto-generated, bukan transkrip dari audio.",
+  "Yang masuk hanya pidato, sambutan, dan pernyataan resmi — bukan wawancara, konferensi pers pendek, atau potongan klip.",
+  "Pidato berbahasa asing (forum internasional) tidak punya track Indonesia sehingga tidak masuk."
+ ]
+}

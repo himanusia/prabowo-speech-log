@@ -1,0 +1,236 @@
+{
+ "id": "2026-07-16-resmikan-groundbreaking-lng-abadi-masela-indonesia-siap",
+ "video_id": "QAFNXg-LfTU",
+ "date": "2026-07-16",
+ "title": "FULL! Pidato Prabowo Resmikan Groundbreaking LNG Abadi Masela, Indonesia Siap Jadi Negara Industri",
+ "channel": "KOMPASTV",
+ "youtube_url": "https://www.youtube.com/watch?v=QAFNXg-LfTU",
+ "duration_s": 1555,
+ "duration_hms": "25:55",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 510,
+ "token_count": 1575,
+ "unique_word_count": 601,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "QAFNXg-LfTU",
+   "url": "https://www.youtube.com/watch?v=QAFNXg-LfTU",
+   "title": "FULL! Pidato Prabowo Resmikan Groundbreaking LNG Abadi Masela, Indonesia Siap Jadi Negara Industri",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-07-16",
+   "duration_s": 1555,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1575,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 510,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 11,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 4,
+  "tata_kelola": 4,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 75,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 2.44,
+   "d": 76.6,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Selamat siang. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Yang ee saya hormati Menteri Energi dan Sumber Daya Mineral, Saudara Bahlil Laha Dalia sebagai penyelenggara beserta jajaran Kementerian ESDM."
+  },
+  {
+   "t": 56.52,
+   "d": 114.84,
+   "text": "Presiden dan CEO PT Inpex Masela, Saudara Takayuki Ueda, Menteri Agraria dan Tata Ruang, Saudara Nusron Wahid, Menteri Perencanaan Pembangunan Nasional Prof. Rahmad Pambudi, Kepala Staf Kepresidenan Jenderal TNI Purnawirawan Dudung Abdurrahman, Gubernur Maluku, Saudara Hendrik Lawerisa beserta jajaran Forco Pimda Provinsi Maluku, Panglima Kudam, Kapolda Kepala Kejaksaan, dan Saudara-saudara sekalian."
+  },
+  {
+   "t": 121.2,
+   "d": 104.92,
+   "text": "Bupati Kepulauan Panimbar, Saudara Ricky Jawerisa. Bupati Maluku Barat Daya, Saudara Benyamin Thomas Noah. Kepala SKK Migas, Saudara Joko Siswanto, Direktur Utama PT Pertamina, Saudara Simon Aloisius Mantiri. Saudara-saudara sekalian semuanya dan yang hadir di Istana Merdeka, Menteri Luar Negeri, Saudara Sugiono, Menteri Sekretaris Negara, Saudara Prasetyo Hadi, Sekretaris Kabinet RI, Saudara Tedi Indrawijaya, Wakil Menteri Energi dan Sumber Daya Mineral, Saudara Yuliot Tanjung."
+  },
+  {
+   "t": 185.52,
+   "d": 80.64,
+   "text": "Yang saya hormati para tokoh agama dan tokoh adat yang hadir, para pekerja yang berada di lokasi LNG Abadi Maselah. Yang saya banggakan para hadirin, tamu undangan serta rekan-rekan pers dan media. Saudara-saudara sekalian. Sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Kuasa, Tuhan Maha Besar yang memiliki sekalian alam."
+  },
+  {
+   "t": 232.28,
+   "d": 93.6,
+   "text": "Atas segala karunia, berkah dan kebaikan serta kedamaian yang masih diberikan kepada kita. dan juga atas nafas dan kesehatan yang masih diberikan kepada kita sehingga kita dapat berkumpul hari ini dalam suatu momen bersejarah, momen yang sangat penting dalam perjalanan pembangunan bangsa, yakni acara ground breaking proyek strategis nasional liquified natural gas abad Masela di Kabupaten Kepulauan Taninbar, Provinsi Maluku."
+  },
+  {
+   "t": 280.92,
+   "d": 55.36,
+   "text": "Saya minta maaf tadinya saya ingin hadir langsung, tapi karena ada berbagai acara yang tidak bisa saya tinggalkan di pusat, terpaksa saya hadir melalui video conference ini tanpa mengurangi mengurangi rasa hormat saya kepada saudara-saudara sekalian. Tentunya ini merupakan hutang saya kepada masyarakat Maluku."
+  },
+  {
+   "t": 309.24,
+   "d": 87.96,
+   "text": "dan ee kabupaten-kabupaten tersebut. Insyaallah saya akan melunasi hutang tersebut dalam waktu yang tidak lama lagi. Saudara-saudara, pembangunan suatu bangsa adalah [mendengus] upaya kerja keras suatu bangsa adalah perjalanan yang sangat jauh yang membutuhkan persatuan semua unsur semua elemen."
+  },
+  {
+   "t": 357.44,
+   "d": 96.44,
+   "text": "Dengan demikian, proyek [berdehem] strategis nasional Abadi Masela ini merupakan suatu proyek yang sungguh sangat penting. Proyek ini hampir tiga dekade, tiga dasar warsa. Kita tunggu tiga dekade, tiga dasa warsa rakyat menunggu. Alhamdulillah hari ini kita mulai pembangunan dan pembangunan tidak boleh terhambat, harus selesai dalam waktu sesingkat-singkatnya."
+  },
+  {
+   "t": 419.24,
+   "d": 107.12,
+   "text": "Saudara-saudara sekalian, dari sejak [berdehem] awal kita sadar dan saya selalu menegaskan bahwa kemerdekaan suatu bangsa tujuannya adalah yang pertama tentunya bangsa itu ingin menjamin kelangsungan hidupnya. Dan di dalam dunia modern bahkan dari sejak ratusan tahun bahkan ribuan tahun energi salah satu syarat dari kelangsungan hidup suatu bangsa."
+  },
+  {
+   "t": 477.04,
+   "d": 145.52,
+   "text": "Dengan demikian kita sadar, bangsa Indonesia sadar bahwa kita diberi karunia yang luar biasa oleh yang maha kuasa. Buktinya antara lain bahwa kita sudah paham bahwa di perairan kita di Tanimar di Maluku ini kita memiliki cadangan energi yang sangat besar. Kita sudah sadar ini 28 tahun yang lalu dan kita menghargai semua unsur kita apresiasi kita harus ee memberi suatu penghargaan sekali lagi kepada semua unsur yang telah memungkinkan proyek ini terwujud."
+  },
+  {
+   "t": 551.88,
+   "d": 116.48,
+   "text": "Kita hargai dari kawan-kawan kita dari Jepang yang investasi di sini dari Impx. Kita juga berterima kasih saudara-saudara kita dari Malaysia, Petronas juga ikut di sini. Dan kita tentunya bangga putra-putri kita, perusahaan nasional kita Pertamina ada di sini dan ee kita harus semua ee bahu membahu, bekerja sehingga proyek ini sukses dan proyek ini cepat. cepat produksi dan cepat menghasilkan."
+  },
+  {
+   "t": 610.88,
+   "d": 86.96,
+   "text": "Saudara-saudara, kita sadar bahwa lingkungan dunia saat ini penuh dengan ketidakpastian, penuh dengan konflik, ketegangan, bahkan perang di mana-mana. Dan kita masih bersyukur kawasan kita dalam keadaan damai. [berdehem] Kita bersyukur warisan dari pendiri-pendiri bangsa kita bahwa sesungguhnya Indonesia tidak punya musuh."
+  },
+  {
+   "t": 659.0,
+   "d": 112.8,
+   "text": "kita. Alhamdulillah sekarang ini kita sudah menjalin hubungan baik dengan semua tetangga kita dan kita bertekad bahwa itu pendirian kita. Kita bersahabat dengan semua tetangga-tetangga kita. Kita hormati semua negara. di dunia besar paling besar [berdehem] kuat paling kuat maupun yang kecil maupun mungkin yang tidak kuat ini adalah karunia kita. Ini adalah sesuatu yang kita harus hargai."
+  },
+  {
+   "t": 718.76,
+   "d": 72.2,
+   "text": "Dengan kondisi ini, kita bersahabat sama semua negara. Dalam kondisi ini kita terbuka kepada semua mitra, semua negara yang mau masuk ke Indonesia, mau bermitra sama Indonesia, mau bekerja dengan saling menguntungkan. ini sikap kita. Tapi semua pihak juga harus mengerti bahwa Indonesia sekarang sudah dewasa."
+  },
+  {
+   "t": 758.68,
+   "d": 112.6,
+   "text": "Pemimpin-pemimpin Indonesia bukan pemimpin yang bodoh, bukan pemimpin yang naif, bukan pemimpin yang penakut. Memang ada pihak-pihak yang selalu memandang rendah bangsa Indonesia, yang selalu menganggap remeh bangsa Indonesia, yang selalu mengejek bangsa Indonesia di belakang punggung kita. Memang mungkin karena [berdehem] kebaikan bangsa Indonesia, keramahtamahan bahwa bangsa kita begitu ramah, kita dinilai lemah."
+  },
+  {
+   "t": 818.6,
+   "d": 76.0,
+   "text": "Kita dibilang bangsa yang santai, kita dibilang bangsa yang malas. bahwa rakyat Indonesia para pribuminya hobinya tidur. Padahal rakyat kita berjuang keras dari hari ke hari untuk mencari kehidupan yang layak. Mereka yang berlayar di laut mencari makan, mencari ikan, itu mempertaruhkan nyawa. Di mana-mana rakyat kita kerja keras."
+  },
+  {
+   "t": 855.92,
+   "d": 60.36,
+   "text": "Tapi kalau iklim itu begitu panas ya kearifan nenek moyang mengajarkan kita hindari panas pada saat trik matahari. Ada bangsa-bangsa yang tidak lihat bahwa rakyat kita bangun sangat pagi. Ada yang ke sawah, ada yang ke ladang, ada yang cari air, cari kayu, ada yang berburu, ada yang ee melaut di saat gelap."
+  },
+  {
+   "t": 890.12,
+   "d": 117.0,
+   "text": "Kembalinya pun di saat gelap. Jadi, Saudara-saudara, hari ini kita berbesar hati, kita bangga. Alhamdulillah setelah puluhan tahun proyek ini berjalan dan kita hargai kawan-kawan kita dari Jepang. Kita mulai proyek ini. Kita cari suatu keuntungan bersama. Kehormatan bagi tuan rumah adalah kalau mitranya, kalau tamunya bahagia, itu kehormatan bagi tuan rumah."
+  },
+  {
+   "t": 951.0,
+   "d": 71.32,
+   "text": "Tapi kita pun punya tanggung jawab kepada rakyat kita. Rakyat kita masih banyak yang hidupnya susah. Sehingga saudara-saudara, saya sebagai Presiden Republik Indonesia, saya sebagai yang menerima mandat dari rakyat Indonesia, saya sekali lagi saya tegaskan, jalankanlah proyek ini dengan sebaik-baiknya atas dasar saling menguntungkan."
+  },
+  {
+   "t": 985.52,
+   "d": 82.8,
+   "text": "Para investor harus untung. Sekali lagi sebagai bangsa yang punya harga diri dan kehormatan, kita yang malu kalau mitra kita tidak puas, kalau mitra kita rugi, kalau mitra kita tidak bahagia. Tapi sebaliknya kita punya tanggung jawab yang besar kepada rakyat kita. Kita perlu energi ini untuk melaksanakan transformasi bangsa."
+  },
+  {
+   "t": 1030.96,
+   "d": 70.68,
+   "text": "Kita ingin menjadi negara yang modern. Kita ingin menjadi bangsa yang seperti bangsa Jepang. Kita ingin menjadi bangsa yang produktif. Kita ingin menjadi bangsa yang menghasilkan produk-produk industri. Kita punya segala sumber daya untuk itu. Kita juga punya kapasitas."
+  },
+  {
+   "t": 1068.12,
+   "d": 64.84,
+   "text": "Anak-anak kita juga tidak kalah pintar. Dan saya sudah merencanakan dan saya sudah melihat rencana-rencana real. Kita bertekad untuk menjadi negara industri, negara modern dan kita bertekad rakyat kita harus hidup dengan baik, hidup dengan layak. Kita butuh uang untuk bikin pelayanan kesehatan yang terbaik. Kita butuh uang."
+  },
+  {
+   "t": 1101.24,
+   "d": 54.48,
+   "text": "untuk bayar gaji-gaji guru sehingga sekolah-sekolah kita menjadi juga tidak kalah dengan sekolah-sekolah di luar negeri. Kita butuh uang untuk membayar semua pegawai negeri kita dengan baik. Kita butuh uang untuk membangun prasarana yang penting untuk kehidupan yang modern."
+  },
+  {
+   "t": 1128.76,
+   "d": 72.68,
+   "text": "Dengan demikian, proyek semacam ini sangat penting. Saya sangat menghargai dimulainya proyek ini. Tadi sudah disinggung proyek ini investasinya sangat besar. 20,9 miliar dolar. Hampir 21 miliar dolar akan menghasilkan lebih dari 9 juta ton gas, kondensat dan sebagainya."
+  },
+  {
+   "t": 1165.12,
+   "d": 79.11,
+   "text": "Sehingga ini akan sangat membantu bangsa Indonesia melaksanakan pembangunan. [mendengus] Kita harus melakukan hilirisasi dan hilirisasi ini membutuhkan energi. Energi kita sangat banyak. hanya ada 2 3 tahun masa transisi dan kebetulan di tengah dunia yang penuh bahaya sekarang Indonesia ee cukup punya ketahanan."
+  },
+  {
+   "t": 1206.56,
+   "d": 121.2,
+   "text": "Kita sudah antisipasi kita punya langkah-langkah yang untuk bisa membawa Indonesia dalam keadaan yang baik. Sekali lagi ee saya menghargai tekad saudara-saudara, komitmen saudara-saudara, Menteri SDM dengan semua unsur benar-benar ee sesuai dengan ee ee tekad kita, filosofi kita bahwa ekonomi, pembangunan, transformasi Hilirisasi, industrialisasi harus [mendengus] secepatnya membawa kemakmuran untuk sebanyak-banyaknya rakyat Indonesia."
+  },
+  {
+   "t": 1269.48,
+   "d": 99.84,
+   "text": "Ekonomi harus untuk rakyat, bukan rakyat untuk ekonomi. Semua ini milik rakyat kita. Tanggung jawabnya adalah menjamin bahwa rakyat merasakan. Sehingga komitmen tadi mengutamakan putra daerah, membantu pengusaha-pengusaha lokal. Kalau ada pengusaha lokal yang mungkin kurang kompetensinya, ya dibantu, ya. Ada keberpihakan, ada affirmative action. Nanti dari perusahaan-perusahaan BUMN, dari Danantara, dari Pertamina mengerahkan bantuan-bantuan teknis."
+  },
+  {
+   "t": 1319.96,
+   "d": 83.76,
+   "text": "kita ingin semua merasakan dampak dari program ini. Saya juga ingin menyampaikan terima kasih dan pengharga penghargaan khusus untuk ee CEO dari INTEK, Masela Saudara Takayuki Ueda. Saya terkesan [berdehem] bahwa saudara bisa bahasa Indonesia. Terima kasih impact menunjuk orang seperti Takayuki Ueda ini."
+  },
+  {
+   "t": 1368.04,
+   "d": 58.36,
+   "text": "Saya lihat tidak banyak CEO perusahaan asing yang mau belajar bahasa Indonesia. Terima kasih Takayuki Uweda. Saya percaya dengan Anda memimpin proyek ini, insyaallah proyek ini akan berhasil membawa manfaat untuk kita semua. Saudara-saudara, saya kira itu yang ingin saya sampaikan."
+  },
+  {
+   "t": 1400.72,
+   "d": 85.32,
+   "text": "Ee saya yakin proyek ini nanti akan menjadi pendorong bagi kemajuan Indonesia khususnya Indonesia Timur ini juga memperkuat kemandirian energi nasional Indonesia dan juga tonggak yang penting bagi kesejahteraan rakyat Indonesia. Dan dengan demikian saya ucapkan sekali lagi terima kasih penghargaan kepada saudara-saudara, kepada rakyat tam mimbar, rakyat Maluku."
+  },
+  {
+   "t": 1447.32,
+   "d": 105.52,
+   "text": "Saya minta maaf saya belum hadir fisik. Tapi kalau Kepulauan Barat Daya, saya sudah dua kali ke Pulau MUA dan saya berharap Pulau MUA sekarang sudah lumayan ee titik air bersih untuk rakyat MUA. Saudara-saudara, dengan demikian dan dengan mengucap bismillahirrahmanirrahim pada siang hari ini, [berdehem] hari Kamis, 16 Juli 2026 dengan rahmat Tuhan Tuhan yang maha besar."
+  },
+  {
+   "t": 1506.36,
+   "d": 81.76,
+   "text": "Saya Prabowo Subianto, Presiden Republik Indonesia. Saya nyatakan ground breaking proyek strategis nasional liquified Natural Gas Abadi Masela secara resmi dinyatakan dimulai. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom salve. Om santi santi santi om namo buddhaya. Salam kebajikan rahayu rahayu."
+  },
+  {
+   "t": 1548.36,
+   "d": 9.34,
+   "text": "Terima kasih. [musik] Yeah."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "QAFNXg-LfTU",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/QAFNXg-LfTU.json"
+ }
+}

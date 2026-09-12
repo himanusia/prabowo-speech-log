@@ -1,0 +1,319 @@
+{
+ "id": "2026-08-29-republik-indonesia-muktamar-ke-35-nu-di-tambak",
+ "video_id": "eddIEv78h3E",
+ "date": "2026-08-29",
+ "title": "Sambutan Presiden Republik Indonesia Prabowo Subianto | Muktamar ke-35  NU di Tambak Beras Jombang",
+ "channel": "KRAPYAK TV",
+ "youtube_url": "https://www.youtube.com/watch?v=eddIEv78h3E",
+ "duration_s": 1657,
+ "duration_hms": "27:37",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 196,
+ "token_count": 1700,
+ "unique_word_count": 673,
+ "duplicate_count": 3,
+ "uploads": [
+  {
+   "video_id": "eddIEv78h3E",
+   "url": "https://www.youtube.com/watch?v=eddIEv78h3E",
+   "title": "Sambutan Presiden Republik Indonesia Prabowo Subianto | Muktamar ke-35  NU di Tambak Beras Jombang",
+   "channel": "KRAPYAK TV",
+   "upload_date": "2026-08-29",
+   "duration_s": 1657,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 1700,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 196,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "6FhicKsZRpw",
+   "url": "https://www.youtube.com/watch?v=6FhicKsZRpw",
+   "title": "Pidato Presiden Prabowo di Muktamar ke-35 NU: Saya Mau Minta Maaf ke Nahdlatul Ulama... | NTV",
+   "channel": "Nusantara TV",
+   "upload_date": "2026-08-27",
+   "duration_s": 665,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 666,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 81,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "KXoaUQadksU",
+   "url": "https://www.youtube.com/watch?v=KXoaUQadksU",
+   "title": "[FULL] Pidato Presiden Prabowo Hadiri Muktamar ke-35 NU: Singgung MBG hingga Kartu NU",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-08-27",
+   "duration_s": 1675,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1697,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 465,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "mbg_topic_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "LXPkBOctQhE",
+   "url": "https://www.youtube.com/watch?v=LXPkBOctQhE",
+   "title": "Prabowo: Kiai Kampung Berperan Besar Menjaga Kerukunan dan Kedamaian Desa | Full Sambutan",
+   "channel": "NU Online",
+   "upload_date": "2026-08-27",
+   "duration_s": 1517,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1607,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 432,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 1,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 5,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 62,
+  "mbg": 1
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 1,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 1,
+  "present": true,
+  "evidence": [
+   {
+    "start": 1317.0,
+    "matches": [
+     "exact_token"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 36.0,
+   "text": "Hadirin yang kami hormati, selanjutnya mari kita simak bersama sambutan Presiden Republik Indonesia Bapak Prabowo Subianto. Dilanjutkan dengan pernyataan pembukaan dan penabuhan beduk sebagai tanda peresmian pembukaan Muktamar ke-35 Nahdlatul Ulama. Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 36.0,
+   "d": 31.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Alhamdulillahiabbil alamin wasalatu wasalamu ala asrofilya wal mursalin wa ala alihi wasohbihi ajmain. Amma badu. Sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Allah Subhanahu wa taala, Tuhan maha besar, Tuhan maha kuasa."
+  },
+  {
+   "t": 67.0,
+   "d": 30.0,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita meminta pertolongan. Selawat dan salam kita haturkan kehadirat junjungan kita baginda Nabi Besar Muhammad Rasulullah sallallahu alaihi wasallam yang telah memberi kepada kita agama dan peradaban hingga akhir zaman."
+  },
+  {
+   "t": 97.0,
+   "d": 29.0,
+   "text": "Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakaboming Raka. Wakil Presiden ke-10 dan ke-12 Republik Indonesia, Saudara Muhammad Yusuf Kala. Wakil Presiden ke-13 Republik Indonesia, K. H. Prof. Mar'ruf Amin. Istri Presiden Keempat Republik Indonesia, Ibu Sinta Niah Wahid."
+  },
+  {
+   "t": 126.0,
+   "d": 42.0,
+   "text": "Ketua Majelis Perus Rakyat Republik Indonesia, Saudara Ahmad Muzani beserta Wakil Ketua MPR RI yang hadir, Saudara Edi Baskoro Yudoyono. Yang saya muliakan Rais Am Pengurus Besar Nadatul Ulama K. H. Miftahul Akhyar beserta seluruh jajaran PBNU. Yang hadir Ketua Umum PBNU K. K. H. Yahya Kholil Takut dan seluruh jajaran PBNU yang hadir."
+  },
+  {
+   "t": 168.0,
+   "d": 43.0,
+   "text": "Wakil Rais AM PBNU, Ketua MUI, Bapak K. H. Anwar Iskandar, Wakil Rais AMBNU, K. H. Afifuddin Muhajir, Wakil Ketua Umum PBNU, Saudara K. H. Zulfah Mustofa, Mustasyar PBNU, mantan ketua umum PBNU 2010-2021, Bapak K. H. Said Akil Siraj, Khatib AM PBNU K. H. Ahmad Said Asrori."
+  },
+  {
+   "t": 211.0,
+   "d": 39.0,
+   "text": "Khatib Suriah PBNU K. H. Abdul Gafar Rozin, Rais PBNU Prof. Muhammad Nuh. Bendahara PBNU Gus Gutfan Arif. Ketua PBNU K. H. Amin Said Husni, Ketua Umum PWNU Jawa Timur, pengasuh Pondok Pesantren Tebu Ireng, K. H. Abdul Hakim Mahfuz, Gus Kikin, para pimpinan pondok pesantren yang hadir."
+  },
+  {
+   "t": 250.0,
+   "d": 61.0,
+   "text": "Tanpa mengurangi ras hormat tidak dapat saya sebutkan semuanya. Pondok Pesantren Alfalah Ploso Kediri. Bapak K. H. Nurul Huda Jazuli. Pondok Pesantren Lirboyo Kediri K. H. Kafa Bih Mahrus. Pondok Pesantren Bahrul Ulum Tambak Beras, Jombang, K. H. Hasiy Wahab Hasbullah, Pondok Pesantren Alkautsar Alakbar Medan K. Ha. Ali Akbar Marbun, Pondok Pesantren Bumi Selawat Sidoarjo, K. H. Agus Ali Masyuri, Pondok Pesantren Api Tegal Rejo Magelang, K. H. Yusuf Khudori Gus Yusuf Pondok Pesantren Mambaul Maarif Denayar Jombang K. K. H."
+  },
+  {
+   "t": 311.0,
+   "d": 58.0,
+   "text": "Abdul Salam Shohib, Gus Salam, Pondok Pesantren Ora Aji Sleman, Gus Miftah Maulana, sesepuh Tambak Beras, Jombang, Ibu Nyai Mahfuz, Pondok Pesantren Bahrul Ulum Jombang, K.H. Abdul Razak. Yang saya hormati Ketua Umum PP Muhammadiyah, Prof. Dr. Haidar Nasir. Yang saya hormati Gubernur Jawa Timur yang juga adalah Ketua Dewan Pembina PP Muslimat NU, Saudari Kofifah Indar Parawansa, para Menko Menteri, Kapolri, Kepala Badan, para wakil menteri, dan seluruh anggota Kabinet Meraputi yang saya hormati."
+  },
+  {
+   "t": 369.0,
+   "d": 52.0,
+   "text": "yang tidak perlu saya sebut satu persatu tanpa mengurangi rasa hormat untuk mengejar waktu. Media sudah siap menunggu. Untung waktunya enggak banyak. Yang saya muliakan para kiai mustasyar, Rais Suriah, pengasuh pondok pesantren, para masyaik dan para habaib, pimpinan dan keluarga besar Ansar Fatayat NU, Muslimat NU."
+  },
+  {
+   "t": 421.0,
+   "d": 43.0,
+   "text": "Emak-emak penting yang ngatur, Pak. para kiai ya, para nyai itu, terutama yang saya hormati para pengurus PBNU, PWNU dan PCNU seluruh Indonesia yang hadir, para kiai, alim ulama, para ibu nyai, para santri dan santriwati, seluruh hadirin undangan. Yang saya hormati para duta besar negara sahabat yang hadir."
+  },
+  {
+   "t": 464.0,
+   "d": 36.0,
+   "text": "Yang saya muliakan saudara-saudara rekan pers media dan seluruh rakyat Indonesia yang mengikuti acara ini. Saya tentunya mengucapkan terima kasih atas kehormatan yang dibesar yang besar yang diberikan kepada saya sebagai Presiden Republik Indonesia yang kedelapan hadir di muktamar ke-35."
+  },
+  {
+   "t": 500.0,
+   "d": 60.0,
+   "text": "Saya tidak mengatur ini semua. Saya juga tidak mengerti. Tapi ya kita menerima ini semua ee tadi disebut muktamar yang ke-36 adalah tahun 31 ya ini kan 35 nantinya 36 tahun 31 ya 3 sama 6 itu sembilan. Iya kan? Tiga. Tunggu, tunggu, tunggu, tunggu. Tahun 31 itu 3 + 1 4, 9 + 4 13."
+  },
+  {
+   "t": 560.0,
+   "d": 41.0,
+   "text": "Jadi saya punya dua angka ee yang selalu hadir di hidup saya. 8 dan 13. Tapi kita ikuti saja kehendak yang maha besar. Ini kehormatan besar bagi saya. Nadatul Ulama adalah institusi yang bersejarah yang sangat besar jasanya dalam perjuangan kemerdekaan Republik Indonesia."
+  },
+  {
+   "t": 601.0,
+   "d": 42.0,
+   "text": "Bukti yang jelas adalah lagu Subanul Waton yang sekarang menjadi lagunya Nadatul Ulama. Lagu ini bisa dikatakan adalah lagu patriotik, lagu nasionalis, lagu yang dibuat oleh kelompok religius, tapi semangatnya adalah semangat cinta tanah air dan semangat nasionalisme yang luar biasa."
+  },
+  {
+   "t": 643.0,
+   "d": 38.0,
+   "text": "Yang menarik bagi kita semua terutama generasi muda yang menarik adalah bahwa lagu ini diciptakan oleh K. H. Abdul Wahab Khasbullah belasan tahun sebelum proklamasi kemerdekaan. Pada waktu itu kita juga belum tahu negara yang diproklamasikan bentuknya bagaimana."
+  },
+  {
+   "t": 681.0,
+   "d": 49.0,
+   "text": "Namanya saja belum begitu jelas. Tapi pemimpin-pemimpin religius berani membuat lagu yang demikian patriotik dan demikian nasionalis. Belasan tahun sebelum proklamasi kemerdekaan sudah ada lagu ini ya. Pusaka hati wahai tanah airku, cintamu dalam imanku. Jangan halangkan nasibmu. Bangkitlah hai bangsaku."
+  },
+  {
+   "t": 730.0,
+   "d": 34.0,
+   "text": "Jadi cita-cita cita-cita pendiri NU adalah agar bangsa Indonesia bangkit. [tepuk tangan] agar bangsa Indonesia setara dengan bangsa-bangsa lain di dunia ini. Agar bangsa Indonesia kalau bangkit artinya bangsa Indonesia itu terhormat. Bangsa yang terhormat adalah bangsa yang adil dan makmur."
+  },
+  {
+   "t": 764.0,
+   "d": 56.0,
+   "text": "Tidak ada bangsa yang dihormati kalau dia tidak makmur. Dan tidak ada kemakmuran tanpa keadilan. Saudara-saudara, karena itu saya sangat bangga hari ini. Saya berterima kasih dan saya tidak akan panjang lebar dalam sambutan ini. Selamat bermuktamar. Nahdatul Ulama hadir selalu dalam kejadian-kejadian bangsa ini. Dalam krisis-krisis bangsa ini, Nahdatul Ulama selalu hadir dan Nadatul Ulama yang menentukan stabilitas, keamanan, perdamaian, dan masa depan bangsa Indonesia."
+  },
+  {
+   "t": 820.0,
+   "d": 63.0,
+   "text": "[tepuk tangan] yang disampaikan oleh Gus Yahya itu sangat benar juga oleh Kiai Hasy ya. Kalau bangsa ini mau bangkit dan mau aman, pemerintah umarah harus selalu dekat dengan Nadatul Ulama. dan juga Muhammadiyah hanya Gus Yahya. Aku dari dulu minta kartu NU, jadi masih hutang sama saya ya."
+  },
+  {
+   "t": 883.0,
+   "d": 59.0,
+   "text": "Kalau bisa sebelum penutupan muktamar lah kalau gitu kalau penutupan tanggal 31. Benar ya. Kalau ada kartu anggota, aku datang lagi tanggal 31. Saya kira inti sambutan saya seperti itu ya. Nahdatul Ulama aset bangsa yang sangat-sangat besar sama dengan Muhammadiyah ojol lali."
+  },
+  {
+   "t": 942.0,
+   "d": 43.0,
+   "text": "Jadi kalau saya sebagai presiden ya mandataris rakyat ya jelas tanpa dukungan NU dan Muhammadiyah tidak mungkin saya jadi mandataris rakyat. Dan saya tidak ragu-ragu, saya berpikir terus bagaimana saya membesarkan, memperkuat, memberdayakan Nahdatul Ulama, pesantren-pesantren Nadatul Ulama dan Muhammadiyah."
+  },
+  {
+   "t": 985.0,
+   "d": 47.0,
+   "text": "[tepuk tangan] Saya saya mau minta maaf kepada Nahdatul Ulama. Minta maaf karena saya baru tahu bahwa layar interaktif panel banyak sekolah-sekolah pesantren-pesantren Nadatul Ulama yang belum menerimaul ini adalah keflingsot-nya administrasi. Menteri Pendidikan Mendigdasmen."
+  },
+  {
+   "t": 1032.0,
+   "d": 40.0,
+   "text": "Ah, ini beliau tidak salah karena Dikdasmen mengurus sekolah-sekolah negeri. Ya kan begitu ya. Sekolah-sekolah di bawah NU diurus oleh Menteri Agama. Benar ya? Tidak ada masalah. Walaupun terlambat, semua ruang kelas sekolah-sekolah NU akan menerima layar interaktif sama dengan semua sekolah negeri."
+  },
+  {
+   "t": 1072.0,
+   "d": 52.0,
+   "text": "Tahun yang lalu semua sekolah negeri terima satu layar jadi satu ruang kelas. tahun ini sekolah-sekolah negeri semuanya akan menerima tambahan tiga, tapi NU segera akan nerima langsung empat. [bersorak] Ya, jadi utang saya kepada NU sudah agak terpenuhi ya. Jadi intinya itu apalagi yang harus bicara dirgahayu Nadatul Ulama."
+  },
+  {
+   "t": 1124.0,
+   "d": 53.0,
+   "text": "Sebagai penutup saya ingin menyampaikan penghormatan saya kepada para kiai dan ulama. Karena kemerdekaan bangsa Indonesia memang diproklamasikan di Jakarta, tapi kemerdekaan bangsa Indonesia diuji di Surabaya dan dalam pertempuran Surabaya Oktobernember tahun 1945, peran dari ulama, peran dari Kiai kiai-kiai, peran daripada pesantren sangat besar, Saudara-saudara."
+  },
+  {
+   "t": 1177.0,
+   "d": 63.0,
+   "text": "Karena itu saya ingin kalau pernah kalau tidak salah Bung Karno ya mengatakan jaz merah jangan sekali-sekali melupakan sejarah. Saya ingin menyampaikan jas ijau. Jangan sekali-kali melupakan jasa ulama. Terima kasih kepada semua ulama yang terkenal maupun kiai-kiai kampung yang mungkin namanya tidak pernah masuk televisi, tapi setiap hari menjaga akhlak anak-anak kita, menjaga kerukunan umat dan kerukunan antar umat."
+  },
+  {
+   "t": 1240.0,
+   "d": 39.0,
+   "text": "menjaga kedamaian di desa dan mendoakan bangsa tanpa meminta apapun kepada negara. Terima kasih. Hormat saya kepada para ulama semuanya. Indonesia insyaallah akan bangkit. Saya hampir 2 tahun jadi presiden Republik Indonesia. Saya terima kasih dukungan Nadatul Ulama dan Muhammadiyah. Terima kasih."
+  },
+  {
+   "t": 1279.0,
+   "d": 31.0,
+   "text": "Dengan belum sampai 2 tahun kita telah mencapai prestasi-prestasi besar. Kita sudah suasembada pangan dan sebentar lagi kita akan suas sembada energi. Insyaallah kita tidak satu dalam waktu yang tidak lama kita tidak perlu impor terlalu banyak BBM dari manaun."
+  },
+  {
+   "t": 1310.0,
+   "d": 66.0,
+   "text": "Kita telah membangun puluhan ribu dapur umum. MBG MBG sudah sekarang dinikmati lebih dari 60 2 juta penerimaan manfaat. Kepala BGN yang baru sudah ada di sini. Ini anak muda yang jantungnya kuat. MBGI adalah program yang besar. tantangannya banyak, kekurangannya masih banyak, tapi kita akan selesaikan semua kekurangan tersebut. Karena yang penting adalah manfaat harus diterima oleh semua anak-anak kita dan semua ibu-ibu hamil dan semua orang tua lanjut usia. Itu tekad kita. Dan sebentar lagi puluhan ribu koperasi merah putih akan beroperasi."
+  },
+  {
+   "t": 1376.0,
+   "d": 53.0,
+   "text": "Kita akan menjamin semua barang yang disubsidi rakyat akan sampai ke rakyat dengan harga serendah-rendahnya harga subsidi. Barang subsidi tidak boleh diperdagangkan dan tidak akan diperdagangkan. Saudara-saudara, prestasi kita cukup, tantangan kita banyak. Cuaca El Nino yang sangat kuat. Tantangan karena kita hidup di gugusan pulau yang sangat makmur tapi juga penuh dengan tantangan-tantangan alam. Tapi negara kita kuat dan semakin kuat."
+  },
+  {
+   "t": 1429.0,
+   "d": 40.0,
+   "text": "Karunia dari yang Maha Besar sangat besar. Saya telah lihat hasil-hasil kita sekarang. Kita temukan ladang-ladang gas, ladang-ladang emas yang luar biasa kekayaan kita. Saudara-saudara percaya sama saya, beberapa tahun lagi Indonesia akan bangkit dengan luar biasa dan tidak akan tidak akan ada yang bisa mendung kita, Saudara-saudara sekalian. Yang penting, yang penting kita harus berani memberantas korupsi."
+  },
+  {
+   "t": 1469.0,
+   "d": 25.0,
+   "text": "Kita harus berani memberantas korupsi karena korupsi ini yang mengakibatkan banyak kekayaan kita hilang dibawa lari ke luar negeri. Tapi kita mulai menutup, kita mulai menghentikan itu. Insyaallah negara kita akan tambah kuat. Dari penghematan-penghematan kita sudah ratusan triliun yang bisa kita hemat."
+  },
+  {
+   "t": 1494.0,
+   "d": 26.0,
+   "text": "Uang itulah yang kita gunakan untuk sebesar-besarnya membantu rakyat yang paling miskin, yang paling tidak berdaya. Saudara-saudara sekalian, saya kira itu. Terima kasih Nadatul Ulama, terima kasih para kiai, terima kasih para ibu-ibu nyai, terima kasih para santri-santriwati."
+  },
+  {
+   "t": 1520.0,
+   "d": 61.0,
+   "text": "NU kuat artinya Indonesia kuat. Kalau NU rukun, Indonesia rukun. NU berhikmat, Indonesia bermartabat. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Dilanjutkan prosesi penabuhan beduk. Mohon berkenan mendampingi Bapak Presiden, Wakil Presiden, Ketua MPR, Rais AM PBNU, Ketua Umum PBNU, Ketua Panitia Muktamar Pengasuh Pondok Pesantren Bahrul Ulum Tambak Beras."
+  },
+  {
+   "t": 1581.0,
+   "d": 71.0,
+   "text": "Ya. Bismillahirrahmanirrahim. Pada sore hari ini, hari Kamis, 27 Agustus 2026, dengan rahmat Tuhan Yang Maha Besar, saya Prabowo Subianto, Presiden Republik Indonesia secara resmi membuka muktamar ke-35 Nahdatul Ulama. Terima kasih. [musik] [musik] [musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "eddIEv78h3E",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/eddIEv78h3E.json"
+ }
+}

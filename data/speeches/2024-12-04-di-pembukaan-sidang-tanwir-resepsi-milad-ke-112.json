@@ -1,0 +1,240 @@
+{
+ "id": "2024-12-04-di-pembukaan-sidang-tanwir-resepsi-milad-ke-112",
+ "video_id": "3XayivTOjCY",
+ "date": "2024-12-04",
+ "title": "[FULL] Pidato Presiden Prabowo di Pembukaan Sidang Tanwir & Resepsi Milad ke-112 Muhammadiyah",
+ "channel": "METRO TV ",
+ "youtube_url": "https://www.youtube.com/watch?v=3XayivTOjCY",
+ "duration_s": 3167,
+ "duration_hms": "52:47",
+ "source_tier": "full_media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 386,
+ "token_count": 3552,
+ "unique_word_count": 1120,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "3XayivTOjCY",
+   "url": "https://www.youtube.com/watch?v=3XayivTOjCY",
+   "title": "[FULL] Pidato Presiden Prabowo di Pembukaan Sidang Tanwir & Resepsi Milad ke-112 Muhammadiyah",
+   "channel": "METRO TV ",
+   "upload_date": "2024-12-04",
+   "duration_s": 3167,
+   "source_tier": "full_media",
+   "fetch_method": "transcript_panel",
+   "token_count": 3552,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 386,
+   "discovery_origins": [
+    "targeted_early_search"
+   ],
+   "selection_reason": "early_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "5l05r-Uxi-A",
+   "url": "https://www.youtube.com/watch?v=5l05r-Uxi-A",
+   "title": "[FULL] Pidato Prabowo soal Perang, dari Gaza, Rusia, dan Sikap Indonesia",
+   "channel": "Kompas.com",
+   "upload_date": "2024-12-04",
+   "duration_s": 3141,
+   "source_tier": "full_media",
+   "fetch_method": "transcript_panel",
+   "token_count": 3505,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 388,
+   "discovery_origins": [
+    "targeted_early_search"
+   ],
+   "selection_reason": "early_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 7,
+  "ekonomi": 10,
+  "pendidikan": 18,
+  "kesehatan_dan_gizi": 21,
+  "tata_kelola": 20,
+  "pertahanan_dan_keamanan": 17,
+  "nasional_dan_identitas": 59,
+  "mbg": 3
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 3,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 3,
+  "present": true,
+  "evidence": [
+   {
+    "start": 1959.0,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 1983.0,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 2033.0,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 8.0,
+   "d": 137.0,
+   "text": "Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh Waalaikumsalam warahmatullahi wabarakatuh salam sejahtera bagi kita sekalian Shalom salve Om Swastiastu namo buddhaya salam kebajikan saudara-saudara bapak-bapak Ibu yang saya hormati saya juga ingin menyapa tokoh-tokoh yang hadir tidak apa-apa m makan waktu Enggak apa-apa kan panitia apa saya dibatasi Enggak di sini yang saya hormati saya banggakan Wakil Presiden Republik Indonesia ke-10 dan ke-12 Bapak Haj Muhammad Yusuf Kala beserta ibu Mufidah Yusuf Kala yang saya hormati saya banggakan ketua umum pengurus pusat Muhammadiyah Prof Dr H Haidar beserta para Kiai para ulama serta para pimpinan pusat Muhammadiyah dan seluruh keluarga besar Muhammadiyah yang saya hormati dan saya banggakan ketua umum PP Aisiah Ibu Salmah orbaniah beserta ibu-ibu pengurus Aisah yangir [Tepuk tangan] profesor Dr Muhajir eendi Ketua PPI Muhammadiyah periode ini enggak disebut nih tahunnya"
+  },
+  {
+   "t": 145.0,
+   "d": 123.0,
+   "text": "itu Pak Tedi ini menghadap Saya habis ini ketua umum PP Muhammadiyah 2005-25 Bapak Din Syamsudin yang saya hormati kok agak ngumpet di belakang itu pak Din itu kawan saya waktu masih muda sekarang agak muda ketua Dewan Perwakilan Daerah Republik Indonesia Bapak Sultan najamuddin para menteri dan wakil menteri kabinet merah putih tadi sudah disebut banyak sekali tapi enggak apa-apalah disebut sekali lagi Menko bidang pangan Dr zkifli Hasan menteri pendidikan dasar dan menengah yang juga kebetulankretaris umum Prof Dr ABD menti Menteri Pertahanan J tnirisudin menteri perdagangan saudara Budi Santoso menteri desa dan Pembangunan Daerah Tertinggal saudara Yandri sus Mi kut PHD menteri kelautan perikanan saudara Sakti Wahyu trenggono Menteri Lingkungan Hidup saudara Hanif faisol nurofik Panglima TNI Jenderal TNI Agus Subianto Kepala Kepolisian Republik Indonesia Jenderal polisi liso Sigit Prabowo jadi kalau Kapolri dan Panglima"
+  },
+  {
+   "t": 268.0,
+   "d": 130.0,
+   "text": "TNI nama terakhirnya itu Prabowo Subianto jangan-jangan Enggak diganti-ganti ini jangan Jang Kepala Badan gizi nasional profesor Dr Dadan sekretaris kabinet saudara ketua komisi 7 DPR saudara pejabat Gubernur NT saudara Ando Susanto Gubernur terpilih nttudaraelena wakil gubernur terpilih NTT saudara Anis mata PHD wakil menteri pendidikan dasar menengah Dr Fajar rizaulhaq wakil menteri Dikti sains dan teknologi Prof Dr Fauzan mantan Rektor Universitas Muhammadiyah Malang wakil menteri perlindungan pekerja migran Indonesia saudara Zulfikar Ahmad wakil menteri Perumahan dan kawasan pemikiman saudara Fakri Hamzah wakil menteri kehutanan saudara Sulaiman Umar wakil kepala badan penyelenggara haji saudara dahnilzar anzar Rektor Universitas Muhammadiyah Kupang Bapak Zainur Wula beserta seluruh Rektor dan guru pendidikan tinggi Muhammadiyah yang hadir di sini dan tentunya peserta tanwir dan milad Muhammadiyah yang ke-112 yang saya hormati dan saya banggakan tadi saya baca banyak"
+  },
+  {
+   "t": 398.0,
+   "d": 118.0,
+   "text": "tokoh-tokoh karena ternyata banyak sekali di antara mereka juga yang ada hubungan dekat dengan Muhammadiyah Apakah mereka pernah pengurus Muhammadiyah atau lulusan Universitas Muhammadiyah atau SMA Muhammadiyah demikian bukti keberhasilan Muhammadiyah sebagai organisasi kemasyarakatan sebagai organisasi dakwah dan lebih dari itu sebagai organisasi pendidikan dan kesehatan saudara-saudara sekalian Presiden Republik Indonesia yang pertama dan kedua juga merupakan warga Muhammadiyah Kalau tidak salah Presiden Soekarno pernah menjadi pengurus Muhammadiyah dan Ibu Fatmawati juga keluarga dari pimpinan Muhammadiyah di Bengkulu Pak Harto juga eh warga Muhammadiyah lulusan SD dan SMP Muhammadiyah bahkan waktu beliau presiden sekian kali kabinet banyak kawan-kawan Non Muhammadiyah yang mengeluh kok Pak Harto itu kok milihnya Muhammadiyah banyak sekali saya juga jangan saya nanti dituduh memilih Muhammadiyah banyak sekali"
+  },
+  {
+   "t": 516.0,
+   "d": 125.0,
+   "text": "tidak karena mungkin karena keberhasilan Muhammadiyah mendidik membesarkan kader-kader sehingga Muhammadiyah ada di mana-mana itu kalau saya undang partai untuk koalisi Saya minta calon-calon terbaik mereka mereka ajukan nama-nama saya enggak tanya ini Muhammadiyah atau bukan ternyata sudah dilantik ada yang bisik bisik itu Muhammadiyah Pak Hari ini saya hitung woh ini muhammadiyahnya saya juga baru tahu Budiman sujat Miko ini alumni SMA Muhammadiyah Yogyakarta memang muhammadiah ada di mana-mana ini ada yang di kiri ada yang di kanan ada yang di tengah Pak jeffre Giovani muhammadiah juga rupanya sponsor sponsor jadi ini ketua muhammadiah kreatif selalu mengundang tokoh dan pejabat dan diumumkan baru saja ground breaking Rumah Sakit Waduh ini PR lagi untuk aku tapi kita mendukung karena memang pendidikan dan kesehatan adalah kunci kebangkitan suatu bangsa jadi memang peran Muhammadiyah Saya kira sangat tepat"
+  },
+  {
+   "t": 641.0,
+   "d": 142.0,
+   "text": "Muhammadiyah Kalau tidak salah hitungan terakhir memiliki 167 perguruan tinggi 126 Rumah Sakit 231 klinik 5345 sekolah dan Madrasah 440 pesantren dan jaringan organisasi yang luas di dalam dan di luar negeri dan baru saja kalau tidak salah Muhammadiyah Telah membeli suatu gedung di Spanyol di Cordoba atau di mana Madrid di Madrid dan EE sedang dirubah menjadi masjid yang besar Kalau tidak salah ini luar biasa Muhammadiyah luar biasa jadi ee tentunya kami juga di TNI tidak pernah lupa bahwa Panglima Besar TNI yang pertama adalah Seorang Kepala Sekolah SMA Muhammadiyah Purwokerto berarti pengaruh Muhammadiyah juga selain dakwah tapi juga menanamkan Patriotisme Semangat cinta tanah air dan melahirkan pemimpin-pemimpin yang luar biasa terus terang saja Jenderal besar Sudirman bukan lulusan Akademi Militer beliau tidak pernah ikut sesco di mana pun tapi berhasil memimpin perang kemerdekaan dan menang dan kalau kita"
+  },
+  {
+   "t": 783.0,
+   "d": 136.0,
+   "text": "lihat ucapan-ucapan perintah-perintah beliau pidato-pidato beliau kalau kita lihat sampai hari ini pun adalah ungkapan dan pemikiran seorang pemimpin militer yang tidak kalah dengan pemimpin militer terhebat di dunia sepanjang sejarah artinya walaupun beliau mungkin dianggap hanya seorang kepala sekolah SMA tetapi pasti beliau mendalami membaca belajar secara otodidak sehingga beliau mampu untuk memimpin sebuah perjuangan kemerdekaan saudara-saudara sekalian menjadi pemimpin dalam Kancah krisis perang itu masalah hidup dan mati kalau kalah mati atau dipermalukan atau dijajah kita tidak menghendaki perang Saya mantan Jenderal Saya mengerti dan saya paham apa itu pertempuran perang destruktif ibarat pohon butuh 20 tahun untuk tumbuh hanya 15 menit untuk tumbangkan negara masyarakat desa pun provinsi pun kota butuh ratusan tahun untuk berdiri dan berkembang hancur dalam beberapa menit hancur dalam beberapa"
+  },
+  {
+   "t": 919.0,
+   "d": 127.0,
+   "text": "saat karena saya mengerti itu saya terus berjuang terus memimpin dengan mengajak Mari kita belajar dari sejarah Mari kita waspada Mari kita Galang persatuan Mari kita hindari perpecahan Mari kita hindari konflik saudara-saudara ini situasi yang kita hadapi di tengah saya diundang di acara ini saya ingin mengatakan bukan pengurus Muhammadiyah yang harus terima kasih saya hadir saya yang Terima kasih karena saya merasa saya merasa tidak hanya kehormatan Tapi saya merasa penting bagi saya untuk bisa bicara kepada tokoh-tokoh Muhammadiyah kepada para guru kepada para Ustaz kepada para ulama Ustaz guru ulama adalah pendidik bangsa adalah panutan rakyat panutan masyarakat Sekali lagi saya katakan apa yang kita lihat hari ini situasi dunia mengajarkan kita memberi peringatan kepada kita saudara-saudara sekalian mari kita buka televisi kita buka YouTube kita lihat apa yang terjadi di hampir setiap"
+  },
+  {
+   "t": 1046.0,
+   "d": 151.0,
+   "text": "negara apalagi negara muslim lihat Jangan percaya Prabowo lihat apa yang terjadi di Gaza lihat anak-anak tidak berdosa angka terakhir diperkirakan 5000 anak di umur 1 tahun mati terkubur ribuan lagi kita tidak tahu belum anak di atas 1 tahun belum orang tua belum ibu-ibu Libanon jutaan warga Libanon mengungsi hilang rumah tepi barat saudara-saudara sekalian belum ukrain ya ukrain jauh tapi perang ukrain mengakibatkan harga pangan naik di seluruh dunia ya Gaza jauh tapi itu saudara-saudara kita apa poin yang saya ingin sampaikan saudara-saudara jangan kita anggap Damai itu adalah biasa jangan kita anggap kita tidak menghadapi ancaman Kenapa kita harus waspada karena kita kaya bukan kita ke negeri Belanda orang Belanda ke kita Portugis ke kita Spanyol ke kita Perancis ke kita Inggris ke kita dari dulu sampai sekarang saudara-saudara Saya kira pelajaran termasuk di semua agama pelajaran pelajaran agama Islam pun"
+  },
+  {
+   "t": 1197.0,
+   "d": 138.0,
+   "text": "mengajarkan bahwa kita harus bertanggung jawab atas keselamatan kita sendiri keselamatan keluarga kita dan juga atas harta kita jadi saudara-saudara dalam kondisi penuh ketidakpastian di mana hitungan sekarang adalah di Eropa terjadi kurang lebih 17% kemungkinan orang nuklir ini pengamatan pakar-pakar di Eropa karena negara barat mengizinkan apa peluru-peluru jangka jauh jarak jauh mereka menyerang Rusia Rusia Sekarang mengatakan dia boleh menyerang negara-negara Barat menggunakan senjata-senjata yang paling mutakir belum Timur Tengah belum di Asia Taiwan dan Korea Utara Kalau tidak salah tadi malam eh pemerintah Korea Selatan menyatakan keadaan at di Korea jadi saudara-saudara marilah kita jangan terlalu lengah Jangan terlalu santai kita Non Blok kita tidak memihak kita menghormati semua negara itu maunya kita tapi saudara-saudara 40% dari seluruh perdagangan dunia liwat lautan Indonesia 40% seluruh perdagangan seluruh dunia lewat perairan"
+  },
+  {
+   "t": 1335.0,
+   "d": 124.0,
+   "text": "kita 70% energi Tiongkok Korea dan Jepang liwat perairan Indonesia Bisakah kira-kira Kalau terjadi perang besar Bisakah kita tidak terseret Untuk itu kita butuh kepemimpinan politik yang handal dan kepimpinan politik yang saya maksud bukan kepimpinan politik yang hanya dari pemerintah dan Untuk itu perlu ada kerukunan perlu ada jiwa besar dari semua kalangan kita banyak berbeda perbedaan itu baik dan wajar kita berbeda suku kita berbeda agama dan Untuk itu saya ucapkan hormat saya kepada Muhammadiyah saudara buka lembaga-lembaga pendidikan Tidak hanya kepada umat Islam tapi buka untuk semua saudara telah memberi contoh dalam toleransi dalam kehidupan inklusif dalam kehidupan saling hormat menghormati dalam kehidupan saling menjaga saling mendukung ini sangat penting ini sangat penting ada pihak dari semua agama dari semua ras dan semua suku yang selalu mengambil garis yang keras fanatisme fanatisme agama"
+  },
+  {
+   "t": 1459.0,
+   "d": 120.0,
+   "text": "fanatisme suku fanatisme ras fanatisme budaya dan sebagainya justru Ini yang melahirkan peperangan saudara-saudara karena itu apa yang saudara telah melaksanakan adalah sesuatu yang sangat-sangat berharga bagi kita semua milat ke-1 Tentunya saya atas nama pemerintah dan atas nama pribadi menyampaikan selamat dan EE harapan ke depan Muhammadiyah akan terus dalam peranannya di bidang dakwah kesehatan pendidikan melahirkan kemakmuran untuk semua adalah sangat tepat karena kemakmuran adalah tujuan kita tapi tidak ada kemakmuran tanpa keadilan saudara sekalian saya terkesan suatu pemerintahan suatu Imperium suatu peradaban muslim yang cukup lama hampir 600 tahun lebih mendekati lebih mungkin 700 tahun yaitu peradaban utmaniyah yang berpusat di Turki di Istanbul itu salah satu Adi kuasa pada saatnya yang sangat sangat berhasil ciri khasnya adalah dia memimpin suatu kekaisaran Imperium yang multietnis yang toleran kepada semua"
+  },
+  {
+   "t": 1579.0,
+   "d": 109.0,
+   "text": "agama semua suku ratusan suku yang berbeda-beda dan di situ ada sesuatu yang menarik bagi saya untuk memimpin ratusan tahun dan memimpin imperiumnya begitu luas Dia memiliki suatu Akademi Akademi Gubernur Akademi Gubernur itu sebetulnya inti pelajarannya yang saya tarik itu satu satu paragraf yang bagi saya menarik dia ajarkan ke semua calon gubernur jadi bupati-bupati yang disiapkan jadi gubernur masuk ke akademi ini dan pelajarannya sangat banyak tentunya tapi ada satu yang sangat sederhana diajarkan di situ tidak ada negara tanpa tentara yang kuat karena ada kecenderungan pelajaran-pelajaran liberal seolah-olah mau dipisahkan antara sipil dan tentara mau dipisahkan antara cendekiawan sama tidak bisa pelajaran tidak ada negara tanpa tentara yang kuat tidak ada tentara yang kuat tanpa uang tidak ada uang tanpa kemakmuran tidak ada kemakmuran tanpa rakyat yang bahagia dan sejahtera tidak ada rakyat yang bahagia"
+  },
+  {
+   "t": 1688.0,
+   "d": 131.0,
+   "text": "dan sejahtera tanpa pemerintah yang bersih dan adil ini benar sekali uang dari mana uang dari rakyat Iya kan melalui pajak melalui retribusi kalau rakyat tidak bahagia enggak mau bayar pajak Dia pengusaha yang merasa diperes Iya kan dulu sekarang mungkin tidak ada mudah-mudahan tidak ada lagi Dia tidak rela bayar pajak Dia tidak rela jadi artinya dari pelajaran itu kenapa tentara dan ini Tentunya dalam tentara berarti tentara polisi pemerintah ini harus kuat dan baik tidak mungkin kalau uangnya tidak cukup uang tidak cukup ya dia bisa tindak kita diajarkan oleh senior-senior kita tentara yang tidak disiplin sangat berbahaya grombolan tentara yang tidak setia kepada tuannya berbahaya siapa tuannya tentara tuannya tentara rakyat rakyat yang membayar tentara Seu ya kaos kakinya bajunya semua dari rakyat kalau rakyat itu tidak bahagia tidak sejahtera dan mereka tidak mungkin bahagia dan sejahtera kalau pemerintah itu tidak bersih dan tidak adil ini"
+  },
+  {
+   "t": 1819.0,
+   "d": 107.0,
+   "text": "pelajaran Saya kira bukan kita nyontek kita perlu belajar dari yang baik yang berhasil dan setiap peradaban tentunya ada pasang ada Puncak ada surut surut Kenapa karena dihajar di mana-mana dan kalau kita jujur di ujungnya memang pemerintahan Mereka pun juga terjadi korupsi dan sebagainya satu hal yang kita belajar dari sejarah pemerintah yang korup tidak bisa membawa kemakmuran kepada rakyat itu pelajaran itu pelajaran jadi saudara-saudara marilah kita bersama-sama sesuai dengan tema yang saudara-saudara pilih marilah kita berjuang mencari kemakmuran supaya kita hilangkan kemiskinan hilangkan kelaparan hilangkan stunting saudara-saudara saya telah mempelajari angka-angka mendalam sungguh luar biasa kekayaan kita sungguh luar biasa tapi kita koreksi diri kita banyak yang terus terang saja kurang piawe kurang handal untuk menjaga kekayaan kita karena itu saya ber tekad untuk mencapai pemerintah yang"
+  },
+  {
+   "t": 1926.0,
+   "d": 123.0,
+   "text": "[Tepuk tangan] bersih dan ini tidak gampang ini sangat sulit bahkan Saya tahu saya ditertawakan saya diejek tapi saya sudah biasa diejek mana mungkin menghilangkan korupsi di Indonesia mana mungkin menghilangkan kemiskinan mana mungkin menghilangkan kelaparan apa Mau kasih makan bergizi ketawa di awal mereka tertawakan saya dan saya tahu mereka mengancam saya Saya tahu saya diancam nanti Har harga saham harga indeks saham akan turun di hari-hari pertama saya luncurkan gagasan makan bergizi sudah muncul Saya mengerti saya ini cukup lama jadi orang Indonesia Saya mengerti saya mengerti ada ancaman terbuka ada ancaman halus ada ada senjata yang terbuka senapan meriam ya itu Tapi sebelumnya ada senjata-senjata lain senjata psikologis adu domba fitnah Hoa ada ancaman terhadap ekonomi saudara-saudara Pak karena gagasan makan bergizi harga saham indeks turun saya bilang saya jawab ke mereka itu saya kasih tahu ya biar saya enggak punya saham saya"
+  },
+  {
+   "t": 2049.0,
+   "d": 109.0,
+   "text": "bilang dan rakyat di desa-desa tidak punya saham benar kalau saham jatuh Iya pemain-pemain bursa itu siapa yang main bursa di sini menteri-menteri Ayo ngaku Fahri Hamzah kayaknya yuk ada bukan bukan orang kaya saja main saham tahu enggak ada teman-teman saya ahli matematik ah dia mau pakai algoritme tapi saya lihat hidupnya stres tiap detik lihat tv lihat apa itu wah harga saham turun 0, sekian Wah panik dia hitung lagi aduh hidup Stres aku gak maulah dan saya kasih tahu itu ya main-main saham itu kalau orang kecil ya pasti kalah itu untuk orang kecil itu biasanya sama dengan judi itu yang menang yang Bandar yang yang besar yang kuat ya kan ini pakeng itu mantuk-mantuk jangan-jangan Pak tranggono punya algoritma dia itu ada ahli matematik yang Saking pintarnya dia berani ke kasino hitung-hitung-hitung main apa rulet itu pakai algoritme itu C tapi enggak serius saudara-saudara kemudian ada yang mau"
+  },
+  {
+   "t": 2158.0,
+   "d": 129.0,
+   "text": "ancam mata uang kita ada juga mau ancam saudara-saudara ternyata bernegara itu keyakinan saya dasarnya adalah beberapa hal yang fundamental yang pertama adalah kemampuan bangsa itu menghasilkan pangan karena kita hormati Apa yang dilakukan oleh pemerintah Sebelum saya semua pemerintah sebelum kita dari Presiden Soekarno selanjutnya punya jasa sampai kita berada di sini yuk kita hormati pemerintah Pak Jokowi Saya bukan membela-membela orang teruslaja untuk apa sekarang saya apa tuh istilah tentara ngolor menjilat I kan bukan saya bela-bela Pak Jokowi karena persun tidak saya mau katakan apa adanya kalau ada kekurang ada kita semua ada kekurangan semua pemimpin ada kekurangan jangan memfitnah jangan menyerang kita semua punya kekurangan mau buka-bukaan yang enggak enak kita diajarkan nenek moyang kita orang tua kita mikul duwur Mendem Jero orang tua hormati yang baik kita sebagai yang muda berani juga ngoreksi tapi ngoreksinya dengan cara yang baik yang sopan Saya kira itu"
+  },
+  {
+   "t": 2287.0,
+   "d": 133.0,
+   "text": "ajaran ustaz-ustaz saya Saya bukan orang yang terlalu baik agama saya saya akui di depan Muhammadiyah aku akui tapi saya ingat ajaran ustaz-ustaz saya gak boleh dendam tidak boleh Maki maki Iya kan tidak boleh sakit hati tidak boleh benci Ya Tuhan aja memaafkan kok manusia meneruskan permusuhan saya ini dikalahkan oleh Pak Jokowi dan menteri-menteri saya banyak yang ikut mengalahkan saya [Tepuk tangan] benar ya Ayo ngaku tuh ngaku siapa bendaharanya Pak Jokowi Hah itu terenggono itu ayo ngaku ini ini banyak ini menteri-menteri saya itu tapi sudah sudah ini kan perbedaan itu biasa persaingan itu biasa biasa Sudahlah Tapi sesudah itu Ayo kerja sama ayo nyatanya saya tahu ini dalangnya trenggono ini tapi jadi wakil saya di Kementerian Pertahanan Akhirnya saya dibilang Oh Prabowo pakai banyak orangnya Jokowi tidak bukan orangnya Jokowi saya pakai orang merah Puh saya pakai anak Iya kan saya ada juga ada juga yang m k polkam saya juga kan bukan orang"
+  },
+  {
+   "t": 2420.0,
+   "d": 108.0,
+   "text": "Gerindra dia memang non partai tapi saya ambil saya ambil satu yang saya ambil saya yakin di dalam hatinya semua itu Cinta Merah Putih cinta tanah air jadi masalah di Pilkada ada yang menang ada yang kalah sudah ya kan PKS dukung Anis gak ada masalah wakilnya PKS di Sumatera Barat Iya kan gak ada masalah banyak saya grindra wakilnya PDIP di Jawa Tengah di mana sudah enggak ada masalah jangan kita perbedaan pendapat bagi saya harus kita sikapi dengan kearifan dan kalau ada kesalahan kita koreksi kita koreksi kita perbaiki saudara-saudara saya percaya dan yakin saya optimis tapi kita harus waspada karena kita sangat kaya kita menguasai mineral-mineral yang sangat strategis yang dibutuhkan oleh banyak negara karena itu beberapa rencana kita hilirisasi tidak berkenan di banyak negara tapi kita tidak ada pilihan masa ratusan tahun kita harus jual kekayaan kita sebagai bahan mentah kita tidak"
+  },
+  {
+   "t": 2528.0,
+   "d": 110.0,
+   "text": "mau kita mau karunia Tuhan itu Boleh dibeli dengan harga yang benar supaya kita punya nilai nilai tambah bisa dipakai untuk mensejahterakan rakyat kita jadi kita harus siap menghadapi Mungkin ada yang mau dikte kita harus ini harus itu kamu gak boleh dekat sama dia kamu dekat sama saya kita dekat sama semua saudara-saudara saya kira itu inti yang ingin saya sampaikan terima kasih pak Haidar membaca buku saya karena di Indonesia banyak buku dipajangan aja itu Terima kasih Tapi itu saya kira adalah hal-hal yang mendasar dan EE sebagai kesimpulan ternyata setelah saya keliling ke luar negeri hadir KTT apek hadir KTT g20 tema di g20 tema di apek terutama di g20 temanya apa tema utamanya apa apa hilangkan kemiskinan hilangkan kelaparan fight Hunger and fight poverty itu tema dunia sekarang kemudian ke arah menjaga lingkungan hidup kita kita nanti berada di garis depan saya katakan Indonesia mungkin"
+  },
+  {
+   "t": 2638.0,
+   "d": 112.0,
+   "text": "satu-satu negara mungkin dengan Brazil dan Kongo kita bisa kita diberi karunia oleh Tuhan kita akan mampu semua bahan bakar kita Green semua bahan bakar kita dari tanaman dan kita akan Swasembada energi dan kita akan Swasembada pangan dalam waktu yang lebih singkat daripada yang saya perkirakan saya beri target 4 sampai 5 tahun ternyata bisa lebih cepat dan saya percaya dan saya yakin NTT tadi kita rubah dari hanya laporan Gubernur hanya 300.000 hektar yang sekarang bisa diiri potensi empat juta hektar luar biasa dan ini bisa dan ini akan kita kerjakan saya percaya manusia apalagi Pemimpin harus berani punya tujuan harus berani punya sasaran yang tinggi jangan sasaran yang rendah saya diejek lagi Prabowo bisa aja dia ngomong mau pertumbuhan 8% saudara-saudara saya selalu mengutip Bung Karno Bung Karno mengajarkan dari dulu Gantungkan cita-citamu setinggi langit kalau kau tidak sampai ke langit minimal kau jatuh di antara"
+  },
+  {
+   "t": 2750.0,
+   "d": 117.0,
+   "text": "[Tepuk tangan] bintang-bintang kalau pengalaman saya di tentara juga begitu kalau kita kasih target yang rendah ee cukuplah gak usah repot-repot ya kan target saya kasih target kalau sekarang 5% 5,5 Ya sudah 6% sajalah jangan-jangan enggak sampai 6% gitu tapi saya hitung saya hitung angka-angka saya percaya saya yakin kita mampu sampai % kebocoran-kebocoran kita kalau kita hemat kalau pemerintah itu ketat bersih efisien Saya yakin bisa tapi ini butuh jiwa besar saudara-saudara jiwa besar gubernur bupati semuanya harus bekerja Walikota Sudahlah acara-acara yang tidak penting kurangi ya kan seminar terlalu banyak rapat Kenapa rapat atau ini harus dihotel di mana gitu saudara-saudara hitungan Kita perjalanan luar negeri saja itu Indonesia ini perjeranan luar negeri pejabat-pejabat 3 miliar dolar Saya minta dikurangi 50% saja kalau bisa dikurangi 50% Artinya kita bisa menghemat 15t 15t itu berapa Bendungan berapa"
+  },
+  {
+   "t": 2867.0,
+   "d": 108.0,
+   "text": "irigasi berapa SD bisa kita perbaiki berapa anak sekolah bisa kita kasih makan Tolonglah ya para menteri puasa dulu puasanya 5 tahun kalau 5 tahun kita hemat 1,5 miliar dolar dari perjalanan saja saudara-saudara tapi bayangkan itu apa yang kita bisa saya tapi sudah perintahkan menteri kewuangan wakil menteri kuangan teliti semua program ditelti ternyata cukup besar penghematan cukup besar tapi saya tidak umumkan di sini supaya kita tidak cepat puas jadi saya mohon juga para gubernur terpilih Bupati terpilih ya ketat efisien kurangi yang bersifat tidak kritis kritis untuk kepentingan rakyat kritis tingan langsung enggak usah terlalu banyak seminar kita sudah tahu keselutan rakyat Iya kan sudah tahu bapak masalah Indonesia ini adalah ini ini ini sudah tahu kita ini tidak punya satu data datanya banyak saya tahu banyak peraturan undang-undang bertabrakan saya tahu solusi nya bagaimana ya menteri Perumahan Rakyat di sini diwakili wakil menteri ya kan"
+  },
+  {
+   "t": 2975.0,
+   "d": 119.0,
+   "text": "rakyat rakyat miskin rakyat muda yang masih muda butuh rumah yang terjangkau enggak usah diseminarkan Berapa jumlah rumah ini tipe berapa dia butuh segera kalau sudah berdiri minimal 3 juta rumah Fahri Hamzah boleh senyum-senyum sekarang Jangan senyum dulu kau terima kasih saudara-saudara eh Sekali lagi selamat terima kasih semua tokoh muhammadiah Mari kita sama-sama dengan semua komponen lain semua organisasi lain banyak perbedaan tapi Carilah titik-titik persamaan untuk bangsa dan negara Terima kasih selamat milad ke-112 kepada Muhammadiyah berbaktilah terus kepada bangsa rakyat umat teruskan apa yang sudah saudara-saudara laksanakan dan saudara-saudara buktikan wasalamualaikum warahmatullahi wabarakatuh Shalom salve Om swtiastu nama Buda salam kebajikan Terima kasih kehormatan diberikan kepada saya bisa berbicara di sini dan bisa memberi pengarahan kepada saudara-saudara sekalian saudara-saudara berjasa KJA kadang-kadang tanpa dilihat Terima kasih"
+  },
+  {
+   "t": 3094.0,
+   "d": 68.0,
+   "text": "selesai selanjutnya persiapan prosesi pematikan Alat musik sasando berkenan mendampingi menteri koordinator bidang pangan ketua umum pimpinan pusat Muhammadiyah serta ketua panitia penerima sidang tanwir dan resepsi milat ke-1 untuk naik ke atas panggung dari bahasa Rote sasand yang berarti alat musik yang berbunyi atau bergetar Sasando telah digunakan oleh masyarakat Rote dari abad keetu untuk mengiringi lagu syair dan tarian memiliki alunan yang khas Sasando kini menjadi salah satu alat musik tradisional kekayaan budaya Nusa Tenggara Timur mohon izin bapak kami Pandu Hitung mundur t Dua S [Musik] [Tepuk tangan] [Musik] [Tepuk tangan] [Musik] dengan demikian sidang tanwir dan resepsi milat ke-12 Muhammadiyah resmi dibuka"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "3XayivTOjCY",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/3XayivTOjCY.json"
+ }
+}

@@ -1,0 +1,1074 @@
+{
+ "id": "2026-08-14---kenegaraan-di-sidang-tahunan-mpr-2026",
+ "video_id": "1-hEfAcRo4k",
+ "date": "2026-08-14",
+ "title": "🔴BREAKING NEWS - Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR 2026",
+ "channel": "KOMPASTV JAWA TENGAH",
+ "youtube_url": "https://www.youtube.com/watch?v=1-hEfAcRo4k",
+ "duration_s": 6978,
+ "duration_hms": "1:56:18",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 899,
+ "token_count": 7900,
+ "unique_word_count": 1910,
+ "duplicate_count": 6,
+ "uploads": [
+  {
+   "video_id": "1-hEfAcRo4k",
+   "url": "https://www.youtube.com/watch?v=1-hEfAcRo4k",
+   "title": "🔴BREAKING NEWS - Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR 2026",
+   "channel": "KOMPASTV JAWA TENGAH",
+   "upload_date": "2026-08-14",
+   "duration_s": 6978,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 7900,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 899,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "06kk5UIx6a8",
+   "url": "https://www.youtube.com/watch?v=06kk5UIx6a8",
+   "title": "[FULL] Pidato Presiden Prabowo di Sidang Tahunan 2026: Swasembada Pangan-Pembenahan BUMN",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-08-14",
+   "duration_s": 6890,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 7746,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 2131,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "DW6WkFY5pM4",
+   "url": "https://www.youtube.com/watch?v=DW6WkFY5pM4",
+   "title": "🔴BREAKING NEWS - Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR 2026",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-08-14",
+   "duration_s": 22560,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 29216,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 2504,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "OzET9XSJ55k",
+   "url": "https://www.youtube.com/watch?v=OzET9XSJ55k",
+   "title": "[FULL] Pidato Kenegaraan Presiden Prabowo Subianto di Sidang Tahunan MPR | Liputan 6",
+   "channel": "Liputan6",
+   "upload_date": "2026-08-14",
+   "duration_s": 6822,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 7746,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 2114,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "WmwcRVPUKB4",
+   "url": "https://www.youtube.com/watch?v=WmwcRVPUKB4",
+   "title": "Menggelegar Pidato Prabowo Getarkan Sidang Tahun MPR/DPR: Kita Siap Habis-Habisan...!",
+   "channel": "MerdekaDotCom",
+   "upload_date": "2026-08-14",
+   "duration_s": 936,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 1031,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 113,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "mFeHiRfWNyg",
+   "url": "https://www.youtube.com/watch?v=mFeHiRfWNyg",
+   "title": "FULL Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR RI",
+   "channel": "CNN Indonesia",
+   "upload_date": "2026-08-14",
+   "duration_s": 6818,
+   "source_tier": "full_media",
+   "fetch_method": "transcript_panel",
+   "token_count": 7751,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 848,
+   "discovery_origins": [
+    "targeted_early_search"
+   ],
+   "selection_reason": "early_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "pQAVGm6zYsA",
+   "url": "https://www.youtube.com/watch?v=pQAVGm6zYsA",
+   "title": "[FULL] Pidato Presiden Prabowo di Sidang Tahunan MPR RI 2026 | BREAKING NEWS",
+   "channel": "Official iNews",
+   "upload_date": "2026-08-14",
+   "duration_s": 6875,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 7750,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 2095,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 47,
+  "ekonomi": 81,
+  "pendidikan": 51,
+  "kesehatan_dan_gizi": 72,
+  "tata_kelola": 34,
+  "pertahanan_dan_keamanan": 23,
+  "nasional_dan_identitas": 281,
+  "mbg": 5
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 4,
+  "full_phrase_count": 0,
+  "paired_terms_count": 1,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 5,
+  "present": true,
+  "evidence": [
+   {
+    "start": 4739.0,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 4796.0,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 4889.0,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 4914.0,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 4983.0,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 5.0,
+   "d": 43.0,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah. Salam sejahtera bagi kita sekalian. Shalom. Om swastiastu. Namo buddhaya. Salam kebajikan. Rahayu-rahayu. Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabomi Geraka beserta Ibu Selfie Gibran Lakabumingraka."
+  },
+  {
+   "t": 48.0,
+   "d": 40.0,
+   "text": "Yang saya hormati Presiden ketujuh Republik Indonesia, Bapak Joko Widodo. [tepuk tangan] Wakil Presiden ke-10 dan ke-12 Republik Indonesia, Bapak H. Muhammad Yusuf Kalah, Wakil Presiden ke-11 Republik Indonesia, Bapak Budo. Wakil Presiden ke-13 Republik Indonesia, Bapak K. H. Prof."
+  },
+  {
+   "t": 88.0,
+   "d": 76.0,
+   "text": "Amin. [tepuk tangan] Istri Presiden keempat Republik Indonesia, Ibu Sinta Niah Abdurah Abdurrahman Wahid. Istri Wakil Presiden kees9 Republik Indonesia, Ibu Soraya Hamzah Khas. [tepuk tangan] Para pimpinan lembaga tinggi negara. Ketua Majelis Permisatan Raya Indonesia, Saudara Ahmad Muzani beserta para mantan ketua, para wakil ketua dan anggota MPR RI, [tepuk tangan] Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani beserta para mantan ketua, para wakil ketua, dan para anggota DPRRI yang saya hori. hormati [tepuk tangan] Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Bakhtiar Najamuddin beserta para mantan ketua, para wakil ketua, dan para anggota DPD RI."
+  },
+  {
+   "t": 164.0,
+   "d": 52.0,
+   "text": "Yang saya hormati [tepuk tangan] Ketua Mahkamah Agung Profesor Sunarto, Ketua Mahkamah Konstitusi, Saudara Soehartoyo, Ketua Komisi Yudisial, Saudara Abdul Khair Ramadan, Ketua Badan Pemeriksa Keuangan, Saudari Isma Yatun, para Menteri koordinator, para menteri, para kepala badan, para penasehat khusus presiden, jaksa Agung, Kapolri, Panglima TNI, Kepala BIN, dan kepala staf angkatan, serta seluruh anggota kabinet merah putih yang saya banggakan."
+  },
+  {
+   "t": 216.0,
+   "d": 82.0,
+   "text": "Yang terhormat para pimpinan partai politik, Ketua PDI Perjuangan diwakilkan Saudari Puan Maharani, Ketua Umum Partai Golongan Karya, Saudara Bahlil Lahadalia. [tepuk tangan] Partai Gerindra saya sendiri, [tepuk tangan] tapi juga hadir ketua harian Prof. Ahmad, [tepuk tangan] Ketua Umum Partai Amanat Nasional, Saudara Sulifli Hasan, Ketua Umum Partai Demokrat, Saudara Agus Hari Murti Yudoyono, Ketua Umum Partai Kebangkitan Bangsa, Saudara Abdul Muhaimin Iskandar, Presiden Partai Keadilan Sejahtera, Saudara Ali Muzamil Yusuf, Ketua Umum Partai Nasional Demokrat, Saudara Surya Darmapalo."
+  },
+  {
+   "t": 298.0,
+   "d": 41.0,
+   "text": "[tepuk tangan] Para duta besar negara sahabat yang hadir. Yang saya hormati para kepala daerah, para gubernur, para bupati, walikota, di mana pun Engkau berada. Rekan-rekan pers media yang hadir, saudara-saudaraku sebangsa dan setanah air, seluruh rakyat Indonesia yang saya cintai, di mana pun Engkau berada."
+  },
+  {
+   "t": 339.0,
+   "d": 31.0,
+   "text": "Pertama-tama sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur ke hadirat Tuhan yang maha besar. Tuhan yang Maha Esa, Allah Subhanahu wa taala bagi umat Islam atas segala rahmat dan karunia-Nya yang diberikan kepada kita atas kesehatan nafas yang masih kita nikmati."
+  },
+  {
+   "t": 370.0,
+   "d": 35.0,
+   "text": "atas perdamaian yang diberikan kepada negara dan bangsa kita di tengah dunia yang penuh peperangan, pertikaian, konflik, dan ketidak pastian. Atas rahmat Ilahi hari ini kita dapat hadir pada sidang tahunan MPRRI dan sidang bersama DPRRI dan DPD RI tahun 2026 dalam keadaan sehat tidak kekurangan apapun dan dengan penuh semangat cinta tanah air."
+  },
+  {
+   "t": 405.0,
+   "d": 44.0,
+   "text": "Pagi ini saya kembali berdiri di aula yang terhormat ini di aula yang sama tempat saya telah ucapkan sumpah sebagai Presiden Republik Indonesia dan saudara Gibran Rakabum Raka sebagai wakil presiden Republik Indonesia. Pada hari itu, 20 Oktober 2024, di hadapan majelis terhormat, di hadapan seluruh rakyat Indonesia dan yang paling penting di hadapan Tuhan Yang Maha Kuasa."
+  },
+  {
+   "t": 449.0,
+   "d": 36.0,
+   "text": "Saya telah bersumpah akan menjalankan kepemimpinan negara dan bangsa dengan tulus dan jujur. Mengutamakan kepentingan seluruh rakyat Indonesia, termasuk mereka yang tidak memilih saya. Untuk menunaikan janji-janji yang saya telah ucapkan dan menunaikan sumpah saya sebagai Presiden Republik Indonesia, saya telah pimpin pemerintahan Negara Kesatuan Republik Indonesia selama 21 bulan dengan empat pedoman utama."
+  },
+  {
+   "t": 485.0,
+   "d": 31.0,
+   "text": "Pertama, kami bekerja untuk menjaga dan melaksanakan perintah-perintah Undang-Undang Dasar. negara Republik Indonesia tahun 1945. Kedua, kami bekerja untuk menjaga, menjalankan, dan melindungi kepentingan inti nasional yang vital, the core and vital national interests."
+  },
+  {
+   "t": 516.0,
+   "d": 51.0,
+   "text": "Hal ini termasuk menjaga dan mengelola dengan sebaik-baiknya kekayaan bangsa Indonesia. agar dapat sepenuhnya dimanfaatkan untuk kemakmuran seluruh rakyat Indonesia. Ketiga, kami bekerja untuk mengatasi kesulitan rakyat dalam waktu yang sesingkat-singkatnya. Keempat, dalam bekerja kami selalu berorientasi kepada kepentingan kepentingan rakyat dan kepentingan anak-anak mereka dan cucu-cucu mereka."
+  },
+  {
+   "t": 567.0,
+   "d": 40.0,
+   "text": "Hari ini 21 bulan sejak sumpah itu saya ucapkan, saya kembali ke hadapan majelis ini. Saya kembali untuk menyampaikan apa yang telah kita kerjakan, apa yang mulai kita lihat hasil-hasilnya dan apa yang masih harus kita selesaikan. Saya belum bisa mengatakan bahwa seluruh persoalan bangsa telah selesai atau bahwa seluruh janji yang saya ucapkan telah tertunaikan. Belum."
+  },
+  {
+   "t": 607.0,
+   "d": 41.0,
+   "text": "Tetapi dalam waktu kurang dari 2 tahun kita telah buktikan bahwa dengan keberanian mengambil keputusan dengan kerja keras didasari oleh hati yang tulus, kehendak yang jelas, orientasi kepada rakyat dan dengan gotong-royong seluruh unsur bangsa, masalah-masalah yang selama puluhan tahun dianggap sangat rumit atau terlalu rumit dapat kita mulai selesaikan."
+  },
+  {
+   "t": 648.0,
+   "d": 32.0,
+   "text": "[tepuk tangan] Saya tidak mengatakan selesai, saya mengatakan kita mulai selesaikan. Dalam 21 bulan tepatnya 663 hari sampai hari ini, pemerintah yang saya pimpin telah memutuskan dan menjalankan 121 kebijakan-kebijakan transformatif untuk menyelesaikan masalah-masalah negara."
+  },
+  {
+   "t": 680.0,
+   "d": 32.0,
+   "text": "Sebagian masalah-masalah itu telah berpuluh tahun tidak bisa kita selesaikan. Artinya kita bisa mengatakan bahwa kita telah putuskan satu kebijakan transformatif setiap 5 hari. Demikian kerasnya menteri-menteri saya dan pembantu-pembantu saya telah bekerja. Beberapa di antara mereka terpaksa masuk rumah sakit."
+  },
+  {
+   "t": 712.0,
+   "d": 37.0,
+   "text": "Ada yang pingsan, ada yang operasi. banyak yang kecapaian. Saya berjanji kepada mereka bahwa dalam sisa masa jabatan saya ini, saya akan memberi lebih banyak waktu istirahat untuk mereka dan mereka menjawab, \"Janji tinggal janji.\" Demikian bukti kesungguhan dari pemerintah yang saya pimpin."
+  },
+  {
+   "t": 749.0,
+   "d": 28.0,
+   "text": "Menurut pembantu-pembantu saya, dalam kalender saya tidak ada Hari Merah. Yang ingin saya sampaikan, kita menerima amanah itu dengan penuh kehormatan. Tugas dari rakyat adalah kehormatan yang mulia bagi kita. Karena itu kita akan bekerja dengan sekeras-kerasnya."
+  },
+  {
+   "t": 777.0,
+   "d": 48.0,
+   "text": "Kita akan habis-habisan. bekerja untuk rakyat dan bangsa kita. [tepuk tangan] Dan karena kebijakan kebijakan kita dan kerja keras kita. Sua sembada pangan yang dahulu kita targetkan tercapai dalam 4 tahun, ternyata berhasil kita capai dalam waktu 1 tahun. [tepuk tangan] di tengah dunia sekarang yang sangat khawatir terhadap kelaparan massal akibat kesulitan pangan dan cuaca yang tidak menentu."
+  },
+  {
+   "t": 825.0,
+   "d": 32.0,
+   "text": "kita. Alhamdulillah dapat saya laporkan di majelis ini soal pangan, soal makanan untuk rakyat Indonesia. Kita berada dalam keadaan aman dan kita akan mampu menghadapi tantangan-tantangan termasuk tantangan elnino yang katanya tahun ini elninonya akan berarti elnino yang paling paling dahsyat."
+  },
+  {
+   "t": 857.0,
+   "d": 34.0,
+   "text": "Kita telah mencapai itu dengan keberanian menghadapi masalah. 145 aturan penyaluran pupuk telah kita hilangkan. Harga pupuk berhasil kita turunkan 20%. Hal ini terjadi [tepuk tangan] pertama kali dalam sejarah Negara Kesatuan Republik Indonesia. Pertama kali harga pupuk dapat kita turunkan kepada rakyat."
+  },
+  {
+   "t": 891.0,
+   "d": 48.0,
+   "text": "Tetapi pada saat yang bersamaan harga turun, tapi volume ketersediaan pupuk tambah untuk rakyat kita, Saudara-saudara. sehingga rakyat kita sekarang mudah mendapatkan pupuk dan karena itulah produksi meningkat dan karena itulah juga kita lebih cepat swasembad pangan dan pada saat yang bersamaan keuntungan PT Pupuk Indonesia perusahaan negara BUMN keuntungan nya naik 252,8%."
+  },
+  {
+   "t": 939.0,
+   "d": 55.0,
+   "text": "[tepuk tangan] Harga pupuk turun, volume tambah tapi keuntungan bagi PT Pupuk Indonesia naik 252,8%. Ini adalah akibat kerja tim yang membantu saya, Menteri Pertanian dengan seluruh jajarannya, para penyuluh pertanian [tepuk tangan] didukung oleh banyak kementerian lain, didukung oleh pemda, didukung oleh TNI dan Polri semuanya ini dengan semangat gotong-royong dong kita telah mencapai suatu prestasi yang diakui oleh dunia."
+  },
+  {
+   "t": 994.0,
+   "d": 43.0,
+   "text": "Karena itu tahun ini kita sudah swasembada delapan komoditas pangan. Kita telah suasembada beras, suasembada jagung, suasembada gula konsumsi, daging ayam, telur ayam, bawang merah, cabai besar dan cabai rawit. Saudara-saudara, kita masih belum suas pada daging itu akan kita kerjakan yang insyaallah bisa kita capai dalam 5 sampai 6 tahun ke depan."
+  },
+  {
+   "t": 1037.0,
+   "d": 43.0,
+   "text": "Janji Swasembada energi sekarang sudah mulai kita wujudkan dengan pertama kali swas pada BBM jenis solar. Kita berhasil produksi diesel dengan B50 dari kelapa sawit. Sehingga mulai tahun ini, mulai 1 Juli 2026 kita tidak lagi mengimpor solar dari luar negeri dan kita berhasil menghemat devisa R70 triliun."
+  },
+  {
+   "t": 1080.0,
+   "d": 33.0,
+   "text": "Sekitar 9,5 miliar dolar Amerika tidak lagi harus kita kirim ke luar negeri. Saudara-saudara sekalian, janji makanan bergizi, bantuan sosial, dan hilirisasi tidak lagi menjadi rencana di atas kertas. semuanya telah berjalan dan manfaatnya mulai diakan dirasakan rakyat."
+  },
+  {
+   "t": 1113.0,
+   "d": 48.0,
+   "text": "Sekali lagi ini bukan alasan untuk kita berpuas diri. Ini adalah rangsangan untuk kita bekerja lebih keras lagi. Karena kita sadari kemerdekaan bukan hanya apa yang kita proklamasikan. Kemerdekaan adalah apa yang dapat dirasakan oleh rakyat? Maaf, mohon izin."
+  },
+  {
+   "t": 1161.0,
+   "d": 36.0,
+   "text": "81 tahun yang lalu, para pendiri bangsa mewariskan kepada kita sebuah negara dan sebuah cita-cita. Indonesia yang berdaulat, adil, dan makmur. Indonesia yang kekayaannya harus dipergunakan sebesar-besarnya untuk kemakmuran rakyat dan tidak boleh hanya dinikmati oleh segelintir orang saja."
+  },
+  {
+   "t": 1197.0,
+   "d": 38.0,
+   "text": "Saya tidak menerima mandat dari rakyat untuk menjelaskan mengapa masalah tidak dapat diselesaikan. Saya menerima mandat dari rakyat justru untuk menyelesaikan masalah-masalah dan mengatasi kesulitan-kesulitan rakyat. Kami memilih mengambil keputusan yang sulit pada hari ini daripada mewariskan masalah yang lebih berat lagi dan lebih rumit lagi kepada generasi-generasi penerus kita."
+  },
+  {
+   "t": 1235.0,
+   "d": 33.0,
+   "text": "Saudara-saudara sekalian, pembangunan bangsa bukan pekerjaan presiden seorang diri. Bukan pekerjaan hanya pemerintah. Republik ini dibangun oleh kerja sama seluruh lembaga negara, pemerintah pusat dan daerah, serta seluruh elemen dari masyarakat, seluruh rakyat Indonesia."
+  },
+  {
+   "t": 1268.0,
+   "d": 41.0,
+   "text": "Saudara-saudara, MPRRI terus menjalankan perannya sebagai rumah kebangsaan. memperkuat literasi konstitusi, merawat Pancasila, Undang-Undang Dasar 1945, NKRI, dan Bineka Tunggal Ika. Demokrasi tidak boleh berhenti pada prosedur pemilihan. Demokrasi harus memenuhi hak dasar rakyat dan berpegang kepada semua pasal-pasal di Undang-Undang Dasar kita."
+  },
+  {
+   "t": 1309.0,
+   "d": 38.0,
+   "text": "DPRRI bersama pemerintah telah menyelesaikan dan mengundangkan 13 rancangan undang-undang sampai bulan Juli 2026. Salah satunya adalah Undang-Undang Nomor 2 Tahun 2026 tentang Perlindungan Pekerja rumah tangga. Pengakuan bahwa setiap pekerjaan memiliki nilai martabat dan setiap pekerja berhak untuk memperoleh perlindungan."
+  },
+  {
+   "t": 1347.0,
+   "d": 49.0,
+   "text": "DPD RI telah menghimpun 10.88 83 aspirasi dari 38 provinsi dan membawanya ke dalam dialog bersama pemerintah dalam hal ini BAPENAS dan kementerian-kementerian lainnya sebagai masukan bagi rencana kerja pemerintah 2027. DPD juga terus memperjuangkan rancangan Undang-Undang Daerah Kepulauan yang kini sudah masuk pembahasan Tripartit bersama DPR dan pemerintah."
+  },
+  {
+   "t": 1396.0,
+   "d": 42.0,
+   "text": "Insyaallah akan selesai. [tepuk tangan] Mahkamah Agung [tepuk tangan] pada tahun 2025 menangani 38.14 perkara dan berhasil memutuskan 37.973 perkara. Dengan demikian produktivitasnya adalah 99,54%. Sebanyak 96,74% perkara diselesaikan dalam waktu kurang dari 3 bulan."
+  },
+  {
+   "t": 1438.0,
+   "d": 80.0,
+   "text": "Ini adalah capaian ketepatan waktu tertinggi sepanjang sejarah Mahkamah Agung. Kita beri penghargaan kepada Ketua Mahkamah Agung dan jajarannya. [tepuk tangan] Sesungguhnya keadilan yang terlambat adalah ketidakadilan yang dipanjangkan. Mahkamah Konstitusi sepanjang 2025 telah menangani 71 perkara dan permohonan termasuk 334 perselisihan hasil pemilihan kepala daerah sebanyak 598 perkara dan permohonan telah diputus sampai dengan 23 Juli 2026 84,51% permohonan ke MK diajukan secara daring sehingga ya itu online sehingga warga dari Aceh sampai Papua tidak harus selalu datang ke Jakarta."
+  },
+  {
+   "t": 1518.0,
+   "d": 55.0,
+   "text": "BPK menjaga agar setiap rupiah uang rakyat digunakan dengan benar dan tepat. Sepanjang 2025, rekomendasi hasil pemeriksaan BPK telah menghasilkan penyelamatan keuangan negara sebesar Rp112 triliun. Kepercayaan dunia kepada auditor Indonesia juga meningkat. BPK terpilih menjadi ketua International Organization of Supreme Audit Institutions in Tosai periode 2008-2031 dan juga terpilih menjadi United Nations Board of Auditors periode 2026-2032."
+  },
+  {
+   "t": 1573.0,
+   "d": 33.0,
+   "text": "Komisi Judisial pada Januari sampai Juni 2026 menerima 1402 laporan masyarakat dan 622 permohonan pemantauan persidangan. Komisi Yudisial telah mengusulkan sanksi kepada 121 hakim yang terbukti melanggar kode etik termasuk 14 sanksi sedang. dan 17 sanksi berat."
+  },
+  {
+   "t": 1606.0,
+   "d": 48.0,
+   "text": "Kita harus menjaga supremasi hukum dan kemandirian hakim. Pemerintah terus berusaha untuk meningkatkan taraf hidup hakim. Tapi kemandirian tidak berarti tanpa akuntabilitas hakim. Saudara-saudara, mengenai masalah hakim, pemerintah telah berhasil menaikkan remunerasi hakim. Untuk hakim-hakim yang paling junior, penghasilan mereka telah naik 280%."
+  },
+  {
+   "t": 1654.0,
+   "d": 35.0,
+   "text": "Tertinggi dalam beberapa dasa warsa. Sekarang penghasilan hakim-hakim kita terutama yang junior berada di atas rata-rata ASEAN. Bahkan Ketua Mahkamah Agung telah melaporkan kepada saya bahwa penghasilan Ketua Mahkamah Agung Republik Indonesia sekarang lebih tinggi dari penghasilan Ketua Mahkamah Agung Singapura."
+  },
+  {
+   "t": 1689.0,
+   "d": 47.0,
+   "text": "[tepuk tangan] Beliau yang lapor kepada saya. Saudara-saudara sebangsa dan setanah air, kita harus memperkuat yudikatif kita. Kita harus memperkuat lembaga-lembaga yudikatif. Karena para hakim mahkamah mahkamah kita adalah benteng terakhir keadilan. Adalah benteng terakhir di mana rakyat menuntut, berharap bisa mendapat keadilan."
+  },
+  {
+   "t": 1736.0,
+   "d": 29.0,
+   "text": "bahwa supremasi hukum dan keadilan tidak hanya untuk orang yang kuat, tapi rakyat kita yang paling tidak berdaya harus bisa mendapat keadilan di mahkamah-mahkamah kita, di pengadilan-pengadilan kita. Saudara-saudara sekalian, kita mengetahui dunia sedang menghadapi konflik geopolitik, perang dagang, perang terbuka."
+  },
+  {
+   "t": 1765.0,
+   "d": 43.0,
+   "text": "di Eropa, di Timur Tengah, dan berbagai tempat lain di dunia. Seluruh dunia mengalami gangguan rantai pasok dan tekanan ekonomi. Dalam keadaan seperti ini, Indonesia harus semakin mampu berdiri di atas kaki kita sendiri. Kita harus bisa mandiri. Kita tidak boleh tergantung pasukan-pasukan dari luar. Karena kalau situasi tiba-tiba berubah ke arah yang lebih jelek, kita tetap harus survive."
+  },
+  {
+   "t": 1808.0,
+   "d": 52.0,
+   "text": "Alhamdulillah karena kerja keras kita, karena kepercayaan rakyat kepada pemerintah di tengah ketidakpastian global, investasi tetap tumbuh. Sepanjang 2025, realisasi investasi mencapai Rp931 triliun dan telah menciptakan lebih dari 2,7 juta lapangan kerja. Pada semester pertama 2026 ini saja realisasi investasi mencapai 1000 010 triliun dan telah menciptakan lebih dari R,4 juta lapangan kerja."
+  },
+  {
+   "t": 1860.0,
+   "d": 41.0,
+   "text": "Ekonomi kita pada kuartal pertama tahun 2026 tumbuh 5,61%. Dan pada semester pertama tahun 2026 tumbuh 5,45%. Ini adalah pertumbuhan kuartal pertama dan pertumbuhan semester pertama tertinggi dalam 13 tahun terakhir ini. [tepuk tangan] Dengan kebijakan-kebijakan yang tepat, yang rasional, yang menggunakan akal sehat."
+  },
+  {
+   "t": 1901.0,
+   "d": 43.0,
+   "text": "Saya yakin pertumbuhan ekonomi kita di akhir tahun ini bisa mencapai angka 6%. [tepuk tangan] Tetapi saya tegaskan di hadapan majelis ini, bagi saya pertumbuhan dan investasi bukan tujuan akhir. Tujuan kita adalah kesejahteraan rakyat kita. [tepuk tangan] Pertumbuhan tinggi tidak bisa dinikmati oleh rakyat kita."
+  },
+  {
+   "t": 1944.0,
+   "d": 35.0,
+   "text": "Kebanyakan tidak bermanfaat bagi kita. Setiap rupiah investasi harus menciptakan pekerjaan, harus menghasilkan perbaikan kualitas hidup rakyat kita, terutama rakyat kita yang paling bawah. Itulah orientasi pemerintah yang saya pimpin. Kita tidak boleh meninggalkan mereka yang tidak berdaya."
+  },
+  {
+   "t": 1979.0,
+   "d": 42.0,
+   "text": "Kita tidak boleh membiarkan kelaparan ada di bumi Indonesia. Republik Indonesia anggota G20. Tidak pantas masih ada rakyat kita yang lapar. Saudara-saudara sekalian, bangsa yang kuat adalah bangsa yang mampu memberi makan rakyatnya sendiri. Ketika kami menerima mandat, petani masih menghadapi pupuk yang sulit diperoleh, harga gabah yang jatuh setiap saat panen, aturan yang berbelit berbelit-belit."
+  },
+  {
+   "t": 2021.0,
+   "d": 53.0,
+   "text": "kita harus berani menghadapi kesulitan dan masalah ini. Dan dengan demikian, walaupun kita tidak menyalahkan siapapun, kita melangkah dengan mencari solusi. Birokrasi tidak boleh menghambat keputusan yang baik. Kita harus mengakui masalah bangsa kita adalah mangsa adalah antara lain masalah birokrasi yang berbelit-belit, birokrasi yang tidak bekerja dengan efisien, para birokrat yang sering menggunakan jabatan dan wewenangnya untuk memperkaya diri, memperkaya keluarganya, dan memperkaya kelompoknya."
+  },
+  {
+   "t": 2074.0,
+   "d": 44.0,
+   "text": "ini harus kita berantas, [tepuk tangan] bukan kita tutup-tutupi. Era sekarang era digital, era informasi tidak ada gunanya kita tutup-tutupi. Justru kita harus selesaikan masalah ini. Dan ini memerlukan persatuan di antara semua pemimpin dan kelompok politik. Karena birokrasi yang tidak efisien, birokrasi yang korup akan menghancurkan suatu bangsa."
+  },
+  {
+   "t": 2118.0,
+   "d": 25.5,
+   "text": "Negara harus memudahkan rakyat, bukan mempersulit. [tepuk tangan] Dan kalau saya bicara, saya tidak hanya bicara pemerintah pusat, justru saya bicara juga kepada pemerintah daerah, pemerintah provinsi dan pemerintah kabupaten. Tanya rakyat, dengarkan suara rakyat."
+  },
+  {
+   "t": 2143.0,
+   "d": 34.0,
+   "text": "Mereka yang pertama akan menyampaikan bahwa sering program-program tidak sampai ke rakyat. Saudara-saudara, hari ini hadir di tengah-tengah kita, kita mengundang Saudara Joko Purnomo. Bapak Joko ini ketua kelompok tani dari Desa Purwosari, Kabupaten Ngawi, Jawa Timur."
+  },
+  {
+   "t": 2177.0,
+   "d": 36.0,
+   "text": "Pak Joko telah 20 tahun bertani dengan air teknologi dan pupuk yang [tepuk tangan] telah disediakan oleh pemerintah. Ia sekarang mampu panen tiga kali setahun dengan produktivitas sampai 9 ton padi per hektar. Penurunan harga pupuk 20% ikut memangkas biaya produksinya."
+  },
+  {
+   "t": 2213.0,
+   "d": 33.0,
+   "text": "Mana Pak Joko? Kita tepuk tangan untuk Pak Joko [tepuk tangan] sebagai wakil dari para petani Indonesia, para pahlawan bangsa, produsen pangan bagi seluruh rakyat Indonesia. [tepuk tangan] Kita boleh punya tentara yang paling hebat, boleh punya pesawat terbang yang canggih kalau tidak ada makan."
+  },
+  {
+   "t": 2246.0,
+   "d": 56.0,
+   "text": "Saya kira bangsa ini berhenti saja sebagai bangsa. Kerja keras petani, penyuluh, pemerintah daerah saya katakan semua unsur TNI Polri. Terima kasih Koperasi BUMN Pangan. Terima kasih atas kerja sama dan gotongroyong saudara-saudara. Kita telah menghasilkan capaian yang besar dan kita kadang-kadang harus menyadari bahwa kita bangsa kita mampu mencapai hal-hal yang besar dan jangan kita selalu rendah diri, jangan selalu kita kalah sebelum bertarung."
+  },
+  {
+   "t": 2302.0,
+   "d": 56.0,
+   "text": "Saudara-saudara sekalian, dalam 1 tahun terakhir ini Indonesia mencapai swasembada del8an komunitas pangan. Dan dengan demikian kita menyadari bahwa capaian kita cukup membanggakan. Kita masih belum suas sembada bawang putih. Kita berjuang agar dalam 3 tahun kita bisa mencapai suasembada bawang putih. Yang saya sebut tadi daging masih belum, daging sapi yang belum, daging kerbo juga belum, tapi daging ayam sudah."
+  },
+  {
+   "t": 2358.0,
+   "d": 35.0,
+   "text": "Pada dasarnya sebetulnya untuk protein sebenarnya kita sudah sasembada [berdehem] yaitu protein dari ikan, protein dari telur, protein dari daging ayam. Saudara-saudara, di hari ini tadi sudah saya menyampaikan penghargaan khusus kepada mereka yang telah bekerja keras sehingga kita bisa mencapai swasembah pangan ini, Saudara-saudara."
+  },
+  {
+   "t": 2393.0,
+   "d": 57.0,
+   "text": "Selain itu, kita juga telah berhasil mencapai capaian-capaian yang berarti di sektor-sektor lain. Kita di bidang perikanan. Kita sedang membangun kampung nelayan merah putih yang yang akan dilengkapi pelabuhan dermaga, tempat pelelangan ikan, penyimpangan penyimpanan penyimpanan ee ruang dingin, bengkel, pengolahan hasil laut, perumahan dan fasilitas sosial."
+  },
+  {
+   "t": 2450.0,
+   "d": 31.0,
+   "text": "Hari ini 100 kampung nelayan telah kita bangun. Target kita 1386 kampung nelayan akan berdiri dan berfungsi pada akhir Desember 2026. Laut Indonesia harus menjadi sumber kemakmuran nelayan Indonesia. Nilai perikanan kita setiap tahun adalah sekitar 34 miliar dolar."
+  },
+  {
+   "t": 2481.0,
+   "d": 35.0,
+   "text": "Baru hanya mungkin 5% yang dapat kita nikmati. Sisanya diambil oleh kapal-kapal negara lain tanpa izin kita. Bayangkan berapa nilai yang kita hilang tiap hari, tiap malam. Kita juga harus membangun armada kapal ikan yang modern. Kita butuh belasan ribu kapal."
+  },
+  {
+   "t": 2516.0,
+   "d": 34.0,
+   "text": "Ini tantangan berat. Tapi kita harus mulai. Pada tahun 2027 akan datang, kita targetkan kita akan mulai membangun 1582 kapal ikan modern. Saudara-saudara sekalian, juga tadi kita sudah singgung dalam rangka memperkuat ekonomi rakyat dari bawah, kita juga membangun koperasi-koperasi Desa Merah Putih."
+  },
+  {
+   "t": 2550.0,
+   "d": 95.0,
+   "text": "Hari ini kita telah berhasil mendirikan dan mengoperasikan 10.000 R koperasi merah putih 3.300 di antaranya operasi secara optimal dan kita target kita akhir tahun 2026 harus 30.000 koperasi merah putih berdiri dan beroperasi dengan baik. Saudara-saudara sekalian, dengan koperasi merah putih ini untuk pertama kali dalam sejarah Republik Indonesia dari sejak kita menerima kedaulatan untuk pertama kali negara akan menguasai rantai pasok sendiri sehingga tidak Kisah kita dipermainkan oleh saudagar-saudagar yang hendak mempermainkan pasar. Kita tidak anti pasar. Tidak bisa kita anti pasar. Ekonomi adalah didasarkan atas bergeraknya pasar. Tapi pasar bisa dimanipulasi, pasar bisa dirusak, pasar bisa diatur oleh mereka yang menguasai modal besar."
+  },
+  {
+   "t": 2645.0,
+   "d": 46.0,
+   "text": "Dan karena itu rakyat kita harus kita bantu, kita harus organisir, kita harus berdayakan melalui koperasi. koperasi yang dibantu, koperasi yang diperkuat, koperasi yang diberdayakan. Saudara-saudara sekalian, semua barang-barang subsidi akan disalurkan melalui Koperasi Merah Putih sehingga barang-barang subsidi tidak boleh dan tidak bisa diperdagangkan."
+  },
+  {
+   "t": 2691.0,
+   "d": 43.0,
+   "text": "[tepuk tangan] Subsidi adalah uang rakyat. Barang yang disubsidi disubsidi oleh uang rakyat untuk rakyat dan bukan dagangan. Saudara-saudara, BUMN adalah milik seluruh rakyat Indonesia. BMN BUMN tidak boleh milik direksi, [bersorak] bukan milik komisaris, bukan pula sumber dana bagai penguasa."
+  },
+  {
+   "t": 2734.0,
+   "d": 48.0,
+   "text": "[tepuk tangan] [batuk] Maaf ee agak terlalu semangat ini. Ketika kita bentuk danantara ya itu adalah ee dana kedaulatan kita, Sovn Wthw. Kita menemukan bahwa ada 1074 BUMN dan BUMNBN itu ada yang punya anak perusahaan dan ada yang punya cucu perusahaan. Bahkan ada yang punya cicit perusahaan. Ini luar biasa."
+  },
+  {
+   "t": 2782.0,
+   "d": 62.5,
+   "text": "Saya mengira BUMN itu adalah 300 atau 400 1074 dan BUMN-BUMN ini kadang-kadang bekerja seenaknya, tidak bertanggung jawab kepada bangsa, kepada negara. pemerintah tidak dianggap. Saya tidak paham bagaimana bisa terjadi seperti ini. Mungkin harus kita bentuk suatu pengadilan adhok khusus untuk kita usut [bersorak] [tepuk tangan] untuk kisa kita usut pengurus-pengurus direksi. 30 tahun ke belakang mungkin."
+  },
+  {
+   "t": 2844.0,
+   "d": 27.0,
+   "text": "Tapi saya juga akan menghadapi majelis, saya akan menghadapi DPR. Saya akan minta kalau perlu kita memberi juga peluang semacam amnesti khusus untuk mereka yang tobat, mereka yang sadar, mereka yang mengakui. Nah, ini saya serahkan kepada wakil-wakil rakyat untuk memutuskan."
+  },
+  {
+   "t": 2871.0,
+   "d": 40.0,
+   "text": "[tepuk tangan] Kalau saya laporkan semuanya, saya takut rakyat kita marah semuanya, Saudara-saudara. Terlalu banyak BUMN yang tidak produktif. Rugi terus laporannya untung. Ngarang aja itu untungnya itu kita kena masalah karena banyak perusahaan-perusahaan asing kan juga kerja sama dengan Bwan kita."
+  },
+  {
+   "t": 2911.0,
+   "d": 43.0,
+   "text": "Jadi kita harus menghilangkan ini permainan-permainan ini. Tapi saya dengan bangga hari ini saya melaporkan kepada majelis yang terhormat. Hari ini kita telah menutup 290 BUMN pada Desember 3126 kita targetkan hanya akan memiliki paling banyak 300 BUMN. [tepuk tangan] 750 BUMN lebih akan kita tutup."
+  },
+  {
+   "t": 2954.0,
+   "d": 32.5,
+   "text": "Hanya yang produktif, hanya yang menciptakan nilai tambah untuk rakyat akan kita pertahankan. Ini mungkin adalah restrukturisasi korporasi terbesar di dunia. [tepuk tangan] Dengan perampingan jumlah BUMN. Hari ini saja kita telah menghemat biaya overhead sekitar Rp50 triliun."
+  },
+  {
+   "t": 2986.0,
+   "d": 39.0,
+   "text": "Hanya dari gaji direksi komisaris, sewa gedung, sewa mobil, perjalanan dinas bla bla bla bla. Kita sudah menghemat Rp50 triliun lebih. [tepuk tangan] Target kita Desember 31, target kita harus menghemat 70 triliun lebih, Saudara-saudara sekalian. Kita bisa bayangkan dengan 50 triliun berapa Puskesmas bisa kita perbaiki? Berapa sekolah bisa kita renovasi?"
+  },
+  {
+   "t": 3025.0,
+   "d": 55.0,
+   "text": "Berapa rumah untuk rakyat kita bisa kita berikan? Jadi, Saudara-saudara sekalian, untuk itu saya memberi penghargaan khusus kepada pimpinan dari Danantara ya dengan seluruh timnya, seluruh jaringannya. Silakan berdiri kita. Tepuk tangan. [tepuk tangan] juga tim pertanian, tim ekonomi. Saya minta berdiri semua. Saya minta majelis memberi penghargaan ke mereka. Tim ekonomi juga yang [tepuk tangan] menteri keuangan, menteri ekon."
+  },
+  {
+   "t": 3080.0,
+   "d": 46.0,
+   "text": "Kalau menteri keuangan senyum, saya merasa aman. Tapi kalau saya umumkan subsidi tambah mengkerut beliau. Saudara-saudara, akhir tahun lalu kita telah tutup 1000 tambang timah ilegal di Bangka Belitung. 1000 tambang ilegal. Saya telah minta Panglima TNI dan Kapolri untuk usut masa 1000 tambang pejabat TNI dan pejabat Polri enggak tahu."
+  },
+  {
+   "t": 3126.0,
+   "d": 35.0,
+   "text": "[bersorak] Kapolri dan Panglima TNI ya usut untuk apa negara kasih pangkat, kasih jabatan mereka kalau enggak bisa tertibkan ini. Saya bicara atas nama rakyat Indonesia ini wakil-wakil rakyat semua di sini. [bersorak] [tepuk tangan] Pemimpin yang baik, komandan yang baik."
+  },
+  {
+   "t": 3161.0,
+   "d": 25.0,
+   "text": "adalah yang berani menertibkan anak buahnya sendiri. [bersorak] [tepuk tangan] Kadang-kadang kita sedih, anak buah yang kita sayang, yang baru saja kita beri bintang, naikin pangkat, harus kita tindak. Tapi demi rakyat, demi negara, demi bangsa harus kita lakukan."
+  },
+  {
+   "t": 3186.0,
+   "d": 32.0,
+   "text": "[bersorak] [tepuk tangan] Saya sadar saya disumpah di sini. Saya tidak bisa mengizinkan perasaan saya menentukan kebijakan saya. Saya harus menentukan kebijakan saya atas dasar kepentingan rakyat Indonesia. [tepuk tangan] Karena itu saya minta benar-benar Panglima TNI dan Kapolri usut."
+  },
+  {
+   "t": 3218.0,
+   "d": 44.0,
+   "text": "Tidak mungkin 1000 tambang berjalan ilegal tanpa pejabat kepolisian dan pejabat polisi. [tepuk tangan][bersorak] Tapi Menteri Keuangan usut bea cukai juga. [bersorak] Iya kan? [tepuk tangan][bersorak] Bakamlah tugasmu jaga itu penyeludupan. Kenapa masih banyak penyeludupan di situ, [bersorak] Saudara-saudara? Ya, enggak ada masalah."
+  },
+  {
+   "t": 3262.0,
+   "d": 29.0,
+   "text": "kita bukan, kita justru menantang mereka berbuat yang terbaik. Ya, mereka itu anak-anak kita. Tapi harus kita berani tegakkan kebenaran. Rakyat kita sekarang tidak mau terima ketidakadilan, tidak mau melihat lagi penyelewengan. Mereka bukan bodoh, mereka pintar. Mereka orang yang paling rendah, paling tidak berdaya sudah punya gadget-gajet semua."
+  },
+  {
+   "t": 3291.0,
+   "d": 55.0,
+   "text": "Saudara-saudara bayangkan dalam 6 bulan tahun 2026 ini PT Timah telah mencapai keuntungan Rp2,7 triliun, 9 kali lebih tinggi dibandingkan periode yang sama tahun lalu, Saudara-saudara sekalian. Artinya naik 900%. Dalam 6 bulan naik keuntungan 900%. Karena PT Timah adalah Tbk, PT Timah valuasinya sekarang naik 280% di bulan Agustus 2026 dibanding Agustus 2025 yang lalu."
+  },
+  {
+   "t": 3346.0,
+   "d": 29.0,
+   "text": "Saudara-saudara, mungkin yang punya saham di PT Timah berarti kekayaannya naik 300%. sayang ee Kepala BP apa Danantara tidak memberi projeksi kepada kita kalau enggak kita borongborong itu saham PTIMA pembenahan BUMN kita lakukan secara besar-besaran di 6 bulan pertama tahun 2026 ini."
+  },
+  {
+   "t": 3375.0,
+   "d": 63.0,
+   "text": "Untung bersih PT Semen Indonesia naik 408,9%. 400%. Untung bersih PT Pupuk Indonesia naik 252,8%. Untung bersih PT Pertamina naik 86%. Untung bersih pegadaian naik 84,4%. Saudara-saudara, untung bersih pelindo naik 60,4% dan untung bersih PTPN naik 54,4%. Garuda Indonesia yang hampir dipilotkan yang pesawatnya adalah puluhan pesawat di grounded tidak bisa mereka perbaiki."
+  },
+  {
+   "t": 3438.0,
+   "d": 37.0,
+   "text": "Kini kita berhasil reaktivasi pesawat-pesawat yang grounded. Per bulan Juni 2026. Total pesawat yang berhasil kita reaktivasi bertambah 20 pesawat sehingga menjadi 140 pesawat. Garuda Indonesia yang sudah sekian tahun rugi, sekarang sudah ada harapan untuk kembali untung. Kalau kemarin tidak terjadi perang di Timur Tengah, sesungguhnya bulan Juli ini Indonesia sudah untung."
+  },
+  {
+   "t": 3475.0,
+   "d": 29.0,
+   "text": "Kita sekarang berharap di awal tahun 2027 mereka sudah mulai untung. Saudara-saudara, saya juga ingatkan di sini bahwa kita tidak mau toleransi dengan permainan angka, dengan laporan palsu. Kita harus dapat angka-angka yang benar, angka yang tepat walaupun kadang-kadang pahit."
+  },
+  {
+   "t": 3504.0,
+   "d": 43.0,
+   "text": "Kita telah mengoreksi laporan keuntungan dari banyak BUMN. Setelah kita koreksi hasil BUMN tahun 2024 menjadi Rp16 triliun. Dividen BUMN di tahun 2024 adalah Rp85,5 triliun. Karena perbaikan-perbaikan yang kita kerjakan pada tahun 2025 keuntungan BUMN mencapai Rp326 triliun naik Rp75,3% dari 2024."
+  },
+  {
+   "t": 3547.0,
+   "d": 34.0,
+   "text": "Rp326 triliun ini adalah keuntungan tanpa permainan angka. Dividen BMN yang disetor tahun 2025 mencapai 142,3 triliun, naik 67% dari tahun 2024. Namun tentu lebih tepat angka dividen BUMN dilihat secara net dengan penanaman modal negara atau PMN yang diberikan dari APBN ke BUMN pada tahun yang sama."
+  },
+  {
+   "t": 3581.0,
+   "d": 62.0,
+   "text": "Pada tahun 2024, dividen BUMN dikurangi PMN adalah Rp53 triliun. Tahun 2025 dividen BUMN dikurangi PMN adalah Rp138 triliun naik 160%. Dividen BUMN di tahun 2026 ini diproyeksikan kembali naik sampai dengan 200 triliun tanpa ada PMN. Artinya dari 2024 ke 2026 naik dari R3 triliun ke Rp200 triliun atau bisa dikatakan 4 kali lebih besar 400% meningkatnya tanpa PMN."
+  },
+  {
+   "t": 3643.0,
+   "d": 41.0,
+   "text": "Saudara-saudara, ini membuktikan dengan manajemen yang akal sehat dengan niat tidak menipu, keberhasilan kita bisa datang dengan sangat cepat. [tepuk tangan] Sekali lagi saya apresiasi manajemen dan pimpinan dan antara. Saya kira pantas ini pimpinan dan antara nanti mendapat bintang kehormatan yang pantas di suasana hari kemerdekaan ini."
+  },
+  {
+   "t": 3684.0,
+   "d": 37.0,
+   "text": "Apakah majelis menyetujui setuju? Pantas tidak mereka menerima tanda kehormatan? Pantas tidak? Keuntungan BUMN sekarang digunakan untuk mempercepat upaya hilirisasi kita. Dengan danantara kita sudah ground breaking 13 proyek hilirisasi pada tanggal 6 Februari 2026 dan 13 lagi proyek hilisasi pada tahun pada tanggal 29 April."
+  },
+  {
+   "t": 3721.0,
+   "d": 30.0,
+   "text": "2026 proyek-proyek seperti pengolahan batubara menjadi DME, menggantikan LPG, hilirisasi tembaga dan emas, pengolahan garam industri, smelter alumina menjadi aluminium menghasilkan puluhan ribu lapangan kerja. Belum lagi proyek-proyek waste to energy yang telah juga kita mulai."
+  },
+  {
+   "t": 3751.0,
+   "d": 33.0,
+   "text": "Keuntungan BUMN juga sekarang kita gunakan untuk mempercepat upaya downstreaming kita dengan juga upstreaming. Kita juga akan membeli perusahaan-perusahaan terbaik di dunia untuk kita bisa dapat teknologinya, kita bisa dapat IP-IP-nya, kita bisa dapat manajemen yang terbaik, kita bisa dapat pasarnya, kita bisa dapat pengalaman mereka sehingga nanti ekonomi kita akan kuat."
+  },
+  {
+   "t": 3784.0,
+   "d": 33.0,
+   "text": "Saudara-saudara, sebagai contoh untuk meningkatkan hasil daging kita, kita perlu sapi yang banyak. Ya, dengan itu kita bisa mendapatkan teknologi cloning. Dengan cloning, kita bisa memperbanyak kita punya ternak. Kita juga telah membangun bank emas Indonesia."
+  },
+  {
+   "t": 3817.0,
+   "d": 29.0,
+   "text": "Kita ingin emas Indonesia tidak hanya ditambang di negeri ini, tapi disimpan, diperdagangkan, dan diberi nilai tambah di negeri orang lain. Hari ini dengan adanya bank emas yang baru beroperasi 1 tahun, bank emas kita di Pegadaian dan di Bank Syariah Indonesia sudah mengelola 153 ton emas."
+  },
+  {
+   "t": 3846.0,
+   "d": 47.0,
+   "text": "dengan nilai sekitar Rp360 triliun atau sekitar 20 miliar dolar Amerika Serikat. Kekayaan Indonesia harus memperkuat tabungan pembiayaan dan perekonomian Indonesia. Maaf, saya mohon izin. Memang kopi Indonesia yang terbaik. [tepuk tangan] Daerah-daerah penghasil kopi pastinya mendukung saya."
+  },
+  {
+   "t": 3893.0,
+   "d": 44.0,
+   "text": "Tenang aja, pemilu masih lama ini. Ini banyak yang calon-calon. Kita juga membenahi ekspor komoditas strategis. Sebelumnya minyak mentah sawit Indonesia dijual di Pelabuhan Indonesia ya. dijual sekitar Rp15.000 per kg. Sementara harga di Bursa Rotterdam, Belanda harganya Rp27.000 per kg."
+  },
+  {
+   "t": 3937.0,
+   "d": 45.0,
+   "text": "Padahal di Belanda 1 hektar pun enggak ada kebun kelapa sawit. Artinya sesungguhnya kita telah hilang 50% nilai komoditas kita. Karena itu pada tanggal 20 Mei 2026, hari kebangkitan nasional kita di aula terhormat ini, di hadapan majelis terhormat ini, saya telah mengumumkan pembentukan PT dan antara Sumber Daya Indonesia atau PT DSI sebagai pintu tunggal."
+  },
+  {
+   "t": 3982.0,
+   "d": 37.0,
+   "text": "processing export komoditas milik Indonesia. Ya, saya ulangi processing-nya bukan bahwa satu PT yang akan menguasai komunitas dan mengekspor, tidak. Tapi sekarang kita bisa monitor berapa yang muat di atas kapal, berapa ton. Berapa yang dilaporkan di atas kertas, berapa yang sampai ke tujuan ekspor."
+  },
+  {
+   "t": 4019.0,
+   "d": 46.0,
+   "text": "Kita tidak ingin laporan yang satu berbeda dengan laporan di negara tujuan. Sejak mulai beroperasi pada tanggal 1 Juni 2026 hanya dengan tiga komoditas ya, batubara, kelapa sawit dan besi baja. Ya, fero itu ya. Veru dalam waktu 2 bulan 13 hari DSI sekarang telah mengelola devisa ekspor senilai 14 miliar dolar dari hanya tiga komoditas strategis."
+  },
+  {
+   "t": 4065.0,
+   "d": 37.0,
+   "text": "Lebih dari 6.000 transaksi ekspor tiga komunitas tersebut telah dimonitor oleh DSI. DSI telah menemukan potensi tambahan 5 miliar dolar hanya dari perbedaan dan penyesuaian harga, Saudara-saudara sekalian, dari pembayaran devisa hasil ekspor. Bayangkan kalau dalam waktu yang akan datang semua komoditas ekspor kita akan dimonitor dan dikelola oleh DSI."
+  },
+  {
+   "t": 4102.0,
+   "d": 28.0,
+   "text": "Berapa peningkatan hasil yang akan masuk negara? Saudara sekalian, DSI akan meningkatkan pengawasan meliputi 50 pelabuhan di 25 provinsi. Dan sebagaimana saya katakan, DSI akan mengelola semua komunitas ekspor strategis kita. Tidak hanya tiga. Kita tidak ingin lagi bangsa Indonesia dicurangi."
+  },
+  {
+   "t": 4130.0,
+   "d": 69.0,
+   "text": "Kekayaan Indonesia tidak boleh memperkaya segelintir orang dan meninggalkan rakyat kita hidup susah. Ini bukan saja tidak adil, ini bukan sikap negara yang pandai, Saudara-saudara. Barang kita milik kita, orang lain yang ditentukan harganya. Saudara-saudara, [tertawa] ini melanggar prinsip-prinsip ekonomi, melanggar prinsip pasar dan pihak-pihak rating agencies, bahkan banyak lembaga-lembaga keuangan menilai bahwa DSI adalah langkah positif bagi rakyat Indonesia. Mereka yang mengatakan, bukan kita. [tepuk tangan] Mereka yang mengatakan kita menghargai semua masukan, tapi kalau kita yakin kita berada di jalan yang benar, kita terus akan kerja. Kita tidak mau dibuat raport oleh bangsa lain, tapi kita terbuka untuk masukan."
+  },
+  {
+   "t": 4199.0,
+   "d": 25.0,
+   "text": "Sidang majelis yang saya hormati, Saudara-saudara sekalian, kekuatan ekonomi Indonesia berada di desa pada petani kita. pelayan kita, pedagang kita, pengrajin kita, perempuan kita, kepala keluarga kita, dan anak-anak muda kita yang membangun usaha di kampung-kampung mereka sendiri."
+  },
+  {
+   "t": 4224.0,
+   "d": 34.0,
+   "text": "Kita ingat waktu krisis 98, krisis moneter, bank-bank besar tutup, perusahaan-perusahaan besar bangkrut, banyak yang jual. Tapi ekonomi desa, ekonomi kerakyatan justru tetap kuat. Kokoh yang menyelamat kita justru adalah UMKM dan ekonomi kerakyatan. Karena itu konektivitas antara desa harus baik."
+  },
+  {
+   "t": 4258.0,
+   "d": 39.0,
+   "text": "Tahun ini kita telah menyelesaikan 2.500 jembatan desa yang dibangun oleh TNI. dan 874 jembatan desa yang dibangun oleh kepolusian rakyat ee Republik Indonesia. Target kita pada akhir tahun ini selesai 5.000 lebih jembatan desa. Tidak boleh lagi ada anak-anak kita yang harus bertarung nyawa hanya untuk menyeberang sungai untuk ke sekolah karena tidak ada jambatan."
+  },
+  {
+   "t": 4297.0,
+   "d": 34.0,
+   "text": "Berangkat ke sekolah harus berjalan berjam-jam. Berangkat basah di kelas basah. Pulang basah. Saudara-saudara sekalian tidak boleh terjadi. Kita berharap para gubernur, para bupati, para camat, para kepala desa semuanya mengecek [berdehem] desa-desanya. Di mana lagi dibutuhkan jembatan desa?"
+  },
+  {
+   "t": 4331.0,
+   "d": 36.0,
+   "text": "Laporkan. Kalau gubernur, bupati, kepala desa tidak bisa mengatasi, pemerintah pusat akan turun dan mengatasi. Kita tidak akan membiarkan rakyat kita terlantar. juga ibu-ibu kita, petani-petani kita tidak boleh berjam-jam menuju pasar mereka. Kita mencari dan membangun juga titik-titik air bersih untuk desa-desa kita."
+  },
+  {
+   "t": 4367.0,
+   "d": 36.0,
+   "text": "Banyak rakyat kita yang tidak punya akses kepada air bersih. Mereka harus berjalan dengan susah payah berkilo-kilo hanya untuk mengambil satu atau dua jerik air bersih untuk minum, untuk mandi, untuk wudu, belum lagi air untuk ternak mereka, air untuk tanaman mereka."
+  },
+  {
+   "t": 4403.0,
+   "d": 28.0,
+   "text": "Tahun ini di 8 bulan pertama tahun 2026 kita sudah membangun 3.000 titik air desa yang dibangun oleh TNI. Terima kasih TNI. [tepuk tangan] Tadi saya sudah singgung kita membangun koperasi desa dan kelurahan Merah Putih sebagai pusat ekonomi rakyat. Tadi saya singgung per hari ini sudah 10.000 koperasi telah beroperasi."
+  },
+  {
+   "t": 4431.0,
+   "d": 29.0,
+   "text": "Dari 10.000 3.300 koperasi telah beroperasi secara optimal. Sisanya masih menghadapi masa penyesuaian operasional optimal. Artinya semua sarana sudah ada, listrik, air, dan semua berjalan. Stok bisa dimonitor oleh sistem digital terpusat. Koperasi sudah bisa menjadi offteraker."
+  },
+  {
+   "t": 4460.0,
+   "d": 40.0,
+   "text": "Koperasi jadi pembeli hasil pertanian dan perikanan setempat. Koperasi sudah punya angkutannya sendiri. Ini juga saya kira pertama kali dalam sejarah Republik Indonesia bahwa koperasi diorganisir, dibantu, dan dilengkapi dengan angkutannya sendiri. Tidak ada lagi nanti panen yang rusak karena tidak ada yang mau beli, karena tidak ada truk yang bisa mengambil panen tersebut. Mangga yang rusak, rambutan yang rusak, tomat yang rusak, walter yang rusak."
+  },
+  {
+   "t": 4500.0,
+   "d": 42.0,
+   "text": "Insyaallah ini bisa kita bantu rakyat kita secara optimal. Target kita 30.000 koperasi beroperasi secara optimal pada akhir 2026. Ini target kita cantumkan target kita tinggi. Kita ingat kata-kata Bung Karno. Gantungkan cita-citamu setinggi langit. Kalau kau tidak berhasil, minimal kau jatuh di antara bintang-bintang, Saudara-saudara. [tepuk tangan] Target harus tinggi."
+  },
+  {
+   "t": 4542.0,
+   "d": 36.0,
+   "text": "Bekerja keras insyaallah sampai. Kalau saya taruh target 12.000 nanti sampainya 11.000. Kalau nanti 30.000 sampainya 29.000. Ini prestasi, Saudara-saudara. Kekuatan ekonomi saya sebut ada di UMKM. Kita juga telah mengatur pembagian hasil yang lebih adil bagi pengemudi-pengebudi ojek online dan aplikator."
+  },
+  {
+   "t": 4578.0,
+   "d": 39.0,
+   "text": "Tadinya pengemudi ojol hanya dapat 80% dari upaya kerja mereka. Karena aplikator minta 20% tapi dengan rekomendasi pemerintah. Saya enggak mau sebut intervensi, saya pakai istilah rekomendasi. Tapi sebetulnya ya agak agak intervensi juga itu. Para pengemudi sekarang mendapatkan 92% dari jerih payah mereka."
+  },
+  {
+   "t": 4617.0,
+   "d": 30.0,
+   "text": "Dan banyak pengemudi melaporkan penghasilan mereka naik signifikan. Ada yang naik dua kali, bahkan ada yang mengatakan dia naik tiga kali. Saudara-saudara, Saudara-saudara sekalian, kita juga menggerakkan ekonomi hijau, sistem registrasi unit karbon untuk pertama kali kita berlakukan di Indonesia."
+  },
+  {
+   "t": 4647.0,
+   "d": 46.0,
+   "text": "Dan bursa nilai ekonomi karbon telah kita dirikan dan telah berjalan dengan mengadopsi standar karbon dunia. Hutan yang kita jaga, hutan lindung. semua hutan artinya emisi karbon kita kurangi. Dan untuk itu [berdehem] bangsa-bangsa yang keluarkan emisi yang besar dia bersedia bayar kita. Inilah saudara-saudara ekonomi hijau harus memberi manfaat kepada rakyat kita."
+  },
+  {
+   "t": 4693.0,
+   "d": 25.0,
+   "text": "Kita bangun tapi harus menciptakan nilai tambah bagi rakyat kita. Saudara-saudara sekalian, pembangunan yang paling menentukan masa depan adalah pembangunan manusia. Kita memulai dari hal yang paling dasar, yaitu gizi. Tidak boleh ada anak-anak kita belajar dalam keadaan lapar."
+  },
+  {
+   "t": 4718.0,
+   "d": 52.0,
+   "text": "Tidak ada anak yang dapat belajar dengan baik apabila ia lapar. Mungkin sebagian di antara kita tidak akan pernah melihat [mendengus] atau merasakan anak-anak yang tidak makan pada pagi hari ini. Tapi itulah kenyataan yang kita hadapi dan kita laksanakan program MBG ini untuk mengatasi itu, untuk mengatasi stunting yang masih dialami oleh anak-anak kita di beberapa tempat setinggi 25% anak-anak kita. Satu dari empat anak Indonesia ada yang mengalami stunting. Sel otak tidak berkembang dengan baik."
+  },
+  {
+   "t": 4770.0,
+   "d": 26.0,
+   "text": "Sel otot tidak berkembang dengan baik. Sel tulang tidak berkembang dengan baik. Saudara-saudara sekalian, untuk jadi buruh pelabuhan saja ia mungkin tidak akan sanggup. Untuk jadi petani, buruh tani saja mungkin dia juga tidak akan sanggup. Kita tidak boleh menerima satu dari empat anak Indonesia mengalami stunting."
+  },
+  {
+   "t": 4796.0,
+   "d": 46.0,
+   "text": "Kita tidak boleh menerima itu. Dan karena itu saya bertekad teruskan program MBG tapi dengan perbaikan, dengan efisiensi. [tepuk tangan] Saya menilai mereka yang mau korupsi dari makan untuk anak-anak ini, ini adalah orang-orang biadab. Ini adalah orang-orang yang tidak pantas kita hormati. [tepuk tangan] Menurut saya ini sudah sama sekali tidak ada nilai kemanusiaan."
+  },
+  {
+   "t": 4842.0,
+   "d": 39.5,
+   "text": "Hari ini hadir bersama kita Beno, siswi kelas 6 Sekolah Dasar dari Merauke, Papua Selatan, Kristina, [tepuk tangan] terima kasih. pertama kali kamu hadir di MPR ini. Suatu saat mungkin kamu duduk di atas ini. [tepuk tangan] Sekarang sudah ada Menteri ISDM dari Papua."
+  },
+  {
+   "t": 4881.0,
+   "d": 33.0,
+   "text": "Kita tidak tahu suatu saat anak Papua akan memimpin negeri ini. Kita tidak tahu. [tepuk tangan] MBG telah membantu Kristina menjadi lebih buger, lebih fokus, dan lebih rajin hadir di sekolah. Bagi sebagian orang, satu piring makanan terlihat biasa atau sederhana."
+  },
+  {
+   "t": 4914.0,
+   "d": 41.0,
+   "text": "Bagi Kristina dan sekarang sudah puluhan juta penerima MBG. Setiap hari sekolah satu piring makanan adalah tenaga untuk belajar, protein untuk tumbuh badan yang sehat, sel otak yang sehat. sel tulang yang sehat, sel otot yang sehat, mereka dapat belajar dan mereka dapat berkembang sebagai anak Indonesia yang sehat dan cerdas. Mereka kini punya masa depan yang lebih baik."
+  },
+  {
+   "t": 4955.0,
+   "d": 28.0,
+   "text": "Mari kita tepuk tangan untuk Kristina dan semua anak Indonesia. [tepuk tangan] Semua ibu-ibu yang sedang hamil dan semua orang tua lanjut usia. Negara tidak akan tinggalkan kalian semua. negara bersamamu. Negara akan hadir bersamamu. Itu janji kita semua di majelis ini."
+  },
+  {
+   "t": 4983.0,
+   "d": 38.0,
+   "text": "Memberi makan bergizi saja kita sadar tidak cukup. Anak-anak kita harus memperoleh pendidikan yang baik. Karena itu kita jalankan program perbaikan sekolah terbesar dalam sejarah kita. Sampai tahun ini kita telah perbaiki lebih dari 71.744 sekolah. Tahun lalu 17.000, tahun ini 71.000 lebih."
+  },
+  {
+   "t": 5021.0,
+   "d": 30.0,
+   "text": "Tahun depan target kita Rp100.000 tahun 2008 Rp100.000 tahun 2029 semua sekolah di Indonesia SD, SMP, SMA, SMK termasuk di pesantren-pesantren harus kita selesai renovasi. [tepuk tangan] Bahkan di pulau yang paling terluar, yang paling terpencil, Pulau Mianggas."
+  },
+  {
+   "t": 5051.0,
+   "d": 42.0,
+   "text": "Kita sudah perbaiki sekolah di Mianggas dan kita akan perbaiki Puskasmas di situ. Dan sekarang sudah ada satgas khusus untuk pulau-pulau terluar dan terpencil. di Sabang, di pulau paling barat Indonesia, di Merauke, dan di seluruh Indonesia. Kita juga telah membagikan layar pintar interaktif ya, interaktif flat panel untuk semua sekolah di Indonesia. Tahun lalu kita berhasil membagikan satu layar setiap sekolah."
+  },
+  {
+   "t": 5093.0,
+   "d": 42.0,
+   "text": "Desember 31 kita akan membagikan tambahan tiga layar setiap sekolah. Artinya setiap sekolah di Indonesia akan memiliki empat ruang kelas yang dilengkapi dengan layar pintar interaktif. Artinya guru-guru kita di mana punya akses kepada kurikulum, akses kepada konten di hampir semua bidang yang ada di kurikulum pendidikan sekolah di Indonesia dan di luar Indonesia. Mereka bisa mengulang-ulangi pelajaran."
+  },
+  {
+   "t": 5135.0,
+   "d": 39.0,
+   "text": "Kalau mereka tidak kuasai bisa dua kali, tiga kali. Mereka juga bisa dari rumah mengakses program ini. Dan kita akan membuat studio-studio terpusat dengan guru-guru terbaik yang akan mengadakan siaran jarak jauh. yang ribuan sekolah bisa akses. Pelajaran apapun kita akan kumpulkan guru-guru terbaik. Termasuk bahasa asing."
+  },
+  {
+   "t": 5174.0,
+   "d": 38.0,
+   "text": "Bahasa asing mutlak harus kita kuasai. Kita akan mulai bahasa asing untuk anak-anak kita mulai dari SD, Saudara-saudara sekalian. SD kelas 1 mereka harus mulai bahasa asing. Bahasa-bahasa yang paling penting bahasa Inggris, bahasa Mandarin, ya bahasa Arab, bahasa-bahasa juga Jepang, Korea, bahasa Spanyol, bahasa Perancis."
+  },
+  {
+   "t": 5212.0,
+   "d": 53.0,
+   "text": "Dari kecil di bawah 11 tahun, 12 tahun mereka lebih cepat belajar. Anak-anak kita harus punya akses kepada pendidikan terbaik agar mereka nanti kalau masuk ke kalau sudah mencari lapangan kerja mereka punya kemampuan lebih. Mereka bisa diterima di mana-mana. Mereka bisa kerja dengan pihak manaun. Dan kita mengerti sekarang Tiongkok ekonomi yang paling dinamis. Tapi Jepang juga maju, Korea juga maju, Perancis juga maju, Spanyol banyak negara bicara Spanyol, banyak negara bicara Prancis, banyak negara bicara bahasa Arab. Kita juga harus belajar bahasa Rusia."
+  },
+  {
+   "t": 5265.0,
+   "d": 50.0,
+   "text": "Mereka kuat di bidang sains dan teknologi, Saudara-saudara. Sekarang banyak negara di mancanegara kekurangan tenaga kerja. Setiap pemimpin saya ketemu bertanya, \"Bisa enggak tenaga kerja dari Indonesia?\" Mereka perlu untuk kerja di bidang pariwisata. pariwisata ya harus bisa belajar bahasa ya. Mereka butuh di rumah sakit mereka, mereka butuh perawat, mereka butuh caregiver, harus bisa bahasa dan orang Indonesia dikenal ramah, ulet, dan sopan."
+  },
+  {
+   "t": 5315.0,
+   "d": 30.0,
+   "text": "Karena itu tenaga kerja kita diharapkan nanti bisa menjadi kompetitif di dunia memperkuat ekonomi Indonesia. Saudara-saudara sekalian, kita juga membangun sekolah rakyat, sekolah berasrama bagi anak-anak dari keluarga yang paling tidak berdaya dengan ruang kelas, tempat tinggal, makanan bergizi, komputer, guru, dan lingkungan yang aman."
+  },
+  {
+   "t": 5345.0,
+   "d": 33.0,
+   "text": "Strateginya adalah kita harus memutuskan lingkaran kemiskinan. Kalau orang tua mereka menghadapi nasib yang kurang baik, mengalami kondisi keterpurukan, kondisi kemiskinan, anak-anak mereka tidak boleh terus miskin. Sesuai pasal 34 Undang-Undang Dasar Negara kita. Negara harus intervensi."
+  },
+  {
+   "t": 5378.0,
+   "d": 50.0,
+   "text": "Hari ini 93 skor rakyat permanen sudah kita buka. Nantinya ee ee sekolah rakyat rintisan sudah 182 dan nantinya ee semua kabupaten akan punya satu sekolah rakyat. Salah satu siswanya adalah Muhammad Rizki Pratama usia 12 tahun. Rizki. [tepuk tangan] Rizki pernah mengayuh sepeda puluhan kilometer sambil membawa sekitar 30 kg ikan untuk dijual."
+  },
+  {
+   "t": 5428.0,
+   "d": 49.0,
+   "text": "Bayangkan rezeki berdiri lagi. Rezeki berdiri lagi. Nah, bayangkan badan seperti ini naik sepeda tiga membawa 30 kilo ikan. Luar biasa kau Rizki. Kau anak yang baik. [tepuk tangan] Ia sempat putus sekolah dan waktu masuk sekolah rakyat, ia belum lancar membaca dan belum bisa menghitung dengan baik."
+  },
+  {
+   "t": 5477.0,
+   "d": 29.0,
+   "text": "Hari ini Rizki kembali ke sekolah. Ia mendapatkan kembali haknya untuk belajar dan menata cita-cita. Tidak ada investasi yang lebih berharga daripada mengembalikan masa depan seorang anak. Saudara-saudara sekalian, saya yakin Rizki kau akan menjadi pribadi yang kuat."
+  },
+  {
+   "t": 5506.0,
+   "d": 36.0,
+   "text": "Hadir pula Citra Nur Ramadani dari Kabupaten Pangka Jene dari [tepuk tangan] Provinsi Sulawesi Selatan. Ketika kelas 4 Sekolah dasar, Citra hampir putus sekolah karena harus membantu ibunya berjualan kacang. Ayahnya telah wafat dan ibunya penyandang disuabilitas."
+  },
+  {
+   "t": 5542.0,
+   "d": 53.0,
+   "text": "Sekolah rakyat memberi citra kesempatan untuk belajar tanpa meninggalkan keluarganya menghadapi perjuangan sendiri. Citra pun kemarin berhasil menjadi juara karate tingkat kabupaten. [tepuk tangan] Citra umurmu berapa? Citra 10 tahun. Iya. Ya, nanti 10 tahun lagilah kau boleh pacaran."
+  },
+  {
+   "t": 5595.0,
+   "d": 52.0,
+   "text": "Citra kau boleh pacaran setelah sabuk hitam karatemu ya. Jadi enggak ada yang berani nanti main-main sama kau. Kemarin saya juga mendapat kabar tujuh siswa sekolah rakyat di Makassar berhasil menang Olimpiade Nasional Indonesia ke-15 [tepuk tangan] di bidang. matematika, biologi, bahasa Indonesia, sejarah dan sosiologi."
+  },
+  {
+   "t": 5647.0,
+   "d": 35.0,
+   "text": "Juga ada Ismi Ulfaidah dari Sekolah Rakyat Poliwari Mandar, Sulawesi Barat yang berhasil terpilih menjadi Paski Braka Nasional. [tepuk tangan] Capaian ini membuktikan bahwa pelajar dari keluarga yang paling tidak berdaya, paling tidak mampu jika diberi kesempatan, diberi fasilitas, diberi bimbingan bisa mencapai prestasi yang tertinggi."
+  },
+  {
+   "t": 5682.0,
+   "d": 48.0,
+   "text": "[tepuk tangan] Rizki Citra dan seluruh siswa-siswi rakyat sekolah rakyat di mana pun kalian berada. Kami di sini untuk kamu semua. [tepuk tangan] Kami semua di sini untuk memastikan bahwa kamu punya masa depan, kamu punya kesempatan yang baik. Tidak ada anak Indonesia pun yang akan kita tinggalkan, Saudara-saudara sekalian, mari kita beri tepuk tangan kepada anak-anak, siswa-siswi sekolah rakyat."
+  },
+  {
+   "t": 5730.0,
+   "d": 42.0,
+   "text": "[tepuk tangan] Saudara-saudara sekalian, adil itu tidak berarti negara beri semua orang perlakuan yang sama. Adil adalah ketika negara beri dukungan yang sesuai dengan kebutuhan. Karena itu bagi anak-anak kita yang memiliki bakat dan kecerdasan istimewa, kita juga telah selesaikan pembangunan empat SMA unggul, yaitu SMA Garuda di Belitang Belitung Timur, Konawe Selatan, Bulungan, dan Timur Tengah. dan sudah ada lebih dari 20 SMA unggul Garuda transformasi."
+  },
+  {
+   "t": 5772.0,
+   "d": 38.0,
+   "text": "Jadi sekolah yang sudah ada mereka daftar ikut dalam kurikulum SMA unggul Garuda. Apa yang membedakan? Karena SMA ini menggunakan kurikulum internasional IB yang sesuai dengan standar tertinggi sama dengan sekolah-sekolah terbaik di dunia dan kita siapkan mereka untuk masuk ke universitas-universitas yang terbaik di dunia."
+  },
+  {
+   "t": 5810.0,
+   "d": 70.0,
+   "text": "Saudara-saudara, Sekolah Unggul Garuda Transformasi tadi saya salah bukan 20, sudah menjak 42 sekolah di 15 provinsi. Terdiri dari 12 sekolah tahun 2025 dan 30 sekolah tambahan pada tahun 2026. Kita juga sekarang melalui Kementerian Pertahanan telah memiliki lima SMA Taruna Nusantara yang baru di Cimahi, Malang, Pagar Alam, IKN, dan Minahasa yang sudah beroperasi, yang sudah menjalankan ee tahun sekolah tentunya yang pertama di Magelang Ya, Kepolisian RI dan LPK TB juga telah selesai membangun satu kampus SMA Taruna Bayangkara."
+  },
+  {
+   "t": 5880.0,
+   "d": 36.0,
+   "text": "TNI dan Polri berkompetisi dalam kebaikan. Itu yang kita inginkan. Kompetisi baik dalam kebaikan. Kalau saya puji TNI, Kapolri, Kapolri agak resah. Saya puji Kapolri, TNI agar resah. Ini yang kita kehendaki. Kompetisi yang baik. Jadi mereka bersaing dalam kebaikan untuk mencapai prestasi yang lebih baik lagi."
+  },
+  {
+   "t": 5916.0,
+   "d": 25.0,
+   "text": "Saudara-saudara sekalian, dengan kurikulum internasional yang kita jalankan, jumlah siswa S1 yang kita kirimkan ke kampus-kampus terbaik dunia dengan beasiswa Garuda sudah mencapai 416 mahasiswa di tahun 2025, 515 di tahun 2026. Di dalam negeri kita terus tingkatkan kualitas kampus-kampus kita."
+  },
+  {
+   "t": 5941.0,
+   "d": 36.0,
+   "text": "Tahun ini tujuh perguruan tinggi negeri kita berada dalam jajaran 500 kampus terbaik dunia. Dan ini harus kita perbaiki lagi. Universitas Indonesia berada dalam peringkat 191. UGM, ITB, dan Universitas Erlangga berada dalam kelompok 300 besar. Sedangkan IPB, Universitas Pjajaran dan ITS berada di kelompok 500 besar. tentunya ini harus lebih baik lagi di tahun-tahun yang akan datang."
+  },
+  {
+   "t": 5977.0,
+   "d": 30.0,
+   "text": "Negara harus menjaga kesehatan rakyat sebelum mereka sakit berat. Sejak diluncurkan pada Februari 2025, program cek kesehatan gratis telah menjangkau 108 juta orang. Pada tahun 2025 tercatat 70,2 juta peserta dan sampai akhir bulan Juni 2026 tercatat 59,5 juta peserta."
+  },
+  {
+   "t": 6007.0,
+   "d": 37.0,
+   "text": "Dengan sebagian warga mengikuti pemeriksaan pada kedua periode. Kita menghendaki ini harus lebih baik lagi. Tapi ada sementara rakyat kita yang takut cek kesehatan. takut ketahuan sakitnya apa. Mungkin anggota DPR juga termasuk belum cek kesehatan. Rata-rata gulanya pasti tinggi ini. Apalagi orang Jawa Tengah itu."
+  },
+  {
+   "t": 6044.0,
+   "d": 31.0,
+   "text": "Layanan cek kesehatan gratis sekarang tersedia di 10.255 Puskesmas pada 38 provinsi. Pemerataan pelayanan juga terus kita lakukan. Pemerintah telah membangun dan meningkatkan 66 rumah sakit umum daerah di daerah tertinggal, terdepan, dan terluar. Hari ini 20 Rumah Sakit Umum Daerah Baru telah kita bangun sudah operasional."
+  },
+  {
+   "t": 6075.0,
+   "d": 34.0,
+   "text": "Negara juga telah menanggung penuh iuran jaminan kesehatan nasional. bagi 96,8 juta warga Indonesia yang tidak mampu. Mungkin JKN kita ini salah satu sistem jaminan kesehatan terbesar di dunia. Untuk memperkuat pelayanan kesehatan kita, kita harus menghadapi dan menyelesaikan masalah kekurangan dokter umum dan dokter spesialis kita."
+  },
+  {
+   "t": 6109.0,
+   "d": 57.0,
+   "text": "Hampir semua Puskesmas kita belum memiliki 13 jenis tenaga kesehatan secara lengkap. Menurut data Kementerian Kesehatan, 474 kabupaten kota butuh tambahan 84.781 dokter umum. 505 kabupaten kota butuh tambahan 127.000. dokter gigi dan kabupaten kota 481 kabupaten kota butuh tambahan 55.712 dokter spesialis terutama di kabupaten kota yang jauh dari ibu kota provinsi terutama juga banyak di Indonesia Timur."
+  },
+  {
+   "t": 6166.0,
+   "d": 36.0,
+   "text": "Untuk itu selama 21 tahun terakhir pemerintah telah membuka 9 fakultas baru serta 170 program studi spesialis dan subspesialis baik yang berbasis perguruan tinggi maupun berbasis rumah sakit. Kita menghadirkan program studi spesialis untuk pertama kali di 11 provinsi untuk mengejar kebutuhan dokter umum, dokter gigi, dan dokter spesialis kita."
+  },
+  {
+   "t": 6202.0,
+   "d": 41.0,
+   "text": "Saudara-saudara sekalian, untuk itu kita harus mencari solusi. Kita harus memperbanyak dokter-dokter spesialis dan dokter-dokter gigi dan dokter-dokter umum kita. Karena dari kerusakan gigi bisa menghasilkan kerusakan organ-organ lain di tubuh itu. Saudara-saudara sekalian, perlindungan sosial kita sadari harus semakin tepat sasaran, mudah, dan bermartabat."
+  },
+  {
+   "t": 6243.0,
+   "d": 78.0,
+   "text": "Per hari ini digitalisasi pendaftaran bantuan sosial untuk program PHK dan PKH. Tadi saya bilang minta maaf, minta maaf, minta maaf. Izin minum kopi lagi. PKH mau sembahyang Jumat ini. [tepuk tangan] PKS sudah ngelirik-ngelirik sebentarak. 7 menit telah berjalan di 153 kabupaten dan kota pada 38 provinsi. Lebih dari 3 juta keluarga telah terdaftar menuju target 49 juta keluarga pendaftar atau lebih dari 50% keluarga Indonesia pada saat implementasi nasional."
+  },
+  {
+   "t": 6321.0,
+   "d": 33.0,
+   "text": "Sebelumnya keluarga tidak mampu harus mengeluarkan Rp150.000 R untuk perjalanan dokumen, fotokopi, dan waktu kerja yang hilang. Sekarang pendaftaran dapat dilakukan tanpa biaya, gratis. Pemeriksaan kelayakan yang sebelumnya dapat menguatkan waktu 75 sampai 200 hari kini dapat diselesaikan dalam hitungan menit atau jam."
+  },
+  {
+   "t": 6354.0,
+   "d": 46.0,
+   "text": "Rakyat yang tidak mampu tidak boleh bayar untuk membuktikan bahwa ia tidak mampu. Rakyat juga tidak boleh berkali-kali menyerahkan data yang sebenarnya sudah dimiliki oleh negara. Digitalisasi pada program perlindungan sosial harus kita terus perluas pada semua program bantuan sosial, bantuan pemerintah dan juga subsidi sebagai implementasi agenda pro Kesra terintegrasi juga untuk meningkatkan ketepat sasaran, transparansi dan kemudahan bagi masyarakat Indonesia."
+  },
+  {
+   "t": 6400.0,
+   "d": 36.0,
+   "text": "Hari ini hadir bersama kita Ibu Susana dari Kabupaten Bogor. Ia bekerja sebagai buruk harian. Mengupas bawang dengan upah Rp700.000 per kg. Program keluarga harapan dan program sembakau membantu menjaga pendidikan anak-anaknya. Hadir pula Ibu Marga Reita Roi dari Kupang, Nusa Tenggara Timur."
+  },
+  {
+   "t": 6436.0,
+   "d": 36.0,
+   "text": "Sejak kecil ia hidup dalam kesulitan dan tidak pernah mengiam pendidikan. Pada usia 38 tahun, ia masih berdagang serta merawat tantenya yang sudah berusia 80 tahun. Bantuan sosial atensi berupa beras dan minyak menjadi penopang keluarganya. Negara hadir bukan untuk menggantikan kerja keras rakyat. Negara hadir agar kerja keras rakyat tidak sia-sia."
+  },
+  {
+   "t": 6472.0,
+   "d": 36.0,
+   "text": "[tepuk tangan] Saudara-saudara sekalian, sebagaimana tadi disinggung oleh Ketua DPD RI dan sebagaimana berkali-kali saya sampaikan bahwa pembangunan adalah sebuah longs, suatu perjuangan panjang. Apa yang kita bisa lakukan sekarang kita tingkatkan, kita perbaiki, kita tambah, tapi dirintis oleh presiden-presiden dan pemimpin-pemimpin sebelum saya."
+  },
+  {
+   "t": 6508.0,
+   "d": 42.0,
+   "text": "[tepuk tangan] Banyak program perlindungan sosial dirintis oleh Presiden SBY, oleh Presiden Jokowi. Saya meneruskan apa yang mereka rintis. [tepuk tangan] Semua yang kita alami hasil dari kepemimpinan Bung Karno, kepimpinan Pak Harto, kepimpinan Pak Habibi, kepemimpinan Gus Dur, kepemimpinan Ibu Megawati."
+  },
+  {
+   "t": 6550.0,
+   "d": 51.0,
+   "text": "Sekarang kita teruskan. Ya, saya mengerti. Saya sudah diingatkan saat ini 11.40 azan jumatan 12.00. Sebentar lagi, sebentar lagi. Rumah bukan sekedar bangunan. Rumah adalah tempat keluarga berlindung, tempat anak belajar, dan keluarga bertumbuh. Tahun 2026 sampai 30 Juni, pemerintah telah menyalurkan bantuan stipulan perumahan swada, bantuan renovasi rumah bagi 83.0907 rumah. Ini masih jauh dari sasaran kita."
+  },
+  {
+   "t": 6601.0,
+   "d": 39.0,
+   "text": "Kita harus bekerja keras untuk tambah juga. Kita telah bantu pembelian rumah murah dengan program FLPP dan sekarang sudah menjangkau hampir 100.000 rumah. Kredit program perumahan telah menjangkau 90.878 debitur. Hadir bersama kita hari ini Ibu Telma Humena dari Kota Manado. Rumahnya dahulu memiliki fondasi rapuh, [tepuk tangan] dinding lantai dan atap yang rusak."
+  },
+  {
+   "t": 6640.0,
+   "d": 30.0,
+   "text": "melalui BSPS keluarganya dapat memperbaiki rumah itu. Kita akan sekarang mencari langkah-langkah untuk menambah perbaikan rumah. Hadir juga Bapak Andre Kawaru dari Samarinda. Ia berdagang kelinci dari pasar ke pasar malam hari. Bertahun-tahun hidup di rumah kontrakan melalui KPR subsidi FLPP, Pak Andre kini memiliki rumah sendiri."
+  },
+  {
+   "t": 6670.0,
+   "d": 26.0,
+   "text": "Bagi keluarga Pak Andre dan jutaan rakyat Indonesia, rumah bukan sekedar aset. Rumah adalah ketenangan, martabat, dan masa depan. Saudara-saudara sekalian, 81 tahun yang lalu para pendiri mewariskan kepada kita sebuah republik. Republik ini tidak didirikan agar negara sekedar ada."
+  },
+  {
+   "t": 6696.0,
+   "d": 31.0,
+   "text": "Republik ini didirikan agar rakyat tidak akan pernah merasa sendiri. Agar rakyat merasa pemerintah ada di sampingnya. Tugas kita bukan sekedar menjaga republik itu tetap berdiri. Tugas kita adalah memastikan republik ini berhasil sebagai bangsa. Republik ini berhasil punya kemampuan untuk hadir di tengah-tengah rakyat dan menghadirkan kemakmuran bagi seluruh rakyat Indonesia."
+  },
+  {
+   "t": 6727.0,
+   "d": 41.0,
+   "text": "[tepuk tangan] Mari kita buktikan bahwa duni kepada dunia bahwa demokrasi kita dapat menghasilkan kesejahteraan. Terima kasih Ketua MPR. Terima kasih Ketua DPD RI. selalu dibicarakan persatuan persatuan persatuan dari Bung Karno selalu bermimpi persatuan Indonesia [tepuk tangan] kita berbeda dari dasinya aja kita lihat kita berbeda."
+  },
+  {
+   "t": 6768.0,
+   "d": 30.0,
+   "text": "Tapi satu cinta merah putih. [tepuk tangan] Dirgahayu Republik Indonesia ke-81. Semoga Tuhan maha besar melindungi bangsa Indonesia. Amin. Menghadapi masa-masa yang sulit. Amin. Dengan optimis, dengan gembira. Amin. Dengan keberanian. Amin. Merdeka. Merdeka. Merdeka!"
+  },
+  {
+   "t": 6798.0,
+   "d": 87.0,
+   "text": "Merdeka! [berteriak][bersorak] Merdeka! Merdeka! Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera kita sekalian. Shalom. [tepuk tangan] Om santi santi om. Namo buddhaya. [tepuk tangan] Jam saya 125. Terima kasih. Selesai. Terima kasih semuanya. [tepuk tangan] [tepuk tangan] Ya, terima kasih. Terima kasih kami ucapkan kepada Saudara Presiden Republik Indonesia atas penyampaian laporan kinerja lembaga-lembaga negara dan pidato kenegaraan dalam rangka hari ulang tahun ke-81 Kemerdekaan Republik Indonesia."
+  },
+  {
+   "t": 6885.0,
+   "d": 25.0,
+   "text": "Saudara Presiden, Wakil Presiden, dan hadirin peserta sidang yang terhormat. Dengan selesailah pidato kenegaraan Presiden Republik Indonesia tadi, maka selesai sudah seluruh rangkaian acara sidang tahunan MPR RI dan sidang bersama DPR RI dan DPD RI tahun 2026."
+  },
+  {
+   "t": 6910.0,
+   "d": 39.0,
+   "text": "Kami mengucapkan terima kasih kepada seluruh peserta sidang baik yang hadir di ruangan maupun seluruh anak bangsa yang menyaksikan melalui media digital live streaming di mana pun berada. Atas semua perhatian yang telah diberikan sehingga sidang ini dapat berlangsung dengan tertib, aman, dan lancar. Dengan mengucapkan alhamdulillahiabbil alamin, sidang tahunan MPR RI dan sidang bersama DPR RI dan DPDI tahun 2026 kami tutup Dirgahayu Republik Indonesia."
+  },
+  {
+   "t": 6949.0,
+   "d": 12.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Salam damai sejahtera untuk kita semua. Shalom. Om santi shanti shanti. Om. Namo buddhaya. Salam kebajikan."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "1-hEfAcRo4k",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/1-hEfAcRo4k.json"
+ }
+}

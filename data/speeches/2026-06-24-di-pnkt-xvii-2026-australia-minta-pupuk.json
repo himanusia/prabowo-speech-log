@@ -1,0 +1,462 @@
+{
+ "id": "2026-06-24-di-pnkt-xvii-2026-australia-minta-pupuk",
+ "video_id": "WN4ObtcpRMs",
+ "date": "2026-06-24",
+ "title": "[FULL] Pidato Prabowo di PNKT XVII 2026: Australia Minta Pupuk dari Indonesia, Boleh Kita Jual?",
+ "channel": "KOMPASTV",
+ "youtube_url": "https://www.youtube.com/watch?v=WN4ObtcpRMs",
+ "duration_s": 2995,
+ "duration_hms": "49:55",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 917,
+ "token_count": 2990,
+ "unique_word_count": 901,
+ "duplicate_count": 2,
+ "uploads": [
+  {
+   "video_id": "WN4ObtcpRMs",
+   "url": "https://www.youtube.com/watch?v=WN4ObtcpRMs",
+   "title": "[FULL] Pidato Prabowo di PNKT XVII 2026: Australia Minta Pupuk dari Indonesia, Boleh Kita Jual?",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-06-24",
+   "duration_s": 2995,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2990,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 917,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "LN2JbamjmcE",
+   "url": "https://www.youtube.com/watch?v=LN2JbamjmcE",
+   "title": "[Full] Pidato Presiden Prabowo Bicara Swasembada Pangan, MBG Hingga Sentil Demo Bayaran!",
+   "channel": "KOMPASTV JAWA TIMUR",
+   "upload_date": "2026-06-24",
+   "duration_s": 2398,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2733,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 754,
+   "discovery_origins": [
+    "search_mbg"
+   ],
+   "selection_reason": "mbg_topic_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "qswoKxCknHg",
+   "url": "https://www.youtube.com/watch?v=qswoKxCknHg",
+   "title": "[FULL] PIDATO PRESIDEN PRABOWO DI PUNCAK PENAS PETANI NELAYAN XVII",
+   "channel": "METRO TV ",
+   "upload_date": "2026-06-24",
+   "duration_s": 2987,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2955,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 919,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 96,
+  "ekonomi": 5,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 9,
+  "tata_kelola": 5,
+  "pertahanan_dan_keamanan": 21,
+  "nasional_dan_identitas": 86,
+  "mbg": 4
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 4,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 4,
+  "present": true,
+  "evidence": [
+   {
+    "start": 2490.599,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2496.079,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2502.0,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2509.839,
+    "matches": [
+     "exact_token"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 6.56,
+   "d": 60.2,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam [bersorak] warahmatullahi wabarakatuh. Selamat siang. Salam sejahtera bagi kita semua. Shalom. Salve. Om swastiastu. Om swastiastu. Namo buddhaya. Salam kebajikan. Ini azan ya."
+  },
+  {
+   "t": 44.0,
+   "d": 140.4,
+   "text": "Kita berhenti dulu ya. Kita berhenti dulu. Allahu Akbar. yang saya hormati dan yang saya banggakan Menteri Menteri Pangan Menteri Pertanian sebagai penyelenggara dengan Ketua Umum kontak Tani Nilayan Andalan KTN Nasional. Yang saya hormati Menteri Pertanian, Saudara Andi Amran Sulaiman, Ketua Umum Kontak Tani Nelayan Andalan KTNA Nasional, Saudara Yadi Sofyan Nur sebagai tuan rumah, Menteri Koordinator Pangan, Saudara Sulifri Hasan, Ketua Umum Himpunan Kerukunan Tani Indonesia, HKTI yang sekaligus adalah Wakil Menteri Pertanian, Saudara Sudaryono, Gubernur Gorontalo sebagai yang punya wilayah, yang punya daerah."
+  },
+  {
+   "t": 161.76,
+   "d": 112.18,
+   "text": "Saudara Gusnar Ismail beserta seluruh gubernur, bupati, walikota yang hadir. [bersorak] [tepuk tangan] Gubernur Wakil Gubernur yang hadir, Gubernur Sulawesi Selatan, Saudara Andi Sudirman Sulaiman, Gubernur Sulawesi Utara, [bersorak] Mayor Jenderal TNI Purnawirawan Yulius Svanus, Gubernur Maluku Saudara Hendrik Lewerisa, Gubernur Maluku Utara, [bersorak] [bersorak] [bersorak] Saudari Sherlie Canda and [bersorak] [bersorak] seperti pemenang Piala Citra ini."
+  },
+  {
+   "t": 265.28,
+   "d": 81.88,
+   "text": "[bersorak] Wakil Gubernur Gorontalo, Saudari Ida Syaida. [bersorak] Wakil Gubernur Sulawesi Utara, Saudara Victtor Mailangkai. [bersorak][tepuk tangan] Wakil Gubernur Sulawesi Tenggara, Saudara Huga, Saudara-saudara, ini adalah ee menteri-menteri dan pejabat setingkat yang hadir ini. Sekalian absen [bersorak] Menteri Kelautan dan Perikanan, [bersorak] Saudara Sakti Wahyu Trenggono."
+  },
+  {
+   "t": 337.33,
+   "d": 70.66,
+   "text": "[bersorak] Kalau enggak hadir kebangetan. [bersorak] Menteri Dalam Negeri [bersorak] Jenderal Polisi Punawirawan Tito Karnavian, [bersorak] Menteri Luar Negeri, Saudara Sugiono, [bersorak] Menteri Sekretaris Negara, [bersorak] Saudara Prasetyo Hadi. Menteri Pekerjaan Umum, Saudara Dodi Hanggodo. [bersorak] Ini yang irigasi-irrigasi ini beliau yang bangun ini."
+  },
+  {
+   "t": 391.2,
+   "d": 66.44,
+   "text": "Menteri Transmigrasi, Saudara Iftitah Suryan, Menteri Perhubungan, Saudara Dudi Purwagandi, [bersorak] Panglima Tentara Nasional Indonesia Jenderal TNI Agus Subianto. Kepala Kepala Kepolisian Republik Indonesia Jenderal Polisi Listy Sigit Prabowo. Panglima TNI ada Subiantonya, Kapolri ada Prabowonya."
+  },
+  {
+   "t": 432.96,
+   "d": 67.71,
+   "text": "[bersorak] Susah kalau diganti ya. [bersorak] Kepala Staf Angkatan Darat Jenderal TNI Maruli Simanjuntak [bersorak] Kepala Staf Angkatan Laut Laksana TNI Muhammad Ali [bersorak] Kepala Staf Angkatan Udara Marsekal TNI Toni Harjono, Kepala Badan Riset dan Inovasi Nasional Prof. Arif Satria, Kepala Badan Pusat Statistik, Saudari Amalia Widyasanti."
+  },
+  {
+   "t": 508.29,
+   "d": 60.39,
+   "text": "[bersorak] Ada harus dicek satu-satu. [bersorak] Kepala Badan Karantina Indonesia, Saudara Abdul Kadir Karding, Wakil Menteri Kelautan dan Perikanan, Laksamana TNI Purnawirawan Didit Asf Herdiawan. [bersorak] Untung kok hadir Wakil Menteri Kehutanan, Saudara Rahmat Marzuki."
+  },
+  {
+   "t": 584.27,
+   "d": 69.65,
+   "text": "[bersorak] Sekretaris Kabinet Republik Indonesia [bersorak] [bersorak] baru led call kok disambut kayak begitu [bersorak] yang presiden Aku [bersorak] [bersorak] leti Indrawijaya. [bersorak] Walikota dan bupati yang hadir. Walikota Subula Subulus Salam, Saudara Rasyid Bancin hadir. Ada."
+  },
+  {
+   "t": 656.88,
+   "d": 66.48,
+   "text": "Hah? Oh, Walikota Tarakan, Saudara Khairul, Wakil Walikota Makassar, Saudari Aliah Mustika Ilham, Wakil Walikota Kota Mubago, Saudara Rendi Wirjawan, M. Wakil Walikota Tual, Saudara Amir Rumra ada semua. Oh, virtual. Kalau virtual tetap ya kita sebut ya perlu disebut semua."
+  },
+  {
+   "t": 693.6,
+   "d": 70.03,
+   "text": "Hah? Enggak bupati [bersorak] nanti kasihan mereka. Eh, enggak perlu [bersorak] para bupati dan wakil bupati yang hadir lewat virtual. Saya yang saya hormati tidak saya sebut satu-satu tanpa mengurangi rasa hormat saya kepada saudara-saudara. Begitu ya. Ini permintaan rakyat sebenarnya."
+  },
+  {
+   "t": 730.99,
+   "d": 80.26,
+   "text": "[bersorak] Saudara-saudara sekalian, pertama-tama sebagai insan yang bertakwa, marilah kita selalu memanjatkan puji syukur kehadirat Tuhan yang maha kuasa, Tuhan yang maha besar bagi umat Islam Allah Subhanahu wa taala. yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita meminta pertolongan."
+  },
+  {
+   "t": 775.56,
+   "d": 72.4,
+   "text": "Kita bersyukur atas segala karunia, atas kesehatan, atas nafas yang masih diberikan kepada kita, atas berkah kedamaian yang diberikan kepada negara kita sehingga kita dapat berkumpul di siang hari ini di tempat yang baik ini. Saya ingin mengucapkan terima kasih atas kehormatan yang besar diberikan kepada saya."
+  },
+  {
+   "t": 811.84,
+   "d": 50.56,
+   "text": "Saya diundang sehingga saya bisa hadir di tengah-tengah saudara-saudara di acara yang sangat mulia ini, sangat penting, yaitu Pekan Nasional Petani dan Nelayan Andalan ke-17 tahun 2026. [bersorak][tepuk tangan] Dan kalau tidak salah ini yang pertama kali sebagai presiden ya."
+  },
+  {
+   "t": 844.24,
+   "d": 64.37,
+   "text": "Iya, Pak. Pertama kali sebagai presiden. Ini juga kebetulan pertama kali saya hadir sebagai Presiden Republik Indonesia. [bersorak] [tepuk tangan] Saya sudah hadir banyak sekali panas karena saya cukup lama saya menjadi ketua umum HKTI, Himpunan Kerukunan Tani Indonesia yang selalu berjuang bersama KTNA, yang selalu berjuang untuk kepentingan tani dan nelayan di seluruh Indonesia."
+  },
+  {
+   "t": 877.71,
+   "d": 72.3,
+   "text": "[bersorak] Saudara-saudara sekalian, ini juga selain [berdehem] kehormatan ini juga kebanggaan saya karena sudah cukup lama saya berjuang bersama para petani dan nelayan di seluruh Indonesia. Dan orang bertanya, \"Ada apa Prabowo Subianto selalu bersama petani dan nelayan?\""
+  },
+  {
+   "t": 921.6,
+   "d": 69.84,
+   "text": "[bersorak] Saya jelaskan, saya jelaskan sangat sederhana karena saya mantan prajurit, saya mantan tentara, saya mantan prajurit Indonesia. dan prajurit Indonesia dari lahirnya tentara Indonesia, prajurit Indonesia, tentara Indonesia selalu didukung oleh petani dan nelayan, selalu dibantu oleh petani dan nelayan."
+  },
+  {
+   "t": 957.96,
+   "d": 62.44,
+   "text": "Saudara-saudara sekalian, waktu kita mendeklarasikan, kita proklamasikan kemerdekaan kita, belum ada negara, belum ada anggaran, belum ada APBN, belum ada gaji. Mereka yang memilih Republik Indonesia memilih karena hati, karena cinta bangsa Indonesia bukan karena gaji."
+  },
+  {
+   "t": 988.68,
+   "d": 155.04,
+   "text": "Tapi tentara waktu itu ditopang, didukung makanan diberi oleh petani-petani dan nelayan-nelayan kita di seluruh Indonesia. [bersorak] TNI, semua pasukan Indonesia, para pejuang termasuk kepolisian didukung oleh rakyat, didukung oleh petani dan nelayan. Tadi disebut oleh Menteri Pertanian kalau dihitung tadi berapa? 160 juta petani dan keluarganya tambah tambah 14 juta nelayan nel nelayan saya mau cek MKP Menteri benar berapa juta nelayan e betul betul betul katanya jadi kalau demikian 160 + 14 mungkin dengan keluarganya Saudara-saudara ya [berdehem] bangsa Indonesia nanti ditambah para buruh, para ojol dan sebagainya."
+  },
+  {
+   "t": 1069.68,
+   "d": 63.48,
+   "text": "Ya, inilah rakyat Indonesia, Saudara-saudara sekalian. Karena itu ini kebanggaan bagi saya. Saya waktu prajurit muda, waktu saya di desa-desa, saya di gunung-gunung, saya juga merasa dibantu oleh para petani. Mereka hidupnya susah. Untuk masak harus cari kayu, jalan berkilo-kilo."
+  },
+  {
+   "t": 1100.88,
+   "d": 80.28,
+   "text": "Untuk ambil air susah, harus jalan berkilo-kilo. Tetapi mereka tetap masak untuk prajurit-prajurit TNI. Berarti begitu besar cintanya mereka terhadap negara dan bangsa Indonesia. Karena itu, Saudara-saudara, saya kira setiap prajurit, setiap jenderal harus selalu ingat dan harus selalu dalam hatinya ingat peran yang begitu penting dari para petani dan nelayan Indonesia."
+  },
+  {
+   "t": 1141.6,
+   "d": 79.16,
+   "text": "Saudara-saudara sekalian, para petani dan nelayan adalah penghasil makanan, penghasil pangan. Tidak ada negara bisa berdiri, tidak ada negara bisa bertahan, bahkan tidak ada peradaban yang bisa bertahan tanpa pangan. Saudara-saudara, karena itulah sewaktu saya pensiun, usia saya masih relatif muda waktu itu."
+  },
+  {
+   "t": 1184.08,
+   "d": 51.64,
+   "text": "Sekarang masih muda juga, [bersorak] [berteriak] muda dalam semangat. [bersorak] Yang muda-muda benar-benar yang muda usia jangan senyum-senyum. Belum tentu loh kalau urusan itu bukan antrean bukan. Tapi kita siap setiap saat kalau dipanggil yang maha kuasa kita siap setiap saat."
+  },
+  {
+   "t": 1216.68,
+   "d": 60.8,
+   "text": "Yang penting apakah kita sudah berbuat yang terbaik untuk bangsa rakyat dan saudara-saudara kita. Saya kira itu yang terpenting. Tapi saya ingin mengatakan di sini, saya berjuang di politik selama sekian puluh tahun. Saya ikut pemilihan umum. Pemilihan saya ikut lima kali."
+  },
+  {
+   "t": 1250.4,
+   "d": 76.2,
+   "text": "Empat kali kalah. Ketawa lagi kalian. Enggak enak kalah gitu. L empat kali kalah yang terakhir menang, Saudara-saudara. [bersorak] [tepuk tangan] Kenapa saya masih terus? Kenapa saya masih terus? Karena saya waktu itu melihat, saya lihat arah arah pembangunan ekonomi kita menurut saya waktu itu berada di arah yang keliru."
+  },
+  {
+   "t": 1294.44,
+   "d": 79.76,
+   "text": "Waktu itu yang dianut adalah paham neoliberal. Neoliberal mengatakan bahwa pemerintah tidak boleh membantu orang-orang miskin. Orang lemah dikatakan memang lemah karena tidak bisa bersaing. Yang diutamakan adalah mereka yang kuat, mereka yang katanya mampu bersaing."
+  },
+  {
+   "t": 1336.28,
+   "d": 86.28,
+   "text": "Waktu itu saya ketua umum HKTI, saya menghadap Menko perekonomian. Waktu itu namanya adalah Abu Rizal Bakri. Waktu itu pemerintah mau impor beras. Saya sebagai ketua umum RTI, saya menghadap dan saya menghimbau janganlah mengimpor beras apalagi import beras pada saat petani mau panen hancur harga untuk petani."
+  },
+  {
+   "t": 1382.0,
+   "d": 88.96,
+   "text": "Petani kita tidak bisa untung. tidak kembali modal. Waktu itu banyak pakar-pakar yang pintar-pintar sampai sekarang masih menganggap dirinya pintar mengatakan untuk apa kita membela petani Indonesia. Kalau petani Indonesia ini kata-kata beliau bukan Pak Abu Rizal Bakri tapi salah satu penasihatnya kalau petani Indonesia tidak efisien."
+  },
+  {
+   "t": 1430.28,
+   "d": 79.4,
+   "text": "Itu kata-kata beliau. Kalau petani Vietnam lebih efisien, lebih baik kita beli beras dari Vietnam. Itu pandangan orang-orang pintar itu, Saudara-saudara. Saya kaget. Saya kaget dan saya sedih. Saya mengatakan dalam hati saya ini salah besar. Ini tidak mengerti apa arti negara, tidak mengerti apa arti bernegara, tidak mengerti kenapa kita mau merdeka."
+  },
+  {
+   "t": 1470.04,
+   "d": 59.16,
+   "text": "Kita berjuang ratusan tahun untuk mendirikan negara merdeka agar rakyat kita sejahtera. [bersorak] Agar petani nelayan buruk seluruh rakyat Indonesia sejahtera. Agar mereka hidup dengan baik. Agar anak-anak bisa sekolah dengan baik. Agar mereka punya rumah yang layak."
+  },
+  {
+   "t": 1499.04,
+   "d": 61.02,
+   "text": "agar mereka punya kalau sakit bisa ke rumah sakit, bisa ke poliklinik, bisa ke puskesmas, bisa dapat obat yang terjangkau harganya. Itu tujuan kita merdeka. Kita bukan merdeka. Hanya sekedar untuk merdeka. Untuk apa kita punya DPR? Untuk apa kita punya DPD? Untuk apa kita nyanyi lagu kebangsaan kalau rakyat kita tidak sejahtera, Saudara-saudara sekalian?"
+  },
+  {
+   "t": 1532.72,
+   "d": 71.22,
+   "text": "[bersorak] Karena itulah saya bertekad, saya berjuang, saya terus dipolitik. Kalah saya maju lagi. Kalah maju lagi. Karena saya melihat belum ada usaha besar dari elit Indonesia untuk memperkuat rakyat Indonesia dari bawah. Karena itu saya maju dan alhamdulillah saudara-saudara saya yakin HKTI dan KTNA kunci dari kemenangan saya kemarin itu."
+  },
+  {
+   "t": 1572.67,
+   "d": 102.7,
+   "text": "[bersorak] [tepuk tangan] Saudara-saudara sekalian, dalam 1 tahun 8 bulan mungkin sampai sekarang, telah banyak kita capai, telah banyak yang paling besar kita capai dan saya merasa bersyukur adalah kita swasembada pangan kita produksi. pangan, beras, jagung, hampir semua komunitas pangan kita produksi dan produksi beras dan jagung kita tertinggi sepanjang negara kita berdiri."
+  },
+  {
+   "t": 1626.24,
+   "d": 81.44,
+   "text": "Dan ini adalah akibat kerja keras, Saudara-saudara sekalian. Ini adalah prestasi tim yang sekarang menggerakkan pertanian Indonesia. Untuk itu saya menyampaikan penghargaan [berdehem] di hadapan seluruh keluarga besar tani dan nelayan andalan juga hadir ormas-ormas pertanian di sini."
+  },
+  {
+   "t": 1668.08,
+   "d": 111.08,
+   "text": "Saya menyampaikan penghargaan saya, rasa hormat saya kepada tim yang dipimpin oleh tokoh-tokoh yang ada di belakang saya, Menko Pangan, Menteri Pertanian, Pak Amran Sulaiman, Menteri Kelautan Perikanan, Wakil-wakilnya. nya Wakil Menteri Pertanian Sudaryono, Wakil Menteri Kelautan dan Perikanan Laksamana Didit, tapi juga sangat besar dibantu oleh menteri-menteri lain dan juga sangat dibantu oleh Panglima TNI, oleh Kapolri, oleh kepala-kepala staf angkatan."
+  },
+  {
+   "t": 1726.24,
+   "d": 84.04,
+   "text": "Hanya di Indonesia polisi ngurus pertanian. Hanya di mungkin di Indonesia tentaranya sering ada di sawah. Hanya di Indonesia angkatan laut tanam kedelei. Hanya di Indonesia angkatan udara tanam tebu. Tapi ini adalah strategis. Ini adalah kenapa Indonesia akan bangkit dengan hebat, Saudara-saudara sekalian. Kita akan bangkit menjadi negara yang hebat."
+  },
+  {
+   "t": 1779.56,
+   "d": 59.04,
+   "text": "Ada yang selalu tidak ingin kita bangkit. Ada. Kita sudah tahu mereka-mereka itu. Iya kan? Ini karena banyak wartawan, aku pidato aku harus aku atur gitu ya. Nanti yang dikutip yang apa tuh yang agak agak keras-keras dikit. Tapi kalau sama petani nelayan bicaranya harus keras."
+  },
+  {
+   "t": 1810.44,
+   "d": 63.92,
+   "text": "Betul enggak? Betul. Kalau bicara kalem-kalem kalian enggak akan dengar. Benar ya. Benar. Ya. Saudara-saudara sekalian. pembangunan harus dilaksanakan dengan baik. Para petani dan nelayan harus kerja keras. Harus kerja keras. Dan tidak boleh minta untung besar-besar. ya."
+  },
+  {
+   "t": 1853.67,
+   "d": 71.31,
+   "text": "[bersorak] Dan kita semua berharap suatu saat di kelak kemudian hari kekayaan yang ada dinikmati segelintir orang akan pelan-pelan netes ke bawah. Gak eh sor [tertawa] coba di di delete delete. He friend ya wartawan kita kompak ya. Coba yang gitu-gitu nanti gue dihajar lagi. Itu emang gua pikirin [bersorak] sudah hari gini kita bicara apa adanya deh."
+  },
+  {
+   "t": 1910.68,
+   "d": 52.81,
+   "text": "Kalian lebih senang tahu hati saya benar enggak? Benar [bersorak] daripada ngomong-ngomong sopanob sopan-sopan. tetap maling, sopan-sopan korupsi [bersorak] [bersorak] [bersorak] sok sok kaya, sok banyak duit padahal duitnya nyolong dari rakyat. Saya sudah lama jadi orang Indonesia."
+  },
+  {
+   "t": 1955.92,
+   "d": 69.96,
+   "text": "Gue kenal itu semua itu, Saudara-saudara. [bersorak] Mereka enggak suka sama Prabowo karena Prabowo ngerti. [bersorak] Saudara-saudara sekalian. Hati-hati loh saya kasih peringatan. Mereka-mereka itu. Saya tahu siapa yang bayar-bayar demo. Gue tahu itu. [bersorak] Tapi enggak main demo. Ditanya ditanya anak-anak demo enggak ngerti mau demo apa ya? M kami dibayar Rp200.000 gitu."
+  },
+  {
+   "t": 2014.68,
+   "d": 91.8,
+   "text": "Tapi ada saya enggak mengerti, Saudara-saudara. Kita ini kalau merasa apa ya, kalau kita dalam pertandingan gitu ya, kita jadi suporter kan kita dukung satu tim. Ayo maju maju maju. Negara kita ini lagi bersaing sama banyak negara harusnya bangsa ini kompak. Kalau ada yang kurang, teman yang kurang, tim kita lagi main ya, mainnya kurang bagus ya, tetap di supporter ya. Nanti begitu sudah selesai pertandingan baru dikoreksi."
+  },
+  {
+   "t": 2060.4,
+   "d": 60.6,
+   "text": "Jangan lagi main bawa bola salah. Goblok. lagi main di tengah lapangan disorak-sorain, teman sendiri, kesebelasan sendiri. Jadi kayaknya kita tuh tidak bangga dengan apa yang dihasilkan oleh bangsa sendiri. Kita swasadap pangan tidak ringan. Dalam sejarah Indonesia baru sekali kita sasadap pangan."
+  },
+  {
+   "t": 2094.76,
+   "d": 62.6,
+   "text": "Kalau enggak salah 84 1 tahun [berdehem] kita yakin kita semua berapangan tidak hanya untuk 1 tahun untuk seterusnya kita akan semasapangan [bersorak][tepuk tangan] saudara-saudara tadi saya sebut terima kasih ke pejabat-pejabat tadi itu. Saya juga ucapan terima kasih gubernur-gubernur, bupati-bupati yang dukung ini semua."
+  },
+  {
+   "t": 2126.52,
+   "d": 69.24,
+   "text": "Saudara-saudara, saya ucapkan terima kasih bukan hanya kata-kata manis dalam acara ini. Benar-benar saya hormat sama mereka. Merekalah yang membuat Indonesia swasada pangan. [tepuk tangan] [bersorak] Saya bisa dikatakan kalau di sepak bola apa aku ya? Aku ini ee manajer I kan aku yang manajer."
+  },
+  {
+   "t": 2161.28,
+   "d": 56.23,
+   "text": "Aku di luar lapangan kasih isu. Tapi ada kapten kesebelasan ada coach pelatih. Iya kan? Ya, mereka inilah coach, pelatih, ada yang striker. [berdehem] Saya memberi arah kalau mereka enggak berjuang, kalau saudara tidak berjuang, kita tidak semasada pangan. Betul."
+  },
+  {
+   "t": 2191.2,
+   "d": 65.21,
+   "text": "Tapi ini keberhasilan kita. Ini keberhasilan menteri-menteri ini semua. Kalau Menteri PU maling, kalau dia koruptor enggak ada irigasi jadi, enggak ada jalan-jalan ke desa jadi, Saudara-saudara sekalian, [bersorak] ini aku lihat tampang-tampang ini bukan tampang-tampang koruptor ini. Sini ni saya lama jadi orang Indonesia jadi saya sudah saya ini dapat apa ya? Saya bisa koruptor itu matanya tuh."
+  },
+  {
+   "t": 2233.12,
+   "d": 76.6,
+   "text": "Dan biasa koruptor itu pintar, orang-orang pintar. Dia pintar. Saking pintarnya dia tahu cara cara nyuri. Saudara-saudara, kita bekerja keras, pekerjaan tidak ringan. Kita tidak mau ungkit-ungkit, tidak mau cari kesalahan, tapi kita harus berani melihat kekurangan-kekurangan kita sendiri. Kita harus berani memperbaiki kekurangan-kekurangan kita."
+  },
+  {
+   "t": 2274.24,
+   "d": 57.42,
+   "text": "Jangan kita selalu selalu tidak mau mengerti kekurangan dan kesalahan kita. Saudara-saudara sekalian, kekayaan kita banyak dirampok, banyak dicuri, dan ini akan kita hentikan. Saudara-saudara sekalian, [bersorak] saya bertekad bersama tim saya untuk menghentikan kekayaan Indonesia dicuri."
+  },
+  {
+   "t": 2308.25,
+   "d": 53.26,
+   "text": "[berteriak] Saudara-saudara sekalian, mungkin hal ini tidak segera memperlihatkan hasil. Saya selalu katakan, Presiden Republik Indonesia tidak punya tongkat ajaib. Saya tidak punya tongkat Nabi Musa atau Nabi Sulaiman. Tidak bisa saudara petani, saudara nelayan."
+  },
+  {
+   "t": 2338.4,
+   "d": 82.04,
+   "text": "Kau tanam tanam beras, tanam padi, kan 3 bulan baru ada hasil. Tanam kelapa sawit baru ada hasil. tahu tanam singkong 10 bulan beroda hasil upaya kita tidak segera, tapi sekarang sudah mulai kelihatan. Usaha kita yang sudah kelihatan di depan mata, bukan di depan mata nyata, yaitu Swaanda. pangan."
+  },
+  {
+   "t": 2382.2,
+   "d": 109.28,
+   "text": "Saudara-saudara sekalian, ada yang kemarin saya sebut tadi saya sebut berapa tahun yang lalu, profesor-profesor banyak yang pintar ekonomi itu saya enggak mengerti sampai ada yang mengatakan untuk apa melindungi petani Indonesia kalau petani Vietnam lebih efisien. Kalau petani Vietnam lebih produktif, saya kira ini pemikiran yang sesat dan saya tetap berpendirian seperti itu. Dan sekarang sejarah membuktikan bahwa pendirian saya itu yang benar, Saudara-saudara sekalian, bayangkan dalam keadaan krisis."
+  },
+  {
+   "t": 2436.84,
+   "d": 82.68,
+   "text": "Bayangkan dalam keadaan krisis. Waktu COVID kita mau impor negara yang punya beras tidak mau izinkan berasnya keluar dari negaranya. Bayangkan saya sudah katakan kalau terjadi perang bagaimana? [berteriak] Iya. Ya, terima kasih. Sabar dulu ya. Aku ini harus aku harus selesaikan sambutan saya ini anak-anak itu ya. Oke."
+  },
+  {
+   "t": 2490.6,
+   "d": 56.77,
+   "text": "Ada juga yang enggak setuju MBG. [bersorak] Harusnya mereka yang enggak setuju MBG datang ke sini ya. Ee tanya itu petani nelayan MBG perlu atau tidak perlu. [bersorak] Tanya anak-anak MBG perlu atau tidak perlu? [bersorak] Katanya ada orang-orang pintar yang mengatakan ada lebih genting dari perut lapar."
+  },
+  {
+   "t": 2528.88,
+   "d": 113.44,
+   "text": "Saya kira enggak ada lebih genting dari perut lapar. Orang perut lapar itu kalau enggak segera diisi ya dia mati. Dan PBB sudah meramalkan tahun ini kelaparan di dunia akan masif. 2 tahun yang lalu sekitar 300 juta orang kelaparan di dunia diperkirakan sekarang sudah meningkat jadi jadi 500 juta ya 700 juta FAO memberi warning dan saudara-saudara alhamdulillah kita sekarang sudah mulai ekspor kita sekarang bantu negara-negara lain saudara-saudara sekalian Saya ditelepon Perdana Menteri Australia."
+  },
+  {
+   "t": 2589.6,
+   "d": 57.0,
+   "text": "Beliau terima kasih [berdehem] Indonesia punya surplus pupuk dan mereka minta apakah boleh kita jual ke mereka? Saya bilang jual kirim ke mereka. Negara-negara banyak yang minta pupuk dari kita. Negara-negara lain banyak minta beras dari kita, jagung dari kita."
+  },
+  {
+   "t": 2620.44,
+   "d": 145.13,
+   "text": "Silakan. Asal harganya benar ya. Menteri pertanian petani jangan rugi. Betul. Betul. [bersorak] Bagaimana sekarang petani sudah cukup? Untung sudah belum? Sudah. Mau untung lagi? [bersorak] Ya pasti saudara-saudara sekalian. Saya katakan karena kita swasapangan kita percaya diri terjadi perang di mana-mana terjadi selat hormus ditutup kita percaya diri kita akan mampu mengatasi saudara-saudara sekalian dan kita akan menuju Sua sebada BBN. M SAS pada energi. Saudara-saudara sekalian, [bersorak] bulan Juli ini berapa hari lagi kita akan launching B50."
+  },
+  {
+   "t": 2706.92,
+   "d": 72.76,
+   "text": "B50 solar akan kita olah dari kelapa sawit 50%. Dengan demikian kita tidak akan impor solar lagi dari luar negeri saudara-saudara. [bersorak] Dan kita akan menghemat banyak sekali. Saya perkirakan 3 tahun lagi, maksimal 4 tahun lagi kita akan swasembada energi. Kita tidak mau impor apapun untuk BBM kita, untuk energi kita, Saudara-saudara."
+  },
+  {
+   "t": 2747.68,
+   "d": 73.2,
+   "text": "Saya kira saudara-saudara sekalian, hal-hal itu yang ingin saya sampaikan. Terima kasih seluruh masyarakat tani dan nelayan Indonesia. Terima kasih kerja keras, Saudara-saudara. Perjalanan masih jauh, Saudara-saudara telah membuktikan saudara terus semangat sebagai produsen pangan, Saudara-saudara. Sesungguhnya adalah tulang punggung republik ini, Saudara-saudaraan."
+  },
+  {
+   "t": 2790.33,
+   "d": 63.18,
+   "text": "[bersorak] Karena itu pemerintah yang saya pimpin, kami kerja keras. Tidak ada hari libur, kita terus kerja siang malam mencari jalan yang terbaik supaya uang rakyat bisa kita jaga, supaya tidak dicuri, supaya tidak diambil bangsa-bangsa lain, supaya kita menjadi tuan di rumah kita sendiri, Saudara sekalian."
+  },
+  {
+   "t": 2827.28,
+   "d": 60.4,
+   "text": "Dan saya ucapkan terima kasih juga atas kesetiaanmu, atas dukunganmu, saudara-saudara. Tani nelayan buruh bersama ulama, bersama santri, bersama tentara, prajurit, polisi, bersama semua SN. Kalau kita bersatu, Indonesia tidak akan goyah. Indonesia tidak akan gagal."
+  },
+  {
+   "t": 2857.8,
+   "d": 45.32,
+   "text": "[bersorak] Mereka yang ingin Indonesia gagal, kita beri hadiah untuk mereka. Mereka biar biar mereka terkejut apa yang akan terjadi dengan bangsa ini. Kita akan jadi bangsa yang hebat, bangsa yang besar. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 2880.07,
+   "d": 82.45,
+   "text": "[tepuk tangan][bersorak] Terima kasih. Semoga Allah Subhanahu wa taala, Tuhan Maha Besar, Tuhan Maha Kuasa, selalu melindungi petani dan nelayan kita di mana pun saudara lagi berjuang. Terima kasih. Dan saya mohon dua Restu. Saya minta dua restu. Percayalah kepada pemimpinmu. Percayalah kepada pemerintahmu. [bersorak] Tidak ada niat lain. Kami ingin lihat rakyat kita senyum. Kami ingin lihat rakyat kita sejahtera. Tidak ada niat lain, Saudaraker. Terima kasih. Sampai berjumpa kembali."
+  },
+  {
+   "t": 2931.4,
+   "d": 66.66,
+   "text": "di tempat yang lain. Terima kasih. Ktna [bersorak] merdeka merdeka merdeka [berteriak] merdeka. Kalau saya teriak tani, saudara jawab makmur. Kalau saya teriak nelayan, kau balas makmur. Ya, tani, nelayan kalau saya teriak Indonesia kau bangkit, kau jawab bangkit. Indonesia bangkit."
+  },
+  {
+   "t": 2970.92,
+   "d": 40.66,
+   "text": "Indonesia [berteriak] bangkit. Terima kasih. Terima kasih semuanya. [bersorak] Kami ucapkan terima kasih kepada Presiden Republik Indonesia yang telah berkenan hadir pada puncak acara Pekan Nasional Petani Nelayan 17"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "WN4ObtcpRMs",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/WN4ObtcpRMs.json"
+ }
+}

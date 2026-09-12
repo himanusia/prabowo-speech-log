@@ -1,0 +1,156 @@
+{
+ "id": "2024-12-28-pada-perayaan-natal-nasional-2024",
+ "video_id": "sJ-b3ohKEs0",
+ "date": "2024-12-28",
+ "title": "[FULL] Pidato Prabowo pada Perayaan Natal Nasional 2024",
+ "channel": "Kompas.com",
+ "youtube_url": "https://www.youtube.com/watch?v=sJ-b3ohKEs0",
+ "duration_s": 1751,
+ "duration_hms": "29:11",
+ "source_tier": "full_media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 222,
+ "token_count": 1564,
+ "unique_word_count": 574,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "sJ-b3ohKEs0",
+   "url": "https://www.youtube.com/watch?v=sJ-b3ohKEs0",
+   "title": "[FULL] Pidato Prabowo pada Perayaan Natal Nasional 2024",
+   "channel": "Kompas.com",
+   "upload_date": "2024-12-28",
+   "duration_s": 1751,
+   "source_tier": "full_media",
+   "fetch_method": "transcript_panel",
+   "token_count": 1564,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 222,
+   "discovery_origins": [
+    "targeted_early_search"
+   ],
+   "selection_reason": "early_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "wTHui5fr11M",
+   "url": "https://www.youtube.com/watch?v=wTHui5fr11M",
+   "title": "PIDATO PRABOWO di Natal Nasional: Saya Lahir dari Ibu Beragama Kristiani❗",
+   "channel": "Tribun MedanTV",
+   "upload_date": "2024-12-30",
+   "duration_s": 115,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 103,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 13,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 9,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 67,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 125.0,
+   "text": "Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh Selamat malam Salam sejahtera bagi kita sekalian Shalom salve Om Swastiastu namo budhaya salam kebajikan yang saya hormatiakil Presiden Republik Indonesia saudara Gibran Raka bumieraka Ketua Majelis permusyaratan Rakyat Republik Indonesia saudara Ahmad muzani ketua Dewan Perwakilan Daerah Republik Indonesia saudara Sultan Bakhtiar najamuddin ketua umum perayaan natal nasional 2024 saudara Thomas jiwandono Menteri Agama Republik Indonesia Prof Dr k. H Nasrudin Umar ketua konferensi Wali gereja Indonesia Mon Antonius subant gereja-gereja Indonesia pendeta Z manu [Tepuk tangan] putih para menteri koordinator para menteri dan wakil Meri kabinet Merah Putih yang hadir Jaksa Agung Kapolri Panglima TNI beserta Kepala Staf Angkatan Darat Angkatan Laut dan Angkatan Udara yang hadir para tokoh agama wakil Sekjen wanita Hindu Dharma"
+  },
+  {
+   "t": 126.0,
+   "d": 122.0,
+   "text": "Indonesia pusat Ibu ni ketut Rani ketua persatuan umat Buddha Indonesia Prof Dr Philip Wijaya Ketua Majelis tinggi agama konghuchu Indonesia saudara Budi Tanu Wibowo wakil ketua umum muui majelis Ulama Indonesia pusat Dr k. H Marsudi Suhud perwakilan pengurus besar Nahdatul Ulama Gus Saifullah Yusuf perwakilan pengurus pusat Muhammadiyah Prof Dr Fauzan yang saya hormati para Uskup pendeta para suster para tokoh pengurus Gereja serta hadirin undangan yang berbahagia saudara-saudara yang menyaksikan melalui video conference di Sulawesi Utara Nusa Tenggara Timur Papua pegunungan Papua Barat Daya Papua Tengah Papua Barat dan papua Selatan serta yang saya hormati dan saya muliakan seluruh saudara-saudaraku sebangsa dan setanah air umat Kristiani yang merayakan hari Natal tahun 2024 [Tepuk tangan] ini pertama-tama Tentunya sebagai insan yang bertakwa tidak henti-hentinya kita panjatkan puji syukur kehadirat Tuhan maha kuasa maha besar yang memiliki sekalian"
+  },
+  {
+   "t": 248.0,
+   "d": 121.0,
+   "text": "alam atas segala karunia atas kesehatan yang masih diberikan kepada kita dapat berkumpul malam hari ini di tempat yang baik ini untuk melaksanakan perayaan natal nasional tahun 2024 ini saya ucapkan terima kasih yang sebesar-besarnya atas kehormatan diberikan kepada saya untuk hadir di sini dan menyampaikan langsung ucapan selamat kepada seluruh warga negara Indonesia yang beragama Kristiani selamat sekali lagi merayakan hari Natal tahun 2024 dan terima kasih atas semua pihak dari semua unsur yang telah bekerja keras sehingga perayaan natal ini dapat dilaksanakan dengan baik dengan aman tertib dan dalam penuh kerukunan penuh suasana kekeluargaan saudara-saudara [Tepuk tangan] kita merayakan Natal ini sebagai bagian dari kehidupan kita sebagai bagian dari kepribadian kita bahwa bangsa Indonesia adalah bangsa yang beragam bangsa yang penuh perbedaan bangsa yang berbineka tapi satu jiwa satu kehendak"
+  },
+  {
+   "t": 369.0,
+   "d": 146.0,
+   "text": "satu keinginan yaitu keinginan kehendak untuk hidup rukun untuk hidup sebagai suatu keluarga besar untuk meraih cita-cita dan tujuan bersama yaitu mencari kehidupan yang baik di dunia ini dan bekerja keras untuk menghadapi dunia yang akan datang saudara-saudara sekalian saya juga menyapa saudara-saudara kita dari Sulawesi Utara Nusa Tenggara Timur dari Papua yang mengikuti acara ini melalui video conference saudara-saudara sekalian selamat [Tepuk tangan] semuanya Sekali lagi selamat hari Natal dari saya dan saudara-saudaramu yang ada di Jakarta [Tepuk tangan] tradisi dalam merayakan Natal adalah bagi kita sekalian selalu kembali berkumpul dengan keluarga dengan orang-orang yang kita cintai Saya mengerti hari ini karena keluarga saya banyak yang beragama Kristiani saya juga lahir dari seorang ibu yang beragama Kristiani Jadi mungkin boleh dikatakan saya ini bukti dari keluarga Pancasila kalau orang tua saya bertengkar tidak pernah soal agama kalau bertengkar si kadang-kadang"
+  },
+  {
+   "t": 515.0,
+   "d": 140.0,
+   "text": "ya buktinya mereka berhasil putranya jadi Presiden Republik Indonesia saudara-saudara sekalian suatu kehebatan bangsa Indonesia kecemerlangan bangsa Indonesia adalah kita bisa bersatu kita bisa hidup rukun bineka Tunggal Ika ini adalah kehebatan bangsa Indonesia di ruangan ini dan di manamana yang melihat acara ini pasti banyak perbedaan ada yang berbeda agama berbeda suku berbeda adat berbeda daerah tapi nyatanya kita semua hari ini merasa sejuk merasa aman merasa damai merasa rukun saudara-saudara perayaan natal hari ini di tengah dunia yang penuh dengan pertikaian penuh dengan ketegangan penuh dengan konflik kita saya mengajak kita sekalian marilah kita bersyukur kita bersyukur bahwa kita hidup masih dalam keadaan yang sejuk masih dalam keadaan yang aman masih dalam keadaan yang baik kita merayakan Natal saudara-saudara merayakan Natal ini pasti kita ingat pasti ada saudara-saudara kita yang"
+  },
+  {
+   "t": 655.0,
+   "d": 155.0,
+   "text": "hidupnya masih penuh dengan kesulitan Dan saya yakin di tengah kita bersukacita di tengah kita merayakan sesuatu yang baik kita selalu ingat saudara-saudara kita yang masih dalam kesulitan saudara-saudara sekalian Saya betul-betul merasakan harapan dari seluruh rakyat Indonesia dan karena itu saya bersama pembantu-pembantu saya bersama menteri-menteri para Menko bersama petugas-petugas yang tergabung dalam pemerintah Republik Indonesia sekarang kami sungguh-sungguh bertekad untuk bekerja keras untuk melayani rakyat [Tepuk tangan] Indonesia kami tidak pernah merasa bahwa ada hari libur bagi kami karena kami merasakan bahwa rakyat Indonesia harus mempunyai pemimpin-pemimpin yang bekerja keras yang berpikir keras yang ingin berbuat terbaik saya bertekad untuk memimpin suatu pemerintah yang bersih pemerintah yang akan menjaga kepentingan rakyat Indonesia tidak ada niat sedikit pun untuk kami mempersulit kehidupan rakyat Indonesia"
+  },
+  {
+   "t": 810.0,
+   "d": 155.0,
+   "text": "saya sungguh-sungguh bertekad bahwa sumpah yang saya ucapkan pada tanggal 20 Oktober di hadapan majelis perurusan rakyat di hadapan seluruh rakyat Indonesia dan yang lebih penting di hadapan Tuhan yang maha kuasa [Tepuk tangan] untuk menjalankan undang-undang dasar dan menjalankan segala undang-undang dan peraturan Republik Indonesia dengan sebaik-baiknya saudara-saudara sekalian kami mungkin baru menjabat 2 bulan 8 hari sampai hari ini mungkin 2 bulan 8 hari atau 9 hari 8 hari ya baru 2 bulan 8 hari saya mohon waktu Sebentar sabarlah berilah kesempatan kami untuk bekerja sungguh-sungguh [Tepuk tangan] tetapi saya sangat optimis Saya sudah melihat angka-angka semua yang sebenarnya luar biasa karunia yang diberikan oleh Mahakuasa kepada kita sekalian luar biasa tapi sebagaimana disampaikan tadi oleh monur Subianto nama sama [Tepuk tangan] Pak nama Subianto itu orangnya baik-baik begitu beliau sampaikan memang masih ada sisi-sisi"
+  },
+  {
+   "t": 965.0,
+   "d": 157.0,
+   "text": "gelap karena dalam hidup pelajaran semua agama saya kira ya dalam hidup ada orang yang berjalan di atas jalan yang baik di jalan kebaikan ya kan dan ada orang-orang yang memang memilih jalan yang tidak baik Jalan sisih gelap Iya kan ya inilah perjuangan kita inilah tantangan kita inilah manusia bahwa kita harus berani menghadapi mereka-mereka yang memilih jalan di atas jalan yang tidak benar [Tepuk tangan] Jalan menipu rakyat Jalan korupsi jalan nyelundup jalan manipulasi jalan enggak mau bayar [Tepuk tangan] pajak jalan sudah diberi segala macam oleh yang maha kuasa segala macam diberi fasilitas diberi kebaikan masih serakah ya ini tangan kita bersama dan kita akan atasi itu semua saya sangat optimis tapi kita juga realistis ya Presiden Republik Indonesia tidak punya tongkat semacam tongkat Nabi Musa tidak punya tidak punya tongkat Nabi Sulaiman tidak punya tapi percayalah kalau kita beritikad"
+  },
+  {
+   "t": 1122.0,
+   "d": 163.0,
+   "text": "baik kalau kita bertekad untuk berbuat baik kita yakin kita akan berhasil kita Yakin yang maka buasa Bama kita saya terusang aja Saya bangga dengan tim yang membantu [Tepuk tangan] saya di awal-awal mereka was-was bekerja untuk Prabowo Subianto katanya Orangnya galak kalau enggak benar ya galak [Tepuk tangan] G kalau mau ngerampok dari rakyat ya galak i tapi kita lumayan kita tadi berapa 2 bulan 8 hari saya lihat lumayan ada di sana sini yang goreng-goreng ini dan itu ya sudahlah itu udah biasa kita ya kan ya rakyat mengerti siapa yang benar dan siapa yang ngarang rakyat mengerti betul [Tepuk tangan] ini ini pidatonya sudah dibuat bagus-bagus [Tepuk tangan] ini mau saya bacakan atau [Tepuk tangan] tidak Bagaimana Mon saya bacakan atau tidak bagus banget nih ini pidatonya ini tapi saya kira saya lebih senang saya selalu ingin bicara dari hati saya saudara-sudara saudara-saudara dalam kesempatan ini saya mohon sekali"
+  },
+  {
+   "t": 1285.0,
+   "d": 147.0,
+   "text": "lagi seluruh rakyat Indonesia untuk bersabar sebentar saya mengerti saya mengerti sebenarnya saudara berat sekali untuk sabar saya juga berdoa kepada Tuhan Ya Tuhan ya kanilah saya kekuatan untuk memberi hasil untuk rakyat secepatnya tapi saya tidak mau membohongi rakyat kita ibarat menanam kita menanam tanaman kita harus tanam dengan baik siapkan lahannya cari pengairannya cari benih yang baik kita tanam dengan baik kita rawat kita Airi kita jaga Insyaallah panennya akan baik saudara-saudara dan kita akan menghadapi saya sudah berkali-kali saya sudah berkali-kali Ingatkan kita akan menghadapi tantangan si kortor itu si maling-maling [Tepuk tangan] itu tidak rela tidak rela melihat ada pemerintah Indonesia yang ingin membenahi diri ingin membersihkan diri dan kita akan digoyang akan dibikin isu ini isu itu ya kan [Tepuk tangan] ini karena acara Natal banyak tokoh-tokoh agama saya bicaranya harus"
+  },
+  {
+   "t": 1432.0,
+   "d": 152.0,
+   "text": "[Tepuk tangan] sopan apalagi banyak wartawan di sini intinya adalah Percayalah yang maha kuasa telah memberi kepada kita karunia yang luar biasa karena itu saya sebagai anak bangsa Indonesia saya yang disumpah di hadapan yang mahuasa saya bertekad dengan seluruh saya saya akan berjuang menjaga segala kekayaan Indonesia saya katakan kepada semua pihak yang mau membela rakyat yang mau menegakkan kebenaran yang mauak huk yang korupsi Ayo bersatu sama [Tepuk tangan] kita rakyat menuntut pemerintahan yang bersih Saya ulangi rakyat menuntut pemerintah yang bersih [Tepuk tangan] saya dipilih oleh rakyat Atas Nama Rakyat Indonesia Saya tegaskan semua aparat pemerintah Indonesia bersihkan dirimu [Tepuk tangan] masing-masing ada yangowor [Tepuk tangan] nya sudah tobat bagaimana tokoh-tokoh Agama Iya kan orang bertobat bertobat tapi kembalikan dong yang kau [Tepuk tangan] curi enak aja udah nyolong aku"
+  },
+  {
+   "t": 1584.0,
+   "d": 135.0,
+   "text": "bertobat yang kau kau yang kau yang kau curi kau kembalikan bukan saya maafkan koruptor tidak saya mau Sadarkan mereka yang sudah terlanjur dulu berbuat dosa Ya bertobatlah itu kan ajaran agama bertobatlah kasihan rakyat kembalikan uang itu sebelum sebelum kita cari hartamu Ke mana kita akan cari [Tepuk tangan] gu Baik saya kira pesen saya sudah cukup seperti itu ya Ini salah panitia ngundang saya sebetulnya itu udah dibikin pidato bagus-bagus Ya selamat Natal bagi kita sekalian sebagai saudara-saudara sekalian terima kasih Kapolri Terima kasih Panglima Teni kalian telah bekerja keras rakyat berlibur aparat tidak berlibur menjaga kalian semua itu Terima kasih wasalamualaikum warahmatullahi wabarakatuh Shalom salve om santiantiti om namo Buda salam kebajikan rahayu-rahayu Selamat Hari Natal selamat tahun baru semoga Tuhan yang maharawa Dan Kita kebaikan perdamaian di tahun yang akan datang Terima kasih selesai"
+  },
+  {
+   "t": 1719.0,
+   "d": 19.0,
+   "text": "[Tepuk tangan] [Musik] [Tepuk tangan] [Musik] [Tepuk tangan] [Musik]"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "sJ-b3ohKEs0",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/sJ-b3ohKEs0.json"
+ }
+}

@@ -1,0 +1,738 @@
+{
+ "id": "2026-08-14-berapi-api-sampaikan-rapbn-2027-di-paripurna-dpr",
+ "video_id": "sv1HMoSzRk4",
+ "date": "2026-08-14",
+ "title": "[FULL] Berapi-api! Pidato Presiden Prabowo Sampaikan RAPBN 2027 di Paripurna DPR",
+ "channel": "KOMPASTV",
+ "youtube_url": "https://www.youtube.com/watch?v=sv1HMoSzRk4",
+ "duration_s": 4808,
+ "duration_hms": "1:20:08",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 1482,
+ "token_count": 5554,
+ "unique_word_count": 1582,
+ "duplicate_count": 3,
+ "uploads": [
+  {
+   "video_id": "sv1HMoSzRk4",
+   "url": "https://www.youtube.com/watch?v=sv1HMoSzRk4",
+   "title": "[FULL] Berapi-api! Pidato Presiden Prabowo Sampaikan RAPBN 2027 di Paripurna DPR",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-08-14",
+   "duration_s": 4808,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 5554,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1482,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "38G2GvbhUKo",
+   "url": "https://www.youtube.com/watch?v=38G2GvbhUKo",
+   "title": "🔴LIVE | Pidato Presiden Prabowo Soal RAPBN 2027, Berapa Anggaran MBG?",
+   "channel": "Liputan6",
+   "upload_date": "2026-08-14",
+   "duration_s": 12698,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 17018,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 3962,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "mbg_topic_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "EZC8X_pgFlY",
+   "url": "https://www.youtube.com/watch?v=EZC8X_pgFlY",
+   "title": "[FULL] Pidato Presiden Prabowo-Puan Maharani soal RAPBN 2027 di Rapat Paripurna DPR",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-08-14",
+   "duration_s": 9512,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 11989,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 2960,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "SldYWZTaoXs",
+   "url": "https://www.youtube.com/watch?v=SldYWZTaoXs",
+   "title": "FULL Pidato Presiden Prabowo Sampaikan RAPBN dan Nota Keuangan 2027",
+   "channel": "CNN Indonesia",
+   "upload_date": "2026-08-14",
+   "duration_s": 4669,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 5485,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1416,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 9,
+  "ekonomi": 67,
+  "pendidikan": 29,
+  "kesehatan_dan_gizi": 54,
+  "tata_kelola": 58,
+  "pertahanan_dan_keamanan": 5,
+  "nasional_dan_identitas": 200,
+  "mbg": 1
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 1,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 1,
+  "present": true,
+  "evidence": [
+   {
+    "start": 496.759,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 17.8,
+   "d": 69.2,
+   "text": "Saudara Presiden dan Saudara Wakil Presiden, sidang dewan yang terhormat, yang kami muliakan seluruh rakyat Indonesia. Demikian pidato pembukaan masa persidangan pertama tahun sidang 2026-2027. Tibalah saatnya kita dengarkan bersama pidato kenegaraan Presiden Republik Indonesia dalam rangka penyampaian keterangan pemerintah atas rancangan Undang-Undang tentang Anggaran Pendapatan dan Belanja Negara tahun 2027 beserta nota keuangan dan dokumen pendukungnya. Saudara Presiden kami persilakan."
+  },
+  {
+   "t": 71.39,
+   "d": 203.26,
+   "text": "[tepuk tangan] He. Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Salam sejahtera bagi kita semua. Shalom. Om swastiastu. Namo buddhaya. Salam kebajikan. Rahayu-rahayu. Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka, para pimpinan lembaga negara, Ketua Majelis Permusyarawatan Rakyat Republik Indonesia, Saudara Ahmad Muzani beserta para wakil ketua, ketua dan anggota MPR RRI, Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani [tepuk tangan] beserta Wakil Ketua DPR Prof. Sufmi Dasko Ahmad, [tepuk tangan] Wakil Ketua DPR, Saudara Saan Mustofa, Wakil Ketua DPR Saudari Sari Yuliati, [tepuk tangan] Wakil Ketua DPR Saudara Cucun Ahmad Samsu Rizal dan seluruh anggota DPRRI. Yang saya hormati dan saya muliakan Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Baktiar Najamudin beserta para wakil ketua dan anggota DPD DPD RI"
+  },
+  {
+   "t": 198.32,
+   "d": 53.32,
+   "text": "yang hadir. Yang saya hormati Ketua Mahkamah Agung Prof. Sunarto. Yang saya hormati Ketua Mahkamah Konstitusi, Saudara Soehartoyo. Yang saya hormati Ketua Komisi Yudisial, Saudara Abdul Khair Ramadan. Yang saya hormati Ketua Badan Pemeriksa Keuangan Republik Indonesia, Saudari Isma Yatun."
+  },
+  {
+   "t": 225.0,
+   "d": 93.36,
+   "text": "Para menteri koordinator, para menteri, kepala badan, para penasihat khusus presiden, jaksa Agung, Kepala BIN Kapolri, Panglima TNI, dan seluruh kepala staf angkatan yang hadir, para wakil menteri, serta seluruh anggota kabinet merah putih. Yang saya hormati, yang terhormat para pimpinan partai politik Partai PDI Perjuangan diwakili oleh Saudari Puan Maharani, Ketua Umum Partai Golongan Karya, Saudara Bahlil Laha Dalia, [tepuk tangan] Partai Gerindra saya sendiri."
+  },
+  {
+   "t": 271.83,
+   "d": 47.84,
+   "text": "[tepuk tangan] Tapi hadir juga ketua harian Prof. Sumi Dasko Ahmad, [tepuk tangan] Ketua Umum Partai Amanat Nasional, Saudara Zulkifli Hasan, Ketua Umum Partai Demokrat, Saudara Agus Hariurti Yudoyono. Ketua Umum Partai Kebangkitan Bangsa, Saudara Abdul Muhaimin Iskandar."
+  },
+  {
+   "t": 303.27,
+   "d": 70.14,
+   "text": "[tepuk tangan] Presiden Partai Keadilan Sejahtera, Saudara Almuzamil Yusuf, Ketua Umum Partai Nasional Demokrat, Saudara Suryadarma Palo. [tepuk tangan] Yang saya hormati rekan-rekan pers media, para tamu undangan, dan saudara-saudaraku sebangsa dan setanah air, seluruh rakyat Indonesia yang saya cintai di mana pun Engkau berada."
+  },
+  {
+   "t": 341.2,
+   "d": 45.52,
+   "text": "Pertama-tama tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji dan syukur kehadirat Tuhan Maha Esa, Tuhan Maha Besar yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita memohon pertolongan."
+  },
+  {
+   "t": 363.56,
+   "d": 54.08,
+   "text": "Atas rahmat dan karunia-Nya hari ini kita dapat hadir pada sidang penyampaian keterangan pemerintah atas rancangan Undang-Undang tentang APBN tahun anggaran 202 beserta nota keuangannya dalam keadaan sehat, damai, dan dengan penuh semangat pengabdian dan cinta tanah air."
+  },
+  {
+   "t": 391.04,
+   "d": 67.24,
+   "text": "pimpinan dan anggota dewan yang saya hormati. Pertama saya menyampaikan penghargaan kepada pimpinan dan seluruh anggota DPR RI atas kerja sama, pengawasan, dan dukungannya dalam penyusunan serta pelaksanaan APBN. APBN bukan sekedar dokumen keuangan negara. APBN adalah alat perjuangan kita."
+  },
+  {
+   "t": 424.0,
+   "d": 111.0,
+   "text": "APBN adalah instrumen untuk melindungi rakyat, alat untuk memperkuat bangsa. Alat untuk mewujudkan cita-cita kemerdekaan dalam mencapai kehidupan yang lebih baik. Jika dahulu para pahlawan berjuang agar bangsa Indonesia memiliki negara, hari ini tugas kita bersama adalah memastikan bahwa negara kita berhasil, negara kita dapat memberi peningkatan kualitas hidup bagi rakyat kita, negara kita hadir dalam kehidupan setiap rakyat kita, negara kita hadir ketika petani membutuhkan pupuk, membutuhkan teknologi."
+  },
+  {
+   "t": 479.76,
+   "d": 68.3,
+   "text": "Negara hadir ketika nelayan membutuhkan kapal dan tempat penyimpan hasil tangkapannya. Negara hadir ketika buruh membutuhkan perlindungan dalam bekerja dan berkarya. Negara harus hadir ketika anak-anak membutuhkan makan bergizi dan sekolah yang baik. Negara harus hadir kalau keluarga membutuhkan rumah, air bersih, listrik, pekerjaan, layanan kesehatan, serta perlindungan pada masa sulit."
+  },
+  {
+   "t": 514.48,
+   "d": 67.89,
+   "text": "Kemerdekaan [berdehem] belum selesai hanya karena bendera kita, bendera merah putih telah berkibar. Kemerdekaan harus terasa di meja makan rakyat kita. Kemerdekaan harus terasa di ruang kelas anak-anak kita. [tepuk tangan] Kemerdekaan harus terasa di Puskesmas dan di rumah sakit dan di masa depan setiap keluarga Indonesia. Itulah makna APBN sebagai alat perjuangan."
+  },
+  {
+   "t": 547.28,
+   "d": 56.92,
+   "text": "Setiap rupiah yang dikumpulkan oleh negara harus kembali menjadi harapan yang nyata bagi rakyat kita. Saudara-saudara sebangsa dan setanah air, kita memasuki tahun 2026 dalam keadaan dunia yang tidak menentu, yang tidak mudah. Harga energi di seluruh dunia meningkat."
+  },
+  {
+   "t": 576.52,
+   "d": 75.88,
+   "text": "Karena perang suku bunga global tinggi dan bisa naik. Nilai tukar berbagai negara tertekan dan ketegangan geopolitik mengganggu perdagangan dunia. Namun di tengah tekanan dan ketidakpastian global tersebut, kita bersyukur perekonomian kita tetap berdiri tegak."
+  },
+  {
+   "t": 613.32,
+   "d": 79.16,
+   "text": "Ekonomi kita pada semester pertama tahun ini tumbuh tertinggi dalam 13 tahun terakhir. [tepuk tangan] Inflasi masih tetap terkendali, permintaan domestik tetap kuat. Yang lebih penting APBN kita bekerja optimal hingga akhir Juli 202. Pendapatan negara tumbuh tinggi 21,3% dibandingkan periode yang sama tahun sebelumnya."
+  },
+  {
+   "t": 655.24,
+   "d": 61.6,
+   "text": "Ini peningkatan yang cukup signifikan. Belanja negara tumbuh kuat 18,2%. Belanja kita arahkan untuk menjaga daya beli rakyat, memperkuat pelayanan publik, dan menggerakkan ekonomi. Walaupun belanja negara tumbuh, defisit APBN tetap terjaga hanya 0,91% terhadap produk domestik bruto."
+  },
+  {
+   "t": 689.12,
+   "d": 63.44,
+   "text": "Ini adalah bukti bahwa keberpihakan kepada rakyat dapat berjalan bersama dengan disiplin fiskal. [tepuk tangan] Kita tidak memilih antara pertumbuhan dan kehati-hatian. Kita memilih kedua-duanya. Kita tidak memilih antara membantu rakyat dan menjaga APBN. kita melakukan kedua-duanya."
+  },
+  {
+   "t": 721.32,
+   "d": 72.12,
+   "text": "Pimpinan dan anggota dewan yang saya hormati dan saya muliakan. Dunia melihat dan memantau sikap kita. Pada tanggal 13 Juli 2026, salah satu rating agency internasional yang keohor standard and force. mempertahankan peringkat kredit Indonesia triple BBB dengan outlook stabil."
+  },
+  {
+   "t": 756.8,
+   "d": 53.96,
+   "text": "Ini pengakuan dunia terhadap kokohnya perekonomian Indonesia dan Indonesia tetap berada pada kategori investment grade. SNP bahkan menilai Indonesia memiliki prospek pertumbuhan ekonomi yang kokoh, kebijakan makroekonomi yang secara umum berhati-hati, serta beban utang yang relatif prudent."
+  },
+  {
+   "t": 786.52,
+   "d": 61.12,
+   "text": "dan sustainable dibandingkan negara-negara setara. Ini bukan kata pemerintah, ini bukan kata saya, ini penilaian mereka terhadap kita. Mereka juga menilai bahwa upaya pemerintah memusatkan pengelolaan sumber daya alam kita dan menutup kebocoran di sektor sumber daya dan mineral."
+  },
+  {
+   "t": 816.12,
+   "d": 60.36,
+   "text": "dapat meningkatkan penerimaan negara serta divisa ekspor. Mereka secara khusus menilai positif peran dan antara dan potensi PT danantara Sumber Daya Indonesia DSI dalam memberantas praktik-praktik under invoicing dan transfer pricing yang sesungguhnya adalah praktik penipuan."
+  },
+  {
+   "t": 850.68,
+   "d": 95.77,
+   "text": "Itu dari pandangan pengamat-pengamat, pakar-pakar dari barat, dari Timur, lembaga rating Republik Rakyat Tiongkok, China Lian He rating justru memberi rating aaAa stable [tepuk tangan] yang merupakan level tertinggi Dalam penerbitan Panda Bons untuk Republik Indonesia, mereka menilai fundamental ekonomi Indonesia solid, kebijakan pemerintah kita efektif, ekonomi kita tahan terhadap guncangan eksternal dan inflasi kita terkendali."
+  },
+  {
+   "t": 900.56,
+   "d": 63.88,
+   "text": "Sidang yang terhormat, kita menerima penilaian-penilaian ini [mendengus] sebagai pengingat bahwa kredibilitas dibangun oleh konsistensi, kerja keras, dan kesungguhan. Dunia tidak hanya menilai apa yang kita umumkan. Dunia menilai apa yang benar-benar kita laksanakan."
+  },
+  {
+   "t": 937.0,
+   "d": 94.08,
+   "text": "Pimpinan dan anggota dewan yang saya hormati dan saya muliakan. Capaian semester pertama tahun 2026 adalah pijakan kita dalam menyusun RA PBN tahun 2027. Untuk itu arsitektur arsitektur RAPBN tahun 2027 didesain tetap ekspansif secara kolaboratif, [berdehem] terarah dan terukur untuk mendorong pertumbuhan ekonomi lebih tinggi dan sejahtera lebih cepat."
+  },
+  {
+   "t": 983.56,
+   "d": 68.32,
+   "text": "Sinergi kebijakan fiskal, moneter sektor keuangan dan danantara harus bekerja sinergis dan semakin solid. Transformasi ekonomi pada aktivitas ekonomi yang bernilai tambah tinggi harus terus diperkuat. Program-program unggulan harus berjalan efektif. Program perlindungan sosial harus andal."
+  },
+  {
+   "t": 1018.0,
+   "d": 58.2,
+   "text": "Pemberdayaan bagi UMKM harus terus digairahkan. Dukungan untuk petani, nelayan, guru, dan tenaga kerja yang rentan juga harus diperkuat. Harmonisasi kebijakan pusat dan daerah harus semakin baik dan semakin kokoh. Pemberantasan korupsi dan penegakan hukum harus terus ditegakkan tanpa pandang bulu."
+  },
+  {
+   "t": 1046.24,
+   "d": 75.56,
+   "text": "RBN tahun 2027 kita fokuskan untuk delapan program kerja prioritas nasional atau PKPN yaitu kedaulatan pangan, kemandirian energi dan air, pendidikan, kesehatan, hilirisasi dan industrialisasi, infrastruktur, perumahan dan ketahanan terhadap terhadap bencana, penguatan ekonomi kerakyatan dan pembangunan desa, serta penurunan kemiskinan."
+  },
+  {
+   "t": 1085.44,
+   "d": 55.72,
+   "text": "Delapan prioritas tersebut didukung oleh penguatan pertahanan dan keamanan, penegakan hukum, tata kelola pemerintahan, percepatan digitalisasi, dan diplomasi ekonomi. Untuk menjalankan seluruh agenda tersebut, belanja negara tahun 202 direncanakan sebesar R.0097,2 triliun."
+  },
+  {
+   "t": 1114.52,
+   "d": 82.24,
+   "text": "naik dari Rp3.842,7 triliun di APBN 2026. Pendapatan negara diperkirakan mencapai Rp3.426 triliun naik dari Rp3.153,6 Rp13,6 triliun di APBN 2026. Pembiayaan direncanakan sebesar Rp671,2 triliun dengan defisit sebesar R,40% terhadap produk domestik bruto. Dan ini akan kita usahakan untuk kita tekan lebih kecil lagi."
+  },
+  {
+   "t": 1158.72,
+   "d": 83.84,
+   "text": "Kita memahami bahwa defisit yang ideal adalah sekecil-kecilnya. Bahkan cita-cita kita adalah anggaran yang berimbang. Angka defisit ini turun dari rencana pembiayaan di tahun APBN tahun 2026 yaitu 689,1 triliun dengan defisit 2,68% produk domestik bruto. Pertumbuhan ekonomi tahun 2027 ditargetkan mencapai 6%."
+  },
+  {
+   "t": 1199.12,
+   "d": 115.12,
+   "text": "lebih tinggi dari target APBN 5 APBN 2026 sebesar 5,4%. Inflasi akan kita jaga pada kisaran 2,5%. Suku bunga SBN 10 tahun diperkirakan 6,9%. Nilai tukar rupiah kita berada pada kisaran 17.000. Rp500 per 1 Amerika Serikat. Harga minyak mentah Indonesia diperkirakan 75 Amerika Serikat per barel. Lifting minyak kita targetkan 610.000 barel per hari dan lifting gas 954.000 barel setara minyak per hari dengan pertumbuhan yang lebih kuat dan APBN yang efektif."
+  },
+  {
+   "t": 1262.2,
+   "d": 101.34,
+   "text": "Kemiskinan di tahun 2027 ditargetkan turun ke rentang 6 kom0 sampai 6,5% dari target APBN 2026 6,5 sampai 7,5%. Tingkat pengangguran terbuka tahun 2027 ditargetkan turun ke rentang 4,30 sampai 4,8 7%. Turun dari 4,44 sampai 4,96% di tahun 2026. [mendengus] Mohon izin [batuk] [berdehem] rasio gini kita targetkan membaik menjadi kosong."
+  },
+  {
+   "t": 1335.48,
+   "d": 78.68,
+   "text": "362 sampai 0,367 dari target tahun ini 03 77 sampai 0380 dan indeks modal manusia meningkat menjadi 0,575. Angka-angka tersebut akan kita jaga dengan reformasi fiskal. yang holistik dan konsisten. Pendapatan negara kita dorong lebih optimal. Kebocoran penerimaan harus diminimalisasi."
+  },
+  {
+   "t": 1382.44,
+   "d": 58.24,
+   "text": "Efisiensi belanja harus terus kita lanjutkan. Perlindungan sosial didorong semakin tepat sasaran serta pembiayaan yang inovatif dan berkelanjutan terus dikembangkan. Saudara-saudara sekalian, [berdehem] angka-angka APBN kita sangat bergantung dengan angka-angka makroekonomi kita."
+  },
+  {
+   "t": 1416.28,
+   "d": 56.44,
+   "text": "Angka-angka makroekonomi kita sangat bergantung dari kualitas data yang dikumpulkan oleh Badan Pusat Statistik kita. Saya mendapat laporan sudah lebih dari 10 tahun kita belum melaksanakan melakukan rebasing atau pembaharuan cara kita menghitung berapa sebenarnya aktivitas ekonomi yang terjadi di negara kita."
+  },
+  {
+   "t": 1444.04,
+   "d": 100.96,
+   "text": "Oleh karena itu, sensus ekonomi yang sekarang dijalankan sampai akhir bulan Agustus 2026 yang dilakukan oleh 251.000 petugas sensus bekerja di seluruh desa-desa kita perlu kita pastikan berhasil. Saya minta agar saudara-saudara sekalian, wakil-wakil rakyat dan seluruh rakyat Indonesia yang sedengar yang sedang mendengarkan pidato saya saat ini. Saya minta agar Saudara-saudara tidak hanya mengisi formulir sensus dengan sejujur-jujurnya, tapi juga mengajak semua orang untuk ikut mengisi dengan sejujur-jujurnya."
+  },
+  {
+   "t": 1496.64,
+   "d": 71.32,
+   "text": "Data yang dikumpulkan BPS dari sensus ekonomi tidak akan digunakan untuk mengejar kekayaan atau pendapatan pribadi yang dilaporkan. Data dari sensus ekonomi akan digunakan untuk kita bisa lebih tepat menyusun kebijakan dan anggaran. Sebagai contoh di RBN 2027, kita mengasumsikan besar PDB kita mencapai Rp27.987 triliun."
+  },
+  {
+   "t": 1531.76,
+   "d": 92.64,
+   "text": "Jika pembiayaan sebesar Rp671,2 triliun, maka defisit APBN sebesar 2,40% terhadap PDB. Tapi jika ternyata PDB kita lebih besar yang banyak lembaga internasional mengatakan seperti itu, maka defisit kita akan jauh lebih kecil. Selain itu, pembaharuan data tunggal sosial dan ekonomi nasional atau daten juga akan kita lakukan dari hasil sensus ekonomi tahun 2026 ini. Karena itu sensus ekonomi ini sangat penting."
+  },
+  {
+   "t": 1578.56,
+   "d": 66.28,
+   "text": "Saudara-saudara sekalian, disiplin fiskal tidak berhenti ketika anggaran disahkan. Disiplin fiskal harus hadir sampai pada eksekusi setiap rupiah yang dibelanjakan. Selama ini terlalu banyak kementerian, lembaga, dan pemerintah daerah membeli barang yang sama, tapi membelinya sendiri-sendiri dengan harga yang berbeda-beda."
+  },
+  {
+   "t": 1611.56,
+   "d": 93.52,
+   "text": "Spesifikasinya sama, tapi karena prosesnya berulang dan mungkin berbeda-beda, jumlahnya terpecah, daya tawar negara menjadi lemah. Kita harus hentikan APBN digunakan membeli barang yang sama tanpa koordinasi. Seolah-olah seperti ribuan pembeli yang tidak saling berbicara. Padahal kita semua adalah bagian dari Negara Kesatuan Republik Indonesia. kita apakah pemerintah pusat, pemerintah daerah atau pemerintah kabupaten kota, kita adalah pemerintah Republik Indonesia."
+  },
+  {
+   "t": 1658.0,
+   "d": 105.72,
+   "text": "Data Lembaga Kebijakan Pengadaan Barang dan Jasa Pemerintah LKPP menunjukkan bahwa konsolidasi pengadaan pemerintah daerah saat ini telah menghasilkan efisiensi 20,86% pada 2025 dan 25,43% diperkirakan pada 2026. jika jika dilaksanakan secara luas [mendengus] dan disiplin konsolidasi penggunaan katalog elektronik, perencanaan berbasis data, serta praktik pengadaan terbaik dapat menghasilkan efisiensi sampai 30% dari belanja pengadaan Rp1.200 triliun."
+  },
+  {
+   "t": 1710.96,
+   "d": 92.16,
+   "text": "Artinya efisiensi dalam 1 tahun bisa mencapai Rp360 triliun. Kita bisa bayangkan 20 miliar dolar ini bukan angka yang kecil. Kita bisa berbuat sangat banyak dengan 360 triliun. Dan ini adalah di tangan kita, Saudara-saudara. Sebagai contoh, tahun lalu layar Pinter Interaktif atau IFP yang selama ini dibeli oleh pemda-pemda secara terpisah di kisaran harga Rp150 juta per unit."
+  },
+  {
+   "t": 1758.0,
+   "d": 67.84,
+   "text": "Setelah pembelinya kita konsolidasikan di Kementerian Dikdasmen, kita dapat membeli dengan harga Rp26 juta per unit. Ini penghematan hampir enam kali. Enam kali penghematan. Ini real 150 juta kita beli dengan harga R6 juta. Termasuk ongkos kirim dan [berdehem] ongkos pasang sampai ke tempat terpencil."
+  },
+  {
+   "t": 1798.2,
+   "d": 108.49,
+   "text": "terluar dan tertinggal, Saudara-saudara sekalian. Karena itu saya melaporkan di sini pemerintah akan segera mengkonsolidasikan seluruh pengadaan barang dan jasa yang serupa. Kita akan tingkatkan kelembagaan LKPP menjadi badan pengadaan pemerintah. Dan untuk itu kita mohon dukungan Dewan Perwakilan Rakyat yang saya hormati. [tepuk tangan] Tidak masuk akal berbagai badan, berbagai KL, berbagai pemerintah daerah membeli barang yang sama dengan harga yang berbeda-beda, bahkan harga yang lebih tinggi dari yang bisa kita capai. Kebutuhan berbagai kementerian, lembaga, dan pemerintah daerah akan dihimpun."
+  },
+  {
+   "t": 1857.6,
+   "d": 68.16,
+   "text": "Spesifikasi akan distandardisasi. Volume akan disatukan. Proses pengadangan pemerintah akan dilakukan secara digital sehingga supaya semakin transparan, kompetitif, dan akuntabel. Jika barangnya sama, kita beli bersama. Jika kebutuhannya dapat direncanakan, kita rencanakan bersama. Jika negara dapat memperoleh harga dan mutu yang lebih baik dengan bekerja sama, tidak ada alasan untuk kita tidak lakukan itu."
+  },
+  {
+   "t": 1894.56,
+   "d": 79.96,
+   "text": "Tidak ada alasan untuk masing-masing institusi tetap melakukan pengadaan sendiri-sendiri. Setiap rupiah yang berhasil kita hemat adalah ruang fiskal tambahan yang dapat kita gunakan untuk rakyat kita. ruang kelas sekolah yang bisa kita perbaiki, puskesmas yang kita bisa renovasi, rumah sakit dan alat-alat kesehatan yang dapat kita berikan kepada rakyat kita di semua kota, di semua kecamatan dan ujungnya kehidupan rakyat yang lebih baik."
+  },
+  {
+   "t": 1934.48,
+   "d": 52.81,
+   "text": "Pimpinan dan anggota dewan yang saya hormati dan saya muliakan. Hari ini saya akan menggunakan kesempatan berbicara di ruang terhormat ini untuk menyampaikan beberapa langkah besar yang akan menjadi tahap berikutnya dari transformasi Indonesia. Pertama, kita akan memperbaiki seluruh Puskesmas di Indonesia."
+  },
+  {
+   "t": 1961.09,
+   "d": 77.07,
+   "text": "[tepuk tangan] Ternyata Puskesmas kita sudah puluhan tahun tidak diperbaiki. Puskesmas harus menjadi benteng pertama yang menjaga kesehatan bangsa. Puskesmas adalah pintu pertama negara ketika rakyat sakit. Di sanalah ibu memeriksa kandungan. Bayi mendapat imunisasi, anak diperiksa pertumbuhannya, penyakit dideteksi sebelum menjadi lebih berat."
+  },
+  {
+   "t": 1999.04,
+   "d": 66.25,
+   "text": "Mulai tahun 2027, pemerintah akan merenovasi 10.000 Puskesmas di 7.280 kecamatan di seluruh Indonesia. Setiap Puskesmas akan memperoleh anggaran perbaikan sekitar Rp4 miliar. [tepuk tangan] Tentunya daerah yang lebih terpencil, daerah yang lebih terluar dan tertinggal harus mendapat lebih."
+  },
+  {
+   "t": 2032.08,
+   "d": 74.32,
+   "text": "Selain itu, kita juga akan merenovasi dan membangun lebih baik lagi 514 laboratorium kesehatan masyarakat atau lapesmas di 514 kabupaten dan kota di seluruh Indonesia. Program renovasi Puskesmas dan Lapkesmas ini harus selesai paling lambat pada tahun 2030. Rakyat tidak boleh menempuh perjalanan jauh hanya untuk memperoleh pelayanan kesehatan dasar."
+  },
+  {
+   "t": 2070.04,
+   "d": 63.3,
+   "text": "Negara harus hadir sedekat mungkin dengan tempat rakyat hidup. Untuk itu kita juga akan membuat ambulans udara dengan helikopter dengan pesawat kecil yang bisa mendarat di lapangan-lapangan rumput, di lapangan-lapangan pasir, bisa mendarat di pinggir sungai supaya tidak ada rakyat kita yang tidak bisa dievakuasi kalau dia sakit."
+  },
+  {
+   "t": 2101.92,
+   "d": 94.82,
+   "text": "[tepuk tangan] Saya mendapat laporan banyak ibu-ibu yang meninggal karena harus menempuh jalan 7 jam sampai 9 jam pada saat melahirkan. Pada saat sudah waktu mau pecah, harus 9 jam karena tidak ada jalan yang baik, karena jembatan tidak bagus. Akhirnya banyak ibu-ibu meninggal di daerah-daerah yang tidak jauh dari ibu kota."
+  },
+  {
+   "t": 2151.56,
+   "d": 74.25,
+   "text": "Untuk itu kita harus mencari terobosan inovatif. Salah satu jalan adalah ambulans udara. Bahkan nanti juga tim dokter terbang. [tepuk tangan] Kalau perlu dokter yang terbang ke tempat rakyat sakit keras atau menghadapi bencana. Saudara kalian. Kedua, kita akan membangun dan merevitalisasi 441 Rumah Sakit Umum Daerah."
+  },
+  {
+   "t": 2200.36,
+   "d": 65.38,
+   "text": "Setiap dari 514 kabupaten dan kota, kita harus memiliki rumah sakit yang canggih yang bisa menyelamatkan rakyat secepat mungkin. Langkah awal kita, kita telah membangun 66 rumah sakit di daerah tertinggal, terdepan, dan terluar. Dan hari ini saya melaporkan dari 66 rumah sakit tersebut 22 sudah operasional."
+  },
+  {
+   "t": 2232.92,
+   "d": 74.5,
+   "text": "[tepuk tangan] Kita telah membawa alat pemeriksa jantung, city scan, mamografi, USG, dan layanan modern ke wilayah yang sebelumnya harus merujuk pasien ke tempat-tempat yang sangat jauh. Rencana kita juga di setiap gerai koperasi Merah Putih akan ada klinik di mana rakyat bisa dapat kesehatan layanan melalui jarak jauh."
+  },
+  {
+   "t": 2275.48,
+   "d": 75.12,
+   "text": "Saudara-saudara, tahap berikutnya jauh lebih besar. Pemerintah akan membangun revitalisasi 440 Rumah Sakit Umum Daerah agar setiap kabupaten dan setiap kota memiliki rumah sakit yang baik. RSUD tersebut akan kita perkuat terutama untuk menangani penyakit-penyakit penyebab kematian tertinggi, kanker, jantung, stroke, [berdehem] ginjal, serta untuk pelayanan kesehatan ibu dan anak."
+  },
+  {
+   "t": 2312.84,
+   "d": 73.44,
+   "text": "Tidak boleh lagi seorang ibu kehilangan nyawa karena rumah sakit terlalu jauh. Tidak boleh lagi seorang ayah menjual seluruh hartanya karena harus berobat ke kota besar. Untuk memperkuat upaya ini, sebagaimana saya telah melaporkan kita harus menghadapi dan menyelesaikan masalah kekurangan dokter umum dan dokter spesialis kita."
+  },
+  {
+   "t": 2348.44,
+   "d": 100.24,
+   "text": "Kita masih butuh tambahan 84.781 dokter umum. Kemudian 127.580 dokter gigi. Saudara-saudara sekalian, 481 kabupaten kota butuh tambahan 55.712 dokter spesialis. Karena itu kita telah membuka 9 fakultas kedokteran baru serta 170 program studi spesialis dan subsesialis baik yang berbasis perguruan tinggi maupun berbasis rumah sakit. Dan ini kita akan upayakan lebih banyak lagi, Saudara-saudara sekalian."
+  },
+  {
+   "t": 2401.72,
+   "d": 65.16,
+   "text": "Bila perlu kita sedang memikirkan, kita bisa mengundang dokter-dokter dari negara lain untuk praktik di sini untuk waktu-waktu yang terbatas. [tepuk tangan] Karena kalau kita menunggu lulusnya 187.000 Ibu dokter gigi mungkin kita harus nunggu empat presiden sesudah saya."
+  },
+  {
+   "t": 2434.8,
+   "d": 66.46,
+   "text": "Saudara-saudara sekalian, rakyat kita menuntut berharap pelayanan kesehatan secepat mungkin. Kita tidak boleh berpikir normatif. Kita harus berani berpikir inovatif. [tepuk tangan] Ketiga, kita akan menyelesaikan renovasi seluruh sekolah yang membutuhkan perbaikan paling lambat tahun 202."
+  },
+  {
+   "t": 2473.31,
+   "d": 93.93,
+   "text": "[tepuk tangan] Bagi saya, negara wajib memastikan setiap anak sekolah belajar di sekolah yang aman dan bermartabat. Sekolah adalah tempat anak-anak Indonesia membangun masa depan mereka. Tetapi kita mengerti bahwa masih banyak anak-anak kita yang belajar dengan atap yang bocor, mungkin juga atap yang runtuh, dinding yang retak, toilet yang rusak, mungkin juga WC yang tidak ada, ruang kelas yang tidak aman. Keadaan ini tidak boleh kita wariskan."
+  },
+  {
+   "t": 2522.44,
+   "d": 82.6,
+   "text": "Program renovasi seluruh sekolah dan satuan pendidikan yang membutuhkan perbaikan akan terus dipercepat pada tahun 2007 dan 2008 dan harus selesai paling lambat tahun 2029. Ini adalah program renovasi sekolah terbesar dalam sejarah kita. Saudara-saudara sekalian, [tepuk tangan] kita harus berani memasang target yang tinggi. Tidak boleh ada lagi cerita sekolah roboh. Tidak boleh lagi ada ruang kelas rusak yang dibiarkan rusak bertahun-tahun."
+  },
+  {
+   "t": 2563.76,
+   "d": 69.96,
+   "text": "Semua sekolah harus berada dalam kondisi baik, aman, bersih, layak untuk belajar. Semua sekolah harus punya kamar kecil yang layak. Semua ruang kelas akan kita lengkapi dengan layar pintar interaktif atau IFP. Di akhir bulan Desember 2026 kita perjuangkan semua sekolah akan menerima tambahan tiga layar untuk tiap sekolah."
+  },
+  {
+   "t": 2601.69,
+   "d": 52.22,
+   "text": "[tepuk tangan] akhir tahun ini. Kalau tahun yang lalu baru terima satu, akhir tahun ini semua sekolah di Indonesia akan punya empat ruangan yang memiliki IFP. IFP ini akan memudahkan guru dan murid untuk mengajar dan belajar. Kita juga akan mengadakan long distance learning."
+  },
+  {
+   "t": 2630.44,
+   "d": 61.8,
+   "text": "pembelajaran lewat siaran jarak jauh. Guru-guru terbaik akan bisa mengajar dari studio guru di Jakarta atau di ibu kota ibu kota provinsi. Semua kelas di seluruh Indonesia akan punya akses [mendengus] kepada pendidikan yang terbaik. Kita harus melakukan lompatan di bidang pendidikan."
+  },
+  {
+   "t": 2664.36,
+   "d": 72.04,
+   "text": "Pemerintah juga akan memperjuangkan seluruh sekolah negeri tidak dipungut bayaran. Ini adalah cita-cita pendiri-pendiri bangsa kita. Pendidikan adalah hak semua anak Indonesia. Bagi mereka yang punya kemampuan silakan ke sekolah-sekolah swasta yang hebat. Tapi untuk pemerintah kita harus perjuangkan anak-anak kita bisa sekolah dengan gratis."
+  },
+  {
+   "t": 2701.6,
+   "d": 99.84,
+   "text": "Keempat, hari ini saya mengumumkan tahap lanjutan kebijakan ekspor satu pintu kita. Kita telah membahas bersama OJK bahwa kita ingin segera mendirikan bursa mineral dan komoditas strategis. Selama puluhan tahun Indonesia menjadi salah satu produsen terbesar untuk komunitas-komunitas penting dunia. Kelapa sawit, nikel, timah, batubara, emas, kopi, karet, dan berapa belas komunitas lainnya."
+  },
+  {
+   "t": 2758.44,
+   "d": 58.39,
+   "text": "Tetapi terlalu sering harga kekayaan kita yang keluar dari bumi dan keringat rakyat Indonesia justru harganya ditentukan di luar negeri, di negara lain, di bursa komunitas negara lain. Mereka yang tidak punya komoditas ini, masa menentukan berapa harga komoditas itu. Ini tidak masuk akal."
+  },
+  {
+   "t": 2787.71,
+   "d": 106.39,
+   "text": "[tepuk tangan] Saya tidak mengerti di mana diajarkan ilmu ekonomi semacam ini. Kitanya punya barang, orang lain menentukan harganya. Saya bertanya kepada wakil-wakil rakyat, mau kita teruskan situasi seperti ini? Lawan kita lawan. [bersorak] Emak-emak susah payah membatik, orang lain yang menentukan harga batik yang mau dijual. Luar biasa. Keadaan ini harus berani kita ubah. Saya minta dukungan Dewan Perwakilan Rakyat untuk kita rumah ini. [bersorak] [tepuk tangan] [bersorak] [tepuk tangan] Dan dan saya katakan di sini, saya yakin saudara-saudara mendukung saya. Kalau mereka tidak mau bayar harga yang kita pasang, enggak usah beli."
+  },
+  {
+   "t": 2866.31,
+   "d": 57.74,
+   "text": "[bersorak] [tepuk tangan] Lebih baik komoditas itu, nikel itu, timah itu, emas itu, semuanya biar di tanah untuk anak cucu kita. [bersorak] [tepuk tangan] Batu bara kita, gas kita, minyak kita biar di tanah [bersorak] [tepuk tangan] kopi kita biar kita minum sendiri."
+  },
+  {
+   "t": 2898.41,
+   "d": 76.06,
+   "text": "[tepuk tangan] Tapi tentunya kita juga mengerti mekanisme pasar. Kalau harga terlalu tinggi itu juga enggak masuk akal. Tapi yang penting bursanya ada di bumi Republik Indonesia. [tepuk tangan] Kita akan segera operasionalkan bursa mineral dan komoditas strategis di bawah pengawasan otoritas. jasa keuangan. Rencana kita apabila OJK bekerja dengan baik dan saya yakin OJK bekerja dengan baik."
+  },
+  {
+   "t": 2953.52,
+   "d": 64.06,
+   "text": "Ini emak-emak yang menguasai ekonomi kita sekarang ini. Rencana kita dengan dukungan DPR kita rencanakan 1 Januari 202 kita akan memiliki bursa komoditas sendiri. [tepuk tangan] Kita targetkan ketentuan penyelenggaraan bursa mineral dan komunitas strategis segera mohon dibahas oleh DPR RI dan mohon diterbitkan dalam waktu yang sesingkat-singkatnya."
+  },
+  {
+   "t": 2992.68,
+   "d": 51.31,
+   "text": "Saya terima kasih. Sekarang sudah ada kerja sama yang sangat sinergis antara pemerintah dan DPR. [tepuk tangan] Ini tidak berarti bahwa tidak ada demokrasi. Kita harus ada demokrasi. Kita harus diawasi. Kita harus dikritik. Tapi kita harus kerja cepat untuk rakyat kita."
+  },
+  {
+   "t": 3021.2,
+   "d": 48.46,
+   "text": "Dan ini saya kira sudah dihasilkan oleh DPR RI sekarang ini. Saya terima kasih [tepuk tangan] dan terima kasih khusus sekali lagi untuk PDIP. [bersorak] [tepuk tangan] [tepuk tangan][bersorak] Sebenarnya ini bukan Prabowo Nomex, ini marhain. [bersorak] [tepuk tangan] Iya iya iya betul."
+  },
+  {
+   "t": 3067.12,
+   "d": 80.28,
+   "text": "PDP susah tidak mendukung ini soalnya. Saudara-saudara, dengan ini kita akan membangun Indonesia Reference Price, harga referensi Indonesia untuk komoditas-komunitas utama ekspor Indonesia. Kita ingin membangun pasar yang dalam, transparan, liquid, dan dipercaya dunia. produsen, petani, eksportir, pembeli, dan investor akan bertemu dalam satu sistem yang diawasi dengan data transaksi yang lebih terang dan ruang penipuan yang semakin sempit."
+  },
+  {
+   "t": 3114.96,
+   "d": 47.92,
+   "text": "Dalam upaya membangun burusan yang kredibel, otoritas Jasa Keuangan juga telah melakukan reformasi terbesar dalam sejarah bursa saham kita. Mereka yang melanggar aturan bursa diberi sanksi. Kita juga akan lanjutkan reformasi pasar modal kita dengan de mutualisasi pasar modal."
+  },
+  {
+   "t": 3139.44,
+   "d": 76.36,
+   "text": "Demutualisasi akan membawa pasaran modal Indonesia ke standar dunia dan menjadikan pasaran modal Indonesia menjadi salah satu yang terbesar di dunia. pasar modal yang bekerja dengan baik. Ini adalah masalah keadilan. Soal kesempatan perusahaan rintisan startup pengusaha-pengusaha kita bisa naik kelas, menambah ekuitas, menambah modal agar bisa memperbesar skala dan dampak usahanya."
+  },
+  {
+   "t": 3176.76,
+   "d": 77.42,
+   "text": "minta izin [batuk] dengan bursa mineral dan komoditas strategis dan bursa modal yang credibel. Indonesia akan berhenti menjadi tempat negeri, tempat komunitas digali, tetapi harga dan keuntungannya ditentukan oleh negara lain. Kita bukan hanya ingin menjadi penghasil komunitas dunia, kita harus ikut menentukan harga komunitas dunia."
+  },
+  {
+   "t": 3232.8,
+   "d": 60.72,
+   "text": "Kita ingin jadi Indonesia tempat komunitas diperdagangkan. Kita juga akan mempercepat optimalisasi aset badan usaha milik negara kita. BUMN kita menguasai aset yang sangat besar. Sebagian bekerja dengan baik, sebagian belum menghasilkan manfaat dibandingkan dengan nilainya."
+  },
+  {
+   "t": 3263.28,
+   "d": 61.08,
+   "text": "Sebagaimana saya telah laporkan tadi pagi di majelis yang terhormat ini, kita telah menutup 290 BUMN yang tidak produktif dan tidak memberi nilai tambah untuk bangsa kita. kita akan teruskan upaya optimalisasi BUMN hingga kita akan punya di akhir tahun ini maksimal 300 BUMN yang produktif."
+  },
+  {
+   "t": 3293.2,
+   "d": 74.72,
+   "text": "Kalau bisa lebih ramping, lebih baik. Selain itu, aset berupa tanah, gedung, jaringan, kawasan, dan fasilitas yang tidak dikelola optimal oleh BUMN. tidak boleh dibiarkan tidur. Sementara rakyat membutuhkan pekerjaan dan perekonomian membutuhkan investasi. Pemerintah akan mempermudah kerja sama pemanfaatan aset-aset BUMN yang belum optimal dioperasikan."
+  },
+  {
+   "t": 3330.16,
+   "d": 53.32,
+   "text": "Akan kita ajak pihak swasta melalui proses yang terbuka, kompetitif, dan akuntable. serta menjaga kepemilikan strategis negara. Kita akan membuka supaya aset-aset yang tidak produktif dikerjakan oleh BUMN bisa dikerjakan oleh pihak swasta di seluruh Indonesia."
+  },
+  {
+   "t": 3357.88,
+   "d": 58.16,
+   "text": "Kita harus belajar dan berani belajar dari negara lain. India telah menjalankan apa yang mereka sebut National Monetization Pipeline. Swasta diberi ruang mengoperasikan aset publik yang telah terbangun. Kepemilikan tetap berada pada negara. modal yang diperoleh diputar kembali untuk membangun infrastruktur baru."
+  },
+  {
+   "t": 3386.96,
+   "d": 102.76,
+   "text": "Sebagai contoh, kalau ada bandara, ada airport yang kurang maksimal dioperasikan, kita bisa membuka peluang untuk swasta mengoperasikan itu. tentunya kepemilikan tetap oleh negara, tapi kalau mereka bisa menjalankan dengan lebih efisien, lebih kreatif, lebih inovatif, menghasilkan manfaat, kenapa tidak, Saudara-saudara? Sebagai contoh, sekarang ada integrasi antara penerbangan penerbagan perusahaan penerbangan, hotel, dan bandara."
+  },
+  {
+   "t": 3440.52,
+   "d": 85.6,
+   "text": "Kalau ini dioperasikan secara integratif, ini punya nilai tambah yang potensial bisa menambah income bagi kita, Saudara-saudara. Itu akan kita rintis. Selanjutnya kita telah mulai dan akan membangun 100.000 MW atau 100 GW energi dari matahari, energi surya. Pemerintah akan mempercepat penutupan pembangkit listrik tenaga diesel dan menggantinya dengan pembangkit listrik tenaga surya."
+  },
+  {
+   "t": 3485.12,
+   "d": 59.12,
+   "text": "Tahun ini kita akan bangun 30 GW pembangkit listrik tenaga surya dan segera menghentikan 13 GW pembangkit listrik tenaga diesel. Kita mendapat anugerah dari Tuhan yang Maha Kuasa sinar matahari yang hampir sepanjang tahun. Tidak masuk akal jika pulau-pulau yang terpencil kita harus menunggu kapal membawa BBM solar untuk memperoleh listrik."
+  },
+  {
+   "t": 3515.32,
+   "d": 93.68,
+   "text": "ongkos ekonominya terlalu tidak efisien. Dengan PLTS kita juga bisa membangun kemandirian energi kita, Saudara-saudara. Idealnya setiap desa bisa memiliki PLTS 1 MEW. Ini ideal. Kalau desa itu mau siapkan lahan, kita bisa yakinkan bahwa mereka bisa dapat PLTS 1 GW atau saya ulangi 1 MW satu desa."
+  },
+  {
+   "t": 3562.0,
+   "d": 84.52,
+   "text": "Saudara-saudara sekalian, Menko Perekonomian telah menghitung dengan PLTs 100 GW negara akan menghemat setidaknya Rp73,9 triliun setiap tahun dari penurunan biaya pokok produksi listrik kita. Belum lagi kalau kita tidak impor BBM dari luar negeri lagi dengan 100 GW kebutuhan impor kita akan jauh berkurang dan kita bisa menghemat sangat banyak divisa."
+  },
+  {
+   "t": 3604.0,
+   "d": 85.32,
+   "text": "Ketujuh hari ini saya umumkan rencana lokasi Indonesia Financial Center atau Pusat Finansial Internasional Indonesia di singkat PFI. Kita telah tentukan lokasi sementara PFEI di Jakarta dan begitu bisa kita buka juga PFI di Bali dan mungkin ada kawasan lain di bagian lain dari Republik Indonesia yang menarik bagi dana-dana besar dari luar negeri."
+  },
+  {
+   "t": 3646.36,
+   "d": 78.68,
+   "text": "DFI ini akan menjadi wajah baru pusat-pusat keuangan kita. Jakarta dan mungkin nanti Bali sebagai pusat keuangan investasi teknologi finansial, arbitrase dan penyelesaian seketa komersial berstandar dunia. Kelembagaan PFI terdiri dari Dewan Pertimbangan, Dewan PFI, lembaga pengelola PFI, lembaga pengawas jasa keuangan PFI, Pengadilan PFI yang di bawah Mahkamah Agung dan Lembaga Arbitrase PFI."
+  },
+  {
+   "t": 3686.12,
+   "d": 60.38,
+   "text": "Bahasa Inggris dapat digunakan sebagai bahasa kontrak. Prinsip hukum komersial dan standar internasional dapat kita adopsi. [berdehem] Hakim adok dapat berasal dari talenta hukum terbaik Indonesia dan dunia. Kegiatan dapat mencakup perbankan, asuransi, pasar modal, derivatif, bursa karbon."
+  },
+  {
+   "t": 3726.28,
+   "d": 55.92,
+   "text": "Bulian, Fintech, keuangan syariah, family office, Treasury Center, dan Management Investasi. PFI menyediakan kepastian transfer dan repatriasi modal secara laba, fasilitas perbacakan perpajakan untuk kegiatan yang memenuhi syarat golden visa, dan pelayanan perizinan yang kompetitif."
+  },
+  {
+   "t": 3757.04,
+   "d": 66.36,
+   "text": "Pada saat yang sama, aturan anti pencucian uang, transparansi pemilik manfaat, kewajiban perpajakan dan pertukaran informasi internasional tetap kita tegakkan. Kita membangun Pfi agar modal dunia menempukan menemukan kepastian di Indonesia. Talenta terbaik bekerja di Indonesia dan transaksi atas kekayaan Indonesia diselesaikan di Indonesia."
+  },
+  {
+   "t": 3790.4,
+   "d": 76.64,
+   "text": "Untuk awalnya Jakarta dan Bali harus menjadi tempat modal dunia dihimpun dan masa depan Indonesia dibiayai. Selanjutnya hari ini saya ingin masyarakat mengenal dan antara development management fund atau DDMF dan antara adalah dana kedaulatan kita dan antara harus menjadi instrumen pembangun kapasitas bangsa untuk puluhan tahun mendatang."
+  },
+  {
+   "t": 3830.96,
+   "d": 90.6,
+   "text": "DDMF adalah instrumen yang menyiapkan, mengembangkan, dan membiayai proyek strategis jangka panjang yang penting bagi Indonesia, tapi belum dapat kita biayai dengan investasi komersial jangka pendek dan juga kita hindari harus dibiayai oleh APBN. melalui DDMF dana kedolatan Indonesia akan ditanamkan secara disiplin dan profesional. Sebagai contoh pada proyek mobil nasional, kita rencanakan mobil nasional kita produksi secara massal di akhir tahun 2028."
+  },
+  {
+   "t": 3878.56,
+   "d": 84.52,
+   "text": "Fasilitas sudah dibangun di daerah Subang. Proyek motor nasional juga telah kita luncurkan. Ekosistem motor nasional sudah bekerja. Dua perusahaan swasta besar telah bekerja. Dua BUMN juga telah mulai produksi motor listrik. Kita juga harus membangun giant seawall tanggul besar untuk mengamankan pantai utara Pulau Jawa."
+  },
+  {
+   "t": 3920.36,
+   "d": 56.12,
+   "text": "Ini mutlak harus kita lakukan. Jangan kita tunggu bencana datang. Kita harus belajar dari negara lain. Negara Belanda membangun infrastruktur perlindungan jangka panjang. Tanpa perlu menunggu bencana, Giant Seaall di Belanda kini melindungi jutaan penduduk Belanda dan menjadi simbol kemampuan teknologi nasional Belanda."
+  },
+  {
+   "t": 3949.0,
+   "d": 82.12,
+   "text": "Giant Sea kita di pantai utara Jawa harus kita bangun segera dan menjadi sabuk perlindungan bagi jutaan warga Pantura Jawa untuk menyelamatkan puluhan ribu hektar yang sudah mulai tenggelam oleh naiknya laut. Selain itu, Giant Sea kita di pantai utara Jawa harus menjadi infrastruktur air bersih, harus menjadi jalur pertumbuhan baru dan proyek rekayasa yang membangun kemampuan anak bangsa."
+  },
+  {
+   "t": 3994.0,
+   "d": 99.29,
+   "text": "Brain telah menghasilkan terobosan-terobosan teknologi yang akan kita gunakan untuk Giant Sea ini. Proyek Giant Seawall ini akan butuh 15 hingga 20 tahun untuk kita selesaikan pembangunan Giant seol ini. Ini waktu yang lama. Saya tidak tahu presiden ke berapa yang akan meresmikan. Tapi saya bertekad presiden ke-elapan akan mulai proyek ini. [tepuk tangan] Pembangunan ini kita rencanakan dibagi 15 segmen dari Banten sampai Jawa Timur sampai Gresik."
+  },
+  {
+   "t": 4045.56,
+   "d": 77.56,
+   "text": "Kalau tidak berisik dan jika dilaksanakan serentak sesungguhnya mungkin berkurang dari 20 tahun. Apapun kita harus berani mulai. Ini menyangkut hajat hidup puluhan juta rakyat kita yang hidup di pantura. Dan kita harus ingat berapa persen industri kita ada di kawasan kawasan di pantai utara mulai Jawa Barat sampai ke Jawa Timur."
+  },
+  {
+   "t": 4086.2,
+   "d": 83.76,
+   "text": "Jadi masa depan industri kita juga dipertaruhkan. Tadi saya sebut kita akan percepat proses elektrifikasi mobilitas rakyat. Subsidi BBM harus kita kurangi secara signifikan. Untuk itu, pemerintah yang saya pimpin kemarin telah meluncurkan ekosistem motor listrik nasional. Selain itu, hari ini kita umumkan kita akan beri insentif yang cukup besar untuk mereka yang bisa membangun 1 juta motor listrik yang diproduksi di dalam negeri oleh perusahaan Indonesia."
+  },
+  {
+   "t": 4129.24,
+   "d": 49.32,
+   "text": "Kebijakan ini mempunyai tiga tujuan sekaligus menurunkan biaya kendaraan untuk rakyat, mengurangi konsumsi bahan bakar impor, dan membesarkan industri motor listrik nasional beserta rantai, pasok, baterai, komponen, perangkat lunak, serta layanan purna jualnya."
+  },
+  {
+   "t": 4154.2,
+   "d": 74.0,
+   "text": "Saudara-saudara, kita telah memiliki hampir semua unsur dalam baterai untuk kendaraan listrik. Hampir semua. Setiap motor listrik buatan Indonesia yang melaju di jalan raya adalah tiga kemenangan sekaligus. Saya ulangi ya. Setiap motor listrik buatan anak-anak Indonesia yang berjalan di jalan Indonesia memiliki tiga kemenangan bagi bangsa kita."
+  },
+  {
+   "t": 4190.56,
+   "d": 64.96,
+   "text": "Pertama, penghematan bagi rakyat. Penghematan bagi keluarga mereka. kita perkirakan mereka akan bayar lebih 50% lebih rendah dari pengeluaran yang mereka lakukan sekarang untuk motor BBM. Bahkan bisa nanti turun hanya 30% dari biaya yang MLA keluarkan sekarang."
+  },
+  {
+   "t": 4223.28,
+   "d": 69.27,
+   "text": "pengurangan impor energi dan yang sangat penting pekerjaan dan penghasilan bagi anak-anak Indonesia. Ke-10. Hari ini saya sampaikan ke dewan saran pemerintah Indonesia, saran kami untuk kita izinkan Dwi kewarganegaraan bagi talenta-talenta tertentu yang dibutuhkan oleh bangsa Indonesia."
+  },
+  {
+   "t": 4260.82,
+   "d": 71.02,
+   "text": "[tepuk tangan] Indonesia memiliki jutaan diaspora. Di antara mereka terdapat ilmuwan yang hebat-hebat. Dokter, insinyur, ahli, kecerdasan buatan, peneliti, pengusaha, seniman, atlet, terutama pemain bola profesional kelas dunia. Sebagian terpaksa mengambil kewarganegaraan lain karena kebutuhan karier keluarga atau pengabdian mereka di luar negeri."
+  },
+  {
+   "t": 4301.16,
+   "d": 72.96,
+   "text": "Kita tidak boleh memaksa talenta terbaik Indonesia memilih antara kesempatan berkarya di dunia dan ikatan mereka kepada tanah air. Hari ini pemerintah akan mengajukan kepada sidang yang terhormat ini perubahan undang-undang untuk membuka kewarganegaraan ganda secara terbatas bagi mereka yang memiliki talenta istimewa dan dapat memberi sumbangan luar biasa bagi kepentingan nasional."
+  },
+  {
+   "t": 4341.64,
+   "d": 43.96,
+   "text": "Kebijakan ini akan kita rancang dengan selektif terukur disertai uji integritas, kewajiban yang jelas, serta perlindungan penuh terhadap keamanan dan kepentingan negara. Saudara-saudara sekalian, pimpinan dan anggota dewan yang saya hormati dan saya muliakan."
+  },
+  {
+   "t": 4363.16,
+   "d": 69.76,
+   "text": "Seluruh kebijakan yang kita lakukan memiliki satu tujuan, mengubah kekayaan Indonesia menjadi kekuatan Indonesia. Renovasi 10.000 Puskesmas, [mendengus] pembangunan 441 RSUD, perbaikan seluruh sekolah dari Sabang sampai Merauke, dari Mianggas sampai Rote akan memastikan negara hadir dalam kebutuhan paling dasar rakyat."
+  },
+  {
+   "t": 4400.24,
+   "d": 111.6,
+   "text": "Bursa komoditas akan memperkuat kedaulatan rakyat, meningkatkan penghasilan negara. Optimalisasi aset Bomn akan membuat kekayaan negara lebih produktif. Indonesia International Financial Center atau PFI akan menarik modal dan talenta global. DDMF kita bentuk untuk membiayai proyek lintas generasi. Subsidi motor listrik dan mungkin nanti mobil listrik akan menciptakan pasar bagi industri nasional. Kebijakan kewarganegaraan secara terbatas akan memanggil pulang kemampuan terbaik dari diaspora kita dan juga talenta-talenta terbaik untuk memperkuat bangsa Indonesia."
+  },
+  {
+   "t": 4455.4,
+   "d": 71.08,
+   "text": "Kita tidak sedang membangun ekonomi yang hanya besar dalam statistik. Kita sedang membangun negara yang berdaulat dalam keputusan adil dalam pembagian dan pemerataan nyata dalam kehidupan rakyat. Saya mengajak DPR, DPD RI, seluruh lembaga negara, pemerintah daerah, dunia usaha, perguruan tinggi, pekerja petani, nelayan, tenaga kesehatan, guru, dan seluruh rakyat Indonesia untuk mengawal agenda besar kita bersama-sama."
+  },
+  {
+   "t": 4491.96,
+   "d": 55.08,
+   "text": "Kita akan melaksanakannya dengan disiplin. Tidak boleh ada proyek yang hanya besar pada anggaran, tetapi kecil manfaat nyata bagi rakyat. Tidak boleh ada insentif tanpa pekerjaan baru. Tidak boleh ada investasi tanpa transfer teknologi. Setiap rupiah harus memiliki tujuan."
+  },
+  {
+   "t": 4518.52,
+   "d": 53.56,
+   "text": "Setiap kebijakan harus memiliki ukuran, setiap pejabat harus memiliki pertanggungjawaban. Untuk itu saya juga mengajak kita semua untuk terus koreksi diri, terus meningkatkan disiplin. Pemerintah harus mengabdi kepada rakyat, mengabdi kepada bangsa, memberi solusi kepada kesulitan-kesulitan rakyat."
+  },
+  {
+   "t": 4545.68,
+   "d": 113.52,
+   "text": "Tugas pemerintah yang paling utama melindungi segenap tumpah darah rakyat dari semua ancaman, ancaman kemiskinan, ancaman bahaya fisik, ancaman pemutusan hubungan kerja, dan berbagai ancaman lain. Ancaman kelaparan, ancaman tidak dapat pelayanan kesehatan. pemerintah di semua tingkatan, [berdehem] tidak hanya pemerintah pusat, pemerintah daerah, pemerintah provinsi, pemerintah kabupaten kota, ya, pemerintah desa, kita harus menghilangkan praktik-praktik korupsi, penipuan, markup, penggelembungan dalam pembelanjaan."
+  },
+  {
+   "t": 4603.68,
+   "d": 64.16,
+   "text": "tadi sudah saya sebut kita akan kita akan buat satu lembaga yang mengkonsolidasikan semua pembelanjaan pemerintah di satu lembaga. Pemerintah harus lebih efisien di setiap tingkatan. Kita harus kurangi semua pengeluaran tidak efisien. Saya gembira sekarang tidak ada lagi anggaran untuk ulang tahun kementerian."
+  },
+  {
+   "t": 4638.64,
+   "d": 62.16,
+   "text": "Ulang tahun kementerian cukup potong tumpeng di kantor saja. Dan saya berharap juga di semua provinsi dan semua kabupaten kota jangan ada anggaran untuk merayakan ulang tahun-ulang tahun besar-besaran. Lebih baik perbaiki sekolah, perbaiki rumah sakit, tingkatkan gaji guru daripada seremoni upacara upacara upacara."
+  },
+  {
+   "t": 4669.55,
+   "d": 52.42,
+   "text": "[tepuk tangan] Tapi kalau upacara hari kemerdekaan secara terpusat itu wajib. Pimpinan dan anggota dewan yang saya hormati. Demikian keterangan pemerintah atas rancangan Undang-Undang tentang Anggaran Pendapatan dan Belanja Negara [tepuk tangan] tahun anggaran 202 beserta nota keuangannya."
+  },
+  {
+   "t": 4701.0,
+   "d": 67.68,
+   "text": "Besar harapan saya agar pembahasan RAPBN 2027 dilaksanakan secara terbuka, konstruktif, berorientasi sepenuhnya kepada kepentingan rakyat dan bangsa. Semoga Allah Subhanahu wa taala senantiasa memberi rahmat, petunjuk, taufik, dan hidayah kepada kita sekalian. memberi kekuatan kepada kita semua dalam menjalankan amanah harapan seluruh rakyat Indonesia."
+  },
+  {
+   "t": 4734.68,
+   "d": 54.77,
+   "text": "Dirgahayu Republik Indonesia tercinta. Sekali merdeka tetap merdeka. Sekali berdaulat terus berdaulat. Merdeka. Merdeka. [bersorak] Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. [tepuk tangan] Salam sejahtera bagi kita sekalian. Om swastiastu. [tepuk tangan] Namo buddhaya. Salam kebijakan. Rahayu."
+  },
+  {
+   "t": 4761.64,
+   "d": 13.27,
+   "text": "Rahayu. Selesai. [tepuk tangan] Pak. Luar biasa. Terima kasih, Pak. [tepuk tangan] Yeah."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "sv1HMoSzRk4",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/sv1HMoSzRk4.json"
+ }
+}

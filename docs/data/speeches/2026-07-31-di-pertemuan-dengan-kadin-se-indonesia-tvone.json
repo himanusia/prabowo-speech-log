@@ -1,0 +1,323 @@
+{
+ "id": "2026-07-31-di-pertemuan-dengan-kadin-se-indonesia-tvone",
+ "video_id": "_UEZyffi3YU",
+ "date": "2026-07-31",
+ "title": "[Breaking News] Pidato Presiden Prabowo di Pertemuan dengan Kadin Se-Indonesia | tvOne",
+ "channel": "tvOneNews ",
+ "youtube_url": "https://www.youtube.com/watch?v=_UEZyffi3YU",
+ "duration_s": 2294,
+ "duration_hms": "38:14",
+ "source_tier": "media",
+ "fetch_method": "caption_api",
+ "snippet_count": 689,
+ "token_count": 2501,
+ "unique_word_count": 913,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "_UEZyffi3YU",
+   "url": "https://www.youtube.com/watch?v=_UEZyffi3YU",
+   "title": "[Breaking News] Pidato Presiden Prabowo di Pertemuan dengan Kadin Se-Indonesia | tvOne",
+   "channel": "tvOneNews ",
+   "upload_date": "2026-07-31",
+   "duration_s": 2294,
+   "source_tier": "media",
+   "fetch_method": "caption_api",
+   "token_count": 2501,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 689,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 8,
+  "ekonomi": 22,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 4,
+  "tata_kelola": 6,
+  "pertahanan_dan_keamanan": 18,
+  "nasional_dan_identitas": 41,
+  "mbg": 1
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 1,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 1,
+  "present": true,
+  "evidence": [
+   {
+    "start": 259.199,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 0.32,
+   "d": 139.64,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. [mendengus] Yang saya hormati dan saya banggakan Ketua Umum Kamar Dagang dan Industri, Saudara Anindia Novian Bakri [tepuk tangan] beserta jajarannya, Wakil Ketua Umum Koordinator Organisasi Komunikasi dan Pemberdayaan Daerah, Saudara Erwin Aksa, Wakil Ketua Umum Koordinator Pangan Saudara Mulyadi Jayabaya, [tepuk tangan] Wakil Ketua Umum Koordinator Luar Negeri, Saudara Jim Sri Radi yang urusan luar negeri dikasih Pak Jim supaya ongkosnya berkurang untuk Kadin soalnya pakai pesawat sendiri."
+  },
+  {
+   "t": 90.6,
+   "d": 102.44,
+   "text": "Wakil Ketua Umum Koordinator Infrastruktur dan Pembangunan Kewilayahan, Saudari Karmelita Hartoto. Wakil Ketua Umum Koordinator Investasi Hidrisasi Energi dan Lingkungan Hidup, Saudara Bobi Gafur Umar, Wakil Ketua Umum Koordinator Sosial, Saudari Diah Anita Prihapsari, Wakil Ketua Umum Koordinator Pembangunan Manusia Kebudayaan, dan Pembangunan Berkelanjutan, Saudara Saudari dari Sinta Wijaya Kamdani, Wakil Ketua Umum Koordinator Politik dan Keamanan, Saudara Bambang Susatyo, Wakil Ketua Umum Koordinator Hukum dan HAM, Sarana dan Prasarana Saudara M."
+  },
+  {
+   "t": 155.44,
+   "d": 81.26,
+   "text": "Azizamsudin masih urus itu kreket masih ada harapan enggak? [tertawa] Hobinya sama soalnya. Wakil Ketua Umum Koordinator Pembangunan Ekspor, Saudara Huan Permata Ade. Juga hadir di sini ee mewakili asosiasi-asosiasi yang hadir, terutama Ketua Umum Asosiasi Pengusaha Indonesia. Apo, [berdehem] saudari Sinta Wijaya Kamdani boleh merangkap jabatan enggak?"
+  },
+  {
+   "t": 214.76,
+   "d": 75.8,
+   "text": "Eh, boleh. [berdehem] Hah? Sesuai ADT enggak itu? Coba dicek [tertawa] nanti digugat ke MK. Enggak. Ee saudara-saudara sekalian [berdehem] ee Kepala Badan Ekosistem Digital, Saudara Firli Ganinduto, Kepala Badan Pengemauan Kawasan Properti Terpadu, Saudara Budiarsa Sastra Winata, Kepala Badan Pengembangan Ekonomi dan Keuangan Syariah, Saudara Titi Koriah."
+  },
+  {
+   "t": 259.2,
+   "d": 74.96,
+   "text": "Satgas. Satgas makan bergizi gratis, Saudara Candra Tirta. Wah, ini penting ini. Coba ya. Siapkan kantor khusus di istana gitu. I Pak juga Satgas Kesehatan Saudara David Utama. Saudara David kadin-kadin daerah. Saya bacakan satu-satu ya. Enggak apa-apa kanak waktu kan longgar kan enggak dibatasi ya. Enggak penting."
+  },
+  {
+   "t": 303.52,
+   "d": 55.0,
+   "text": "Subap izinkan. Aku diatur-atur. Ketua Umum Kadin Bangka Belitung, Saudara Rici Glen Yapranadi. Ketua Umum Kadin Bali, Saudara Imade Aryandi. Lu masih di golkar, Dek? Ini ini aku lihat golcnya banyak banget ni. [berdehem] Enggak apa-apa, enggak apa-apa. Oh, sebagai bisa."
+  },
+  {
+   "t": 344.92,
+   "d": 89.48,
+   "text": "Oh, kau dulu Kadin juga kau ya. Ketua Umum Kadin Bengkulu, Saudara Yoga Mirza Pratama. Caretaker Kadin Gorontalo, Saudara Yuliandri Darwis. Terima kasih Ketua Umum Kadin Jambi, Saudara Usman. Terima kasih. Ketua Umum Kadin Jawa Barat, Saudara Almer Faik Rusdi, Ketua Umum Kadin Jawa Tengah, Saudara Hari Nuryanto Sudiro, Ketua Umum Kadin Jawa Timur, Saudara Haji Adik Dwi Putranto."
+  },
+  {
+   "t": 395.84,
+   "d": 68.24,
+   "text": "Terima kasih. Ketua Umum Kadin Kalimantan Barat, Saudara Arya Rizki Darsono, [berdehem] Ketua Umum Kadin, Kalimantan Tengah. Saudara Haji Rahmat Nasution Hamka, Ketua Umum Kadin Kalimantan Timur, Saudara Putri Amanda Nur Nura Madani. [berdehem] minum kopi sebentar ya."
+  },
+  {
+   "t": 472.48,
+   "d": 47.31,
+   "text": "Saya sudah diminta kalau turun jadi presiden, jadi brand ambassador untuk industri kopi Indonesia. [tepuk tangan] Biar dapat suplly kopi terus-menerus. Ternyata minum kopi itu berdasarkan riset itu memperpanjang umur ya. Menurut research itu kurang lebih 17%."
+  },
+  {
+   "t": 507.48,
+   "d": 57.37,
+   "text": "Perpanjangan tuh 17 sampai 20%. Wah, yang punya perusahaan kopi senang semua ini. [tertawa] Ketua Umum Kadin Kalimantan Utara, Saudara Kilit Laing. Plt. Ketua Umum Kadin Lampung, Saudara Romi Junanto Utama, Ketua Umum Kadin Maluku Utara, Saudara Muksin TB. Ketua Umum Kadin NTT, Saudara Bobi Lianto."
+  },
+  {
+   "t": 553.68,
+   "d": 65.64,
+   "text": "Bobi kalau enggak salah Gerindra ya, Bu. Ketua Umum Kadin Papua, Saudari Zakliana Joku, Ketua Umum Kadin Papua Barat, Saudari Suryati Faisal, Caretaker Kadin Papua Selatan, Saudara Widianto Saputro, Ketua Umum Kadin Rio, Saudara Masuri, Ketua Umum Kadin Sulawesi Barat, Saudari Zanet Raudatul Jannah."
+  },
+  {
+   "t": 597.04,
+   "d": 66.2,
+   "text": "Ketua Umum Kadin Mamuju Tengah, Saudara Fajri Kadri Taslim, Ketua Umum Kadin Sulawesi Selatan, Saudara Haj Andi Iwan Darmawan Aras. Saya kira sudah ya semua ya daerah ya. Ya. Ini banyak sekali ee wakil-wakil ketua umum. Saya tidak sebut tanpa mengurangi rasa hormat kalau enggak ini ada [tepuk tangan] total ada 112 wakil ketua. Baik ee Saudara-saudara."
+  },
+  {
+   "t": 645.28,
+   "d": 98.67,
+   "text": "Saya hari ini ee didampingi ee beberapa menteri ya ee Menteri Sekretaris Negara, Saudara Prasetio Hadi, Menteri Keuangan, Saudara Purbaya Yudi Sadewa, Menteri Energi dan Sumber Daya Mineral, Saudara Bahlil, [tepuk tangan] Menteri Pertanian, Saudara [tepuk tangan] Menteri penusan, Saudara Agus, Menteri Perdagangan Saudara Budi Santoso, Menteri Perumahan dan Kawasan Pemukinan Permukiman, Saudara Marwar Sirait, Menteri Ketenagakerjaan Prof. Yarli, Menteri Usaha Mikro, Kecil dan Menengah, Saudara Maman Abdurrahman."
+  },
+  {
+   "t": 707.0,
+   "d": 64.6,
+   "text": "Penasat khusus Presiden Bidang Komunikasi dan Media, Saudara Hasan Nasbi, Kepala Badan Pengaturan BUMN, Saudara Doni Oskaria sekaligus eh CEOO dari Danantara ya, Kepala Badan Komunikasi Pemerintah, Saudara Muhammad Khodari. Wakil Menteri Investasi dan Hidrisasi, Saudara Toda Pasaribu, Wakil Menteri Kelautan dan Perikanan Laksamana TNI Pawirawan Didit Heriawan."
+  },
+  {
+   "t": 749.04,
+   "d": 57.43,
+   "text": "Sekretaris Kabinet RI LED Call Infanter Ty Indrawijaya, [tepuk tangan] Chief Technology Officer danantara Prof. Puji Santosa. Ee Menteri Perekon Menko Perekonomian sedang izin ee di luar daerah Menteri Investasi dan Hilalisasi, Saudara Rosan Perkasa Ruslani ada tugas ke luar negeri."
+  },
+  {
+   "t": 784.68,
+   "d": 73.56,
+   "text": "Jadi, Saudara-saudara ee tentunya kita selalu memanjatkan puji syukur kehadirat Tuhan Maha Kuasa, maha besar yang memiliki sekalian alam atas segala karunia, berkah kedamaian yang masih diberikan kepada kita, kepada bangsa kita. juga atas kesehatan dan nafas yang masih diberikan kepada kita sehingga kita dapat berkumpul hari ini di Istana Negara ini."
+  },
+  {
+   "t": 827.0,
+   "d": 85.72,
+   "text": "Saya juga ingin ucapkan terima kasih atas ee kehadiran saudara-saudara di sini. Waktu saya dilaporkan bahwa Kadin ingin ee datang, saya bilang ini sangat sangat penting dan ee saya prioritaskan ee untuk menerima saudara-saudara. Saya ee memandang bahwa usaha nation building, usaha pembangunan bangsa adalah satu proses yang sangat panjang."
+  },
+  {
+   "t": 876.36,
+   "d": 74.32,
+   "text": "Eh, maaf saya tidak sebut Menteri Koperasi tadi. Oh, sor. [tepuk tangan] Oh. Sori, Menteri Koperasi, Saudara Feri Juliantono. Sor aku lihat mukanya ada di situ. Sor aku tadi slip. Minta maaf ya. eh masalah nation building, masalah pembangunan bangsa memang adalah proses yang ee sangat panjang, sangat berat."
+  },
+  {
+   "t": 912.88,
+   "d": 136.32,
+   "text": "Dan dalam proses ini ee sejarah peradaban manusia mengajarkan kepada kita bahwa ekonomi tidak bisa dipisahkan dari politik, dari budaya, dari bahkan dari agama. bahwa pembangunan suatu bangsa adalah pembangunan ee lintas sektor. Karena itu nation building ee memerlukan kekuatan kekuatan dari bangsa itu untuk bisa dikerahkan untuk bisa di persatukan."
+  },
+  {
+   "t": 991.4,
+   "d": 79.36,
+   "text": "sehingga bangsa itu dapat memanfaatkan semua sumber daya yang ada di bangsa itu. Ini adalah masalah sejarah. Kita tinggal belajar dari sejarah ya. Dalam sejarah peradaban manusia, kita bisa jelas lihat mana bangsa yang berhasil dan bangsa yang gagal. Bangsa yang gagal disebut failed state."
+  },
+  {
+   "t": 1035.28,
+   "d": 93.68,
+   "text": "Ya, failed state. Negara gagal, punya sumber daya tapi gagal apalagi tidak punya sumber daya. dan tidak punya ee kelebihan-kelebihan lain yang terutama yang kita belajar adalah memang perlunya suatu sinergitas antara elit. Perlunya ada kerja sama kolaborasi. Semua bangsa yang berhasil elitnya bisa kerja sama."
+  },
+  {
+   "t": 1082.12,
+   "d": 115.16,
+   "text": "Semua negara yang gagal elitnya ribut. Apa yang kita maksud dengan elit? Elit adalah unsur pimpinan. Jadi elit bangsa adalah elit politik, elit ekonomi, elit intelektual, elit agama, elit budaya, elit seni, elit produsen elit buruh ini. Ini semacam matriks ini semacam apa ya? Ini kalau AI kan ada data yang dikumpulin tinggal kita buka saja tunjukin kepada saya negara mana yang berhasil kalau elit-nya ribut terus."
+  },
+  {
+   "t": 1146.04,
+   "d": 74.96,
+   "text": "Jadi saya sangat terima kasih, saya sangat gembira, Saudara-saudara. Dari awal pemerintah yang saya pimpin, Saudara menunjukkan niat ingin bekerja sama dan ingin berjuang bersama untuk kebaikan seluruh bangsa dan negara. Pembangunan bangsa. adalah usaha besar di mana untuk awalnya memang bukan awalnya dasar sebetulnya adalah masalah yang paling krusial adalah masalah ekonomi."
+  },
+  {
+   "t": 1191.92,
+   "d": 60.1,
+   "text": "Masalah perut adalah ekonomi. Paling dasar Anda sudah tahu kalau saya bicara sudah berapa puluh tahun pasti saya bicara. masalah pangan, masalah perut. Karena ini pelajaran ribuan tahun sejarah. Alhamdulillah kita sudah capai dalam waktu yang singkat. Ketahanan pangan, sasembada pangan."
+  },
+  {
+   "t": 1222.9,
+   "d": 59.06,
+   "text": "[tepuk tangan] Di luar dugaan banyak orang, bahkan banyak yang tidak percaya sampai sekarang. kita. Tapi alhamdulillah ini adalah hasil real. Ini yang membuat kita percaya diri, confident. Apapun terjadi kita yakin kita bisa jamin makan untuk bangsa Indonesia."
+  },
+  {
+   "t": 1259.88,
+   "d": 96.68,
+   "text": "Dan ini prestasi bukan prestasi yang gampang. Bukan prestasi yang gampang. Ternyata swasta depangan baru kita alami hanya beberapa tahun sekian puluh tahun yang lalu. Sekarang kita mencapai itu. kita masih menghadapi yang saya waktu pertemuan-pertemuan pertama kita di awal pemerintahan saya, saudara datang ke saya pun saya sudah di mana-mana saya sudah warning. Bahkan sebelumnya pun saya sudah warning. Hati-hati situasi dunia sesituasi geopolitik sudah sangat-sangat rawan, sangat-sangat rawan."
+  },
+  {
+   "t": 1316.72,
+   "d": 74.04,
+   "text": "Di mana-mana terjadi perang dahsyat di di kontinen, di benua Eropa. Perang besar. Perang besar ini di Ukrain ini sudah lebih lama dari perang dunia pertama. Ee ini mungkin akan lebih lama dari Perang Dunia Kedua ya. Perang Dunia Kedua mulai September 1939, habis itu 40, 41, 42, 43."
+  },
+  {
+   "t": 1361.56,
+   "d": 93.48,
+   "text": "Habis itu pertengahan Mei 45. Jadi 5 tahun atau 4 tahun setengah ya. Perang Ukrain mulai tahun 22 ya, 22, 23, 24, 25 sudah masuk 26. Mungkin perang Ukrain lebih lama dari perang dunia kedua juga. Jutaan sudah korban. Dan kita baru mengerti bahwa perang di satu bagian dari bumi kita punya pengaruh ke mana-mana. ya kepada harga pangan, harga BBM dan sebagainya."
+  },
+  {
+   "t": 1407.52,
+   "d": 90.2,
+   "text": "Belum selesai perang Ukrain, situasi di Gaza, di Libanon, di Timur Tengah meletus, lebih parah lagi. Di Teluk di Selat Hormus Iran. sampai sekarang belum selesai dan kemungkinan akan juga cukup lama. Bahkan bahaya perang nuklir tidak bisa kita remehkan baik di Ukrain maupun di Timur Tengah."
+  },
+  {
+   "t": 1455.76,
+   "d": 62.32,
+   "text": "Di kita pun yang kita tidak duga-duga, yang kita anggap ASEAN adalah zona perdamaian. Terjadi perang di Myanmar berkecamuk ee perang saudara dengan belasan atau puluhan milisi-milisi bersenjata didukung oleh negara-negara lain. Sahabat-sahabat kita Thailand dan Kamboja juga."
+  },
+  {
+   "t": 1491.44,
+   "d": 96.28,
+   "text": "pertempuran yang juga masih penuh dengan ketegangan. kita terus berusaha untuk mendukung upaya-upaya perdamaian dan ketegangan-ketegangan di tempat lain. Ee kita bersyukur bahwa ee negara kita memiliki suatu warisan dari pendiri-pendiri bangsa kita. Warisan itu adalah politik luar negeri yang nonblock, non aligned, yaitu kita tidak ingin bergabung dengan blok fakta militer apapun."
+  },
+  {
+   "t": 1543.16,
+   "d": 60.16,
+   "text": "Dan kita sadar dan saya juga sudah kumandangkan dari awal saya dilantik bahwa politik luar negeri Indonesia sekarang adalah ingin menjadi tetangga yang baik, the good neighbor. Our policy is the policy of the good neighbor. We want to be a good neighbor. Saya berusaha memperbaiki semua hubungan dengan semua tetangga kita."
+  },
+  {
+   "t": 1577.8,
+   "d": 91.08,
+   "text": "Saya berusaha untuk rekonsiliasi, saya berusaha untuk memberi pendekatan. Yah, kita banyak Asia Tenggara ini banyak bekas jajahan. Karena bekas jajahan warisan pertikaian perbatasan dari zaman kolonial ratusan tahun seolah-olah di warisi oleh kita. Nah, ini yang kita ingin bereskan, ingin selesaikan dengan baik dengan ee cara damai."
+  },
+  {
+   "t": 1626.76,
+   "d": 58.64,
+   "text": "kadang-kadang ee tidak ringan karena ada pihak-pihak yang istilahnya mungkin mau menang sendiri sepihak, tapi tetap saya sadar bahwa Indonesia adalah negara yang paling besar. Karena itu kita juga harus lebih arif, kita harus lebih sabar, kita tidak boleh diprovokasi."
+  },
+  {
+   "t": 1655.96,
+   "d": 63.88,
+   "text": "ya eh non alignment sehingga saya ke mana-mana saya tegaskan Indonesia we are neutral kita hormati semua kekuatan kita baik sama Amerika Serikat tapi kita baik juga sama Tiongkok kita juga baik baik sama Rusia, kita baik sama Jepang, kita baik sama India, kita baik sama Australia."
+  },
+  {
+   "t": 1697.44,
+   "d": 81.24,
+   "text": "Kita ada masalah kadang-kadang ada yang mau separatis, tapi kita baik sama tetangga kita, sama PNG kita baik, Saudara-saudara. Ini yang juga membuat kita bisa diterima di mana-mana. Bahkan kunjungan saya terakhir di Korea, di Korea Selatan. So, Presiden Korea Selatan, Presiden Republic of Korea, ya kan minta kepada saya, bisa enggak saya berkunjung ke Korea Utara?"
+  },
+  {
+   "t": 1743.04,
+   "d": 73.36,
+   "text": "untuk membuka semacam dialog. Oh, saya bilang, \"Oh, saya dengan hormat, dengan rela kalau Yang Mulia minta saya untuk ke Korea Utara, saya akan berangkat.\" Demikian, Saudara-saudara ya. Indonesia dianggap tidak punya kepentingan mau mencampur dalam urusan dalam negeri-negara manapun. Itu yang kita pegang teguh."
+  },
+  {
+   "t": 1778.84,
+   "d": 65.92,
+   "text": "Itu kita pegang teguh. Di Myanmar pun kita pegang teguh itu. Kita bisa diterima oleh hampir semua pihak. [batuk] Jadi, Saudara-saudara, ini situasi global. Situasi global sangat rawan, tapi tidak ada gunanya kita panik. [mendengus] Tidak ada gunanya kita ketakutan."
+  },
+  {
+   "t": 1824.44,
+   "d": 78.56,
+   "text": "Tapi juga membuat kita harus lebih sadar, bertindak, berkata, bertutur kata, harus dengan kearifan, harus dengan kebaikan dan kita waspada. Karena memang kita negara sangat besar, kita negara sangat kaya. Hukum manusia, hukum alam, iya. Kekayaan menimbulkan iri."
+  },
+  {
+   "t": 1867.56,
+   "d": 96.08,
+   "text": "Kita selalu menjadi sasaran. ratusan tahun selalu masalahnya itu komoditas. Kalau tahun 15-an, 1600-an ya itu ee rempah-rempah menjadi komunitas ee krusial, critical. Kenapa? Belum ada kulkas, belum ada refrigeration. Jadi kalau mau punya angkatan laut yang kuat, kapal mau berlayar ee 2 minggu, dia perlu rempah-rempah supaya makanan itu tidak busuk mereka."
+  },
+  {
+   "t": 1919.88,
+   "d": 52.56,
+   "text": "dan dia butuh kayu. Kayu-kayu yang cocok untuk di laut ada di Nusantara ini. Jadi mereka semua cari kita Nusantara ini untuk rempah-rempah dan untuk kayu. Karena angkatan laut waktu itu kapal-kapalnya dari kayu. Untuk jadi super power, angkatan laut harus sangat kuat. Dulu enggak ada pesawat terbang."
+  },
+  {
+   "t": 1951.8,
+   "d": 56.96,
+   "text": "Nah, ini yang kita tidak sadari atau kita sadari tapi kita mungkin enggak mau belajar. Jadi, Saudara-saudara, ini bisa juga dikatakan the curse [mendengus] ya. orang yang diberi atau negara ataupun kawasan di bumi yang diberi sumber alam yang begitu kaya sering menjadi sasaran."
+  },
+  {
+   "t": 1980.36,
+   "d": 130.4,
+   "text": "Kenapa ribut di Timur Tengah? Timur Tengah banyak gas, banyak minyak dan banyak mineral-mineral lain. Berkecamuklah perang sudah ratusan tahun di situ, Saudara-saudara. Jadi di Veda @ Impera itu bukan ee tulisan di buku-buku sejarah itu nyata nyata di beda imparan nyata. Jadi, Saudara-saudara ini saya dengan panjang lebar saya tekankan kembali ke saudara-saudara karena apa yang kita bahas sedang sedang terjadi di depan mata kita. Tiap sore, tiap malam kita lihat dalam berita-berita eskalasi, eskalasi, eskalasi."
+  },
+  {
+   "t": 2049.56,
+   "d": 46.08,
+   "text": "dikatakan bahwa Iran sudah punya senjata nuklir. Sekarang Saudi Arabia ingin juga punya senjata nuklir. Kalau Saudi Arabia ingin punya senjata nuklir, tidak menutup kemungkinan Emirates juga mau punya senjata nuklir. Qatar juga mau punya senjata nuklir. Mesir juga mau punya senjata nuklir."
+  },
+  {
+   "t": 2072.64,
+   "d": 127.72,
+   "text": "kita bisa bangsa Indonesia harus berdiri di atas kaki kita sendiri dan di situ elemen utamanya adalah sua sembada panga sembada energi. Pangan dan energi harus kita mendiri. Saudara-saudara percaya kita berada di jalan yang benar, di jalan membela keadilan, di jalan member pemirsa. Kita sudah simak bersama bagaimana sambutan dari Presiden Prabowo Subianto yang juga ee menghadiri pertemuan dengan acara Kadin se-Indonesia di mana tadi Presiden menyampaikan beberapa hal terkait dengan kondisi terkini ekonomi dan juga bagaimana akan bekerja sama dengan sebaik-baiknya dengan KD Indonesia untuk menanggulangi bagaimana ee kondisi perekonomian secara regional dan juga internasional. bagaimana ee Presiden juga tadi memaparkan bagaimana kondisi geopolitik ee di dunia yang juga ikut mempengaruhi bagaimana kondisi di dalam negeri."
+  },
+  {
+   "t": 2141.6,
+   "d": 111.64,
+   "text": "Dan tadi juga kita sudah simak bersama bagaimana eh pidato sambutan dari Ketua Umum Kadin Indonesia, Anindia eh Novian Bakri yang juga eh bersama-sama hadir di Istana Negara bersama dengan perwakilan dari 38 ee Kadin se-Indonesia dari berbagai provinsi yang juga nantinya masing-masing dari perwakilan Kadin juga akan menyampaikan secara langsung bagaimana ee kepada laporan kepada Presiden Prabowo Subianto untuk ee mapakan bagaimana ee kondisi terkini perekonomian ee nasional kita dan juga ee bagaimana menanggulangi permasalahan perekonomian yang dipengaruhi oleh kondisi ee regional dan internasional."
+  },
+  {
+   "t": 2199.64,
+   "d": 78.52,
+   "text": "Pertemuan ini pemirsa dihadiri oleh ee sejumlah em tidak hanya dari perwakilan Kadin se-Indonesia juga dihadiri oleh menteri-menteri dari kabinet merah putih seperti Menteri Keuangan Purbaya Yudi Sadewa. Selain itu juga ada Menteri Pertanian Andi Amran Sulaiman, Menteri Perdagangan Budi Santoso, Menteri Energi dan Sumber Daya Mineral Bahliladia, serta juga dihadiri oleh e Menteri Perindustrian Agus Gumiwangkarta Sasmita."
+  },
+  {
+   "t": 2243.92,
+   "d": 66.16,
+   "text": "dalam sambutannya. Ketua Umum Keadin juga ee memaparkan secara bersama-sama tetap optimis untuk mencari jalan keluar dan terkait dengan ee kondisi ekonomi di dalam negeri dan bersama-sama akan bekerja sama dengan pemerintah. dalam hal ini adalah ee kabinet Presiden Prabowo Subianto untuk menghadapi berbagai persoalan yang hadir di dalam negeri."
+  },
+  {
+   "t": 2287.56,
+   "d": 14.8,
+   "text": "Dan pemirsa demikian Breaking News TV One mewakili grup tugas Kusuma. Terima kasih sampai jumpa. Yeah."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "_UEZyffi3YU",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/_UEZyffi3YU.json"
+ }
+}

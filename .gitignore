@@ -1,0 +1,10 @@
+# sampah sistem
+.DS_Store
+__pycache__/
+*.pyc
+
+# virtualenv kalau nanti diperlukan
+.venv/
+venv/
+
+# keluaran build situs tidak diabaikan — docs/ memang yang di-deploy

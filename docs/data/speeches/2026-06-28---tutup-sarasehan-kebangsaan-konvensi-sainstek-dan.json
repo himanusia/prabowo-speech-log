@@ -1,0 +1,364 @@
+{
+ "id": "2026-06-28---tutup-sarasehan-kebangsaan-konvensi-sainstek-dan",
+ "video_id": "7Zi5vqN_VC4",
+ "date": "2026-06-28",
+ "title": "🔴BREAKING NEWS - Pidato Presiden Prabowo Tutup Sarasehan Kebangsaan Konvensi Sainstek dan Industri",
+ "channel": "KOMPASTV",
+ "youtube_url": "https://www.youtube.com/watch?v=7Zi5vqN_VC4",
+ "duration_s": 3045,
+ "duration_hms": "50:45",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 358,
+ "token_count": 3303,
+ "unique_word_count": 765,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "7Zi5vqN_VC4",
+   "url": "https://www.youtube.com/watch?v=7Zi5vqN_VC4",
+   "title": "🔴BREAKING NEWS - Pidato Presiden Prabowo Tutup Sarasehan Kebangsaan Konvensi Sainstek dan Industri",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-06-28",
+   "duration_s": 3045,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 3303,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 358,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "xK61ktEglpc",
+   "url": "https://www.youtube.com/watch?v=xK61ktEglpc",
+   "title": "Pidato Penutupan Sarasehan Kebangsaan KSTI 2026",
+   "channel": "Pangkep TV",
+   "upload_date": "2026-06-28",
+   "duration_s": 1059,
+   "source_tier": "media",
+   "fetch_method": "baseline_import",
+   "token_count": 1137,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 337,
+   "discovery_origins": [],
+   "selection_reason": null,
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 3,
+  "ekonomi": 28,
+  "pendidikan": 43,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 10,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 61,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 86.0,
+   "text": "Terima kasih atas laporan tadi Menteri Mendikti. Saudara-saudara sekalian, ee saya monitor terus jalannya Salsihan sampai malam kemarin padat dan ee secara garis besar saya saya mengikuti bahwa suasana berada dalam ee suasana positif, suasana karena tukar-menukar ee keterangan pandangan dan ee memang ee inilah ee keyakinan saya, inilah keinginan saya bahwa semua potensi seluruh bangsa harus bersatu, harus mengeluarkan segala pemikiran, segala inisiatif untuk kebaikan kita bersama, untuk survival kita, untuk kelangsungan hidup bangsa Indonesia."
+  },
+  {
+   "t": 87.0,
+   "d": 63.0,
+   "text": "Saudara-saudara [berdehem] ee dalam waktu yang singkat kita berusaha sebagai pemegang mandat sebagai kendali atas negara Indonesia. Pada saat sekarang saya diberi mandat sebagai nahqoda katanya katakan saya berusaha untuk selalu menyampaikan keadaan umum yang kita hadapi sebagai [berdehem] suatu bangsa. bahwa bumi kita, planet kita sudah semakin menjadi kecil karena sains dan teknologi."
+  },
+  {
+   "t": 150.0,
+   "d": 41.0,
+   "text": "Sekarang kejadian belasan ribu kilometer berpengaruh kepada kehidupan kita. Kita tidak bertek, kita tidak bermusuhan sama siapa. Tapi kalau ada perang nuklir di satu belahan dunia, kita akan kena dampaknya. Karena itu menurut saya dan saya kalau empat kali ketemu para rektor itu bagi saya belum apa-apa. Kalau perlu tiap bulan kita ketemu."
+  },
+  {
+   "t": 191.0,
+   "d": 36.0,
+   "text": "[tepuk tangan] Benar. Saya butuh jumpa dengan orang-orang pintar. Saya kasihan berapa profesor yang tinggal di sekitar Jakarta itu bolak-balik dipanggil. I enggak sih? Saya dengar mereka itu tiap 2 jam buka handphone. Yang di Bandung pun tidak ada alasan karena sekarang dipanggil ya 45 menit bisa di Jakarta kan begitu."
+  },
+  {
+   "t": 227.0,
+   "d": 51.0,
+   "text": "yang di Bandung pun saya perhatikan berapa ee berapa pembantu saya waktu awal dilantik rambutnya masih [berdehem] bagus. Setelah 18 bulan semakin semakin botak. [berdehem] Aku perhatikan Pak Brian banyak itu rambutnya sudah makin ke atas. Banyak profesor ini memang. Jadi, Saudara-saudara, inilah yang kita inginkan ya. Kita berada di satu kapal besar yang namanya NKRI."
+  },
+  {
+   "t": 278.0,
+   "d": 53.0,
+   "text": "Saya kemarin sampaikan kita berbeda pandangan gak ada masalah. Universitas adalah tempat di mana gagasan-gagasan diadu adu gagasan, adu pandangan, adu filosofi, adu inovasi. Di situlah di situ disebut bahwa kampus punya academic freedom. Academic freedom kebebasan akademis bukan [berdehem] kebebasan yang lain-lain. Apalagi kampus menjadi tempat pemikiranem atau tempat katakanlah pertentangan."
+  },
+  {
+   "t": 331.0,
+   "d": 46.0,
+   "text": "Biarlah kampus aktif menggeluti sains dan teknologi untuk memberi manfaat kepada rakyat yang membiayai kampus-kampus itu, yang membiayai semua lembaga pendidikan Swasta berperan sangat penting, tapi swasta pun menikmati uang rakyat dari subsidi listrik, subsidi BBM dengan segala upaya yang kita lakukan."
+  },
+  {
+   "t": 377.0,
+   "d": 66.0,
+   "text": "Jadi, Saudara-saudara ini adalah bernegara. Jadi terima kasih saudara dengan tukun mengikuti sarsakan ini dan saya terima daftar usulan dan daftar pertanyaan yang tadi disampaikan ee cukup banyak. Saya saya janji satu-satu akan saya perhatikan. [tepuk tangan] Saudara-saudara, jangankan usul dari profesor, usul dari anak di desa yang sampai langsung ke saya lewat TikTok atau lewat saya segera tindak lanjut, Saudara-saudara. [tepuk tangan] ya, karena ee saya berkeyakinan bahwa kesulitan itu harus dihadapi."
+  },
+  {
+   "t": 443.0,
+   "d": 80.0,
+   "text": "Kesulitan harus dihadapi dan kita harus berani menghadapi kesulitan, berani mengakui kesulitan dan kerja keras mencari solusi terhadap kesulitan. Ya, ini saya dapat dari banyak masukan. organisasi, masyarakat, negara yang sukses adalah masyarakat dan negara organisasi yang berani berani mengetahui, mencari kesulitan dan kekurangan dan mengatasinya. Jadi saya saya terima kasih teknologi bisa berbuat itu kesulitan di suatu desa di Nias langsung dan itu kita selesaikan dalam waktu Jumat. Tapi kita tahu juga teknologi juga belum tentu selalu positif bagi manusia. Sekarang kita lihat nukleir [berdehem] di satu pihak luar biasa bisa membantu manusia."
+  },
+  {
+   "t": 523.0,
+   "d": 37.0,
+   "text": "Energi yang sangat murah, energi yang relatif bersih, nuklir untuk medis, nuklir untuk pertanian. Ya, tapi nuklir bisa menghabiskan peradaban manusia langsung. Saudara-saudara sekarang AI artificial intelligence hampir semua negara sekarang mengejar AI tidak mau ketinggalan."
+  },
+  {
+   "t": 560.0,
+   "d": 69.0,
+   "text": "Tapi Bapak-bapak penemu AI sendiri sudah memberi AI, sudah ada agen AI. Konon kabarnya agen AI ini AI yang bekerja berkarya untuk satu orang atau satu kelompok atau satu korporasi, satu organisasi, satu negara atau satu. Dan konon kabarnya sekarang sudah ada 5 juta AI agent AI 5 juta mungkin 5 juta itu 3 minggu lalu dan mereka katanya sudah punya apa itu namanya chat room sendiri 5 juta ini berbicara sendiri dalam bahasa kode mereka sendiri jadi manusia yang menciptakan sesuatu yang lebih hebat. Sekarang juara catur saja kalah sama mesin. Juara catur."
+  },
+  {
+   "t": 629.0,
+   "d": 93.0,
+   "text": "Mesin sekarang bisa membuat karya-karya luar biasa. Jadi, Saudara-saudara, inilah nanti para guru besar, para profesor yang harus mendalami itu. Jadi, Saudara-saudara, saya sangat terima kasih. Sepintas saya baca tadi, saya dengar banyak usul yang sangat baik, sangat masuk akal dan akan segera kita ee tindak lanjuti. Jadi sebagai contoh ee usul alokasi beasiswa doktor bagi dosen baik di perguruan tinggi maupun swasta dan sebagain ini usul yang sangat baik ini akan kita tindak lanjuti ya kan ee tadi juga ee usul sektor indust biaya riset diusulkan agar ee tiap BUMN mengalokasikan ee sebagian laba mereka untuk riset dan ee ya untuk riset ya inovasi ini bagus usul masalahnya BUMN Ini ada labanya enggak? Sekarang mulai ada. Terima kasih."
+  },
+  {
+   "t": 722.0,
+   "d": 47.0,
+   "text": "Danantara mana itu? Iya. Terima kasih. Nah, itu kan sudah mulai botak terus itu. Terima kasih [berdehem] satu 1 tahun ini sudah mulai ada laba ya. Masalahnya kemarin ini buomen-boomen ini ya kita sudah tahulah ya sudah lama jadi orang Indonesia saudara sudah mengerti. ini sedang kita bersihkan, sedang kita tertibkan dari 1000 lebih BMN sekarang kita sudah tutup lebih dari 200."
+  },
+  {
+   "t": 769.0,
+   "d": 53.0,
+   "text": "Lebih dari 200 nantinya kita akan bikin tinggal 300 lah ya. Bagaimana Pak Osar Doni? Ujungnya kita bisa berapa BN? 250 ujungnya nanti 250. Bayangkan lebih dari 750 kita tutup 750 di root 750 direksi 4 atau 5 750 komisaris 10 overhead-nya kayak apa? Gajinya kayak apa, Saudara-saudara? Ini uang rakyat semua. Perusahaan tidak untung."
+  },
+  {
+   "t": 822.0,
+   "d": 58.0,
+   "text": "KPU mana ya? Oh, di hanya bayar overhead. Saudara-saudara sekalian, kita mau sekarang rasional, efisien dan ini kita buktikan dan ini kita lakukan. Saya minta dalam tahun ini harus selesai ya. Jadi dalam 2 tahun kita akan bikin BUMN-BomN lebih efisien, lebih transparan, lebih bekerja untuk rakyat, Saudara-saudara. Jadi, jadi banyak sekali usul yang saya lihat ee sangat positif ya."
+  },
+  {
+   "t": 880.0,
+   "d": 41.0,
+   "text": "Tadi dari Bengkulu juga ee strategi bagaimana dari pengolahan bahan baku menuju penciptaan produk akhir. Saya kira ini ini yang kita cita-citakan, tapi harus melalui proses itu dulu. untuk proses pertama saja, proses kita ingin pengolahan di Indonesia itu membutuhkan suatu ee usaha yang sangat besar. Tapi insyaallah kita akan menuju ke situ, ya."
+  },
+  {
+   "t": 921.0,
+   "d": 29.0,
+   "text": "Kemudian usul-usul lain tentang ee kerja sama dengan institusi luar negeri melibatkan kampus-kampus universitas di semua bidang dan di semua daerah. Saya kira ini benar. Nanti kita akan ke arah situ semua. Kemudian ini banyak sekali nanti kita akan selesaikan semua. Saya kira itu ya. sementara."
+  },
+  {
+   "t": 950.0,
+   "d": 68.0,
+   "text": "Dan ini ada catatan bahwa ee mohon perhatian Bapak wartawan masih ada di 5 menit pertama. Bapak Presiden dengan ee hormat saya mengundang para wartawan untuk minum kopi dia. Sudah. Terima kasih ya. Karena ini adalah ee penutupan lebih di mana sekaligus istilah saya untuk turun ya salhan kali ini penutupan tapi di mana sekaligus sesi terakhir saya untuk sarasehan kali ini."
+  },
+  {
+   "t": 1018.0,
+   "d": 28.0,
+   "text": "[tepuk tangan] Saudara-saudara, benar, [berdehem] Saudara-saudara. Ini saya saya benar-benar bangsa Indonesia harus mandiri. Bangsa Indonesia harus berdiri di atas kaki kita sendiri. Dan di situ elemen utamanya adalah situ elemen utamanya adalah sua sembada pangan, sua sembada energi."
+  },
+  {
+   "t": 1046.0,
+   "d": 41.0,
+   "text": "Ya, Saudara, itu saja. Itu baru saja kita dengarkan bersama apa yang disampaikan oleh Presiden Prabowo Subianto yang menutup sarasehan kebangsaan Konvensi sains dan teknologi dari Jakarta konvenser Senayang, Jakarta. Adapun beberapa hal yang disampaikan oleh Presiden Republik Indonesia Prabowo Subianto dalam pidatonya tadi. Di antaranya adalah memang bahwa Indonesia hidup dalam perbedaan yang diakui oleh Presiden Prabowo Subianto. Namun perbedaan tersebut justru menjadi sesuatu yang istimewa bagi Republik Indonesia. adu pandangan, adu inovasi, serta filosofi."
+  },
+  {
+   "t": 1087.0,
+   "d": 23.0,
+   "text": "Disebut bahwa kampus memang memiliki kebebasan secara akademis. Presiden Prabowo Subianto tadi juga menyampaikan ucapan terima kasih atas usul yang disampaikan oleh semua pihak, termasuk usul untuk bekerja sama dengan institusi serta universitas dan perguruan tinggi dari luar negeri."
+  },
+  {
+   "t": 1110.0,
+   "d": 95.0,
+   "text": "Bismillahirrahmanirrahim. Konferensi Sains Teknologi dan Industri Indonesia tahun 2026. Bismillahirrahmanirrahiman Konvensi Sains, Teknologi dan Industri Indonesia tahun 2026. Bismillahirrahmanirrahim. Konvensi Sains Teknologi dan Industri Indonesia tahun 2026."
+  },
+  {
+   "t": 1205.0,
+   "d": 47.5,
+   "text": "Saudara, sarasehan kebangsaan KSTI 2026 menjadi salah satu wujud penguatan kolaborasi antara pemerintah perguruan tinggi BUMN dan lembaga riset dalam mendukung implementasi Dikti Saintech yang berdampak melalui sinergi tersebut. IND. Perguruan tinggi diharapkan semakin berperan dalam menghasilkan talenta unggul, riset, dan aplikatif serta inovasi yang bermanfaat serta rekomendasi kebijakan berbasis ilmu pengetahuan untuk mendukung pembangunan nasional dan mewujudkan Indonesia emas 2045."
+  },
+  {
+   "t": 1252.0,
+   "d": 39.0,
+   "text": "Bismillahirrahmanirrahim. Konvensi sains, Teknologi, dan sarasehan kebangsaan Konvensi Sains dan Teknologi Indonesia atau KSTI 2026 yang diselenggarakan Kementerian Pendidikan Tinggi, Sains dan Teknologi bersama Majelis Rektor Perguruan Tinggi Negeri Indonesia. Sebelumnya pada hari kedua penyelenggaraan pada Sabtu, 27 Juni 2026 dalam sarasehan sesi kelima mengangkat tema transformasi BUMN dengan menghadirkan Kepala Badan Pengaturan Badan Usaha Milik Negara atau BP BUMN Doni Oskar. Konvensi Sains Teknologi."
+  },
+  {
+   "t": 1291.0,
+   "d": 47.0,
+   "text": "Forum ini menjadi ruang dialog antara pemerintah, pimpinan perguruan tinggi, guru besar, akademisi, dan dunia usaha untuk memperkuat sinergi dalam mendukung pembangunan nasional. S sama siang sama siapa sama siang sendiri dan saudara kita telah terhubung dengan jurnalis Kompas TV Sindi Permadi serta juru kamera Anggi Mendarwan di JCC Senayan, Jakarta. Selamat siang, Cindi."
+  },
+  {
+   "t": 1338.0,
+   "d": 26.0,
+   "text": "Apa saja pesan yang disampaikan oleh Presiden Republik Indonesia Prabowo Subianto dalam pidatonya tadi dalam penutupan sarasehan kebangsaan sains dan teknologi? Hari ini memang agendanya adalah tanya jawab. Jadi sebenarnya ingin jadi untuk sar kebangsaan Jumat lalu jadi untuk sarasehan kebangsaan ini agendanya berlangsung 3 hari dari hari Jumat, Sabtu, dan Minggu."
+  },
+  {
+   "t": 1364.0,
+   "d": 26.0,
+   "text": "hari ini adalah penutupan atau juga puncak dan yang menjadi agenda utama adalah ketika hari Jumat kemarin Presiden Prabu Subianto menyampaikan ee sambutan pandangannya terkait dengan ee sains dan teknologi di Indonesia di depan 2.600 rektor hari ini. Ketika para rektor juga sudah mengumpulkan apa yang menjadi keluh kesah mereka usulan pertanyaan hari ini agendanya adalah Presiden Prabowo Subianto menjawab usulan itu."
+  },
+  {
+   "t": 1390.0,
+   "d": 39.0,
+   "text": "untuk ee secara lebih detail memang berlangsung tertutup. Tadi juga kita bisa lihat sama-sama hanya beberapa menit di awal yang bisa diliput oleh media. Ee sementara lebih detailnya akan berlangsung tertutup yang kalau kita lihat dari rundown tampaknya Presiden Prabu Subianto akan e berada di kawasan sarasehan kebangsaan di JCC ini sampai pukul .00 siang nanti beberapa yang tadi sempat disinggung dijawab sedikit oleh Presiden Prabowo Subianto misalnya adalah soal ee usulan agar ee beberapa BUMN laba dari BUMN kemudian dipakai untuk membantu e pendidikan."
+  },
+  {
+   "t": 1429.0,
+   "d": 46.0,
+   "text": "Tapi kemudian menjadi pertanyaan juga yang tadi disinggung oleh Presiden Prabo Subianto adalah memangnya BUMN ada labanya atau tidak? Nah, tapi yang kemudian dibanggakan oleh Presiden Prabu Subianto juga adalah ketika Danantara sudah dibentuk ketika di masa pemerintahannya ee dalam waktu ini lewat Danantara ia mengaku bahwa sudah ada laba yang nantinya artinya usulannya bisa diolah, bisa nanti dicari jalan tengahnya. Apakah sebagian laba dari BUMN yang sudah dikelola lewat Danantara itu akan bisa dialokasikan untuk sektor pendidikan. Ee kemudian juga tadi yang menarik berhubungan dengan BUMN, Presiden Prabo Subianto menegaskan komitmennya bahwa akan ada perampingan sampai lebih dari 750 BUMN yang artinya kalau kita kalikan dengan banyak direksi, banyak komisaris itu juga akan berhubungan dengan perampingan anggaran. Imron."
+  },
+  {
+   "t": 1475.0,
+   "d": 201.0,
+   "text": "Baik, terima kasih jurnalis Kompas TV, Cindy Permadi, serta juru kamera Anggarwan melaporkan dari JCC Sayang Jakarta. Dan saudara, breaking news Kompas TV kami akhiri sampai di sini. Saya Imran Fadila sampai jumpa. Ibu Rosaria Indah, Universitas Bengkulu. Bapak Presiden, kami mengharapkan strategi pemerintah untuk mengubah arah hilirisasi dari sekedar pemrosesan ekstraktif seperti pengolahan mineral mentah menjadi katoda atau prekursor baterai menuju penciptaan produk akhir bermerek karya."
+  },
+  {
+   "t": 1676.0,
+   "d": 39.0,
+   "text": "Indah Universitas Bengkulu. Pak Presiden, kami mengharapkan strategi pemerintah untuk mengubah arah hilirisasi dari sekedar pemrosesan ekstraktif seperti pengolahan mineral mentah menjadi katoda atau prekursor baterai menuju penciptaan produk akhir bermerek karya anak bangsa seperti alat kesehatan mengingat hingga saat ini sebagian besar alat kesehatan kita masih bergantung pada impor."
+  },
+  {
+   "t": 1715.0,
+   "d": 31.0,
+   "text": "Bapak Presiden, tingginya antusiasme masyarakat untuk melanjutkan pendidikan tinggi khususnya dari kalangan mahasiswa berprestasi yang berasal dari keluarga kurang mampu menunjukkan besarnya kebutuhan terhadap dukungan pembiayaan pendidikan. Oleh karena itu, kami mengusulkan agar pemerintah dapat meningkatkan alokasi beasiswa bagi mahasiswa berprestasi dari keluarga kurang mampu di berbagai perguruan tinggi di Indonesia sebagai investasi strategis dalam pengembangan sumber daya manusia unggul."
+  },
+  {
+   "t": 1746.0,
+   "d": 59.0,
+   "text": "Dari Pak Amar, Rektor Universitas Tadolako. Bapak Presiden, kami sangat mengapresiasi inisiatif pemerintah membangun kemitraan dengan perguruan tinggi terbaik dunia seperti Imperial College London. Langkah ini merupakan strategi yang sangat baik untuk mempercepat peningkatan mutu pendidikan tinggi Indonesia. Kami mengusulkan agar skema kerja sama tersebut tidak hanya diperuntukkan bagi kampus-kampus baru di bidang kedokteran dan STEM, tetapi juga melibatkan perguruan tinggi yang telah ada sehingga lebih banyak institusi dapat meningkatkan kapasitas akademik, kualitas rista daya saing globalnya. dan masih banyak lagi insyaallah akan diserahkan langsung dan beberapa hal teknis yang dirumuskan selama sarasehan Pak Presiden sudah disepakati untuk ditindaklanjuti dengan Kementerian Teknis terkait. Sekali lagi terima kasih kepada Bapak Presiden Republik Indonesia. Asalamualaikum warahmatullahi wabarakatuh. Bapak Presiden yang kami hormati."
+  },
+  {
+   "t": 1805.0,
+   "d": 37.0,
+   "text": "Demikian laporan pelaksanaan sarasehan kebangsaan sebagai bagian dari rangkaian Konvensi Sains, Teknologi dan Industri Indonesia tahun 2026. Selanjutnya dengan penuh hormat kami mohon berkenan Bapak Presiden Republik Indonesia memberikan arahan sekaligus menutup secara resmi rangkaian sarasehan kebangsaan strategi kemandirian ekonomi dan kesejahteraan Indonesia. Atas perkenan Bapak Presiden kami sampaikan terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Om santi shanti shanti om. Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 1842.0,
+   "d": 75.0,
+   "text": "Oke, Bapak, Ibu hadirin yang berbahagia, mari kita simak bersama arahan Presiden Republik Indonesia yang dilanjutkan dengan pengetukan Palu sebagai tanda penutupan sarasean kebangsaan Konvensi Sains, Teknologi dan Industri Indonesia tahun 2026. [tepuk tangan] pertanyaan Oke."
+  },
+  {
+   "t": 1917.0,
+   "d": 111.5,
+   "text": "Ah Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Selamat pagi. Salam sejahtera kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Ee saudara-saudara sekalian, terima kasih atas laporan tadi Menteri Mendikti, Saudara-saudara sekalian. ee saya monitor terus jalannya salsihan sampai malam kemarin padat dan ee secara garis besar saya saya mengikuti bahwa suasana berada dalam ee [berdehem] suasana positif, suasana karena tukar-menukar ee keterangan pandangan dan ee memang ee inilah ee keyakinan saya, inilah keinginan saya bahwa semua potensi seluruh bangsa harus [berdehem] bersatu, harus mengeluarkan segala pemikiran, segala inisiatif untuk kebaikan kita bersama, untuk survival kita, untuk kelangsungan hidup bangsa Indonesia."
+  },
+  {
+   "t": 2028.0,
+   "d": 63.0,
+   "text": "Saudara-saudara ee dalam waktu yang singkat kita berusaha sebagai pemegang mandat sebagai kendali [berdehem] atas negara Indonesia. Pada saat sekarang saya diberi mandat sebagai nahqoda katanya katakan saya berusaha untuk selalu menyampaikan [berdehem] keadaan umum yang kita hadapi sebagai [berdehem] suatu bangsa. bahwa bumi kita, planet kita sudah semakin menjadi kecil karena sains dan teknologi."
+  },
+  {
+   "t": 2091.0,
+   "d": 40.0,
+   "text": "Sekarang kejadian belasan ribu kilometer berpengaruh [berdehem] kepada kehidupan kita. Kita tidak bertek, kita tidak bermusuhan sama siapa. Tapi kalau ada perang nuklir di satu belahan dunia, kita akan kena dampaknya. Karena itu menurut saya dan saya kalau empat kali ketemu para rektor itu bagi saya belum apa-apa. Nah, kalau perlu tiap bulan kita ketemu."
+  },
+  {
+   "t": 2131.0,
+   "d": 36.0,
+   "text": "[tepuk tangan] Benar. Saya butuh jumpa dengan orang-orang pintar. Saya kasihan berapa profesor yang tinggal di sekitar Jakarta itu bolak-balik dipanggil. Iya, enggak. Saya dengar mereka itu tiap 2 jam buka handphone. Yang di Bandung pun tidak ada alasan karena sekarang ada wush dipanggil ya 45 menit bisa di Jakarta kan begitu."
+  },
+  {
+   "t": 2167.0,
+   "d": 51.0,
+   "text": "yang di Bandung pun saya perhatikan berapa ee berapa pembantu saya waktu awal dilantik rambutnya masih bagus. Setelah 18 bulan semakin semakin botak. [berdehem] Aku perhatikan Pak Brian banyak itu rambutnya sudah makin ke atas. Banyak profesor ini. Jadi saudara-saudara inilah yang kita inginkan ya. Kita berada di satu kapal besar yang namanya NKRI."
+  },
+  {
+   "t": 2218.0,
+   "d": 53.0,
+   "text": "Saya kemarin sampaikan kita berbeda pandangan gak ada masalah. Universitas adalah tempat di mana gagasan-gagasan diadu adu gagasan, adu pandangan, adu filosofi, adu inovasi. Di situlah di situ disebut bahwa kampus punya academic freedom. Academic freedom kebebasan akademis bukan [berdehem] kebebasan yang lain-lain. Apalagi kampus menjadi tempat [berdehem] pemikiranem atau tempat katakanlah pertentangan."
+  },
+  {
+   "t": 2271.0,
+   "d": 47.0,
+   "text": "Biarlah kampus aktif menggeluti [berdehem] sains dan teknologi untuk memberi manfaat kepada rakyat yang membiayai kampus-kampus itu, yang membiayai semua lembaga pendidikan Swasta berperan sangat penting, tapi swasta pun menikmati uang rakyat dari subsidi listrik, subsidi BBM dengan segala upaya yang kita lakukan."
+  },
+  {
+   "t": 2318.0,
+   "d": 66.0,
+   "text": "Jadi, Saudara-saudara ini adalah bernegara. Jadi terima kasih saudara dengan tukun mengikuti saran ini dan saya terima daftar usulan dan daftar pertanyaan yang tadi disampaikan ee cukup banyak. Saya saya janji satu-satu akan saya perhatikan. [tepuk tangan] Saudara-saudara, jangankan usul dari profesor, usul dari anak di desa yang sampai langsung ke saya lewat TikTok atau lewat saya segera tindak lanjut, Saudara-saudara. [tepuk tangan] ya karena ee saya berkeyakinan bahwa kesulitan itu harus dihadapi."
+  },
+  {
+   "t": 2384.0,
+   "d": 80.0,
+   "text": "Kesulitan harus dihadapi dan kita harus berani menghadapi kesulitan, berani mengakui kesulitan dan kerja keras mencari solusi terhadap kesulitan. Ya, ini saya dapat dari banyak masukan. organisasi, masyarakat, negara yang sukses adalah masyarakat dan negara organisasi yang berani berani mengetahui, mencari kesulitan dan kekurangan [berdehem] dan mengatasinya. Jadi saya saya terima kasih teknologi bisa berbuat itu kesulitan di suatu desa di Nias langsung dan itu kita selesaikan dalam waktu Jumat. Tapi kita tahu juga teknologi juga belum tentu selalu positif bagi manusia. Sekarang kita lihat [berdehem] nukleir di satu pihak luar biasa bisa membantu manusia."
+  },
+  {
+   "t": 2464.0,
+   "d": 36.0,
+   "text": "Energi yang sangat murah, energi yang relatif bersih, nuklir untuk medis, nuklir untuk pertanian. Ya, tapi nuklir bisa menghabiskan [mendengus] peradaban manusia langsung. Saudara-saudara, sekarang AI, artificial intelligence, hampir semua negara sekarang mengejar AI, tidak mau ketinggalan."
+  },
+  {
+   "t": 2500.0,
+   "d": 45.0,
+   "text": "Tapi Bapak-bapak penemu AI sendiri sudah memberi warning bahwa AI ini [berdehem] bisa menjadi repot bagi manusia. Sekarang sudah ada apa namanya tuh agent AI. Sudah ada agent AI. Konon kabarnya agen AI ini AI yang bekerja berkarya untuk satu orang atau satu kelompok atau satu korporasi, satu organisasi, satu negara atau satu."
+  },
+  {
+   "t": 2545.0,
+   "d": 38.0,
+   "text": "Dan konon kabarnya sekarang sudah ada 5 juta AI agent AI 5 juta mungkin 5 juta itu 3 minggu lalu dan mereka katanya sudah punya apa tuh namanya chat room sendiri 5 juta ini berbicara sendiri dalam bahasa kode mereka sendiri jadi [berdehem] manusia yang menciptakan kan sesuatu yang lebih hebat. Sekarang juara catur saja kalah sama mesin. Juara catur."
+  },
+  {
+   "t": 2583.0,
+   "d": 94.0,
+   "text": "Mesin sekarang bisa membuat karya-karya luar biasa. Jadi, Saudara-saudara, inilah nanti para guru besar, para profesor yang harus mendalami itu. Jadi, Saudara-saudara, saya sangat terima kasih. Sepintas saya baca tadi, saya dengar banyak usul yang sangat baik, sangat masuk akal dan akan segera kita ee tindak lanjuti. Jadi [tepuk tangan] sebagai contoh ee usul alokasi beasiswa doktor bagi dosen baik di perguruan tinggi maupun swasta dan sebagain ini usul yang sangat baik ini akan kita tindak lanjut ya kan. [tepuk tangan] ee tadi juga ee usul sektor indust ee biaya riset diusulkan agar ee tiap BUMN mengalokasikan ee sebagian laba mereka untuk riset dan ee ya untuk riset ya. Inovasi ini bagus usul masalahnya BUMN ini ada labanya enggak? [berdehem] Pak sekarang sekarang mulai ada. Terima kasih."
+  },
+  {
+   "t": 2677.0,
+   "d": 39.0,
+   "text": "Danantara mana ya? E terima kasih. Nah itu kan sudah mulai botak terus itu. [berdehem] Terima kasih. Satu 1 tahun ini sudah mulai ada laba ya. Masalahnya kemarin ini buemen-boyomen ini ya kita sudah tahulah ya sudah lama jadi orang Indonesia saudara sudah mengerti. Ini sedang kita bersihkan, sedang kita tertibkan dari 1000 lebih BUMN."
+  },
+  {
+   "t": 2716.0,
+   "d": 59.0,
+   "text": "Sekarang kita sudah tutup lebih dari 200. Lebih dari 200 nantinya kita akan bikin tinggal 300 lah ya. Bagaimana Pak Osar Doni? Ujungnya kita bisa berapa Bom? Ujungnya nanti 250. Bayangkan lebih dari 750 kita tutup 750 di rout 750 direksi 4 atau 5 750 komisaris 10 overhead-nya kayak apa? Gajinya kayak apa, Saudara-saudara? Ini uang rakyat semua."
+  },
+  {
+   "t": 2775.0,
+   "d": 60.0,
+   "text": "Perusahaan tidak untung hanya bayar overhead. Saudara-saudara sekalian, kita mau sekarang rasional, efisien [berdehem] dan ini kita buktikan dan ini kita lakukan. Saya minta dalam tahun ini harus selesai ya. Jadi dalam 2 tahun kita akan bikin BUMN-BomN lebih efisien, lebih transparan, lebih bekerja untuk rakyat, Saudara-saudara. Jadi, jadi banyak sekali usul yang saya lihat ee sangat positif ya."
+  },
+  {
+   "t": 2835.0,
+   "d": 40.0,
+   "text": "Tadi dari Bengkulu juga ee strategi bagaimana dari pengolahan [berdehem] bahan baku menuju penciptaan produk akhir. Saya kira ini ini yang kita cita-citakan, tapi harus melalui proses itu dulu. untuk proses pertama saja, proses kita ingin pengolahan di Indonesia itu membutuhkan suatu ee usaha yang sangat besar. Tapi insyaallah kita akan menuju ke situ, ya."
+  },
+  {
+   "t": 2875.0,
+   "d": 27.0,
+   "text": "Kemudian usul-usul lain tentang ee kerja sama dengan institusi luar negeri melibatkan kampus-kampus universitas di semua bidang dan di semua daerah. Saya kira ini benar. Nanti kita akan ke arah situ semua. Kemudian ini banyak sekali nanti kita akan selesaikan semua."
+  },
+  {
+   "t": 2902.0,
+   "d": 57.0,
+   "text": "Saya kira itu ya sementara dan ini ada catatan bahwa ee mohon perhatian Bapak wartawan masih ada [tertawa] di 5 menit pertama. Bapak Presiden dengan ee hormat saya mengundang para wartawan untuk minum kopi di S. Terima kasih ya. Karena ini adalah ee penutupan [berdehem] tapi di mana sekaligus sesi terakhir saya untuk sarasehan kali ini."
+  },
+  {
+   "t": 2959.0,
+   "d": 12.0,
+   "text": "[tepuk tangan] Saudara-saudara, benar, Saudara-saudara. [berdehem] Ini saya saya benar-benar bangsa Indonesia harus mandiri. Bangsa Indonesia harus berdiri di atas kaki kita sendiri."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "7Zi5vqN_VC4",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/7Zi5vqN_VC4.json"
+ }
+}

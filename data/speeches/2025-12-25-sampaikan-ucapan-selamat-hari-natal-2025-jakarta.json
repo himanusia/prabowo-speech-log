@@ -1,0 +1,96 @@
+{
+ "id": "2025-12-25-sampaikan-ucapan-selamat-hari-natal-2025-jakarta",
+ "video_id": "OOAGKPFdwf0",
+ "date": "2025-12-25",
+ "title": "Presiden Prabowo Sampaikan Ucapan Selamat Hari Natal 2025, Jakarta, 25 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=OOAGKPFdwf0",
+ "duration_s": 161,
+ "duration_hms": "2:41",
+ "source_tier": "official",
+ "fetch_method": "caption_api",
+ "snippet_count": 53,
+ "token_count": 213,
+ "unique_word_count": 120,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "OOAGKPFdwf0",
+   "url": "https://www.youtube.com/watch?v=OOAGKPFdwf0",
+   "title": "Presiden Prabowo Sampaikan Ucapan Selamat Hari Natal 2025, Jakarta, 25 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "upload_date": "2025-12-25",
+   "duration_s": 161,
+   "source_tier": "official",
+   "fetch_method": "caption_api",
+   "token_count": 213,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 53,
+   "discovery_origins": [
+    "official_channel"
+   ],
+   "selection_reason": "official_speech_candidate",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 13,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 59.64,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Saudara-saudara sebangsa dan setanah air, seluruh umat Kristiani yang saya hormati. Saya Prabowo Subianto, Presiden Republik Indonesia."
+  },
+  {
+   "t": 30.24,
+   "d": 106.2,
+   "text": "atas nama pemerintah dan atas nama pribadi mengucapkan selamat hari Natal kepada seluruh umat Kristiani di tanah air dan di mana pun saudara berada. Semoga damai Natal membawa kasih, berkah, pengharapan, dan kekuatan bagi kita semua. Saudara-saudara sekalian, di tengah perayaan Natal tahun ini, hati kita juga tertuju kepada saudara-saudara kita yang tengah menghadapi akibat bencana di sejumlah tempat di tanah air, di Aceh, Sumatera Utara, dan Sumatera Barat dan juga di beberapa tempat di tanah air kita."
+  },
+  {
+   "t": 83.08,
+   "d": 92.84,
+   "text": "Semoga saudara-saudara kita di tempat-tempat tersebut diberi lindungan oleh yang maha kuasa, diringankan penderitaan mereka. Juga marilah kita terus bekerja keras untuk mengatasi kesulitan-kesulitan yang dihadapi oleh saudara-saudara kita. Mari kita jadikan Natal sebagai momentum untuk memperkuat persatuan nasional, memperdalam solidaritas sosial dan meneguhkan semangat gotongroyong. Kita harus bersatu, bekerja sama, mengatasi segala perbedaan untuk kepentingan rakyat kita yang kita cintai."
+  },
+  {
+   "t": 130.12,
+   "d": 49.08,
+   "text": "Sekali lagi atas nama pemerintah dan pribadi saya ucapkan selamat hari Natal kepada seluruh umat Kristiani di tanah air. Semoga damai dan pengharapan Natal menyertai saudara-saudara sekalian. Dan semoga Tuhan yang maha kuasa senantiasa melindungi seluruh bangsa Indonesia."
+  },
+  {
+   "t": 154.08,
+   "d": 3.32,
+   "text": "Terima kasih."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "OOAGKPFdwf0",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/OOAGKPFdwf0.json"
+ }
+}

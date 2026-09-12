@@ -1,0 +1,376 @@
+{
+ "id": "2026-07-17-di-panen-raya-tebu-serentak-di-malang",
+ "video_id": "yJglGGY8ADI",
+ "date": "2026-07-17",
+ "title": "[FULL] Pidato Presiden Prabowo di Panen Raya Tebu Serentak di Malang",
+ "channel": "KOMPASTV",
+ "youtube_url": "https://www.youtube.com/watch?v=yJglGGY8ADI",
+ "duration_s": 2665,
+ "duration_hms": "44:25",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 779,
+ "token_count": 2617,
+ "unique_word_count": 905,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "yJglGGY8ADI",
+   "url": "https://www.youtube.com/watch?v=yJglGGY8ADI",
+   "title": "[FULL] Pidato Presiden Prabowo di Panen Raya Tebu Serentak di Malang",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-07-17",
+   "duration_s": 2665,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2617,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 779,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "wqtxaE1csEI",
+   "url": "https://www.youtube.com/watch?v=wqtxaE1csEI",
+   "title": "[FULL] Pidato Presiden Prabowo di Hadapan Para Jendral TNI dan Petani se-Indonesia",
+   "channel": "SUARANTBcom",
+   "upload_date": "2026-07-17",
+   "duration_s": 2608,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2576,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 755,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 42,
+  "ekonomi": 10,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 11,
+  "tata_kelola": 5,
+  "pertahanan_dan_keamanan": 59,
+  "nasional_dan_identitas": 106,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 1.16,
+   "d": 87.87,
+   "text": "sebagai tanda panen raya serentak bersama TNI. [berdehem] Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Selamat sore. Salam sejahtera bagi kita sekalian. Shalom. Salve, Om Swastiastu. Namo Buddhaya. Salam kebajikan. Yang saya hormati Panglima Tentara Nasional Indonesia Jenderal TNI Agus Subianto sebagai penyelenggara."
+  },
+  {
+   "t": 60.24,
+   "d": 82.92,
+   "text": "beserta wakil panglima TNI, para kepala staf angkatan, yang hadir, Wakil Panglima TNI Jenderal TNI Tandio Budi Revita, Kepala Staf Angkatan Darat Jenderal TNI Maruli Simban Junta, Kepala Staf Angkatan Laut Laksamana TNI Muhammad Ali, Kepala Kepala Staf Angkatan Udara Marsekal TNI Toni Harjono, Ketua Komisi 4 DPRRI, Saudara Siti Hediati Soeharto beserta para anggota DPRRI yang hadir."
+  },
+  {
+   "t": 121.84,
+   "d": 66.08,
+   "text": "Para anggota kabinet merah putih yang hadir. Menko Politik dan Keamanan Jenderal TNI Purnawirawan Jamari Caniago. Menko Pangan Saudara Zuk Kifli Hasan. Menteri Pertahanan Jenderal TNI Purnawirawan Safri Shamsudin. Menteri Luar Negeri Saudara Sugiono. Menteri Sekretaris Negara Saudara Prasutyo Hadi Menteri Pertanian Saudara Andi Amran Sulaiman."
+  },
+  {
+   "t": 158.96,
+   "d": 82.96,
+   "text": "Menteri Perdagangan, Saudara Budi Santoso, Menteri Agraria dan Tata Ruang, serta Kepala BPN, Saudara Nusron Wahid, ya, Kepala Kepolisian Negara Republik Indonesia Jenderal Polisi Listio Sigit Prabowo. Kepala Badan Pusat Statistik Saudara Amalia Adiningar Widyasari. Ya, Kepala Badan Riset dan Inovasi Nasional Prof. Arif Satria, Sekretaris Kabinet Republik Indonesia LC call Infantry Teddy Indrawijaya."
+  },
+  {
+   "t": 216.68,
+   "d": 102.04,
+   "text": "Wakil Menteri Pertanian, Saudara Sudaryono. Yang saya hormati pimpinan daerah yang hadir, Gubernur Jawa Timur, Saudari Kofifah Indar Parawansa beserta jajaran Forkopimda Provinsi Jawa Timur. Bupati Malang, Saudara Sanuksi. Bupati Nganjuk, Saudara Marhain Jumadi ya, Walikota Malang, Saudara Wahyu Hidayat, Walik Walikota Batu, Saudara Nurahman, Direktur Utama PR Bulokan Jenderal TNI Punawirawan Ahmad Rizal Ramdani. Ya, yang saya hormati para pimpinan perusahaan BUMN dan swasta."
+  },
+  {
+   "t": 299.2,
+   "d": 79.9,
+   "text": "Para peserta yang hadir melalui video conference di 42 titik Kodam, Kodarela, dan Lanut. Para Rektor IPB dan Universitas Brawijaya, para tokoh agama, para alim ulama yang saya hormati. Para kelompok tani, para petani, para penyuluh pertanian. [tepuk tangan] Oh ya, tadi hadir di sini juga Rektor Institute ee ee saya ulangi Kepala Pusat Penelitian Perkebunan Gula Indonesia, Saudara Akmal Agustira."
+  },
+  {
+   "t": 366.24,
+   "d": 67.4,
+   "text": "tadi yang kita hormati Wakil Rais Suriah PWNU Jawa Timur K. H. Abdul Matin Jawahir, Ketua Tanfidiah PW NU Jawa Timur, Bapak K. H. Abdul Hakim Mahfud. Gus Kikin, Ketua Dewan Pembina Asosiasi Petani Tubuh Rakyat Indonesia Apt, Saudara Muhammad Arum Sabil. Coba buka topimu."
+  },
+  {
+   "t": 412.04,
+   "d": 59.92,
+   "text": "Enggak apa-apa. Saya saya juga mulai botak, jadi saya pakai kopiah. Mikirin petani tebu ya. Botak. Ketua Asosiasi Produsen Spiritus dan Ethanol Indonesia, Saudara Giovanni, Pengurus Bidang Hukum dan Advokasi Kontak Tani dan Nelayan Andalan, Saudara Ahmad Prayogo, Wakil Ketua Umum Asosiasi Pengusaha Gula Indonesia, Saudara Jonathan."
+  },
+  {
+   "t": 455.96,
+   "d": 68.16,
+   "text": "Ketua Umum Asosiasi Petani Tebu Republik Indonesia, Saudara Fakhudin Rasyid. Perwakilan kelompok Tani Tebu Jawa Timur, Saudara Abdul Mujib. Ini anak buahnya Harum kok wajib botak semua ya. Pengurus Asosiasi Petani Teburan Indonesia harus botak semua ya. Ah perwakilan Kelompok Tani Padi Jawa Timur saudara Ngateman."
+  },
+  {
+   "t": 506.88,
+   "d": 60.72,
+   "text": "Oh, enggak enggak botak. Oke, terima kasih. Perwakilan Kelompok Tani Kedele Jawa Timur, Saudara Puji Sentosa dari Pandean, Nganjuk. Ah, baik, Saudara-saudara sekalian. Saudara-saudara yang berada di titik-titik melalui Vicon ee saya tidak sebut satu persatu tanpa mengurangi rasa hormat."
+  },
+  {
+   "t": 545.64,
+   "d": 69.6,
+   "text": "Sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Allah Subhanahu wa taala, Tuhan maha besar, Tuhan maha kuasa. yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita memohon pertolongan. Kita bersyukur atas segala kebaikan, karunia, berkah, dan kedamaian yang diberikan kepada kita."
+  },
+  {
+   "t": 580.76,
+   "d": 71.28,
+   "text": "atas kesehatan dan nafas yang masih diberikan sehingga kita dapat berkumpul sore hari ini dalam acara yang sangat membanggakan dan membahagiakan yaitu panen raya TNI dalam rangka mendukung program ketahanan pangan nasional. Saya ucapkan selamat atas tersenggalnya panen raya TNI terintegrasi yang dilaksanakan serentak di 43 titik di seluruh Indonesia."
+  },
+  {
+   "t": 621.28,
+   "d": 66.8,
+   "text": "Kegiatan ini menunjukkan bahwa ketahanan pangan bukan hanya urusan Kementerian Pertanian, tetapi merupakan gerakan nasional yang melibatkan seluruh kekuatan bangsa. Saya sangat menghargai semangat persatuan, kolaborasi, dan gotongroyong dari seluruh komponen bangsa."
+  },
+  {
+   "t": 663.52,
+   "d": 96.24,
+   "text": "2 bulan lalu tepatnya 16 Mei 2026, kita menyaksikan panen raya jagung bersama Polri. Hari ini kita menyaksikan panen raya TNI. Ada tebu, ada kedelei, ada padi. Ini menunjukkan bahwa TNI dan Polri tidak hanya merupakan penjaga pertahanan dan keamanan negara, tapi TNI dan Polri adalah bagian yang tidak bisa dipisahkan dari rakyat Indonesia."
+  },
+  {
+   "t": 717.0,
+   "d": 110.08,
+   "text": "TNI dan Polri adalah anak kandung rakyat. TNI dan PORI harus selalu bersama rakyat. di tengah-tengah rakyat. Kesulitan rakyat adalah kesulitan TNI dan Polri. Selama ada rakyat yang hidupnya susah, itu adalah kewajiban semua komponen untuk bersatu, untuk bahu-membahu, berbuat langkah-langkah yang benar, langkah-langkah yang besar, langkah-langkah yang nyata untuk mengatasi kesulitan-kesulitan rakyat itu."
+  },
+  {
+   "t": 791.4,
+   "d": 97.16,
+   "text": "Saya bangga hari ini dan saya bangga beberapa minggu-minggu ini saya melihat kerja keras semua unsur menteri-menteri, panglima, Kapolri, semua unsur bekerja dengan besit. tidak istirahat. Banyak pejabat tinggi negara, menteri-menteri kepala badan terusangnya terusang saja yang ambruk masuk rumah sakit karena kerja keras."
+  },
+  {
+   "t": 850.8,
+   "d": 92.56,
+   "text": "Kita mengejar sasaran-sasaran. Kita sadar bahwa rakyat sudah terlalu lama mengalami kehidupan yang tidak selayaknya dialami oleh negara besar dan negara kaya seperti kita. sehingga pemerintah yang saya pimpin bertekad untuk berbuat yang terbaik untuk menggapai sasaran yang tertinggi dalam waktu yang secepat-cepatnya."
+  },
+  {
+   "t": 905.36,
+   "d": 68.62,
+   "text": "Kita tidak mau menjadi bangsa yang santai. Kita akan buktikan kepada dunia bahwa bangsa Indonesia sedang bangkit dengan kekuatan kita sendiri. [tepuk tangan] Berkali-kali pendiri-pendiri bangsa kita mengajarkan kepada kita bahwa percayalah kepada kekuatan kita sendiri."
+  },
+  {
+   "t": 948.52,
+   "d": 47.04,
+   "text": "Tidak ada bangsa lain yang kasihan sama kita. Tidak ada bangsa lain yang kasihan sama kita. Ratusan tahun mereka datang mengambil kekayaan kita. Dan sampai hari ini pun ada negara-negara yang selalu ingin ambil kekayaan kita dan membiarkan rakyat kita miskin. Itu kita tidak terima."
+  },
+  {
+   "t": 987.1,
+   "d": 86.58,
+   "text": "[tepuk tangan][bersorak] Karena itu sekali lagi saya ucapkan terima kasih kepada semua unsur, semua unsur kita bahu-membahu. Saya mengajak semua kekuatan sudah. Bersatulah. Bersatulah untuk bangsa dan rakyat kita. Bersatulah untuk anak-anak dan cucu kita. Bersatulah untuk mengamankan menguasai kembali semua kekayaan bangsa Indonesia supaya rakyat kita bisa menikmati kekayaan tersebut."
+  },
+  {
+   "t": 1041.6,
+   "d": 57.32,
+   "text": "kita akan dilawan. Tapi itu risiko. Ratusan tahun kita ingin merdeka, ratusan tahun kita ingin hidup baik, ratusan tahun dan kita merdeka melalui perjuangan, melalui darah, keringat, dan air mata. Kita tidak mau memusuhi siapa saja. Saya katakan kita mau bersahabat dan semua kekuatan semua negara."
+  },
+  {
+   "t": 1078.4,
+   "d": 99.4,
+   "text": "Tapi kita sadar sekarang bahwa kita harus kompak, kita harus bersatu. semua unsur terutama mereka yang dipilih rakyat terut terutama mereka yang digaji oleh rakyat terutama mereka dalam pemerintahan dalam birokrasi dalam BUMN BUMN Kita tidak mau toleransi kepada mereka yang dipercaya oleh rakyat, yang digaji oleh rakyat, tapi melaksanakan kebijakan-kebijakan dan tindakan-tindakan yang merugikan rakyat."
+  },
+  {
+   "t": 1142.44,
+   "d": 111.18,
+   "text": "Apalagi mencuri uang rakyat. Kita tidak toleransi. Saya tidak toleransi sebagai presiden yang dipercaya rakyat. Saya tidak akan ragu-ragu. [tepuk tangan][bersorak] Saya terima kasih target kita suasembada pangan sudah kita capai sekarang. Suak sembada energi kita sedang menuju sembada air sedang kita rintis sehingga semua rakyat kita punya akses kepada air bersih dan air untuk tanaman Kita sedang mengadakan penertiban besar-besaran terhadap semua kegiatan-kegiatan yang ilegal."
+  },
+  {
+   "t": 1217.08,
+   "d": 77.59,
+   "text": "penyelundupan kegiatan tambang ilegal, kegiatan perkebunan ilegal, kegiatan perikanan ilegal, permainan-permainan dengan dagang yang ilegal, pekerjaan kita besar, tapi insyaallah dengan tekad, dengan hati, dengan kehendak kita akan mencapai yang kita inginkan."
+  },
+  {
+   "t": 1266.78,
+   "d": 94.11,
+   "text": "[tepuk tangan] Tadi Menteri Pertanian menyampaikan kepada saya bahwa sudah 12 tahun tidak ada peremajaan tebu. 12 tahun. 12 tahun. Kita sekarang akan meremajakan [berdehem] semua tebu yang kita miliki. Menteri Pertanian melaporkan kepada saya, program kita sekarang adalah 100.000 000 hektar per tahun dan dengan [berdehem] demikian akan dicapai dalam 4 tahun."
+  },
+  {
+   "t": 1325.08,
+   "d": 73.22,
+   "text": "Tapi setelah saya tanya lagi ke beliau dengan gagah dan berani beliau mengatakan, \"Pak, kita bisa dalam 2 tahun.\" [tepuk tangan] Tapi saya bilang bagus, tapi jangan masuk rumah sakit. Menteri pertanian janji 2 tahun tapi you enggak masuk rumah sakit. Iya. I negara dan bangsa masih butuh kau ya. Menteri-menteri, jenderal-jenderal jangan jangan ambruk. Kalau mau ilmu nanti saya kasih ilmu."
+  },
+  {
+   "t": 1375.88,
+   "d": 49.72,
+   "text": "Tentara itu pintar cari waktu istirahat. ya upacara aja bisa tidur. Nah, itu ini lulusan akademi militer, akademi polisi ini semua punya ilmu-ilmu itu semua. Di kelas tidur, tapi sekarang enggak. Itu zaman dulu. Zaman kalian kan enggak tidur di kelas kan? Hah?"
+  },
+  {
+   "t": 1405.96,
+   "d": 49.84,
+   "text": "Enggak kan? karena gizi sudah bagus. Jadi kita akan percepat dan semua usaha kita akan kerja keras. Tapi sekarang hasil-hasil sudah mulai kita lihat. Menteri Keuangan melaporkan kondisi ekonomi kita bagus di tengah dunia yang susah, di tengah perang di mana-mana kita masih lumayan."
+  },
+  {
+   "t": 1438.88,
+   "d": 72.8,
+   "text": "kita kemarin ee berhasil ee mulai produksi ee mulai pembangunan blok gas salah satu yang terbesar di kawasan kita. Setelah 28 tahun mangkrak kita hidupkan. Sebelumnya kita berhasil menjadi negara pertama di dunia yang menghasilkan B50. kita sekarang hasilkan solar dari kelapa sawit."
+  },
+  {
+   "t": 1477.44,
+   "d": 82.36,
+   "text": "Jadi dari mulai bulan Juli ini kita tidak impor solar lagi dari luar negeri, Saudara-saudara. Lebih baik uang itu beredar di Indonesia, dinikmati oleh petani-petani sawit di seluruh Indonesia. Dan hari ini saya di dipaparkan, dikasih lihat tadi. Saya minta maaf tadi saya lama melihat pameran itu ada tadi sudah mulai kita mampu menuju E 10, etanol 10."
+  },
+  {
+   "t": 1521.76,
+   "d": 75.2,
+   "text": "Jadi nanti bensin bisa dicampur dengan 10% etanol. Tapi tadi para petugas mengatakan kita bisa sampai E20. Butuh pabrik tadi. Pabriknya yang baru kita miliki baru satu pabrik. Tadi saya putuskan kita akan bangun minimal 30 pabrik. Kalau perlu sampai 50 pabrik, India sudah E20, India sudah E20."
+  },
+  {
+   "t": 1576.44,
+   "d": 79.32,
+   "text": "Brazil sudah E100. Masa Indonesia enggak bisa? Indonesia bisa kan? Bisa. Bisa. Bisa. Bisa. Bisa. Bisa. Yang enggak mau enggak apa-apa duduk aja. Duduk aja nonton ya, tapi jangan membebek kepada kekuatan asing terus ya kan. Indonesia jelek, Indonesia apa? Indonesia gelap."
+  },
+  {
+   "t": 1636.64,
+   "d": 88.08,
+   "text": "Kalau pakai kacamata gelap ya gelap terus. Ah, tiap bulan Indonesia akan collapse. Juni collapse. Ini sudah Juli. Juli collaps. Aku collaps itu mikirnya. Mikir collaps ya kan. Biar aja tuh. Kalau di tentara itu ada istilah tinggalkan beri tanda ya kita jalan terus kita bekerja dengan semangat gembira semangat optimis orang berani itu gembira."
+  },
+  {
+   "t": 1686.4,
+   "d": 70.86,
+   "text": "Orang berani itu optimis. Orang sedih duduk di kamar aja sedihu. [tepuk tangan] Sebentar lagi kita sudah punya motor nasional. Saya akan launching berapa minggu ini? Motor Listrik nasional. Saya berharap nanti petani-petani kita minimal naik motor listrik ya."
+  },
+  {
+   "t": 1733.32,
+   "d": 50.12,
+   "text": "Siapa tahu ada yang pakai mobil semua nanti. Tapi ada berapa petani yang sudah lapor ke saya. Dia sekarang sudah libur ke Hongkong. Saya senang. Iya kan? Nah, ini bagus. Yang bikin pidato tertulis cukup pendek. Saya sudah sampai paragraf 5. Kalau paragraf 6 ucapkan terima kasih."
+  },
+  {
+   "t": 1779.0,
+   "d": 73.69,
+   "text": "Jadi, tapi saya sudah bicara semua itu, Saudara-saudara. Kita optimis, [mendengus] kita canangkan cita-cita kita setinggi langit, Indonesia akan jadi negara makmur. [bersorak] Ya, [berteriak] kita tidak mau bodoh lagi. Kita ramah [tertawa] dibilang lemah. Ya, kita baik dibilang bodoh. Ya sudahlah."
+  },
+  {
+   "t": 1823.64,
+   "d": 76.08,
+   "text": "Ya sudahlah. Ya kan kita bersahabat mau datang ke Indonesia monggo. Dan semua orang banyak orang asing senang kalau ke Indonesia. Kita ini bangsa yang ramah tapi kita sekarang mau jadi bangsa yang bangkit. Saudara-saudara, kita akan punya motor buatan anak-anak Indonesia. Kita akan punya mobil buatan anak-anak Indonesia. Sekarang TNI dan Polri sudah pakai Jeep buatan putra-putri Indonesia."
+  },
+  {
+   "t": 1868.6,
+   "d": 48.87,
+   "text": "Waktu saya Menteri Pertahanan disodorkan, \"Pak, TNI dan TNI waktu itu saya manh jadi saya enggak bisa, saya enggak bisa ngurus Polri.\" Sori. [tertawa] Lantas polisi enggak mau di bawah Menteri Pertahanan sih. Tapi TNI saya disodorkan, Pak. Ini Jeep bagus, Pak. Murah."
+  },
+  {
+   "t": 1898.36,
+   "d": 66.36,
+   "text": "Buatan asing. Ini buatan Indonesia tapi mahal, Pak. Ya, karena kita baru mulai. Ya, kalau saya pilih yang murah ini, kapan Indonesia punya Jeep sendiri? Iya kan? [tepuk tangan] Ya sudah, saya pilih yang mahal. agak mahal tapi buatan anak Indonesia sendiri yaitu maung yang sekarang dipakai perwira-perwira kita sekarang pakai maung."
+  },
+  {
+   "t": 1931.28,
+   "d": 59.04,
+   "text": "Saya dengar dan Ramil sudah pakai Jeep juga ya. Hah? Gagah gitu ya. Enggak bisa semua serentak itu. Ada yang teriak belum? itu pasti dan ramen yang belum dapat jeep itu. Babinsa sudah mulai kan dapat motor-motor ya, motor listrik ya. He itu di film sudah. Ah itu."
+  },
+  {
+   "t": 1962.16,
+   "d": 124.09,
+   "text": "Jadi sekarang kalau saya lihat kota saya lihat ada Jeep-Jep. Bangga juga saya. Waduh, TNI sekarang pakai Jeep sendiri. Senjata kita sudah diakui dunia. Kita menang pertandingan nembak berapa belas kali? Berapa? Benar 12 kali kayaknya lebih ya. Hah? Oh, Austral 12 kali ada ASEAN kan dan sebagainya. Ee tapi rep apa yang yang ini menang 12 kali berturut-turut dalam pertandingan mereka yang bikin peraturan mereka, wasitnya mereka, teknik-tekniknya mereka, tapi kita menang 12 kali pakai senjata buatan anak-anak Indonesia."
+  },
+  {
+   "t": 2034.45,
+   "d": 78.1,
+   "text": "[tepuk tangan] Senapan serbu dari kita, pistol dari kita, so dari kita, saudara-saudara. Saya dengar begitu kita menang, kaget mereka. Indonesia kan dianggap remeh. Hadir di situ militer militer terbaik di dunia, tentara Amerika, marinir, Australia, Sanabaru, Singapura, Malaysia, Vietnam, Thailand ya."
+  },
+  {
+   "t": 2081.64,
+   "d": 98.16,
+   "text": "Indonesia 12 kali menang dan karena mereka pikir kok bisa menang, dia periksa senjata kita katanya. Dibongkar pelurunya, dilihat jangan-jangan Indonesia ini curang pakai apa gitu loh. Enggak. Ini saya kasih contoh bahwa kita sebenarnya kalau diberi kepimpinan yang baik, diberi alat yang baik, uang makannya enggak dikorupsi, [bersorak] [tepuk tangan] komandannya kasih contoh ya, Komandan-komandan jangan apa itu jarkoni ngajar iso ngelakoni ora iso."
+  },
+  {
+   "t": 2136.92,
+   "d": 97.68,
+   "text": "Ojo hah tentara dan polisi Indonesia harus ing ngarso sungelodo. di depan memberi contoh ya. Nanti ada pertandingan antara jenderal jenderal. Saya wasitnya. [bersorak] Saudara-saudara, banyak pakar di dunia sudah ramalkan bahwa dalam tahun 2000 45 sampai 50 Indonesia akan menjadi negara keempat terbesar dan terkaya di dunia."
+  },
+  {
+   "t": 2199.4,
+   "d": 68.76,
+   "text": "Tahun 2050 Cina nomor satu, Amerika nomor dua, India nomor 3, Indonesia nomor 4. Nanti 2075 India naik. Kita kita okelah ya. Keempat di dunia boleh benar enggak? Hah? Kita nanti 2004 40 50 kita di atas Jepang, di atas Inggris, Brazil, Prancis. Makanya kita sekarang harus siap."
+  },
+  {
+   "t": 2242.16,
+   "d": 74.48,
+   "text": "Itu 2050 itu 25 tahun lagi ya. Jadi anak-anak yang sekarang umur 10 tahun yang di SD dia nanti 25 tahun lagi dia 35 tahun dia intinya bangsa Indonesia. Jadi kalau kita sekarang tidak urus anak-anak itu, dia bagaimana akan menjadi negara keempat terbesar di dunia."
+  },
+  {
+   "t": 2279.44,
+   "d": 68.82,
+   "text": "Kita harus hilangkan kelaparan. Kita harus hilangkan kemiskinan. Kemiskinan apalagi? Kemiskinan ekstrem harus kita hilangkan. Insyaallah kita akan hilangkan, Saudara-saudara sekalian. Kita akan hemat anggaran kita. Kita akan bikin efisien bila perlu anggaran pertahanan kita kurangi, anggaran polisi kita kurangi untuk menghilangkan kemiskinan."
+  },
+  {
+   "t": 2316.76,
+   "d": 72.97,
+   "text": "[tepuk tangan] Rela TNI, rela polisi. Aku tanya TNI buat kau. Rela ya? Anggal kurangi. Eh, rela. Ikhlas. Ik kok. Ikhlas. Ikhlas. Ikhlas. Saudara-saudara, pertahanan terbaik adalah rakyat yang kuat dan sejahtera. [tepuk tangan] Kalau ada yang macam-macam sema bangsa Indonesia, seluruh rakyat, seluruh rakyat akan membela bangsa ini, Saudara-saudaraku."
+  },
+  {
+   "t": 2368.51,
+   "d": 55.37,
+   "text": "[tepuk tangan] Makanya dari sekarang TNI dan PORI di tengah-tengah rakyat, di tengah-tengah petani dan nelayan. Saudara-saudara, hari ini saya bangga, hari ini saya bahagia. Saya sungguh bahagia dan saya sungguh merasa terharu. TNI bangun berapa ribu jembatan, Polri juga berapa ribu titik air."
+  },
+  {
+   "t": 2396.04,
+   "d": 47.42,
+   "text": "Kita atasi, kesulitan rakyat kita atasi. Gak nakak enggak usah terlalu apalah ini prosedur ini apa. Kenapa tentara ikut di sawah? Kenapa polisi ikut nanam? Kenapa enggak ini Indonesia TNI Polri milik rakyat kesulitan rakyat harus kita atasi. TNI Polri harus mengatasi kesultan rakyat."
+  },
+  {
+   "t": 2424.18,
+   "d": 47.84,
+   "text": "[tepuk tangan] Kau di negara lain itu urusan kau. Enggak usah terlalu banyak urusan kita deh. Benar enggak? Lu juga enggak kasihan sama kita. Benar enggak? Iya kan? Wasalamualaikum warahmatullahi wabarakatuh. [tepuk tangan][bersorak] Salam sejahtera kita sekalian."
+  },
+  {
+   "t": 2455.52,
+   "d": 59.18,
+   "text": "Karena amplop kurang tebal ya pidato disingkat shalalom shalom salve om santi santi santi omo budhaya salam kebajikan terima kasih semua hari ini saya bahagia saya bangga jadi presiden republik [bersorak][tepuk tangan] Saya bangga dengan petani petani Indonesia."
+  },
+  {
+   "t": 2494.32,
+   "d": 64.55,
+   "text": "Terima kasih petani nelayan Indonesia. Kau kau adalah pahlawan yang sebenarnya. Kau menghasilkan pangan untuk kita semua. yang mengatakan beras terlalu mahal. Seru ikut kau tanam beras. Kalau petani beras enggak boleh dapat penghasilan yang tinggi, ya suruh mereka tanam padi sendiri gitu. [bersorak] TNI akan siapkan lahan untuk mereka."
+  },
+  {
+   "t": 2540.16,
+   "d": 47.48,
+   "text": "Menteri Pertanian siapkan [tertawa] lahan untuk mereka. Suruh tanam sendiri enak aja. Terima kasih. Saya bangga dengan petan. Saya bangga dengan TNI. Saya bangga dengan Polri. Terima kasih saudara-saudara. Rum siapa suruh kau pakai kopiah? Kau buka dulu. Hah?"
+  },
+  {
+   "t": 2574.04,
+   "d": 59.0,
+   "text": "Kau mau jadi presiden? [tertawa] Oke. Apa ini? Ini kanudah. Selanjutnya penekanan tombol dimohon mendampingi Presiden Menko Pang Pangan Menteri Pertanian Panglima TNI Kasat Kasal. Kasau. Waduh, harusnya tadi ini ya, Pak. Ya, ini ritual harus dilaksanakan. Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 2602.68,
+   "d": 57.11,
+   "text": "Pada sore hari ini, Jumat, 17 Juli 2026 dengan rahmat Tuhan Yang Maha Besar, saya Prabowo Subianto, Presiden Republik Indonesia menyatakan panen raya serentak bersama TNI. secara resmi dimulai. [musik] Demikian demikian panen raya serentak bersama TNI secara resmi dimulai."
+  },
+  {
+   "t": 2635.09,
+   "d": 28.12,
+   "text": "[musik] [musik] Terima kasih. [bernyanyi] Demikian acara telah selesai. Terima kasih kami ucapkan atas kehadiran yang terhormat Presiden Republik [musik][bernyanyi]"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "yJglGGY8ADI",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/yJglGGY8ADI.json"
+ }
+}

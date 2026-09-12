@@ -1,0 +1,352 @@
+{
+ "id": "2026-05-13-di-kejagung-saat-penyerahan-denda-administratif-dan",
+ "video_id": "Zya6KTuVnwY",
+ "date": "2026-05-13",
+ "title": "Pidato Presiden Prabowo di Kejagung saat Penyerahan Denda Administratif dan Lahan Kawasan Hutan",
+ "channel": "Prabowo Subianto",
+ "youtube_url": "https://www.youtube.com/watch?v=Zya6KTuVnwY",
+ "duration_s": 2329,
+ "duration_hms": "38:49",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 291,
+ "token_count": 2666,
+ "unique_word_count": 886,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "Zya6KTuVnwY",
+   "url": "https://www.youtube.com/watch?v=Zya6KTuVnwY",
+   "title": "Pidato Presiden Prabowo di Kejagung saat Penyerahan Denda Administratif dan Lahan Kawasan Hutan",
+   "channel": "Prabowo Subianto",
+   "upload_date": "2026-05-13",
+   "duration_s": 2329,
+   "source_tier": "official",
+   "fetch_method": "transcript_panel",
+   "token_count": 2666,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 291,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "JkLlmVzJ_dc",
+   "url": "https://www.youtube.com/watch?v=JkLlmVzJ_dc",
+   "title": "BREAKING NEWS - [FULL] PIDATO PRESIDEN PRABOWO DI PENYERAHAN UANG SITAAN OLEH SATGAS PKH",
+   "channel": "METRO TV ",
+   "upload_date": "2026-05-13",
+   "duration_s": 2454,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2769,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 765,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 8,
+  "pendidikan": 4,
+  "kesehatan_dan_gizi": 10,
+  "tata_kelola": 16,
+  "pertahanan_dan_keamanan": 12,
+  "nasional_dan_identitas": 74,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 28.0,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Selamat siang. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Yang saya hormati Jaksa Agung Republik Indonesia sebagai penyelenggara Prof. ST Burhanuddin beserta seluruh jajaran Kejaksaan Agung."
+  },
+  {
+   "t": 29.0,
+   "d": 48.0,
+   "text": "yang hadir, Plt. Wakil Jaksa Agung Republik Indonesia, Prof. Asep Nana Mulyana, Jaksa Agung Muda tindak pidana khusus, Saudara Febri Adriansyah, Jaksa Agung Muda Intelligence Prof. Mantovani, jaksa Agung Muda Pembinaan, Saudara Hendro Dewanto, jaksa Agung Muda Pengawasan, Saudara Rudi Margono, Jaksa Agung Muda Perdata dan Tata Usaha Negara Prof. Narendra Jatna, Jaksa Agung Muda Pidana Militer Mayor Jenderal TNI Muhammad Ali Rida yang saya hormati."
+  },
+  {
+   "t": 77.0,
+   "d": 82.0,
+   "text": "Ketua Komisi 1 Dewan Perwakilan Rakyat RI mewakili pimpinan DPR RI, Saudara Utut Adianto Wahyu Widayat. Para menteri, kepala badan, Panglima TNI, Kapolri, para utusan khusus Presiden, serta seluruh anggota kabinet merah putih yang hadir. Menteri Pertahanan Jenderal TNI Purnawirawan Safri Samsudin, Menteri Sekretaris Negara, Saudara Prasetyo Hadi, Menteri Energi dan Sumber Daya Mineral, Saudara Bahlil Lahadalia, Menteri Keuangan, Saudara Purbaya Yudi Sadewa, Menteri Lingkungan Hidup, Saudara Jumhur Hidayat, Menteri Agraria dan Tata Ruang, Saudara Nusran Wahid, Menteri Ketenagakerjaan Prof. Yasi, Menteri Transmigrasi, Saudara Muhammad Iftitah Suryanegara."
+  },
+  {
+   "t": 159.0,
+   "d": 47.0,
+   "text": "Panglima TNI Jenderal TNI Agus Subianto, Kapolri Jenderal Polisi Listio Sigit Prabowo, Kepala Badan Pengawas Keuangan dan Pembangunan, Saudara Muhammad Yusuf Atech, Sekretaris Kabinat RI, Saudara Tedi Indrawijaya, Kepala Badan Pengaturan BUMN, COO Danantara, Saudara Doni Oskaria, Wakil Menteri Kehutanan, Saudara Rohmat Marzuki, Taufik, utusan khusus Presiden Bidang Pembinaan Generasi Muda dan Pekerja Seni, Saudara Raffi Ahmad, Plt. Kepala Badan Informasi Geospasial, Saudara Muhammad Arif Syafi'i."
+  },
+  {
+   "t": 206.0,
+   "d": 35.0,
+   "text": "Yang saya hormati seluruh anggota satuan tugas penertiban kawasan hutan PKH. Hadir di sini K. Kepala Staf Umum TNI sebagai pelaksana satuan tugas PKH Letnan Jenderal TNI Richard Tampubolon. K Bares Krim Polri Wakil Ketua 2 Pelaksana Tugas PKH Komisaris Jenderal Shar Diantoro."
+  },
+  {
+   "t": 241.0,
+   "d": 46.0,
+   "text": "Para pimpinan perusahaan BUMN yang hadir, para undangan, serta rekan-rekan pers. yang saya hormati dan saya banggakan. [berdehem] Wah, ini banyak sekali ini nama-namanya. Saya kira tanpa mengurasi rasa hormat ee saya langsung saja kepada inti sambutan saya. Sekali lagi sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Allah Subhanahu wa taala, Tuhan maha kuasa, Tuhan maha besar yang memiliki sekalian alam."
+  },
+  {
+   "t": 287.0,
+   "d": 55.0,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadalah kita meminta pertolongan. Kita bersyukur atas segala karunia, atas kesehatan, kedamaian, dan segala kebaikan yang masih diberikan kepada kita sehingga pada siang hari ini kita dapat berkumpul di Kejaksaan Agung Republik Indonesia untuk melaksanakan acara penyerahan dana administratif sebesar 10,2 triliun dan diserahkannya lahan kawasan hutan sebesar R.373.000 hektar."
+  },
+  {
+   "t": 342.0,
+   "d": 39.0,
+   "text": "Saudara-saudara sekalian, sekali lagi ada suatu kehormatan bagi saya dan juga suatu kebahagiaan untuk hadir dalam acara ini. Saya kira ini sudah acara yang kesekian kali. Sudah keberapa kali ini, Kak? Keempat. Keempat kali, ya. Keempat kali. ee dengan total penyerahan berapa 40 triliun kurang lebih ya."
+  },
+  {
+   "t": 381.0,
+   "d": 44.0,
+   "text": "Saya senang kalau diundang terus acara begini. Tiap undangan lihat secara fisik 10 triliun. Saya juga dapat bisikan bulan depan akan ada penyerahan 11 triliun katanya. Ya. Dan saya juga dapat laporan bahwa juga ada kurang lebih 39 triliun uang-uang yang tidak jelas."
+  },
+  {
+   "t": 425.0,
+   "d": 59.0,
+   "text": "para koruptor atau para kriminal itu mungkin ee entah sudah lari dari Indonesia atau sudah meninggal ee uangnya ketinggalan di rekening rekening enggak jelas ya kan. Mungkin dia banyak istri muda atau piharaan-piaraan. Jadi istri-istrinya, ahli warisnya enggak tahu bahwa dia punya uang di bank-bank tersebut. Sudah sekian tahun tidak diurus. Ya, saya katakan kalau sudah sekian tahun tidak diurus dan sudah 1 tahun kita umumkan, umumkan umumkan enggak ada yang datang, ya sudah pindahin untuk rakyat. Ya. Jadi tahun depan kurang bulan depan ini bukan tahun depan bulan depan kurang lebih akan ada 49 triliun."
+  },
+  {
+   "t": 484.0,
+   "d": 56.0,
+   "text": "Dan ee saya harus katakan bahwa sekali lagi saya atas nama negara dan bangsa, atas nama pemerintah, atas nama seluruh rakyat Indonesia, saya menyampaikan terima kasih kepada seluruh anggota satuan tugas penertiban kawasan hutan. Saya kira, Saudara-saudara, acara-acara seperti ini jangan kita anggap hanya seremoni atau show, tapi pandangan saya, keyakinan saya, bangsa Indonesia, rakyat Indonesia sudah pada tahap bahwa rakyat kita ingin melihat bukti."
+  },
+  {
+   "t": 540.0,
+   "d": 34.0,
+   "text": "Sudah terlalu lama saya merasakan ya, sudah terlalu lama karena saya sendiri juga sudah cukup lama jadi orang Indonesia. Saya merasakan rakyat kita ini agak bosan kalau dengar sambutan-sambutan, wejangan-wejangan. Itu yang pengalaman saya. Jadi rakyat kita harus lihat ini loh uang hari ini 10 triliun."
+  },
+  {
+   "t": 574.0,
+   "d": 41.0,
+   "text": "Saya baru keliling berapa daerah terpencil dapat laporan dari Menteri Kesehatan. Pak, kita punya 10.000 Puskesmas sejak zamannya Pak Harto 30 tahun, puskesmas tersebut belum pernah diperbaiki 10.000. Saya bilang, \"Kau butuh uang berapa untuk perbaiki 10.000?\" Kira-kira satu Puskesmas 2 miliar. Jadi kita butuh kurang lebih 20 triliun, Saudara-saudara."
+  },
+  {
+   "t": 615.0,
+   "d": 45.0,
+   "text": "hari ini artinya kita bisa selesaikan 5.000 puskesmas 10 triliun. Kalau bulan depan benar yang masuk 10 triliun lagi dari Satgas plus 39 triliun dari PPATK berarti 49 triliun. Berarti semua Puskesmas dengan mudah kita perbaiki. Sekolah-sekolah yang belum diperbaiki bisa segera kita perbaiki."
+  },
+  {
+   "t": 660.0,
+   "d": 45.0,
+   "text": "Di APBN tahun lalu kita sudah perbaiki 17.000 sekolah. Tahun ini sedang kita perbaiki 70.000 sekolah. Tahun depan kita akan perbaiki 100.000, tahun depan lagi Rp100.000 Ibu dan tahun depannya lagi kita juga selesaikan nanti semua madrasah dan sebagainya akan kita perbaiki semuanya kita perbaiki dengan uang-uang yang kalau tidak kita selamatkan uang-uang tersebut akan hilang dimakan para koruptor dan para maling-maling dan perampok-perampok tersebut."
+  },
+  {
+   "t": 705.0,
+   "d": 43.0,
+   "text": "Jadi, Saudara-saudara, sekali lagi pekerjaan yang Saudara-saudara laksanakan dilaksanakan oleh Satgas PKH, Kejaksaan, Kepolisian, TNI, BPKP, PPATK semuanya ini. Sekarang kita buktikan kepada rakyat bahwa kita bertekad untuk mengamankan dan menyelamatkan kekayaan negara di mana pun itu berada."
+  },
+  {
+   "t": 748.0,
+   "d": 64.0,
+   "text": "bumi dan air dan semua kekayaan alam yang terkandung di dalamnya itu perintah Undang-Undang Dasar 1945 harus dikuasai negara. Ini bukan gagasannya Prabowo Subianto. Ini bukan sesuatu yang kita karang. Ini adalah perintah pendiri-pendiri bangsa Indonesia. Dan marilah kita sebagai generasi penerus, [mendengus] marilah kita hai anak-anak muda, marilah kita jujur kepada orang tua-orang tua kita. Marilah kita paham dan mengerti dari mana kita berasal."
+  },
+  {
+   "t": 812.0,
+   "d": 27.0,
+   "text": "Bapak-bapak kita, kakek-kakek kita dijajah ratusan tahun, dihina, ditindas, diperbudak, diperlakukan lebih rendah dari anjing, hidup dalam kesulitan, kemeleratan, kemiskinan. Kita tidak mau rakyat kita terus-menerus hidup dalam kemiskinan. Kita tidak mau terus-menerus menderita."
+  },
+  {
+   "t": 839.0,
+   "d": 38.0,
+   "text": "Kita harus memperjuangkan supaya mereka hidup dalam keadilan, dalam kesejahteraan. Bagaimana kita mau hidup sejahtera kalau kekayaan kita diambil tiap hari, mengalir keluar, tidak tinggal di Republik Indonesia? Saudara-saudara sekalian, perjuangan ini adalah perjuangan yang mulia, yang suci."
+  },
+  {
+   "t": 877.0,
+   "d": 76.0,
+   "text": "Kita berada di jalan yang benar. Kita menyelamatkan masa depan Indonesia. Kita menyelamatkan anak-anak dan cucu-cucu kita. Kita tidak memandang kita berasal dari suku mana, agama mana, golongan mana, partai mana. Kita semua adalah anak-anak Indonesia. Dan Indonesia sekarang sebagaimana setiap kelompok manusia, rakyat Indonesia dalam hatinya akan menentukan sikap, akan memilih, berada di pihak yang benar atau berada di pihak yang merampok kekayaan, yang mencuri kekayaan, yang merampas hak-hak rakyat rakyat Indonesia akan menentukan sikap dan kita mengerti bahwa mereka paham bahwa mereka menyaksikan tiap hari kekayaan Indonesia dicuri, diambil."
+  },
+  {
+   "t": 953.0,
+   "d": 36.0,
+   "text": "ini harus berhenti dan kita akan berjuang keras untuk hentikan itu dengan segala risiko. Saya paham Satgas PKH bukan Satgas yang sekarang disukai. Banyak yang tidak suka sama kalian. Yaitu bandit-bandit perampok itu enggak suka sama kalian ya. Ya tinggal kamu. Kamu takut sama mereka atau kamu bela rakyat?"
+  },
+  {
+   "t": 989.0,
+   "d": 38.0,
+   "text": "tergantung kamu. Tapi saya lihat prestasi kalian empat kali saya diundang atas nama rakyat saudara menyetor. Padahal ini baru sekelumit kekayaan yang berhasil kita selamatkan. Perjuangan masih susah, masih ratusan triliun. masih ribuan triliun yang harus kita selamatkan."
+  },
+  {
+   "t": 1027.0,
+   "d": 39.0,
+   "text": "Pertanyaan nanti banyak pihak, apakah bisa? Jawabannya adalah bukan apakah bisa. Jawabannya adalah harus bisa. Ini bukan masalah mau tidak mau. Ini bukan masalah kita cari popularitas. Bukan. Ini bukan oh pemerintah Prabowo sok populis. Tidak. Ini adalah masalah survival."
+  },
+  {
+   "t": 1066.0,
+   "d": 39.0,
+   "text": "287 juta rakyat Indonesia tidak mungkin hidup baik. Hidup sejahtera. Kalau kekayaannya diambil tiap hari, tiap minggu, tiap bulan, kelapa sawit kita diekspor, hasil ekspornya tidak ditaruh di Indonesia. Batu mara kita dijual, diekspor. Hasil ekspornya tidak tidak ditaruh di Indonesia."
+  },
+  {
+   "t": 1105.0,
+   "d": 48.0,
+   "text": "penjualan timah, penjualan emas, penjualan macam semua itu datanya ada, faktanya ada, perjuangannya berat tapi kita melaksanakan dengan berani dan dengan optimis dan dengan kemajuan ya dengan kemajuan. Saudara-saudara, saya kira saya tidak akan panjang lebar, tapi ini semua adalah bukti kepada rakyat."
+  },
+  {
+   "t": 1153.0,
+   "d": 35.0,
+   "text": "Dan saya kira di hari-hari yang akan datang kita juga akan terus memberi bukti ke rakyat dan akan melaporkan ke rakyat langkah-langkah yang kita ambil. Kita akan ambil langkah-langkah yang tegas. Tadi kita disampaikan bahwa tidak ada pilihan lain ya. Kita harus tegakkan hukum."
+  },
+  {
+   "t": 1188.0,
+   "d": 47.0,
+   "text": "Kita harus meyakinkan bahwa negara hadir dan [berdehem] negara hadir dan negara akan hadir terus dan NKRI akan kuat. NKRI akan bangkit lebih hebat lagi. Itu keyakinan saya. [tepuk tangan] Keyakinan saya. Fakta data ada di kita. Saudara-saudara sekalian yang maha kuasa telah memberi karunia yang luar biasa kepada kita."
+  },
+  {
+   "t": 1235.0,
+   "d": 32.0,
+   "text": "Bulan-bulan akan datang kita akan buktikan ke rakyat sampai tahun depan. Saudara-saudara, saya kira dunia akan kaget bangkitnya bangsa Indonesia. [tepuk tangan] Kita jangan euforia. Kita tidak boleh sombong. Ilmu nenek moyang kita semakin berisi, semakin menunduk."
+  },
+  {
+   "t": 1267.0,
+   "d": 33.0,
+   "text": "Ya, jangan takut diancam, jangan takut dihina, jangan takut difitnah. Kita difitnah, kita dihina, kita diejek karena kita ditakuti. Kita ditakuti karena kita menegakkan kebenaran dan keadilan. Saudara-saudara sekalian, mereka yang membela kebenaran dan keadilan, mereka mulia."
+  },
+  {
+   "t": 1300.0,
+   "d": 50.0,
+   "text": "Kalaupun kita gugur, janganlah pernah takut gugur. Karena itu satu-satunya kepastian di dunia ini. Kita pasti akan dipanggil oleh maha kuasa. Tinggal kapan dipanggil dan saudara-saudara panggilannya itu tidak nomor urut, tidak dengan azas senioritas, tidak ya. Yang di belakang-belakang jangan senyum-senyum enggak apa-apa. I kan biasanya orang yang sangat baik itu yang dipanggil duluan ya. Benar enggak? Hah?"
+  },
+  {
+   "t": 1350.0,
+   "d": 49.0,
+   "text": "Benar. [berdehem] Tapi selama kita masih dikasih nafas, kita akan kita akan berjuang di atas kebaikan dan kebenaran. Ini memang tidak gampang. Ini saya paham. Ini mudah diucapkan. Saya paham. Saya paham. Saya mengerti jenderal-jenderal, pejabat-pejabat, menteri-menteri. Saya saya tahu saya tahu ee gaji kalian kecil relatif, tapi dibandingkan rakyat yang paling miskin, Saudara-saudara, ya. Jadi, jangan lihat ke atas. Lihat mereka yang lebih susah dari kalian."
+  },
+  {
+   "t": 1399.0,
+   "d": 64.0,
+   "text": "Saya harus cerita begini. Karena saya ada suatu kepuasan minggu lalu, ketua Mahkamah Agung ketemu saya dan beliau sampaikan ke saya, beliau habis rapat ketua-ketua Mahkamah Agung seasian. Kemudian ketua Mahkamah Agung Malaysia sampaikan ke ketua Mahkamah Mahkamah Agung Indonesia. Dia sampaikan ee yang mulia saya salut sama Indonesia. Dia bilang, \"Pertama kali gaji hakim Indonesia di atas gaji hakim Malaysia dan ee gaji hakim paling junior Indonesia."
+  },
+  {
+   "t": 1463.0,
+   "d": 44.0,
+   "text": "ceritanya ya ee yang paling junior sudah hampir dua kali gaji hakim paling junior Malaysia. Karena pemerintah yang saya pimpin, salah salah satu langkah kita pertama adalah menaikin gaji-gaji hakim kita. Hampir 300%. Saya maunya 300% tapi Menteri Keuangan hanya setuju 280%."
+  },
+  {
+   "t": 1507.0,
+   "d": 40.0,
+   "text": "Okelah, tapi kita sudah lompat. Kemudian ketua mahkamah Mahkamah Agung Indonesia Prof. Sunarto ya laporkan lagi ke saya, \"Pak, Ketua Mahkamah Agung Singapura juga sampaikan ke saya, selamat yang mulia. Penghasilan Anda sekarang penghasilannya ketua mahkamah agung Indonesia sudah di atas penghasilannya ketua mahkamah agung Singapura."
+  },
+  {
+   "t": 1547.0,
+   "d": 46.0,
+   "text": "Disampaikan dalam hati oke juga kita nih ya. Eh kenapa? Karena saya percaya dan yakin masalah korupsi, masalah ketidakadilan itu harus [mendengus] diselesaikan di yudikatif. Karena itu hakim-hakim kita harus kita hormati, harus dipilih dengan baik. dan harus dikasih penghasilan yang cukup supaya hakim-hakim kita tidak bisa disogok."
+  },
+  {
+   "t": 1593.0,
+   "d": 52.0,
+   "text": "Saya juga sudah instruksikan Menteri Perumahan Rakyat untuk membuat rumah jabatan untuk semua hakim. Karena ternyata walaupun penghasilannya sudah naik signifikan, uang saku untuk rumah 1 bulan untuk gaji untuk rumah kalau tidak salah Rp1,5 juta. Padahal hakim itu juga penugasan kadang-kadang harus di kabupaten ini, kadang-kadang harus pindah ke provinsi ini. Jadi kita sekarang dan hakim itu kurang lebih hanya ada sekitar 8.000 900. Jadi saya kira mampu kita untuk memberi rumah jabatan yang layak ya."
+  },
+  {
+   "t": 1645.0,
+   "d": 30.0,
+   "text": "Akhirnya Ketua Mahkamah Agung menyampaikan ke saya, \"Pak, terima kasih perhatian Bapak kepada hakim-hakim. Tapi ternyata, Pak, di pengadilan-pengadilan kami masih punya petugas-petugas lain. Panitra belum naik, Pak, gajinya mereka. Habis itu ada staf, ada tata usaha, ada. Ya, ya, ya, ya. Oke."
+  },
+  {
+   "t": 1675.0,
+   "d": 37.0,
+   "text": "Saya mengerti, saya paham. Menteri keuangan cari uang untuk semua. petugas pengadilan harus juga naik gajinya ya. Dan cabang-cabang lain dari pemerintahan jangan jangan iri sama yudikatif. Kita harus bikin yudikatif kita tempat rakyat mendapat keadilan. Dan itu saya pesankan kepada ketua mahkamah agung. Saya pesankan kepada semua hakim, hakim-hakim."
+  },
+  {
+   "t": 1712.0,
+   "d": 60.0,
+   "text": "Ingat, putusan-putusanmu akan dinilai oleh rakyat. Putusan-putusanmu akan dipelajari dan masyarakat kita dan rakyat kita sudah tidak bodoh. Mereka akan lihat, mereka akan merasakan ketidakadilan. Jadi yudikatif kita kita perbaiki, kemudian eksekutif yang lain kita juga akan perbaiki semuanya. Kalau kekayaan negara bisa kita kendalikan akan cukup banyak uang untuk kita perbaiki semua sendi-sendi NKRI. Saudara-saudara sekalian. Nyatanya sekian puluh tahun Puskesmas tidak diperbaiki. Kita perbaiki. Dalam 2 tahun ini semua Puskasmas kita perbaiki."
+  },
+  {
+   "t": 1772.0,
+   "d": 34.0,
+   "text": "Berapa puluh tahun sekolah-sekolah tidak diperbaiki. Kita perbaiki semua sekolah Indonesia dalam 3 tahun ini kita perbaiki semuanya. Berarti apa? Uangnya ada. Tinggal alokasi, tinggal jeli, tinggal rajin, tinggal ngawasi. supaya tidak terjadi penipuan, kebohongan, fraud, sudah terlalu pintar."
+  },
+  {
+   "t": 1806.0,
+   "d": 31.0,
+   "text": "upaya-upaya bohong dan menipu. Saya sedih kadang-kadang saya monitor Menteri Pertanian Keliling uang yang kita sudah alokasikan, kita sudah gelontorkan untuk benih-benih yang bagus. Mungkin si petugas mengira tidak akan diperiksa di cari benih yang tidak bagus."
+  },
+  {
+   "t": 1837.0,
+   "d": 36.0,
+   "text": "Ini ini dosa dosa kemanusiaan. Kalau benih tidak bagus, hasil tanaman tidak bagus, bagaimana kita mau sejahtera. Jadi memang kondisi seperti itu kalau kita menegakkan kebenaran kadang-kadang kita harus keras keras dalam menegakkan disiplin. Ya, Saudara-saudara sekalian."
+  },
+  {
+   "t": 1873.0,
+   "d": 57.0,
+   "text": "[tepuk tangan] Saudara-saudara, saya kira cukup ee terus-menerus saya koordinasi sama menteri-menteri ya. Dan sedikit demi sedikit kita akan perbaiki contoh yang sudah kita putuskan bahwa suku bunga dalam program permodalan nasional madani. Ya, PNM Mekar membina ekonomi keluarga sejahtera. Itu yang apa itu ee kredit super mikro, kredit super mikro R juta, Rp3 juta, R juta Rp10 juta."
+  },
+  {
+   "t": 1930.0,
+   "d": 119.0,
+   "text": "Mereka dikenakan bunga 24%. Padahal pengusaha-pengusaha besar kalau ke bank mungkin dapat 10% 9%. Iya, Pak Ustaz. Hah? Berapa? 9%. Hah? 9. Bayangkan orang kaya dikasih 9%, orang miskin 24%. Ini negara Pancasila atara [tertawa] saya gak paham. Saya saya kumpul menteri keuangan, kumpul menteri-menteri ekonomi, kumpul dengan dan lantara. Ya, saya instruksikan ini keputusan politik saya sudah ambil bahwa bunga untuk permodalan nasional madani untuk kredit keluarga prasejahtera dari 24% kita turunkan kan harus di bawah 10% harus di bawah 9% [tepuk tangan] harus di bawah 9% dan antara bisa bis Pak bisa bis bis berapa persen berapa 8% kamu sengaja pilih angka del kau Kenapa enggak 7%? [berdehem] Ya udah pokoknya harus di bawah 9%. Ya, masa orang miskin bayar bunganya [tertawa] lebih besar dari orang kaya."
+  },
+  {
+   "t": 2049.0,
+   "d": 51.0,
+   "text": "saya terus-menerus [berdehem] kita akan pelajari di mana sistem kita lemah, di mana kekurangan kita perbaiki. Patokan kita adalah Pancasila dan Undang-Undang Dasar 45 dan tidak hanya slogan kita mau wujudkan situasi yang sebenarnya. Sekali lagi terima kasih Satgas PKH terus berjuang, terus laksanakan tugas muliamu demi kemakmuran rakyat. Ya, semua pejabat dari semua KL cari jalan untuk perbaiki sistem."
+  },
+  {
+   "t": 2100.0,
+   "d": 36.0,
+   "text": "Kurangi ke tidak efisiensi. Permudah perizinan, jangan persulit. Pengusaha-pengusaha juga mengeluh. Mereka mau bekerja dan mereka mau investasi, tapi kadang-kadang nunggu izin itu 1 tahun, 2 tahun, sedangkan di negara lain 2 minggu. Kita harus mengacu kepada negara tetangga."
+  },
+  {
+   "t": 2136.0,
+   "d": 43.0,
+   "text": "Kalau mereka bisa keluarkan izin dalam 2 minggu, kenapa kita 2 tahun? Regulasi sederhanakan. Kecenderungan regulasi adalah inisiatif dari birokrat-birokrat untuk terusang saja saya sampaikan untuk cari peluang. Ada yang nanti minta kickback, minta uang supaya izinnya dipercepat keluar."
+  },
+  {
+   "t": 2179.0,
+   "d": 27.0,
+   "text": "Sudah kita sederhanakan, ada KL-KL yang bikin lagi peraturan menteri, peraturan teknis, peraturan ini ya, Saudara-saudara. ee Menseknek. Saya minta nanti dikumpulkan pakar-pakar bikin satgas khusus untuk mempercepat deregulasi. Sederhanakan ya. Jangan persulit."
+  },
+  {
+   "t": 2206.0,
+   "d": 32.0,
+   "text": "Para pengusaha harus dibantu, harus didukung. Yang nakal kita tertibkan, tapi yang baik, yang benar-benar mau bekerja ya harus dibantu. Banyak investor juga dari luar negeri mengeluh. Di Indonesia sering perizinannya lama sekali dan banyak sekali, Saudara sekalian. Ya, perizinan kadang-kadang ada yang enggak masuk akal ya kan?"
+  },
+  {
+   "t": 2238.0,
+   "d": 40.0,
+   "text": "Saya monitor ya masalah impor kalau tidak salah gas ya untuk rumah sakit dipersoalkan ini itu ini itu akhirnya akhirnya suplai gas kita sangat tipis untuk rumah sakit hanya soal izin-izin. Saya kira itu yang ingin saya sampaikan. Selamat berjuang, selamat bekerja dan ee sampai jumpa bulan depan."
+  },
+  {
+   "t": 2278.0,
+   "d": 30.0,
+   "text": "[tepuk tangan] Ya, semua pihak sekarang kita benahi diri kita, kita perbaiki diri kita semuanya ya. Percaya sebentar lagi uang kita cukup ya. Nyatanya hanya dengan alokasi begini-begini kita sudah bisa berbuat banyak dan kita akan berbuat lebih dari sini. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 2308.0,
+   "d": 14.0,
+   "text": "Salam sejahtera bagi kita sekalian. Shalom. Salve. Om. Santi. Santi. Santi. Om. Namo buddhaya. Salam kebajikan. Merdeka. Merdeka. Terima kasih. [tepuk tangan] Demikian rangkaian acara penyerahan hasil denda administratif dan lahan kawasan hutan selesai."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "Zya6KTuVnwY",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/Zya6KTuVnwY.json"
+ }
+}

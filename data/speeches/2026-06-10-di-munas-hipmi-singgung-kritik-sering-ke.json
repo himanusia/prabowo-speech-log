@@ -1,0 +1,608 @@
+{
+ "id": "2026-06-10-di-munas-hipmi-singgung-kritik-sering-ke",
+ "video_id": "Ntf-BzRGTug",
+ "date": "2026-06-10",
+ "title": "[FULL] PIDATO PRESIDEN PRABOWO DI MUNAS HIPMI, SINGGUNG KRITIK SERING KE LUAR NEGERI",
+ "channel": "METRO TV ",
+ "youtube_url": "https://www.youtube.com/watch?v=Ntf-BzRGTug",
+ "duration_s": 4555,
+ "duration_hms": "1:15:55",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 1243,
+ "token_count": 4297,
+ "unique_word_count": 1246,
+ "duplicate_count": 4,
+ "uploads": [
+  {
+   "video_id": "Ntf-BzRGTug",
+   "url": "https://www.youtube.com/watch?v=Ntf-BzRGTug",
+   "title": "[FULL] PIDATO PRESIDEN PRABOWO DI MUNAS HIPMI, SINGGUNG KRITIK SERING KE LUAR NEGERI",
+   "channel": "METRO TV ",
+   "upload_date": "2026-06-10",
+   "duration_s": 4555,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 4297,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1243,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "K4uvrC38Yxk",
+   "url": "https://www.youtube.com/watch?v=K4uvrC38Yxk",
+   "title": "[FULL] Pidato Prabowo di Munas HIPMI 2026 Bicara Pengusaha, Hilirisasi hingga Arah Politik Indonesia",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-06-10",
+   "duration_s": 4405,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 4207,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1420,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "Le2zr-cRENo",
+   "url": "https://www.youtube.com/watch?v=Le2zr-cRENo",
+   "title": "[FULL] Pidato Lengkap Presiden Prabowo di Munas HIPMI #beritasatu",
+   "channel": "BeritaSatu",
+   "upload_date": "2026-06-10",
+   "duration_s": 4380,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 4153,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1304,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "jMu830avg98",
+   "url": "https://www.youtube.com/watch?v=jMu830avg98",
+   "title": "[BREAKING NEWS] Pidato Presiden Prabowo di Munas HIPMI XVIII | tvOne",
+   "channel": "tvOneNews ",
+   "upload_date": "2026-06-10",
+   "duration_s": 4740,
+   "source_tier": "media",
+   "fetch_method": "caption_api",
+   "token_count": 4290,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1368,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "kyfyXGWzoCY",
+   "url": "https://www.youtube.com/watch?v=kyfyXGWzoCY",
+   "title": "[FULL] Pidato Presiden Prabowo di Pembukaan Munas HIPMI XVIII, Bandar Lampung",
+   "channel": "KOMPASTV DEWATA",
+   "upload_date": "2026-06-10",
+   "duration_s": 4430,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 4244,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1331,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 33,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 4,
+  "tata_kelola": 11,
+  "pertahanan_dan_keamanan": 20,
+  "nasional_dan_identitas": 125,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 0.08,
+   "d": 41.36,
+   "text": "Sambutan Presiden Republik Indonesia sekaligus pembukaan Munas HIPMI ke-18. Kita sambut yang terhormat Presiden Republik Indonesia Bapak Prabowo Subianto. Pak Yusof Pacel di sebelah kanan. Pak Yusof Pil sebelah kanan. Oh iya nanti Kopi harus siap dulu. Ee bismillahirrahmanirrahim."
+  },
+  {
+   "t": 92.92,
+   "d": 61.92,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah. Selamat siang. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Yang saya hormati Ketua Majelis Permusyarwatan Rakyat Republik Indonesia beserta para wakil ketua MPR yang hadir."
+  },
+  {
+   "t": 126.4,
+   "d": 66.96,
+   "text": "Ketua MPR RI, Saudara Ahmad Musani. Ketua Dewan Perwakilan Daerah RI, Saudara Sultan Bakhtiar Najudin beserta para Wakil Ketua DPD RI yang hadir, para anggota DPR RI yang hadir, Ketua Umum Badan Pengurus Pusat HIPMI, Saudara Akbar Himawan Bukhori beserta seluruh pengurus pusat pimpinan daerah HIPMI seluruh Indonesia yang saya banggakan."
+  },
+  {
+   "t": 163.24,
+   "d": 93.84,
+   "text": "Para senior HIPMI yang hadir, penggagas, pendiri, dan ketua umum HIPMI tahun 1972-173, Saudara Abdul Latif. Yang saya hormati Ketua Umum HIBNI HIBMI 1986 1989, Saudara Syarif Cicip Sutarjo. Ketua Umum HIPMI 1995-198, Saudara Bambang Wiyogo. Ketua Umum HIPMI 2008-2011, Saudara Erwin Aksa, Ketua Umum HIPMI 2011-2015, Saudara Raja Sapta Oktohari, para calon ketua umum HIBMI sesuai nomor urut nomor urut 1, Saudara Reinaldo Brian."
+  },
+  {
+   "t": 230.88,
+   "d": 55.84,
+   "text": "Nomor urut dua, Saudara Adik Jona Prasetyo. Nomor 3, Saudara Avi Kala. Nomor urut 4 saudara Antoni Leong. para menteri, anggota kabinet merah putih yang hadir tadi eh Menteri ISDM, Saudara Bahlil Lahad Dalia juga adalah ketua Dewan Kehormatan BPP HIPMI dan mantan ketua umum HIPMI."
+  },
+  {
+   "t": 263.04,
+   "d": 57.0,
+   "text": "Hadir Menteri Sekretaris Negara, Saudara Prasetyo Hadi, Menteri Menteri Luar Negeri, Saudara Sugiono, Menteri Perumahan dan Kawasan Pemukiman, Saudara Marwar Sirait, Menteri Kesehatan, Saudara Budi Gunadi Sadikin, Wakil Menteri Investasi dan Hilirisasi, Saudara Todo Tua Pasarib."
+  },
+  {
+   "t": 295.84,
+   "d": 91.48,
+   "text": "Sekretaris Kabinet RI, Saudara Tedi Indrawijaya, Gubernur Provinsi Lampung, Saudara Rahmad Mirzani Josal, para bupati dan walikota yang hadir. Yang saya hormati seluruh hadirin undangan dan rekan-rekan pers media yang hadir. Tadi saya sebut Gubernur Lampung tapi ada banyak tokoh-tokoh daerah yang hadir. Wakil Gubernur Lampung, Saudari Jihan Nurlela, Ketua DPRD Provinsi Lampung, Saudara Ahmad Giri Akbar, Walikota Bandar Lampung, Saudari Eva Dwiana."
+  },
+  {
+   "t": 364.8,
+   "d": 126.84,
+   "text": "Walikota Metro, Saudara Bambang Imam Santoso, Bupati Lampung Barat, Saudara Farusil Mapsus, Bupati Lampung Timur, Saudari Ela Siti Nurmaya, Bupati Lampung Utara, Saudara Hamaroni Ahais, Bupati Lampung Selatan, Saudara Dito Pratama, Bupati Prengsewu, Saudara Rianto Pamungkas, Bupati Pasawaran, Saudari Nanda Indira Bastian, Bupati Tanggamus, Saudara Muhammad Saleh Asnawi, Wakil Bupati Mesuji, Saudara Yugi Wicaksono, Wakil Gubernur Sumatera Barat hadir di sini. Oh, hadir juga Ketua DPRD Banjarmasin, Saudara Rikfal Fakhruri, Ketua DPRD Provinsi Bangka Belitung."
+  },
+  {
+   "t": 444.6,
+   "d": 90.48,
+   "text": "Ini absen semua ni. Wakil Ketua DPRD Bangka Belitung, anggota DPRD Provinsi DKI Jakarta, Saudari Hilda Kusumadewi. Sudah jauh-jauh datang enggak disebut enggak enak ya. Bupati Muo Bungo, Saudara Dedi Putra, Bupati Muaro Jambi, Dr. Ang Bayu Suseno, Wakil Walikota Jambi, Saudara Diza Hazra Aljosa, Wakil Walikota Sarulangun, Saudara Jerry Trisat Wika, Wakil Bupati Aceh Barat."
+  },
+  {
+   "t": 513.2,
+   "d": 106.56,
+   "text": "Wakil Wakil Kota Langsa, Saudara Muhammad Haikal. Saudara-saudara sekalian, ini banyak sekali ya. Saudara-saudara sekalian, ee tanpa saya mengurangi rasa hormat ya, saya mungkin tidak sebut satu-satu lagi ini, tapi hampir semua sudah saya sebut tadi. Para senior juga banyak yang enggak hadir di sini. saya lihat karena saya kebetulan juga kenal dengan tokoh-tokoh HIBMI karena mereka banyak yang saya kenal dari lama ya, Saudara-saudara sekalian ee tentunya kita terus-menerus tidak henti-hentinya memanjatkan puji syukur kehadirat Allah Subhanahu wa taala, Tuhan maha besar."
+  },
+  {
+   "t": 586.64,
+   "d": 80.2,
+   "text": "kita masih diberi kesehatan, masih diberi karunia, bangsa kita diberi kedamaian. Dan hari ini kita hadir bersama dalam acara Musyawarah Nasional Himpunan Pengusaha Muda Indonesia yang ke-18 tahun 2026. Ee saya diberitahu bahwa hari ini adalah hari ulang tahun HIBMI tanggal 10 Juni 2000 26 ya."
+  },
+  {
+   "t": 632.08,
+   "d": 110.68,
+   "text": "Ini kalau dijumlahin angkanya ini angka baik ya 10 Juni. Juni kan bulan ke-6 ya. Jadi kalau 10 + 6 itu kan 17. Iya kan? 1 sama Iya 17. 1 sama 7 8 belum selesai 2026 jumlahnya 10 ya. Oh ya. Okelah. Oh bukan 10. Iya benar. 10 ee 1 + 6 7 sama 10 ee 17 sama 7 8. Makanya angka delan itu angka selalu melekat sama saya."
+  },
+  {
+   "t": 696.92,
+   "d": 111.28,
+   "text": "Makanya benar-benar sepertinya saya sama HIM agak cocok begitu dari dulu karena saya kenal tokoh-tokoh HI semua hampir semuanya ya kelakuannya sudah saya kenal semuanya itu juga. Jadi jangan macam-macam. Aku sudah tahu kelakuanmu semua itu. Gelagatnya, Pak, pun sudah saya tahu, Saudara-saudara. ee IBMI sebagai ee wadah pengusaha muda adalah ee wadah yang sangat penting dan ee lahirnya HIPMI dengan ee wawasan nasionalisme sebagaimana diutarakan adalah ee sangat penting."
+  },
+  {
+   "t": 757.68,
+   "d": 102.8,
+   "text": "sebenarnya ee tidak ada kemajuan suatu bangsa tanpa nasionalisme. Sebetulnya tidak ada ya. bahkan ee mbah mbahnya kapitalisme ya, guru-guru kapitalisme sekalipun mengatakan bahwa pertumbuhan ekonomi hanya bisa datang dengan nasionalisme. Ya, ada enggak itu ya ee slide-nya itu dari dari Profesor Le? Ada saudara Yuza sudah bisa dipasang ya?"
+  },
+  {
+   "t": 816.96,
+   "d": 96.84,
+   "text": "Kalau dibaca ya ee ini dari bukunya Profesor Lia Grenfield, The Spirit of Capitalism. Today it is claimed we live in the period of late capitalism and possibly in the post industrial society ya yet nationalism is not gone nor does it show any signs of being gone soon nationalism first appeared in England becoming the preponderant vision of society there The sustained growth characteristic of modern economy is not self sustained. Growth is stimulated and sustained by nationalism."
+  },
+  {
+   "t": 869.72,
+   "d": 86.08,
+   "text": "Ya kan eh HIPMI pintar bahasa Inggris semua ya. Baik, saya terjemahkan sedikit saya yang bagian kedua ajaalah yang paling penting ya. Nationalism yang saya ambil yang eh apa kalimat terakhir the sustain growth character characteristic of modern economy. Ya. Jadi karakteristik sifat dari ekonomi modern is not self sustain. Tidak maju, tidak berkembang dengan sendirinya."
+  },
+  {
+   "t": 916.0,
+   "d": 92.28,
+   "text": "growth pertumbuhan distimulasi dan dipertahankan oleh nasionalisme. Ini adalah ini adalah guru kapitalisme. Jadi, Saudara-saudara, Jepang maju, Amerika maju, Eropa Barat maju, Tiongkok bangkit sekarang. karena nasionalisme. Jadi, HIMI tadi disampaikan oleh tokoh-tokoh HIMI, hadir pendiri HIBMI di sini salah satu saya juga kenal Pak Siswono."
+  },
+  {
+   "t": 972.32,
+   "d": 62.6,
+   "text": "Nafas lahirnya adalah nasionalisme. Tapi, Saudara-saudara, marilah kita bertanya kepada diri kita sendiri. Apa benar-benar sistem ekonomi kita sudah berdasarkan nasionalisme? Marilah kita tanya kepada diri kita sendiri. Marilah kita lihat dengan mata dan hati yang terbuka."
+  },
+  {
+   "t": 1018.56,
+   "d": 84.85,
+   "text": "Dan kalau kita lihat dengan mata dan hati yang terbuka, kita akan sadar bahwa sistem ekonomi yang dijalankan sekarang ini penuh dengan tantangan-tantangan penuh dengan pertanyaan-pertanyaan. Jadi, Saudara-saudara sebagai wadah dari pengusaha muda HIBMI adalah suatu wadah yang sangat penting."
+  },
+  {
+   "t": 1076.84,
+   "d": 85.32,
+   "text": "Karena wadah ini sebagaimana tadi disampaikan melahirkan pemimpin-pemimpin, pemimpin masyarakat ya, pemimpin ekonomi dan benar. Coba berapa tokoh HIBMI yang muncul sebagai tokoh-tokoh bangsa, tokoh-tokoh nasional? Ya, Pak Latif menjadi menteri, menjadi pengusaha pribumi besar."
+  },
+  {
+   "t": 1127.04,
+   "d": 70.84,
+   "text": "Pak Siswono juga berapa kali jadi menteri. Pak Bakri Menko, Pak Burisal Bakri Menko dan juga ee ketua partai politik besar, Partai Golkar juga ketua Kadin kalau tidak salah ya, Pak Wri, Pak Erwin Aksa sekarang Pak Bahlil Hadaliyak, Ketua Umum Partai Golkar, partai yang besar. besar."
+  },
+  {
+   "t": 1163.84,
+   "d": 109.8,
+   "text": "Beliau juga Menteri ESDM. Ya. Jadi, Saudara-saudara, demikian besar peran daripada HIBMI. Tapi di tengah peran besar itu, saya menghimbau saudara-saudara bersama-sama marilah kita menatap keadaan bangsa kita dengan jujur. Saudara-saudara sekalian, menurut pandangan saya menurut keyakinan saya bahwa bangsa kita telah menyimpang dari pemikiran dari warisan pendiri-pendiri bangsa kita sendiri."
+  },
+  {
+   "t": 1249.96,
+   "d": 80.32,
+   "text": "Pendiri-pendiri bangsa kita telah mewarisi kepada kita, meneruskan kepada kita. hal-hal yang luar biasa yang saya katakan kecemerlangan. Kecemerlangan yang pertama tentunya ee sumpah pemuda ya. Satu nusa, satu bangsa, satu bahasa. Satu bahasa mempersatukan kita."
+  },
+  {
+   "t": 1294.32,
+   "d": 75.52,
+   "text": "Dan bahasa yang dipilih bukan bahasa mayoritas, bahasa suku yang minoritas. Diambil jadi bahasa kebangsaan dan mampu mempersatukan. Kecemerlangan selanjutnya adalah Pancasila. Pancasila yang telah mempersatukan ini. Saya kira sudahlah kita ya kita terima dan anak-anak muda sekarang menerima seolah-olah yah apa ya itu biasa."
+  },
+  {
+   "t": 1333.0,
+   "d": 82.16,
+   "text": "Tapi saudara-saudara lihatlah dunia sekarang. Lihatlah dunia hari ini perang di mana-mana. Perang di Eropa, di tempat lahirnya demokrasi perang. Sama-sama mereka itu ras yang sama. Bedanya apa Ukrain sama Rusia? Hampir sama bahasanya, hampir sama agamanya. Perang perangnya luar biasa."
+  },
+  {
+   "t": 1378.4,
+   "d": 108.28,
+   "text": "Hitungannya kira-kira tiap bulan belasan ribu yang mati. Tiap bulan belum lagi Gaza, belum lagi Palestina, Suriah, Irak, Libya, Sudan, Yaman, Somalia, Pakistan perang ya. Tetangga kita Kamboja perang sama Thailand, Myanmar perang. Jadi janganlah kita menganggap apa yang kita miliki sekarang adalah biasa-biasa saja."
+  },
+  {
+   "t": 1439.6,
+   "d": 72.2,
+   "text": "Ya, di tengah itu semua kita juga harus mengakui bahwa apa yang diberikan oleh pendiri bangsa kita selain Pancasila adalah Undang-Undang Dasar 1945 itu pun kita tinggalkan. Pasal 33 Undang-Undang Dasar 1945 yang sangat jelas dan sangat gamblang itu tidak mau tidak mau dibicarakan, tidak mau dibicarakan dan tidak mau di apalagi diberlakukan."
+  },
+  {
+   "t": 1502.2,
+   "d": 59.84,
+   "text": "Jadi, Saudara-saudara, HIBMI sebagai pengusaha muda, sebagai pelaku ekonomi tadi disebut sebagian besar UMKM. Saudara harusnya bertanya, ya kan? Eh, saudara sering dengar negara kita begitu kaya tapi kita lihat banyak rakyat kita yang hidupnya sangat-sangat susah."
+  },
+  {
+   "t": 1541.72,
+   "d": 72.0,
+   "text": "Masalahnya adalah menurut keyakinan saya bahwa kita telah meninggalkan sendi-sendi yang paling penting, yaitu sendi rancang bangun bangsa. Bagaimana kita mau mendirikan gedung tanpa suatu blueprint, tanpa suatu gambar teknis. Kalau kita menyimpang dari blueprint dari cetak biru kita menyimpang gedung itu runtuh."
+  },
+  {
+   "t": 1586.32,
+   "d": 68.32,
+   "text": "Kita sudah diberi rancang bangun blueprint. Tapi kita pura-pura bahwa itu tidak penting. Perekonomian disusun sebagai usaha bersama berdasar atas azas kekeluargaan. ini lip service yang dibesarkan adalah konglomerasi. Saya kaget. Saya memang benar disebut saya memang bukan ahli keuangan."
+  },
+  {
+   "t": 1639.8,
+   "d": 103.24,
+   "text": "Tapi saya kaget. Waktu saya kampanye saya berurusan dengan ee ibu-ibu yang ikut apa itu super mikro mekar ya. Super kredit super mikro. Mereka rata-rata bayar bunga itu 24%. Bagaimana saudara pengusaha pengusaha-pengusaha besar pinjam uang dari bank bank Himbara bank milik pemerintah bunganya 9% 10%. Bagaimana orang miskin bayar bunga lebih tinggi daripada pengusaha besar?"
+  },
+  {
+   "t": 1700.08,
+   "d": 62.84,
+   "text": "Jadi kejanggalan-kejanggalan ini saya coba luruskan. Saya sangat yakin kita laksanakan pasal 33 tentunya dengan arif dengan bijaksana tapi kita laksanakan. Saya yakin Indonesia akan bangkit dengan cepat. Kita akan bangkit. Saudara-saudara sekalian, kita diberi karunia luar biasa oleh maha kuasa."
+  },
+  {
+   "t": 1741.08,
+   "d": 72.4,
+   "text": "tadi di video kalian itu ya kan ada apa itu rute rempah-rempah dari dulu nusantara kita didatangi karena kekayaannya ya negara-negara apa bangsa-bangsa asing itu datang ke sini waktu itu berbulan-bulan ke sini ini bukan wisata. Dia ke sini mencari kekayaan sampai sekarang."
+  },
+  {
+   "t": 1779.84,
+   "d": 73.32,
+   "text": "Jadi, Saudara-saudara, segala ke kekayaan kita, tantangannya adalah harus dikelola oleh kita dengan sebaik-baiknya, dengan se cerdas-cerdasnya, Saudara-saudara. Cabang-cabang produksi yang penting bagi negara yang menguasai hajat hidup orang banyak harus dikuasai oleh negara. Ini bahasa Indonesia tidak perlu ditafsirkan, tidak perlu diterjemahkan, harus dilaksanakan."
+  },
+  {
+   "t": 1833.76,
+   "d": 55.24,
+   "text": "Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besarnya kemakmuran rakyat. Ini adalah perintah Undang-Undang Dasar. Kita perang kemerdekaan dengan Undang-Undang Dasar ini dan logikanya ini kekayaan kita."
+  },
+  {
+   "t": 1869.36,
+   "d": 66.84,
+   "text": "Masa kekayaan kita ya diolah, diambil, dijual ke luar negeri, hasil jualannya tidak ditaruh di Indonesia. Masuk akal atau tidak? Coba ya. Kalau katakanlah saudara punya warung, tiap hari saudara jualan, ya? Tiap hari saudara jualan, jualan apa saja di warungmu."
+  },
+  {
+   "t": 1909.96,
+   "d": 71.32,
+   "text": "Dan setiap hari keuntunganmu kau taruh di tempat tabunganmu di lemarimu atau di lacimu atau di mana. Kemudian laci itu, lemari itu, tas itu diambil orang lain. Kamu merasa biasa atau tidak? Tabunganmu diambil, Saudara-saudara, selama berapa puluh tahun tabungan Indonesia diambil?"
+  },
+  {
+   "t": 1954.56,
+   "d": 66.32,
+   "text": "dan uangnya tidak ditaruh di Indonesia, ditaruh di luar negeri. Dan kita kadang sekarang uh iya kan, Saudara-saudara. Saya tadi dikatakan berapa kali maju jadi presiden untuk jadi presiden tadi disebut apa? Ee tiga kali kalah. Salah empat kali kalah. Iya. Saya usaha jadi presiden dari 2004."
+  },
+  {
+   "t": 1998.96,
+   "d": 97.88,
+   "text": "Konvensi Golkar ya kan 2004 2009 2000 14 2019 2024 lima kali empat kali kalah empat kali kalah orang bingung sudah empat kali kalah masih mau maju lagi. Saudara-saudara, ada analis-analis ya, podcast-podcast iya kan Prabowo pengin banget jadi presiden. Sampai sekian kali, Saudara-saudara, kenapa saya ingin jadi presiden?"
+  },
+  {
+   "t": 2058.0,
+   "d": 84.6,
+   "text": "Saya ingin jadi presiden karena saya sudah lihat dari tahun 90-an Indonesia menuju arah yang salah. Saya sudah melihat. Saya bukan mau jadi presiden hanya untuk jadi presiden. Lu kira enak? Iya kan? Hah? Karena kadang-kadang masyarakat elit kita ini elit yang memang ee kejam elit kita ini ya. Tapi hampir semua elit bangsa-bangsa seperti kita ribut terus."
+  },
+  {
+   "t": 2116.96,
+   "d": 82.76,
+   "text": "Sukanya elitnya suka ribut, rakyat tidak. Rakyat paling ngerti. Rakyat ngerti bahwa untuk dapat hidup yang baik harus ada kerukunan, harus ada apa? Harus ada paguyuban, harus ada kerja sama, harus ada ee saling mengisi, bukan saling menghantem, tapi elit semakin pintar. Jadi ada presiden kayak Pak Jokowi yang jarang ke luar negeri disalahkan."
+  },
+  {
+   "t": 2158.0,
+   "d": 51.28,
+   "text": "Iya kan? Jokowi enggak pernah ke luar negeri. Jokowi tidak peduli politik luar negeri. Saya sering ke luar negeri. Prabowo sering ke luar negeri. Aneh gitu. Sebetulnya enggak enggak ada masalah gitu. Benar enggak? Situasi mungkin berubah. Sekarang dinamikanya geopolitik begitu kacau."
+  },
+  {
+   "t": 2184.92,
+   "d": 73.8,
+   "text": "Kita tidak tahu kawan siapa, lawan siapa. Kita beruntung. Saya beruntung. Presiden Indonesia menerima warisan dari pendiri-pendiri bangsa kita. bahwa politik luar negeri Indonesia adalah politik non align, politik non block. Kita bersahabat sama semua negara, kita bersahabat sama semua kekuatan, kita tidak mau terlibat dengan fakta-fakta militer siapapun."
+  },
+  {
+   "t": 2225.52,
+   "d": 65.24,
+   "text": "Karena itu begitu saya menerima mandat sebagai presiden, saya langsung saya langsung gariskan politik luar negeri kita meneruskan politik nonalign, politik non blok, politik bebas aktif. 1000 kawan terlalu sedikit, satu lawan terlalu banyak. Ini adalah garis yang saya tempuh sekarang."
+  },
+  {
+   "t": 2257.88,
+   "d": 68.56,
+   "text": "Saya baik sama Presiden Putin, baik saya, tapi saya baik juga sama Presiden Trump. Di sini saya disalahkan, di situ saya disalahkan. Tapi enggak ada masalah, Saudara-saudara. Noise selalu ada. Yang penting kita yakin garis kita di mana. Selama saya yakin saya kerja untuk bangsa dan rakyat Indonesia selamanya saya tidak ragu-ragu, Saudara-saudara."
+  },
+  {
+   "t": 2305.68,
+   "d": 87.08,
+   "text": "Saudara-saudara. Kadang-kadang kita sebagai negara yang disukai oleh banyak negara, Indonesia sekarang disukai, Indonesia dicari karena Indonesia dikenal tidak mau punya musuh. Nah, sekarang saya tanya kepada saudara. Saya tanya kepada saudara ya, karena ada yang sok lebih pintar dari segala-galanya. Sudah bayangkan saya sebagai presiden Indonesia, saya dipilih oleh rakyat untuk menjaga rakyat Indonesia."
+  },
+  {
+   "t": 2352.6,
+   "d": 70.12,
+   "text": "Sekarang kalau ada negara super power ya, katakanlah Presiden Trump. mengundang saya ke Amerika. Berani saya enggak datang. Hah? Kalau Presiden Amerika Serikat ngundang Presiden Indonesia dan presiden Indonesia ini engak hadir. Ah, coba aja. Jadi, Saudara-saudara, sudah Presiden Amerika undang, Presiden Rusia undang juga."
+  },
+  {
+   "t": 2389.24,
+   "d": 65.8,
+   "text": "Gue nongol di Washington, gue enggak nongol di Moskow. Enggak bisa, Saudara-saudara. Hah? Habis itu diundang lagi oleh Presiden Zijin Ping. Ya, gue hadir. Benar enggak? Eh, diundang lagi oleh India. India 1,4 miliar orang ya. Pasarnya besar. teknologinya hebat."
+  },
+  {
+   "t": 2421.84,
+   "d": 72.92,
+   "text": "Jadi Brazil sama jadi, Saudara-saudara, inilah risiko negara yang sahabatnya banyak. Kita Indonesia ini negara terbesar di ASEAN. Kita anggota Apek. anggota Konferensi Islam. Uki anggota sekarang anggota Bricks, anggota G20. kita kalau diundang kita enggak hadir."
+  },
+  {
+   "t": 2463.36,
+   "d": 83.4,
+   "text": "Jadi saya mau cerita sama saudara-saudara, untuk membela kepentingan rakyat memang kita harus memelihara hubungan baik dengan semua pemerintah itu. Makanya saya katakan politik Indonesia adalah politik tetangga yang baik. Kita ingin menjadi tetangga yang baik kepada semua negara sekitar kita dan negara yang lain di dunia. Saudara-saudara sekalian, Saudara-saudara, kemarin saya 2 hari 3 hari ini saya menerima berapa? 18 duta besar."
+  },
+  {
+   "t": 2507.24,
+   "d": 78.28,
+   "text": "Hampir semuanya menyampaikan undangan dari Presiden dan Perdana Menteri masing-masing. Kami berharap Presiden Indonesia dapat berkunjung ke negara kami. Bayangkan 18 negara itu ya terbangnya sudah kelenger aku ya, Saudara-saudara. Ini saya hanya cerita saudara-saudara sebagai pemimpin-pemimpin muda yang di antara saudara ya pasti akan ada yang akan muncul sebagaimana ketua-ketua umum sebelumnya."
+  },
+  {
+   "t": 2546.8,
+   "d": 107.32,
+   "text": "Saudara adalah wadah pemimpin. Jadi saudara harus mengerti mengerti masalah bangsa. Saya di forum ini, pada kesempatan ini saya ingin mengingatkan saudara-saudara, setialah kepada sejarah kita sendiri tanpa kesetiaan kepada sejarah, tanpa cinta tanah air. kamu tadi saya sudah tayangkan mbahnya kapitalisme tidak ada pertumbuhan tanpa nasionalisme saudara-saudara dan pengusaha pengusaha haruslah jadi pengusaha yang patriotik Saudara menupu kekayaan."
+  },
+  {
+   "t": 2611.88,
+   "d": 89.0,
+   "text": "Saya kira semua ajaran, apakah agama, apakah filosofi, semua ajaran kekayaan yang kau dapatkan dengan baik, gunakanlah untuk tujuan yang baik. Gunakanlah untuk membantu orang yang belum mampu, Saudara-saudara sekalian, baru Indonesia akan bangkit. Tapi kalau Saudara kaya raya, habis itu kekayaannya kau bawa lari di luar negeri dan kau tidak peduli dengan rakyat sekitarmu, ya masa depan bangsa kita tidak akan baik."
+  },
+  {
+   "t": 2661.48,
+   "d": 70.56,
+   "text": "Bangsa kita baik karena nilai-nilai bangsa kita. Di antara nilai-nilai bangsa kita yang harus kita jaga adalah nilai-nilai yang turun-temurun dari nenek moyang kita. Antara lain gotong-royong, saling membantu. Yang kuat angkat yang lemah. para pengusaha kunci dari kebangkitan suatu bangsa, saudara yang akan menciptakan lapan kerja."
+  },
+  {
+   "t": 2699.64,
+   "d": 67.52,
+   "text": "Karena itu pemerintah harus membuat keadaan yang baik untuk para pengusaha. keadaan yang baik itu antara lain hukum harus kita tegakkan. Kalau kita tidak tegakkan hukum, yang terjadi adalah hukum rimba, hukum liar. Yang terjadi adalah hukum berdasarkan kekuatan."
+  },
+  {
+   "t": 2738.04,
+   "d": 71.28,
+   "text": "Dan di ujungnya tidak baik bagi kita semua. Ada yang mengatakan Prabowo tidak suka dan nanti akan mengusir investor-investor asing. Ternyata tidak seperti itu. Saya ketemu banyak investor-investor yang akan masuk. Tapi kita ngerti bahwa di antara kita ada yang selalu tidak suka dengan berlakunya hukum."
+  },
+  {
+   "t": 2774.88,
+   "d": 83.0,
+   "text": "Mereka suka keadaan yang liar. Jadi, Saudara-saudara saya titip HIPMI bangkitlah dengan semangat cinta tanah air yang luar biasa. Akan ada kesulitan. Pasti ada kesulitan. Sekarang tidak hanya kita yang sulit, hampir seluruh dunia yang sulit. Karena perang Teluk ya, ada Selat Hormus, ada Laut Merah, tapi kita bersyukur kekuatan kita besar akan ada tantangan."
+  },
+  {
+   "t": 2825.12,
+   "d": 65.84,
+   "text": "Kita sekarang sudah sasembada pangan. Sudah sasada pangan. Jangan kau anggap pangan itu tidak penting. Tanpa pangan tidak ada republik manaun di dunia ini. Tidak ada negara tanpa pangan. Banyak negara sekarang dalam keadaan panik. Mereka sulit cari makan. PBB sudah warning tahun ini akan ada kelaparan besar-besaran."
+  },
+  {
+   "t": 2869.36,
+   "d": 70.16,
+   "text": "Kita alhamdulillah kuat. Ini tidak bisa kita tutup mata, Saudara-saudara. kita menuju suasana energi. Kita sedang bekerja keras. Perhitungan kita 3 tahun lagi kita benar-benar sangat kuat di bidang energi, Saudara-saudara sekalian. Saudara-saudara sekalian dan yang paling penting kita akan melakukan industrialisasi."
+  },
+  {
+   "t": 2917.44,
+   "d": 83.32,
+   "text": "Industrialisasi kita akan melaksanakan industrialisasi melalui hilirisasi. Semua komoditas kita akan kita olah dan akan menjadi industri-industri di Indonesia. Ini kesempatan untuk pengusaha-pengusaha muda bangkit. Karena kita tidak mau hanya jadi pasarnya bangsa lain. Kita mau pasar Indonesia harus dinikmati oleh putra-putri Indonesia."
+  },
+  {
+   "t": 2966.92,
+   "d": 66.04,
+   "text": "Setelah 81 tahun merdeka, kita harus punya mobil buatan Indonesia sendiri. Kita sudah mulai merintis. Sekarang TNI sudah pakai Jeep buatan putra-putri Indonesia sendiri. Presidenmu, presidenmu. Saya sekarang pakai mobil buatan rakyat Indonesia sendiri. Ini kayak kampanye aja ini."
+  },
+  {
+   "t": 3043.8,
+   "d": 64.48,
+   "text": "kampanye masih lama ini. Aku ke sini lagi menggugah semangatmu. Jadi, Saudara-saudara berapa hari yang lalu? berapa hari yang lalu. Enggak nih aku mau cerita nih ya. Aku mau cerita nih. Berapa hari yang lalu saya dengar pembicaraan di antara di antara anak buah saya. Mereka tanya, \"Eh, harga mobil ini berapa ya?"
+  },
+  {
+   "t": 3094.2,
+   "d": 70.68,
+   "text": "Harga mobil itu berapa ya?\" Saya pikir, \"Wah, aku sudah enggak bisa lagi nanya-nanya seperti itu.\" Suka tidak suka karena saya presiden, saya harus kasih contoh. Saya harus pakai mobil buatan anak-anak Indonesia. Jadi, jadi saya mengerti ini kan mobil baru 1 du tahun kita bangun. Iya kan? Ya namanya suatu yang baru ya mungkin tidak sebagus kalau saya pakai BMW atau Mercedes. Iya kan?"
+  },
+  {
+   "t": 3134.24,
+   "d": 55.48,
+   "text": "Kalau Pak Arak pakai Mercedes mungkin ya. Eh aku sudah enggak bisa lagi. Saya pakai maung. Nah satu saat saya ini suka tidur di mobil ya. Saya suka tidur di mobil. Jadi suatu saat saya lagi tidur di mobil, tahu-tahu karena hujan keras di luar, saya tidur tahu-tahu tek."
+  },
+  {
+   "t": 3168.4,
+   "d": 78.88,
+   "text": "Saya bangun rupanya bocor ya namanya baru ya kan ya aku kirim kembalilah ke ini kan buatan pindat aku bilang eh pindat tolonglah bocornya dikurangi. gitu loh ya. Habis itu pakai mobil dia naik gunung gedek gedek gedek gedak. Tapi gedek enggak apa-apa. Demi nasionalisme saya tetap pakai mobil ini, Saudara-saudara."
+  },
+  {
+   "t": 3225.16,
+   "d": 67.2,
+   "text": "Saudara-saudara, saudara-saudara, saudara-saudara, saudara harus ingat, saudara harus ingat orang tuamu. Waktu kau kecil, orang tuamu berjuang keras mencari sepatu untuk kamu berangkat sekolah, mencari baju untuk kamu. Mungkin temanmu sepatunya lebih bagus, tapi ini sepatu dari orang tuamu."
+  },
+  {
+   "t": 3263.32,
+   "d": 60.91,
+   "text": "Mau bagus, mau mau bocor, mau gedeg-geredek, mobil itu buatan buatan anak-anak Indonesia. Berarti dari ibu kita, Ibu Pertiwi, Saudara-saudara. Ya sudah, sebentar saya minta izin saya kalau sudah begini harus minum kopi saya. Kalau sudah begini bisa 2 jam lagi saya bicaranya, Saudara-saudara."
+  },
+  {
+   "t": 3331.12,
+   "d": 73.64,
+   "text": "Saudara-saudara percayalah masa depan Indonesia luar biasa, Saudara-saudara sekalian. Tapi, tapi kuncinya adalah kita harus bersatu. Kita harus rukun. Suku berbeda, agama berbeda, latar belak latar belakang boleh berbeda, ya kan? Partai boleh berbeda, tapi cinta tanah air tidak boleh luntur dari kita."
+  },
+  {
+   "t": 3387.56,
+   "d": 76.68,
+   "text": "Benar. Tadi habis bertarung jadi satu. Kita harus kerja. Makanya saya selalu saya selalu menggagas mengusulkan gagasan Indonesia Incorporated. Indonesia Incorporated adalah Indonesia sebagai satu kesatuan, satu kesatuan ekonomi. Kita bersaing bukan bersaing untuk saling membunuh. Kita bersaing untuk saling mengangkat, Saudara-saudara sekalian."
+  },
+  {
+   "t": 3437.8,
+   "d": 82.8,
+   "text": "bersaing untuk saling mengangkat, bersaing untuk saling memperkuat. Hanya bangsa yang bodoh yang mau bertikai, yang mau konflik. Kita lihat, lihat dengan mata kita. Lihat dengan mata kita. Apa yang terjadi kepada bangsa-bangsa lain yang kaya raya, yang punya kekayaan luar biasa, punya gas, punya minyak, punya emas, tapi perang perang perang saudara."
+  },
+  {
+   "t": 3482.44,
+   "d": 80.28,
+   "text": "Hah? Saya sedih. Banyak di antara mereka itu kawan saya semua. Saya sedih. Saya sangat sedih. Contoh Sudan. Sudan kaya luar biasa perang terus. Pertama perang utara sama selatan. Utara Islam, selatan Kristen. Yang selatan misahkan diri. Begitu misahkan diri selatan perang sama perang, Kristen sama Kristen perang, yang utara Islam sama Islam perang."
+  },
+  {
+   "t": 3526.96,
+   "d": 93.36,
+   "text": "Rakyat jutaan-jutaan hilang rumah puluhan ribu mati. Negara sangat kaya Libya negara sangat kaya. Irak negara sangat kaya. Surya, Saudara-saudara. Jadi, anak-anak muda, pemimpin-pemimpin muda, bangunlah budaya yang baik, nasionalis, tapi kerja sama. Jangan membenci, jangan selalu dendam."
+  },
+  {
+   "t": 3574.6,
+   "d": 57.8,
+   "text": "Dua hal yang sudah harus kita hindari. Jangan benci, jangan dendam. Bersaing biasa, menang kalah enggak ada masalah. Nyatanya saya lima kali maju, empat kali kalah. Enggak ada. Yang penting terakhirnya saya diberi kesantaran. Dan saudara mau percaya atau tidak percaya?"
+  },
+  {
+   "t": 3614.88,
+   "d": 86.64,
+   "text": "Saya waktu saya waktu saya menang diumumkan oleh KPU ya. Saya menang diumumkan oleh KPU. You bisa cek saya menang dengan angka 58,58%. Jadi tunggu-tunggu tunggu 58 5 + 8 13 benar 5 sama 8 13 sama 13 26 2 + 6 Lapan ini kayak kampanye di kecamatan ya. Enak. Asik juga ya. Asik juga ya."
+  },
+  {
+   "t": 3684.36,
+   "d": 86.32,
+   "text": "Jangan-jangan ini gerindra semua ini ya, Saudara-saudara. You boleh cek lagi waktu diumumkan di TV saya lihat jam ya diumumkan jam 14 03 1403 1 sama 4 5 + 3 8 del dan saudara-saudara ini baru pembukaan Eh, ini ini ada 28 slide. Bagaimana dibacakan coba? Enggak, enggak, enggak, Saudara-saudara."
+  },
+  {
+   "t": 3771.76,
+   "d": 70.96,
+   "text": "Salah satu, salah satu kemampuan pemimpin harus bisa merasakan kemauan rakyat dan saya merasakan rakyat saya ini yang duduk di depan ini sudah capek. Betul. Udah gua udah gua gua udah tahu lu udah tahu saya sudah tahu nih. Tapi kalian malu nanti dibilang hip me tidak semangat jadi semangat."
+  },
+  {
+   "t": 3830.08,
+   "d": 69.36,
+   "text": "Padahal padahal di hatimu. Apalagi dua orang ngomong lagi benar enggak? Benar. Pokoknya, Saudara-saudara, Saudara-saudara percayalah kita berada di jalan yang benar. Kita sudah kembali kepada Pancasila yang benar, Undang-Undang Dasar 45 yang benar. Benar. Kita mau bangun Indonesia yang bersatu."
+  },
+  {
+   "t": 3880.56,
+   "d": 87.24,
+   "text": "Semua suku, semua agama, semua kelompok etnis, semua ras, semua budaya bersatu untuk kita bangkit. Percaya masa depan kita luar biasa, Saudara-saudara. Kalau enggak luar kalau enggak luar biasa, gue enggak mau jadi presiden Indonesia, Saudara-saudara. Saya mengajak sekarang ya karena ini hitm hidm pengusaha pengusaha tunggu dulu pengusaha Indonesia banyak dosanya."
+  },
+  {
+   "t": 3944.76,
+   "d": 84.04,
+   "text": "Betul. Betul. Lu enggak bisa bohong sama gue? Gua udah ngerti lu. Itu tokoh-tokoh HIM ini gua kenal dari kecil. Bambang Wogo gue kenal waktu dia masih punya rambut. Ini semua satu-satu saya kenal semua itu. Cit cit ini semua gua kenal semua itu. Hah? Banglatif gue kenal juga, Saudara-saudara. Tapi sudahlah ya, enggak apa-apa. Dosa kita tutup, kita bangkit ke depan."
+  },
+  {
+   "t": 3995.64,
+   "d": 76.6,
+   "text": "Sekarang jangan coba-coba melanggar hukum. Saudara akan Saudara akan kalah. Kenapa sekarang ada teknologi, sekarang ada AI, ada kecerdasan? Sekarang semua dokumen setbel ini bisa dibaca dalam 5 menit. Kontrak setebel ini 5 menit. Jadi, Saudara-saudara, mari kita raih masa depan yang baik."
+  },
+  {
+   "t": 4034.64,
+   "d": 88.04,
+   "text": "ya kita kuasai, kita kendalikan semua untuk sebesar-besar kemakmuran rakyat kita. Kita percaya kita bisa membangun Indonesia yang hebat. Semua negara melihat sebenarnya Indonesia tidak terbendung. kita sudah algoritmenya sudah ada, hitungannya sudah ada. Kalau kita pandai dan kita cerdas, 245 kita ekonomi keempat terbesar di dunia, Saudara-saudara."
+  },
+  {
+   "t": 4088.24,
+   "d": 95.04,
+   "text": "Ya, yang muncul nanti nomor satu Tiongkok, nomor dua Amerika Serikat, nomor t India, nomor 4 Republik Indonesia, Saudara-saudara. Dan pada saat itu 2045 adalah 19 tahun lagi kan. 20 tahun lagi ya. Ya, 20 tahun lagi Saudara-saudara berada di puncak karmu. Saya nanti di Hambalang monitor kalian di bawah."
+  },
+  {
+   "t": 4147.4,
+   "d": 59.48,
+   "text": "Kalau belum dipanggil yang Maha Kuasa, kalau dipanggil yang Maha Kuasa, aku lihat tetap saya monitor kalian. Kalau kalau kalian kurang ajar, malam-malam aku turun nyari kau. Jangan main-main kau. Kau melanggar berkhianat kepada merah putih, aku turun. Aku cari kau slide slide enggak usah ya kalian. Eh, mana saya punya staf?"
+  },
+  {
+   "t": 4200.96,
+   "d": 68.44,
+   "text": "Buku-buku sudah dibawa. Hah? Sudah terima buku-buku saya? Belum. Belum. Belum. Ini penutupan tanggal berapa? Tanggal berapa? Besok. Besok penutupan. Tolong ya rajin. Besok buku-buku saya sudah di sini semua. Tapi buku saya dibaca. Jangan dipajang aja ya kan? Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 4276.2,
+   "d": 73.12,
+   "text": "Saudara-saudara, inti-intinya sudah saya sampaikan. Kita butuh pengusaha-pengusaha yang militan, yang semangat, yang cerdas, cerdas. yang tidak mengenal menyerah jatuh bangkit lagi. Jatuh bangkit lagi. Jatuh lagi bangkit lagi. Dan selalu saya titip kita harus bersatu."
+  },
+  {
+   "t": 4321.96,
+   "d": 76.12,
+   "text": "gotongroyong. Kalau ada yang menghasut, mecah belah, yakinlah dia bekerja untuk orang lain, bukan untuk orang Indonesia. Saudara yang nyinyir nyinyir nyinyir biar nyinyir nyinyir nyinyir. Ingat ya ajaran dari guru-guru kita. Biar anjing menggonggong, kafilah tetap terus. Kita berada di jalan yang benar. Kita akan menuju kemenangan dan kehebatan."
+  },
+  {
+   "t": 4380.92,
+   "d": 56.2,
+   "text": "Saudara-saudara sekalian. Dulu waktu pejuang-pejuang kita waktu mereka mengatakan merdeka, banyak juga yang nyinyir merdeka. Bagaimana kita mau merdeka? Bikin peniti saja tidak bisa. Dulu kan begitu. Tapi kita merdeka. Saudara-saudara percaya kepada pemimpinmu."
+  },
+  {
+   "t": 4417.8,
+   "d": 49.84,
+   "text": "Kami tidak akan berkhianat kepada kalian. Kami tidak akan berkhianat kepada bangsa Indonesia. Dari waktu muda pun kami siap mati untuk bangsa ini, Saudara-saudara. Saya ingin mati di atas jalan yang benar. Saya ingin mati di atas jalan merah putih. Saya ingin mati membela rakyat saya."
+  },
+  {
+   "t": 4453.84,
+   "d": 73.6,
+   "text": "Kali ini, kali ini benar-benar wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Terima kasih. Hmm. Hi Jaya. Selanjutnya kami mohon untuk mendampingi presiden di atas panggung. Yang pertama Ketua MPR. Baik, saya mengundang tokoh-tokoh HIBMI, pimpinan dan ketua-ketua kehormatan, mungkin mantan-mantan ketua umum dan calon-calon ketua umum naik semua ke atas."
+  },
+  {
+   "t": 4497.32,
+   "d": 47.28,
+   "text": "kita buka ya dipukul dipukul dua biji Pak dengan mohon berkenan Bapak Presiden untuk memberikan pernyataan dan memukul alat musik gamolan bersama-sama dengan mengucap bismillahirrahmanirrahim pada siang Hari ini hari Rabu, 10 Juni tahun 2026. Saya Prabowo Subianto."
+  },
+  {
+   "t": 4527.96,
+   "d": 36.2,
+   "text": "Dengan ini secara resmi saya buka Musyawarah Nasional ke-18 Himpunan Pengusaha Muda Indonesia. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Jelajahi cara baru mendapatkan informasi. Download Metro TV Extend sekarang. Yeah."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "Ntf-BzRGTug",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/Ntf-BzRGTug.json"
+ }
+}

@@ -1,0 +1,468 @@
+{
+ "id": "2026-01-05-di-perayaan-natal-nasional-2025",
+ "video_id": "doW8-nSNL-8",
+ "date": "2026-01-05",
+ "title": "(FULL) Pidato Presiden Prabowo di Perayaan Natal Nasional 2025",
+ "channel": "VIVA.CO.ID",
+ "youtube_url": "https://www.youtube.com/watch?v=doW8-nSNL-8",
+ "duration_s": 2950,
+ "duration_hms": "49:10",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 895,
+ "token_count": 2952,
+ "unique_word_count": 830,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "doW8-nSNL-8",
+   "url": "https://www.youtube.com/watch?v=doW8-nSNL-8",
+   "title": "(FULL) Pidato Presiden Prabowo di Perayaan Natal Nasional 2025",
+   "channel": "VIVA.CO.ID",
+   "upload_date": "2026-01-05",
+   "duration_s": 2950,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2952,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 895,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 7,
+  "ekonomi": 4,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 22,
+  "tata_kelola": 3,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 89,
+  "mbg": 11
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 7,
+  "full_phrase_count": 0,
+  "paired_terms_count": 4,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 11,
+  "present": true,
+  "evidence": [
+   {
+    "start": 1839.88,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 1935.559,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 1954.279,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 2036.799,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 2053.96,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2060.32,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2082.119,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2168.8,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2324.16,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2329.76,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2334.319,
+    "matches": [
+     "exact_token"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 0.8,
+   "d": 105.32,
+   "text": "tentunya sebagai insan yang bertakwa, tidak henti-hentinya kita panjatkan puji syukur kehadirat Tuhan Maha Kuasa, Maha Besar yang memiliki sekalian alam atas segala kebaikan, berkah, atas kesehatan yang kita nikmati dan juga atas kedamaian yang di masih diberikan kepada bangsa dan negara kita sehingga kita dapat berkumpul malam ini di acara puncak perayaan nasional di puncak perayaan Natal nasional 2025 yang kita melaksanakan sekarang pada tanggal 5 Januari 2026 ini."
+  },
+  {
+   "t": 61.96,
+   "d": 58.13,
+   "text": "Saya ucapkan terima kasih yang sebesar-besarnya atas kehormatan yang diberikan kepada saya untuk hadir di sini dan menyampaikan langsung ucapan. [tepuk tangan] Selamat hari raya Natal kepada saudara-saudaraku umat Kristiani sebangsa dan setanah air di mana pun Engkau berada."
+  },
+  {
+   "t": 97.36,
+   "d": 88.96,
+   "text": "Semoga damai Natal membawa kebaikan, berkah, kasih, pengharapan, dan kekuatan bagi kita sekalian. Amin. Saudara-saudara sekalian, acara hari ini adalah bukti dari jati diri kita bangsa Indonesia sebagai bangsa yang majmuk, bangsa yang multietnis. multias, multiagama, multi budaya."
+  },
+  {
+   "t": 149.56,
+   "d": 99.48,
+   "text": "Kita adalah bangsa yang sangat besar. Para pakar ada yang hitung kelompok etnis yang ada di Indonesia itu 1700 dengan bahasa daerah yang sangat banyak. kita di bumi Nusantara ini, suku-suku kita menganut agama-agama yang berbeda-beda, tapi kita bisa bersatu, kita bisa hidup sebagai satu bangsa, satu nusa yang memiliki satu bahasa."
+  },
+  {
+   "t": 199.6,
+   "d": 82.32,
+   "text": "Karena kita punya niat yang sama, kita ingin meraih kehidupan yang baik bersama. Kita telah ditakdirkan oleh yang maha kuasa untuk hidup di bumi Nusantara ini. Kita tidak bisa menentukan kita lahir di mana, dari rahim ibu yang mana. Itu sudah takdir ilahi. Tapi takdir ini yang membuahkan bangsa Indonesia."
+  },
+  {
+   "t": 242.08,
+   "d": 88.23,
+   "text": "Saya merasa besar hati, saya merasa bangga mendapat kehormatan besar menjadi presiden dari sebuah negara yang sangat besar. Jumlahnya keempat terbesar di dunia. [tepuk tangan] Negara sebesar Eropa. Eropa 27 negara, kita satu negara. Dan juga saya juga bersyukur saya dipilih oleh rakyat Indonesia."
+  },
+  {
+   "t": 292.24,
+   "d": 75.84,
+   "text": "Begitu saya dipilih dan saya dilantik, saya mengerti, saya mengetahui, saya mempelajari keadaan bangsa Indonesia di mana sesungguhnya kita patut bersyukur bangsa kita sungguh memiliki kekayaan. yang sangat-sangat besar. Namun tantangan yang kita hadapi juga sangat besar."
+  },
+  {
+   "t": 336.64,
+   "d": 78.28,
+   "text": "Saya kira sebagai insan hamba Tuhan, kita semua harus mengerti bahwa segala kebaikan yang diberikan oleh Yang Maha Kuasa, segala kekayaan tersebut, kalau kita tidak pandai menjaga kekayaan tersebut, kalau kita tidak pandai mengelola kekayaan tersebut, Maka kita tidak boleh menyalahkan siapapun atas nasib yang kita alami."
+  },
+  {
+   "t": 375.76,
+   "d": 106.92,
+   "text": "Saudara-saudara sekalian, pada kesempatan ini saya ingin menyampaikan bahwa sesungguhnya di tengah dunia yang penuh ketidakpastian, penuh gejolak perang di mana-mana, kita harusnya bersyukur bahwa bangsa kita sampai hari ini mengalami keadaan damai. Kita mengerti negara sebesar ini pasti ada perselisihan paham, ada konflik, ada perseturuan, ada persaingan."
+  },
+  {
+   "t": 432.32,
+   "d": 132.4,
+   "text": "Tetapi secara umum bangsa-bangsa lain mulai melihat bangsa Indonesia bahwa bangsa sebesar ini dapat hidup dengan harmoni, dengan saling menghormati dan saling mencintai. [tepuk tangan] Saudara-saudara sekalian, baru saja keluar sebuah survei dunia yang dilakukan bersama oleh eh Harvard University dan GP. Galep di mana dari hampir 200 negara, negara yang rakyatnya setelah ditanya menjawab bahwa rakyat tersebut mengalami bahagia."
+  },
+  {
+   "t": 506.56,
+   "d": 87.31,
+   "text": "Negara yang paling nomor satu di dunia sekarang, rakyatnya mengatakan dia bahagia adalah bangsa Indonesia. [tepuk tangan] Ini mengharukan bagi saya. Karena saya paham bahwa sebagian besar rakyat kita sesungguhnya masih mengalami kehidupan yang sangat-sangat sederhana yang berada dalam keadaan bisa harus kita akui keadaan yang belum sesungguhnya sejahtera."
+  },
+  {
+   "t": 555.12,
+   "d": 79.92,
+   "text": "Tetapi kalau ditanya masih mengatakan bahwa dia bahagia. Ini membingungkan bangsa-bangsa lain. Membingungkan bangsa-bangsa lain dan juga mengharukan bagi saya. Karena itu saya bersama pembantu-pembantu saya bekerja sangat keras. Sudah 1 tahun kita menerima tugas dari bangsa Indonesia."
+  },
+  {
+   "t": 602.32,
+   "d": 62.37,
+   "text": "Saya dibantu oleh pembantu-pembantu saya. Orang-orang yang saya harus akui adalah orang-orang putra-putri terbaik bangsa Indonesia. [tepuk tangan] Saya bersyukur saya mendapat kesempatan saya di ajak bergabung dalam pemerintah Presiden Joko Widodo selama 5 tahun."
+  },
+  {
+   "t": 644.48,
+   "d": 103.0,
+   "text": "Selama 5 tahun saya masuk ke dalam kekuasaan eksekutif. Jadi, bagi saya 5 tahun itu adalah semacam masa magang masa pembelajaran. Begitu saya hadir pertemuan kabinet yang pertama saya lihat kelilingnya itu dan memang saya sudah tentunya hadir pelantikan. Saya mengatakan kepada beberapa rekan-rekan, saya bilang waktu itu kan 2019 saya ee kandidat yang kalah. Iya kan?"
+  },
+  {
+   "t": 701.8,
+   "d": 55.44,
+   "text": "Tapi saya waktu masuk ruang kabinet saya melihat dan saya katakan seandainya saya menang sebagian besar kabinet itu pasti saya ajak membantu saya. [tepuk tangan] Dan itu terbukti begitu saya jadi presiden ya banyak dari mereka masih tetap saya ajak. [tepuk tangan] Kenapa?"
+  },
+  {
+   "t": 729.56,
+   "d": 162.44,
+   "text": "Karena memimpin mengelola dan mengendalikan pemerintahan untuk sebuah negara sebesar ini harus terdiri dari putra-putri terbaik. Tidak bisa, tidak bisa kita sembarangan. Jadi, Saudara-saudara, ada memang kita harus akui dengan kebaikan bangsa Indonesia. Elitnya juga banyak yang yah mau dikatakan apa ya e enggak tahu saya. pengalaman saya semakin tinggi di masyarakat sesungguhnya semakin semakin apa ya semakin kurang ikhlas begitu yang di bawah rakyat kita luar biasa luar biasa rakyat kita di bawa tapi semakin ke atas. Jadi ada budaya suka nyinyir, suka ngejek apa yang dibuat oleh bangsa sendiri enggak bagus."
+  },
+  {
+   "t": 822.08,
+   "d": 105.28,
+   "text": "Ini aneh ini. Tapi tidak apa-apa karena ini banyak ee pendeta, banyak Romo ya kan. Jadi kita harus selalu sekarang bicara kebaikan. I, Saudara-saudara, keluarga saya sebagian itu Nasrani. Tapi kadang-kadang kalau ajaran Nasrani yang paling pokok ya Monsinyur kalau tidak salah ya pendeta yang paling pokok adalah kalau pipi kiri kita ditempeleng kita harus kasih pipi kanan betul [tepuk tangan] betul ya betul karena waktu kecil saya sekolah Kristen juga saya itu."
+  },
+  {
+   "t": 883.36,
+   "d": 43.81,
+   "text": "Jangan-jangan saya ngerti cerita-cerita di Bibel lebih dari saudara-saudara itu. Jangan-jangan [tepuk tangan] Benar kan ajaran Nasrani kalau ditempeleng pipi kiri harus di kasih pipi kanan harus memaafkan. Kan begitu kan? Forgive those that trespass against us."
+  },
+  {
+   "t": 907.76,
+   "d": 81.1,
+   "text": "Boleh enggak? [tepuk tangan] Forgive uspasses as we forgive those that trespass against us. [tepuk tangan] Jadi saya sebenarnya ya bagi saya itu selalu ingin cari kebaikan daripada ketidakbaikan. Saya ingin cari persatuan daripada perpecahan. [tepuk tangan] Kalau masuk ke dalam kancah politik pasti persaingan. sangat keras ketat dan tidak ada masalah."
+  },
+  {
+   "t": 963.04,
+   "d": 65.31,
+   "text": "Masuk lapangan bola pun persaingan sangat keras. Mana ada orang yang mau kalah. Benar. Iya kan? Waktu kita kalah sepak bola saja sedihnya bukan main. Aku kalah pilpres berapa kali itu sudah lupa. [tepuk tangan] Tapi tidak ada masalah tidak boleh kita sakit hati."
+  },
+  {
+   "t": 1004.32,
+   "d": 102.54,
+   "text": "Tidak boleh dendam, tidak boleh benci. Dan itu saya saya berusaha untuk teguh pada pendirian itu. [tepuk tangan] Waktu muda, waktu muda di Jakarta sebagai anak muda, kita selalu mau belajar bela diri. Kenapa kita tidak mau kalah kalau kita berkelai? Jadi saya cari guru ke mana-mana dan semua guru yang saya ketemu yang hebat silatnya itu selalu mengajarkan Prabowo kamu harus berani tapi jangan dendam dan jangan benci."
+  },
+  {
+   "t": 1064.6,
+   "d": 61.98,
+   "text": "Dan ini saya kira ajaran semua agama kita ya. Jadi saya kadang-kadang kalau di keluarga saya beberapa saudara saya malah ee apa itu suka marah sama saya. Bowo kamu kenapa selalu dia dulu gini-giniin kamu? Saya bilang itu kan dulu. sekarang keadaannya harus harus bersatu, harus bekerja sama."
+  },
+  {
+   "t": 1099.1,
+   "d": 61.93,
+   "text": "[tepuk tangan] Dan saudara-saudara ini saya mau saya mau gunakan kesempatan ini mumpung dikasih podium kan kita karena ada podium dan saya presiden, saudara terpaksa dengar. Benar kan? Panitia enggak berani ingatkan saya waktu, Pak. Awas pokoknya ini podium ya."
+  },
+  {
+   "t": 1130.52,
+   "d": 73.73,
+   "text": "Suka presiden berapa lama ya. [tepuk tangan] Masih kuat dengar saya. Mau kuat enggak kuat saudara harus dengar saya gitu. Jadi, Saudara-saudara, tidak hanya itu memang ajaran hampir semua agama, itu ajaran guru-guru yang bijak, tapi itu juga itu juga analisa geopolitik, analisa geopolitik."
+  },
+  {
+   "t": 1172.32,
+   "d": 89.08,
+   "text": "pakar-pakar geopolitik di dunia melihat Indonesia. Indonesia ini luar biasa, sangat kaya. Sekarang masalahnya adalah bagaimana kekayaan ini kita jaga, kita kelola untuk bisa dinikmati oleh seluruh rakyat Indonesia. Ini harus kita akui, Saudara-saudara. Jangan kita bangga dengan hanya kata-kata kaya, produksi ini, milik itu. Tidak. Kita harus sekarang berjuang agar kekayaan itu benar-benar dinikmati oleh seluruh rakyat Indonesia."
+  },
+  {
+   "t": 1222.24,
+   "d": 88.7,
+   "text": "[tepuk tangan] Kita harus menghilangkan kemiskinan dari bumi Indonesia. Kita harus menghilangkan kelaparan dari bumi Indonesia. Saudara-saudara, ada yang ini zaman teknologi ya. Jadi sekarang teknologi itu ada sosmet. Iya kan? Sosmet ini baik, tapi ada juga kadang-kadang bahayanya dengan banyak podcast-podcast, banyak pakar itu bicara asal bicara."
+  },
+  {
+   "t": 1276.96,
+   "d": 67.96,
+   "text": "Jadi saya lihat ada pakar-pakar yang selalu mengerti pikirannya Prabowo Subianto. Jadi kadang-kadang kalau saya mau cek kira-kira apa yang dipikirkan Prabowo Subianto, saya cari podcast. Kira-kira apa ya yang sedang dipikirkan oleh Prabowo? Ngarang itu i Prabowo sedang konflik internal dengan ini nanti dengan itu."
+  },
+  {
+   "t": 1317.22,
+   "d": 64.14,
+   "text": "[tepuk tangan] Senangnya ramai gaduh padahal enggak ada, Saudara-saudara. Jadi, Saudara-saudara yang kita yang saya katakan tadi, pakar-pakar geopetik mengatakan bangsa Indonesia ini akan menjadi bangsa keempat terkaya di dunia. Tapi ada syaratnya. Syaratnya apa?"
+  },
+  {
+   "t": 1354.72,
+   "d": 95.06,
+   "text": "Syaratnya adalah apabila bangsa Indonesia bisa bersatu. Syaratnya apa? Terutama apabila elitnya bisa bekerja sama. [tepuk tangan] ini bukan begitu saya lihat baca itu berapa tahun yang lalu, saya semakin yakin. Akhirnya selalu saya ingin saya ingin selalu mengajak apapun perbedaan kita, apapun mungkin dosa-dosa kita di masa lalu. Karena kita manusia pasti penuh dosa, pasti ada kesalahan."
+  },
+  {
+   "t": 1411.6,
+   "d": 69.08,
+   "text": "Tapi sekarang kita harus bekerja sama, kita harus kompak, kita harus bahu-membahu. Yang kuat tarik yang lemah, yang lemah berhimpun kerja sama, bersaing baik. Tapi begitu pertandingan selesai, bersatu. Bersatu. Ada yang mengatakan kalau bersatu itu tidak demokratis."
+  },
+  {
+   "t": 1450.8,
+   "d": 106.38,
+   "text": "Loh, demokrasi silakan, koreksi silakan, kritik bagus, tapi fitnah itu tidak bagus. [tepuk tangan] Semua agama tidak tidak mengizinkan fitnah. Saya yakin di agama Kristen demikian juga. Thou shall not lie. Kebohongan itu tidak baik. Apalagi kebohongan. yang menimbulkan kecurigaan, kebohongan yang menimbulkan perpecahan, kebohongan yang menimbulkan kebencian."
+  },
+  {
+   "t": 1510.28,
+   "d": 72.12,
+   "text": "Ini ini bisa merusak kita semua. Jadi, Saudara-saudara, kalau di agama Islam ada itu ajarannya fitnah itu lebih kejam dari pembunuhan. Bayangkan. Jadi yang kita harus waspadai sekarang kalau kritik malah kita harus bersyukur. Kalau saya dikoreksi, saya menganggap bahwa saya dibantu, saya diamankan."
+  },
+  {
+   "t": 1546.4,
+   "d": 55.92,
+   "text": "Kadang-kadang kita tidak suka dikritik, kita tidak suka dikoreksi, tapi sesungguhnya itu mengamankan. Iya kan? Contoh paling sederhana, kadang-kadang kita lupa ada kancing yang tidak terpasang. Kemudian anak buah kita lari, Pak. Seragam Bapak, Pak. Bapak kancingnya loh. Ini anak buah kok berani koreksi?"
+  },
+  {
+   "t": 1576.4,
+   "d": 60.6,
+   "text": "Tapi dia koreksi untuk mengamankan saya. Bayangkan presiden muncul kancingnya tidak. Iya kan? Jadi kadang-kadang saya dongkol juga sama ajudan saya cerewet banget nih. Tapi dia menjaga saya. Dia menjaga saya. Berapa kali saya diselamatkan? Iya kan? Ini cerita waktu saya masih aktif ya."
+  },
+  {
+   "t": 1610.04,
+   "d": 51.44,
+   "text": "Saya keluar dari ruangan mau ambil apel. Enggak tahu saya sibuk atau apa. Saya lupa pakai tanda pangkat. Lari anak buah saya. Pak, Pak jangan keluar Pak. Tanda pakat Bapak tidak lengkap. Oh, iya. Jadi apa dia mengamankan saya? Kritik koreksi adalah menyelamatkan."
+  },
+  {
+   "t": 1636.64,
+   "d": 69.12,
+   "text": "Jadi saya terima kasih kalau ada yang teriak-teriak Prabowo ini mau hidupan lagi militerisme. Woh bari saya koreksi apa benar. Oke baru kita lihat. Panggil ahli hukum panggil di mana. Ya kan mana batas ee kepemimpinan yang terlalu otoriter? Jadi, Saudara-saudara, itu yang ingin saya sampaikan."
+  },
+  {
+   "t": 1672.68,
+   "d": 77.26,
+   "text": "Kita memiliki masa depan yang bagus walaupun ada kelompok nyinyir, ya kan? Enggak apa-apa. Enggak apa-apa. Kita akan bekerja dengan bukti, bukan dengan janji saja. [tepuk tangan] Yang jelas waktu saya kampanye sudah sekian puluh tahun, saya selalu bicara Indonesia harus sasembada pangan."
+  },
+  {
+   "t": 1716.96,
+   "d": 79.44,
+   "text": "Selalu saya bicara di mana pun waktu saya masih di Golkar pun saya sudah bicara itu. Saksinya banyak orang Golkar di sini karena saya alumni Golkar. saya tidak berubah waktu saya kampanye terakhir semada pangan yang pertama dan begitu saya jadi presiden itu fokus saya dan saya beri saya beri target kepada tim saya kita harus wasembada beras 4 tahun itu target saya 4 tahun."
+  },
+  {
+   "t": 1763.68,
+   "d": 78.73,
+   "text": "Saudara-saudara di perayaan Natal ini saya dengan bangga hari ini saya bisa menyampaikan begitu lewat 31 Desember 2025 bangsa Indonesia sekarang sudah sua sembada beras. Tahun 2025 [tepuk tangan] kita tidak impor beras sama sekali. Target 4 tahun kita bisa capek dalam waktu 1 tahun."
+  },
+  {
+   "t": 1807.16,
+   "d": 62.07,
+   "text": "[tepuk tangan] Dan kita bantu tidak hanya bangsa Indonesia, kita membantu dunia. Kenapa? Dengan kita tidak import beras, harga beras dunia turun. Turun ratusan dolar turunnya. Jadi banyak negara berterima kasih sama kita, Saudara-saudara sekalian. Ini satu contoh, Saudara-saudara."
+  },
+  {
+   "t": 1839.88,
+   "d": 66.28,
+   "text": "Saya canangkan makan bergizi gratis. Kenapa? Wakilpres berapa kali ya? Empat kali. Empat kali. Empat kali. Tiga kali kalah. Tapi yang terakhir menang. Okelah. Iya kan? [tepuk tangan] Saya datang ke desa-desa di mana-mana saya lihat anak-anak kecil. Saya tanya, \"Umurmu berapa?\""
+  },
+  {
+   "t": 1881.2,
+   "d": 82.84,
+   "text": "9 10 11 tapi badannya sama dengan anak 4 tahun kecil. Dia alami kurang gizi di mana-mana. Dan saya belajar, saya keliling dunia, saya belajar, saya lihat bagaimana India membantu rakyat miskinnya dengan makan bergizi gratis. Saudara-saudara, APBN-nya India, APBN-nya India nomor satu bagi dia nomor satu adalah pertahanan."
+  },
+  {
+   "t": 1925.76,
+   "d": 64.84,
+   "text": "karena dia tidak mau ambil risiko keselamatan bangsa dia. Nomor satu pertahanan. Nomor dua atau nomor tiga adalah makan bergizi. Berhasil juga sudah melaksanakan makan bergizi 12 13 tahun yang lalu, Saudara-saudara. Sekarang sudah ada 70 en negara melaksanakan makan bergizi."
+  },
+  {
+   "t": 1960.2,
+   "d": 48.6,
+   "text": "Dan saudara-saudara, ahli-ahli dari Amerika, Rockefeller Institute datang ke Indonesia lihat kita punya proyek dan menyampaikan kepada saya di Istana Merdeka. dia sampaikan kepada saya ahli dari Rockefellera Institute dia mengatakan ini adalah investasi Anda yang terbaik."
+  },
+  {
+   "t": 1984.04,
+   "d": 69.37,
+   "text": "Satu satu rupiah investasi kepada makan bergizi gratis menurut Rockval Institute akan menghasilkan pelipatan nilai ekonomi 5 kali sampai 35 kali. [tepuk tangan] Ini mereka yang bicara. Saya tidak mengejar itu. Saya hanya didorong oleh tidak sampai hati saya melihat anak-anak Indonesia kurang gizi."
+  },
+  {
+   "t": 2026.08,
+   "d": 76.68,
+   "text": "Untuk mereka yang kaya, untuk mereka yang sudah mapan ya tidak penting. Tapi untuk anak-anak di banyak daerah makan bergizi itu sangat-sangat penting. Tiap kali saya keliling daerah, saya sedih karena walaupun ada yang teriak, \"Terima kasih, Pak MBG, saya maju lagi 5 m. Ada yang bilang, \"Kapan, Pak, kami terima MBG?\""
+  },
+  {
+   "t": 2064.24,
+   "d": 73.48,
+   "text": "Karena walaupun luar biasa saya terima kasih kepada BGN. Saya diberi laporan hari ini sudah mencapai lebih dari 51 juta penerima manfaat MBG. [tepuk tangan] Benar, Pak Dadan ya. Oh, sudah 55. Saya ralat bukan saya kira 51 55 juta hari ini sudah 55 juta. 55 juta penerima manfaat Indonesia."
+  },
+  {
+   "t": 2103.68,
+   "d": 88.72,
+   "text": "Berarti itu sama dengan memberi makan 8 kali Singapura. Tiap hari kita beri makan 55 juta. 55 juta mulut, Saudara-saudara. Presiden Brazil menyampaikan ke saya, mereka mencapai 40 juta dalam 11 tahun. Kita 55 juta dalam 1 tahun. [tepuk tangan] Karena kita mulai 6 Januari 2024."
+  },
+  {
+   "t": 2152.2,
+   "d": 93.36,
+   "text": "Hari ini 5 Januari 2025, Saudara-saudara. Dan ada yang nuduh ada oh Prabowo bikin MBG ini supaya nanti 202 dia dipilih kembali selalu berpikir negatif. Tapi kalau rakyat milih saya tahun 202 apa salah saya? Iya kan? Kalau Tuhan mengizinkan, kalau Tuhan tidak mengizinkan saya buat apa saja tidak akan terjadi."
+  },
+  {
+   "t": 2210.48,
+   "d": 55.0,
+   "text": "Benar enggak? Empat kali ikut pemilu, tiga kali kalah. Soalnya waktu itu Pak Luhud enggak dukung saya sih, Saudara-saudara gimana? Masih mau terus kok suaranya kurang antusias ya? Kalau kalau saya sebut Tedy lebih semangat. Panitia masih boleh terus ya. Baik, Saudara-saudara. Intinya itu yang ingin saya sampaikan."
+  },
+  {
+   "t": 2273.53,
+   "d": 69.43,
+   "text": "[tepuk tangan] Negara kita hebat, negara kita kaya, dan negara kita bisa lebih makmur lagi. Asal pemimpin-pemimpinnya bersatu, kerja sama, bersatu tidak berarti semua harus masuk pemerintah. Tidak. PDP boleh di luar, boleh. Tapi kerja sama saya dukung Pramono jadi Gubernur DKI."
+  },
+  {
+   "t": 2318.68,
+   "d": 55.68,
+   "text": "Betul, Saudara-saudara. Apakah MBG enggak sampai Sumatera Barat? Karena aku kalah di Sumatera Barat. Berarti MBG jangan ke Sumatera Barat. Gak ada itu. Apa saya larang MBG ke Aceh? Aku kalah juga di Aceh. Tidak. Karena sekarang saya bukan milik satu partai. Saya sekarang milik seluruh bangsa Indonesia."
+  },
+  {
+   "t": 2353.96,
+   "d": 73.32,
+   "text": "Jadi di kesempatan Natal hari ini, itu yang ingin saya sampaikan. Perayaan ini adalah kehormatan bagi saya. Perayaan ini membuktikan bangsa Indonesia bangsa yang rukun, bangsa yang harmonis. Kita saling hormat menghormati, Saudara-saudara. Saya sangat saya sangat bangga dengan contoh pemimpin-pemimpin kita."
+  },
+  {
+   "t": 2400.12,
+   "d": 72.94,
+   "text": "Bung Karno. Bung Karno Presiden. Dia membuat masjid terbesar Republik Indonesia, Masjid Istiqlal. arsiteknya dia tunjuk orang Nasrani, [tepuk tangan] orang Nasrani yang jadi arsitek Masjid Istiqlal. Di mana ada seperti ini? Saya saya bangun masjid gak terlalu besar di Hambalang."
+  },
+  {
+   "t": 2449.88,
+   "d": 105.06,
+   "text": "arsiteknya dan yang bangun orang Katolik. [tepuk tangan] Kehormatan bagi saya. Saya suka musik. Saya punya membina orkestra filemonik. sama sama band. Suatu saat band saya itu kebetulan Nasrani semua. Yang kelompok kecilnya begitu 17 sudah banyak. Tapi yang empat inti itu orang Kristen. Suatu saat saya kaget waktu lebaran dia melantunkan selawat. Selawat Badar, selawat Rasulullah. Luar biasa. Luar biasa."
+  },
+  {
+   "t": 2515.88,
+   "d": 90.74,
+   "text": "Orang Kristen memainkan selawat. Ini apa ya? membuat hati saya merasa hangat. Saya bangga menjadi anak Indonesia [tepuk tangan] karena saya juga prajurit dulu. Sekarang hati saya masih prajurit. Fisik saya sudah enggak bisa lagi. Naik gunung bawa ranso. Naik gunung pakai heli bisa, Saudara-saudara. Waktu di tentara, waktu di tentara anak buah saya ada yang Hindu, ada yang Katolik, ada yang Protestan."
+  },
+  {
+   "t": 2576.6,
+   "d": 66.2,
+   "text": "Saya masih ingat anak buah saya yang gugur masih ingat. Saya masih ingat ada yang Katolik, ada yang Protestan, ada yang Hindu. Waktu saya perintahkan dia maju, apakah dia bertanya, \"Pak, kenapa saya harus maju?\" Dia tidak bertanya. dia melaksanakan tugas dia."
+  },
+  {
+   "t": 2612.28,
+   "d": 72.0,
+   "text": "Dan yang mengharukan bagi saya waktu saya memberitahu orang tuanya begitu kembali dari daerah operasi saya beritahu saya masih ingat nama prajurit itu Stefanus. Saya masih ingat Sersan Stefanus. Ibunya datang, dia datang ke kantor saya membawa pakaian perlengkapan dan sepatu dinas."
+  },
+  {
+   "t": 2651.16,
+   "d": 61.64,
+   "text": "Pak, ini kan milik negara. Saya mau kembalikan. Bayangkan. Kemudian, Pak, saya hanya mau tanya satu. Apakah anak saya gugur dalam pertempuran oleh musuh? Iya, Bu. Ibu harus yakin putra Ibu gugur sebagai kusema bangsa dalam pertempuran. Kalau begitu saya rela."
+  },
+  {
+   "t": 2681.76,
+   "d": 76.6,
+   "text": "Saya masih ingat saya punya anak buah satu lagi orang Flores dari ND. Masih ingat nama saya namanya ya Ciprianus Gebo dari ND. Saya ke rumahnya di ND. Jadi, Saudara-saudara, inilah Indonesia bineka tunggal ika. Berbeda satu tujuan. Marilah kita jaga persatuan kita."
+  },
+  {
+   "t": 2723.36,
+   "d": 74.38,
+   "text": "Marilah semuanya terus menggalang dan memajukan persatuan. kerja sama yang baik, saling mengasihi, saling menjaga, saling menghormati, saling melindungi [tepuk tangan] dan saling memaafkan kesalahan-kesalahan kita. Karena itu sebagai penutup, tapi kalau tanya orang Gerindra penutupnya Prabowo bisa tujuh kali."
+  },
+  {
+   "t": 2774.4,
+   "d": 57.8,
+   "text": "Tapi enggak ini sekali penutup sebagai penutup. Karena ini kebiasaan ya dalam perayaan semacam ini saya pribadi sebagai Prabowo Subianto dan sebagai Presiden Republik Indonesia. Kalau ada kata-kata saya yang salah yang menyinggung perasaan siapapun saya mohon maaf sebesar-besarnya."
+  },
+  {
+   "t": 2804.74,
+   "d": 61.09,
+   "text": "[tepuk tangan] [tepuk tangan] Niat saya dan niat pembantu-pembantu saya tidak ada lain. Kami bekerja keras untuk menghilangkan kemiskinan dari bumi Indonesia. [tepuk tangan] Kami bekerja keras mengurangi penderitaan dan kesulitan rakyat kita. Apalagi sekarang di daerah-daerah bencana."
+  },
+  {
+   "t": 2840.8,
+   "d": 77.36,
+   "text": "Kami bekerja keras untuk meningkatkan kesejahteraan rakyat kita. Percayalah itu niat kami dan kami sangat optimis. Kami sangat percaya bahwa kami berada di jalan yang benar, di jalan di atas kebenaran, di atas keadilan, dan sesungguhnya hanya untuk kebaikan seluruh rakyat Indonesia. Terima kasih."
+  },
+  {
+   "t": 2883.0,
+   "d": 69.8,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera. Shalom. Salve. Om santi santi santi om. Namo buddhaya. Rahayu-rahayu. Merdeka merdeka merdeka merdeka merdeka merdeka. Semoga Tuhan Maha Besar selalu melindungi kita sekalian. Terima kasih. Selesai."
+  },
+  {
+   "t": 2923.3,
+   "d": 2.02,
+   "text": "[tepuk tangan]"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "doW8-nSNL-8",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/doW8-nSNL-8.json"
+ }
+}

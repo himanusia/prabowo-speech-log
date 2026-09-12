@@ -1,0 +1,238 @@
+{
+ "id": "2024-10-20-perdana-ri-ke-8-beritasatu",
+ "video_id": "mb2Jw47oVl8",
+ "date": "2024-10-20",
+ "title": "[FULL] Pidato Perdana Presiden RI Ke-8 Prabowo Subianto | Beritasatu",
+ "channel": "BeritaSatu",
+ "youtube_url": "https://www.youtube.com/watch?v=mb2Jw47oVl8",
+ "duration_s": 3195,
+ "duration_hms": "53:15",
+ "source_tier": "full_media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 384,
+ "token_count": 3655,
+ "unique_word_count": 1174,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "mb2Jw47oVl8",
+   "url": "https://www.youtube.com/watch?v=mb2Jw47oVl8",
+   "title": "[FULL] Pidato Perdana Presiden RI Ke-8 Prabowo Subianto | Beritasatu",
+   "channel": "BeritaSatu",
+   "upload_date": "2024-10-20",
+   "duration_s": 3195,
+   "source_tier": "full_media",
+   "fetch_method": "transcript_panel",
+   "token_count": 3655,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 384,
+   "discovery_origins": [
+    "targeted_early_search"
+   ],
+   "selection_reason": "early_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "3YMlecD1nQ0",
+   "url": "https://www.youtube.com/watch?v=3YMlecD1nQ0",
+   "title": "Luar Biasa!! Ini Dia Pidato Perdana Presiden Prabowo | Pelantikan Presiden & Wakil Presiden RI 2024",
+   "channel": "Indosiar",
+   "upload_date": "2024-10-20",
+   "duration_s": 3116,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 3620,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 381,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 14,
+  "ekonomi": 6,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 11,
+  "tata_kelola": 13,
+  "pertahanan_dan_keamanan": 10,
+  "nasional_dan_identitas": 146,
+  "mbg": 1
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 1,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 1,
+  "present": true,
+  "evidence": [
+   {
+    "start": 1770.0,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 172.0,
+   "text": "ersilakan [Tepuk tangan] [Musik] [Tepuk tangan] Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh wa salam sejahtera untuk kita sekalian Shalom Om Swastiastu namo Budha salam kebajikan rahayurahayu yang saya hormati dan yang saya muliakan presidenuik masa jabatan 2014-2024 Bapak Ir Joko Widodo beserta ibu iryana Joko Widodo Wakil Presiden Republik Indonesia masa jabatan 2019 2024 Bapak Prof Dr k. H Maruf Amin beserta ibu Hajah Guri Estu Maruf [Tepuk tangan] Amin Wakil Presiden Republik Indonesia masa jabatan 20242029 saudara Gibran rakabuming Raka beserta ibu Selfi Ananda Putri Presiden Republik Indonesia keen Bapak Jenderal TNI purnawirawan Prof Dr H Susilo Bambang yudono wakil presiden keenam Republik Indonesia Bapak Jenderal tne purnawirawan Tri Sutrisno wakil presiden ke-10 dan ke-12 Republik Indonesia Bapak H Muhammad Yusuf Kal Wakil Presiden ke-11 Republik Indonesia Bapak Prof Dr"
+  },
+  {
+   "t": 172.0,
+   "d": 139.0,
+   "text": "buiono Ibu Ham Ketua Majelis permusyaratan rakyat Bapak Ahmad muani dan para Wakil Ketua Majelis perusan rakyat yang saya hormati ketua dan para wakil ketua dewan perwakilan rakyat Ketua dan wakiletuawan Perwakilan Daerah ketua lembaga-lembaga negara para ketua umum partai politik Ketua Umum Partai Golkar saudara Dr bahlil lahadalia ketua umum partai Gerindra yang diwakili oleh Hasyim Joyo Hadi Kusumo Ketua Umum Partai Nasdem bapak Dr Dr H suryoh ketua umum partai kebangkitan bangsa bapak Dr Dr anders H Abdul Muhaimin Iskandar presiden Partai Keadilan Sejahtera Bapak H Ahmad saiku ketua umum partai amanat nasional bapak Dr H suulkifli Hasan Ketua Umum Partai Demokrat saudara Dr H Agus simurti yudyono Ketua dan anggota Komisi pemilian umum ketua Badan pengawas pemilihan umum ketua dewan kehormatan penyelenggaraan pemilihan umum Jaksa Agung Panglima TNI Kapolri para kepala staf angkatan saudara Anis Rashid Baswedan dan saudara Abdul Muhaimin"
+  },
+  {
+   "t": 311.0,
+   "d": 101.0,
+   "text": "[Tepuk tangan] Iskandar saudara Ganjar prnowo dan saudara Prof Dr Mahfud mdai sangan calon presiden dan wakil presiden pada kontestasi pemilinaan umum presiden dan wakil presiden tahun 2024 yang baru lalu saudara-saudara Insan pers media cetak dan Media elektronik dalam dan luar negeri para tamu undangan dan teristimewa saudara-saudaraku seluruh rakyat Indonesia saudara-saudara sebangsa dan setanah air di mana pun engkau berada sebagai insan yang bertakwa marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Yang mah besar kita masih diberi kesehatan dapat hadir di majelis yang baik ini dan melaksanakan tugas konstitusi kita dengan baik dan aman saudara-saudara hari ini kita mendapat kehormatan yang sangat besar pada acara pelantikan Presiden dan Wakil Presiden Republik Indonesia hari ini kita dihadiri 19 kepala negara dan kepala pemerintahan serta 15 utusan khusus negara-negara sahabat lainnya tokoh-tokoh dari negara sahabat"
+  },
+  {
+   "t": 412.0,
+   "d": 117.0,
+   "text": "ini terbang dari tempat yang jauh di tengah kesibukan mereka di tengah banyak masalah yang dihadapi mereka datang ke sini untuk menghormati bangsa dan rakyat Indonesia dan karena itu atas nama seluruh bangsa dan rakyat Indonesia Saya ucapkan penghargaan Terima kasih yang setinggi-tingginya kepada semua kepala pemerintah kepala negara dan perwakilan negara-negara sahabat yang hadir di sini Yang saya hormati dan saya muliak suan dan yang di neg bruni Darussalam Paduka Sri Baginda Sultan hasanal muinah ibar [Tepuk tangan] aliifinulir presiden republik Filipina yang mulia Ferdinand R Maros Jor ibuis Mar Perdana Menteri kerajaan Kamboja yang mulia samdek Moha borfor tipadai Hun manet Perdana Menteri Republik Korea yang mulia handuksu Perdana Menteri Malaysia yang mulia Datuk Seri H Anwar Ibrahim perdana menteri negara merdeka Papua Nugini yang mulia James marape MP Perdana Menteri Republik Serbia yang mulia"
+  },
+  {
+   "t": 529.0,
+   "d": 153.0,
+   "text": "milosevic Perdana Menteri Republik Singapura yang mulia laence wong beserta ibu Perdana Menteri kepulauan Solomon yang mulia jeremaya manele MP Perdana Menteri Republik demokratik Timor Leste yang mulia sanana Gus Ma perdana meriubliku yang Mul [Tepuk tangan] IB wakil presiden Republik Rakyat Tiongkok yang mulia hanzeng wakil presiden Republik demokratik Rakyat laos Yang Mulia Pani yatoyu wakil presiden Republik Sosialis Vietnam yang mulia [Musik] Wakil perdana menteri wakil pertama Perdana Menteri federasi Rusia yang mulia Denis [Tepuk tangan] mantur Wakil perdana menteri merangkap menteri pertahanan Qatar Dr Khalid Bin Muhamad Al Wakil perdana menteri merangkap menteri pertahanan Australia yang mulia Richard m MP Wakil perdana menteri silandia baru yang mulia Winston Peters menteri Saya ulangi Wak perdana menteri sekus thaand yang mulia utusan khusus dan mantan presiden republik Federal Jerman yang muliaran W utusan khusus putra mahkota kerajaan"
+  },
+  {
+   "t": 682.0,
+   "d": 133.0,
+   "text": "Arab saudiarurusanarg Zubair utusan khusus presiden persatuan Emirate Arab menteri toleransi dan koeksistensi yang mulia Syekh nahayan mabarak Al nahyan utusan khusus presiden republik arab mesir menteri wakaf yang mulia Osama alazhari putusan khusus presiden Turki menteri pertahanan yang mulia Jenderal yasar guler putusan khusus Perdana Menteri kerajaan Britania Raya dan Irlandia Utara menteri luar negeri yang mulia David ly iden amika Serik wakil tetap Amerika Serikat untuk PBB yang muliaind Thomas greenfi sekretaris jenderal muslim Council of eld yang mulia Muhammad Abdul Salam utusan khusus Perdana Menteri Republik Ind MI Negeri yangul utusan khusus kerajaan Yordan menteri lewan negeri yang mulia Dr Nen namruka utusan khusus perdana menteri Jepang mantan menteri Luan negeri yang mulia komura masahik utusan khusus presiden dewan menteri Republik Italia wakil Meri pertahanan yangul diemnago utusan khusus Kanada untuk"
+  },
+  {
+   "t": 815.0,
+   "d": 114.0,
+   "text": "indoasifik utusan perdana Meri Kanada yang mulia Ian m utusan khusus presiden republik Perancis utusan khusus Prancis untuk Aan yang mulia franois corb yang saya muliakan seluruh duta besar serta perwakilan negara-negara sahabat you honor Us By coming all the way in the mid of your very busy schedule to Grace us with your presence in our moment of constitutional soverety saudara-saudara sekalian beberapa saat yang lalu di hadapan majelis yang terhormat ini di hadapan seluruh rakyat Indonesia dan yang terpenting di hadapan Tuhan Yang Maha Kuasa Allah subhanahu wa taala Saya Prabowo Subianto dan saudara Gibran rakabmi Raka telah mengucapkan sumpah untuk memptahankan undang-undang dasar kita menjalankan semua undang-undang dan peraturan yang berlaku untuk berbakti kepada negara dan bangsa sumpah tersebut akan kami jalankan dengan sebaik-baiknya dengan penuh rasa tanggung jawab dan dengan semua kekuatan yang ada pada jiwa dan raga kami kami akan menjalankan kepin"
+  },
+  {
+   "t": 929.0,
+   "d": 88.0,
+   "text": "pemerintah Republik Indonesia Kepemimpinan negara dan bangsa Indonesia dengan tulus dengan mengutamakan kepentingan seluruh rakyat Indonesia termasuk mereka-mereka yang tidak memilih kami kami akan mengutamakan kepentingan bangsa Indonesia kepentingan rakyat Indonesia di atas segala kepentingan di atas segala golongan apalagi kepentingan pribadi Kami saudara-saudara sekalian tantangan rintangan hambatan dan ancaman yang dihadapi oleh bangsa Indonesia di tengah dinamika dan pergolatan dunia tidak ringan saudara-saudara sekalian kita paham kita mengerti bahwa karunia yang diberikan oleh yang maha kuasa kepada kita sungguh sangat besar dan sungguh sangat beragam kita memiliki luas wilayah daratan dan lautan yang sangat besar kita memiliki kekayaan alam yang sangat besar kita mengerti bahwa sumber alam ini terdiri dari sumber-sumber alam yang sangat penting untuk kehidupan manusia di abad ke-21 dan seterusnya"
+  },
+  {
+   "t": 1017.0,
+   "d": 96.0,
+   "text": "namun di tengah segala karunia tersebut di tengah segala kelebihan yang kita miliki yang memang membuat kita harus menghadapi masa depan dengan optimis tetapi kita pun harus berani untuk melihat hambatan tantangan rintangan ancaman dan kesulitan yang ada di hadapan kita saya selalu mengajak saudara-saudaraku seb dan tanah air untuk menjadi bangsa yang berani bangsa yang tidak takut tantangan bangsa yang tidak takut rintangan bangsa yang tidak takut ancaman saudara-saudara sekalian sesungguhnya sejarah kita adalah sejarah dengan penuh kepahlawanan penuh pengorbanan penuh keberanian tidak hanya pemimpin-pemimpin tapi keberanian rakyat kita menghadapi segala tantangan bahkan invasi-invasi dari bangsa lain saudara-saudara sekalian kita paham dan kita mengerti bahwa kemerdekaan kita bukan hadiah kemerdekaan kita kita dapat dengan pengorbanan yang sangat besar saudara-saudara sekalian kita harus paham dan ingat selalu pengorbanan yang paling besar"
+  },
+  {
+   "t": 1113.0,
+   "d": 100.0,
+   "text": "adalah pengorbanan dari rakyat kita dari rakyat kita yang paling miskin wong cilik yang berjuang yang memberi makan kepada pejuang-pejuang janganlah kita lupa waktu kita perang kemerdekaan kita tidak punya anggaran kita tidak punya APBN pasukan kita tidak digaji Siapa yang memberi makan kepada kita yang beri makan adalah para petani di desa-desa yang beri makan adalah paraa nelayan yang beri makan adalah para pekerja terus-menerus mereka yang mendirikan Republik Indonesia sekarang saya mengajak saudara-saudara terutama unsur pimpinan dari semua kalangan dari kalangan cendekiawan dari kalangan ulama dari kalangan pengusaha dari kalangan pemimpin politik dari kalangan Pemuda dan mahasiswa Mari kita berani menghadapi tantangan-tantangan tersebut saudara-saudara sekalian tantangan yang besar yang kita hadapi ada yang berasal dari luar kita tapi harus kita akui harus kita Berani mengakui banyak tantangan banyak"
+  },
+  {
+   "t": 1213.0,
+   "d": 95.0,
+   "text": "kesulitan banyak rintangan yang berasal dari diri kita sendiri ada tantangan-tantangan kesulitan-kesulitan yang terjadi karena kita kurang waspada karena kadang-kadang kita tidak handal dan tidak piawe dalam mengurus kekayaan kita sendiri saudara-saudara sekalian marilah kita berani mawas diri marilah kita berani menatap wajah kita sendiri dan Mari kita berani memperbaiki diri kita sendiri marilah kita berani mengoreksi diri kita sendiri saudara-saudara sekalian kita harus menghadapi kenyataan bahwa masih terlalu banyak kebocoran penyelewengan korupsi di negara kita ini adalah yang membahayakan masa depan kita dan masa depan anak-anak kita dan cucu-cucu kita kita harus Berani mengakui terlalu banyak kebocoran-kebocoran dari anggaran kita penyimpangan-penyimpangan kolusi di antara para pejabat politik pejabat pemerintah di semua tingkatan di semua tingkatan dengan pengusaha-pengusaha yang nakal pengusaha-pengusaha yang tidak"
+  },
+  {
+   "t": 1308.0,
+   "d": 82.0,
+   "text": "patriotik janganlah kita takut untuk melihat realita ini kita masih melihat sebagian saudara-saudara kita yangum menikti kemerdekaan terlalu banyak saudara-saudara kita yang berada di bawah garis kemiskinan terlalu banyak anak-anak kita yang berangkat sekolah tidak makan pagi terlalu banyak anak-anak kita yang tidak punya pakaian untuk berangkat sekolah saudara-saudara sekalian kita sebagai pemimpin politik jangan kita terlalu senang melihat angka-angka Sta yang membuat kita terlalu cepat gembira terlalu cepat puas Padahal kita belum melihat gambaran sepenuhnya Kita merasa bangga bahwa kita diterima di kalangan g20 Kita merasa bangga bahwa kita disebut ekonomi ke-16 terbesar di dunia tapi apakah kita sungguh-sungguh paham apa kita sungguh-sungguh melihat gambaran yang utuh dari keadaan kita Apakah kita sadar bahwa kemiskinan di Indonesia masih terlalu besar Apakah kita sadar bahwa rakyat"
+  },
+  {
+   "t": 1390.0,
+   "d": 97.0,
+   "text": "kita dan anak-anak kita banyak yang kurang gizi betul banyak rakyat kita yang tidak dapat pekerjaan yang baik Banyak sekolah-sekolah kita yang tidak terurus saudara-saudara sekalian kita harus berani melihat ini semua dan kita harus berani menyelesaikan masalah ini semua saudara-saudara sekalian saya mengajak kita semua marilah kita berani melihat yataan kita boleh bangga dengan prestasi kita tapi marilah kita jangan tertegun jangan terlalu cepat puas jangan terlalu cepat gembira dengan menutup mata dan hati kita terhadap tantangan-tantangan dan penderitaan saudara-saudara kita saudara-saudara sekalian kita tidak boleh memiliki sikap seperti burung unta yang kalau melihat sesuatu yang tidak enak Ia memasukkan kepalanya dalam tanah Mari kita menatap ancaman dan bahaya dengan gagah marilah kita menghadapi kesulitan dengan berani saudara-saudara sekalian marilah kita berhimpun Marilah kita bersatu"
+  },
+  {
+   "t": 1487.0,
+   "d": 126.0,
+   "text": "untuk mencari solusi-solusi mencari jalan keluar dari ancaman dan bahaya tersebut saudara-saudara sekalian Saya telah mencanangkan bahwa Indonesia harus segera swasungada pangan dalam waktu yang sesingkat-singkatnya kita tidak boleh tergantung sumber makanan dari luar dalam krisis dalam keadaan Genting tidak ada yang akan mengizinkan barang-barang mereka untuk kita beli karena itu tidak ada jalan lain dalam waktu yang sesingkat-singkatnya kita harus mencapai ketahanan pangan kita harus mampu memproduksi dan memenuhi kebutuhan pangan seluruh rakyat Indonesia saya sudah mempelajari bersama pakar-pakar yang membantu saya saya yakin paling lambat 4 sampai 5 tahun kita akan Swasembada pangan bahkan kita siap menjadi lumbung pangan dunia saudara-saudara sekalian kita juga harus swasambada energi dalam Keadaan ketegangan dalam keadaan kemungkinan terjadi perang di mana-mana kita harus siap dengan kemungkinan yang paling"
+  },
+  {
+   "t": 1613.0,
+   "d": 96.0,
+   "text": "jelek negara-negara lain harus memikir kepentingan mereka sendiri kalau terjadi hal yang tidak kita inginkan sulit akan kita dapat sumber energi dari negara lain karena itu kita harus Swasembada energi dan kita mampu untuk Swasembada energi kita diberi karunia oleh Tuhan Maha Besar tanaman-tanaman yang membuat kita bisa tidak tergantung bangsa lain tanaman-tan tanaman-tanaman seperti kelapa sawit bisa menghasilkan solar dan bensin kita juga punya tanaman-tanaman lain seperti singkong tebu sagu jagung dan lain-lain kita juga punya energi bawah tanah geothermal yang cukup kita punya batu bara yang sangat banyak kita punya energi dari air yang sangat besar saudara-saudara sekalian pemerintah yang saya Pimpin nanti akan fokus untuk mencapai suas bada energi Kita juga harus mengelola air kita dengan baik alhamdulillah kita punya sumber air yang cukup dan kita sudah punya teknologi menghasilkan air yang murah"
+  },
+  {
+   "t": 1709.0,
+   "d": 101.0,
+   "text": "dan yang bisa memenuhi kebutuhan kita saudara-saudara sekalian juga semua subsidi bantuan kepada rakyat kita yang masih dalam keadaan susah harus kita yakin subsidi-subsidi itu sampai kepada mereka yang butuhkan Kita harus berani meneliti dan kalau perlu kita rubah subsidi itu harus kepada langsung keluarga-keluarga yang membutuhkan itu dengan teknologi digital kita akan mampu sampai subsidi itu sampai ke Setiap keluarga yang membutuhkan tidak boleh aliran-aliran bantuan itu tidak sampai ke mereka yang butuh itu saudara-saudara anak-anak kita semua harus bisa Makan bergizi minimal satu kali sehari dan itu akan kita lakukan dan itu bisa kita lakukan saudara-udara sekalian Selain itu menjamin melindungi mereka yang paling lemah untuk mencapai kesejahteraan sejati kemakmuran yang sebenarnya kita harus melakukan hilerisasi kepada semua komoditas yang kita miliki nilai tambah dari semua komoditas"
+  },
+  {
+   "t": 1810.0,
+   "d": 107.0,
+   "text": "itu harus menambah kekuatan ekonomi kita sehingga rakyat kita bisa mencapai tingkat hidup yang sejahtera seluruh komunitas kita harus bisa dinikmati oleh seluruh rakyat Indonesia saya sudah katakan Kita harus berani menghadapi dan memberantas korupsi dengan perbaikan sistem dengan penegakan hukum yang tegas dengan digitalisasi Insyaallah kita akan kurangi korupsi secara signifikan Tapi ini harus kita lakukan seluruh Unsur pimpinan harus memberi contoh sarso sing tlodo saudara-saudara sekalian ada pepatah yang mengatakan kalau ikan menjadi busuk busuknya mulai dari kepala Semua pejabat dari semua eslon dan semua tingkatan harus memberi contoh untuk menjalankan kepimpinan pemerintahan yang sebersih-bersihnya mulai dengan contoh dari atas dan sesudah itu penegakan hukum yang tegas dan keras saudara-saudara Sekalian semua kita percaya dan kita Yakin Kita akan punya kekuatan untuk bisa menghilangkan kemiskinan dari bumi Indonesia ini sasaran yang berat bahkan"
+  },
+  {
+   "t": 1917.0,
+   "d": 99.0,
+   "text": "banyak yang mengatakan bahwa ini sesuatu yang tidak mungkin saudara-saudara pemimpin yang berani pemimpin yang baik akan terpanggil untuk menghadapi yang tidak mungkin dan mencari jalan agar yang tidak mungkin kita atasi bangsa yang berani adalah bangsa yang bisa bikin yang tidak mungkin menjadi mungkin [Tepuk tangan] saudara-saudara di tengah itu cita-cita yang begitu besar yang begitu kita idam-idamkan kita perlu suasana kebersamaan kita perlu suasana persatuan kita perlu kolaborasi kerja sama bukan cekcok yang berkepanjangan kita perlu pemimpin-pemimpin yang tidak pemimpin-pemimpin yang Arif yang bijaksana yang mengerti dan cinta budaya dan sejarah bangsa sendiri yang bangga dengan adab tradisi dan adat bangsa kita sendiri kita dari sejak du pemikiran kehendak dan racang bangun pendiri-pendiri bangsa kita dari sejak awal bangsa ini Berdiri kita ing menjadi bangsa yang berdemokrasi kita menempatkan kedaulatan rakyat setinggi-tingginya dalam dasar negara"
+  },
+  {
+   "t": 2016.0,
+   "d": 101.0,
+   "text": "kita Pancasila kerakyatan merupakan sendi utama dari kelima sila yang kita Junjung tinggi kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyaratan perwakilan kita menghendaki kehidupan demokrasiiilah kita S harus demokrasi yang khas untuk Indonesia demokrasi yang cocok untuk bangsa kita demokrasi yang berasal dari sejarah dan budaya kita demokrasi kita harus demokrasi yang santun demokrasi di mana berbeda pendapat harus tanpa permusuhan demokrasi Tan di mana mengoreksi harus tanpa caci maki bertarung tanpa membenci bertanding tanpa berbuat curang demokrasi kita harus demokrasi yang menghindari kekerasan yang menghindari adu domba yang menghindari hasutmenghasut demokrasi kita harus demokrasi yang sejuk demokrasi yang damai demokrasi yang menghindari kemunafikan hanya dengan persatuan dan kerjaasama kita akan mencapai cita-cita para leluhur bangsa kita bangsa yang gemah ripah loh jinawi Toto Tentrem"
+  },
+  {
+   "t": 2117.0,
+   "d": 123.0,
+   "text": "kertoroharjo bangsa yang baldatun tojibatun warobun goofur bangsa di mana rakyat cukup pangan cukup sandang cukup papan kita cita-cita kita adalah melihat wong cilik iso gemuyu wong cilik bisa senyum bisa ketawa saudara-saudara sekalian kita harus ingat bahwa kekuasaan itu adalah milik rakyat kedaulatan itu adalah kedaulatan rakyat Kita Berkuasa seizin rakyat kita menjalankan kekuasaan harus untuk kepentingan rakyat kita harus selalu ingat setiap pemimpin dalam setiap tingkatan harus selalu ingat pekerjaan kita harus untuk rakyat bukan bukan bukan kita bekerja untuk diri kita sendiri bukan kita bekerja untuk kerabat kita bukan kita bekerja untuk pemimpin-pemimpin Kita pemimpin yang harus bekerja untuk rakyat saudara-saudaraus [Tepuk tangan] lalu bahwa bangsa yang merdeka adalah bangsa di mana rakyatnya Merdeka rakyat harus bebas dari ketakutan bebas dari kemiskinan bebas dari kelaparan bebas dari kebuduhan bet bebas"
+  },
+  {
+   "t": 2240.0,
+   "d": 108.0,
+   "text": "dari penindasan bebas dari penderitaan saudara-saudara sekalian masih ada saudara-saudara kita usianya di atas 70 tahun masih menarik becak ini bukan ciri-ciri bangsa yang merdeka hanya kalau kita bisa wujudkan itu kalau kita bisa wujudkan keadaan di mana rakyat kita sungguh-sungguh merasa dan menikmati kemerdekaan baru boleh kita sungguh-sungguh puas dan bangga dengan prestasi Indonesia merdeka sebelum itu marilah kita kerja keras marilah kita berjuang tanpa menyerah mari kita menghimpun dan menjaga semua kekayaan kita jangan mau kekayaan kita diambil murah oleh pihak-pihak lain saudara-saudara Sekalian semua kekayaan kita harus sebesar-besarnya untuk kepentingan dan kemakmuran rakyat kita saudara-saudara dalam sejarah politik hal ini mudah diucapkan tidak mudah untuk kita capai tapi kita bisa Capai kalau kita bersatu dan bekerja sama marilah kita bangun masa depan bersama marilah kita menganggap rekan-rekan kita walaupun berbeda suku"
+  },
+  {
+   "t": 2348.0,
+   "d": 146.0,
+   "text": "berbeda agama berbeda partai berbeda Golongan kita adalah sama-sama anak Indonesia bertanding semangat sesudah bertanding Mari kita berhimpun kembali [Tepuk tangan] Presiden Joko Widodo mengalahkan saya berapa kali ya saya lupa itu tapi begitu beliau menang beliau menang ya beliau mengajak saya bersatu dan saya menerima ajakan itu sekarang saya yang menang dan saya mengajak semua pihak Ayo bersatu [Tepuk tangan] saudara-saudara sekalian dalam menghadapi dunia internasional Indonesia memilih jalan bebas aktif non block non kita tidak mau ikut fakta-akta militer Manun kita memilih Jal bersahabat dengan semua negara sudah berkali-kali saya cadangkan Indonesia akan menjalankan politik luar negeri sebagai negara yang ingin menjadi tetangga yang baik We want to be the good neighbor kita ingin menganut filosofi kuno 1000 kawan terlalu sedikit satu lawan terlalu banyak saudara-saudara sekalian dengan demikian"
+  },
+  {
+   "t": 2494.0,
+   "d": 133.0,
+   "text": "kita ingin menjadi sahabat semua negara tapi kita punya prinsip prinsip kita adalah prinsip anti penjajahan karena kita pernah mengalami penjajahan kita anti penindasan karena Kita pernah ditindas kita anti rasialisme kita anti aparthid karena kita pernah mengalami aparthid waktu kita dijajah kita bahkan kita digolongkan lebih rendah dari anjing banyak prasastias dan marmer banyak papan-papan di mana disebut honden and inlander forboden saya masih lihat saya masih lihat prasasti di kolam renang manggerai tahun 8 hondon and inlander forboden saudara-saudara karena itu kita punya prinsip kita harus Solider kita harus membela rakyat-rakyat yang tertindas di dunia ini karena karena itu kita mendukung kemerdekaan rakyat Palestina pemerintah pemerintah Presiden Joko Widodo sudah mengirim banyak bantuan hari ini kita punya tim medis yang bekerja di Gaza di Rafa dengan risiko yang sangat tinggi dokter-dokter kita perawat-perawat kita"
+  },
+  {
+   "t": 2627.0,
+   "d": 112.0,
+   "text": "sudah bekerja sama di Rafa di gaz di Gaza bersama saudara-saudara kita dari Uni at Arab dan kita pun siap untuk mengirim bantuan yang lebih banyak dan kita siap untuk evakuasi mereka-mereka yang luka dan anak-anak yang trauma dan korban kita siapkan semua rumah sakit tentara kita dan nanti Rumah sakit-rumah Sakit lain untuk membantu saudara-saudara kita yang menjadi korban perang yang tidak adil saudara-saudara kita menjadi bangsa yang harus berterima kasih kepada generasi pembebas kepada Bung Karno Bung Hatta pahlawan-pahlawan yang lain us kapitanur suanin semuahan yang bisa kita sebut satu persatu tapi mereka yang membayar saham Kemerdekaan dengan darah dan air mata mereka kita bersyukur kepada Presiden dan proglamator pertama Bung Karno yang telah memberi kepada kita ideologi negara Pancasila yang keluar masuk penjara dibuang di mana-mana dari sejak muda karena memperjuangkan Indonesia merdeka Indonesia tidak mau menjadi darah bagi"
+  },
+  {
+   "t": 2739.0,
+   "d": 104.0,
+   "text": "bangsa-bangsa [Tepuk tangan] lain Soekarno Hatta Syahrir Semua pendiri-pendiri bangsa ini berkorban dan telah memimpin kita dengan baik kita juga bersyukur kepada Presiden Soeharto yang banyak jasa dalam menyelamatkan dan mengamankan ideologi Pancasila itu sendiri yang telah meletakkan dasar bagi Indonesia yang modern Kita berterima kasih kepada Presiden Habibi yang telah membuat dasar untuk kita meraih dan menguasai ilmu pengetahuan dan teknologi Kita berterima kasih kepada presiden Abdurrahman Wahid yang telah yang telah memberi contoh toleransi antar agama antar suku yang menjunjung tinggi inklusif Indonesia yang inklusif dan toleran Kita berterima kasih kepada Presiden Megawati yang yang menyelesaikan masalah-masalah ekonomi akibat crash tahun 98 harus diakui di bawah pemerintah Megawati masalah perusahaan-perusahaan yang banyak hancur dapat di perbaiki dan diselamatkan kita harus berterima kasih kepada Presiden Susilo"
+  },
+  {
+   "t": 2843.0,
+   "d": 114.0,
+   "text": "bangud yang memimpin Indonesia di saat krisis yang sangat berat menghadapi tsunami menyelesaikan bersama wakil presiden Yusuf Kala menyelesaikan pertikaian di Aceh yang sudah berjalan begitu lama ini prestasi yang harus kita akui saudara-saudara sekalian mereka semua dengan cara masing-masing memiliki sumbangsih terhadap apa yang sekarang kita nikmati negara kesatuan yang utuh yang berdaulat yang merdeka yang terus menjaga dan berjuang untuk kemerdekaan dan keadilan saudara-saudara sekalian sekarang kita ucapkan terima kasih juga kepada Presiden Republik Indonesia yang ketujuh Presiden Joko Widodo dengan wakil presiden Prof Maruf Amin Terima kasih atas kepemimpinan Bapak Terima kasih atas kenegarawanan bapak bapak telah menakodai bangsa ini melalui krisis-krisis yang sungguh sangat berat jangan kita merasakan hari ini ingat waktu covid kita bahkan keluar dari rumah kita takut saya saksi saya menterinya beliau"
+  },
+  {
+   "t": 2957.0,
+   "d": 119.0,
+   "text": "semua pihak dalam dan luar negeri telepon terus menekan beliau terus minta Lockdown Lockdown Lockdown beliau menolak beliau berpikir kalau kita Lockdown Bagaimana wong cilik Bagaimana warung tegal Bagaimana ojol bagaimana rakyat-rakyat yang makannya dari upah harian jangan kita lupa prestasi pemimpin-pemimpin kita terima kasih Pak Jokowi Terima kasih Profesor Amin anda telah berjasa anda akan Dikenang sebagai Putra Indonesia yang termasuk terbaik saudara-saudara [Tepuk tangan] sekalian Akhir kata saya mohon doa restu saudara-saudara Mari kita bangun Indonesia di atas landasan yang sudah dirintis oleh pendahulu-pendahulu kita mari kita belajar semua kekurangan kita akui dan kita perbaiki hentikan dendam hilangkan kebencian bangun kerukunan bangun gotongroyong itu kepribadian bangsa Indonesia itu ajaran Bung Karno sendiri saudara-saudara sekalian kami siap melanjutkan estafet kepimpinan kita siap bekerja keras menuju Indonesia Mas menjadi"
+  },
+  {
+   "t": 3076.0,
+   "d": 112.0,
+   "text": "bangsa yang kuat Merdeka berdaulat adil dan makmur kita tidak mau menggangu siun ganggu bangsa lain tapi kita juga tidak akan mengizinkan bangsa mana pun untuk mengganggu kita Semoga Tuhan yang maha besar Allah subhanahu wa taala yang memiliki sekalian alam semoga melindungi kita semua semoga menyertai kita semua dalam perjalanan kita dalam pengabdian kita kepada bangsa negara ne kita kita juga berdoa kepada yang maha kuasa agar tamu-tamu Agung kita mereka-mereka yang datang dari jauh akan kembali ke rumah mereka masing-masing dalam keadaan aman dan dalam keadaan terus bersahabat dengan kita saudara-saudara sekalian wasalamualaikum warahmatullahi wabarakatuh salam sejahtera B kita sekalian Shalom om santi santianti om Namu budaya rahayu-rahayu merdeka merdeka merdeka yang tidak teriak Merdeka tidak patriotik ulangi [Tepuk tangan]"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "mb2Jw47oVl8",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/mb2Jw47oVl8.json"
+ }
+}

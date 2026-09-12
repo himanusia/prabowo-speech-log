@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tentang — metode dan janji penelusuran</title>
+<meta name="description" content="Bagaimana arsip ini dibangun: aturan deduplikasi per peristiwa pidato, asal transkrip, dan cara setiap kutipan ditautkan ke detik di video aslinya.">
+<link rel="canonical" href="https://pidato-presiden-prabowo.himanusia.com/tentang.html">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Arsip Pidato Presiden Prabowo">
+<meta property="og:title" content="Tentang — metode dan janji penelusuran">
+<meta property="og:description" content="Bagaimana arsip ini dibangun: aturan deduplikasi per peristiwa pidato, asal transkrip, dan cara setiap kutipan ditautkan ke detik di video aslinya.">
+<meta property="og:url" content="https://pidato-presiden-prabowo.himanusia.com/tentang.html">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="theme.css">
+<link rel="alternate" type="application/json" href="data/index.json" title="Indeks JSON">
+<script type="application/ld+json"></script>
+</head>
+<body>
+<header class="top">
+  <div class="wrap top__row">
+    <div class="brand">
+      <span class="brand__mark">&#9632;</span>
+      <span class="brand__name"><a href="index.html" style="color:inherit">Arsip Pidato Presiden Prabowo</a></span>
+      <span class="brand__sub">arsip yang bisa ditelusuri</span>
+    </div>
+    <nav class="nav" aria-label="Navigasi utama">
+      <button type="button" data-go="index.html" >Daftar</button>
+      <button type="button" data-go="cakupan.html" >Cakupan</button>
+      <button type="button" data-go="tentang.html" aria-current="page">Tentang</button>
+      <button type="button" data-theme-toggle title="Ganti tema terang/gelap" aria-label="Ganti tema">&#9681;</button>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+  <p class="eyebrow">Tentang</p>
+  <h1>Metode dan janji penelusuran</h1>
+  <p class="lede">Setiap angka di situs ini harus bisa ditelusuri balik sampai ke video dan detiknya.
+  Kalau tidak bisa, angka itu tidak layak ditampilkan.</p>
+
+  <section class="panel">
+    <h2 style="font-size:var(--step-1)">Satu pidato, satu halaman</h2>
+    <p style="margin:.3rem 0">Pidato yang sama sering diunggah puluhan kanal. Aturannya:</p>
+    <ul style="margin:.3rem 0;padding-left:1.2rem">
+      <li>Satu peristiwa pidato dihitung <strong>sekali</strong>, walau diunggah banyak kanal.</li>
+      <li>Satu unggahan dipilih jadi <strong>kanonik</strong> — yang dipakai untuk hitungan token.</li>
+      <li>Pemilihannya bukan sekadar yang terpanjang. Livestream sering terpadding
+      pembawa acara, jadi unggahan yang pembukanya jauh dari pola pembuka pidato justru dibuang.</li>
+      <li><strong>Semua unggahan lain tetap dicatat</strong> dan ditampilkan di halaman pidato,
+      termasuk yang dibuang. Yang dibuang tidak disembunyikan.</li>
+    </ul>
+  </section>
+
+  <section class="panel">
+    <h2 style="font-size:var(--step-1)">Asal transkrip</h2>
+    <p>Sumbernya caption YouTube bahasa Indonesia, bukan transkrip dari audio.
+    Dua jalur dipakai, dan keduanya ditandai per pidato:</p>
+    <div class="chips">
+      <span class="chip">caption API</span>
+      <span class="chip">panel transkrip YouTube</span>
+    </div>
+    <p class="hint" style="margin:.6rem 0 0">Kedua jalur pernah diuji pada video yang sama dan
+    menghasilkan teks identik (15.621 karakter, 2.362 kata) sebelum dipakai bergantian.</p>
+  </section>
+
+  <section class="panel">
+    <h2 style="font-size:var(--step-1)">Kutipan selalu bertaut ke detiknya</h2>
+    <p>Setiap paragraf transkrip punya cap waktu yang menuju YouTube pada detik itu.
+    Jadi pembaca bisa memeriksa sendiri apakah kutipannya benar, tanpa mempercayai situs ini.</p>
+  </section>
+
+  <section class="panel">
+    <h2 style="font-size:var(--step-1)">Data mesin</h2>
+    <p>Versi JSON dari data yang sama, untuk yang mau mengolahnya sendiri:</p>
+    <ul style="margin:.3rem 0;padding-left:1.2rem">
+      <li><a href="data/index.json">data/index.json</a> — daftar semua pidato</li>
+      <li><a href="data/coverage.json">data/coverage.json</a> — peta cakupan</li>
+      <li><a href="data/meta.json">data/meta.json</a> — asal-usul build</li>
+      <li><code>data/speeches/&lt;slug&gt;.json</code> — satu berkas per pidato, termasuk transkrip penuh</li>
+    </ul>
+  </section>
+
+  <section class="note" style="margin-top:1.25rem">
+    <h3>Batas</h3>
+    <ul>
+      <li>Penemuan lewat pencarian YouTube, yang condong ke hasil terbaru — periode lama lebih tipis bukan karena Prabowo lebih jarang bicara.</li>
+      <li>Semua caption auto-generated, bukan transkrip dari audio.</li>
+      <li>Yang masuk hanya pidato, sambutan, dan pernyataan resmi — bukan wawancara, konferensi pers pendek, atau potongan klip.</li>
+      <li>Pidato berbahasa asing (forum internasional) tidak punya track Indonesia sehingga tidak masuk.</li>
+      <li>Semua teks di sini adalah materi pihak ketiga dari YouTube. Kutip video aslinya
+      sebagai sumber, bukan situs ini.</li>
+    </ul>
+  </section>
+
+  <section class="panel" style="margin-top:1.25rem">
+    <h2 style="font-size:var(--step-1)">Asal-usul build</h2>
+    <dl class="dl">
+      <dt>Dibangun</dt><dd class="mono">2026-09-13T02:37:43+07:00</dd>
+      <dt>Mesin</dt><dd><a href="https://github.com/himanusia/youtube-speech-corpus" rel="noopener">youtube-speech-corpus</a>
+        <span class="mono hint">@ 7ad3851ac0ad</span></dd>
+      <dt>Pidato</dt><dd class="mono">67</dd>
+      <dt>Unggahan</dt><dd class="mono">128</dd>
+      <dt>Token</dt><dd class="mono">153.699</dd>
+    </dl>
+  </section>
+
+</main>
+<footer class="wrap">
+  <p>Arsip Pidato Presiden Prabowo &middot; sumber: rekaman publik YouTube &middot;
+  setiap kutipan bertaut ke video dan detik asalnya &middot;
+  <a href="data/index.json">data JSON</a> &middot;
+  <a href="sitemap.xml">sitemap</a></p>
+  <p class="hint">Transkrip berasal dari caption YouTube (auto-generated). Bukan transkrip dari audio,
+  dan bukan sumber resmi. Selalu periksa video aslinya sebelum mengutip.</p>
+</footer>
+<script src="app.js" defer></script>
+</body>
+</html>

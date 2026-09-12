@@ -1,0 +1,613 @@
+{
+ "id": "2026-06-23---di-penutupan-munas-alim-ulama-konbes",
+ "video_id": "cFo77KlaYEU",
+ "date": "2026-06-23",
+ "title": "🔴BREAKING NEWS - Pidato Presiden Prabowo di Penutupan Munas Alim Ulama & Konbes NU",
+ "channel": "KOMPASTV",
+ "youtube_url": "https://www.youtube.com/watch?v=cFo77KlaYEU",
+ "duration_s": 8048,
+ "duration_hms": "2:14:08",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 674,
+ "token_count": 4808,
+ "unique_word_count": 1668,
+ "duplicate_count": 5,
+ "uploads": [
+  {
+   "video_id": "cFo77KlaYEU",
+   "url": "https://www.youtube.com/watch?v=cFo77KlaYEU",
+   "title": "🔴BREAKING NEWS - Pidato Presiden Prabowo di Penutupan Munas Alim Ulama & Konbes NU",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-06-23",
+   "duration_s": 8048,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 4808,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 674,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "GB_4IuWGdHQ",
+   "url": "https://www.youtube.com/watch?v=GB_4IuWGdHQ",
+   "title": "BREAKING NEWS - Pidato Presiden Prabowo di Penutupan Munas Alim Ulama",
+   "channel": "METRO TV ",
+   "upload_date": "2026-06-23",
+   "duration_s": 2290,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 2385,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 274,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "LVv2n7Yc87E",
+   "url": "https://www.youtube.com/watch?v=LVv2n7Yc87E",
+   "title": "[FULL] Pidato Prabowo di Penutupan Munas dan Konbes NU, Singgung Tambang Ilegal hingga Kekayaan RI",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-06-23",
+   "duration_s": 2255,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2350,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 681,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "bo0MqM07bcs",
+   "url": "https://www.youtube.com/watch?v=bo0MqM07bcs",
+   "title": "[FULL] Kejutan Pidato Prabowo di Munas NU, Blak-blakan Kebocoran Anggaran",
+   "channel": "MerdekaDotCom",
+   "upload_date": "2026-06-23",
+   "duration_s": 2213,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2287,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 623,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "qlqjxqEKYXQ",
+   "url": "https://www.youtube.com/watch?v=qlqjxqEKYXQ",
+   "title": "🔴LIVE - Presiden Prabowo Pidato Penutupan Munas-Konbes NU 2026",
+   "channel": "MerdekaDotCom",
+   "upload_date": "2026-06-23",
+   "duration_s": 5585,
+   "source_tier": "full_media",
+   "fetch_method": "transcript_panel",
+   "token_count": 4584,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 626,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "rn96VRQ4SgY",
+   "url": "https://www.youtube.com/watch?v=rn96VRQ4SgY",
+   "title": "Pidato Lengkap Presiden Prabowo Subianto di Musyawarah Ulama PBNU Bangkalan #Beritasatu",
+   "channel": "BeritaSatu",
+   "upload_date": "2026-06-23",
+   "duration_s": 2276,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2358,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 669,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 6,
+  "ekonomi": 14,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 14,
+  "pertahanan_dan_keamanan": 12,
+  "nasional_dan_identitas": 159,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 20.0,
+   "d": 357.0,
+   "text": "Minangu alal jalan dalam kubatan [musik][bernyanyi] Indonesia [musik][bernyanyi] bilang tahun kita [bernyanyi] Sunguh cinta [tepuk tangan] hei [musik] Inilah [musik] kosser yang jaya, Banser yang perkasa inilah kos maner yang jaya yang perkasa baner yang [musik] paling jaya asalnya Banser [musik] yang paling jaya pemiliknya mohon perhatian Presiden Republik Indonesia Bapak Prabowo Subianto tiba di tempat acara [musik] J [musik] pimpilah bangsa yang jaya bangsa yang perkasa [musik] Inilah bangsar yang jaya bangsar [musik] yang perkasa hari jaya masarnya hari jaya seu pemiliknya gera seng [musik] мачи [musik] inser yang jaya yang berkasa inilah bangsa yang jaya bangsa yang berbasa bangsa yang hadirin dimohon berdiri menyanyikan lagu kebangsaan Indonesia Raya dilanjutkan Mars Wat [musik] [musik] [musik] [musik] [musik] di [musik] [musik] [musik][lonceng] [musik] [musik] [musik] [musik] [musik]"
+  },
+  {
+   "t": 377.0,
+   "d": 75.0,
+   "text": "wat yaal watal watul wat minalakum [musik] minalman inal [musik] watal watal watal watul wat [musik] [bernyanyi] minalakum minal [bernyanyi] in ahlal [musik] Indonesia biladi [musik] anta urwanul faqika [musik] [musik] Sapa [musik] hati [bernyanyi] wahai tanah airku cintamu dalam [musik] imanku jangan halangkan nasibmu. [musik] Bangkitlah hai bangsaku."
+  },
+  {
+   "t": 452.0,
+   "d": 39.0,
+   "text": "Rusak [musik] hati wahai tanah airku. CintaMu dalam imanmu. Jangan halangkan [musik] nasibmu. Bangkitlah hai bangsaku. [musik] Indonesia [bernyanyi] negeriku. [musik] Engkau panji martabatku. Siapa? Kau datang mengancammu [musik] dan binasa di bawah tulimu. Siapa datang mengancammu [musik] binasa di bawah."
+  },
+  {
+   "t": 491.0,
+   "d": 45.0,
+   "text": "[musik] Hari ini disilakan duduk kembali. Asalamualaikum warahmatullahi wabarakatuh. Bismillahirrahmanirrahim. Alhamdulillahilladzi jaal min awaidil ihsan wa fawaidil imtinan minallahi malikilan. Allahumma sholli wasallim ala sayyidina wa habibina wafiina wa uswatina waunina wa maulana Muhammad waa alihi wahi wamanabiahumin yaumil miad. Hadrat Mukhtarin ulamaadil Zamanza."
+  },
+  {
+   "t": 536.0,
+   "d": 66.0,
+   "text": "Yang terhormat Presiden Republik Indonesia Bapak Prabowo Subianto. Yang mulia Rais AM ketua umum dan seken terbaik PBN Rais Suriah serta ketua tanfidiyah pengurus wilayah Nahatlatul Ulama se-Indonesia. Bapak Ibu hadirin warga Nahdiyin dan tamu undangan yang berbahagia. Syukur alhamdulillah berkat rahmat dari Allah Subhanahu wa taala kita dapat bersilaturahim pada penutupan Musyawarah Nasional Alim Ulama dan Konferensi Besar Nahdlatul Ulama 2026 di Institut Agama Islam Syekh Khana Kholil Bangkalan pada hari ini, Selasa, 23 Juni 2026 Miladiyah atau 8 Muharram 1448 Hijriah. Marilah kita buka acara ini dengan pembacaan ummul Quran. Ala hadiniah wa niatin shihah. Alfatihah."
+  },
+  {
+   "t": 602.0,
+   "d": 102.0,
+   "text": "Mengawali acara siang hari ini, marilah kita dengarkan pembacaan ayat suci Al-Qur'an surah Ali Imran ayat 159 sampai161 oleh almukarram K.H. Amin, qori terbaik dari Jamiatul Qura wal Hufat Nahdul Ulama Jawa Timur. Asalamualaikum warahmatullahi wabarakatuh. Auzubillahiminasyaitanirrajim."
+  },
+  {
+   "t": 704.0,
+   "d": 365.0,
+   "text": "Bismillahirrahmanirrahim. Fabima rahmatim minallahi lintalah Walau kunta fadil qalbi faddu min haulik anhum wastaghfir lahum wasyaawirhum fil amr Faidza azamta fatawakkalna alallah [berteriak] Innallaha yuhibbul mutawakkilin. [berteriak] Umullahu akum yakulkumalladzi [bernyanyi] [bernyanyi] ba'dih wa alallahi [bernyanyi] falyatawakkalil [berteriak] [berteriak] wama kaana linabiyin wlulti bimaa yaumal [berteriak] tumma tuwaffa [berteriak] kullu nafsim maa kasabat wahum la [berteriak] yudlam tumma tuwaffa kullu nafsim maa kasabat wahum laa yudlamun [bernyanyi] Sadaqallahul aliyul adzim."
+  },
+  {
+   "t": 1069.0,
+   "d": 90.0,
+   "text": "Asalamualaikum warahmatullah wabarakatuh. Bapak, Ibu, tamu undangan yang berbahagia. Selanjutnya mari kita dengarkan laporan Ketua Umum Pengurus Besar Nahdlatul Ulama oleh almukaram wal muhtaram Bapak K. H. Yahya Kholil Saquf. Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 1159.0,
+   "d": 41.0,
+   "text": "Alhamdulillah wasyukrillah. Wasalatu wasalamu ala rasulillah sayyidina maulana Muhammadin ibni abdillah wa ala alihi wasahbihi wa mawalah. Amma ba'ad. Yang kami muliakan, kami banggakan Bapak Presiden Republik Indonesia, Bapak Prabowo Subianto. Yang mulia Rais Am Pengurus Besar Nahdlatul Ulama, Kiai Miftahul Ahyar."
+  },
+  {
+   "t": 1200.0,
+   "d": 40.0,
+   "text": "Yang saya hormati jajaran menteri-menteri kabinet Merah Putih bersama Panglima TNI dan Kepala Kepolisian Republik Indonesia. Yang saya muliakan para kiai, para masyaikh yang hadir bersama kita hari ini, membersamai, menunggui kita hari ini. Kiai Azaim Ibrahimi, Kiai Abdullah Ubab Maimun, Kiai Ali Akbar Marbun, Kiai Said Aqil Siraj, Kiai Nashhal, Kia Abdullah Kafabih."
+  },
+  {
+   "t": 1240.0,
+   "d": 68.0,
+   "text": "para kiai lain yang semuanya membersamai kita pada hari ini. Yang saya cintai, saya banggakan para pimpinan pengurus wilayah Nahlatul Ulama seluruh Indonesia [tepuk tangan] dan para pimpinan pengurus cabang Nahdlatul Ulama seJawa Timur. [tepuk tangan] Yang saya hormati Ibu Gubernur Jawa Timur, Ibu Kifah Hendar Parawansa, para pimpinan pusat badan-badan otonom Nahdatul Ulama, Muslimat, Fatayat, Ansar, Pagar Nusa, IBNU IPPNU dan semua yang hadir bersama kita."
+  },
+  {
+   "t": 1308.0,
+   "d": 96.0,
+   "text": "Alhamdulillah juga tidak lupa pimpinan Institut Agama Islam Syekh Khalil Bangkalan. beserta seluruh keluarga besar zuriah Syaikhuna Kiai Muhammad Khalil Bangkalan, Kiai Imam Bukhari Khalil, Kiai Fahri Ashal, Kiai Nasir Ashal. Terima kasih. Pak Presiden yang kami hormati, izinkan kami mengungkapkan terima kasih yang tidak terhingga atas kehadiran Bapak pada kesempatan siang hari ini pada upacara penutupan Musyawarah Nasional Alim Ulama dan Konfersi Besar Nahlatul Ulama tahun 2026 ini melengkapi kebahagiaan kami setelah berhasil menyelesaikan keseluruhan tugas pelaksanaan Munas dan Kombes yang merupakan permusyawaratan paling strategis [mendengus] menuju muktamar ke-35 yang insyaallah akan kami selenggarakan pada tanggal 1 sampai 5 Agustus yang akan datang."
+  },
+  {
+   "t": 1404.0,
+   "d": 36.0,
+   "text": "[tepuk tangan] di tempat yang segera akan kami sepakati bersama. [tepuk tangan] Mohon doa restu semoga Nahdat Ulama akan terus senantiasa hadir dan tegak di dalam menjaga, melestarikan, memelihara bangsa dan negara yang kita cintai ini. Bapak Presiden yang kami hormati."
+  },
+  {
+   "t": 1440.0,
+   "d": 32.0,
+   "text": "Bersama-sama Bapak saat ini adalah para kiai, para pemimpin Nahdlatul Ulama, kader-kader Nahdatul Ulama. Di luar sana Bapak Presiden telah bertemu dan menyaksikan kerumunan kerumunan warga Nahdatul Ulama yang telah memperlihatkan cinta yang begitu besar kepada pemimpin negara kita."
+  },
+  {
+   "t": 1472.0,
+   "d": 50.0,
+   "text": "[tepuk tangan] Semua ini. Kami semua adalah rakyat yang setia kepada negara. [tepuk tangan] Rakyat yang siap berjuang, yang rela berkorban demi bangsa dan negara tercinta. Rakyat yang tidak pernah kehilangan keyakinan dan optimisme akan Indonesia. Karena kami semua yakin bahwa dengan iman yang teguh, dengan khidmah yang istikamah di dalam perjuangan fisabilillah demi kemaslahatan agama, bangsa dan negara."
+  },
+  {
+   "t": 1522.0,
+   "d": 33.0,
+   "text": "Maka di hadapan tantangan apapun, di hadapan ancaman apapun, janji Allah tidak akan meleset. bahwa pertolongan Allah akan datang dan kemenangan sangat dekat menjelang. Nasr minallah waathun gb wanaqan al nasrul mukminin. Janji Allah tidak akan meleset selama kita teguh dalam iman, istikamah dalam perjuangan."
+  },
+  {
+   "t": 1555.0,
+   "d": 40.0,
+   "text": "Insyaallah janji Allah akan datang. pertolongan dan masa depan yang gemilang. Bapak Presiden yang kami hormati, kami mohon izin untuk membersamai Bapak Presiden dalam perjuangan demi bangsa dan negara ini. [tepuk tangan] Kami mohon Bapak Presiden memimpin kami semua hingga sungguh terwujud jalan menuju Indonesia Gemilang insyaallah."
+  },
+  {
+   "t": 1595.0,
+   "d": 43.0,
+   "text": "Terima kasih sekali lagi. Wallahul muwafiq ila aqb thq. Wasalamualaikum warahmatullah wabarakatuh. [tepuk tangan] Para kiai, Ibu Nyai, masyaikh, dan seluruh warga Nahdiyin rahimakumullah. Selanjutnya taujihat dan doa sebagai ungkapan rasa syukur kepada Allah Subhanahu wa taala oleh Rais am PBNU almukarram wal muhtaram Abuya K. H."
+  },
+  {
+   "t": 1638.0,
+   "d": 135.0,
+   "text": "Miftahul Ahyar. Asalamualaikum. warahmatullahi wabarakatuh. Waalaikumsalam. Bismillahirrahmanirrahim. Alhamdulillahilladzi ja'alana min khair ummatin ukhrijat linas alladzina ymuruna bil mar'rufi waanhaunail munkar wala yarduna bidinillahil misas. Allahumma sholli ala nuril anwar wasirril asrar waakilyar miftahi yasar sayyidina wa maulana muhammadinil mukhtar wa alihil adhar wa ashabil akhyarad allahumimna ilman nafq awamah warzuqna fahman naamu bihi kaifaajik ya arhamar rahim allahumarzuqna fahman nabiinaal mursalin wa ilham malaikatil muqarabin birahmatika ya arhamar rahim allahumma akrimna binuril fahm wa akhrijna min dulumatil wahm ya arhamarahimin."
+  },
+  {
+   "t": 1773.0,
+   "d": 72.0,
+   "text": "Amma ba hadaratil quramal izza wal ulama wal masyaikh nakhusu zikron [berdehem] arrais aljumhuriyah yang mulia presiden Republik Indonesia, Bapak Haji Prabowo Subianto. [tepuk tangan] Semoga Allah melindungi beliau. Amin. dalam kesehatan muafah daimah, terus bisa membangun, memperjuangkan rakyat Indonesia, kesejahteraan rakyat Indonesia dan keamanan negeri yang tercinta ini."
+  },
+  {
+   "t": 1845.0,
+   "d": 54.0,
+   "text": "para lembaga-lembaga tinggi negara Indonesia, kabinet merah putih. Bapak Panglima TNI, Bapak Kapolri dan semua jajaran termasuk Bapak Ketua MPR RI. Bapak Muhammad Muzani, ulama analir, masyaikhom. Saya idem dengan ketua umum menyebut satu persatu daripada semuanya tadi yang telah disebut tanpa mengurangi ikram takzim kami pada beliau-beliau."
+  },
+  {
+   "t": 1899.0,
+   "d": 177.0,
+   "text": "Para hadirin hadirat rahimakumullah. ada permintaan agar membiasakan dalam sambutan atas nama Rais am atau Rais sebagian besar berbahasa Arab. Oleh karena itu saya mencoba [berdehem] kalau ada kata-kata yang salah atau kurang mohon dimaafkan. Ya maasiral ulama walama alaiza wal afadil wal masyaikh aljilla al abajil wufan kiram muntail muomat wal haiat aliklimiah wal mahalliah asyarqiyah ayyuhal hadirun wal hadirat rahimakumullah jamian Bismi rais am lilatih almkaziah di jamiyat nahtil ulama wabismiati jamil khim jamtiil ulama lakum ma asro sudurana w afra qulubana w asada hayatana w juhudana bihudurikum Jalsal iktitam bimusyawarati al ulama wal muktamar nahtil ulama almunaqat tarikh wa juni alvenita wain masihian waaniah muharam arbaah asyar alfan waamanih wa arbain hijrian fi Institut Agama Islam Syekhuna Muhammad Khalil fi laakka annaika jamian yadlu ala khulium waimikum juhud waltihad aklakimatullah"
+  },
+  {
+   "t": 2076.0,
+   "d": 225.0,
+   "text": "ulya wal iz lillah walil islam wal muslimin jamiah ayyu sadah wasayidat almukhtaramun wal hadirun wal hadirat alm mubajjalun nahnu maasyiral mudirin alkhadimin tahdiyin [berdehem] almahbubah almubarokah kal muqaror fiuniha waqatiha bodha anima masluha nahwa hadil jamiah allati masilah Rahim badi khairu ummah alkamsah fi hadza yajibu alariah taatul imam fil mar'ruf la fil maksiah qallahu taala ya ayyuhalladzina amanu atiullaha waurasul waulil amri minkumallah Zaid bin aslam aulil amriil ayah walam yakun bil madin ahadun yufassirul quran ba'da Muhammad bin Ka'ab mluh faqala iqra faq innallahurkumul amati ahliha waid hakamtum bainanasi tahkum bilikril adl wasasahikriil ulamaatinamayakon ayuhal hudur anallah subhanahu wa taala min bani alu wasalamilahumil mulayatahum bain [berdehem] wul az ibr as mahallin akbarillahullah daratal mulukasah kama fi jumhuriyati yaq mahabat qahu taala ya aina amanu atiullah wa rasul waulil amri minkum"
+  },
+  {
+   "t": 2301.0,
+   "d": 168.0,
+   "text": "annisa ibadal waladimul wadum nabi shallallahu alaihi wasallulkuq maal kufri wqulm Sayidina Ali wajah majusamahimiah wa inahumul fiinihim Daud alamilahum amun ibadi Para hadirin hadirat, mohon maaf kalau tidak paham. biar tidak paham nanti lama-lama paham juga bagaimana Nahdatul Ulama yang selalu memberikan dukungan dalam kebaikan kepada pemerintah khususnya pada Presiden sebagaimana tadi disampaikan oleh ketua umum kita tidak bisa diragukan lagi Ya, selama pemerintah tidak mengajak kekufuran dan kefasikan, tetap akan mendapatkan dukungan yang kuat terutama dari Nahdatul Ulama."
+  },
+  {
+   "t": 2469.0,
+   "d": 32.0,
+   "text": "[tepuk tangan] Oleh karena itu, keadilan terutama bagaimana memperjuangkan nasib rakyat dan ini sudah menjadi karakter Bapak Presiden kita selalu berpikiran untuk rakyat. kita berikan husnudan pada beliau agar terus bisa memperbaiki apa yang selama ini tampak kurang."
+  },
+  {
+   "t": 2501.0,
+   "d": 34.0,
+   "text": "mungkin masih ada bahkan saya yakin masih ada persediaan masih ada ee senjata-senjata pamungkas untuk mengatasi semua masalah-masalah yang dihadapi ini. Samping kita memohon kepada Allah mendoakan pada para pejabat kita khususnya Bapak Presiden kita, Ibu Gubernur kita."
+  },
+  {
+   "t": 2535.0,
+   "d": 49.0,
+   "text": "Karena Imam Ahmad bin Hambal menyatakan, \"Kalau saya punya doa yang mustajab, yang kabul, yang cesleng, doa itu akan saya panjatkan untuk pemerintah saya. Doa itu akan saya hadiahkan pada pemimpin saya, presiden saya. Kalau presiden dan pemimpin kita baik, bersungguh-sungguh, bersemangat memperjuangkan umat dan rakyat, maka doa ini akan kabul dan yang menerima manfaat adalah rakyat."
+  },
+  {
+   "t": 2584.0,
+   "d": 41.0,
+   "text": "[tepuk tangan] Semoga Bapak Presiden kita diberikan sehat afiah. Amin. Selalu dalam lindungan Allah. Amin. Dan pemikiran-pemikiran yang cemerlang. Amin. Agar rakyat umat yang besar ini akan bisa segera menerima sebagaimana apa yang mereka harapkan sehingga negara ini penuh dengan kemakmuran dalam keadilan. Adil dalam kemakmuran."
+  },
+  {
+   "t": 2625.0,
+   "d": 27.0,
+   "text": "Semoga Allah memudahkan semuanya itu. Demikianlah yang bisa kami sampaikan, kurang lebihnya mohon maaf. Ihdinasiratal mustaqim. Wallahq. Wasalamualaikum warahmatullahi wabarakatuh. Bapak Presiden kalau diizinkan doa kami serahkan pada Ki Anwar Iskandar kalau diizinkan."
+  },
+  {
+   "t": 2652.0,
+   "d": 103.0,
+   "text": "Untuk saya demikian. Wallah. Wasalamualaikum warahmatullah wabarakatuh. Selanjutnya pembacaan doa oleh almukaram al muhtaram K. H. Anwar Iskandar. Asalamualaikum warahmatullahi wabarakatuh. Bapak Presiden dan hadirin hadirat sekalian yang mulia. Marilah sejenak kita menengadakan tangan untuk memohon kepada Allah Subhanahu wa taala bagi kebaikan kita bersama, kebaikan negara tercinta kita, kebaikan presiden kita, dan seluruh pemimpin-pemimpin kita serta kebaikan seluruh rakyat se-Indonesia."
+  },
+  {
+   "t": 2755.0,
+   "d": 30.0,
+   "text": "Dan untuk itu marilah bersama-sama kita membaca ummul Qur'an ala ma nawaina wa ala maana wasalafus shih waila hadratin nabiil mustofa Muhammadin sallallahu alaihi wasallam. Alfatihah. Auzubillahiminasyaitanirrajim. Bismillahirrahmanirrahim. Alhamdulillahirabbil alaminrahmanirrahim. Maiki yaumiddin."
+  },
+  {
+   "t": 2785.0,
+   "d": 116.0,
+   "text": "Iyaka nabudu wa iyaka nastainatal mustaqimathalladzina anamta alaihim ghairil magdubi alaihim wadin. Bismillahirrahmanirrahim. Alhamdulillahiabbil alamin. Allahumma sholli ala sayyidina wa maulana Muhammad wa ala alihi washbihi ajmain. Allahumma ya Allah hamda yuwafi niamahu waukfiu mazidah ya rabbana lakal hamdu wak syukru waksana kama yambagjilalikal karimi wa rbanaamna anfusana waillam tagfirlana watarhamna lanakunanna minal khirin allahumfirlana dunubana wunuba abaina wunuba ummahatina wunuba masyaikhina abrbana waana winaqamah inaka mianaubana baitana waanaha innaka antal wahabana innakaum Ya Allah. Ya Allah. Allah yang maha pengampun. Ampunilah segala dosa-dosa kami, saudara-sausa orang tua kami, dosa-dosa pemimpin-pemimpin kami, dosa-dosa seluruh rakyat kami. Ya Allah berikanlah kekuatan kepada pemimpin-pemimpin kami khususnya berilah kekuatan kepada Presiden kami, Presiden Republik Indonesia, Bapak Prabowo Subianto"
+  },
+  {
+   "t": 2901.0,
+   "d": 115.0,
+   "text": "agar dapat memimpin kita menuju negara yang kedaulatannya terjaga dengan baik, yang keamanan, ketertiban, dan stabilitasnya terjaga dengan baik. sehingga beliau bisa memimpin kami menuju Indonesia yang mandiri, menuju Indonesia yang benar-benar melaksanakan pasal 33 Undang-Undang Dasar 45, yaitu menuju sebuah negara adil dan makmur yang diridai oleh Allah Subhanahu wa taala. Ya Allah dun biha mauna waana akatiha mauna wadana minhair w mautanana minar allahum alh baubina wain wahdinaulamahmati Ya Allah, jadikanlah kami semuanya warga Nahdatul Ulama, umat Islam dan seluruh bangsa Indonesia ini menjadi warga yang bersatu menjalankan persatuan Indonesia. Karena persatuan itu penting untuk menjadi modal sosial bagi penyelenggaraan kehidupan berbangsa bernegara menuju negara yang maju, menuju negara yang mandiri menuju negara yang terbebas dari segala macam penjajahan."
+  },
+  {
+   "t": 3016.0,
+   "d": 39.0,
+   "text": "Allah wasallim ahlana wasallim auladana wasallim Indonesia. Ya Allah wasallim Indonesia minat dunya wadin innakain qodir. Ya Allah jauhkanlah negeri ini pemimpin kami terutama dari marabahaya. dari segala macam penghalang yang bisa mengganggu terhadap ketertiban, keamanan, stabilitas, dan mengganggu terhadap pelancaran pembangunan bangsa dan negara."
+  },
+  {
+   "t": 3055.0,
+   "d": 30.0,
+   "text": "Selamatkanlah negeri ini dari musibah. Selamatkanlah negeri ini dari bala. Balai dunia waalail akhirah. Innaka ala kulli qodir. Wasallallahu alair khqi sayidina Muhammad. Walhamdulillahiabbil alamin. Alfatihah. Auzubillahiminasyaitanirrajim. Bismillah. Iyaka na'budu wa iyaka nastainal mustaqim."
+  },
+  {
+   "t": 3085.0,
+   "d": 62.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Bapak, Ibu hadirin yang berbahagia. Selanjutnya marilah kita simak bersama sambutan Presiden Republik Indonesia, Bapak Prabowo Subianto sekaligus menutup Musyawarah Nasional Alim Ulama dan Konferensi Besar Nahdlatul Ulama 2026."
+  },
+  {
+   "t": 3147.0,
+   "d": 51.0,
+   "text": "Pak juga udah standismillahirrahmanirrahimam Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur ke hadirat Allah Subhanahu wa taala, [berdehem] Tuhan maha besar, Tuhan maha kuasa yang memiliki sekalian alam."
+  },
+  {
+   "t": 3198.0,
+   "d": 48.0,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyalah kita memohon pertolongan. Kita bersyukur atas segala karunia, [berdehem] atas segala kebaikan, kedamaian yang diberikan kepada bangsa kita dan atas nafas dan kesehatan yang masih diberikan kepada kita sehingga kita dapat berkumpul di tempat yang mulia ini pada [berdehem] kegiatan penutupan Musyawarah Nasional Alim Ulama dan Konferensi Besar Nahdatul Ulama 2026."
+  },
+  {
+   "t": 3246.0,
+   "d": 40.0,
+   "text": "Saudara-saudara sekalian [mendengus] yang saya hormati dan saya banggakan. Rais AM Pengurus Besar Nahdatul Ulama beserta seluruh jajaran PBNU yang menyelenggarakan acara mulia ini. Dihadiri Ketua Majelis Perutusan Rakyat Republik Indonesia, Saudara Ahmad Muzani."
+  },
+  {
+   "t": 3286.0,
+   "d": 32.0,
+   "text": "Ketua Umum PBNU K. H. Yahya Kholil STAQ. Yang saya hormati Wakil Rais PBNU yang sekaligus adalah Ketua MUI. Bapak K. H. Anwar Iskandar, [berdehem] Ketua PWNU Jawa Timur, pengasuh Pondok Pesantren Tebu Ireng, Jombang, K. H. Abdul Hakim Mahfud. Yang saya hormati Khatib AM PBNU K. H. Ahmad Said Aslori."
+  },
+  {
+   "t": 3318.0,
+   "d": 86.0,
+   "text": "Yang saya hormati, yang saya muliakan para kiai, alim ulama, para ibu nyai, para santri dan santriwati, Kia sepuh yang hadir dalam konferensi besar ini. Gubernur Jawa Timur, [mendengus] Saudari Kofifah Indar Parawansa yang sekaligus adalah Ketua Umum Dewan Pembina PP Muslimat NU [tepuk tangan] beserta jajaran Forimda Jawa Timur yang hadir, para menteri koordinator yang hadir, Panglima TNI, Kapolri, dan seluruh anggota Kabinet merah putih yang turut hadir hari ini. Menteri Koordinator Pangan Saudara Sulifli Hasan, Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan, Saudara Agus Harmurti Yudoyono, Menteri Energi dan Sumber Daya Mineral, Saudara Bahlil Lahadalia."
+  },
+  {
+   "t": 3404.0,
+   "d": 43.0,
+   "text": "[bersorak] Kok tepuk tangannya keras banget. Apa gara-gara harga BBM enggak naik? Yang bikin enggak naik presiden bukan Menteri Sekretaris Negara, Saudara Prasetyo Hadi ya. Menteri Sosial yang juga adalah Sekjen PBNU, Saudara Saifulah Yusuf, lebih dikenal Gus Ipul."
+  },
+  {
+   "t": 3447.0,
+   "d": 49.0,
+   "text": "[berdehem] Coba [berdehem] cek pakai kaos kaki enggak? [tertawa] Waktu saya kenal dulu enggak pakai kaos kaki. Sekarang sudah jadi menteri. Menteri Agama K. H. Nasaruddin Umar. Yang saya hormati [tepuk tangan] Menteri Agraria dan Tata Ruang, Saudara Nusron Wahid, Menteri Pemberdayaan Perempuan dan Perlindungan Anak sekaligus Ketua Umum PP Muslimat NU, Saudari Arifah Khoiri Fauzi."
+  },
+  {
+   "t": 3496.0,
+   "d": 37.0,
+   "text": "Ini kabinet merah putih ini banyak sekali NU-nya ya. [tertawa] [menghela napas] NU memang hebat. [tepuk tangan] Selalu berada di mana-mana. I kan semua partai NU hadir. [mendengus] Jadi NU enggak pernah kalah. Hebat. Hebat. Kalau belajar politik sebetulnya harus dari NU."
+  },
+  {
+   "t": 3533.0,
+   "d": 46.0,
+   "text": "[tertawa] [berdehem] Panglima TNI Jenderal TNI Agus Subianto. Kapolri Jenderal Polisi Listio Sigit Prabowo. Coba kalau datang ke NU, tentara pun pakai kopiah, polisi pakai kopiah gitu. Padahal enggak ada dalam peraturan enggak ada PDL topinya ini kan ditentukan. Berarti harus dirubah ya PDL atau PDH kalau datang ke tempat NU atau Muhammadiyah harus pakai kopiah. K."
+  },
+  {
+   "t": 3579.0,
+   "d": 75.0,
+   "text": "[tertawa] Sekretaris Kabinet RI, Saudara Tedi Indrawijaya. [bersorak] Gimana sih ini? [tertawa] Bahlil sekarang Teddi. Yang ee saya hormati para kiai mustasyar, dewan penasihat, Rais Suriah, pengawas, Katib, awan NU, para ulama terpandang, pimpinan dan keluarga besar Ansor Fatayat NU dan Muslimat NU. Yang saya hormati para pengurus PBNU, PWNU, dan PCNU seluruh Indonesia. Yang saya hormati dan saya banggakan para kiai pengasuh Pondok Pesantren dan zuriah keturunan Saikona Kholil Bangkalan yang tidak saya sebut satu-satu tanpa mengurangi rasa hormat saya."
+  },
+  {
+   "t": 3654.0,
+   "d": 46.0,
+   "text": "serta [mendengus] seluruh hadirin undangan dan rekan-rekan pers media yang hadir. Hadir di sini juga mantan ketua umum PBNU 2010-2021 K. H. Agil [tepuk tangan] Rais Suriah [tertawa] Syekh Ali Akbar Marbun dari Medan pengasuh pesantren Lirboyo, K. K. Kafa Mahrus, [tepuk tangan] pengasuh pesantren Sukorejo Sitobondo Loro Azaim Ibrahimi."
+  },
+  {
+   "t": 3700.0,
+   "d": 57.0,
+   "text": "[tepuk tangan] Pengasuh Pesantren Ora Haji Sleman, K. H. Miftah, Maulana Habiburahman, [bersorak] Pengasuh Pesantren Tebu Ireng, K. H. Pengasuh Pesantren Bahrul Ulum Tambak Beras K. H. Hasyim Wahab Hasbullah. Kiai Haj Abdullah Ubab Maimun Zubair tadi sudah buyai Masruroh Rais Suryoh PBNU K. H. Prof. Muhammad Nuh."
+  },
+  {
+   "t": 3757.0,
+   "d": 59.0,
+   "text": "Terima kasih. pimpinan pondok pesantren semuanya yang saya hormati. Di sini ada 67. Ee jadi saya tidak sebut satu-satu tanpa mengurangi rasa hormat saya itu kecuali diperintah oleh Ris AM saya bacakan semua ini. Ee saudara-saudara, saya ingin ucapkan terima kasih atas kehormatan yang besar diberikan kepada saya [berdehem] bisa hadir di tengah-tengah saudara-saudara di acara penutupan Musyawarah Nasional Alim Ulama dan Konferensi Besar Nahdatul Ulama 2026."
+  },
+  {
+   "t": 3816.0,
+   "d": 92.0,
+   "text": "Terima kasih atas sambutan yang luar biasa. Memang saya merasa selalu nyaman di tengah-tengah keluarga besar Nadatul Ulama. [tepuk tangan] Nyaman dan aman, merasa aman. Sambutan yang demikian besar kepada saya. ee masalah memang saya kenal ee keluarga besar Nadatul Ulama dari sejak kecil karena dulu saya ee tetangganya keluarga Gus Dur di Jakarta dan ee eyang saya yang putri saya memang ee dari NU [tepuk tangan] Ee dan juga ada satu ciri khas yang saya dari dulu perhatikan bahwa Nadatul Ulama adalah memang organisasi keagamaan tapi sangat nasionalis, [mendengus] sangat patriotik, sangat sangat cinta tanah air. Jadi agamis tapi nasionalis dan patriotik."
+  },
+  {
+   "t": 3908.0,
+   "d": 40.0,
+   "text": "Sampai-sampai lagunya NU yang ditulis atau dibuat sebelum Indonesia merdeka, tapi sudah mengandung nilai-nilai cinta tanah air yang luar biasa. Dan ini masih dipertahankan. Setiap acara NU saya perhatikan lagu Syuhbanul Wathon tidak pernah tidak dinyanyikan. Terima kasih. Bahkan nyanyinya itu tangannya pun harus kepalan."
+  },
+  {
+   "t": 3948.0,
+   "d": 42.0,
+   "text": "Kepalan. Ini luar biasa. Ini saya ini belum ada Kopasus. NU sudah lebih dari Kopasus. Sekarang apa itu ya? TNI kan ada itu kalau foto salam komando NU sudah dulu sebelum kemerdekaan sudah salah komando itu. Jadi saya terima kasih saya [mendengus] diundang dan terima kasih atas ee dukungan [berdehem] keluarga besar NU."
+  },
+  {
+   "t": 3990.0,
+   "d": 48.0,
+   "text": "Keluarga besar NU selalu tampil [berdehem] di saat bangsa Indonesia dalam keadaan sulit. Keluarga besar NU adalah [berdehem] faktor stabilisator, faktor yang bisa membuat aman bangsa dan negara. Saudara-saudara sekalian, karena itu saya yakin dan percaya bahwa Nadatul Ulama akan selalu punya peranan yang positif, yang baik untuk bangsa dan negara."
+  },
+  {
+   "t": 4038.0,
+   "d": 40.0,
+   "text": "Nahdatul Ulama organisasi para kiai, para ulama. Para kiai dan para ulama adalah menurut saya tokoh-tokoh yang paling dekat dengan rakyat. Paling dekat apalagi dengan rakyat di pedesaan. Karena itu para kiai, para ulama [mendengus] paham, mengerti apa yang dirasakan rakyat."
+  },
+  {
+   "t": 4078.0,
+   "d": 77.0,
+   "text": "Para kiai dan para ulama merasakan apa yang dirasakan rakyat paling bawah. Karena itu ada suatu perkembangan alamiah karena tentara, pejuang, polisi, dan aparat juga berasal dari rakyat. Karena itu ulama pemerintahan, tentara kepolisian sesungguhnya paham dan mengerti perasaan rakyat."
+  },
+  {
+   "t": 4155.0,
+   "d": 31.0,
+   "text": "Boleh dilanjut. Aduh, ini harus patuh sama kiai. Kalau di di sini di istana nanti kiai patuh sama saya gitu. Itu namanya ulama sama umarah bersatu untuk negara dan bangsa. [tepuk tangan] Saudara-saudara sekalian, sesungguhnya kita mengerti apa yang dirasakan rakyat kita."
+  },
+  {
+   "t": 4186.0,
+   "d": 58.0,
+   "text": "Saudara-saudara sekalian, [menghela napas] saya dilantik tanggal 20 Oktober tahun 2024 di hadapan seluruh rakyat. Saya disumpah untuk menjalankan Undang-Undang Dasar Negara Republik Indonesia tahun 1945 dan segala perundangan-undangan yang berlaku. saya disumpah saya harus menjalankan dan kita tidak perlu pura-pura, kita tidak perlu bicara manis-manis karena itu memang sering bangsa Indonesia suka bicara yang manis-manis di depan."
+  },
+  {
+   "t": 4244.0,
+   "d": 49.0,
+   "text": "Kita kadang-kadang tidak mau bicara apa adanya. Tapi saya kira sudah saatnya kita bicara apa adanya. bahwa setelah sekian puluh tahun kita merdeka, apalagi sudah saya menjadi presiden, saya [mendengus] melihat data-data, fakta-fakta, saya merasa bahwa sesungguhnya banyak sekali penyimpangan-penyimpangan yang kita yang kita membiarkan penyimpangan-penyimpangan ini."
+  },
+  {
+   "t": 4293.0,
+   "d": 51.5,
+   "text": "Menurut keyakinan saya, inilah yang membuat bangsa kita dalam keadaan [berdehem] sekarang di mana kita harus mengakui terlalu banyak kekayaan negara yang hilang yang diambil. dari hak rakyat, hak bangsa memperkaya segelintir orang saja. Bahkan kekayaan tersebut terlalu banyak mengalir ke luar negeri, tidak tinggal di bangsa Indonesia."
+  },
+  {
+   "t": 4344.0,
+   "d": 66.0,
+   "text": "Jadi kesulitan yang kita alami sekarang kita harus berani menghadapi. Kita harus berani menghadapi kenyataan. Karena itu saya di depan konferensi besar ini walaupun penutupan saya ingin menggunakan kesempatan ini untuk menyampaikan beberapa pandangan saya. Yang pertama, hanya bangsa yang bodoh yang akan meneruskan suatu sistem di mana kekayaan bangsa tidak tinggal di bangsa itu, [tepuk tangan] Saudara-saudara sekalian, Saya baru kurang lebih 18 bulan memimpin pemerintahan."
+  },
+  {
+   "t": 4410.0,
+   "d": 51.0,
+   "text": "Saya sendiri, saya sendiri syok, terkejut, sedih melihat beberapa besar kekayaan kita yang hilang selama ini. Ini bukan kita cari kesalahan, kita anggaplah ini suatu kelalaian kita bersama. Tapi saya disumpah untuk menjaga kepentingan bangsa dan rakyat. Karena itu saya harus melaksanakan yang terbaik yang bisa saya laksanakan supaya saya tidak ingkar sumpah saya kepada bangsa dan rakyat."
+  },
+  {
+   "t": 4461.0,
+   "d": 38.0,
+   "text": "[tepuk tangan] Saudara-saudara sekalian, saya ingin memberi beberapa data. Karena apa? Para ulama adalah pemimpin yang paling dekat sama rakyat. Para ulama berhak untuk mengerti. Saudara-saudara sekalian, saya baru saja tadi meresmikan 1000 151 km jalan, jalan desa, jalan daerah."
+  },
+  {
+   "t": 4499.0,
+   "d": 42.0,
+   "text": "1000 km jalan ini memakan anggaran 5,4 triliun. 5,4 triliun bisa membangun 1000 km. Bayangkan kalau 20 triliun berapa ribu jalan yang bisa kita bangun? Berapa ribu jembatan bisa kita bangun untuk rakyat kita? Berapa puluh ribu sekolah yang bisa kita perbaiki, Saudara-saudara? 5 triliun 1000 km."
+  },
+  {
+   "t": 4541.0,
+   "d": 80.0,
+   "text": "Kita butuh ribuan kilometer jalan. Kita butuh ribuan jembatan. Kita butuh ribuan kilometer kereta api. Saudara-saudara sekalian dan begitu banyak uang kita menguap, hilang. Dan ini pemerintah yang saya pimpin. Saya bertekad untuk berbuat yang terbaik untuk menghentikan kebocoran-kebocoran ini. [tepuk tangan] Pemerintah saya telah [tertawa] [mendengus] merebut kembali, menguasai kembali lebih dari 5 juta hektar kebun kelapa sawit yang melanggar hukum [tepuk tangan] yang tidak sesuai peraturan, yang bikin kebun di hutan lindung."
+  },
+  {
+   "t": 4621.0,
+   "d": 43.0,
+   "text": "yang memalsukan laporan. Kita telah menutup ratusan tambang-tambang tanpa izin. Tambang-tambang tanpa izin. Jadi dianggap seolah-olah enggak ada negara. Ada satu tambang yang sudah dijalankan 8 tahun tanpa izin. Tenang saja dia. Dan ada tambang-tambang yang tiap bulan keluar [terkesiap] ratusan miliar rupiah."
+  },
+  {
+   "t": 4664.0,
+   "d": 46.0,
+   "text": "Tiap bulan. emas, perak, logam-logam yang sangat mahal. Sampai hari ini penyelundupan masih berjalan. Sudah kita kerahkan angkatan laut, sudah kita kerahkan biaya cukai, sudah kita kerahkan ribuan prajurit. Masih saja, Saudara-saudara. Jadi memang usaha ini bukan usaha yang ringan. Negara kita besar, negara kita luas, dan negara kita sangat sangat sangat kaya."
+  },
+  {
+   "t": 4710.0,
+   "d": 46.0,
+   "text": "Karena itu kuncinya adalah pemerintah harus bersih, pemerintah harus benar-benar tidak boleh korup, tidak boleh ada korupsi di pemerintah Republik Indonesia. Ini tidak ringan. Ini tidak ringan. Saya mengerti ini tidak ringan, tapi apa boleh buat? Apapun harus kita kerjakan untuk supaya [berdehem] negara kita selamat."
+  },
+  {
+   "t": 4756.0,
+   "d": 46.0,
+   "text": "Tidak ada negara yang bisa selamat kalau resources-nya, sumber-sumber dayanya diambil terus. rakyat banyak yang miskin. Saudara-saudara sekalian, saya ingin menampilkan beberapa angka. Angka ini mungkin tidak menyenangkan bagi banyak pihak, tapi harus kita hadapi, Saudara-saudara. Kita mengerti dan kita paham bahwa selama 7 tahun belakangan ini dikatakan bahwa ekonomi kita tumbuh 5% tiap tahun."
+  },
+  {
+   "t": 4802.0,
+   "d": 47.0,
+   "text": "7 tahun 5 berarti 35% pertumbuhannya. logikanya selama 7 tahun Indonesia tambah kaya 30% 35%. Tapi kenyataannya itu yang saya katakan, saya merasa ditohok waktu saya jadi presiden ini data ini muncul katakanlah 2 bulan setelah jadi presiden. Kenyataan bahwa setelah 7 tahun tumbuh 5% masa penduduk miskin tambah."
+  },
+  {
+   "t": 4849.0,
+   "d": 58.0,
+   "text": "Negara tambah kaya, rakyat miskin tambah. Ini kan sesuatu yang aneh yang anomi. Yang kelas menengah yang sudah tadinya lepas dari kemiskinan turun, Saudara-saudara. Katanya negara tambah kaya 30%. to rakyat miskin tambah kemudian kelas menengah berkurang dan ini juga yang harus kita waspadai bahwa yang tambah kaya ternyata hanya segelintir orang. Jadi saya kembali, Saudara-saudara bahwa akhirnya harus kita lihat bahwa ini berarti sistem kita keliru."
+  },
+  {
+   "t": 4907.0,
+   "d": 47.0,
+   "text": "[mendengus] Sistem ini keliru. Karena apa? Kalau orang miskin tambah, yang menengah juga berkurang, berarti yang menikmati pertumbuhan ini hanya segelintir orang saja. Dan ini tidak sesuai dengan cita-cita proklamasi kita, cita-cita kemerdekaan kita tidak sesuai dengan keinginan pendiri-pendiri bangsa kita. Kita merdeka. Kita ingin rakyat kita hidup dalam keadilan dan kemakmuran. Dan kemakmuran tidak bisa dengan sistem yang keliru seperti ini. Ini yang saya yakini."
+  },
+  {
+   "t": 4954.0,
+   "d": 25.0,
+   "text": "Dan ini yang akan saya kerjakan untuk saya penuhi sumpah saya kepada rakyat, untuk menjaga kepentingan rakyat sesuai dengan sumpah saya waktu saya dilantik. Saudara-saudara sekalian, saya sudah katakan dalam buku saya belasan tahun yang lalu dan belum pernah dibantah sampai hari ini."
+  },
+  {
+   "t": 4979.0,
+   "d": 88.0,
+   "text": "Belum ada profesor-profesor ekonomi yang bisa bantah saya. Padahal saya bukan ahli ekonomi, tapi angka adalah angka, matematik adalah matematik. Saudara-saudara, apa yang saya sampaikan belasan tahun yang lalu yang terjadi di Indonesia ini adalah mengalir keluar kekayaan bangsa Indonesia ke luar negeri. Dalam bahasa yang keren, bahasa Inggris yang terjadi adalah net outflow of national wealth, kekayaan nasional kita mengalir ke luar negeri. Dan sekarang ini ini diakui oleh PBB angka-angka PBB mendukung premis saya sekian belas tahun yang lalu dari PBB Comade ya United Nations Comade yang diolah oleh Dewan Ekonomi Nasional kita kalau kita lihat selama 22 tahun bangsa Indonesia sebagai bangsa sebenarnya telah untung."
+  },
+  {
+   "t": 5067.0,
+   "d": 37.0,
+   "text": "Hanya 5 tahun kita tidak untung. Agak kurang tapi dari 22 tahun 17 tahun kita untung. Dan keuntungan kita adalah 436 miliar. dolar selama 22 tahun kali 17.000 berapa triliun? Kemudian kalau kita lihat selama 42 tahun kekayaan kita sebenarnya adalah 683 miliar dolar."
+  },
+  {
+   "t": 5104.0,
+   "d": 31.0,
+   "text": "Kalau sekarang ada yang mengatakan rupiah kita lemah ini dan itu ya karena kekayaannya keluar. Kalau darah kita tiap hari darah kita keluar di ujungnya badan kita kolaps mati. Begitu kayanya republik kita. Tiap tahun kekayaan kita diambil keluar. Kita masih berdiri, Saudara-saudara sekalian."
+  },
+  {
+   "t": 5135.0,
+   "d": 43.0,
+   "text": "Jadi, kita lihat dari neraca itu inflow, outflow. Kita lihat di sini selama 22 tahun uang yang keluar itu 343 miliar. Jadi keuntungan 436, yang keluar 343. yang tinggal adalah sedikit sekali dibandingkan yang keluar. Ini angka di depan di depan kita, Saudara-saudara sekalian. Apa yang harus kita ambil kesimpulan?"
+  },
+  {
+   "t": 5178.0,
+   "d": 47.0,
+   "text": "Ternyata sekali lagi dari PBB yang terjadi adalah nah yang disebut under invoicing atau laporan palsu. Para pengusaha itu bohong. Katanya dia jual 1.000 ton, dia lapor hanya 500 ton. Artinya apa? Artinya negara rugi. Setelah kita hitung ini angka kembali lagi dari PBB, kita telah rugi 908 miliar dolar selama 34 tahun atau 15.000 triliun."
+  },
+  {
+   "t": 5225.0,
+   "d": 37.0,
+   "text": "15.000 triliun, Saudara-saudara. Ini semua data keluar. Saya ingin sampaikan dalam forum ini karena saya ingin saudara-saudara NU sebagai pemimpin, sebagai ulama, sebagai guru, sebagai pembimbing rakyat harus mengerti. Kenapa gaji guru tidak bisa baik? Kenapa gaji pegawai negeri tidak bisa baik?"
+  },
+  {
+   "t": 5262.0,
+   "d": 37.0,
+   "text": "Kenapa anggaran selalu kurang? Iya kan? Karena uangnya enggak ada diambil terus. Saudara-saudara, kebocoran kita, kita hitung para ahli hitung sekarang adalah kurang lebih 150 miliar tiap tahun. 2.500 triliun tiap tahun, Saudara-saudara sekalian. Dan ini sedang saya perbaiki semua, Saudara-saudara."
+  },
+  {
+   "t": 5299.0,
+   "d": 37.0,
+   "text": "Ada perusahaan milik negara BUMN jumlahnya luar biasa. Waktu saya jadi presiden, saya baru tahu. Saya kira perusahaan BUMN itu jumlahnya 300. Waktu saya jadi presiden baru saya tahu jumlahnya 1.000 lebih. Sekarang kita sudah tutup kurang lebih berapa menseknek? Kurang lebih sudah 240 yang kita tutup. Enggak [berdehem] ada yang untung rugi terus."
+  },
+  {
+   "t": 5336.0,
+   "d": 49.0,
+   "text": "[tertawa] Perusahaan negara milik rakyat 200 kalau tidak salah. Ee kita ujungnya akan ee menutup kurang lebih ee 800 perusahaan negara. minimal 700 lah. Anda bisa bayangkan yang sudah kita tutup 240. Iya benarnek 240 itu kalau dihitung umpamanya empat direksi sama empat komisaris itu 8 * 200 1600."
+  },
+  {
+   "t": 5385.0,
+   "d": 37.0,
+   "text": "Kalau gajinya masing-masing Rp50 juta sebulan berapa itu? Dan ada yang gajinya bisa di atas itu. Sudah rugi minta bonus lagi, Saudara-saudara. Sudah kita tutup. Kita menghemat triliunan hanya dari nutup perusahaan-perusahaan yang enggak benar. Dan itu caranya para direksi itu nutupi korupsi mereka."
+  },
+  {
+   "t": 5422.0,
+   "d": 369.0,
+   "text": "Jadi saya perintahkan kan Bangsa Indonesia harus mandiri. Bangsa Indonesia harus berdiri di atas kaki kita sendiri. Dan di situ elemen utamanya adalah sua sembada pangan, sua sembada energi. Pangan dan energi harus kita mendiri. Saudara-saudara percaya kita berada di jalan yang benar. Di jalan membela keadilan, di jalan memberantas kemiskinan, di jalan menghilangkan kelaparan. Kita berada di jalan yang bersih, yang suci. Kita berada di jalan yang diridai oleh Tuhan Maha Kuasa."
+  },
+  {
+   "t": 5791.0,
+   "d": 47.0,
+   "text": "Anda kembali di Breaking News Kompas TV. Saudara Presiden Prabowo Subianto resmi menutup Musyawarah Nasional atau Munas Alim Ulama dan Konferensi Besar ee Nahdatul Ulama pada Selasa sore di Kabupaten Bangkalan, Jawa Timur. Kami tadi lihat Presiden Prab Subianto tiba di lokasi acara pukul 13:45 menit waktu Indonesia Barat dan disambut langsung oleh Rois Am Pengurus Besar Nahdatul Ulama Miftahul Ahyar. Kemudian juga Ketua Umum PBNU Yahya Kholilqu serta Sekretaris Jenderal PBNU sekaligus Menteri Sosial Saifulah Yusuf dan juga seluruh warga NU."
+  },
+  {
+   "t": 5838.0,
+   "d": 35.0,
+   "text": "Presiden Prabowo Subianto juga didampingi oleh Ketua MPR RI Ahmad Muzani. Kemudian juga sejumlah menteri kabinet merah putih di mana Munas dan juga Konbes NU tahun 2026 ini dihadiri lebih dari 1000 peserta dan juga undangan mulai dari Kiai Sepuh, kemudian juga pengasuh pesantren, jajaran PBNU, pengurus PWNU Jawa Timur hingga seluruh PCNU seJawa Timur."
+  },
+  {
+   "t": 5873.0,
+   "d": 41.0,
+   "text": "Inilah gambar ketika Presiden Prabo Subianto menghadiri penutupan Munas NU. Presiden Prabo Subianto resmi ee menutup Musyawarah Nasional Alim Ulama dan Konferensi Besar Nahdatul Ulama yang digelar di Kabupaten Bangkalan ee Jawa Timur. tadi dalam pidatonya juga ada sejumlah poin-poin yang kami catat yang disampaikan oleh ee Presiden Prab Subianto yang mengaku kenal dekat dengan NU dan sejak kecil sudah bertetangga dengan keluarga Gus Dur dan Eyang putrinya juga merupakan anggota Nadatul Ulama."
+  },
+  {
+   "t": 5914.0,
+   "d": 2053.0,
+   "text": "Saudara, kami tutup breaking news Kompas TV dan sesaat lagi akan hadir program borgol saya Mado Pelvrina sampai jumpa. diam diam Galil Indonesia mainkan Gus. Oh, sudah pasti mainkan, Gus. Ya rasulallah samp Indonesia M kita yang arah di sana Allah Indonesia Indonesia Indonesia Ayo, ayo, ayo. Ayo, ayo, ayo, ayo."
+  },
+  {
+   "t": 7967.0,
+   "d": 3.0,
+   "text": "Oleh oleh-oleh."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "cFo77KlaYEU",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/cFo77KlaYEU.json"
+ }
+}

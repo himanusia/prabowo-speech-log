@@ -1,0 +1,266 @@
+{
+ "id": "2026-09-09-fuul-lepas-kontingen-indonesia-ke-asian-games",
+ "video_id": "ZU_qK2nH89o",
+ "date": "2026-09-09",
+ "title": "[FUUL] Sambutan Presiden Prabowo Lepas Kontingen Indonesia ke Asian Games ke-20 Aichi Nagoya Jepang",
+ "channel": "Pangkep TV",
+ "youtube_url": "https://www.youtube.com/watch?v=ZU_qK2nH89o",
+ "duration_s": 1361,
+ "duration_hms": "22:41",
+ "source_tier": "media",
+ "fetch_method": "caption_api",
+ "snippet_count": 406,
+ "token_count": 1573,
+ "unique_word_count": 632,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "ZU_qK2nH89o",
+   "url": "https://www.youtube.com/watch?v=ZU_qK2nH89o",
+   "title": "[FUUL] Sambutan Presiden Prabowo Lepas Kontingen Indonesia ke Asian Games ke-20 Aichi Nagoya Jepang",
+   "channel": "Pangkep TV",
+   "upload_date": "2026-09-09",
+   "duration_s": 1361,
+   "source_tier": "media",
+   "fetch_method": "caption_api",
+   "token_count": 1573,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 406,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "6mWMd7ClCv8",
+   "url": "https://www.youtube.com/watch?v=6mWMd7ClCv8",
+   "title": "[FULL] Pidato Presiden Prabowo Lepas Kontingen Indonesia Menuju Asian Games ke-20 Aichi Nagoya",
+   "channel": "SUARANTBcom",
+   "upload_date": "2026-09-09",
+   "duration_s": 923,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1123,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 292,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 67,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 0.36,
+   "d": 45.6,
+   "text": "Bendera merah putih. Hadirin dimohon berdiri. Kepada yang terhormat Presiden Republik Indonesia didampingi oleh Menpora dan CDM dan perwakilan atlet ASEAN Games dimohon menuju tempat yang telah ditentukan. Penyerahan bendera merah putih oleh Presiden Republik Indonesia kepada perwakilan atlet Asian Games."
+  },
+  {
+   "t": 37.44,
+   "d": 50.92,
+   "text": "Jaya jaya. Hadirin disilakan duduk kembali. Selanjutnya marilah kita simak bersama pengarahan Presiden Republik Indonesia Bapak Prabowo Subianto. Dilanjutkan dengan pernyataan pelepasan kontingen Indonesia menuju Asian Games ke-20. Aicinagoya tahun 2026. Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 80.08,
+   "d": 67.4,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Selamat sore. Salam sejahtera bagi kita semua. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan rahayu-rahayu. Yang saya hormati para menteri koordinator, para menteri, para wakil menteri, dan seluruh anggota kabinet merah putih yang hadir."
+  },
+  {
+   "t": 114.88,
+   "d": 70.88,
+   "text": "Yang hadir Menteri Pemuda Olahraga, Saudara Erik Thhir sebagai Penanggung jawab Menteri Koordinator Pembangunan Manusia dan Kebudayaan. Profesor Pratikno, Menteri Koordinator Perekonomian ya, Saudara Elang Gahertarto, Menteri Sekretaris Negara, Sekretaris Kabinet RI, Let call Tedi Indrawijaya. Ya, tadi maaf mensnek saya tidak sebut namanya."
+  },
+  {
+   "t": 153.96,
+   "d": 76.2,
+   "text": "Saudara Prasitio Hadi harus lengkap Presiden. Presiden aja kadang-kadang keselip ya. Wakil Menteri Pemuda dan Oraga, Saudara Taufik Hidayat, Utusan Khusus Presiden Bidang Pembinaan Generasi Muda dan Pekerja Seni, Saudara Raffi Ahmad. Kemudian ketua umum, para ketua umum cabang olahraga yang turut hadir, Ketua PBSU Indonesia, Saudara Erlangga Harto."
+  },
+  {
+   "t": 197.12,
+   "d": 53.64,
+   "text": "Ketua Umum Persatuan Atletik Jenderal TNI Purnawirawan Luhud Panjaitan. Ketua Umum Ikatan Pencak Silat Indonesia, Saudara Sugiono, Ketua Umum Perkumpulan Angkat Besi, Saudara Roslan Perkasa Roslani. Ketua Umum Indonesia Cycling Federation Jenderal Polisi Listio Sigit Prabowo."
+  },
+  {
+   "t": 240.16,
+   "d": 88.28,
+   "text": "Ketua Umum Persatuan Judo Seluruh Indonesia, PJSI Jenderal TNI Maruli Simanjutak. Maruli. Dan berapa kau? Siap. Enam dan enam aku dan tujuh tapi kehormatan kau yang benar kau dan beliau sempat juara Asia Tenggara ya antar aktam bersenjata ketua umum Indonesia Jawaban M. Herindra Ketua Umum Federasi Panjat Tebing, Saudari Yeni Wahid, Ketua Umum Aatik Indonesia, Saudara Anindia Bakri."
+  },
+  {
+   "t": 315.28,
+   "d": 55.4,
+   "text": "Ketua Umum Persatuan Olahraga Sepatu Roda Seluruh Indonesia, Saudara Felix Fernando Wanggai. Ketua Umum Federasi Gimnastik Indonesia, Saudari Ita Yuliati Irawan, Ketua Umum Persatuan Bulu Tangkis Seluruh Indonesia, Komjen Polisi Muhammad Fadil Imran. Ketua Umum Tekondo Indonesia Letnan Jenderal TNI Richard Tambubolon."
+  },
+  {
+   "t": 354.24,
+   "d": 63.12,
+   "text": "Ketua Umum Persatuan Bola voli Seluruh Indonesia, Komjen Polisi Purnawirawan Imam Sujarwo. Ketua Umum Modern Pentaslon Indonesia, Marsma TNI Purwoko Aji Prabowo. Ini banyak namanya Prabowo. Ketua Umum Persatuan Tis Seluruh Indonesia Prof. Nurdin Khalid, Ketua Umum Persatuan Sepak Takrau Indonesia Prof. Surianto."
+  },
+  {
+   "t": 402.12,
+   "d": 56.56,
+   "text": "Ketua Umum Persatuan Tarung Campuran Indonesia, Saudara Tomy Paulus Hermawan. Ketua Umum Persatuan Soft Tenis Indonesia, Irjen Polisi M. Awal Khairuddin, Ketua Umum Persatuan Tinju Indonesia, Saudara Rai Sulham Faras Nugraha. Ketua Umum Pingpong Li Leag, Indonesia Pingpong Leag, Komjen Polisi Puran, Petrus Reinhard."
+  },
+  {
+   "t": 441.24,
+   "d": 44.08,
+   "text": "Ketua Harian Persatuan Menembak Sasaran dan Berburu Indonesia Perbakin, Saudara Siswanto, Ketua Harian Persatuan Selancar Ombak Indonesia, Saudara Egi Adity Hilman. Saudara-saudara sekalian, ini masih ada wakil-wakil ketua umum yang saya kira tidak saya sebut satu persatu tanpa mengurangi rasa hormat."
+  },
+  {
+   "t": 472.36,
+   "d": 50.4,
+   "text": "Para atlet cabang olahraga, pelatih official dan seluruh kontingen kebanggaan Indonesia pada Asian Games ke-20 di Jepang tahun 2026. Seluruh hadirin undangan yang saya hormati. Rekan-rekan pers dan media, saudara-saudara sebangsa dan setanah air di mana pun Engkau berada."
+  },
+  {
+   "t": 497.12,
+   "d": 48.0,
+   "text": "Tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Besar, Tuhan Maha Kuasa, Allah Subhanahu wa taala bagi umat Islam yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyalah kita meminta pertolongan."
+  },
+  {
+   "t": 521.0,
+   "d": 57.28,
+   "text": "Kita bersyukur atas segala karunia, berkah, atas kedamaian yang masih diberikan kepada kita, terutama kesehatan dan nafas sehingga kita dapat berkumpul di sore hari ini di Istana Negara Republik Indonesia di acara pelepasan kontingen Indonesia yang akan bertanding di Asian Games 2026 di Jepang."
+  },
+  {
+   "t": 549.76,
+   "d": 84.36,
+   "text": "Ee saudara-saudara, saya merasa bangga hari ini bisa berjumpa dengan saudara-saudara sekalian. Ya, ee saya ingin menyampaikan bahwa olahraga adalah sangat penting dalam kehidupan berbangsa dan bernegara. Karena bangsa yang berhasil, bangsa yang kuat adalah bangsa di mana rakyatnya kuat."
+  },
+  {
+   "t": 594.48,
+   "d": 67.68,
+   "text": "Kalau rakyatnya kuat, berarti bangsanya kuat, rakyatnya kuat, fisik, kuat, keterampilan, kuat, semangat bangsanya itu berarti semangat kuat. Bangsa itu terampil dan bangsa itu berhasil. Saudara-saudara, pemberian yang maha kuasa itu adalah sesuatu yang harus kita syukuri."
+  },
+  {
+   "t": 634.16,
+   "d": 90.2,
+   "text": "Tidak semua rakyat Indonesia diberi kemampuan yang kalian miliki. Dari ratusan juta rakyat Indonesia hanya 400 32 orang yang atlet ya yang dikirim yang memenuhi syarat yang lolos kualifikasi yang mewakili 287 juta 432 ini kehormatan yang sangat besar. Saya sekarang Presiden Republik Indonesia."
+  },
+  {
+   "t": 682.24,
+   "d": 61.36,
+   "text": "Saya di tentara dapat pangkat yang tertinggi. Tapi saya sebetulnya dalam hati saya, saya belum bisa seperti kalian ini mewakili bangsa. Benar. Ini sungguh-sungguh. Karena itu atas nama negara bangsa dan Indonesia saya ucapkan terima kasih atas jeripaya saudara-saudara."
+  },
+  {
+   "t": 717.0,
+   "d": 64.4,
+   "text": "Saudara mau mengorbankan harimu berjam-jam. Saya tahu untuk jadi juara itu pengorbanan yang besar. Saya pernah dengar seorang pelatih olimpiade dari suatu bangsa waktu ditanya apa rumus menjadi Olympic Champion? Dia jawab, \"Hanya tiga rumus untuk jadi champion itu hanya tiga."
+  },
+  {
+   "t": 749.72,
+   "d": 69.48,
+   "text": "Latihan, latihan, latihan. Itu saya pegang terus. Berarti saudara untuk mencapai puncak ini, Saudara-saudara telah berjuang dengan keras. Jadi saya ucapan selamat, selamat berangkat, selamat mewakili negara dan bangsa, selamat berjuang. Buatlah yang terbaik untuk bangsamu, Saudara."
+  },
+  {
+   "t": 787.84,
+   "d": 125.32,
+   "text": "Berikan yang terbaik, Saudara-saudara. Wakili bangsa kita bahwa anak-anak Indonesia itu tangguh, semangat, tidak mengenal, menyerah. Saudara-saudara, dalam SEA Games yang lalu mungkin ada di sini. Di sini ada ee atlet equestrian ada enggak di sini? Atau sudah latihan di luar negeri semua ya? Ya. Ada satu atlet ya, atlet eventing. Eventing itu cross country rupanya. berapa hari sebelum itu dia dalam latihan dia jatuh dan ee tulang tulang rusuk ya salah satu tulang rusuknya itu fraktur."
+  },
+  {
+   "t": 856.92,
+   "d": 67.0,
+   "text": "Padahal dia atlet kunci dan ee dipersilakan untuk diganti cadangan. Dia tidak mau waktu dia naik itu sambil memegang apa itu ya badannya naik kuda. Kalau atlet yang lain dia bisa pegang dua. Dia hanya satu tangan. Satu tangan sampai finish dan sampai timnya berhasil mendapat medali."
+  },
+  {
+   "t": 897.12,
+   "d": 57.52,
+   "text": "kalau tidak salah Medelimas ya yang belum pernah dapat medalimas. Jadi ini saya memberi contoh sampai semua wasit, semua judge, semua penonton itu salut. Orang ini tidak mau memilih jalan yang aman atau jalan yang enak. dia mikir kehormatan bangsa dan negaranya."
+  },
+  {
+   "t": 928.76,
+   "d": 50.68,
+   "text": "Ini salah satu contoh yang membanggakan. Kalau tidak salah dia seorang prajurit ya angkatan darat ya. Saya perintahkan eh Panglima TNI Kasat untuk naikkan pangkatnya. Iya kan kalau tidak salah dia seorang SAN waktu itu. Habis itu kau naikin ya. Ya. Perwira sekarang sekarang. Perwira."
+  },
+  {
+   "t": 956.4,
+   "d": 73.16,
+   "text": "Iya. Saya kira saya tidak mau panjang lebar lagi ya. Tidak usah terlalu lama ya kan pidato dan sambutan enggak usah terlalu lama. Benar ya? Iya kan? Kalau ini pejabat dan pemimpin politik condong kalau di podium lama banget. Intinya selamat berjuang. Kita berdoa untuk kalian berbuat yang terbaik. Dan juga kesempatan ini saya ingin ucapan terima kasih kepada ee para pemimpin dan pembina olahraga masing-masing."
+  },
+  {
+   "t": 997.04,
+   "d": 59.16,
+   "text": "Pemimpin dan ee dari cabang-cabang olahraga. Karena kalian ee memimpin berkorban juga. Karena jadi pemimpin cabang olahraga di Indonesia tidak seperti di negara lain. Di kita ini berkorban, berkorban waktu, berkorban tenaga, berkorban kalian tahu berkorban apa lagi? Iya kan?"
+  },
+  {
+   "t": 1028.36,
+   "d": 54.56,
+   "text": "Hah? Saya yakin istri mereka sebetulnya tiap kali mereka berangkat untuk mimpin olahraga, sebetulnya istrinya itu mukanya enggak suka, suaminya juga enggak enggak suka. Di Indonesia lain mereka senyum agak kecut senyumnya itu. Ya tapi ada sesuatu di dalam diri mereka."
+  },
+  {
+   "t": 1059.8,
+   "d": 75.84,
+   "text": "ada sesuatu. Mereka itu juga cinta tanah air. Mereka ingin berbuat. Mereka mereka sebetulnya sudah sampai puncak-puncak karier mereka ya kan. Tapi di situ dia masih ingin, saya ingin walaupun sebagian besar juga dulu juga olahragawan-olahragawan hebat juga Pak Luhud itu jago lari ya kan jago tembak. Enggak pernah saya enggak pernah menangelawan beliau waktu itu. Tapi waktu saya jadi komandan, habis itu benar kalau tenis saya menang terus."
+  },
+  {
+   "t": 1101.92,
+   "d": 48.84,
+   "text": "Saya menang terus waktu tenis. Begitu saya pensiun, kaget saya. Saya kalah terus. Rupanya ini kalau kalau di tentara itu anak buah enggak berani ngalahin komandan. Saya saya merasa diri hebat waktu itu. Tiap main sebagai waktu saya komandan itu kan menang terus."
+  },
+  {
+   "t": 1132.32,
+   "d": 91.04,
+   "text": "Begitu begitu pensiun kalah terus. Habis itu teman-teman saya kan yang istilahnya pangkat ketinggalan. Nah di situ saya diundang terus reuni main tenis. Saya dihabisin main tenis dapat 61 601 dan ini ya tapi intinya kita semangat. Saya kira itu dari saya selamat berjuang. Semoga Tuhan yang maha besar selalu memberi kekuatan dan yang terbaik kepada kalian semua. Dan saya enggak lupa saya diberi laporan oleh Pak Erik, Pak eh untuk SE Games medali Mas dapat R miliar ya."
+  },
+  {
+   "t": 1187.24,
+   "d": 73.12,
+   "text": "Tapi ini Asian Games Mendalimas 3 miliar dan tanya semua pemimpin olahraga ya yang kemarin apa itu medali perak, medali perunggu pun karya-karyanya kita semua percepat ya. Ada yang Pak saya ee sudah sekian tahun belum naik pangkat termasuk ee apa pelatih-pelatih. Iya kan ada polisi yang itu apa ya kan dari polisi wanita etc."
+  },
+  {
+   "t": 1235.72,
+   "d": 56.6,
+   "text": "Itu bikin Kapolri naikin pangkatlah kita jangan pelit ya kan. Terlalu baik kita memberi penghormatan. Kalau orang Indonesia kan ada pepatah. Saya enggak tahu sekarang, tapi dulu di tontara kalau kita berbuat baik, komandan suka lupa. Kalau kita berbuat kesalahan, komandan enggak lupa-lupa."
+  },
+  {
+   "t": 1265.4,
+   "d": 74.72,
+   "text": "Jadi kalau kesalahan diingat, kalau kebaikan suka dilupa. Ini kita rubah ya kan kita ya. Kebaikan kita ya. Selamat ee pimpinan rombongan, selamat memimpin Pak Erik ya. Terima kasih perjuanganmu dan negara dan bangsa menanti prestasimu dan ingin mendengar lagu kebangsaan kita dikumandangkan di tanah air. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 1302.2,
+   "d": 49.0,
+   "text": "Salam sejahtera bagi kita sekalian. Shalom salve om swastiastu. Om santi santi santi om namo buddhaya. Salam kebajikan. Terima kasih. Bapak Ibu yang kami hormati, demikianlah rangkaian acara pada sore hari ini telah selesai. Kami haturkan terima kasih kepada yang terhormat Presiden Republik Indonesia serta seluruh tamu dan undangan."
+  },
+  {
+   "t": 1341.6,
+   "d": 15.92,
+   "text": "Tak pembela yang benar. Ye."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "ZU_qK2nH89o",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/ZU_qK2nH89o.json"
+ }
+}

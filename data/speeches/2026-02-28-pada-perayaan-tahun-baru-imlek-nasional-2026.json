@@ -1,0 +1,117 @@
+{
+ "id": "2026-02-28-pada-perayaan-tahun-baru-imlek-nasional-2026",
+ "video_id": "5OIq7GaU4sI",
+ "date": "2026-02-28",
+ "title": "Sambutan Presiden Prabowo pada Perayaan Tahun Baru Imlek Nasional 2026, 28 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=5OIq7GaU4sI",
+ "duration_s": 263,
+ "duration_hms": "4:23",
+ "source_tier": "official",
+ "fetch_method": "caption_api",
+ "snippet_count": 88,
+ "token_count": 333,
+ "unique_word_count": 175,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5OIq7GaU4sI",
+   "url": "https://www.youtube.com/watch?v=5OIq7GaU4sI",
+   "title": "Sambutan Presiden Prabowo pada Perayaan Tahun Baru Imlek Nasional 2026, 28 Februari 2026",
+   "channel": "Sekretariat Presiden",
+   "upload_date": "2026-02-28",
+   "duration_s": 263,
+   "source_tier": "official",
+   "fetch_method": "caption_api",
+   "token_count": 333,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 88,
+   "discovery_origins": [
+    "official_channel",
+    "search_sambutan"
+   ],
+   "selection_reason": "existing_baseline",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 19,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 1.08,
+   "d": 59.84,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita semua. Shalom. Salvei. Om swastiastu. Namo buddhaya. Salam kebajikan. Saudara-saudara sebangsa dan setanah air yang merayakan Imlek. Yang saya cintai dan yang saya hormati di mana pun saudara berada."
+  },
+  {
+   "t": 30.92,
+   "d": 58.32,
+   "text": "Saya Prabowo Subianto, Presiden Republik Indonesia. Atas nama pribadi dan atas nama pemerintah Republik Indonesia, saya ucapkan selamat tahun baru Imlek 2577 tahun kuda api. Kongsi Fachai. Tahun baru Imlek bukan hanya perayaan keagamaan. Imlek adalah momentum kebangsaan."
+  },
+  {
+   "t": 59.72,
+   "d": 59.32,
+   "text": "Persaudaraan dan persatuan. Perayaan Imlek 2026 ini dengan tema Harmoni Imlek Nusantara mencerminkan jati diri bangsa kita sebagai bangsa yang besar karena keberagaman, kuat karena persatuan, dan tegak karena kebersamaan. Perayaan ini bukan hanya menampilkan tradisi dan budaya."
+  },
+  {
+   "t": 89.96,
+   "d": 57.56,
+   "text": "Perayaan ini menegaskan nilai gotongroyong, solidaritas, dan nilai kemanusiaan. Imlek Festival 2026 adalah perayaan yang menegaskan bahwa Indonesia tidak dibangun oleh satu suku saja atau satu golongan saja, tetapi oleh seluruh anak bangsa. Perayaan Imlek tahun ini memiliki makna yang sangat dalam."
+  },
+  {
+   "t": 118.52,
+   "d": 65.72,
+   "text": "Imlek hadir bertampingan dengan bulan suci Ramadan. Umat Islam ini adalah wajah asli Indonesia. Berbeda tapi rukun. Beragam tapi satu tujuan. Saudara-saudara sekalian, Indonesia adalah bangsa besar. Bangsa besar tidak takut pada perbedaan. Bangsa besar justru merawat perbedaan sebagai kekuatan."
+  },
+  {
+   "t": 150.96,
+   "d": 73.68,
+   "text": "Penyelenggaraan Imlek Festival 2026 ini yang berlangsung di berbagai kota di seluruh Indonesia mulai dari Medan, Palembang, Batam, Bogor, Semarang, Solo, Surabaya, Pontianak, Singkawang, Makassar, dan Manado. Harmoni ini hidup di seluruh Nusantara. Ini bukti bahwa persatuan Indonesia bukan hanya slogan. Persatuan Indonesia adalah kenyataan."
+  },
+  {
+   "t": 188.0,
+   "d": 59.0,
+   "text": "Harmoni Imlek Nusantara adalah simbol bahwa masa depan bangsa ini dibangun oleh kebersamaan, oleh kerja keras, oleh persatuan dan keberanian untuk berdiri sebagai satu bangsa. Mari kita songsong tahun baru ini dengan optimisme, dengan keberanian, dengan tekad untuk membawa Indonesia menjadi bangsa yang adil, makmur, dan bermartabat."
+  },
+  {
+   "t": 217.32,
+   "d": 51.28,
+   "text": "Saya berharap tahun baru kuda api ini membawa keberkahan, kesehatan, kedamaian, dan harapan baru bagi kita semua. Gongsi Faai. Selamat tahun baru. Semoga keberuntungan, kesehatan, dan kebahagiaan menyertai kita semua. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 243.24,
+   "d": 28.88,
+   "text": "Salam sejahtera bagi kita sekalian. Shalom. Salve. Om. Santi. Santi. Santi. Om. Merdeka. Merdeka. Merdeka."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "5OIq7GaU4sI",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/5OIq7GaU4sI.json"
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "id": "2026-05-20-sampaikan-pada-rapat-paripurna-dpr-ri-ke-19",
+ "video_id": "7gTnSb4faRk",
+ "date": "2026-05-20",
+ "title": "Presiden Prabowo Sampaikan Pidato pada Rapat Paripurna DPR RI ke-19, Jakarta, 20 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=7gTnSb4faRk",
+ "duration_s": 70,
+ "duration_hms": "1:10",
+ "source_tier": "official",
+ "fetch_method": "caption_api",
+ "snippet_count": 16,
+ "token_count": 68,
+ "unique_word_count": 47,
+ "duplicate_count": 2,
+ "uploads": [
+  {
+   "video_id": "7gTnSb4faRk",
+   "url": "https://www.youtube.com/watch?v=7gTnSb4faRk",
+   "title": "Presiden Prabowo Sampaikan Pidato pada Rapat Paripurna DPR RI ke-19, Jakarta, 20 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "upload_date": "2026-05-20",
+   "duration_s": 70,
+   "source_tier": "official",
+   "fetch_method": "caption_api",
+   "token_count": 68,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 16,
+   "discovery_origins": [
+    "official_channel"
+   ],
+   "selection_reason": "official_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "WJtmyDrIgHg",
+   "url": "https://www.youtube.com/watch?v=WJtmyDrIgHg",
+   "title": "Pidato Lengkap Presiden Prabowo di Rapat Paripurna DPR",
+   "channel": "KOMPASTV MADIUN",
+   "upload_date": "2026-05-20",
+   "duration_s": 5972,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 7623,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 1933,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "rVhF-GrMi8k",
+   "url": "https://www.youtube.com/watch?v=rVhF-GrMi8k",
+   "title": "Berapi-api Prabowo Pidato Gebrak Podium Guncang DPR Depan Gibran-Puan: Kita Tak Mau Dibohongi Lagi!",
+   "channel": "MerdekaDotCom",
+   "upload_date": "2026-05-20",
+   "duration_s": 562,
+   "source_tier": "media",
+   "fetch_method": "caption_api",
+   "token_count": 785,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 181,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 1.96,
+   "d": 94.84,
+   "text": "[musik] [musik] APBN adalah wujud dari alat perjuangan kita sebagai bangsa. APBN adalah alat untuk melindungi rakyat, alat untuk memperkokoh dasar dasasar dan sendi-sendi ekonomi bangsa. Alat untuk memastikan setiap warga negara dapat hidup lebih sejahtera dan sebagai alat untuk menjadi pedoman perjalanan kita ke depan. Dengan kesadaran itu, APBN kita susun sebagai bentuk komitmen bersama untuk mewujudkan cita-cita mulia yang telah diamanatkan dalam Undang-Undang Dasar kita, Undang-Undang Dasar Tahun 1945."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "7gTnSb4faRk",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/7gTnSb4faRk.json"
+ }
+}

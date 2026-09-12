@@ -1,0 +1,393 @@
+{
+ "id": "2026-05-01-pada-peringatan-hari-buruh-internasional",
+ "video_id": "rKpNQwecniM",
+ "date": "2026-05-01",
+ "title": "Pidato Presiden Prabowo pada Peringatan Hari Buruh Internasional",
+ "channel": "Prabowo Subianto",
+ "youtube_url": "https://www.youtube.com/watch?v=rKpNQwecniM",
+ "duration_s": 2776,
+ "duration_hms": "46:16",
+ "source_tier": "official",
+ "fetch_method": "caption_api",
+ "snippet_count": 773,
+ "token_count": 2044,
+ "unique_word_count": 691,
+ "duplicate_count": 2,
+ "uploads": [
+  {
+   "video_id": "rKpNQwecniM",
+   "url": "https://www.youtube.com/watch?v=rKpNQwecniM",
+   "title": "Pidato Presiden Prabowo pada Peringatan Hari Buruh Internasional",
+   "channel": "Prabowo Subianto",
+   "upload_date": "2026-05-01",
+   "duration_s": 2776,
+   "source_tier": "official",
+   "fetch_method": "caption_api",
+   "token_count": 2044,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 773,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "existing_baseline",
+   "canonical": true
+  },
+  {
+   "video_id": "CfWcrTCUIcI",
+   "url": "https://www.youtube.com/watch?v=CfWcrTCUIcI",
+   "title": "[FULL] Pidato Lengkap Presiden Prabowo di Peringatan Hari Buruh Sedunia 2026  #BeritaSatu",
+   "channel": "BeritaSatu",
+   "upload_date": "2026-05-01",
+   "duration_s": 1955,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1756,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 579,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "PAtys9TmQ4U",
+   "url": "https://www.youtube.com/watch?v=PAtys9TmQ4U",
+   "title": "[FULL] Pidato Presiden Prabowo Subianto di Hari Buruh 2026: Negara Akan Bela Buruh dan Lawan PHK!",
+   "channel": "METRO TV ",
+   "upload_date": "2026-05-01",
+   "duration_s": 2292,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2110,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 670,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 15,
+  "ekonomi": 7,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 27,
+  "tata_kelola": 10,
+  "pertahanan_dan_keamanan": 4,
+  "nasional_dan_identitas": 59,
+  "mbg": 5
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 4,
+  "full_phrase_count": 0,
+  "paired_terms_count": 1,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 5,
+  "present": true,
+  "evidence": [
+   {
+    "start": 2074.32,
+    "matches": [
+     "exact_token",
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 2088.24,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2102.839,
+    "matches": [
+     "exact_token"
+    ]
+   },
+   {
+    "start": 2129.04,
+    "matches": [
+     "exact_token"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 20.2,
+   "d": 97.04,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Selamat pagi. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Merdeka. Merdeka. Merdeka. Merdeka. Hidup buruh. Hidup. Saudara-saudara sekalian, yang saya hormati para pimpinan lembaga negara yang hadir, Ketua Majelis Permusatan Rakyat Republik Indonesia, Saudara Ahmad Muzani, Wakil Ketua Dewan Perwakilan Rakyat Republik Indonesia, Prof."
+  },
+  {
+   "t": 70.44,
+   "d": 99.28,
+   "text": "Dasko Ahmad, saudara-saudara para menteri yang hadir, Menseknek, Menteri Luar Negeri, Menseknek Prasetyo Hadi, Menteri Luar Negeri, Saudara Sugiono, Menteri Tenaga Kerja Profesor Yasierli yang membela kepentingan kalian terus-menerus. Menteri Hukum, Saudara Supratman Andi Aktas, Menteri Perundungan Pekerja Migran Indonesia, Saudara Mukhtarudin, Kepala Staf Presiden Jenderal TNI Purnawirowan Dudung Abdurrahman, Kapolri Jenderal Polisi Listio Sigit Prabowo, Panglima TNI, Jenderal TNI Agus Subianto."
+  },
+  {
+   "t": 125.6,
+   "d": 123.44,
+   "text": "namanya sama dengan nama saya itu sekretaris kabinet RI Lek belum saya sebut nama kalian sudah teriak yang teriak emak-emak semuanya. Eh, gue presidennya bukan dia. Gue presidennya. Sekretaris Kabinat RI Letnan Kolonel Tedi Indrawijaya. Kepala Badan Komunikasi Pemerintah, Saudara Muhammad Qodari, Wakil Menteri Sekretaris Negara 1, Maskal Madia TNI Pernawirawan Bambang Eko Suharianto, Wakil Menteri Sekretaris Negara 2, Saudara Juri Ardiantoro, Wakil Menteri Ketenagakerjaan, Saudara Afrian Syahnur, Wakil Menteri Desa dan Pembangunan Daerah tertinggal saudara Ahmad Liza Patrea, Gubernur DKI, Saudara Pramono Anung Wibowo."
+  },
+  {
+   "t": 208.4,
+   "d": 70.52,
+   "text": "Bowonya sama, partainya lain enggak apa-apa untuk buruh tidak ada partai. Kita semua membela kepentingan buruh. Para pimpinan Konfederasi Serikat Pekerja, Ketua Umum Konfederasi Serikat Pekerja Seluruh Indonesia yang juga menjabat Menteri Lingkungan Hidup, Saudara Muhammad Jumhur Hidayat, [bersorak] Presiden Konfederasi Serikat Pekerja Seluruh Indonesia, Saudara Andi Ganin."
+  },
+  {
+   "t": 257.68,
+   "d": 71.08,
+   "text": "Presiden Konfederasi Serikat Pekerja Indonesia, Saudara Said Iqbal, Presiden Konfederasi Serikat Buru Seluruh Indonesia, Saudari Eli Rosita Silaban, Ketua Umum Konfederasi Persatuan Buru Indonesia, Saudara Ilham Syah. Saudara-saudara sekalian, ada juga yang hadir Direktur Utama BPJS Kesehatan dan BPJS Ketenagakerjaan."
+  },
+  {
+   "t": 292.12,
+   "d": 83.79,
+   "text": "Hadir juga pimpinan Kadin, Apindo, HIPMI, dan pimpinan perusahaan BUMN dan swasta lainnya. Nanti diabsen yang tidak hadir daftarnya kasih saya. Bagaimana? Setuju. Setuju. Ini banyak sekali organisasi serikat buruh. Harus disebut satu-satu. Hah. Saudara-saudara, saya mengajak saudara-saudara, marilah kita bersyukur kehadirat Tuhan Maha Besar."
+  },
+  {
+   "t": 349.68,
+   "d": 66.36,
+   "text": "Allah Subhanahu wa taala kita diberi kesehatan bisa berkumpul pada hari yang bersejarah ini, 1 Mei, Mei, Day, hari buruh seluruh dunia. Saudara-saudara, hari ini adalah hari perjuangan kaum buruh. Saudara-saudara, saya ucapan terima kasih atas undangan kepada saya untuk hadir hari ini bersama saudara-saudara sekalian."
+  },
+  {
+   "t": 382.12,
+   "d": 75.28,
+   "text": "Ini kehormatan bagi saya. Terima kasih. Saya merasa bahwa kaum buruh selalu mendukung saya sekian kali dan saya merasa jadi presiden karena dukungan kaum buruh. kaum tani, kaum nelayan, kaum pekerja seluruh Indonesia. Dan saya bertekad, saya bersumpah untuk berjuang untuk kepentingan seluruh rakyat Indonesia dan terutama mereka-mereka yang hidupnya masih sulit."
+  },
+  {
+   "t": 424.04,
+   "d": 101.24,
+   "text": "Itu adalah tugas saya. Itu adalah tugas pemerintah yang saya pimpin dan itu adalah tekad kami. Kami tidak akan gentar, kami tidak akan menyerah, kami tidak akan ragu-ragu untuk membela kepentingan rakyat Indonesia. Saudara-saudara sekalian, saya kira dalam 1 tahun ini Saudara-saudara bisa menilai kebijakan-kebijakan yang diambil oleh pemerintah yang saya pimpin adalah kebijakan-kebijakan yang membela seluruh rakyat Indonesia, terutama kaum buruh. Saudara-saudara, kita telah mengangkat Ibu Marsinah sebagai pahlawan nasional."
+  },
+  {
+   "t": 481.04,
+   "d": 82.28,
+   "text": "Dan bulan ini juga saya akan berangkat ke Desa Ngelundo, Nganjuk, Jawa Timur untuk meresmikan Museum Perjuangan Buruh yang diberi nama Museum Marsin Saudara-saudara, Hari ini saya bisa melaporkan kepada saudara-saudara bahwa kita telah mensahkan undang-undang perlindungan pekerja rumah tangga."
+  },
+  {
+   "t": 528.48,
+   "d": 78.28,
+   "text": "Kalau tidak salah ini adalah perjuangan lama, perjuangan 22 tahun. Bahkan selama Republik Berdiri belum pernah ada Undang-Undang Perlindungan Pembantu Rumah Tangga. Undang-undang Perlindungan Pekerja Rumah Tangga belum pernah ada. Selama ini pekerja-pekerja rumah tangga entah dibayar upah berapa tidak jelas."
+  },
+  {
+   "t": 574.4,
+   "d": 78.56,
+   "text": "Sekarang pertama kali dalam sejarah NKRI kita sahkan Undang-Undang Perlindungan Pekerja Rumah Tangga. Saudara-saudara, saya terima kasih. Saya terharu saya diundang di tengah-tengah saudara-saudara. Karena karena saya menyadari, saya merasakan dan saya menghormati perjuangan saudara-saudara."
+  },
+  {
+   "t": 617.64,
+   "d": 103.0,
+   "text": "Seorang yang bekerja dengan badannya, dengan keringatnya, dengan tangannya adalah seorang yang mulia, seorang bekerja dengan halal, seorang berjuang untuk anaknya, untuk istrinya. Tiap hari seorang yang bekerja dengan jujur. Pengalaman saya para pekerja, para petani, para nelayan justru yang hidupnya susah mereka adalah orang-orang yang jujur, orang-orang yang ikhlas."
+  },
+  {
+   "t": 672.6,
+   "d": 63.29,
+   "text": "Yang saya sedih orang semakin tinggi pangkat banyak yang semakin enggak jelas. Saya heran semakin pintar banyak yang pintar. Pintar maling. [bersorak] Enggak habis pikir aku. Enggak habis pikir. Saudara-saudara, saya merasa terpanggil karena saya dari usia muda."
+  },
+  {
+   "t": 722.0,
+   "d": 60.23,
+   "text": "Saya masuk tentara. Saya masuk tentara ingin menjaga negara ini. Ingin membela negara ini. Ingin membela rakyat saya. Tapi saya kaget begitu saya pensiun saya lihat kok rakyat saya masih banyak yang susah. Saya telah mempertaruhkan nyawa saya berkali-kali untuk bangsa ini."
+  },
+  {
+   "t": 770.94,
+   "d": 69.49,
+   "text": "[bersorak] Tapi saya melihat banyak elit-elit yang curi uang rakyat. Bukan ini yang saya perjuangkan. bukan negara yang dirampok oleh maling-maling. Saya tidak rela. [bersorak] Saya [berteriak] tidak rela ada anak-anak Indonesia yang lapar. Saya tidak rela ada ibu-ibu yang tidak bisa memberi susu untuk anaknya."
+  },
+  {
+   "t": 839.92,
+   "d": 66.16,
+   "text": "Saya tidak rela pejabat-pejabat pemerintah yang diberi kepercayaan oleh rakyat justru bekerja sama dengan pengusaha-pengusaha brengsek. [bersorak] dengan pengusaha-pengusaha [berteriak] serakah. Saudara-saudara, tapi saya mengajak kita dewasa. Tidak semua pengusaha serakah."
+  },
+  {
+   "t": 883.4,
+   "d": 77.16,
+   "text": "Banyak yang bekerja dengan baik. banyak. Kita butuh mereka supaya ekonomi hidup. Jangan kita benci sama orang kaya. Tapi kalau kayanya ngerampok, Saudara-saudara sekalian, saya lima kali pengin jadi presiden. Lima kali. empat kali gue kalah suara. Tapi saya merasa buruh tani dan nelayan selalu bersama saya, Saudara-saudara."
+  },
+  {
+   "t": 947.14,
+   "d": 84.69,
+   "text": "[bersorak] Hanya kita tahu kadang-kadang kadang-kadang merekalah banyak akal. Tapi enggak apa-apa. Akhirnya saudara memberi mandat kepada saya dan percayalah saya akan memberi segalanya untuk membela rakyat saya. [bersorak] Sisa, sisa hidup saya, [mendengus] sisa hidup saya adalah untuk rakyat saya. Saudara-saudara sekalian, Anda tanya semua menteri saya, saya memberi instruksi, saudara-saudara para menteri."
+  },
+  {
+   "t": 997.8,
+   "d": 59.8,
+   "text": "Kalau ambil kebijakan, kalau menyusun kebijakan, berpikir, bertanya, apakah ini menguntungkan rakyat kecil atau tidak? Kalau menguntungkan rakyat kecil, laksanakan. Itu sudah benar. Enggak usah ragu-ragu. Saudara-saudara sekalian, bagaimana ini? Ada pidato yang bagus sudah disiapkan."
+  },
+  {
+   "t": 1031.2,
+   "d": 93.92,
+   "text": "Perlu saya bacakan? Hah? Ini udah udah bagus ini. Saudara-saudara sekalian, saya ingin menggambarkan bahwa ini sudah dibikin nih pidato gue baca ya. Hah? Presiden had. Saudara-saudara sekalian, saya sudah mengeluarkan keputusan presiden nomor 10 tahun 2026. tentang pembentukan satuan tugas mitigasi pemutusan hubungan kerja dan kesejahteraan buruh."
+  },
+  {
+   "t": 1110.6,
+   "d": 72.64,
+   "text": "Jangan khawatir, kita akan membela kepentingan buruh yang diancam PHK. kita akan membela dan kita akan melindungi. Saudara-saudara sekalian, kalau ada pengusaha yang menyerah, jangan khawatir negara kita kuat. Negara kita akan mengambil alih. Negara kita akan membela rakyat Indonesia. Jangan khawatir Saudara-saudara perhatikan."
+  },
+  {
+   "t": 1164.68,
+   "d": 91.68,
+   "text": "Seluruh dunia dalam keadaan krisis. Banyak negara sudah panik. Kita masih aman. Kita sua sembada pangan. Pangan kita aman. BBM kita masih aman. Berapa tahun lagi kita tidak lama lagi kita akan swas sembada BBM, swasembada energi. Saudara-saudara, tadi saya diberi banyak saran dan sebagian besar saran oleh pimpinan-pimpinan Anda. Itu masuk akal dan itu akan kita perjuangkan."
+  },
+  {
+   "t": 1211.72,
+   "d": 82.4,
+   "text": "Tadi disampaikan bahwa buruh perlu ee tempat penitipan anak, dayare. Ini saran yang baik. Ini akan kita perjuangkan. ini akan kita laksanakan dalam waktu yang sesingkat-singkatnya. Saudara-saudara sekalian, tadi juga disampaikan bahwa buruh sangat memerlukan rumah."
+  },
+  {
+   "t": 1251.6,
+   "d": 93.36,
+   "text": "Rumah yang terjangkau. Kita sudah ee membangun cukup banyak tahun ini sudah sampai 350.000 rumah. Tapi sasaran kita adalah minimal 1 juta rumah. Kita akan mulai tahun ini juga 1 juta rumah. Dan rumah-rumah ini akan sesuai saran saudara akan dibuat di kluster-kluster yang dekat dengan kawasan-kawasan industri yang dekat dan tempat bekerja. Dan saya sudah rencanakan kita akan bikin kota-kota baru."
+  },
+  {
+   "t": 1298.44,
+   "d": 84.68,
+   "text": "Kota-kota baru tiap kota mungkin terdiri dari 100.000 rumah. Rumah susun 100.000. Dan saya perintahkan harus ada sekolah, harus ada fasilitas olahraga, harus ada daycare, harus ada rumah sakit. Dan yang paling penting harus ada transportasi entah kereta api ringan, bis supaya pekerja bisa masuk ke pekerjaan dengan lancar dan baik."
+  },
+  {
+   "t": 1341.68,
+   "d": 103.72,
+   "text": "Dan saudara-saudara, kita akan coba bahwa nanti buruh yang diberi kartu bisa naik transport dengan harga yang sangat ringan. Maunya gratis semua itu. Ini lu punya lu punya pemimpin di belakang gue maunya gratis semua. Tenang, tenang tenang. Seben eh saudara-saudara di mana-mana setelah saya jadi presiden, saya belajar, saya lihat data-data."
+  },
+  {
+   "t": 1394.92,
+   "d": 76.4,
+   "text": "Percayalah negara kita sangat kaya, Saudara-saudara sekalian. Hanya kekayaannya ini banyak dicolong dia. Mereka bikin, mereka bikin kebun tanpa izin. Banyak bikin tambang tanpa izin. Aku sudah ambil alih itu semua, Saudara-saudara sekalian. Sampai hari ini sudah hampir 5 juta hektar yang kita kuasai kembali. Kembali ke rakyat."
+  },
+  {
+   "t": 1457.84,
+   "d": 63.24,
+   "text": "Perhitungan saya sampai akhir 2026 kita akan kuasai kembali sampai 8 juta hektar dan kita sudah tutup ribuan tambang ilegal. Ribuan dan ini kita akan kelola dan ini nanti akan kita kuasai semua. Dan itu nanti untuk kemakmuran seluruh rakyat Indonesia, Saudara, Saudara-saudara."
+  },
+  {
+   "t": 1498.24,
+   "d": 88.96,
+   "text": "Tadi kalian mengatakan penghasilan kalian 30% untuk kontrak berapa? Nanti nanti kita akan yakinkan saudara nanti akan miliki rumah tersebut. Jadi yang tadi 30% untuk kontrak kita kita kurangi itu adalah untuk kau cicil rumahmu sendiri. Cicilnya kalau bisa 20 tahun."
+  },
+  {
+   "t": 1551.68,
+   "d": 77.48,
+   "text": "Kalau kalau enggak bisa 20 tahun. 25 tahun. Kalau belum lunas 25 tahun, 30 tahun, kalau tidak bisa 35 tahun, 40 tahun. Karena buruh tidak mungkin lari ke mana-mana. Betul. Betul. Petani dan nelayan enggak mungkin lari ke mana-mana. Nah, Saudara-saudara sekalian, selama ini rakyat kecil kalau pinjam uang bunganya luar biasa gilanya."
+  },
+  {
+   "t": 1594.24,
+   "d": 84.64,
+   "text": "Betul. Betul. Orang kecil pinjam uang bunganya bisa 70% setahun. Betul. Betul. Saya sudah perintahkan bank-bank milik Republik Indonesia, sebentar lagi kita akan kucurkan kredit untuk rakyat maksimal maksimal 5% 1 tahun, Saudara-saudara. Ojol. Ojol kerja keras."
+  },
+  {
+   "t": 1650.28,
+   "d": 78.6,
+   "text": "Ojol mempertaruhkan jiwanya tiap hari. Ojol aplikator perusahaan minta disetor 20%. Gimana? Ojol setuju 20%. Bagaimana 15% berapa? 10. Kalian minta 10%. Iya. Saya katakan di sini saya tidak setuju 10%. harus di bawah 10%. Enak aja lu yang keringat, dia yang dapat duit."
+  },
+  {
+   "t": 1715.52,
+   "d": 47.2,
+   "text": "Sore aja. [bersorak] Kalau enggak mau ikut kita, enggak usah berusaha di Indonesia. Allahu Akbar. [bersorak] Bagaimana? Sudah cukup? Sudah bosan? Masa enggak bosan dengar pidato? Lebih baik dangdut aja ya. Gimanaikasi ini perikanan sudah Pak? Hadiah tadi baca aja ya."
+  },
+  {
+   "t": 1774.16,
+   "d": 91.07,
+   "text": "Saudara-saudara sekalian, ada satu lagi hadiah untuk buruh. Saya juga baru saja tanda tangan Peraturan Presiden Nomor 25 tahun 2026 tentang ratifikasi Konvensi International Labor Organization nomor 188 untuk memastikan perlindungan dan kesejahteraan bagi awak kapal perikanan [berteriak] dan kita e tahun ini akan meresmikan 1386 kampung nelayan."
+  },
+  {
+   "t": 1828.88,
+   "d": 84.84,
+   "text": "Pertama kali dalam sejarah Republik Indonesia, nelayan diurus. Tahun depan kita akan buka 1500 kampung nelayan. Tahun depannya lagi 1500, tahun depannya lagi 1500. Semuanya nanti kurang lebih ada 6 juta nelayan yang akan kita perbaiki hidupnya. dengan anak dan istri 20 juta lebih rakyat Indonesia hidupnya akan lebih baik, hidupnya akan sejahtera."
+  },
+  {
+   "t": 1870.92,
+   "d": 142.36,
+   "text": "Yang selama ini mereka susah, mereka melaut tanpa es. Sekarang kita bikin pabrik es di tiap kampung nelayan. Kita juga akan bantu kapal-kapal untuk mereka. Saudara-saudara sekalian, kita juga mengatur, saya juga telah tanda tangan Peraturan Presiden Nomor 27 Tahun 2026 tentang perlindungan pekerja transportasi online yang tadi yang tadi saya bicara harus diberi Jaminan kecelakaan kerja akan diberi akan diberikan BPJS kesehatan, asuransi kesehatan juga tadi pembagian pendapatan dari 80% untuk pengemudi sekarang menjadi minimal 92 % untuk pengemudi."
+  },
+  {
+   "t": 1954.76,
+   "d": 69.84,
+   "text": "Kita juga telah menaikkan upah minimum. Kita tambah rumah bersubsidi untuk buruh. Kita beri bonus hari raya untuk pengemudi dan kurir. Kita melunasi, kita memperluas kesempatan kerja untuk pekerja disabilitas. Kita memberi 50% diskon iuran jaminan kecelakaan kerja dan jaminan kematian bagi pekerja bukan penerima upah."
+  },
+  {
+   "t": 1989.56,
+   "d": 57.04,
+   "text": "Saudara-saudara sekalian, saya juga telah memberi instruksi kepada Menteri Tenaga Kerja dan Menteri Hukum untuk segera nanti bersama DPR RI selesaikan rancangan Undang-Undang Ketenagakerjaan. Kalau bisa tahun ini juga harus selesai dan tenaga undang-undang itu harus berpihak kepada kaum buruh."
+  },
+  {
+   "t": 2024.04,
+   "d": 81.04,
+   "text": "Saudara-saudara sekalian, kita berharap undang-undang kita selalu akan menjamin keadilan untuk seluruh rakyat Indonesia. Saudara-saudara, kita juga memberi perlindungan sosial yang sangat besar. Tahun ini kita memberi perlindungan untuk rakyat yang berpenghasilan rendah ya, sebesar 500 triliun."
+  },
+  {
+   "t": 2067.56,
+   "d": 64.18,
+   "text": "Saudara-saudara, kita juga memberi MBG, makan bergizi gratis. Saya bertanya kepada Saudara-saudara, MBG bermanfaat atau tidak? MBG itu sangat penting untuk anak-anak kita. [bersorak] Saudara-saudara sekalian, anak-anak kita banyak yang mengalami kurang gizi, badannya kecil."
+  },
+  {
+   "t": 2123.28,
+   "d": 73.16,
+   "text": "selnya tidak berkembang ya dengan MBG ekonomi kita hidup di mana-mana, Saudara-saudara sekalian ya. Rakyat butuh telur, rakyat butuh daging, rakyat butuh sayur, susu, ikan ekonomi kita hidup. Petani-petani kita dapat penghasilan, Saudara-saudara sekalian. Uang ini semua beredar. Indonesia tambah kuat, Indonesia tambah sejahtera."
+  },
+  {
+   "t": 2163.6,
+   "d": 62.12,
+   "text": "Saudara-saudara sekalian, kita juga saya perintahkan tadi sudah saya umumkan kita akan membangun 1 juta rumah dan kita akan berjuang segera kita bangun 1 juta rumah ini. Ini juga nanti akan menghasilkan pekerjaan yang banyak. Bayangkan satu rumah membutuhkan lima orang bekerja."
+  },
+  {
+   "t": 2193.88,
+   "d": 55.52,
+   "text": "Berarti tiap tahun mungkin kita bisa menciptakan jutaan lapangan kerja. Saudara-saudara sekalian, saya kira cukup sekian dari saya. Selamat berjuang. Selamat bekerja. Hidup buruh, [berteriak] hidup rakyat. Hidup. Wasalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah wabarakatuh."
+  },
+  {
+   "t": 2231.0,
+   "d": 63.16,
+   "text": "Salam sejahtera bagi kita sekalian. Shalom. Salve om. Santi. Santi. Santi. Om. Namo buddhaya. Salam kebajikan. Rahayu. Rahayu. Merdeka. [berteriak] Merdeka. Hidup buruh. Hidup hidup buru hidup. Terima kasih. Terima kasih. Bangunlah kaum yang teringat. Bangunlah kaum [bernyanyi] yang [musik] lapar."
+  },
+  {
+   "t": 2272.64,
+   "d": 108.71,
+   "text": "Kemendang yang mulia dalam dunia senantiasa [musik] bertambah besar. [bernyanyi] Lenyapkan [musik] bahan tuan kita raya yang senang-segar dunia [musik] sudah berganti rupa untuk kemenangan [musik][bernyanyi] kita. Perjuangan penghabisan tunggulah [bernyanyi][musik] melawan [musik] hidup hidup Indonesia hidup Indonesia hidup Indonesia [musik] [bernyanyi] melawan dan [musik] internasional [bernyanyi] [musik] dunia."
+  },
+  {
+   "t": 2349.36,
+   "d": 144.03,
+   "text": "Bangunlah [musik] kaum yang terina. Bangunlah kaum yang lapar. Kehendak [musik][bernyanyi] yang mulia dalam dunia senantiasa bertambah besar [musik] [bernyanyi] adatkan paham Tuhan kita raya [musik] saara dunia [musik][bernyanyi] sudah berganti rupa untuk kemenangan kita perjuangan [musik] penghabisan kumpulan melawan dan [musik] [bernyanyi] internasional pasti di dunia perjuangan [musik] [bernyanyi] kehadiran kumpulan [musik] melawan dan [musik] internasional [bernyanyi] di dunia baik Terima kasih kepada Presiden Republik Indonesia Bapak Prabowo Subianto."
+  },
+  {
+   "t": 2458.24,
+   "d": 77.93,
+   "text": "[musik] Hei hok hok ya. Hidup burung. [musik] [musik] Mangane rasane [musik][bernyanyi] koy mangan laus. Senajan [musik] sanane [bernyanyi] sing penting rowe. [musik][bernyanyi] Tepuk tangan buat Pako. Kembang tahu rasane koy [musik][bernyanyi] ngombe susu. Ra usah mecucu tresno guru [bernyanyi] kowe [musik] ra bakal tak madu."
+  },
+  {
+   "t": 2516.64,
+   "d": 109.48,
+   "text": "Bunga [bernyanyi] tenan rasane [musik] wong kang lagi gandrung tak [musik][bernyanyi] berjuangke tekan janur welengku semua tunjuk Pak Prabowo tunjuk Pak Prabowo [musik][bernyanyi] kowe siji siijine aku banggah [bernyanyi] karo kowe gelem [musik] op [bernyanyi] ane tresno [musik] bakal letri kowe sumel [musik] tresno bakalil ibarat [bernyanyi] koy kutoku Jogj pak prabowo tepuk tangan [musik] lagi Oi oi oi oi oi."
+  },
+  {
+   "t": 2578.84,
+   "d": 214.47,
+   "text": "Hidupo mama [musik] rasane loyo mangan lawusi. [bernyanyi] Senajan [musik] sing penting r kowe ngombe kembang [musik][bernyanyi] tahu rasane koy ngombe susu. Ra usah metuju [musik] tresno buruh kowe [bernyanyi] ra bakal tak madu. [musik] Bungah [bernyanyi] tenan rasane wong kang lagi dan tak perjuangkean [musik][bernyanyi] janur melengkung [musik] semua tunjuk Pak Prabowo tunjuk bareng kowe [musik][bernyanyi] siji sijine aku bangga [musik][bernyanyi] karo kowe gelem opo [musik][bernyanyi] anane tresn bakal kowe [musik][bernyanyi] sumelang tresno bakal ibarat [musik] koy kutoku Jogja Pak Prabowo istimewa [musik] tunjuk Pak Prabowo lagi kowe siji aku bangga karo kowe gelem nomane [musik][bernyanyi] tresno bakal mlitri [musik][bernyanyi] kowe ojo sumelang tresnaku bakal [musik][bernyanyi] ilang ibarat koy kutoku Jogja Pak Prabowo istimewa [musik] ibarat koyaku Aku Jogja [bernyanyi] Pak Prabowo"
+  },
+  {
+   "t": 2704.68,
+   "d": 21.08,
+   "text": "istimewa Jogja istimewa ye heoro dulu dong"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "rKpNQwecniM",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/rKpNQwecniM.json"
+ }
+}

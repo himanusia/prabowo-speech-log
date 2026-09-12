@@ -1,0 +1,513 @@
+{
+ "id": "2026-09-09---di-peringatan-hut-25-partai-demokrat",
+ "video_id": "8hj3tR4gCTc",
+ "date": "2026-09-09",
+ "title": "🔴BREAKING NEWS - PIDATO PRESIDEN PRABOWO DI PERINGATAN HUT 25 PARTAI DEMOKRAT (09/09)",
+ "channel": "Seputar iNews RCTI",
+ "youtube_url": "https://www.youtube.com/watch?v=8hj3tR4gCTc",
+ "duration_s": 3160,
+ "duration_hms": "52:40",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 380,
+ "token_count": 3310,
+ "unique_word_count": 1011,
+ "duplicate_count": 5,
+ "uploads": [
+  {
+   "video_id": "8hj3tR4gCTc",
+   "url": "https://www.youtube.com/watch?v=8hj3tR4gCTc",
+   "title": "🔴BREAKING NEWS - PIDATO PRESIDEN PRABOWO DI PERINGATAN HUT 25 PARTAI DEMOKRAT (09/09)",
+   "channel": "Seputar iNews RCTI",
+   "upload_date": "2026-09-09",
+   "duration_s": 3160,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 3310,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 380,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "7OFTHsA1c74",
+   "url": "https://www.youtube.com/watch?v=7OFTHsA1c74",
+   "title": "LIVE: Pidato Prabowo di 25 Tahun Partai Demokrat",
+   "channel": "CNN Indonesia",
+   "upload_date": "2026-09-09",
+   "duration_s": 485,
+   "source_tier": "full_media",
+   "fetch_method": "transcript_panel",
+   "token_count": 375,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 62,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "BYJsAQ79gdg",
+   "url": "https://www.youtube.com/watch?v=BYJsAQ79gdg",
+   "title": "Pidato Lengkap Presiden Prabowo di HUT ke 25 Partai Demokrat",
+   "channel": "KOMPASTV MADIUN",
+   "upload_date": "2026-09-09",
+   "duration_s": 3210,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 3238,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 899,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "_Ypg-m8B78s",
+   "url": "https://www.youtube.com/watch?v=_Ypg-m8B78s",
+   "title": "BREAKING NEWS - Pidato Presiden Prabowo di HUT ke-25 Partai Demokrat",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-09-09",
+   "duration_s": 3210,
+   "source_tier": "media",
+   "fetch_method": "caption_api",
+   "token_count": 3237,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 906,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "DeIrya-WlpE",
+   "url": "https://www.youtube.com/watch?v=DeIrya-WlpE",
+   "title": "Pidato Terbaru Prabowo: \"Kita Harus Selalu Dengarkan Aspirasi Rakyat!\"",
+   "channel": "Tribun Sumsel",
+   "upload_date": "2026-09-10",
+   "duration_s": 772,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 660,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 99,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "O_BigY_r0Do",
+   "url": "https://www.youtube.com/watch?v=O_BigY_r0Do",
+   "title": "Pecah Tawa! Presiden Prabowo Ungkap Diingatkan Pidato Pakai Teks: Kalau Salah Minta Maaf",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-09-10",
+   "duration_s": 408,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 335,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 50,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 14,
+  "pendidikan": 6,
+  "kesehatan_dan_gizi": 11,
+  "tata_kelola": 4,
+  "pertahanan_dan_keamanan": 5,
+  "nasional_dan_identitas": 105,
+  "mbg": 1
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 1,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 1,
+  "present": true,
+  "evidence": [
+   {
+    "start": 896.0,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 6.0,
+   "d": 50.0,
+   "text": "Demokrat [bersorak] Demokrat Demokrataya. [bersorak] Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullahi wabarakatuh. Salam sejahtera untuk kita semua. Shalom. Om swastiastu. Namo buddhaya. Salam kebajikan. Yang saya hormati dan saya muliakan Presiden Republik Indonesia Bapak Prabowo Subianto."
+  },
+  {
+   "t": 56.0,
+   "d": 36.0,
+   "text": "[bersorak] Atas nama keluarga besar Partai Demokrat, saya menyampaikan terima kasih dan penghargaan setinggi-tingginya kepada Bapak Presiden Prabowo Subianto yang malam hari ini berkenan hadir bersama kami di tengah-tengah kesibukan Bapak memimpin negeri yang kita cintai ini. Sekali lagi berikan tepuk tangan yang sekeras-kerasnya."
+  },
+  {
+   "t": 92.0,
+   "d": 31.0,
+   "text": "sekaligus kita mendoakan semoga beliau senantiasa diberkahi usia panjang dalam kesehatan. Amin. Dalam kekuatan. Amin. Dalam kesuksesan. Amin. Dalam memimpin bangsa yang besar ini. Terima kasih Bapak Presiden yang sama-sama kita cintai dan muliakan. Presiden Republik Indonesia yang keenam, penggagas dan pendiri Partai Demokrat."
+  },
+  {
+   "t": 123.0,
+   "d": 63.0,
+   "text": "Berikan tepuk tangan kepada Bapak Susilo Bambang Yudoyono. [bersorak] Terima kasih, Pak SBY senantiasa membersamai kita semua. Yang juga saya hormati dan muliakan Wakil Presiden Republik Indonesia Bapak Gibran Rakabuming. Yang saya hormati dan muliakan para pimpinan lembaga tinggi negara, Ketua Majelis Permusyawaratan Rakyat Republik Indonesia, Bapak Ahmad Muzani, Ketua Dewan Perwakilan Rakyat Republik Indonesia, Ibu Puan Maharani."
+  },
+  {
+   "t": 186.0,
+   "d": 43.0,
+   "text": "[bersorak] Ketua Dewan Perwakilan Daerah Republik Indonesia, Bapak Sultan Bakhtiar Najudin. Yang saya hormati para ketua umum dan sekretaris jenderal Partai Politik Sahabat. atau yang mewakili. Tentu Ketua Umum Partai Gerindra Bapak Prabowo Subianto yang mewakili Ketua Umum PDIP Ibu Puan Maharani. Terima kasih."
+  },
+  {
+   "t": 229.0,
+   "d": 98.0,
+   "text": "[bersorak] Mohon sampaikan salam hormat kami untuk Ibu Megawati Soekarno Putri, Presiden Republik Indonesia. yang kelima Ketua Harian Partai Gerindra Bapak Sumi Dasko, Ketua Umum Partai Kebangkitan Bangsa yang diwakili Sekretaris Jenderal Bapak Hasanuddin Wahid, Ketua Umum Partai Golkar yang diwakili Ibu Mutia Hafid, Ketua Umum Partai Amanat Nasional yang diwakili oleh Sekjen Bapak Eko Patrio, [bersorak] Ketua Umum Nasdem yang diwakili Bapak Sulaiman Hamzah, Ketua Umum Partai Keadilan Sejahtera diwakili oleh Sekjen Bapak Muhammad Kholid."
+  },
+  {
+   "t": 327.0,
+   "d": 39.0,
+   "text": "Ketua Umum Partai Persatuan Pembangunan P3 Bapak Muhammad Mardiono, Ketua Umum Partai Solidaritas Indonesia, PSI yang diwakili oleh Ibu Grace Natali Partai saya ulangi Ketua Umum Perindo diwakili Bapak Bapak Feri Kurnia, Ketua Umum Partai Gelombang Rakyat Gelora, Bapak Anis Mata."
+  },
+  {
+   "t": 366.0,
+   "d": 41.0,
+   "text": "Ketua Umum Partai Buruh Bapak Said Iqbal atau yang mewakili. Ketua Umum Partai Umat Bapak Rido Rahmadi. Ketua Umum Partai Garuda diwakili Bapak Sekjen Ihsan Jauhari dan Ketua Umum Prima Bapak Agus Jabo Priono. Terima kasih. Yang juga saya hormati dan banggakan para kolega menteri dan wakil menteri kabinet merah putih."
+  },
+  {
+   "t": 407.0,
+   "d": 40.0,
+   "text": "Telah hadir para sahabat. Pertama Menteri Sekretaris Negara Bapak Prasetyo Hadi, Menteri Luar Negeri Bapak Sugiono. Terima kasih. Kemudian ada tiga menteri dari Partai Demokrat, Bapak Presiden kami laporkan. Menteri Ekonomi Kreatif Bapak Teku Rifki Harsyah, [bersorak] [tepuk tangan] Menteri Transmigrasi Bapak Muhammad Ift Sulaiman, [bersorak] dan Menteri Pekerjaan Umum Bapak Dodi Hanggodo."
+  },
+  {
+   "t": 447.0,
+   "d": 69.0,
+   "text": "[bersorak] Sekretaris Kabinet Bapak Tedi Indrawijaya. [bersorak] dan [bersorak] para wakil menteri yang hadir, Wakil Menteri Agraria dan Tata Ruang Bapak Osi Darmawan, juga dari Demokrat, Wakil Menteri Ketenagakerjaan, Bapak Syahn, juga dari Demokrat, Wakil Menteri Investasi dan hilirisasi Bapak Toda Pasar Wakil Menteri Transmigrasi Bapak Vifa Yoga Mauladi Wakil Menteri Kependudukan dan Pembangunan Keluarga Ibu Isyana Bagus Oka, Gubernur Lemhanas Bapak Tubagus Aceh Hasan Syadili dan last but not least Gubernur Provinsi DKI Jakarta Bapak Pramono Anung."
+  },
+  {
+   "t": 516.0,
+   "d": 31.0,
+   "text": "[bersorak] Terima kasih, Pak Gubernur. Yang saya cintai dan hormati para senior, para anggota legislatif baik DPR RI maupun DPRD Provinsi dan kabupaten kota, para kepala daerah, serta segenap pengurus Dewan Pimpinan Pusat Partai Demokrat, para Ketua DPD, dan ketua DPC dari seluruh provinsi dan kabupaten kota se-Indonesia."
+  },
+  {
+   "t": 547.0,
+   "d": 33.0,
+   "text": "Dan yang saya banggakan seluruh kader Demokrat yang malam hari ini hadir di Indonesia Arena maupun di mana pun saudara berada. Bapak, Ibu hadirin sekalian yang berbahagia. Kehadiran Bapak Presiden Prabowo Subianto dan para tamu kehormatan lainnya sungguh merupakan kebahagiaan dan kebanggaan bagi seluruh keluarga besar Partai Demokrat."
+  },
+  {
+   "t": 580.0,
+   "d": 26.0,
+   "text": "Namun di tengah rasa syukur malam hari ini, hati dan perhatian kita tentu juga tertuju kepada saudara-saudara kita yang sedang menghadapi bencana dan musibah di sejumlah daerah. Kita mendoakan agar masyarakat yang terdampak senantiasa diberikan keselamatan, kekuatan, dan ketabahan."
+  },
+  {
+   "t": 606.0,
+   "d": 35.0,
+   "text": "Am dan kepada seluruh kader Demokrat yang telah turun langsung membantu masyarakat, teruslah hadir, ringankan beban mereka. Karena dalam keadaan seperti inilah rasa kemanusiaan dan kebersamaan benar-benar terasa. Hadirin yang saya hormati, hari ini 9 September 2026, Partai Demokrat genap berusia 25 tahun."
+  },
+  {
+   "t": 641.0,
+   "d": 34.0,
+   "text": "[bersorak] Seperat abad Demokrat pernah menang, Demokrat juga pernah kalah. Demokrat pernah berada di pemerintahan. Demokrat juga pernah berada di luar pemerintahan. Ada masa-masa yang membanggakan, ada pula masa-masa yang menguji keteguhan kita semua. Semua perjalanan itu mengajarkan kepada kami bahwa politik bukan sekedar tentang kompetisi dan kekuasaan."
+  },
+  {
+   "t": 675.0,
+   "d": 27.0,
+   "text": "Politik adalah tentang bagaimana kepercayaan rakyat dijawab dengan kerja dan pengabdian. [bersorak] 4 hari yang lalu, Bapak Presiden, sebagai bagian dari refleksi dan kontemplasi di hari ulang tahun Partai, saya menyampaikan pidato politik. Maksudnya sederhana. Kami ingin menyemangati kader."
+  },
+  {
+   "t": 702.0,
+   "d": 27.0,
+   "text": "Kami ingin meneguhkan kembali nilai-nilai dan jati diri perjuangan Demokrat serta memastikan seluruh kader memahami tanggung jawab kita hari ini sebagai bagian dari pemerintahan. Pada kesempatan yang baik ini, izinkan saya mempertegas isi dari pidato politik tersebut. Karena saya khawatir ada yang salah tafsir."
+  },
+  {
+   "t": 729.0,
+   "d": 52.0,
+   "text": "[bersorak] Posisi demokrat jelas. Posisi Demokrat jelas. Kami ingin pemerintahan Presiden Prabowo Subianto berhasil. Tidak ada hal lain selain kesuksesan dan keberhasilan pemerintahan ini. Karena ketika pemerintahan berhasil meningkatkan kesejahteraan rakyat, menciptakan lapangan pekerjaan, menjaga stabilitas, memperkuat ekonomi, dan membawa Indonesia semakin maju ke depan, yang berhasil bukan hanya presiden, bukan hanya kabinet, bukan hanya partai-partai yang berada dalam pemerintahan, tetapi yang berhasil adalah kita semua, yang berhasil adalah Indonesia."
+  },
+  {
+   "t": 781.0,
+   "d": 28.0,
+   "text": "[bersorak] Hadirin yang saya hormati, tema perjuangan Demokrat pada usia 25 tahun ini adalah Demokrat bersama rakyat, memajukan ekonomi, menegakkan keadilan, dan menjaga demokrasi. Tiga agenda ini ingin terus kami perjuangkan termasuk dari dalam pemerintahan Presiden Prabowo Subianto."
+  },
+  {
+   "t": 809.0,
+   "d": 23.0,
+   "text": "Pertama, memajukan ekonomi. Kami mendukung semangat besar Bapak Presiden Prabowo untuk memperkuat kemandirian bangsa, ketahanan pangan, energi dan air, industrialisasi dan hilirisasi, pembangunan infrastruktur, peningkatan sumber daya manusia, serta pemerataan kesejahteraan."
+  },
+  {
+   "t": 832.0,
+   "d": 24.0,
+   "text": "Bagi Demokrat, ukuran akhirnya harus sederhana. Pertumbuhan harus menciptakan pekerjaan. Investasi harus meningkatkan penghasilan. Infrastruktur harus meningkatkan produktivitas. UMKM harus berkembang dan kemajuan ekonomi harus semakin dirasakan oleh keluarga-keluarga Indonesia."
+  },
+  {
+   "t": 856.0,
+   "d": 57.0,
+   "text": "Sebagai bagian dari pemerintahan, Demokrat tidak ingin hanya berdiri di pinggir lapangan. Kami ingin menjadi bagian dari solusi. Kami tidak hanya ingin menunjuk masalah, tetapi kami ingin turut bekerja menyelesaikannya. [bersorak][tepuk tangan] Karena itu, kami juga terus mengawal dan ingin turut memastikan berbagai program pemerintah untuk menjawab kebutuhan rakyat, khususnya membantu menurunkan kemiskinan dan ketimpangan. di antaranya program pembangunan jalan daerah, jembatan, jaringan irigasi dan sanitasi masyarakat, makan bergizi gratis, Kampung Nelayan Merah Putih Koperasi Desa dan Kelurahan Merah Putih serta program Rumah Layak huni yang terjangkau."
+  },
+  {
+   "t": 913.0,
+   "d": 34.0,
+   "text": "Selain itu, setiap anak harus memiliki kesempatan untuk memperoleh pendidikan yang baik. Karena itu kami mendukung program sekolah rakyat serta revitalisasi sekolah, pondok pesantren dan madrasah, digitalisasi pendidikan. Dan pesan kuatnya adalah keadaan ekonomi keluarga tidak boleh membatasi masa depan seorang anak di manaun ia berada."
+  },
+  {
+   "t": 947.0,
+   "d": 45.0,
+   "text": "Yang kedua, menegakkan keadilan. Indonesia yang maju harus sekaligus menjadi Indonesia yang adil. Adil berarti setiap daerah dan warga negara memiliki kesempatan untuk maju dan berkembang. Adil tentunya juga berarti setiap warga negara memperoleh perlakuan yang sama di mata hukum. Kami juga mendukung penuh tekad Bapak Presiden Prabowo dalam pemberantasan korupsi serta menutup kebocoran kekayaan negara dan memastikan kekayaan Indonesia benar-benar dipergunakan sebesar-besarnya untuk kemakmuran rakyat."
+  },
+  {
+   "t": 992.0,
+   "d": 31.0,
+   "text": "[bersorak] Karena semakin baik tata kelola pemerintahan maka semakin kuat pula kepercayaan rakyat kepada negara. Yang ketiga, menjaga demokrasi. Demokrasi bukan hanya tentang pemilu, demokrasi juga tentang bagaimana kita menghormati perbedaan, menjaga persaudaraan, dan tetap maju, saya ulangi, tetap mampu bekerja bersama setelah kompetisi berakhir."
+  },
+  {
+   "t": 1023.0,
+   "d": 27.0,
+   "text": "Malam ini begitu banyak sahabat, pimpinan, partai-partai politik yang juga telah hadir di tengah-tengah kita. Tentu kita punya warna masing-masing. Ada warna merah, ada warna hijau, ada warna kuning, ada juga warna biru, oran putih. Birunya pun ada yang muda, ada yang tua."
+  },
+  {
+   "t": 1050.0,
+   "d": 28.0,
+   "text": "Dan saya kira Bapak Presiden adalah orang yang sangat ahli untuk membuat semua warna itu untuk bisa duduk bersama. [bersorak] Tetapi justru itulah indahnya Indonesia. Kita boleh berbeda warna, kita boleh berkompetisi. Tetapi ketika menyangkut kepentingan bangsa dan negara, yang harus kita lihat hanya ada satu warna, yaitu merah putih."
+  },
+  {
+   "t": 1078.0,
+   "d": 23.0,
+   "text": "[bersorak] Politik boleh kompetitif, tetapi jangan kehilangan persahabatan. Demokrasi boleh dinamis, tetapi jangan kehilangan rasa saling menghormati. Dan kami percaya pemerintahan akan semakin kuat apabila mendapatkan dukungan rakyat, menjaga dialog, dan terus mendengarkan aspirasi masyarakat."
+  },
+  {
+   "t": 1101.0,
+   "d": 49.0,
+   "text": "Bapak Presiden yang kami muliakan, kami juga mendukung penuh gerakan Indonesia asri. Indonesia yang aman, sehat, resik, dan indah. Bukan sekedar persoalan kebersihan. Ini menyangkut kualitas hidup, daya saing daerah, dan pariwisata. Ini menyangkut peradaban dan masa depan kita sebagai bangsa. Demokrat pun telah ikut bergerak melalui gerakan langit biru Indonesia asri dan gerakan Ayo Muliakan Sungai. Kalau tujuannya baik untuk rakyat, baik untuk Indonesia, dan baik untuk bumi dan lingkungan kita, maka kami tidak hanya ingin ikut bertepuk tangan. Kami ingin ikut bekerja dan mengambil bagian."
+  },
+  {
+   "t": 1150.0,
+   "d": 27.0,
+   "text": "Saudara-saudara, malam hari ini tentunya tidak mudah bagi saya karena tadi saya berdiri di antara dua Presiden Republik Indonesia dan kebetulan di antara dua jenderal. Yang pertama Pak Prabowo dan tentunya yang kedua adalah Pak SBY. Pak Prabowo adalah presiden dan atasan saya."
+  },
+  {
+   "t": 1177.0,
+   "d": 32.0,
+   "text": "Pak SBY adalah mantan presiden dan mentor saya. Jadi terus terang, terus terang sebagai anak buah Presiden Prabowo dan sebagai anak didik dari Pak SBY, malam hari ini saya harus lebih hati-hati dalam menyampaikan sambutan ini. Harus sesuai teks. Karena salah sedikit resikonya datang dari dua arah, dari dua senior."
+  },
+  {
+   "t": 1209.0,
+   "d": 39.0,
+   "text": "Namun ada satu hal yang tidak perlu saya baca secara verbatim dari teks karena datang dari keyakinan saya sendiri. Dalam kehidupan militer kita mengenal satu nilai bahwa dalam sebuah misi kita harus tahu persis siapa yang berdiri teguh di samping kita. Terutama ketika terjadi sesuatu keadaan apapun dalam suka maupun duk kita harus tahu bahwa orang itu tetap dapat diandalkan."
+  },
+  {
+   "t": 1248.0,
+   "d": 33.0,
+   "text": "Karena karena itu izinkan Bapak Presiden saya menyampaikan dengan tulus bahwa Bapak Presiden dapat mengandalkan Partai Demokrat. Kami akan bekerja dengan loyalitas. Kami akan menjalankan amanah dengan penuh tanggung jawab. Dan kami akan terus memberikan yang terbaik untuk membantu pemerintahan ini berhasil."
+  },
+  {
+   "t": 1281.0,
+   "d": 56.0,
+   "text": "Bagi kami tidak ada pertentangan antara loyal kepada pemerintahan dan setia kepada rakyat. Justru karena kami ingin pemerintahan ini berhasil, kami harus terus mendengar suara rakyat dan ikut mencari jalan keluarnya. Itulah politik yang bertanggung jawab. Seperti yang sering Bapak Presiden ingatkan, kita tidak boleh takut kepada kenyataan, tetapi kita harus berani memperbaiki kenyataan. Ini yang juga kami pedomani dan kami jalankan. Hadirin sekalian, akhirnya di momen yang spesial ini mewakili segenap keluarga besar Partai Demokrat, saya ingin mengucapkan selamat ulang tahun ke-77 kepada Bapak SBY."
+  },
+  {
+   "t": 1337.0,
+   "d": 32.0,
+   "text": "Semoga panjang umur dalam kesehatan, dalam kekuatan, dalam kebahagiaan dan keberkahan. Terima kasih atas pondasi keteladanan dan pengabdian yang telah diberikan kepada partai ini, kepada demokrasi dan kepada Indonesia. Kepada para senior Partai Demokrat dan seluruh kader Demokrat di mana pun berada. Terima kasih telah menjaga rumah besar ini selama 25 tahun."
+  },
+  {
+   "t": 1369.0,
+   "d": 29.0,
+   "text": "Tetapi 25 tahun bukanlah garis akhir. This is not the finish line. This is the beginning of our new chapter. 25 tahun pertama adalah masa lalu. Sedangkan 25 tahun berikutnya adalah tanggung jawab besar kita semuanya. Kepada generasi muda Partai Demokrat. Jangan hanya menjadi pewaris sejarah."
+  },
+  {
+   "t": 1398.0,
+   "d": 29.0,
+   "text": "Jadilah pembuat sejarah berikutnya. Dan kepada seluruh kader Demokrat, tetaplah rendah hati. Teruslah bekerja, teruslah hadir bersama rakyat. Karena Demokrat tidak boleh hanya menjadi partai yang kuat di parlemen atau di pemerintahan. Demokrat harus menjadi kekuatan yang berarti dalam kehidupan rakyat. Terima kasih. Selamat hari ulang tahun ke-25 Partai Demokrat. Dirgahayu Partai Demokrat."
+  },
+  {
+   "t": 1427.0,
+   "d": 20.0,
+   "text": "Demokrat bersama rakyat untuk Indonesia yang semakin maju, adil, demokratis dan sejahtera untuk semua. Semoga Allah Subhanahu wa taala Tuhan yang maha kuasa senantiasa membimbing langkah kita dan pengabdian kita kepada masyarakat, bangsa, dan negara. Terima kasih."
+  },
+  {
+   "t": 1447.0,
+   "d": 64.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Demokrat Demokrat [bersorak] Demokrat. [bersorak] Sekali lagi kita berikan tepuk tangan yang paling meriah untuk Ketua Umum Partai Demokrat Bapak Agus Harimurti Yudoyono. Hadirin yang kami hormati, seperempat abad adalah rentang waktu yang panjang dalam perjalanan sebuah partai politik. Betul sekali. 25 tahun telah diisi dengan berbagai dinamika, tantangan, dan juga pengabdian serta menjadi bagian dari perjalanan demokrasi Indonesia."
+  },
+  {
+   "t": 1511.0,
+   "d": 22.0,
+   "text": "Dan tentunya di setiap perjalanan tersebut memiliki tanggung jawab untuk terus menjaga nilai-nilai yang menjadi landasannya, sekaligus membaca perubahan zaman dan menjawab harapan masyarakat. Nah, oleh karena itulah perjalanan 25 tahun bukan hanya tentang melihat ke masa lalu, tetapi juga tentang meneguhkan arah untuk masa yang akan datang."
+  },
+  {
+   "t": 1533.0,
+   "d": 48.0,
+   "text": "Hadirin yang kami hormati, malam hari ini kita juga akan menyaksikan sebuah prosesi yang menjadi bagian penting dari peringatan hari ulang tahun ke-25 Partai Demokrat Nyala obor Perjuangan. Baik, Bapak, Ibu, serta hadirin yang kami hormati. Untuk itu selanjutnya marilah kita bersama simak sambutan Presiden Republik Indonesia Bapak Prabowo Subianto dilanjutkan dengan puncak peringatan hari ulang tahun ke-25 Partai Demokrat."
+  },
+  {
+   "t": 1581.0,
+   "d": 50.0,
+   "text": "[musik] Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullahi wabarakatuh. Selamat malam. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Yang ee saya hormati dan saya muliakan dan saya muliakan Presiden keenam Republik Indonesia yang sekaligus Ketua Majelis Tinggi Partai Demokrat Jenderal TNI Pnawirawan."
+  },
+  {
+   "t": 1631.0,
+   "d": 44.0,
+   "text": "Prof. Dr. H. Bambango. Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakaboming Raka, Ketua Umum Partai Demokrat, Saudara Agus Hariurti Yudoyono, beserta para pimpinan Partai Demokrat dari pusat sampai ke daerah dan kader-kader Partai Grindra yang saya cintai."
+  },
+  {
+   "t": 1675.0,
+   "d": 67.0,
+   "text": "Para pimpinan lembaga negara, Ketua Majelis Perwatan Rakyat Republik Indonesia, Saudara Ahmad Muzani, Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani, Ketua Dewan Perwakilan Daerah Republik Indonesia, [bersorak] Saudara Sultan Bakhtiar Najudin, para Ketua Umum Partai Politik atau yang mewakilinya yang saya kira tidak perlu saya sebut lagi karena sudah disebut tadi. tanpa mengurangi rasa hormat. [bersorak] [tepuk tangan] Saya kira rakyat menghendaki yang ringkas dan efisien. Begitu ya. Setuju?"
+  },
+  {
+   "t": 1742.0,
+   "d": 49.5,
+   "text": "[bersorak] para menteri, koordinator, para menteri, para wakil menteri, serta seluruh anggota kabinet merah putih yang hadir yang tidak saya sebut namanya satu persatu tanpa mengurangi rasa hormat. Setuju? [bersorak] [tepuk tangan] Karena yang berkuasa rakyat, jadi kita [bersorak] [tepuk tangan] [bersorak] selalu harus mendengarkan aspirasi rakyat."
+  },
+  {
+   "t": 1791.0,
+   "d": 35.0,
+   "text": "[bersorak] Saudara-saudara sekalian, tentunya sebagai insan yang bertakwa kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Besar, Tuhan Maha Kuasa bagi umat Islam Allah Subhanahu wa taala yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita meminta pertolongan."
+  },
+  {
+   "t": 1826.0,
+   "d": 34.0,
+   "text": "Kita bersyukur atas segala karunia, berkah, kebaikan, kedamaian yang diberikan kepada kita sekalian. juga atas kesehatan dan nafas yang masih diberikan kepada kita sehingga kita dapat berkumpul di tempat yang baik ini pada acara puncak peringatan hari ulang tahun ke-25 Partai Demokrat."
+  },
+  {
+   "t": 1860.0,
+   "d": 46.0,
+   "text": "Saya ingin menyampaikan terima kasih saya atas kehormatan yang diberikan kepada saya dapat hadir di sini di tengah-tengah Partai Demokrat yang merayakan ulang tahun yang ke-25 dan sekaligus ulang tahun ke-77. Penggagas pendiri Partai Demokrat, Presiden Republik Indonesia yang keenam, Jenderal TNI Pabwirawan Prof. Dr. H. Sosiolog Bamang Yuno."
+  },
+  {
+   "t": 1906.0,
+   "d": 94.0,
+   "text": "Saya satu angkatan dengan Pak SBY di Akademi Militer masuknya satu angkatan, keluarnya angkatan di bawahnya. Memang dari awal sudah kelihatan Bapak-bapak SBY memang taruna yang terbaik. Tapi Prabowo [berdehem] Syanto taruna yang bisa diperbaiki. Saudara-saudara sekalian, memang saya selalu diingatkan oleh staf saya, Pak. Pakai teks, Pak. Jangan sampai keluar dari saya."
+  },
+  {
+   "t": 2000.0,
+   "d": 76.0,
+   "text": "Dan ini teks teksnya bagus sekali dan saya disiapkan paparan Presiden Prabowo Subianto. Oh paparannya baik sekali. grafiknya banyak sekali, tapi saya kira esensinya saya rangkum, saya ringkas dan saya sampaikan mudah-mudahan saya tidak salah bicara. Tapi sebetulnya kalau manusia kalau bikin kesalahan ya kita minta maaf saja ya."
+  },
+  {
+   "t": 2076.0,
+   "d": 54.0,
+   "text": "Jadi ee saudara-saudara sekalian, hari ini kehormatan besar bagi saya. Yang kedua, tadi pidato ketua umum saudara luar biasa. sangat baik, sangat lengkap dan Anda tahu ya kalau saya kan ini enggak pakai teks. Jadi saya bicara dari hati saya. pidato beliau e sistematis dan ee pidato beliau tegas."
+  },
+  {
+   "t": 2130.0,
+   "d": 67.0,
+   "text": "Memang ee kemarin itu ada kalangan yang menilai pidato Pak AY beapa hari yang lalu katanya adalah kritik tajam. Tapi saudara-saudara, memang bangsa yang besar yang sudah memilih jalan demokrasi harus berterima kasih atas kritik dan koreksi. Tapi yang jelas beliau tegas menyampaikan itikad beliau dan itikat Partai Demokrat yaitu bersama-sama kita bekerja untuk rakyat."
+  },
+  {
+   "t": 2197.0,
+   "d": 71.0,
+   "text": "Saya sangat senang dengan tema yang dipilih Partai Demokrat memajukan ekonomi rakyat, menegakkan keadilan, menjaga demokrasi, tetap hidup. Inilah yang kita harus perjuangkan dan inilah tanggung jawab kita semua, Saudara-saudara sekalian. Jadi saya terima kasih atas dukungan Partai Demokrat ee 2019-2024 sampai Presiden SBY pun turun turun ke lapangan turun bersama-sama berkampanye karena kita memang punya cita-cita dan prinsip yang sama."
+  },
+  {
+   "t": 2268.0,
+   "d": 35.0,
+   "text": "Saudara-saudara, Bapak SBY pernah jadi jenderal, saya juga pernah. Tapi kita TNI yang diajarkan, yang dibesarkan, yang dibina sebagai tentara rakyat. Kita dididik dari kecil sebagai tentara rakyat. yang berjuang untuk rakyat. Jadi kita justru menghayati bahwa tentara itu adalah milik rakyat."
+  },
+  {
+   "t": 2303.0,
+   "d": 60.0,
+   "text": "Dan kalau kita ingin terus berbakti mengabdi di bidang politik, kita harus menjalankan politik itu melalui demokrasi. Saya kira Pak SBY memberi contoh pensiun keluar dari tentara bikin partai maju ke hadapan rakyat mendapat mandat. Demikian juga saya. Kalau kalau nyontek yang baik boleh."
+  },
+  {
+   "t": 2363.0,
+   "d": 75.0,
+   "text": "Saya juga bikin partai. Maju ke rakyat minta mandat. empat kali tidak dikasih mandat, tapi akhirnya dikasih juga. Maksudnya saya ingin sampaikan ya kan Pak SBY partainya tadi dikatakan oleh Mas AHY dikatakan Partai Demokrat pernah menang pernah tidak menang ya Mak bicara kan harus halus Terus pernah di puncak? Pernah tidak di pernah di pemerintahan? Tidak. Tapi waktu tidak berkuasa Partai Demokrat tidak caci maki."
+  },
+  {
+   "t": 2438.0,
+   "d": 79.0,
+   "text": "Partai Demokrat tidak bakar-bakar. Saya waktu empat kali tidak menang, saya pun terima. Ya sudah kita maju lagi. Ini demokrasi Indonesia dan hari ini di panggung ini ya inilah demokrasi Indonesia. Macam-macam warna bersaing kritik ya kan. menyampaikan saran, memberi rekomendasi, menyampaikan hal-hal yang mungkin tidak enak untuk disampaikan, tapi tetap kita rukun, tetap bersahabat, tetap berkeluarga."
+  },
+  {
+   "t": 2517.0,
+   "d": 43.0,
+   "text": "Ini yang harus kita pegang. Kita banyak kekurangan, kita banyak tantangan, kita negara sangat besar. Ya, berarti masalahnya juga masalah besar. Ya, maaf saya mau kasih perbandingan. Negara Singapura punya 300 sekolah. Seluruh Singapura, SD, SMP, SMA 300. Indonesia lebih dari 300.000 sekolah."
+  },
+  {
+   "t": 2560.0,
+   "d": 45.0,
+   "text": "Ada yang di ujung gunung, di pulau yang jauh. Jadi memang masalah kita besar, tantangan kita besar dan kita berada di alam yang banyak tantangan juga. Tapi alhamdulillah bangsa kita di usia ke-81 kokoh, bersatu, berbeda, tapi kita kokoh bersatu dan kita semakin kuat menghadapi masa depan."
+  },
+  {
+   "t": 2605.0,
+   "d": 60.0,
+   "text": "Amin. Jadi, Saudara-saudara, sesuai janji saya, saya tidak akan panjang lebar. Saya saya tinggalkan bukubuku saya untuk hadiah. Sudah sampai belum ke? Sudah. [bersorak] Kemudian mudah-mudahan bisa di dipelajari intinya masa depan kita cerah. Amin. Semua pakar, semua institusi dunia menyampaikan bahwa Indonesia tahun 2050 akan menjadi negara keempat."
+  },
+  {
+   "t": 2665.0,
+   "d": 51.0,
+   "text": "[bersorak] Maaf mungkin terlalu semangat ini. Kita akan menjadi negara keempat ekonomia terbesar di dunia. Amin. Mereka mengatakan kita akan menjadi one of the great powers. Bukan kita, kita tidak boleh sombong, tapi mereka mengatakan kadang-kadang orang Indonesia ini tidak sadar betapa besar dan betapa potensi kuat kita."
+  },
+  {
+   "t": 2716.0,
+   "d": 65.0,
+   "text": "Tapi yang ingin saya sampaikan 2050 ya adalah 24 tahun lagi. 2000 24 tahun lagi itu adalah masa yang muda-muda. Pak SBY dan saya ya, kita generasi ibarat kami adalah anak tangga yang akan digunakan oleh generasi yang lebih muda kita untuk naik [tepuk tangan] untuk mengambil alih tanggung jawab untuk meneruskan kebangkitan bangsa Indonesia. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 2781.0,
+   "d": 63.0,
+   "text": "Om. Santi. Santi shanti. Om. Merdeka [berteriak] merdeka merdeka merdeka merdeka merdeka. Selanjutnya adalah prosesi simbolis. Kami turut mengundang Ketua Umum Partai Demokrat Bapak Agus Harimurti Yudoyono untuk dapat naik ke atas panggung. [musik] [musik] Prosesi peringatan ulang tahun ke-25 Partai Demokrat dimulai dalam hitungan mundur. T du sat."
+  },
+  {
+   "t": 2844.0,
+   "d": 60.0,
+   "text": "[musik] [musik] [musik] Satuyalah untuk Indonesia Demokrat bersama rakyat. Boleh kita berikan tepuk tangan sekali lagi yang luar biasa. Pada kesempatan kali ini kami mohon kesediaannya dengan hormat untuk sesi foto. Kami hitung mundur. Izin. 3 2 [musik] 1. Sekali lagi 3 2 1."
+  },
+  {
+   "t": 2904.0,
+   "d": 166.0,
+   "text": "Boleh kita berikan tepuk tangan sekali lagi yang luar biasa kepada yang terhormat Presiden Republik Indonesia dan Ketua Umum Partai Demokrat. Demikian seremonial peringatan hari ulang tahun ke-25 Partai Demokrat telah selesai dilaksanakan. Tak pembela [musik] yang benar mau tangkit [bernyanyi] serang dan serta [musik] mengusib serta sentuh kita [musik] marah bergerak berarsa merdeka merdeka ne merdeka merdeka [musik] Tuan-tuan, bendera yang tenang dan bangkit diserah [musik] Maju serus [musik] menyerah maju serentak tu kita [musik] menang berang B yang [musik] beran Bapak, Ibu serta hadirin sekalian."
+  },
+  {
+   "t": 3070.0,
+   "d": 58.0,
+   "text": "Jangan beranjak dulu karena seremonial peringatan hari ulang tahun ke-25 Partai Demokrat akan dilanjutkan dengan acara hiburan. Berikut ini kami persembahkan kepada hadirin sekalian. Inilah penampilan dari Topati Orkestra Futuring Rio Febrian dan Novia Bahm. Dud save the [bernyanyi] earth."
+  },
+  {
+   "t": 3128.0,
+   "d": 9.0,
+   "text": "I hope someday [musik][bernyanyi] we all will understand that [musik] is one of us [bernyanyi] could do one tiny"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "8hj3tR4gCTc",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/8hj3tR4gCTc.json"
+ }
+}

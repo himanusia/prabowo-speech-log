@@ -1,0 +1,209 @@
+{
+ "id": "2025-07-01-di-upacara-peringatan-ke-79-hari-bhayangkara",
+ "video_id": "Enmz62kOMyI",
+ "date": "2025-07-01",
+ "title": "Full Pidato Presiden Prabowo di Upacara Peringatan ke 79 Hari Bhayangkara",
+ "channel": "Prabowo Subianto",
+ "youtube_url": "https://www.youtube.com/watch?v=Enmz62kOMyI",
+ "duration_s": 1057,
+ "duration_hms": "17:37",
+ "source_tier": "official",
+ "fetch_method": "caption_api",
+ "snippet_count": 327,
+ "token_count": 1102,
+ "unique_word_count": 424,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Enmz62kOMyI",
+   "url": "https://www.youtube.com/watch?v=Enmz62kOMyI",
+   "title": "Full Pidato Presiden Prabowo di Upacara Peringatan ke 79 Hari Bhayangkara",
+   "channel": "Prabowo Subianto",
+   "upload_date": "2025-07-01",
+   "duration_s": 1057,
+   "source_tier": "official",
+   "fetch_method": "caption_api",
+   "token_count": 1102,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 327,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 3,
+  "ekonomi": 2,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 35,
+  "nasional_dan_identitas": 94,
+  "mbg": 2
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 2,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 2,
+  "present": true,
+  "evidence": [
+   {
+    "start": 846.279,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 865.24,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 0.24,
+   "d": 82.64,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Selamat pagi, salam sejahtera bagi kita sekalian. Shalom. Salve, Om Swastiastu. Namo buddhaya. Salam kebajikan. Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakaboming Raka. Yang saya hormati Presiden keenam Republik Indonesia Jenderal TNI Purnawirawan Prof. Dr."
+  },
+  {
+   "t": 41.76,
+   "d": 63.24,
+   "text": "Bambang Yudoyono, Ibu Dra. Anda Hajah Sinta Nuriah Wahid, Wakil Presiden Keen Republik Indonesia Jenderal TNI Pnawirawan Tri Sutrisno. Wakil Presiden ke-10 dan ke-12 Republik Indonesia, Bapak H. Muhammad Yusuf Kala, Wakil Presiden ke-13 Republik Indonesia, Prof."
+  },
+  {
+   "t": 77.92,
+   "d": 95.24,
+   "text": "K. H. Ma'ruf Amin. Yang saya hormati Kepala Kepolisian Negara Republik Indonesia Jenderal Polisi Listio Sigit Prabowo beserta seluruh prajurit Polri. di mana pun Engkau berada. Para pimpinan lembaga tinggi negara, ketua majelis permusyaratan Rakyat Republik Indonesia, Saudara Ahmad Muzani, Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani beserta Wakil Ketua DPR RI Prof."
+  },
+  {
+   "t": 129.72,
+   "d": 95.92,
+   "text": "Sufmi Ahmad Dasko, Ketua Mahkamah Agung Republik Indonesia Prof. Sunartto, Ketua Mahkamah Konstitusi, Saudara Soehartoyo, Ketua Komisi Yudisial Prof. Amzulian Rifai, para menteri koordinator, para menteri jaksa Agung, Panglima TNI, beserta para kepala staf angkatan, kepala badan, dan kepala lembaga pemerintahan dan wakil menteri serta seluruh anggota kabinet merah putih yang saya hormati."
+  },
+  {
+   "t": 178.56,
+   "d": 104.2,
+   "text": "Para pimpinan partai politik yang hadir, para duta besar negara sahabat, dan para atase kepolisian negara sahabat yang hadir. Yang saya hormati para pimpinan organisasi keagamaan dan kemasyarakatan. para mantan Kapolri dan senior serta tokoh kepolisian negara Republik Indonesia yang hadir dan sekali lagi seluruh anggota kepolisian negara Republik Indonesia di mana pun engkau bertugas dan di mana pun kau berada."
+  },
+  {
+   "t": 233.52,
+   "d": 85.92,
+   "text": "Hadirin, tamu undangan yang saya hormati dan saya banggakan, serta seluruh rakyat Indonesia, saudara-saudaraku sebangsa dan setanah air di mana pun Engkau berada. Pertama-tama tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Besar, Tuhan Maha Kuasa, bagi umat Islam Allah Subhanahu wa taala yang memiliki sekalian alam."
+  },
+  {
+   "t": 276.28,
+   "d": 60.68,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita meminta pertolongan. Kita bersyukur atas segala karunia yang telah diberikan kepada bangsa kita atas nafas dan kesehatan yang masih diberikan kepada kita sehingga kita dapat berkumpul dalam upacara kebesaran hari ini untuk memperingati hari bayangkara ke-79."
+  },
+  {
+   "t": 307.12,
+   "d": 60.13,
+   "text": "Pertama-tama atas nama pribadi dan atas nama pemerintah Republik Indonesia dan atas nama seluruh bangsa Indonesia saya menyampaikan ucapan selamat hari bayangkara ke-79 kepada seluruh keluarga besar kepolisian negara Reponesia di mana pun saudara-saudara berada."
+  },
+  {
+   "t": 335.52,
+   "d": 104.13,
+   "text": "Dirgahayu kepolisian Republik Indonesia. [Tepuk tangan] Saya juga ingin menyampaikan terima kasih dan penghargaan yang setinggi-tingginya dari negara atas kerja keras pengabdian dan pengorbanan seluruh anggota Polri dalam menjaga stabilitas dan keamanan. sehingga kita sebagai bangsa dapat melakukan agenda-agenda besar pembangunan bangsa yang sedang kita lakukan saat-saat ini."
+  },
+  {
+   "t": 395.2,
+   "d": 90.96,
+   "text": "Saudara-saudara sekalian, cita-cita kemerdekaan adalah untuk Indonesia tidak sekedar merdeka, tapi Indonesia menjadi negara yang berdaulat di segala bidang dan terutama menjadi negara yang makmur di tengah Keadilan. Saudara-saudara sekalian, cita-cita kita adalah suatu negara di mana seluruh rakyat menikmati kemerdekaan dan kesejahteraan."
+  },
+  {
+   "t": 442.4,
+   "d": 106.48,
+   "text": "Cita-cita pendiri bangsa kita adalah Indonesia yang tanpa kemiskinan, Indonesia yang tanpa kelaparan, Indonesia yang ada keadilan. Itu cita-cita kita. Dan karena itulah negara dan bangsa kita memerlukan suatu kepolisian yang tangguh. kepolisian yang unggul, kepolisian yang bersih, kepolisian yang dicintai rakyat, kepuslian kepolisian rakyat selalu di tengah-tengah rakyat, selalu membela rakyat, selalu melindungi rakyat."
+  },
+  {
+   "t": 500.12,
+   "d": 105.0,
+   "text": "terutama mereka-mereka yang paling lemah, yang paling tertindas, dan yang paling miskin. Sejarah manusia sepanjang ribuan tahun mengajarkan kepada kita, tidak ada negara yang berhasil tanpa kepolisian yang unggul dan tangguh. [Tepuk tangan] Dengan kesadaran itulah para pemimpin-pemimpin negara dari presiden yang pertama dan seterusnya, Presiden kedua, ketiga, keempat, kelima, keenam, ketujuh sampai sekarang saya menjabat."
+  },
+  {
+   "t": 556.64,
+   "d": 64.16,
+   "text": "Kita semua sadar pentingnya kepolisian yang tangguh dan unggul. Dan karena itu, marilah kita mengenang dan memberi penghargaan setinggi-tingginya kepada para pendiri-pendiri kepolisian negara Republik Indonesia yang telah berjasa, yang telah merintis dibangunnya kepolisian. Republik Indonesia yang tangguh."
+  },
+  {
+   "t": 589.16,
+   "d": 91.72,
+   "text": "Saudara-saudara sekalian, saya menyampaikan khususnya pada hari ini penghargaan saya kepada kepemimpinan Polri khususnya kepada Kapolri dan jajaran kepemimpinan Polri. Saya melihat Polri sekarang menunjukkan prestasi yang baik. Saya melihat dan menyaksikan kepolisian kita sekarang sungguh-sungguh turun ke rakyat."
+  },
+  {
+   "t": 642.88,
+   "d": 70.44,
+   "text": "Saya melihat sekarang kepolisian mengambil inisiatif, mengambil peran terjun ke rakyat, bekerja di tengah rakyat, membantu meningkatkan produksi pangan bangsa kita. Untuk itu saya ucapkan terima kasih yang sebesar-besarnya. Polisi Indonesia tidak boleh seperti polisi-polisi negara yang sudah kaya dan maju."
+  },
+  {
+   "t": 680.64,
+   "d": 59.84,
+   "text": "Polisi Indonesia harus di tengah-tengah rakyat. Harus meresakan penderitaan rakyat. Harus merasakan kesulitan rakyat. Harus mendengar jeritan hati rakyat. Karena itu saya terima kasih, Saudara-saudara. Selama saya pimpin ini melihat saya melihat kesungguhan saudara-saudara."
+  },
+  {
+   "t": 709.72,
+   "d": 78.72,
+   "text": "Dan untuk itu saya sampaikan lanjutkan lanjutkan. Bangsa kita berada sekali lagi dari ambang kebangkitan. Kita harus mengelola dan menjaga kekayaan bangsa kita. Dan kepolisian adalah ujung tombak dalam menjaga kekayaan bangsa dan rakyat kita. Dan saudara-saudara, polisi akan selalu menjadi sasaran."
+  },
+  {
+   "t": 753.92,
+   "d": 68.64,
+   "text": "Mereka akan selalu berusaha untuk merusak kepolisian kita. Mereka akan dengan segala cara berusaha untuk melemahkan jiwa dan jiwa pengabdian, Saudara-saudara. Karena itu saya berharap kepolisian sekarang ini akan sungguh-sungguh tangguh. kuat. Jangan mau dirusak oleh siapapun."
+  },
+  {
+   "t": 788.4,
+   "d": 122.24,
+   "text": "Saudara-saudara sekalian, bangsa kita bangsa yang kaya. Karena kekayaan kita, kita selalu diganggu. Dan itu adalah hal yang wajar. Di dunia ini yang kuat akan menindas yang lemah. Dan Indonesia tidak mau ditindas. Indonesia tidak mau jadi lemah dan untuk itu kepolisian harus menjadi unsur yang sangat penting dalam menjaga kekayaan bangsa dan rakyat kita. Saudara-saudara sekalian, inisiatif pimpinan kalian untuk ikut serta secara langsung, secara masif dalam berbagai kegiatan strategis kita, pemberian makan bergizi kepada rakyat kita."
+  },
+  {
+   "t": 850.68,
+   "d": 60.4,
+   "text": "Ini adalah hal yang strategis. ini adalah untuk menyelamatkan anak-anak dan cucu-cucu kita. Ini adalah untuk menyelamatkan masa depan bangsa kita. Jadi, makan bergizi ini adalah langkah strategis dan langkah yang benar. Saya ucapkan terima kasih. keterlibatan polisi dalam usaha ini."
+  },
+  {
+   "t": 885.04,
+   "d": 79.92,
+   "text": "Polisi dan TNI sekarang ini berada di ujung ujung tombak daripada program besar ini. Saudara-saudara telah ikut dalam pendidikan para sarjana penggerak pembangunan Indonesia. Saudara-saudara juga mendukung langsung usaha kedaulatan pangan nasional di beberapa bidang. Saudara-saudara sudah menunjukkan prestasi produksi jagung kita."
+  },
+  {
+   "t": 925.6,
+   "d": 68.56,
+   "text": "tertinggi selama sejarah Republik Indonesia. Dan itu adalah tidak sedikit peran kepolisian negara Reponia di bawah kepemimpinan Kapolri Jenderal Polisi Listio Sigit Prabowo dengan jajarannya. Saudara-saudara, lanjutkan perjuangan ini. Jaga kepercayaan rakyat."
+  },
+  {
+   "t": 964.28,
+   "d": 90.04,
+   "text": "selalu sekali lagi mengutamakan kepentingan rakyat di atas kepentingan yang lain. Saudara-saudara, sekali lagi jangan sekali-sekali mengecewakan rakyat kita. Saya kira itu yang ingin saya sampaikan. Sekali lagi selamat hari bayangkara ke-79. Jadilah insan bayangkara yang rastra sewa kotama. Polisi yang mengabdikan dirinya untuk kejayaan nusa dan bangsa."
+  },
+  {
+   "t": 1008.64,
+   "d": 79.72,
+   "text": "Sekali lagi jadilah polisi yang dicintai rakyat. Terima kasih. Selamat bertugas. Selamat menjalankan amanah mulia untuk rakyat, bangsa, dan negara. Polri untuk masyarakat, Polri untuk rakyat. Dirgahayu, Polisi Republik Indonesia. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om santi santi om. Namo budaya. Salam kebajikan."
+  },
+  {
+   "t": 1055.32,
+   "d": 3.16,
+   "text": "Selesai. Yeah."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "Enmz62kOMyI",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/Enmz62kOMyI.json"
+ }
+}

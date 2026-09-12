@@ -1,0 +1,343 @@
+{
+ "id": "2026-06-01-peringatan-hari-lahir-pancasila-1-juni-2026",
+ "video_id": "-PNMB8VQ0hY",
+ "date": "2026-06-01",
+ "title": "BREAKING NEWS: Pidato Presiden Prabowo Peringatan Hari Lahir Pancasila 1 Juni 2026",
+ "channel": "KOMPASTV JAWA BARAT",
+ "youtube_url": "https://www.youtube.com/watch?v=-PNMB8VQ0hY",
+ "duration_s": 2601,
+ "duration_hms": "43:21",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 272,
+ "token_count": 1989,
+ "unique_word_count": 788,
+ "duplicate_count": 2,
+ "uploads": [
+  {
+   "video_id": "-PNMB8VQ0hY",
+   "url": "https://www.youtube.com/watch?v=-PNMB8VQ0hY",
+   "title": "BREAKING NEWS: Pidato Presiden Prabowo Peringatan Hari Lahir Pancasila 1 Juni 2026",
+   "channel": "KOMPASTV JAWA BARAT",
+   "upload_date": "2026-06-01",
+   "duration_s": 2601,
+   "source_tier": "media",
+   "fetch_method": "transcript_panel",
+   "token_count": 1989,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 272,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "1fkbpthd1MI",
+   "url": "https://www.youtube.com/watch?v=1fkbpthd1MI",
+   "title": "FULL Pidato Prabowo di Upacara Hari Lahir Pancasila",
+   "channel": "CNN Indonesia",
+   "upload_date": "2026-06-01",
+   "duration_s": 1303,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1520,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 428,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "mj5ur3bCtR8",
+   "url": "https://www.youtube.com/watch?v=mj5ur3bCtR8",
+   "title": "[FULL] Pidato Prabowo di Hari Lahir Pancasila: “Tidak Ada Negara yang Merdeka Tanpa Kemakmuran”",
+   "channel": "Liputan6",
+   "upload_date": "2026-06-01",
+   "duration_s": 1101,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1303,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 361,
+   "discovery_origins": [
+    "search_pidato"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 6,
+  "ekonomi": 38,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 4,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 140,
+  "mbg": 1
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 1,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 1,
+  "present": true,
+  "evidence": [
+   {
+    "start": 1482.0,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 454.0,
+   "d": 41.0,
+   "text": "Persatuan Indonesia dan kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan serta dengan mewujudkan suatu keadilan sosial bagi seluruh rakyat Indonesia. Amanat inspektur upacara, pasukan diistirahatkan. Parade istirahat. Hidup."
+  },
+  {
+   "t": 495.0,
+   "d": 43.0,
+   "text": "K. Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Selamat pagi, salam sejahtera bagi kita sekalian. Shalom. Salve, Om Swastiastu. Namo buddhaya. Salam kebajikan. Salam Pancasila. Salam Pancasila. Yang saya hormati Presiden kelima Republik Indonesia Prof. Dr."
+  },
+  {
+   "t": 538.0,
+   "d": 41.0,
+   "text": "Honoris Kausa Megawati Soekarno Putri yang juga sekaligus menjabat sebagai ketua dewan pengarah badan Pembinaan Ideologi Pancasila. Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka, Wakil Presiden ke-10 dan ke-12 Republik Indonesia. Bapak H. Muhammad Yusuf Kala, Wakil Presiden ke-13 Republik Indonesia, Prof. K. H. Dr. Maruf Amin."
+  },
+  {
+   "t": 579.0,
+   "d": 37.0,
+   "text": "Istri Wakil Presiden kees9 Republik Indonesia, Ibu Hajah Soraya Hamzah Khas. Pimpinan lembaga negara, Ketua Majelis Permusatan Rakyat Republik Indonesia, Saudara Ahmad Muzani beserta para wakil ketua MPR RI dan para wakil ketua DPR RI. Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Baktiar Najamudin beserta para wakil ketua DPD RI."
+  },
+  {
+   "t": 616.0,
+   "d": 45.0,
+   "text": "Ketua Mahkamah Agung Prof. Sunartto, Ketua Mahkamah Konstitusi, Saudara Suhartoyo, Ketua Komisi Yudisial, Saudara Abdul Khair Ramadan, para menteri koordinator, para menteri dan kepala badan, para wakil menteri, Kepala Badan Pembinaan Ideologi Pancasila, Kepala BIN Panglima TNI dan Kapolri, para penasihat, utusan dan staf khusus presiden, serta seluruh anggota kabinet merah putih yang hadir."
+  },
+  {
+   "t": 661.0,
+   "d": 60.0,
+   "text": "Yang saya hormati para hadirin, tamu undangan, rekan-rekan pers dan media, serta seluruh masyarakat Indonesia sebangsa dan setanah air di mana pun Engkau berada. Pertama-tama sebagai insan yang bertakwa tidak henti-hentinya kita panjatkan puji syukur kehadirat Tuhan Maha Kuasa, Tuhan Maha Besar yang memiliki sekalian alam atas segala karunia, atas kesehatan, dan atas kedamaian yang masih diberikan kepada kita sehingga kita dapat berkumpul di tempat yang bersejarah ini pada hari ini dalam suatu upacara peringatan hari lahir Pancasila 1 Juni 2026."
+  },
+  {
+   "t": 721.0,
+   "d": 33.0,
+   "text": "Hari ini kita peringati 81 tahun hari lahirnya Pancasila. 81 tahun yang lalu, Bung Karno berdiri di hadapan sidang Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia dan menyampaikan gagasan besar yang kemudian menjadi dasar falsafah negara Republik Indonesia."
+  },
+  {
+   "t": 754.0,
+   "d": 43.0,
+   "text": "Pancasila lahir bukan dari ruang kosong. Pancasila lahir dari sejarah, pengalaman, budaya, dan cita-cita bangsa Indonesia sendiri. Pancasila adalah sebuah konsensus agung, suatu kesepakatan kebangsaan yang memungkinkan bangsa kita yang terdiri atas ribuan pulau, ratusan suku bangsa, ratusan bahasa, dan ratusan budaya yang berbeda-beda untuk hidup sebagai satu bangsa."
+  },
+  {
+   "t": 797.0,
+   "d": 35.0,
+   "text": "Karena itulah tema peringatan tahun ini. Pancasila sebagai pemersatu bangsa dan fondasi perdamaian dunia memiliki makna yang sangat mendalam. Di tengah dunia yang semakin terpecah oleh pertikaian, rivalitas geopolitik, perang dagang, dan ketidakpastian ekonomi, Indonesia memiliki pegangan yang kokoh."
+  },
+  {
+   "t": 832.0,
+   "d": 34.0,
+   "text": "Pegangan itu adalah Pancasila. Saudara-saudara, Pancasila bukan sekedar dokumen sejarah. Pancasila juga tidak boleh sekedar slogan yang kita ucapkan dalam setiap upacara. Pancasila adalah pedoman untuk mengatur kehidupan berbangsa, kehidupan bermasyarakat, kehidupan bernegara."
+  },
+  {
+   "t": 866.0,
+   "d": 30.0,
+   "text": "termasuk bagaimana kita membangun sistem ekonomi nasional kita. Salah satu tantangan besar bangsa Indonesia hari ini adalah memastikan bahwa pembangunan ekonomi kita benar-benar berjalan sesuai dengan nilai-nilai Pancasila. Marilah kita selalu jujur kepada diri kita sendiri."
+  },
+  {
+   "t": 896.0,
+   "d": 42.0,
+   "text": "Kita harus mengakui kelemahan-kelemahan dan kesulitan-kesulitan yang kita hadapi. Selama beberapa dasar warsa terakhir Indonesia ekonominya memang tumbuh. Tapi apakah pertumbuhan itu sudah merata, sudah dirasakan oleh seluruh rakyat Indonesia secara adil? Marilah kita jujur melihat kenyataan yang kita hadapi sekarang."
+  },
+  {
+   "t": 938.0,
+   "d": 37.0,
+   "text": "Kita memiliki sumber daya alam yang luar biasa. Kita sudah mengerti kekayaan kita luar biasa. Kita adalah salah satu produsen terbesar komoditas-komunitas penting yang dibutuhkan dunia modern yang dibutuhkan oleh teknologi tinggi. Kita salah satu produsen terbesar mineral-mineral penting tembaga, timah, emas, logam tanah jarang."
+  },
+  {
+   "t": 975.0,
+   "d": 38.0,
+   "text": "kita produsen kelapa sawit, batuara, nikel, komunitas-komunitas pertanian lainnya yang sangat penting. Dan sekarang kita sudah swasembah lapangan. Di mana banyak negara menghadapi kesulitan, kita sudah lebih siap. Namun kita harus mengakui bahwa terlalu lama kekayaan kita tidak sepenuhnya bisa dimanfaatkan untuk kemakmuran rakyat."
+  },
+  {
+   "t": 1013.0,
+   "d": 48.0,
+   "text": "Terlalu lama sebagian nilai tambah atas sumber daya kita dinikmati di luar negeri. Terlalu lama rakyat kita hanya menjadi penonton di atas kekayaan bangsanya sendiri. Karena itulah saya berkeyakinan bahwa tugas sejarah kita saat ini, tugas sejarah saya sebagai Presiden Republik Indonesia ke-elapan sebagai mandataris rakyat yang disumpah di hadapan rakyat adalah untuk melakukan transformasi bangsa. terutama transformasi ekonomi nasional kita."
+  },
+  {
+   "t": 1061.0,
+   "d": 36.0,
+   "text": "Transformasi dari ekonomi yang belum sepenuhnya berlandaskan Pancasila menuju ekonomi yang sungguh-sungguh berdasarkan Pancasila. Saudara-saudara, apa arti ekonomi berdasarkan Pancasila? Pertama, ekonomi yang religius. ekonomi yang ber kemanusiaan dan ekonomi yang memperkuat persatuan nasional."
+  },
+  {
+   "t": 1097.0,
+   "d": 40.0,
+   "text": "Kita percaya bahwa kekayaan alam bukan sekedar komoditas ekonomi. Kekayaan alam adalah amelola secara bertanggung jawab untuk sebesar-besar kemakmuran rakyat dan juga untuk anak dan cucu kita. untuk masa depan, untuk generasi-generasi yang akan datang. Pembangunan ekonomi tidak boleh hanya menghasilkan angka-angka statistik."
+  },
+  {
+   "t": 1137.0,
+   "d": 37.0,
+   "text": "Pembangunan ekonomi harus menghasilkan kehidupan yang lebih baik bagi seluruh rakyat Indonesia. Anak-anak kita, anak-anak saudara-saudara yang paling lemah, paling miskin, paling tidak berdaya harus memperoleh gizi yang cukup. Petani kita harus memperoleh pupuk yang tepat waktu dan harga yang benar."
+  },
+  {
+   "t": 1174.0,
+   "d": 31.0,
+   "text": "Nelayan kita harus memperoleh akses pasar yang adil dan harus dibantu dan harus diberdayakan. Para nelayan kita adalah produsen protein yang sangat penting agar rakyat kita bisa jadi rakyat yang kuat. Pekerja-pekerja kita harus memperoleh kesempatan penghidupan dan penghasilan yang layak."
+  },
+  {
+   "t": 1205.0,
+   "d": 37.0,
+   "text": "Nasib pekerja kita harus dilindungi, harus dibantu. Ketiga, ekonomi kita harus berpihak kepada kepentingan nasional dan kepentingan rakyat. Ekonomi kita tidak boleh hanya menguntungkan segelintir orang saja. Sudah terlalu lama harga berbagai KKN alam kita ditentukan oleh pihak lain, ditentukan di negara lain."
+  },
+  {
+   "t": 1242.0,
+   "d": 30.0,
+   "text": "Sudah terlalu lama sebagian keuntungan dari sumber daya alam mengalir ke luar negeri dan tidak tinggal di Ibu Pertiwi. Karena itu pemerintah menentukan ekspor sumber daya alam satu pintu. Kita juga harus melakukan investasi besar di bidang industrialisasi berdasarkan hilirisasi."
+  },
+  {
+   "t": 1272.0,
+   "d": 57.0,
+   "text": "Kita harus memperkuat pengelolaan devisa hasil ekspor dan memastikan bahwa kekayaan Indonesia memberi manfaat sebesar-besarnya kepada seluruh rakyat Indonesia. Keempat, ekonomi Pancasila adalah ekonomi yang egaliter, ekonomi yang kerakyatan, ekonomi kita berdasarkan rancang bangun cetak biru yang dibuat oleh pendiri-pendiri bangsa kita, oleh Bung Karno, Bung Hatta, Bung Syahrir dan Semua pendiri-pendiri bangsa kita tertuang dengan sangat jelas dalam pasal 33 Undang-Undang Dasar 1945."
+  },
+  {
+   "t": 1329.0,
+   "d": 52.0,
+   "text": "Di mana sangat jelas diamanatkan bahwa perekonomian Indonesia disusun sebagai usaha bersama berdasarkan azas kekeluargaan. Karena itu koperasi harus diperkuat, koperasi harus bangkit, koperasi adalah salah satu alat untuk mengangkat rakyat kita dari keadaan kemiskinan dan ketidakberdayaan."
+  },
+  {
+   "t": 1381.0,
+   "d": 35.0,
+   "text": "Usaha kecil dan menengah harus kita perkuat dan desa harus menjadi pusat pertumbuhan ekonomi baru, Saudara-saudara. Karena itu rakyat harus menjadi pelaku utama dari pembangunan. bukan sekedar objek pembangunan apalagi hanya menjadi alat pembangunan. Kelima, ekonomi kita adalah ekonomi yang berkeadilan sosial."
+  },
+  {
+   "t": 1416.0,
+   "d": 33.0,
+   "text": "Inilah tujuan dari seluruh perjuangan kita. Pertumbuhan ekonomi harus disertai pemerataan. Kemajuan harus dirasakan oleh seluruh rakyat Indonesia. Saudara-saudara, atas dasar itulah pemerintah saat ini melakukan berbagai langkah transformasi. Kita tidak hanya mau bicara pembangunan, kita sekarang punya cita-cita yang lebih berani."
+  },
+  {
+   "t": 1449.0,
+   "d": 33.0,
+   "text": "Kita sedang dan akan menjalankan terus strategi transformasi bangsa. Strategi kita sejatinya adalah transformasi menjadi haluan yang sejalan dengan Pancasila. Kita memperkuat hilirisasi sumber daya alam. Kita membangun ketahanan pangan nasional. Kita memperkuat koperasi dan ekonomi desa."
+  },
+  {
+   "t": 1482.0,
+   "d": 28.0,
+   "text": "Kita terus memberi makan bergizi gratis untuk membangun generasi Indonesia yang sehat. dan unggul dan cerdas. Kita memperkuat pendidikan, kesehatan, dan pembangunan manusia. Kita kita memperbaiki tata kelola agar kekayaan bangsa tidak terus bocor dan tidak terus mengalir ke luar negeri."
+  },
+  {
+   "t": 1510.0,
+   "d": 39.0,
+   "text": "Saudara-saudara, suatu transformasi, suatu perubahan yang besar tidak mudah. Kita akan menghadapi rintangan, kita akan menghadapi tantangan, mungkin juga kita akan menghadapi perlawanan dari kelompok-kelompok yang suka dengan korupsi, suka dengan penyeludupan, suka dengan tindakan-tindakan ekonomi yang ilegal."
+  },
+  {
+   "t": 1549.0,
+   "d": 26.0,
+   "text": "Kita akan mungkin menghadapi perlawanan dari mereka-mereka yang tidak cinta tanah air, bahkan berusaha terus untuk memperlemah NKRI. Tapi bangsa yang besar harus berani. Kita harus berani ambil keputusan yang benar walaupun sulit. Kita harus berani membela rakyat kita."
+  },
+  {
+   "t": 1575.0,
+   "d": 32.0,
+   "text": "Kita tidak boleh mewariskan kemudahan jangka pendek, tapi mengorbankan masa depan anak-anak dan cucu-cucu kita. Tidak ada negara yang merdeka tanpa kemakmuran. Kita tidak mau jadi bangsa yang tergantung oleh bangsa lain. Karena sesungguhnya tidak ada bangsa lain yang akan kasihan sama kita."
+  },
+  {
+   "t": 1607.0,
+   "d": 38.0,
+   "text": "Kalau kita dalam kesulitan, kalau rakyat kita lapar, kalau rakyat kita dalam kesulitan, tidak ada bangsa lain, kekuatan lain yang akan kasihan atau membantu kita. Sebagaimana pendiri bangsa kita, sebagaimana proklamator kita, Bung Karno pernah menganjurkan kepada kita. Kita harus berani berdiri di atas kaki kita sendiri. Itu adalah intisari daripada negara yang berdaulat."
+  },
+  {
+   "t": 1645.0,
+   "d": 26.0,
+   "text": "Saudara-saudara, Pancasila telah mempersatukan bangsa Indonesia. Selama 81 tahun banyak pihak, banyak negara yang mengatakan Indonesia tidak bisa utuh, Indonesia tidak bisa bertahan karena terlalu banyak perbedaan, terlalu banyak suku bangsa, terlalu banyak bahasa daerah, terlalu banyak adat yang berbeda."
+  },
+  {
+   "t": 1671.0,
+   "d": 42.0,
+   "text": "Tapi kita buktikan hari ini kita masih menjadi bangsa yang utuh, bangsa yang bersatu. Dan saya yakin ketika kita menjalankan Pancasila secara sungguh-sungguh di bidang politik, di bidang hukum, di bidang sosial, di bidang budaya, dan terutama di bidang ekonomi, saya yakin Indonesia tidak hanya akan menjadi negara maju dan makmur. Indonesia akan menjadi bangsa yang dihormati oleh bangsa-bangsa lain karena rakyatnya sejahtera."
+  },
+  {
+   "t": 1713.0,
+   "d": 24.0,
+   "text": "Bangsa yang kuat karena persatuannya, bangsa yang makmur karena keadilannya. Bangsa yang besar karena kemanusiaannya. Bangsa yang mampu menjadi kekuatan bagi perdamaian dunia. Bangsa yang tidak minta-minta bantuan, bangsa yang mampu membantu bangsa-bangsa lain."
+  },
+  {
+   "t": 1737.0,
+   "d": 27.0,
+   "text": "Mari kita jaga Pancasila. Mari kita amalkan Pancasila. Mari kita wujudkan Indonesia yang adil, makmur, berdaulat, dan bermartabat. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom. Salve, Om. Santi, santi santi om. Namo buddhaya salam kebajikan. Salam Pancasila."
+  },
+  {
+   "t": 1764.0,
+   "d": 60.0,
+   "text": "Salam Pancasila. Merdeka [berteriak] merdeka merdeka merdeka merdeka merdeka. Siap. Undangan dimohon berdiri. Pembacaan doa oleh Menteri Pendidikan Dasar dan Menengah Republik Indonesia. Bapak, Ibu para hadirin, tamu undangan yang kami muliakan. Marilah kita bersama-sama berdoa sesuai dengan agama dan kepercayaan kita masing-masing."
+  },
+  {
+   "t": 1824.0,
+   "d": 34.0,
+   "text": "Bagi yang beragama Islam, marilah kita bersama-sama berdoa memohon kepada Allah azza wa jalla dengan khusyuk agar doa dan permohonan kita dikabulkan olehnya. Bismillahirrahmanirrahim. Alhamdulillahi rabbil alamin wasalatu wasalamu ala muhammadin khatamil ambiya wal mursalin wa ala alihi wasohbihi waman tabiahum bistiqomati ila yaumiddin."
+  },
+  {
+   "t": 1858.0,
+   "d": 32.0,
+   "text": "Ya Allah ya rahman, pada pagi yang indah dan cerah ini kami berkumpul dan bersatu hati memperingati hari lahir Pancasila. Kami memohon rida-Mu agar acara peringatan ini menjadi momentum yang meneguhkan komitmen kami menjadikan Pancasila sebagai dasar negara, falsafah hidup dan kepribadian bangsa."
+  },
+  {
+   "t": 1890.0,
+   "d": 54.0,
+   "text": "Kepada-Mu kami memohon kekuatan untuk melestarikan dan mengamalkan nilai-nilai Pancasila dalam kehidupan pribadi, berbangsa, dan bernegara. Ya Razzaq, Ya Wahab, Engkau menganugerahkan bagi kami bangsa Indonesia, negeri yang elok, kekayaan alam yang melimpah ruah, keragaman agama dan budaya yang luhur, serta kekuatan sosial, intelektual, moral, dan spiritual yang tinggi. Kami memohon kekuatan dan pertolongan-Mu untuk dapat mengelola, mengembangkan, dan memanfaatkan semua kekayaan itu untuk sebesar-besar kemakmuran rakyat, kejayaan, serta martabat bangsa dan negara."
+  },
+  {
+   "t": 1944.0,
+   "d": 32.0,
+   "text": "Ya Latif, Ya Fattah, tantangan yang kami hadapi dalam membangun dan memajukan bangsa dan negara tidaklah ringan. banyak aral melintang dan berbagai kesulitan menghadang. Tetapi kami yakin dengan sepenuh hati, dengan pertolongan, taufik, dan kekuatan dariMu disertai semangat persatuan, kesatuan, dan gotong-royong. Tidak ada masalah yang tidak terselesaikan."
+  },
+  {
+   "t": 1976.0,
+   "d": 93.0,
+   "text": "Yang susah menjadi mudah, yang mustahil menjadi ria dan cita menjadi nyata. Rbana atina fid dunya hasanah wafil akhirati hasanat waqinaabanar wadilnal jannata maal abr ya aziz ya goffar ya rabbal alamin walhamdulillahiabbil alamin andikaari [musik] [musik] [musik] [musik] Undangan disilakan duduk kembali."
+  },
+  {
+   "t": 2069.0,
+   "d": 107.0,
+   "text": "Laporan komandan upacara kepada inspektur upacara. Upacara telah dilaksanakan. Laporan selesai. Bubarkan. Kerjakan. Kerjakan. Penghormatan kebesaran kepada inspektur upacara. Hormat senjata. [berteriak] [musik] Tegak senjata. Undangan dimohon berdiri. Salam kebangsaan."
+  },
+  {
+   "t": 2176.0,
+   "d": 129.5,
+   "text": "Hormat senjata. [berteriak] Kuk H [musik] [musik] [musik] H [musik] [lonceng] [musik] [lonceng] [musik] [lonceng] [musik] [musik] [lonceng] [musik] [musik] [musik] Tegak senjata [berteriak] K. Presiden Republik Indonesia meninggalkan mimbar upacara. Terima kasih atas melaksanakan upacara yang baik. Terima kasih."
+  },
+  {
+   "t": 2305.0,
+   "d": 136.0,
+   "text": "Komandan upacara menghadap saya. Terima kasih. [musik] Panc Pancasila [musik] [bernyanyi] pendukungmu. Pat proklamasi [bernyanyi] setia berkorban untukmu. [musik] Pancasila [bernyanyi] dasar negara rakyat [musik] mampu sentosa bangsaku. [musik] Ayo maju. Maju ay maju maju ayam maju [musik] maju [musik] [musik] [musik] [bernyanyi] Pancasila [musik] amat pendukung patriot proklamasi [musik] setia [bernyanyi] berkorang untukmu pancasila dasar [musik] negara rakyat mampus sentosa [bernyanyi] pribadi [musik] bangsaku payong maju [musik] payong maju Maju maju. Ayo maju maju."
+  },
+  {
+   "t": 2441.0,
+   "d": 151.5,
+   "text": "[musik] [musik] [musik] [musik] [bernyanyi] Gentar membela [musik] yang benar [bernyanyi] cipta kentar [musik] Serang [bernyanyi] maju serent [musik] musik menyerang maju [bernyanyi] [musik] serempat yang kita menang bergerak [musik] ber serentak serang menentang menerjang [musik][bernyanyi] Tak sempat tak menyerang menyerang [musik] majulah [bernyanyi] majulah menang [musik] [musik] cinta [bernyanyi] gembela yang benar [bernyanyi] Dan [musik] juga terang bangkit diserang [bernyanyi] maju [musik] serentak [bernyanyi] mengusir [musik] menyerang [bernyanyi] serangu [musik] kita menang bergerak bergerak Serentak [musik] serentak menerang menerjang kerja [musik] menyerang [bernyanyi] menyerang [musik] majulah majulah menang [musik] [musik] Gempar yang benar Oh"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "-PNMB8VQ0hY",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "transcript_panel",
+  "source_of_truth": "engine/data/prabowo/raw/-PNMB8VQ0hY.json"
+ }
+}

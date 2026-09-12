@@ -1,0 +1,374 @@
+{
+ "id": "2026-06-26-pembukaan-sarasehan-kebangsaan-ksti-2026",
+ "video_id": "hJybE-uF_qE",
+ "date": "2026-06-26",
+ "title": "Pembukaan Sarasehan Kebangsaan KSTI 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=hJybE-uF_qE",
+ "duration_s": 2875,
+ "duration_hms": "47:55",
+ "source_tier": "official",
+ "fetch_method": "baseline_import",
+ "snippet_count": 884,
+ "token_count": 1619,
+ "unique_word_count": 617,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "hJybE-uF_qE",
+   "url": "https://www.youtube.com/watch?v=hJybE-uF_qE",
+   "title": "Pembukaan Sarasehan Kebangsaan KSTI 2026",
+   "channel": "Sekretariat Presiden",
+   "upload_date": "2026-06-26",
+   "duration_s": 2875,
+   "source_tier": "official",
+   "fetch_method": "baseline_import",
+   "token_count": 1619,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 884,
+   "discovery_origins": [],
+   "selection_reason": null,
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 3,
+  "ekonomi": 2,
+  "pendidikan": 16,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 10,
+  "nasional_dan_identitas": 58,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 177.71,
+   "text": "Aku [berdehem] serang [musik] serta [bernyanyi] mengusi penyerang maju serta tentu [musik] kita menang bergerak bergerak serta [musik] serta menang menajang tak tentar menyerah menyerah majulah majulah [bernyanyi] merang maju [musik] takah k membela yang benar maju tak kentang hati [musik] diserang sertaus menyerang mau serentah tentu [musik] kita menang berta menyanyikan lagu kebangsaan Indonesia raya [musik] [musik] [musik] [musik] [musik] [musik] [musik] [musik] [musik] [musik] [musik] [musik] [musik] [musik] Hadirin dipersilakan duduk kembali."
+  },
+  {
+   "t": 196.4,
+   "d": 69.12,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita semua. Yang terhormat Presiden Republik Indonesia, Bapak Prabowo Subianto. Yang kami hormati Wakil Presiden Republik Indonesia Bapak Gibran Rakabumi, Para Menteri kabinet merah putih, pimpinan perguruan tinggi, peneliti, segenap civitas akademika, serta seluruh peserta sarasehan kebangsaan KST Indonesia 2000. 26."
+  },
+  {
+   "t": 230.68,
+   "d": 66.96,
+   "text": "Selamat datang dalam acara peresmian pembukaan sarasean kebangsaan Konvensi Sains, Teknologi dan Industri Indonesia tahun 2026 dengan mengusung tema Strategi Kemandirian Ekonomi dan Kesejahteraan Indonesia. Forum ini mempertemukan pemerintah, perguruan tinggi, serta para pemangku kepentingan untuk mengonsolidasikan gagasan, memperkuat kolaborasi, dan merumuskan rekomendasi kebijakan berbasis ilmu pengetahuan bagi pembangunan nasional."
+  },
+  {
+   "t": 266.76,
+   "d": 37.6,
+   "text": "Bapak, Ibu, mengawali acara pada sore ini sebagai ungkapan rasa syukur kepada Tuhan yang maha esa, marilah kita berdoa bersama yang akan dipimpin oleh Bapak Ahmad Thaab. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah. Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 312.52,
+   "d": 57.48,
+   "text": "Alhamdulillah. Asalatu wassalamu ala rasulillah. Ya Allah, Tuhan yang maha pengasih dan penyayang. Pada hari ini kami tengadahkan tangan dan hati kepada-Mu. Dengan segala kerendahan jiwa kami memohon rida, petunjuk, dan pertolongan-Mu bagi bangsa dan negara yang kami cintai."
+  },
+  {
+   "t": 340.84,
+   "d": 56.0,
+   "text": "Ya Allah yang maha bijaksana, anugerahkan bangsa Indonesia ilmu pengetahuan yang membawa kemaslahatan, teknologi yang menghadirkan kemajuan, industri yang memperkuat kemandirian serta kepemimpinan yang senantiasa berpijak kepada keadilan, kebijaksanaan, dan pengabdian kepada rakyat."
+  },
+  {
+   "t": 368.36,
+   "d": 71.96,
+   "text": "Ya Allah, berkahilah ikhtiar yang sedang dihimpun dalam sarasehan kebangsaan ini. satukan pikiran para pemimpin, para ilmuan, para akademisi, peneliti, dan seluruh pemangku kepentingan agar setiap gagasan yang lahir menjadi jalan bagi terwujudnya kemandirian ekonomi, kesejahteraan masyarakat, ketahanan pangan dan energi, kemajuan pendidikan, serta kejayaan Indonesia yang berkelanjutan."
+  },
+  {
+   "t": 404.76,
+   "d": 76.72,
+   "text": "Ya Allah yang maha pemelihara, anugerahkan kesehatan, kekuatan, dan kebijaksanaan kepada Presiden Republik Indonesia, Bapak Haji Prabowo Subianto dan seluruh pemimpin bangsa ini. Bimbinglah setiap langkah dan keputusan mereka agar senantiasa menghadirkan keadilan, kemajuan, dan kesejahteraan bagi seluruh rakyat Indonesia. Rabbana atina fid dunya hasanah wafil akhirati hasanat waqina adzabanar. Walhamdulillahiabbil alamin."
+  },
+  {
+   "t": 443.64,
+   "d": 77.68,
+   "text": "Wasalamualaikum warahmatullah wabarakatuh. Selanjutnya mari kita dengarkan laporan Menteri Pendidikan Tinggi, Sains, dan Teknologi Republik Indonesia, Bapak Brian Yuliarto. Oh. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita semua. Shalom, Om Swastiastu, Namo Buddhaya, salam kebajikan rahayu. Yang kami hormati dan kami muliakan Bapak Presiden Republik Indonesia, Bapak Prabowo Subianto, Bapak Wakil Presiden Republik Indonesia, Bapak Gibran Rakabumingraka."
+  },
+  {
+   "t": 513.0,
+   "d": 87.32,
+   "text": "Yang kami hormati para Menteri Koordinator dan Menteri Kabinet Merah Putih. para pimpinan lembaga negara, para rektor, guru besar, akademisi, peneliti, pimpinan perguruan tinggi negeri, maupun swasta yang hadir serta seluruh hadirin yang saya muliakan. Puji dan syukur kita panjatkan pertama-tama ke hadirat Allah Tuhan yang maha kuasa karena atas rahmat dan karunia-Nya kita semua bisa hadir dalam keadaan sehat pada sarasehan kebangsaan sebagai bagian dari rangkaian Konvensi Sains, Teknologi dan Industri Indonesia KSTI tahun 2026."
+  },
+  {
+   "t": 556.64,
+   "d": 62.8,
+   "text": "Perkenankan kami melaporkan bahwa sarasean kebangsaan hari ini diikuti lebih dari 2.600 600 peserta yang terdiri atas 219 rektor, 44 direktur perguruan tinggi vokasi, 6 ketua perguruan tinggi, 1596 dosen ilmuwan serta para peneliti. Termasuk dari BRIN sejumlah 300 peneliti."
+  },
+  {
+   "t": 587.64,
+   "d": 59.88,
+   "text": "Kemudian lebih dari 635 mitra kolaborasi perguruan tinggi dan Kementerian Pendidikan Tinggi, Sains dan Teknologi. Bapak Presiden yang kami hormati, Konvensi Sains dan Teknologi, Konvensi Sains, Teknologi dan Industri Indonesia sebagaimana kita masih ingat pada tahun 2025 lalu merupakan inisiatif Bapak Presiden yang pertama kali diselenggarakan di Bandung di kampus ITB pada Agustus 2025."
+  },
+  {
+   "t": 617.96,
+   "d": 69.6,
+   "text": "Pada saat itu Bapak Presiden juga langsung membuka acara KSTI di kampus ITB. Sarasehan yang diadakan pada hari ini merupakan rangkaian dari program KSTI tahun 2026 dengan tujuan menguatkan kolaborasi antara pemerintah, perguruan tinggi, dunia usaha, industri, dan masyarakat agar ilmu pengetahuan benar-benar menjadi kekuatan dalam pembangunan bangsa. Sarsehan Kebangsaan tahun ini mengangkat tema Strategi kemandirian ekonomi dan kesejahteraan Indonesia."
+  },
+  {
+   "t": 653.96,
+   "d": 43.92,
+   "text": "Sebagaimana kita pahami bersama bahwa di bawah arahan Bapak Presiden, pemerintah terus bergerak cepat dalam menjawab berbagai tantangan pembangunan nasional. Dalam semangat tersebut, Kementerian Pendidikan Tinggi, Sains, dan Teknologi bersama seluruh kampus memperkuat peran perguruan tinggi sebagai mitra strategis pemerintahan."
+  },
+  {
+   "t": 676.24,
+   "d": 130.92,
+   "text": "Beberapa program yang telah berjalan sejak KSTI tahun 2025 antara lain adalah di bawah koordinasi Menteri Pertanian dilaksanakan pengembangan geninom pertanian dan pengembangan varietas unggul terhadap produk yang masih impor untuk menggantikan atau mensubstitusi impor di bawah koordinasi Kementerian Lingkaran Hidup Kementerian Pertahanan dan Antara dan Brin dan melibatkan P of Jakarta serta Jawa Barat. Saat ini sedang dilaksanakan pengembangan teknologi pengolahan sampah. Di bawah koordinasi Kementerian ESDM dilaksanakan riset bensin sawit, pengembangan kompor listrik, dan kajian pembangkit listrik implementasi 100 GW. Di bawah koordinasi Menteri Kesehatan dilaksanakan berbagai riset vaksin TBC beserta penguatan industri farmasi dan alat kesehatan nasional. Di bawah Kementerian Kelautan dan Perikanan dilakukan riset industri garam, kapal nelayan listrik dan yang lain-lainnya. Di bawah koordinasi"
+  },
+  {
+   "t": 741.68,
+   "d": 64.0,
+   "text": "Menteri Perumahan dan Kawasan Pemukiman, konsep desin desain kawasan dan hunian vertikal juga dikembangkan bersama beberapa kampus. Kemudian di bawah Koordinasi Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Wilayah serta Badan Otorita Pengelola Pantai Utara Jawa, peneliti dari berga kampus terlibat juga dalam program Giant Siwell. Demikian juga di bawah koordinasi dari Danantara, para peneliti dari berbagai kampus terlibat dalam pengembangan industri semikonduktor nasional."
+  },
+  {
+   "t": 773.72,
+   "d": 55.92,
+   "text": "Bapak Presiden yang kami hormati. Pada penghujung sarasean kebangsaan ini setelah seluruh sesi akan selesai, izinkan kami nantinya merumuskan peran dan kontribusi perguruan tinggi untuk mempercepat pelaksanaan berbagai program prioritas nasional yang Bapak Presiden canangkan. Akhirnya kami menyampaikan terima kasih kepada seluruh menteri yang berkenan menjadi narasumber dalam acara sarsan 3 hari ini."
+  },
+  {
+   "t": 802.04,
+   "d": 104.36,
+   "text": "Dan juga kami sampaikan ucapan terima kasih kepada Menteri, Sekretariat Negara dan Sekretaris Kabinet yang telah mendukung penuh terlaksananya kegiatan. juga kepada Majelis Rektor Perguruan Tinggi Negeri Indonesia serta Universitas Trisakti dan seluruh pihak yang telah berkolaborasi dalam penyelenggaraan sarasean kebangsaan KSTI tahun 2026. Selanjutnya dengan penuh hormat kami memohon kesediaan Bapak Presiden Republik Indonesia membuka secara resmi sarasehan kebangsaan strategi kemandirian ekonomi dan kesejahteraan Indonesia sebagai bagian dari rangkaian Konvensi sains teknologi dan Industri KSTI tahun 2026 serta selanjutnya dapat memberikan arahan terkait strategi transformasi bangsa, politik, ekonomi, dan sains untuk kesejahteraan dan kelangsungan hidup."
+  },
+  {
+   "t": 853.6,
+   "d": 56.72,
+   "text": "hidup bangsa Indonesia. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Om santi santi shanti om. Namo buddhaya. Salam kebajikan. Melalui diskusi dan pertukaran pemikiran lintas bidang diharapkan sarasean ini dapat menghasilkan rumusan strategis yang relevan, adaptif, dan berdampak dalam mendukung terwujudnya Indonesia yang mandiri, maju, dan sejahtera."
+  },
+  {
+   "t": 887.76,
+   "d": 106.98,
+   "text": "Hadirin yang berbahagia, menghadirkan semangat kebangsaan untuk mewujudkan kemandirian ekonomi dan kesejahteraan Indonesia melalui Sinergi Pendidikan Tinggi, Sains, dan Teknologi, kami persembahkan video sarasehan Kebangsaan KSTI Indonesia 2026. [musik] Artinya kalau demokrasi ekonomi rakyat banyak, rakyat semuanya harus menikmati ekonomi kita dengan prinsip kebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, mandiri berdiri di atas kaki kita sendiri, serta dengan menjaga keseimbangan dengan kemajuan dan kesatuan ekonomi nasional."
+  },
+  {
+   "t": 949.76,
+   "d": 53.9,
+   "text": "[musik] Dunia terus berakselerasi menuju berbagai kemungkinan [musik] baru. Persaingan ekonomi, transformasi teknologi, ketahanan pangan, [musik] potensi energi, dan ketersediaan sumber daya menjadi tantangan yang menentukan [musik] masa depan. Pada persimpangan ini, Indonesia dihadapkan sebuah [musik] pertanyaan besar."
+  },
+  {
+   "t": 980.28,
+   "d": 51.36,
+   "text": "Bagaimana kita bisa membangun kemandirian dan kesejahteraan yang berkelanjutan bagi seluruh [musik] rakyat Indonesia? Indonesia memiliki kekuatan luar biasa. Jaringan perguruan [musik] tinggi yang tersebar di seluruh Nusantara. serta jutaan insan ilmu pengetahuan [musik] yang terus menghasilkan inovasi."
+  },
+  {
+   "t": 1009.96,
+   "d": 80.16,
+   "text": "Melalui kolaborasi, segala potensi bisa diubah [musik] menjadi nilai tambah dan daya saing. Perguruan tinggi, lembaga [musik] riset, industri, dan pemerintah memiliki tanggung jawab yang sama. menghadirkan solusi [musik] nyata untuk memperkuat ekonomi, pertanian, energi, hilirisasi industri, kelautan dan perikanan, ketahanan pangan, serta pendidikan Indonesia."
+  },
+  {
+   "t": 1054.8,
+   "d": 72.44,
+   "text": "Dari ilmu pengetahuan [musik] lahir inovasi. Dari inovasi tumbuh kemandirian [musik] dan dari kemandirian tercipta kesejahteraan. Saatnya para pemimpin bangsa, akademisi, peneliti, dan pemangku kepentingan berkumpul dalam satu forum strategis. Menyatukan gagasan, menyelaraskan [musik] arah, merumuskan rekomendasi kebijakan berbasis ilmu pengetahuan."
+  },
+  {
+   "t": 1099.32,
+   "d": 76.44,
+   "text": "bersama membangun Indonesia yang maju, berdaulat, dan berdampak dalam sarasehan kebangsaan KSTI 2026, Strategi kemandirian ekonomi dan kesejahteraan Indonesia. Bapak, Ibu hadirin yang berbahagia, mari kita simak bersama sambutan Presiden Republik Indonesia yang dilanjutkan dengan penekanan tombol sirene sebagai tanda peresmian pembukaan sarasean kebangsaan sekaligus mengawali rangkaian Konvensi Sains Teknologi dan Industri Indonesia 2026."
+  },
+  {
+   "t": 1147.57,
+   "d": 67.46,
+   "text": "[tepuk tangan] Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Selamat sore. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka."
+  },
+  {
+   "t": 1196.64,
+   "d": 114.36,
+   "text": "Yang saya hormati Menteri Pendidikan Tinggi, Sains dan Teknologi sebagai penyelenggara. Prof. Brian Yuliarto. Yang saya hormati Ketua Majelis Rektor Perguruan Tinggi Negeri Indonesia yang sekaligus adalah Rektor Universitas Negeri Gorontalo. Prof. Dr. Ir. Edward Wolok, para menteri koordinator, para menteri, para ee kepala badan, Jaksa Agung, Panglima TNI, Kapolri, dan para wakil menteri, seluruh anggota kabinet merah putih yang saya hormati."
+  },
+  {
+   "t": 1256.6,
+   "d": 79.64,
+   "text": "Yang saya hormati para rektor, para guru besar, para direktur perguruan tinggi, Direktur Politeknik, Pimpinan Lembaga Layanan Pendidikan Tinggi, para dekan, para dosen, seluruh civitas akademik. dari perguruan tinggi negeri dan swasta di Indonesia. Para hadirin, tamu undangan, serta rekan-rekan pers dan media yang hadir."
+  },
+  {
+   "t": 1299.53,
+   "d": 73.27,
+   "text": "[menghela napas] Saya minta maaf saya tidak sebut satu persatu Menteri Kabinet Merah Putih yang hadir. tanpa mengurangi rasa hormat juga para rektor universitas, para guru besar, saya juga minta maaf karena ee cukup banyak rektornya saja di sini. rektor dan pimpinan 261."
+  },
+  {
+   "t": 1347.16,
+   "d": 82.68,
+   "text": "Jadi kalau saya minta maaf kalau saya sebut satu-satu [berdehem] saya dimarahin oleh panitia. Tapi tentunya ini adalah sebuah kehormatan besar bagi saya untuk bicara di hadapan [berdehem] begitu banyak guru-guru besar. Saya selalu berpendapat bahwa para guru besar adalah orang-orang yang terpintar dari sebuah negara."
+  },
+  {
+   "t": 1388.96,
+   "d": 100.92,
+   "text": "Jadi kalau negara mau bangkit, negara mau maju, memang harus dimanfaatkan atau di gerakkan potensi dan kemampuan dari kampus-kampus dari universitas. Saudara-saudara sekalian, tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan maha besar, Tuhan Maha Kuasa, bagi umat Islam Allah Subhanahu wa taala."
+  },
+  {
+   "t": 1446.72,
+   "d": 86.2,
+   "text": "yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita memohon pertolongan. Kita bersyukur atas segala karunia, atas segala berkah dan kebaikan yang diberikan kepada bangsa kita. Kita masih menikmati keadaan damai di tengah dunia yang penuh perang, pertikaian, kebencian, permusuhan."
+  },
+  {
+   "t": 1497.04,
+   "d": 62.44,
+   "text": "Kita bersyukur atas kesehatan dan nafas yang masih diberikan kepada kita sehingga hari ini kita bisa hadir pada acara sarasehan kebangsaan dengan tema strategi kemandirian ekonomi dan kesejahteraan Indonesia dalam rangka konvensi Sains dan Teknologi Indonesia."
+  },
+  {
+   "t": 1531.08,
+   "d": 68.08,
+   "text": "Ini adalah kehormatan yang besar bagi saya untuk bisa bertemu Bapak-bapak, Ibu-ibu sekalian. Saya pernah bertatap muka dengan para rektor dari seluruh Indonesia dan ini adalah keempat kalinya saya sebagai Presiden Republik Indonesia. Sebagai Presiden Republik Indonesia ini keempat kalinya."
+  },
+  {
+   "t": 1572.0,
+   "d": 122.23,
+   "text": "dua kali di Istana Merdeka, satu kali di ITB. Saudara-saudara, Saudara-saudara, saya katakan tadi bukan basa-basi, memang kenyataan demikian. Saudara-saudara yang menjadi guru besar adalah memang orang-orang terpintar yang dimiliki bangsa Indonesia. Karena itu setiap inovasi, setiap perubahan, setiap kemajuan di setiap bangsa selama peradaban manusia selalu berasal dari pemikir-pemikir yang terbaik."
+  },
+  {
+   "t": 1654.8,
+   "d": 171.84,
+   "text": "Semua perkembangan kehidupan manusia itu ditentukan oleh sains dan teknologi. dalam arti yang luas dari kelompok-kelompok kecil manusia yang hidupnya berpindah-pindah mencari makan akhirnya menemukan teknologi pertanian muncullah masyar masyarakat-masyarakat agraris, ratusan tahun, ribuan tahun perkembangan manusia, sampailah kita di kondisi sekarang, Saudara-saudara, kita bernegara, kita berbangsa, tujuannya harus kita paham dan kita mengerti, yaitu untuk mencapai suatu kehidupan yang layak dan yang baik untuk rakyat kita. Itu tujuan bernegara."
+  },
+  {
+   "t": 1746.88,
+   "d": 91.64,
+   "text": "semua adalah jalan menuju itu. Karena itu saya sebagai insan, sebagai individu yang diberi kepercayaan oleh bangsa Indonesia untuk memegang kendali pemerintahan adalah tugas Saya adalah kewajiban saya untuk [mendengus] menghadapi dan untuk menghadapi kesulitan-kesulitan yang dihadapi bangsa kita dan mencari solusi terhadap kesulitan-kesulitan itu."
+  },
+  {
+   "t": 1805.32,
+   "d": 79.12,
+   "text": "Dan dengan demikian saya dari awal sangat sadar peran dan penting para ilmuwan, para guru besar. Dan karena itu kalau Saudara simak hampir di setiap bidang pemerintahan yang kunci saya ikut sertakan profesor-profesor dalam posisi-posisi yang sangat menentukan, Saudara-saudara."
+  },
+  {
+   "t": 1850.52,
+   "d": 68.88,
+   "text": "Salah satu ilmu kepimpinan yang saya dapat dalam perjalanan saya adalah bahwa seorang pemimpin, seorang nahqoda harus seorang nakqoda yang mau aman membawa kapalnya sampai ke tujuan. [berdehem] dia harus punya awak yang handal. Itu pelajaran kepemimpinan yang paling dasar."
+  },
+  {
+   "t": 1887.0,
+   "d": 82.32,
+   "text": "Kalau kita mau menang sepak bola, kita harus punya manajer yang baik, coach yang baik, pelatih-pelatih yang baik, tukang pijit yang baik, tukang bawa minuman yang baik dan kesebelasan yang terbaik baru kita bisa jadi juara. Sama di semua bidang. It is not the technology. It is not the equipment."
+  },
+  {
+   "t": 1931.92,
+   "d": 74.36,
+   "text": "It is the man and the women behind the equipment. Ini yang kita sadari. Percuma kita punya pesawat yang paling canggih, pilotnya tidak handal. Jadi, Saudara-saudara, dengan kesadaran itu, saya sangat berterima kasih atas inisiatif konvensi ini yang mengikut sertakan sebuah sarasehan kebangsaan."
+  },
+  {
+   "t": 1969.6,
+   "d": 75.44,
+   "text": "Saudara-saudara sekalian, saya di hadapan saudara-saudara saya ingin menyampaikan beberapa pragapan saya. Selalu dalam setiap pertemuan saya menyampaikan ini praanggapan. Saya [menghela napas] berperanggapan kita semua di sini semuanya adalah anak Indonesia yang cinta bangsanya dan rakyatnya."
+  },
+  {
+   "t": 2007.24,
+   "d": 132.96,
+   "text": "Kita berbeda pasti. Kita berbeda suku, kita berbeda agama. Kita berbeda latar belakang. kita berbeda mungkin ideologi, kita berbeda sejarah kita berbeda pengalaman, Saudara-saudara. Ada apalagi profesi, ada yang dokter, [mendengus] ada yang insinyur sipil, ada yang insinyur mesin, ada yang insinyur pesawat terbang, ada yang ahli arkeologi, ada yang ahli antropologi, ada yang ahli bahasa, ada mantan tentara, ada pengusap usaha berbeda berbeda. Kita punya latar belakang dan saudara-saudara pengalaman kita pasti berbeda."
+  },
+  {
+   "t": 2077.84,
+   "d": 83.0,
+   "text": "Tapi dengan premis tadi, dengan anak Indonesia yang cinta tanah airnya, saya kira dalam perbedaan ini kita harusnya bisa mencari titik-titik kebersamaan. Inilah yang saya lihat dari apa yang saya pelajari dari sejarah. Karena salah satu hobi saya, passion saya adalah sejarah."
+  },
+  {
+   "t": 2123.56,
+   "d": 85.08,
+   "text": "Dari apa yang saya belajar dari sejarah ribuan tahun, bangsa-bangsa yang elitnya bisa kerja sama itu bangsa itu yang bangkit. Bangsa yang elitnya selalu tidak bisa kerja sama, bangsa itu tidak bisa mencapai potensinya. Ini sejarah mengajarkan sampai hari ini, sampai hari ini marilah kita lihat lihat di berita apa yang terjadi di Ukraina, di Eropa."
+  },
+  {
+   "t": 2171.52,
+   "d": 78.48,
+   "text": "Kalau kita lihat rasnya sama, sukunya sama, agamanya juga banyak yang sama. perangnya itu sampai puluhan ribu korban mati tiap bulan dan perang di Ukrain sudah lebih lama dari perang dunia kedua. Perang di Ukrain sudah lebih lama dari perang dunia kedua. Kita lihat apa yang terjadi di Gaza, di Palestina, di Libanon."
+  },
+  {
+   "t": 2210.36,
+   "d": 80.4,
+   "text": "90% dari Gaza rata. Mungkin sama akibatnya dengan Hiroshima atau Nagasaki. Lebanon sekarang seperti itu. Iran, seluruh negara Teluk Yaman. Kita tinggal lihat tiap hari perang di Afghanistan, perang di Balukistan, perang di Myanmar. Semakin dekat perang antara Wangai dan Kamboja."
+  },
+  {
+   "t": 2251.84,
+   "d": 67.8,
+   "text": "Saudara-saudara, di tengah ini semua kuncinya adalah antara lain [berdehem] elit yang tidak bisa kerja sama. Jadi, Saudara-saudara bernegara saya kira kita perlu untuk renungkan masalah bernegara. Saya kira, Saudara-saudara, ini adalah kata-kata pembukaan saya."
+  },
+  {
+   "t": 2287.6,
+   "d": 94.34,
+   "text": "Saya selalu berusaha dengan persuasi. Saya sebagai pemimpin politik, saya dipilih secara demokratis. Saya maju ke rakyat lima kali minta mandat, empat kali tidak diberi mandat. Empat kali saya kalah, tapi saya tidak mengganggu pemimpin yang dapat mandat. [tepuk tangan] Terima kasih. Karena biasanya kalau saya bilang empat kali kalah, audiens ketawa."
+  },
+  {
+   "t": 2339.32,
+   "d": 71.8,
+   "text": "Ini orang Indonesia itu kalah itu sedih sebetulnya. Tapi karena saya sadar, saya mengerti alternatifnya apa. Karena kita sudah sepakat, bangsa Indonesia sudah sepakat, kita ingin hidup sebagai negara di mana kedaulatan rakyat yang berkuasa. Jadi kedaulatan rakyat wujudnya adalah demokrasi. Demokrasi wujudnya adalah pemilihan."
+  },
+  {
+   "t": 2382.72,
+   "d": 90.36,
+   "text": "Kita mengerti, kita mungkin tidak puas, tapi alternatifnya apa? Apa kita mau gaduh? Habis tiap pemilihan gaduh. Tiap pemilihan gaduh. Yang kalah ribut, yang kalah ribut. Kapan kita mau menuju kesejahteraan untuk rakyat kita? Bukankah itu kewajiban kita sebagai anak bangsa, sebagai pemimpin, sebagai orang terpintar di negara ini? Bukankah itu? Segala kepintaran kita harus kita abdikan untuk rakyat kita yang paling miskin dan paling lemah. Bukankah itu?"
+  },
+  {
+   "t": 2437.28,
+   "d": 72.04,
+   "text": "Silakan kalau ada yang berpendapat lain, hak saya katakan kita berbeda. Kalau ada yang berpendapat bahwa gaduh, ribut, bakar-bakar, anarki, kebencian, permusuhan, maki-memaki, itu produktif. [berdehem] Sementara negara lain menuju kesejahteraan, menuju terobosan, menuju kekayaan."
+  },
+  {
+   "t": 2476.16,
+   "d": 64.68,
+   "text": "Saudara-saudara, karena itu saya berkali-kali saya datang kepada kampus. Saya datang, saya minta orang-orang terpintar tanya Pak Brian, tanya Profesor Sigit. Saya tanya profesor-profesor IPB, kenapa kita tidak bisa punya benih gandum? Kenapa kita harus impor gandum?"
+  },
+  {
+   "t": 2515.88,
+   "d": 70.6,
+   "text": "Saya tanya, kenapa kelapa sawit per hektar di Malaysia produktivitasnya lebih dari kita? Kenapa? Saya selalu minta mereka, kenapa Indonesia setelah 81 tahun tidak bisa bikin mobil buatan sendiri? Saya berdiri di depan saudara-saudara. Kalian yang PhD. Kenapa kita tidak punya? Kita beli kita beli motor 10 juta motor tiap tahun."
+  },
+  {
+   "t": 2565.76,
+   "d": 63.8,
+   "text": "Kenapa tidak ada pabrik buatan Indonesia? Tapi saya terima kasih kampus, saya terima kasih kita mulai ke arah punya mobil sendiri. Terima kasih saya. Ada satu kepuasaan yang mendalam di hati saya. Waktu saya dilantik, saya pulang dari pelantikan saya bisa naik mobil buatan Indonesia."
+  },
+  {
+   "t": 2607.56,
+   "d": 78.64,
+   "text": "Desainnya Indonesia dibuat di Indonesia tidak 100% dan tidak ada mobil di dunia yang 100% produknya dari satu negara. Tapi kalau 65% 70% itu sudah boleh kita klaim buatan Indonesia. Risikonya sekarang selama saya jadi presiden ya harus naik mobil buatan Indonesia waktu bulan-bulan pertama ya lumayan [berdehem][mendengus] kecuali kalau hujan keras."
+  },
+  {
+   "t": 2650.04,
+   "d": 54.49,
+   "text": "Kalau hujan keras sempat bocor juga itu. Tapi saya kembalikan Profesor Sigit gimana nih mobil [berdehem] presiden bocor perbaiki gak apa-apa minimal kita mulai kita harus berani mulai [berdehem] kita adalah negara keempat terbesar di dunia. Kita adalah negara yang kekayaannya luar biasa."
+  },
+  {
+   "t": 2684.2,
+   "d": 70.08,
+   "text": "Jadi, Saudara-saudara, ini sebagai pembukaan. Nanti intinya belum belum ini. Jadi, ee wartawan dengan segala hormat ee Oh, wartawan sudah keluar ya. Waduh. Oh, masih ada. Ah, para media, saya hari ini mau bicara dari hati ke hati kepada guru-guru besar, Saudara-saudara."
+  },
+  {
+   "t": 2720.8,
+   "d": 65.72,
+   "text": "Jadi, dengan hormat saya mengundang para wartawan untuk minum kopi di luar. Ya, saya yakin Pak Brian sebagai penyelenggara sudah siapkan kopi-kopi yang bagus. Karena di sini, Saudara-saudara, saya mau bicara ee [berdehem] dengan saya mau beri apa yang saya punya."
+  },
+  {
+   "t": 2758.48,
+   "d": 116.56,
+   "text": "Saya mau beri data fakta. apa yang saya punya. Dan saudara-saudara sebagai ilmuwan, monggo kaji, teliti, pelajari. [berdehem] Kalau data-data, fakta-fakta itu secara saintifik saudara sudah nilai, saudara anggap relevan, silakan saudara ambil kesimpulan. saya Bangsa Indonesia harus mandiri. Bangsa Indonesia harus berdiri di atas kaki kita sendiri. Dan di situ elemen utamanya adalah sua sembada pangan, sua sembada energi. Pangan dan energi harus kita mendiri. [musik] Saudara-saudara percaya kita berada di jalan yang benar."
+  },
+  {
+   "t": 2858.08,
+   "d": 31.44,
+   "text": "Di jalan membela keadilan, di jalan memberantas kemiskinan, di jalan menghilangkan kelaparan. Kita berada di jalan yang bersih, yang suci. Kita berada di jalan yang diridai oleh Tuhan Maha Kuasa."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "hJybE-uF_qE",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "baseline_import",
+  "source_of_truth": "engine/data/prabowo/raw/hJybE-uF_qE.json"
+ }
+}

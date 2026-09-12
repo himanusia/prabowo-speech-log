@@ -1,0 +1,386 @@
+{
+ "id": "2026-06-03-ri-pada-acara-building-indonesia-s-future",
+ "video_id": "9KWsOM3B6_c",
+ "date": "2026-06-03",
+ "title": "Pidato Presiden RI pada Acara Building Indonesia's Future Generations Through Nutrition, 3 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=9KWsOM3B6_c",
+ "duration_s": 2389,
+ "duration_hms": "39:49",
+ "source_tier": "official",
+ "fetch_method": "caption_api",
+ "snippet_count": 732,
+ "token_count": 2386,
+ "unique_word_count": 730,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "9KWsOM3B6_c",
+   "url": "https://www.youtube.com/watch?v=9KWsOM3B6_c",
+   "title": "Pidato Presiden RI pada Acara Building Indonesia's Future Generations Through Nutrition, 3 Juni 2026",
+   "channel": "Sekretariat Presiden",
+   "upload_date": "2026-06-03",
+   "duration_s": 2389,
+   "source_tier": "official",
+   "fetch_method": "caption_api",
+   "token_count": 2386,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 732,
+   "discovery_origins": [
+    "official_channel"
+   ],
+   "selection_reason": "official_speech_candidate",
+   "canonical": true
+  },
+  {
+   "video_id": "MqRxhlSThLA",
+   "url": "https://www.youtube.com/watch?v=MqRxhlSThLA",
+   "title": "🔴LIVE DELAY - Pidato Presiden Prabowo Pembangunan Generasi Masa Depan RI dengan Pemenuhan Gizi",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-06-03",
+   "duration_s": 3405,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2386,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 733,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "mbg_topic_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 6,
+  "ekonomi": 5,
+  "pendidikan": 7,
+  "kesehatan_dan_gizi": 14,
+  "tata_kelola": 8,
+  "pertahanan_dan_keamanan": 3,
+  "nasional_dan_identitas": 29,
+  "mbg": 3
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 2,
+  "context_count": 1,
+  "ambiguous_count": 0,
+  "policy_signal_count": 3,
+  "present": true,
+  "evidence": [
+   {
+    "start": 222.76,
+    "matches": [
+     "context"
+    ]
+   },
+   {
+    "start": 572.04,
+    "matches": [
+     "paired_terms"
+    ]
+   },
+   {
+    "start": 596.88,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 1.2,
+   "d": 74.52,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullahi wabarakatuh. Salam sejahtera untuk kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Rahayu-rahayu. Yang saya hormati para pimpinan Badan Gizi Nasional, para menteri, Kabinet merah putih yang hadir di sini."
+  },
+  {
+   "t": 68.56,
+   "d": 100.44,
+   "text": "Menko pangan Menko profesor praktik ya Menko PMK ya PMK apa saya enggak tahunya terlalu banyak singkatan Indonesia para tadi para menteri Menco. Oh, ada juga Pak Profesor Jusril ya kalau tidak salah ya. Profesor Justri ada Menko Polkam ada sor ini Menko-menko semua juga ee Kepala Lembaga Tinggi Negara, Ketua KPU yang hadir ya, kemudian ee wakil ketua ya."
+  },
+  {
+   "t": 138.28,
+   "d": 64.95,
+   "text": "Terima kasih. Kepala Dewan Ekonomi Nasional, Pak Luhud, Panglima TNI, Kapolri yang sekarang agak diwaspadai Jaksa Agung. enggak [bersorak] kerja sampai pagi ya rupanya ya. Kepala staf kepresidenan, Kepala Badan Komunikasi ya, para pejabat semua yang saya hormati."
+  },
+  {
+   "t": 186.2,
+   "d": 82.7,
+   "text": "Kepala Badan Gizi Nasional sebagai penyelenggara, Saudari Nani, Saudari Yanti Dayang, [bersorak] Wakil Kepala Badan Gizi Nasional, Saudari Agustina Arumsari, Wakil Kepala Badan Gizi Nasional Mayor Jenderal TNI Trenggono. Para kepala SPPG, para ahli gizi, para akuntan, para pengawas, para relawan, para mitra yayasan, para pengemudi, para juru masa yang saya hormati dan saya cintai."
+  },
+  {
+   "t": 247.72,
+   "d": 102.08,
+   "text": "Saudara-saudara ee terima kasih. Hari ini saya memang mengundang ee seorang motivator, seorang tokoh, tokoh pengusaha yang sukses dari Amerika Serikat yang sudah menjadi sahabat saya. saya minta beliau untuk bisa sedikit memberi mungkin ee pandangan beliau dan ee pendapat-pendapat beliau tentang ee kepemimpinan, tentang menghadapi kesulitan, menghadapi tantangan."
+  },
+  {
+   "t": 300.16,
+   "d": 54.4,
+   "text": "banyak ee pandangan-pandangan beliau ee sama dengan pandangan saya, beliau berasal dari keluarga yang sangat miskin. Dari kecil beliau ee menghadapi tantangan karena berasal dari keluarga yang sangat miskin. Kalau tidak salah ee orang tua beliau tukang parkir di Amerika Serikat."
+  },
+  {
+   "t": 330.04,
+   "d": 52.44,
+   "text": "Tapi beliau sekarang menjadi salah satu orang yang mungkin terkaya di dunia. Tapi bukan soal kaya materi atau uang. Beliau juga ee salah satu yang memelopori pemberian makan kepada orang-orang yang kelaparan di seluruh dunia, tidak hanya di negaranya sendiri."
+  },
+  {
+   "t": 363.12,
+   "d": 61.56,
+   "text": "Saya jumpa beliau karena beliau dengar tentang program kita. Ee saudara-saudara, beliau ee pernah cerita karena waktu beliau masih anak-anak, suatu suatu malam malam yang apa ee malam perayaan bagi bangsa Amerika ya, Thanksgiving beliau sak keluarga beliau itu tidak punya makan sama sekali di mejanya."
+  },
+  {
+   "t": 393.72,
+   "d": 56.64,
+   "text": "Tiba-tiba ada orang yang datang mungkin mendengar dari tetangga-tetangga bahwa keluarga ini tidak punya makan. Orang itu memberi makan dan bapaknya waktu itu marah mungkin malu tidak mau terima makanan tapi dipaksa untuk terima. Dari situlah beliau berkembang sampai pada saat beliau jadi orang beliau selalu mikir orang-orang yang tidak makan."
+  },
+  {
+   "t": 421.8,
+   "d": 62.32,
+   "text": "Jadi di situ mungkin ada berjumpanya nilai, berjumpanya berjumpanya pandangan dan berjumpanya ee filosofi. Jadi beliau akan saya minta bicara. Saya tidak mau panjang lebar karena saudara-saudara saya kira sudah sering dengar pidato-pidato saya. Saya kira benar kan kalian sudah sering dengar pidato saya."
+  },
+  {
+   "t": 458.12,
+   "d": 69.81,
+   "text": "Kenapa? Sudah belum? Belum. Belum. Sudah belum? Ngarang kalian. Kenapa? Apa? Kalian mau saya bicara panjang atau pendek? Panjang. Kalau panjang saya minum kopi dulu ya. Ini ada kopi pakai susu, ada kopi hitam. [bersorak] Hati-hati loh kalau kopi hitam lama sekali saya."
+  },
+  {
+   "t": 525.4,
+   "d": 52.72,
+   "text": "Ini kopi hitam nih. Tapi tidak, saya tidak akan panjang lebar. Saya hanya satu pertama terima kasih saudara-saudara bisa sampai di sini. Yang kedua, terima kasih lagi atas pengabdian saudara-saudara selama ini di tempat-tempat yang jauh, di tempat-tempat yang susah."
+  },
+  {
+   "t": 557.08,
+   "d": 71.96,
+   "text": "Terima kasih atas dedikasi kalian. Terima kasih atas kesetiaan kalian. Saudara-saudara, konsep makan bergizi gratis ini konsepnya adalah sangat sederhana. bahwa kenyataan kita menemukan bahwa sebagian dari anak-anak kita tiap pagi berangkat ke sekolah tidak makan pagi."
+  },
+  {
+   "t": 594.4,
+   "d": 91.2,
+   "text": "Bahkan di rumahnya ee jarang makan yang bergizi. Hal ini telah menimbulkan sesuatu ee keadaan di mana hampir seperlima bahkan sebetulnya kalau perasaan saya mendekati 1/4AT 25%. Dan ada bagian-bagian negara kita yang lebih dari 20% mendekati 30% anak-anak kita kurang gizi. Yang terjadi adalah apa yang disebut stunting."
+  },
+  {
+   "t": 643.76,
+   "d": 67.24,
+   "text": "Sel otak kurang berkembang, sel otot kurang berkembang, sel otak, otot, dan tulang kurang berkembang. Artinya satu, dia tidak akan berkembang sesuai potensi dia sebagai manusia normal. Berarti kemampuan dia di bawah normal. Berarti yang kita menemukan dia kadang-kadang untuk lulus SD saja susah."
+  },
+  {
+   "t": 677.48,
+   "d": 73.72,
+   "text": "Bahkan mungkin dia tidak bisa mengganti pekerjaan bapaknya sebagai petani, sebagai buruh harian atau sebagai nelayan. Karena nelayan, buruh, petani butuh kekuatan fisik. Bagaimana dia mau punya kekuatan fisik kalau dia gizinya kurang? Dan ini saya temukan langsung pada saat saya keliling kampung-kampung waktu saya kampanye untuk jadi presiden."
+  },
+  {
+   "t": 714.4,
+   "d": 72.28,
+   "text": "Alhamdulillah saya pernah kampanye lima kali. Loh, kenapa? Belum apa-apa kalian sudah ketawa? Iya, Pak. Lima kali. Saya kalah empat kali. Kalian ketawa ini orang Indonesia ini. Kalah itu sedih. Kalau sedih kalah sedih tapi bukan kalahnya kalah tapi karena tugas suci untuk bangsa dan negara belum selesai."
+  },
+  {
+   "t": 761.88,
+   "d": 55.28,
+   "text": "Kita tidak menyerah kepada kekalahan. Jatuh bangun lagi. Jatuh bangun lagi. Jatuh lagi bangun lagi. Jatuh lagi bangun lagi. Kita yang penting bangkit lagi dan meneruskan pekerjaan. [bersorak][tepuk tangan] Inilah saya tadi katakan ada kesamaan dengan saudara Tony Robbins ini. I kan?"
+  },
+  {
+   "t": 799.11,
+   "d": 72.81,
+   "text": "[bersorak] Jadi, Saudara-saudara ee saya ucapkan terima kasih. Tapi saya juga sebetulnya hari ini, saat ini sebetulnya saya sedih. Saya tidak bisa tutupi bahwa saya dalam keadaan sedih karena saya terpaksa mengganti orang-orang yang saya sebenarnya saya sayangi."
+  },
+  {
+   "t": 841.72,
+   "d": 61.4,
+   "text": "orang yang saya percaya, orang yang saya berikan tugas untuk negara yang sangat berat. Saya tidak mau banyak komentar karena ee mereka-mereka ini menghadapi masalah ee penyelidikan hukum. Karena itu saya tidak boleh banyak komentar nanti seolah saya mempengaruhi."
+  },
+  {
+   "t": 873.04,
+   "d": 63.88,
+   "text": "Tapi yang jelas mengganti mereka itu tidak ringan bagi saya. Tapi saya ingat kata-kata almarhum ayahanda saya, Profesor Sumitro pernah mengatakan kepada saya, \"Prabowo, kalau suatu saat kau dalam keadaan bingung atau keadaan ragu-ragu, ingat, berpihaklah selalu kepada rakyat."
+  },
+  {
+   "t": 910.46,
+   "d": 55.16,
+   "text": "[bersorak] [tepuk tangan] Jadi memang sudah berapa saat saya mendapat laporan ada kekurangan-kekurangan, ada kejanggalan-kejanggalan, ada indikasi-indikasi penyelewengan-penyelewengan dari pimpinan Dalam setiap organisasi selalu pengaruh pimpinan sangat sangat besar."
+  },
+  {
+   "t": 947.56,
+   "d": 75.88,
+   "text": "Pemimpin baik, organisasi baik. Pemimpin tidak baik, organisasi tidak baik. Apalagi pemimpin tidak benar, tidak kompeten atau tidak jujur. Jadi, Saudara-saudara, waktu saya mendapat laporan-laporan itu, saya panggil ee Kepala BPKP Badan Pemeriksa Keuangan Pemerintah dan juga Kepala PPATK dan saya panggil beberapa pejabat lain."
+  },
+  {
+   "t": 991.08,
+   "d": 108.52,
+   "text": "Saya tanya ee tolong saya mendapat laporan tentang BGN. BGN ini suatu program yang sangat-sangat penting bagi bangsa dan negara. Menyangkut rakyat kita yang sedang perlu bantuan, affirmative bantuan berpihak dan semua negara yang maju. Yang saya lihat negara-negara yang maju menggunakan makan untuk anak-anak sekolah untuk mengurangi kemiskinan, untuk memperbaiki fisik dan kecerdasan generasi-generasi yang penerus."
+  },
+  {
+   "t": 1044.64,
+   "d": 51.04,
+   "text": "Jadi program ini adalah sangat penting dan program ini kalau berhasil akan menimbulkan suatu kemajuan yang sangat besar untuk ekonomi kita, Saudara-saudara. Kalau dapur-dapur berhasil, kalau program-program ini berjalan dengan benar, berarti ekonomi di desa akan hidup."
+  },
+  {
+   "t": 1071.4,
+   "d": 89.0,
+   "text": "petani-petani akan meningkat penghasilannya. Dia tidak akan diganggu oleh tengkulak. Dia bisa mendapat suatu jaminan produknya, hasil keringatnya bisa diserap, bisa dibeli, dan dia bisa menjalankan kehidupan yang lebih baik. Saudara-saudara, kalau nanti program ini berjalan di puncaknya, kita bisa memberi makan 80 sekian juta, 83, 85 juta."
+  },
+  {
+   "t": 1116.8,
+   "d": 93.0,
+   "text": "30.000 Ibu dapur berjalan dengan benar dan baik, kita bisa me menghasilkan 1,5 juta pekerjaan formal dan mungkin 1,5 juta lagi pekerjaan yang nyata di ekonomi pedesaan. 3 juta lapan kerja. Uang yang beredar di desa akan sangat besar. Jadi, Saudara-saudara, saya yakin dan saya percaya program ini akan berhasil."
+  },
+  {
+   "t": 1169.19,
+   "d": 92.03,
+   "text": "[bersorak] Dan saudara-saudara, adalah [menghela napas] salah satu unsur utama dari keberhasilan program ini. Saudara-saudara yang telah kita rekrut, Saudara-saudara yang kita telah didik, SPPI, Sarjana Penggerak Pembangunan Indonesia. Kita telah mendidik saudara, merekrut saudara, menggembleng saudara, menanam nilai-nilai cinta tanah air, nilai-nilai pengabdian kepada negara dan bangsa."
+  },
+  {
+   "t": 1219.92,
+   "d": 51.18,
+   "text": "dan diberi tugas untuk memimpin dan mem-manage dapur-dapur tersebut. Juga di sini tadi dilaporkan ke saya 5.000 mitra. Coba angkat tangan mitra-mitra angkat tangan mitra-mitra. Biar saya lihat tampang-tampang kalian. Angkat tangan mitra yang yakin dia mitra yang baik. Angkat tangan."
+  },
+  {
+   "t": 1264.82,
+   "d": 67.18,
+   "text": "[bersorak] Oke, turun mitra yang baik. Turun mitra yang baik, mitra yang brengsek angkat tangan. Angkat tangan. [bersorak] Mitra yang brengsek angkat tangan. Enggak ngaku ya? [bersorak] Bapak, [menangis] [bersorak] Saudara-saudara, kalaupun saudara mitra yang brengsek tapi tidak mau ngaku, saya beri kesempatan kembalilah ke jalan yang benar."
+  },
+  {
+   "t": 1329.66,
+   "d": 83.66,
+   "text": "[bersorak] Kembalilah ke jalan yang benar. Dan kalau saudara yang cepat-cepat lapor ngaku insyaallah selamat. Kalau saudara merasa saudara bisa lebih pintar dari NKRI, iya coba aja ya. Kepala BPKP, apa yang kau butuh? Kalau kau perlu tambahan personil, berapa saja kau butuh, saya penuhi."
+  },
+  {
+   "t": 1384.03,
+   "d": 94.71,
+   "text": "[bersorak] Ketua KPK, berapa saja yang kau perlu? Lapor saya penuhi. Jaksa Agung. [bersorak] Berapa saja yang kau perlu saya penuhi. Kalau perlu yang sekian T kom mauor ke saya kau pakai untuk memperkuat jaksa Agung. Ya, [bersorak] BPKP, KPK, semua penegak hukum harus kita perkuat karena saya tidak mau NKRI dileceken. Saya tidak mau bahwa pemerintah Republik Indonesia tidak dihormati."
+  },
+  {
+   "t": 1448.6,
+   "d": 62.97,
+   "text": "Saya tidak mau uang rakyat dicuri. Saya tidak mau uang rakyat dicuri. Dan tidak ada tidak ada pengecualian. Saya katakan berat bagi saya. Waktu saya tanda tangan berat. Ini orang yang saya angkat. Ini orang saya kasih bintang, saya kasih pangkat. Jadi, Saudara-saudara, soalnya waktu saya minta mitra yang brengsek enggak ada yang angkat tangan. Ya sudah, ya."
+  },
+  {
+   "t": 1503.76,
+   "d": 60.16,
+   "text": "Gue, gue udah warning lu ya. [bersorak] [bersorak] Saya kira cukup sekian ya. Wasalamualaikum warahmatullahi wabarakatuh. [bersorak] Apalagi yang harus saya bicara, [bersorak] Saudara-saudara. Masalah makan ini masalah sakral. Makan bagi orang susah tidak boleh jadi sarana memperkaya oknum-oknum."
+  },
+  {
+   "t": 1565.8,
+   "d": 55.68,
+   "text": "Makan paling gampang dikorupsi. makan paling gampang dikorupsi ya. Dan kemarin saya dan Pak Tony Robins ini kita ikut makan di salah satu sekolah dan ini dapur yang salah satu terbaik aku makan. Saya akui karena ini apa itu dapurnya Polri yang agak baik, Pak. Saya saya."
+  },
+  {
+   "t": 1600.36,
+   "d": 66.82,
+   "text": "Kenapa kalian ketawa? Kenapa kalian ketawa? Hah? Kenapa? Hah? Ya, bagus dong. Agak baik bagus. [bersorak] [tepuk tangan] Daripada agak jelek, agak baik ya. Nasinya enak. Nasinya enak. Pulen pulen. Saya curiga ini khusus untuk karena sudah dapat info presiden mau datang."
+  },
+  {
+   "t": 1638.83,
+   "d": 74.21,
+   "text": "[bersorak] Coba kepala bin adakan penyelidikan. Lain kali ya kalau saya datang. Awas jangan beritahu saya mau datang. Ini nasinya enak. Saya akui Pulen enggak kalah sama restoran Jepang. Ah kemudian apa itu ee tempe apa tuh kemarin tuh? Hah? Orek. Oh orek tempe."
+  },
+  {
+   "t": 1680.16,
+   "d": 69.68,
+   "text": "Orek tempe. W enak sekali. Hanya hanya kurang banyak. Tapi oke ini anak-anak SMP kalau aku kan makannya lebih banyak. Kemudian sayurnya juga enak. Sayur labo campur jagung. Oke. Walaupun ya porsinya agak sedikit juga ya. Pak Toni sama saya makan dia gede orangnya kan. Dia dalam hati aduh kasihan anak Indonesia."
+  },
+  {
+   "t": 1728.12,
+   "d": 55.64,
+   "text": "Nah masalah ayam bawa ke atas ayamnya. Bawa ke atas mana ada ayam. Ba sini B sini di depan situ. Saya minta perwakilan mitra 10 orang naik ke sini. 10 orang. Ayo berdiri di situ. Berdiri situ. Berdiri di situ. Situ situ. Situ situ. Satu baris situ. Situ situ."
+  },
+  {
+   "t": 1797.4,
+   "d": 63.52,
+   "text": "I sini sana. Mundur mundur mundur mundur mundur. Satu baris. Cukup cukup cukup. Cukup cukup cukup. Hah? Cukup nanti enggak kelihatan. Eh, kamera ada ke sini enggak? Kamera. Kamera bisa enggak ditayangkan di atas? Ada kamera bisa tayang di atas. Mundur, mundur, mundur."
+  },
+  {
+   "t": 1829.0,
+   "d": 61.87,
+   "text": "Kameramu bisa? Iya, bisa diatur. Eh, turun turun turun. [bersorak] Iya. Eh, bisa mau salim. Iya, iya iya iya. Eh, mau salim. Iya, sudah sudahudah. [bersorak] Iya, ya. Ya. Eh, sebentar sebentar [bersorak] sebentar. Enggak usah foto, Pak. Saya keliling Indonesia sendiri, Pak."
+  },
+  {
+   "t": 1865.16,
+   "d": 53.1,
+   "text": "Iya. Iya. Sudah saya berani taruhkan saya turun loh ini. Saya mau kasih pelajaran turun dulu. Mundur dulu. Mundur dulu yang disiplin dong. Malu. Ada orang asing ini. Lihat [bersorak] gimana sih emak-emak ini? Ah kamera. Kamera. Eh kamera kamu bisa kelihatan di atas."
+  },
+  {
+   "t": 1895.56,
+   "d": 46.96,
+   "text": "Iya. Ini ini. Eh, coba lihat ayamnya. Ayamnya ayamnya. Kasih lihat ayam ya. Yang kiri. Yang kiri kelihatan porsi kecil enggak? Kelihatan di atas ini. Potong enggak kelihatan. Kelihatan, Pak. Kelihatan, Pak. Ini 12 kelihatan ini ya? Kelihatan. Yang kiri adalah porsi kecil."
+  },
+  {
+   "t": 1918.44,
+   "d": 91.76,
+   "text": "Ee ayam dipotong 14. 14. Ini 14. Selesai potong 10 ya. Ayam dipotong 14. Ini 10. Yang ini 10. 10. 10 Pak. Yang ini berapa? Yang ini delan. Yang kanan delapan delapan ini yang del gramnya knya sebesar ini delak ada 1,2 Pak Bapak Bapak saya jawab Bapak boleh dibantu saya yang jawab, Pak? Boleh. Biar biar Bapak bekerja dulu mah kecil banget. Terlalu kecil, Pak."
+  },
+  {
+   "t": 1984.32,
+   "d": 66.29,
+   "text": "Saya bantu jawab. Kami pakai yang ini, Pak. Jadi yang 14 aja sebesar ini. Kalau kecil begini ya berapa? Iya. Jangan-jangan 18 atau 22, [bersorak] Pak. Enggak ada yang 14, Pak. Saya bantu jawab, Pak. [tertawa] Ini trennya 10 sama del Pak. Kalau kalau potong lebih dari 14 dosa [bersorak] dosa betul betul betul setuju setuju setuju."
+  },
+  {
+   "t": 2025.72,
+   "d": 62.76,
+   "text": "Berapa juta anak-anak Indonesia? Iya Bapak akan kecewa. 10 Bapak 10 Pak. 10 sama 12 Pak. Saya 10, Pak. Porsi besar itu benar ya. Kecil itu 12, Pak. [bersorak] Nanti saya minta ya, Menteri Pendidikan Mendikdas minta kepala-kepala sekolah, guru-guru, anak-anaknya suruh lapor."
+  },
+  {
+   "t": 2058.16,
+   "d": 73.32,
+   "text": "Bapak [bersorak] ayamnya kecil atau besar? Siap, Bapak. Kalau perlu secara random difoto dan ditimbang ya. Ya. Oke. Mitra-mitra yang kedua, telur. Telur jangan bikin dadar. Setuju. Iya. Enggak. Tidak, Pak. Tidak. Sekarang tidak. [bersorak] Iya. Enggak ada. Engak boleh, Pak."
+  },
+  {
+   "t": 2096.0,
+   "d": 56.4,
+   "text": "Telulat, Pak. Telur itu dariulan, Pak. Biar, biar sekarang. Sekarang ini ada emak di belakang. Enggak, Pak. Sekarang enggak. Iya, Pak. Berarti kemarin iya ya. Sama [bersorak] energisinya dia mengawasi. Kalau telur dadar, kalau telur dadar saya sudah lama jadi orang Indonesia. Kalau telur dadar nanti dicampur macam-macam itu."
+  },
+  {
+   "t": 2133.56,
+   "d": 94.61,
+   "text": "Iya kan? Tepungnya lebih banyak dari telurnya. Betul. [bersorak] Jadi telur harus utuh ceplok atau rebus. Betul ya. [bersorak] Mendik Dasmen, kepala sekolah, guru yakinkan tidak ada lagi telur dadar atau telur apa itu orek-orek. Iya. Apa? Iya, harus dicok. Harus diceplok dan bulat, Pak. dan harus dikupas juga itu kulitnya. [bersorak] Oke, ini ini akan dipakai. Saya jamin 10 ini akan dipakai, Pak. Jamin ini."
+  },
+  {
+   "t": 2194.36,
+   "d": 50.04,
+   "text": "Baik, sudah lihat 10, Pak. Ini, Pak. Benar, ya. Sanggup. Betul. Betul. Betul. Awas loh. Aku nanti aku duakan kalat. [bersorak] He, betul. Setuju. Oke. Oke, Pak. Terima kasih. Kembali ke tempat. [bersorak][tepuk tangan] Pakaman, Pak. Saya keliling Indonesia demi Bapak, Pak."
+  },
+  {
+   "t": 2225.92,
+   "d": 45.32,
+   "text": "Saya ingin selamat. Saya sumbangan sejak yang lebih sumpah. Oke, nanti dicatat ya. Saya sisain satu bisa bicara [tertawa] dengan Bapak sebentar. Terima kasih ya. Mas, Mas. Itu saya minta pengin difollow, Pak. Bapak harus tahu saya pendukung Bapak Kepala Dapur SPPI kalian bertanggung jawab."
+  },
+  {
+   "t": 2270.64,
+   "d": 58.94,
+   "text": "untuk mengawasi. [bersorak] Jangan kau larut ikut main-main juga enggak benar. Benar. Jangan anggap enteng. Mata dan telinga saya ada di mana-mana. Saya kira itu dari saya ya. Enggak usah panjang lebar. [bersorak] Makan ini pekerjaan yang mulia bagi kita dan ini harus berhasil, akan berhasil."
+  },
+  {
+   "t": 2313.92,
+   "d": 44.75,
+   "text": "Kalian bagian penting, tapi kalau kalian tidak mau bekerja dengan baik, kalian harus minggir. Kita cari anak-anak Buddha yang baru. [tepuk tangan] Kalau kalian tidak bekerja dengan baik, kalau kalian tidak sungguh-sungguh, kalau kalian tidak setia dan tidak loyal, silakan minggir."
+  },
+  {
+   "t": 2342.16,
+   "d": 53.88,
+   "text": "Ya, yang penting kepentingan rakyat di atas semua kepentingan. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. [tepuk tangan] Shalom. Salve, Om. Santi. Santi. Santi om. Merdeka. Merdeka. Kurang semangat. Merdeka. [berteriak] Merdeka."
+  },
+  {
+   "t": 2372.84,
+   "d": 6.88,
+   "text": "Begitu. Terima kasih. sampai"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "9KWsOM3B6_c",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/9KWsOM3B6_c.json"
+ }
+}

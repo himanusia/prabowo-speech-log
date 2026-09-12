@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pidato-presiden-prabowo.himanusia.com/sitemap.xml

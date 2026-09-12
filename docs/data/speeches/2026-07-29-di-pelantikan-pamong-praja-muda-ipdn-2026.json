@@ -1,0 +1,257 @@
+{
+ "id": "2026-07-29-di-pelantikan-pamong-praja-muda-ipdn-2026",
+ "video_id": "IHY-7SvqxoI",
+ "date": "2026-07-29",
+ "title": "[FULL] Pidato Presiden Prabowo di Pelantikan Pamong Praja Muda IPDN 2026 | LIVE EVENT",
+ "channel": "METRO TV ",
+ "youtube_url": "https://www.youtube.com/watch?v=IHY-7SvqxoI",
+ "duration_s": 1631,
+ "duration_hms": "27:11",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 513,
+ "token_count": 1616,
+ "unique_word_count": 604,
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "IHY-7SvqxoI",
+   "url": "https://www.youtube.com/watch?v=IHY-7SvqxoI",
+   "title": "[FULL] Pidato Presiden Prabowo di Pelantikan Pamong Praja Muda IPDN 2026 | LIVE EVENT",
+   "channel": "METRO TV ",
+   "upload_date": "2026-07-29",
+   "duration_s": 1631,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 1616,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 513,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 9,
+  "tata_kelola": 6,
+  "pertahanan_dan_keamanan": 8,
+  "nasional_dan_identitas": 115,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 0,
+  "context_count": 0,
+  "ambiguous_count": 0,
+  "policy_signal_count": 0,
+  "present": false,
+  "evidence": []
+ },
+ "transcript": [
+  {
+   "t": 2.8,
+   "d": 63.08,
+   "text": "Amanat Inspektur upacara. Pasukan diistirahatkan untuk perhatian. Istirahat di tempat. K. Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah. Selamat pagi. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu."
+  },
+  {
+   "t": 38.6,
+   "d": 100.44,
+   "text": "Namo buddhaya. Salam kebajikan. Yang saya hormati Menteri Dalam Negeri sebagai penyelenggara Jenderal Polisi Purnawirawan Muhammad Tito Karnavian. Menteri Koordinator Politik dan Keamanan Jenderal TNI Pnawirawan Jamari Caniago, Menteri Sekretaris Negara, Saudara Prasetyo Hadi, Menteri Luar Negeri, Saudara Sugiono, Menteri Pemberdayaan Apatur Negara dan Reformasi Birokrasi, Saudari Rini Widiantini, Jaksa Agung Profesor ST Burhanudin, Kepala Kepolisian Negara Republik Indonesia, Jenderal Polisi Listio Sigit Prabowo."
+  },
+  {
+   "t": 97.8,
+   "d": 60.32,
+   "text": "Panglima Tentara Nasional Indonesia Jenderal TNI Agus Subianto, Kepala Badan Intelijen Negara Jenderal TNI Pnawirawan Muhammad Herindra. Sekretaris Kabinet Republik Indonesia, Letnan Kolonel Infanter Teddy Indrawijaya. Wakil Menteri Dalam Negeri 1, Saudari Rifka Haluk, Wakil Menteri Dalam Negeri D, Saudara Bima Arya."
+  },
+  {
+   "t": 127.56,
+   "d": 117.36,
+   "text": "Wakil Menteri Dalam Negeri 3 Komisaris Jenderal Polisi Pnawirawan Ahmad Wiagus, Rektor Institut Pemerintahan Dalam Negeri, Saudara Halilul Khairi, Gubernur Jawa Barat, Saudara Dedi Mulyadi beserta Forkopimda Jawa Barat yang saya hormati. para dosen, para pelatih, pengasuh, dan segenap civitas akademik Institute Pemerintahan Dalam Negeri, para orang tua dan keluarga besar, para pamong praja muda yang hadir di IPDN dan di mana pun Saudara berada di seluruh tanah air."
+  },
+  {
+   "t": 189.92,
+   "d": 77.96,
+   "text": "Yang baru saya lantik seluruh pamungkatan ke-33 tahun 2026 yang saya banggakan. Pertama-tama sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur ke hadirat Allah Subhanahu wa taala, Tuhan maha kuasa, Tuhan maha besar yang memiliki sekalian alam."
+  },
+  {
+   "t": 228.72,
+   "d": 80.2,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyalah kita meminta pertolongan. Kita bersyukur atas segala karunia, segala berkah dan kedamaian yang masih diberikan kepada bangsa kita, atas nafas dan kesehatan yang masih diberikan kepada kita, atas segala rahmat-Nya sehingga hari ini kita dapat berkumpul untuk bersama-sama menghadiri dan melaksanakan pelantikan Pamuong Praja Muda angkatan ke-33 tahun 2026."
+  },
+  {
+   "t": 275.12,
+   "d": 73.94,
+   "text": "Hari ini tentunya adalah hari yang istimewa bagi saudara-saudara. Saya atas nama pemerintah Republik Indonesia, atas nama negara bangsa dan rakyat Indonesia, dan atas nama pribadi ucapkan selamat kepada seluruh pamong praja muda yang hari ini resmi dilantik. [tepuk tangan] Hari ini saudara telah memilih sebuah jalan hidup yang mulia."
+  },
+  {
+   "t": 316.6,
+   "d": 68.72,
+   "text": "Jalan hidup untuk mengabdi kepada rakyat, kepada bangsa, dan kepada negara kesatuan Republik Indonesia. Jalan hidup yang Saudara telah pilih bukan jalan yang mudah. bukan jalan yang ringan, tapi jalan yang penuh rintangan, yang penuh kesulitan, yang penuh tantangan, dan yang paling utama adalah yang perlu pengorbanan."
+  },
+  {
+   "t": 357.72,
+   "d": 79.64,
+   "text": "Bahkan sesungguhnya saudara-saudara anak-anakku semua, kalian telah memilih siap berkorban jiwa dan ragamu untuk negara kesatuan Republik Indonesia. hidupmu penuh dengan tuntutan dari bangsa dan negara. Saudara harus menjadi pamung praja yang hadir ketika rakyat sedang menghadapi kesulitan."
+  },
+  {
+   "t": 408.2,
+   "d": 89.7,
+   "text": "Saudara harus menjadi pelita harapan. Saudara harus menjadi tonggak dukungan dan kepimpinan bagi masyarakat. Saudara-saudara sekalian, saudara adalah angkatan pamung praja yang telah ikut turun langsung selama 1 bulan membantu menangani bencana di Aceh. [tepuk tangan] Sebelum saudara dilantik, saudara sudah dituntut untuk bekerja membantu rakyat di saat rakyat menghadapi kesulitan."
+  },
+  {
+   "t": 459.44,
+   "d": 87.44,
+   "text": "Saudara-saudara, menjadi pamung praja bukan sekedar menyandang pangkat atau jabatan. Kehormatan seorang aparatur negara tidak diukur dari kedudukannya, tapi seberapa besar manfaat yang dirasakan oleh rakyat. Saudara-saudara, saudara adalah pelayan rakyat. Saudara harus melayani, melindungi, dan mengayomi masyarakat, mengayomi rakyat Indonesia dengan sebaik-baiknya."
+  },
+  {
+   "t": 508.72,
+   "d": 91.44,
+   "text": "Rakyat kita tidak membutuhkan birokrasi yang berbelit-belit. rakyat kita tidak perlu pemimpin-pemimpin yang tidak bekerja dengan sebaik-baiknya. Rakyat membutuhkan bahkan rakyat menuntut aparatur yang bekerja jujur, disiplin, bersih, tidak korupsi, berani mengambil keputusan, dan selalu hadir ketika rakyat membutuhkan."
+  },
+  {
+   "t": 556.0,
+   "d": 106.08,
+   "text": "Rakyat menuntut aparatur negara yang mengutamakan kepentingan rakyat, bukan kepentingan pribadi atau golongan. Di mana pun saudara bertugas, ingat saudara adalah wajah dan lambang negara. dari sikap saudara, dari penampilan saudara, rakyat menilai apakah negara kita hadir atau tidak, apakah negara kita tertib atau tidak, apakah negara kita membanggakan atau tidak? Apakah negara kita negara yang terhormat atau tidak?"
+  },
+  {
+   "t": 613.04,
+   "d": 64.56,
+   "text": "rakyat yang akan merasakan apakah negara peduli dengan rakyatnya atau tidak. Dan dari keputusan-keputusan saudara, rakyat akan menilai apakah negara layak dipercaya atau tidak. Itu beratnya tugas dan tanggung jawab seorang pamong praja. Karena itu bekerjalah dengan sebaik-baiknya."
+  },
+  {
+   "t": 649.8,
+   "d": 74.36,
+   "text": "Kalau saudara bekerja dengan baik, rakyat akan semakin percaya dan semakin cinta kepada negaranya. Tapi kalau saudara mengecewakan rakyat yang rusak bukan hanya nama saudara, melainkan yang rusak adalah kepercayaan rakyat kepada negara. Saudara-saudara, kita mempunyai cita-cita yang besar."
+  },
+  {
+   "t": 686.12,
+   "d": 68.0,
+   "text": "Indonesia adalah negara besar. Dari jumlah penduduk kita negara keempat terbesar di dunia. Luas-luas wilayah kita sama dengan 27 negara Eropa. Negara kita sangat luas, sangat besar. Dan sekarang kita semakin yakin betapa kayanya negara kita. Karena kayanya ini negara kita ratusan tahun jadi sasaran bangsa-bangsa lain."
+  },
+  {
+   "t": 724.56,
+   "d": 105.12,
+   "text": "Mereka datang untuk mengambil kekayaan kita, Saudara-saudara. Banyak pemimpin-pemimpin kita ratusan tahun di adu domba. diveda et impera pecah belah dan berkuasa itu adalah hukum mereka itu adalah ilmu mereka di Veda et impera pecah belah pecah belah antara suku, pecah belah antara agama pecah belah antara ras pecah belah antara kelompok etnis, pecah belah antara golongan."
+  },
+  {
+   "t": 779.72,
+   "d": 76.24,
+   "text": "Saudara-saudara sekalian, untuk sebuah negara kuat dan berhasil, negara itu memerlukan suatu pemerintahan dalam negeri yang unggul, yang efisien, yang disiplin, dan yang paling penting pemerintahan dalam negeri yang tidak korup, yang cinta tanah air, yang menganggutkan kepentingan rakyat di atas kepentingan yang lain."
+  },
+  {
+   "t": 822.96,
+   "d": 92.32,
+   "text": "Dengan pemerintahan dalam negeri. Yang demikian, sejarah manusia mengajarkan kepada kita, negara akan berhasil, bangsa akan menjadi makmur, rakyat akan jadi sejahtera. Saudara-saudara sekalian, cita-cita besar kita adalah Indonesia menjadi negara yang maju dan modern, negara yang mandiri, kaki kita sendiri yang tidak diatur oleh bangsa lain, tidak didikte oleh bangsa lain, tidak ditip tipu oleh bangsa lain."
+  },
+  {
+   "t": 882.52,
+   "d": 69.76,
+   "text": "Kita ingin melihat rakyat kita hidup dengan baik, hidup dengan sejahtera. Setiap warga negara merasa aman. Setiap warga negara mendapat penghasilan yang layak dan cukup. Tidak ada di antara rakyat Indonesia yang lapar. Tidak ada anak-anak Indonesia yang tidak bisa sekolah."
+  },
+  {
+   "t": 917.12,
+   "d": 84.68,
+   "text": "Tidak ada warga negara kita yang tidak bisa dapat pelayanan rumah sakit bila perlu. Tidak ada di antara rakyat kita yang tidak tinggal di rumah yang layak. Itu cita-cita kita, itu perjuangan kita. Itu nanti tugas saudara-saudara sekalian. Cita-cita besar itu di ambang keberhasilan."
+  },
+  {
+   "t": 966.36,
+   "d": 90.3,
+   "text": "Semua pakar dunia meramalkan. 25 tahun lagi Indonesia menjadi ekonomi keempat di dunia. keempat di atas Perancis, Jerman, Inggris. [tepuk tangan] 25 tahun yang akan datang, Saudara-saudara yang akan menjalankan pemerintahan yang sebenarnya. 25 tahun yang akan datang, sebagian dari saudara akan jadi gubernur."
+  },
+  {
+   "t": 1013.48,
+   "d": 70.88,
+   "text": "Mungkin di antara saudara akan berdiri di podium ini. [tepuk tangan] masa depan milik saudara-saudara sekalian. Kami di sini bekerja mengabdi untuk membuka jalan bagi saudara-saudara sekalian. Saudara-saudara adalah anak-anak kami yang kami siapkan untuk menjaga republik ini setelah kami sudah tidak ada."
+  },
+  {
+   "t": 1053.91,
+   "d": 73.34,
+   "text": "[tepuk tangan] Karena itu saudara harus jadi pemimpin-pemimpin yang terbaik. Saudara adalah penggerak birokrasi pemerintahan, penentu keberhasilan pembangunan di lapangan, Saudara-saudara. Gagasan yang paling besar, rencana yang paling besar, kebijakankebijakan yang paling baik tidak dilaksanakan di lapangan."
+  },
+  {
+   "t": 1095.4,
+   "d": 62.96,
+   "text": "Gagasan besar itu kandas. Rencana terbaik itu tidak tercapai. Karena itu, Saudara-saudara, sungguh-sungguh adalah harapan kami, Saudara-saudara. Kalau nanti bertugas, saudara tidak akan bekerja sendiri. Saudara menjadi bagian dari satu tim besar kebangsaan. Saudara akan bekerja sama dengan TNI."
+  },
+  {
+   "t": 1133.6,
+   "d": 61.8,
+   "text": "dengan Polri, dengan kejaksaan, dengan pemerintah daerah, dengan seluruh unsur pemerintahan dan masyarakat. Saudara harus pandai bergaul, saudara harus pelihara hubungan baik dengan semua unsur, dengan ulama, dengan pengusaha, dengan tokoh masyarakat. dengan tokoh adat."
+  },
+  {
+   "t": 1166.76,
+   "d": 87.4,
+   "text": "Saudara tidak boleh sekali-sekali menjadi pemimpin yang sombong. Bangunlah kerja sama. Kerja sama adalah kunci dari keberhasilan. Saudara harus saling menghormati, saling mendukung, dan saling memperkuat. Saya percaya bahwa lulusan IPDN angkatan 33 tahun 2026 adalah putra-putri terbaik bangsa [tepuk tangan] yang memiliki semangat pengabdian, disiplin, keberanian, dan integritas."
+  },
+  {
+   "t": 1213.92,
+   "d": 70.66,
+   "text": "Saya sebelum naik podium saya dapat laporan dari Menteri Dalam Negeri. Bapak Presiden, 10 lulusan terbaik dari angkatan ini semuanya berasal dari keluarga yang sangat sederhana. [tepuk tangan] Ini tadi saya disampaikan ada yang anaknya buruh, ada anak tani, ada anakara tentara."
+  },
+  {
+   "t": 1261.6,
+   "d": 117.3,
+   "text": "Iya. Kalau dari TNI anak Bintara ini membuktikan bahwa seleksi IPDN yang dijalankan oleh Kementerian Dalam Negeri berhasil. Kita inginkan seleksinya benar. Putra-putri yang terbaik bangsa, anak siapapun. Ini membuktikan NKRI berhasil. [tepuk tangan] Kalau anak buruh harian bisa lulus menjadi pamung praja, siapa tahu suatu saat dia akan menjadi pemimpin-pemimpin yang hebat. Ini buktikan bahwa NKRI berhasil, bahwa Pancasila itu benar."
+  },
+  {
+   "t": 1330.72,
+   "d": 61.98,
+   "text": "NKRI dan Pancasila harus menjadi negara dipimpin oleh mereka-mereka yang terbaik. Mereka-mereka yang berprestasi, meritokrasi. Mereka yang berprestasi silakan maju. Maju. Ini membanggakan hati saya, Saudara-saudara sekalian. [tepuk tangan] Akhirnya saya berpesan beberapa hal."
+  },
+  {
+   "t": 1366.68,
+   "d": 88.0,
+   "text": "selalu cintai tanah air kita, selalu cintai rakyat kita, saudara-saudara adalah anak kandung rakyat. Setialah kepada semua rakyat kita. Seolah-olah semua rakyat itu adalah orang tuamu. Pegang teguh Pancasila. Jangan punya kesetiaan sempit. Negara kita besar, banyak suku, banyak agama, banyak ras, banyak kelompok enis, semua satu keluarga."
+  },
+  {
+   "t": 1421.4,
+   "d": 69.16,
+   "text": "Semua suku adalah saudaramu. Semua agama adalah saudaramu. Semua ras adalah saudaramu. Semua kelompok etnis adalah saudaramu. Saudara sekalian, pegang teguh Undang-Undang Dasar Negara Republik Indonesia tahun 1945. Undang-Undang Dasar 1945 lahir dari pendiri-pendiri bangsa yang mengalami penjajahan ratusan tahun."
+  },
+  {
+   "t": 1455.56,
+   "d": 77.12,
+   "text": "Karena itu Undang-Undang Dasar Negara kita yaitu Undang-Undang Dasar 1945 itu adalah murni suara kemerdekaan, murni suara cita-cita pendiri bangsa kita. Jangan pernah khianati pendiri-pendiri bangsa kita. Akhirnya saya pesan lagi, bekerjalah dengan hati tanpa kesombongan."
+  },
+  {
+   "t": 1497.08,
+   "d": 65.44,
+   "text": "selalu dekat dengan rakyat, selalu membela rakyatmu. Kalau ragu-ragu, berpihaklah kepada rakyatmu. Kalau kau ragu-ragu mengambil keputusan, tanya kepada dirimu mana yang menguntukkan rakyat? Kalau kau yakin pilihan cara bertindakmu menguntukkan rakyat. Apalagi rakyat yang paling lemah, rakyat yang paling miskin, rakyat yang paling tidak berdaya."
+  },
+  {
+   "t": 1532.64,
+   "d": 65.66,
+   "text": "Pilih cara bertindak itu tidak akan salah, Saudara-saudara. [tepuk tangan] Saya juga berpesan, buatlah orang tua selalu bangga dengan Anda. Buatlah almamatarmu bangga. Yang paling penting, buatlah rakyat Indonesia bangga dengan pamong prajanya. Selamat bertugas."
+  },
+  {
+   "t": 1571.64,
+   "d": 68.0,
+   "text": "Selamat mengabdi kepada bangsa dan negara. Selamat berjuang. Semoga Tuhan yang Maha Esa, Tuhan yang maha kuasa senantiasa memberi kekuatan, petunjuk, dan perlindungan kepada kalian semua di mana pun kalian bertugas dan mengabdi. Dan tentunya semoga Tuhan yang mesa selalu bersama kita."
+  },
+  {
+   "t": 1609.0,
+   "d": 46.16,
+   "text": "Indonesia menanti pengabdianmu. Terima kasih. [tepuk tangan] Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om santi santi santi om. Namo budhaya. Salam kebajikan. Yeah."
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "IHY-7SvqxoI",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/IHY-7SvqxoI.json"
+ }
+}

@@ -1,0 +1,405 @@
+{
+ "id": "2026-07-24-di-harlah-pkb-singgung-prabowonomics-hingga-tegaskan",
+ "video_id": "vyp6JITYFM8",
+ "date": "2026-07-24",
+ "title": "FULL! Pidato Prabowo di Harlah PKB, Singgung Prabowonomics hingga Tegaskan Jalankan Amanat UUD 1945",
+ "channel": "KOMPASTV",
+ "youtube_url": "https://www.youtube.com/watch?v=vyp6JITYFM8",
+ "duration_s": 2920,
+ "duration_hms": "48:40",
+ "source_tier": "full_media",
+ "fetch_method": "caption_api",
+ "snippet_count": 773,
+ "token_count": 2730,
+ "unique_word_count": 900,
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "vyp6JITYFM8",
+   "url": "https://www.youtube.com/watch?v=vyp6JITYFM8",
+   "title": "FULL! Pidato Prabowo di Harlah PKB, Singgung Prabowonomics hingga Tegaskan Jalankan Amanat UUD 1945",
+   "channel": "KOMPASTV",
+   "upload_date": "2026-07-24",
+   "duration_s": 2920,
+   "source_tier": "full_media",
+   "fetch_method": "caption_api",
+   "token_count": 2730,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 773,
+   "discovery_origins": [
+    "search_pidato",
+    "search_sambutan"
+   ],
+   "selection_reason": "existing_baseline",
+   "canonical": true
+  },
+  {
+   "video_id": "kGOo1E2KmLw",
+   "url": "https://www.youtube.com/watch?v=kGOo1E2KmLw",
+   "title": "LIVE Pidato Prabowo di Harlah PKB",
+   "channel": "CNN Indonesia",
+   "upload_date": "2026-07-23",
+   "duration_s": 2930,
+   "source_tier": "full_media",
+   "fetch_method": "transcript_panel",
+   "token_count": 2793,
+   "status": "ok",
+   "language": "Indonesian (auto-generated)",
+   "is_generated": true,
+   "snippet_count": 345,
+   "discovery_origins": [
+    "search_sambutan"
+   ],
+   "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 12,
+  "pendidikan": 9,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 3,
+  "pertahanan_dan_keamanan": 7,
+  "nasional_dan_identitas": 77,
+  "mbg": 0
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "exact_token_count": 0,
+  "full_phrase_count": 0,
+  "paired_terms_count": 1,
+  "context_count": 0,
+  "ambiguous_count": 1,
+  "policy_signal_count": 0,
+  "present": true,
+  "evidence": [
+   {
+    "start": 290.479,
+    "matches": [
+     "ambiguous"
+    ]
+   },
+   {
+    "start": 1949.48,
+    "matches": [
+     "paired_terms"
+    ]
+   }
+  ]
+ },
+ "transcript": [
+  {
+   "t": 0.88,
+   "d": 53.36,
+   "text": "Hadirin yang kami hormati, selanjutnya kita simak bersama sambutan Presiden Republik Indonesia, Bapak Prabowo Subianto. Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Selamat malam. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya."
+  },
+  {
+   "t": 77.08,
+   "d": 59.64,
+   "text": "Salam kebajikan. Rahayu-rahayu. Sebagai insan yang bertakwa, marilah kita tidak henti-henti memanjatkan puji syukur kehadirat Allah Subhanahu wa taala, Tuhan maha besar, Tuhan maha kuasa. yang memiliki sekalian alam. Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita memohon pertolongan."
+  },
+  {
+   "t": 111.84,
+   "d": 85.4,
+   "text": "Kita bersyukur atas segala karunia, segala berkah, segala kebaikan atas kedamaian yang masih diberikan kepada bangsa kita. Di tengah dunia yang penuh peperangan, pertikaian, konflik. Kita bersyukur atas nafas dan kesehatan yang masih diberikan kepada kita sehingga kita dapat berkumpul pada malam hari ini pada acara hari tahun ke-28 Partai Kebangkitan Bangsa."
+  },
+  {
+   "t": 160.68,
+   "d": 75.36,
+   "text": "Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka. Yang ee saya hormati Ketua Umum Partai Kebangkitan Bangsa sekaligus Menteri Koordinator Pemberdayaan Masyarakat Kabinet Merah Putih Saudara Abdul Muhaimin Iskandar. Ketua Majelis Permusatan Rakyat Indonesia, Saudara Ahmad Muzani."
+  },
+  {
+   "t": 210.16,
+   "d": 116.1,
+   "text": "Wakil Ketua Dewan Perwakilan Rakyat Republik Indonesia, Prof. Daskoh Ahmad yang sekaligus adalah Ketua Harian Partai Gerindra. Wakil Ketua MPR RI yang hadir, Saudara Rusdi Kirana, Saudara Bambang Wurianto, Saudara Edi Baskoro Yudoyono, saudara Edi Dwianto Suparno, saudara Abcandra Muhammad Akbar Supratman, saudari Sari Juliati, Saudara Cucun Ahmad Samsal, para ketua umum partai yang hadir, Ketua Umum Partai Golongan Karya, Saudara Bahlil Lahadia [bersorak] katanya."
+  },
+  {
+   "t": 290.48,
+   "d": 52.16,
+   "text": "MBG singkatan Mas Bahlil ganteng bisa aja loh. Ketua Umum Partai Amanat Nasional Saudara Zulkifli Hasan. tadi ketua umum parti karya sekaligus dia adalah menteri ESDM. Ketua Umum Partai Amanat Nasional Saudara Sugifi Hasan sekaligus adalah Menteri Koordinator Pangan."
+  },
+  {
+   "t": 332.28,
+   "d": 62.92,
+   "text": "Ketua Umum Partai Demokrat, Saudara Agus Harimurti Yodoyono yang juga adalah Menteri Koordinator Infrastruktur dan Pembangunan Kewilayahan. Presiden Partai Keadilan Sejahtera, Saudara Almuzamil Yusuf. yang mewakili Ketua DPP PDI Perjuangan, Saudara Jarot Saiful Hidayat."
+  },
+  {
+   "t": 375.08,
+   "d": 78.76,
+   "text": "Partai Nasional Demokrat diwakili oleh Sekjen Nasdem, Saudara Hermawi Taslim, Ketua Umum Partai Persatuan Pembangunan Saudara Muhammad Mardiono. Ketua Umum Partai Rakyat Adil Makmur, Saudara Agus Jabo Priono, Ketua Umum Partai Perindo, Saudari Angela Tanu Sudibo. Ya, yang saya muliakan para kiai dan ulama yang tidak dapat saya sebutkan satu persatu tanpa mengurangi rasa hormat."
+  },
+  {
+   "t": 420.12,
+   "d": 59.09,
+   "text": "Tapi hadir di sini juga pengasuh Pondok Pesantren Lirboyo Kediri, Bapak K. H. Abdullah Kafah Bihi Mahrus. Mustasyar PBNU, mantan ketua umum PBNU 2010-2021, Bapak K. H. Said Agil Siraj, [bersorak][tepuk tangan] Ketua Dewan Suruh Partai Kebangkitan Bangsa, Bapak K. H. Manarul Hidayah."
+  },
+  {
+   "t": 465.12,
+   "d": 46.64,
+   "text": "Ketua Dewan Pembina DPP Perempuan Bangsa, Saudari Rustini Muhaimin Iskandar. Para nyai, ibu-ibu yang saya hormati, para menteri koordinator, para menteri dan wakil menteri, serta seluruh anggota kabinet merah putih yang hadir yang tidak saya sebut satu persatu tanpa mengurangi rasa hormat saya."
+  },
+  {
+   "t": 491.48,
+   "d": 74.94,
+   "text": "Duta Besar Negara Palestina Yang Mulia Adal Fattah Aka Alatari. [bersorak] Sekali lagi para tokoh agama, para ulama, para kiai, dan para ibu nyai yang saya hormati. Para anggota Dewan Suryah DPP Partai Kebangkitan Bangsa, pimpinan Dewan Perwakilan DPP, PKB, Pusat, Wilayah, dan cabang. Yang saya hormati para pengurus dan seluruh kader Partai Kebangkitan Bangsa di mana pun Engkau berada."
+  },
+  {
+   "t": 539.48,
+   "d": 72.76,
+   "text": "seluruh hadirin undangan dan rekan-rekan pers media yang hadir. Pertama-tama tentunya tadi saya sebut juga saya ingin sampaikan penghormatan saya, ucapan terima kasih saya atas kehormatan yang besar diberikan kepada saya untuk hadir dalam acara ini. Saya sungguh merasa bahagia dan merasa terharu hadir di acara malam hari ini."
+  },
+  {
+   "t": 584.92,
+   "d": 93.87,
+   "text": "[bersorak] [bersorak] Saya terharu karena PKB dalam hari ulang tahunnya dengan begitu tegas menyampaikan dukungan kepada arah baru ekonomi kita. Saya juga merasa terharu saudara memakai kaos [bersorak] Prabowo Nomix. Sesungguhnya terus tenang saja tidak pantas saudara pakai nama saya di situ."
+  },
+  {
+   "t": 662.32,
+   "d": 113.68,
+   "text": "Ketegasan perjuangan saya, keyakinan saya itu adalah keyakinan saya terhadap cita-cita pendiri bangsa. Keyakinan saya terhadap proklamasi 17 Agustus 1945, keyakinan saya terhadap Undang-Undang Dasar Negara kita. Keyakinan saya terutama kepada pasal 33 Undang-Undang Dasar 1945 dan Pasal 34, Pasal 33 dan Pasal 34 Undang-Undang Dasar kita itu keyakinan saya. Gag gagasan saya tidak ada yang baru."
+  },
+  {
+   "t": 718.8,
+   "d": 82.48,
+   "text": "Gagasan saya tidak ada yang luar biasa. Gagasan saya hanya ingin menegakkan Undang-Undang Dasar kita. Karena saya yakin bahwa pasal 33 itu dan pasal 34 itu adalah roh dari perjuangan pendiri-pendiri bangsa kita. Kita ingin merdeka dari sejak ratusan tahun, puluhan tahun."
+  },
+  {
+   "t": 768.68,
+   "d": 71.11,
+   "text": "Kita ingin merdeka agar kita seluruh rakyat Indonesia hidup layak. Kita menginginkan rakyat kita hidup layak. Bagaimana kita bisa memberi kehidupan layak kepada rakyat kita kalau kekayaan kita diambil terus, dibawa ke luar negeri dan tidak dinikmati oleh rakyat kita. [bersorak] [tepuk tangan] Ini tidak masuk akal."
+  },
+  {
+   "t": 815.6,
+   "d": 71.64,
+   "text": "Di mana ada ilmu ini, Ibu-ibu, Bapak Bapak kalau punya usaha, kalau punya warung, habis jualan kopi, uangnya ditaruh dan disimpan. Benar, Ibu-ibu? Benar. Masa habis jualan kopi uangnya dibawa di mana itu? Jadi, Ibu-ibu, Bapak-bapak ya, ekonomi itu jangan dianggap ilmu yang ilmu dewa-dewa gitu."
+  },
+  {
+   "t": 860.24,
+   "d": 72.52,
+   "text": "Ekonomi itu sederhana. Kalau ibu buka warung ya itu ekonomi. Satu cangkir kopi modalnya berapa? Dijual berapa? Selisihnya itu untung. Untung ditabung. Indonesia ini kekayaannya dibawa keluar dan tidak ditabung-tabung karena enggak ada di Indonesia. Saudara-saudara, jadi saya terus terang saja ee saya gak ngerti ini ilmunya PKB ini."
+  },
+  {
+   "t": 906.68,
+   "d": 98.71,
+   "text": "PKB ini memang boleh juga ini [tepuk tangan][bersorak] dalam musim dalam musim 1 tahun ya tahunan. Kenapa PGB harlahnya selalu yang pertama ngundang presiden? Sor ye golkar golkar ya ulang tahunmu akhir tahun iya kan Oktober pan ah habis ini Demokrat katanya tanggal tanggal apa ee bulan depan ya Agustus ya September kok bisa ya PKB Ilmunya apa ini? Aduh, ini ini ngeri juga ini kiai-kiai bos nih."
+  },
+  {
+   "t": 978.08,
+   "d": 77.4,
+   "text": "Ini kiai. Habis saya ingat tahun lalu ulang tahun PKB saya masih ingat yang kasih sambutan pertama itu Kiai Mar'ruf waktu itu masih ketua dewan suro ya. itu pidato itu lebih galak dari saya itu. Ingat enggak itu? Ya ingat baru duduk ya kan saya baru duduk belum sempat minum kopi."
+  },
+  {
+   "t": 1025.28,
+   "d": 76.92,
+   "text": "Sudah sudah. Sudah perintah-perintah presiden pasal 33. Pasal 33. Waduh, gimana itu? Kiai Maruf Amin galak banget. Padahal padahal kan sehari-hari muka ya kan. Masyaallah. Kalau udah di podium pasal 33 galak banget itu. Waduh. Presiden Prabowo siap. Siap. Memang ilmu PKB boleh juga Hari ini saya dapat hadiah lagi."
+  },
+  {
+   "t": 1103.12,
+   "d": 112.36,
+   "text": "Luar biasa. Itu langsung dibacakan tadi kesepakatan ijtima ulama Indonesia. Luar biasa. Ini kesepakatan ijtimah ulama ini. Luar biasa. Ilmu lagi ini PKB. Satu, menguatkan negara untuk mewujudkan Indonesia yang berdaulat, maju dan sejahtera. Stimah ulama mendukung langkah-langkah strategis Presiden Prabowo Subianto dalam memperkuat kedaulatan bangsa, membangun kemandirian ekonomi, mempercepat industrialisasi dan hilisasi, mewujudkan ketahanan pangan dan energi, meningkatkan kualitas sumber daya manusia, serta mengembalikan arah pembangunan nasional pada amanat Pancasila dan pasal 33 Undang-Undang Dasar 19 demi sebesar-besarnya kemakmuran rakyat."
+  },
+  {
+   "t": 1179.16,
+   "d": 60.52,
+   "text": "Luar biasa ini. Ini perintah lagi ini. Tapi perintahnya perintahnya adalah sesuai dengan hati nurani saya, Saudara-saudara sekalian. memastikan negara yang kuat tetap berjalan [berdehem] dalam koridor konstitusi, keadilan, dan tata kelola yang baik. Tiga, meneguhkan komitmen ulama untuk memperbaiki dan menata NU menguatkan umat, bangsa, dan negara."
+  },
+  {
+   "t": 1227.96,
+   "d": 71.91,
+   "text": "Saya saya terima kasih saya terima kasih hari ini. Jadi tahun lalu saya dapat perintah tahun ini saya dapat hadiah bersifat perintah juga. Ini partai-partai lain, parti perlu belajar dari PKB [bersorak] [tepuk tangan] ini ya. Ada kelebihan-kelebihan. Mungkin Gus Dur lagi lihat dari atas itu."
+  },
+  {
+   "t": 1284.8,
+   "d": 48.14,
+   "text": "Saya kira sekian ya amanat saya. [bersorak] [bersorak] Karena karena intinya kan sudah sampai. Saudara kasih hadiah, saudara kasih perintah, siap saya laksanakan. [bersorak] Saudara memberi penghargaan yang luar biasa kepada saya. Bahkan Gerindra aja enggak pakai kau seperti kalian."
+  },
+  {
+   "t": 1340.0,
+   "d": 52.32,
+   "text": "Gimana itu Dasok gerinda aja enggak makai. Karena mereka tahu saya enggak enggak izinkan ini. Kalau kalian minta izin tidak mungkin saya izinkan. Benar. Benar. Saya bukan mau sok rendah. Saya bukan. Tapi memang saya enggak pantas. Tidak ada. Ini adalah ekonomi Pancasila, ini ekonomi konstitusi, ini ekonomi rakyat."
+  },
+  {
+   "t": 1379.56,
+   "d": 44.28,
+   "text": "Tapi saya merasa saya sangat dihormati. Jadi saya terima kasih dari hati saya yang paling dalam. Jadi ini pidato yang sudah disiapkan. Mau dibacakan? Hah? Mau dibacakan? Jangankan kalian, aku pun bisa tidur di podium ini. Tapi banyak wartawan ya. Wuh, banyak wartawan."
+  },
+  {
+   "t": 1422.64,
+   "d": 50.08,
+   "text": "Banyak penasihat saya, Pak. Bapak enggak boleh, Pak, bicara tanpa teks. Paling aman baca aja, Pak. Enggak mungkin ada kata-kata yang keliru di situ. Kalau di luar teks kadang-kadang ya kan nanti yang ditunggu wartawan itu enggak? Hari ini saya sopan. Hari ini sopan."
+  },
+  {
+   "t": 1459.28,
+   "d": 46.56,
+   "text": "Jadi apa lagi yang harus saya sampaikan? Terima kasih. Saya khawatir lama-lama di sini saya enggak tahan. Saya bisa keluar air mata. Saya Gerindra aja enggak pakai kaos itu kok. Kaget kok. Coba kok hati-hati kok. Lu mau jadi lu mau jadi ketua harian lagi enggak lu?"
+  },
+  {
+   "t": 1492.11,
+   "d": 59.7,
+   "text": "[bersorak] Ini akal-akalan Gus Imin ini. Memang di Indonesia ini ada dua pemimpin kancil, dua, Gusimin dan Sumi Daskco. Kalau Pak Dasko sekarang sudah jadi profesor, dulu provokator. Kok kalau gue enggak narik lo, jangan-jangan lu enggak tahu ke mana sekarang."
+  },
+  {
+   "t": 1555.68,
+   "d": 81.48,
+   "text": "Kancil ketiga mungkin ketua umum Golkar itu kalau tiga orang itu berkumpul wah repot kita ni bahaya kita cukup saudara-saudara Hah? Enggak boleh media nunggu. Jadi, Saudara-saudara saya ee sangat ee terima kasih. Saya benar-benar saya ee tersentuh tadi rekomendasi ijtimah ada luar biasa ya."
+  },
+  {
+   "t": 1624.0,
+   "d": 73.84,
+   "text": "Saya menangkap bahwa perjuangan kita sudah dipahami dan dimengerti. Dan saya percaya partai-partai sudah mengerti itu. Saya yakin semua partai dalam koalisi kita sudah berada di arah ini. Kita tidak mau lagi membiarkan kekayaan kita diambil terus. kita pasti akan menghadapi perlawanan."
+  },
+  {
+   "t": 1673.0,
+   "d": 56.04,
+   "text": "Mereka-mereka yang menikmati kekayaan bangsa kita. Ya, mungkin terusik. Tapi apa boleh buat? Kita tidak ada pilihan lain. Itu kekayaan kita. Itu kekayaan kita. Semua itu kekayaan kita. Bumi, air, dan semua kekayaan yang terkandung di dalamnya milik bangsa Indonesia."
+  },
+  {
+   "t": 1710.0,
+   "d": 82.11,
+   "text": "Kewajiban. Kewajiban siapapun yang mimpin. Kewajiban saya yang saudara pilih. Kewajiban saya adalah untuk bekerja sekuat tenaga agar kekayaan tersebut bisa kita kendalikan kembali, bisa kita kuasai kembali, bisa kita manfaatkan untuk rakyat kita. [mendengus] Saudara-saudara, semua pakar mengatakan kalau bicara ekonomi Indonesia, mereka mengatakan bahwa Indonesia ekonominya tidak efisien."
+  },
+  {
+   "t": 1758.56,
+   "d": 89.92,
+   "text": "Apa arti tidak efisien? Artinya banyak kekayaan bocor. Mereka yang kasih nilai itu. Mereka kasih mereka hitung bahwa angka kita, ekonomi kita ya ikor ikor kita 6,5. Ikor artinya bahasa bahasa sononya adalah incremental capital output ratio. Artinya kalau kita mau nambah kaya 1 dolar atau R1, untuk dapat Rp1 kita harus keluarkan Rp6,5."
+  },
+  {
+   "t": 1807.2,
+   "d": 70.16,
+   "text": "Untuk dapat 1 dolar kita harus keluarkan 6,5 dolar. Kalau negara lain mereka bisa dapat 1 dolar, mereka hanya keluarkan 4 dolar. Selisih 2 dolar sama berapa negara tetangga kita? 2 per6 sepertiga. Ini artinya 30% kekayaan kita bocor. Anggaran negara adalah 270 miliar dolar."
+  },
+  {
+   "t": 1849.56,
+   "d": 74.32,
+   "text": "3.000 700 triliun kurang lebih. Jadi kalau 30% bocor artinya ya lebih 1000 triliun bocor. Ini sedang saya hentikan. Saya mau tutup ini akal-akalan dari banyak pihak ya. Kita harus introspeksi ya. Kita sudah tahu ibu-ibu, bapak-bapak walaupun di daerah ya bapak-bapak, Ibu-ibu semua sudah tahu apa yang terjadi. Iya kan? Hah?"
+  },
+  {
+   "t": 1894.64,
+   "d": 83.65,
+   "text": "Benar kan? Betul. Setiap pembelian dari lembaga pemerintah selama ini pasti harganya di digelembungkan. Benar. Betul. Benar. Betul. Ibu-ibu tahu apa saja kadang-kadang digelembungkannya gila-gilaan. ini sedang kita hentikan. Ini yang kita hemat. Dari beberapa bulan pertama pemerintah yang saya pimpin, kita bisa menghemat lebih dari 300 triliun."
+  },
+  {
+   "t": 1946.68,
+   "d": 56.56,
+   "text": "Ini yang kita gunakan untuk makan bergizi. Ini yang kita gunakan untuk jembatan tadi yang disebut 5.000 jembatan kita bangun sampai Desember 2026. 5.000 jembatan. Kalau perlu tahun depan kita bangun lebih. Rakyat di desa tidak bisa nunggu. Mereka tidak mau nunggu lagi."
+  },
+  {
+   "t": 1977.68,
+   "d": 91.96,
+   "text": "Banyak yang nyampikan ke saya. Terima kasih. Tadinya jalan kaki 1 jam nyebrang mempertaruhkan nyawa, nyebrang pakai tali, nyebrang pakai kotak-kotak. kita atasi sekolah-sekolah roboh roboh sampai akhir tahun kita sudah akan memperbaiki 67.000 lebih sekolah. tahun 27 saya instruksikan harus lebih 100.000 sekolah yang sekian belas tahun tidak disentuh, Saudara-saudara."
+  },
+  {
+   "t": 2042.32,
+   "d": 55.08,
+   "text": "Ada juga media-media yang ya kan walaupun kita sudah perbaiki 67.000 Ibu sekolah dia cari sekolah yang belum diperbaiki, dia foto besar taruh di halaman pertama. Aduh, dia kira kita enggak ngerti ya. Saya enggak sebutlah media mana itu. Kalau saya sebut ya pada saatnya akan saya sebut."
+  },
+  {
+   "t": 2076.8,
+   "d": 82.6,
+   "text": "Kalian sudah tahulah. Kita negara demokrasi kita tidak antikritik, tapi kita bukan anak kecil. Kita tahu ada orang-orang Indonesia yang senang mengabdi dan berbakti kepada bangsa lain. Itu yang dulu kita sebut Londo Ireng. Ulul ya. Yang ikut Belanda perang lawan kita."
+  },
+  {
+   "t": 2128.08,
+   "d": 74.36,
+   "text": "Lond-londo Ireng ini sampai sekarang masih ada. Hanya dia sekarang pakai baju lain kan. wartawan, jurnalis, apa itu ee pengamat ee LSM. LSM harus kita tanya yang gaji lo siapa? Yang bayar listrikmu siapa? Yang bayar handphone-emu siapa? Cari pekerjaan susah. Kita tahu kan?"
+  },
+  {
+   "t": 2175.0,
+   "d": 62.8,
+   "text": "Jadi, Saudara-saudara, kita paham ada kampanye besar untuk kita goyah. Indonesia akan collapse. Bulan April akan collaps. Eh, April liwat enggak collaps. Bulan Mei akan collaps. Bulan Mei lewat enggak? Bulan Juni akan collaps. Bulan Juli akan collaps. Tiap bulan akan collaps."
+  },
+  {
+   "t": 2217.52,
+   "d": 50.4,
+   "text": "Saya mau ngomong sesuatu tapi ada wartawan. Enggak boleh. Tahan ya. Jangan sebut. Tadi saya bilang gelasmu. Gelas. Gelasmu boleh kan? Gelasmu gelas. Saudara-saudara, kita kalau kita cinta sama satu kesebelasan umpamanya ya kesebelasan kita lagi main sepak bola, benar enggak?"
+  },
+  {
+   "t": 2280.84,
+   "d": 61.8,
+   "text": "Dia lagi bertarung, dia lagi bertanding di lapangan. Kita kan sebagai suporter ya kan? Ayo, ayo maju. Aduh. Tapi jangan nurunkan moril dong. Orang lagi bertanding di situ. Oh, nanti gol masuk. Nanti kamu kalah, nanti kamu kalah. Ini suporter macam apa? Support gendeng. gendeng boleh ngomong itu."
+  },
+  {
+   "t": 2317.32,
+   "d": 57.52,
+   "text": "Gimana sih? PKB kan dari Jawa Timur bahasanya kan. Hah saya lihat ini banyak Indonesia Timur di sini ya. [bersorak] Orang Indonesia Timur kan ya baca bicaranya belak-blakan ya. Jawa Timur itu sama dengan Banyumas. Jadi apa itu ee ya sudah terima kasih. Saya enggak ngomong."
+  },
+  {
+   "t": 2356.64,
+   "d": 120.32,
+   "text": "Jadi, Saudara-saudara, bersaing itu baik, [berdehem] bertanding itu baik. Kadang-kadang kita berpisah enggak ada masalah. Nanti juga gabung lagi ya. PDP, PDIP juga hatinya juga sebetulnya sama dengan kita. Benar. Coba cek dia gali hatinya sebetulnya sama ini Undang-Undang Dasar 1945 yang bikin Bung Karno kok Bung Hatta Bung ya kan pendiri-pendiri bangsa kita hati mereka sama hanya sebelum bikin rekomendasi seperti ijtima ulama belum. Tapi kita enggak ada masalah dikritik itu baik ya. Kritik itu menyelamatkan, kritik itu mengingatkan sebetulnya ya."
+  },
+  {
+   "t": 2443.48,
+   "d": 55.16,
+   "text": "Tapi ada beda kritik dan caci maki. Iya kan? Kritik dengan fitnah itu beda itu. Iya kan? Benar enggak? Tapi enggak ada masalah ya. Tidak ada masalah. Kalau kita benar, kalau kita menjalankan kebenaran, kalau kita berada di jalan yang benar, tidak ada masalah."
+  },
+  {
+   "t": 2471.24,
+   "d": 57.08,
+   "text": "Kita terus akan kuat. keyakinan kita. Terima kasih saya diundang malam hari ini. Terusan aja. Tadinya saya mau mengakui pengakuan boleh kan? Pengakuan dosa boleh pengakuan dosa boleh kan? Amin. Tadinya saya terusang aja kecapekan saya. Waduh ada acara PKB lagi."
+  },
+  {
+   "t": 2509.56,
+   "d": 66.53,
+   "text": "Ya sudah, enggak apa-apa karena kewajiban saya. Tapi begitu saya datang, loh kok saya rasakan energi yang lain? [bersorak] PKB, PKB nyambut saya pakai drum band. Iya kan? Hebat pakai drum band tadi. Lagunya apa itu? Maju tak gentar lagi itu. Ini memang Gus Imin ini memang e dia pelajari ini."
+  },
+  {
+   "t": 2556.2,
+   "d": 98.96,
+   "text": "Dia tanya-tanya, \"Oh, ini Jenderal Punawiran Prabowo bisa disambut pakai pakai kelenengan ya.\" Enggak, enggak enggak kita sambut pakai drum. Jadi dia semangat masuk ke sini kasih lagi Mars PKB. Waduh, Mars PKB. Hati-hati kok pelajari itu. Siapa yang bikin itu lagu itu. Ini saya ini kalau hadir acara harlah-haralah saya juga lihat apa yang habis itu saya di kasih rekomendasi ijtimah ulama ini."
+  },
+  {
+   "t": 2611.92,
+   "d": 53.56,
+   "text": "Hebat. PKB luar biasa. Terima kasih. Saya terima kasih. Kita tidak niat apa-apa. Kita tidak mau menyakiti orang lain. Tidak mau. Begitu saya dilantik, saya umumkan politik luar negeri Indonesia, kita bersyukur bahwa kita nonblok. Kita tidak punya musuh, kita hormati semua negara."
+  },
+  {
+   "t": 2642.2,
+   "d": 59.68,
+   "text": "Kita hormati semua kekuatan, Saudara-saudara. Kita ingin bebas aktif. Saya katakan politik luar negeri Indonesia dalam pemerintah yang dipimpin oleh Prabowo Subianto, politik kita adalah politik menjadi tetangga yang baik. The good neighbor policy. We want to be good neighbors."
+  },
+  {
+   "t": 2675.04,
+   "d": 59.04,
+   "text": "Kita baik sama semua kekuatan, tapi yang tidak bisa kita tawar-menawar adalah mendukung perjuangan kemerdekaan Palestina bagi kita. kita baik semua. Kita ingin baik sama semua kekuatan, tapi kita tidak mau diganggu. Kita sekarang sedang membangun kekuatan pertahanan yang lumayan."
+  },
+  {
+   "t": 2718.44,
+   "d": 64.48,
+   "text": "Tapi di mana kekuatan pertahanan kita? Kekuatan pertahanan kita adalah pertahanan rakyat semesta. Pertahanan kita adalah dalam cintanya rakyat kepada negaranya. Itu kekuatan kita. Kita tidak mau ganggu orang lain, tapi seluruh rakyat Indonesia akan mempertahankan kedaulatannya, akan mempertahankan kemerdekaannya, akan mempertahankan masa depannya, Saudara-saudara."
+  },
+  {
+   "t": 2754.92,
+   "d": 59.8,
+   "text": "Jadi, terima kasih. Kali ini saya merasa diperkuat, saya merasa saya dapat dukungan, dan saya yakin semua partai koalisi yang saya pimpin senafas, sejiwa dan berada bersama saya. Dan di ujungnya saya juga percaya PDP pun akan bersama kita membela negara dan bangsa."
+  },
+  {
+   "t": 2784.8,
+   "d": 52.96,
+   "text": "Itu insting saya, itu kata hati saya. Karena kita adalah semua patriot. Semua adalah anak bangsa Indonesia. Gak mungkin ada anak yang tidak setia kepada ibunya, kepada ibu pertiwi. Saudara lihat kemarin pelantikan perwira muda lihat di TV enggak? Apa yang mengharukan?"
+  },
+  {
+   "t": 2812.12,
+   "d": 73.08,
+   "text": "Coba ibu-ibu lihat enggak? Perwira baru dilantik sujud dan cium kaki ibunya. Lihat. Itu itu TNI. Itu perwira Indonesia. Perwira Indonesia ujungnya adalah sujud kepada ibu, setia kepada Ibu Pertiwi. Terima kasih, PKB. Mari kita berjuang bersama. Berjuang bersama untuk bangsa dan rakyat Indonesia."
+  },
+  {
+   "t": 2855.48,
+   "d": 60.09,
+   "text": "kali ini benar-benar wasalamualaikum warahmatullahi wabarakatuh. Astagfirullahalazim. Iya. Terima kasih. Terima kasih Presiden Republik Indonesia telah berkenan hadir. Demikian acara Harlah PKB selesai. Wasalamualaikum warahmatullahi wabarakatuh. di Sabang sampai [bernyanyi] merok berjajar pulau-pulau [musik]"
+  }
+ ],
+ "provenance": {
+  "engine_repo": "himanusia/youtube-speech-corpus",
+  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
+  "canonical_video_id": "vyp6JITYFM8",
+  "language_code": "id",
+  "language": "Indonesian (auto-generated)",
+  "is_generated": true,
+  "fetched_via": "caption_api",
+  "source_of_truth": "engine/data/prabowo/raw/vyp6JITYFM8.json"
+ }
+}
