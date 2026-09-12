@@ -128,6 +128,8 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
   <p>{e(SITE_NAME)} &middot; <a href="{rel_root}data/index.json">data JSON</a></p>
   <p class="hint">Transkrip dari caption YouTube (auto-generated). Periksa video aslinya sebelum mengutip.</p>
 </footer>
+<script src="{rel_root}vendor/echarts.min.js?v={ASSET_V['vendor']}" defer></script>
+<script src="{rel_root}charts.js?v={ASSET_V['charts']}" defer></script>
 <script src="{rel_root}app.js?v={ASSET_V['js']}" defer></script>
 </body>
 </html>
@@ -396,6 +398,14 @@ def render_daftar(speeches: list[dict], meta: dict, coverage: dict) -> str:
     )
 
 
+def _chart(id_: str, judul: str, unit: str, tinggi: str = "16rem", kelas: str = "c12") -> str:
+    """Satu panel grafik. Kanvas diisi charts.js (ECharts)."""
+    return f"""    <section class="card {kelas}">
+      <div class="card__h"><h2>{e(judul)}</h2><span class="unit">{unit}</span></div>
+      <div class="chart" id="{id_}" style="height:{tinggi}"></div>
+    </section>"""
+
+
 def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -> str:
     L = home.get("length") or {}
     hero = f"""  <div class="hero">
@@ -404,35 +414,36 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
     <div class="hero__i"><span class="hero__n">{fmt_int(home.get('upload_count'))}</span><span class="hero__l">unggahan</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(L.get('median'))}</span><span class="hero__l">token median</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(L.get('longest'))}</span><span class="hero__l">terpanjang</span></div>
-    <div class="hero__i"><span class="hero__n">{e(format_span(coverage))}</span><span class="hero__l">rentang</span></div>
+    <div class="hero__i"><span class="hero__n hero__n--kecil">{e(format_span(coverage))}</span><span class="hero__l">rentang</span></div>
   </div>"""
 
     tw = home.get("top_words", [])
     prog = home.get("programs", [])[:9]
-    conc = home.get("concepts", [])[:6]
+    conc = home.get("concepts", [])[:5]
     top = home.get("topics", [])
     fr_sorted = sorted(home.get("framing", []), key=lambda x: -x["per_1000"])
     hist = home.get("length_histogram", [])
-    hmax = home.get("length_histogram_max", 1) or 1
-
-    hi_t = (top[0]["per_1000"] if top else 1) or 1
-    topic_bars = "".join(
-        _bar(x["topic"].replace("_", " "), x["per_1000"] / hi_t, f'{x["per_1000"]:.1f}', rank=i)
-        for i, x in enumerate(top))
-
-    kolom = _columns([{"label": x["label"], "nilai": x["per_1000"]} for x in fr_sorted[:6]])
-
-    hist_html = "".join(
-        f'<div class="hist__c" title="{e(h["label"])} ribu token: {h["count"]} pidato">'
-        f'<span class="hist__n">{h["count"]}</span>'
-        f'<span class="hist__b{"" if h["count"] else " hist__b--zero"}" '
-        f'style="height:{(max(h["count"], 0.4) / hmax * 100):.1f}%"></span>'
-        f'<span class="hist__l">{e(h["label"])}</span></div>'
-        for h in hist)
-
     bln = [m for m in coverage.get("months", []) if m.get("covered")]
-    donut = _donut([{"label": x["label"], "share": x["share"]} for x in conc],
-                   tengah=f'{conc[0]["share"]:.0f}%' if conc else "")
+
+    # Data grafik ditulis KE DALAM HTML sebagai JSON: perayap dan pembaca
+    # tanpa JavaScript tetap mendapat angkanya.
+    chart_data = {
+        "words": [{"name": w["word"], "value": w["count"]} for w in tw[:20]],
+        "programs": [{"name": x["label"], "value": round(x["share"])} for x in prog],
+        "topics": [{"name": x["topic"].replace("_", " "), "value": round(x["per_1000"], 1)}
+                   for x in top],
+        "framing": [{"name": x["label"], "value": round(x["per_1000"], 1)} for x in fr_sorted],
+        "concepts": [{"name": x["label"], "value": round(x["share"])} for x in conc],
+        "length": {"labels": [x["label"] for x in hist],
+                   "counts": [x["count"] for x in hist]},
+        "months": [{"month": m["month"], "events": m["events"], "tokens": m["tokens"]}
+                   for m in bln],
+        "timeline": [{"date": s["date"], "title": s["title"],
+                      "tokens": s["token_count"] or 0,
+                      "url": f"pidato/{s['id']}.html"} for s in speeches],
+    }
+    payload = json.dumps(chart_data, ensure_ascii=False, separators=(",", ":"))
+    payload = payload.replace("</", "<\\/")      # jangan sampai menutup <script>
 
     body = f"""  <h1>{e(SITE_NAME)}</h1>
   <p class="lede">Seluruh pidato, sambutan, dan pernyataan resmi yang terkumpul —
@@ -441,48 +452,19 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
 {hero}
 
   <div class="dash">
-
-    <section class="card c5">
-      <div class="card__h"><h2>Program yang dibahas</h2><span class="unit">luas kotak = % pidato</span></div>
-      {_treemap(prog)}
-    </section>
-
-    <section class="card c7">
-      <div class="card__h"><h2>Kata terbanyak</h2><span class="unit">besar huruf = frekuensi</span></div>
-      {_word_cloud(tw, 32)}
-    </section>
-
-    <section class="card c6">
-      <div class="card__h"><h2>Cara dia menyapa</h2><span class="unit">per 1.000 token</span></div>
-      {kolom}
-    </section>
-
-    <section class="card c6">
-      <div class="card__h"><h2>Yang disebut masalah</h2><span class="unit">porsi pidato</span></div>
-      {donut}
-    </section>
-
-    <section class="card c7">
-      <div class="card__h"><h2>Topik</h2><span class="unit">kepadatan per 1.000 token</span></div>
-      <div class="bars">{topic_bars}</div>
-    </section>
-
-    <section class="card c5">
-      <div class="card__h"><h2>Panjang pidato</h2><span class="unit">ribu token</span></div>
-      <div class="hist">{hist_html}</div>
-    </section>
-
-    <section class="card c12">
-      <div class="card__h"><h2>Volume per bulan</h2><span class="unit">jumlah pidato</span></div>
-      {_area(bln)}
-    </section>
-
+{_chart('chart-program', 'Program yang dibahas', 'luas kotak = % pidato', '17rem', 'c5')}
+{_chart('chart-kata', 'Kata terbanyak', '14 teratas, tanpa kata fungsi', '17rem', 'c7')}
+{_chart('chart-sapa', 'Cara dia menyapa', 'per 1.000 token', '14rem', 'c5')}
+{_chart('chart-masalah', 'Yang disebut masalah', 'porsi pidato', '14rem', 'c7')}
+{_chart('chart-topik', 'Topik', 'kepadatan per 1.000 token', '15rem', 'c7')}
+{_chart('chart-panjang', 'Panjang pidato', 'ribu token', '15rem', 'c5')}
+{_chart('chart-volume', 'Volume per bulan', 'jumlah pidato &middot; bisa di-geser', '15rem', 'c12')}
     <section class="card c12">
       <div class="card__h"><h2>Sebaran waktu</h2>
         <span class="unit">{len(coverage.get('months_without_events', []))} bulan kosong</span></div>
       <div class="heat">{_cov_cells(coverage)}</div>
       <div class="legend">
-        <span>jumlah pidato per bulan</span>
+        <span class="legend__t">jumlah pidato per bulan</span>
         <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 12%, var(--card))"></span>
         <span>sedikit</span>
         <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 70%, var(--card))"></span>
@@ -491,14 +473,10 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
         <span>kosong</span>
       </div>
     </section>
-
-    <section class="card c12">
-      <div class="card__h"><h2>Garis waktu</h2>
-        <span class="unit"><a href="daftar.html">buka daftar lengkap &rarr;</a></span></div>
-      {_timeline(speeches)}
-    </section>
-
+{_chart('chart-waktu', 'Garis waktu', '<a href="daftar.html">buka daftar lengkap &rarr;</a>', '17rem', 'c12')}
   </div>
+
+  <script id="chart-data" type="application/json">{payload}</script>
 """
     return page(
         f"{SITE_NAME} — {len(speeches)} pidato",
@@ -965,6 +943,8 @@ def main() -> int:
 
     ASSET_V["css"] = asset_version(WEB / "theme.css")
     ASSET_V["js"] = hashlib.sha256(APP_JS.encode("utf-8")).hexdigest()[:10]
+    ASSET_V["vendor"] = asset_version(WEB / "vendor" / "echarts.min.js")
+    ASSET_V["charts"] = asset_version(WEB / "charts.js")
     print(f"versi aset: css={ASSET_V['css']} js={ASSET_V['js']}")
 
     # Bersihkan keluaran lama supaya tidak ada sisa halaman yatim.
@@ -989,6 +969,10 @@ def main() -> int:
     # aset
     shutil.copy2(WEB / "theme.css", DOCS / "theme.css")
     (DOCS / "app.js").write_text(APP_JS, encoding="utf-8")
+    shutil.copy2(WEB / "charts.js", DOCS / "charts.js")
+    shutil.copy2(WEB / "prabowo.png", DOCS / "prabowo.png")
+    (DOCS / "vendor").mkdir(exist_ok=True)
+    shutil.copy2(WEB / "vendor" / "echarts.min.js", DOCS / "vendor" / "echarts.min.js")
 
     # data mesin
     for name in ("index.json", "coverage.json", "meta.json"):

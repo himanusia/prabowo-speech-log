@@ -308,27 +308,33 @@ body {
   background-repeat: repeat;
 }
 
-/* ---- Sorotan Prabowo: potret resmi, tepi memudar, bukan siluet keras ---- */
+/* ---- Sorotan Prabowo: satu warna, meniru Backdrop Hermes Desktop ----
+   Resep asli Hermes (apps/desktop/src/components/Backdrop.tsx):
+     opacity 0.025 + mix-blend-difference + invert(var(--backdrop-invert-mul))
+     tinggi 160dvh, object-cover, gambar dua-nada gaya cukilan kayu.
+   Kuncinya BUKAN opacity, tapi `difference`: foto/gambar apa pun di-blend
+   difference pada opacity sangat kecil akan runtuh jadi SATU nada rata.
+   Sebelumnya di sini dipakai opacity 0,075-0,11 dengan blend normal —
+   hasilnya foto abu-abu yang jelas dan terlihat seperti tempelan. */
 body::after {
   content: "";
   position: fixed;
-  right: -4vw;
-  bottom: -8vh;
-  width: min(46vw, 40rem);
-  height: min(92vh, 48rem);
+  inset: 0;
   z-index: 0;
   pointer-events: none;
+  opacity: 0.03;
+  mix-blend-mode: difference;
   background-image: url("prabowo.png");
   background-repeat: no-repeat;
-  background-position: bottom right;
-  background-size: contain;
-  opacity: 0.075;
+  background-position: right bottom;
+  background-size: auto 150vh;
+  filter: invert(1);
 }
 
-:root[data-theme='dark'] body::after { opacity: 0.11; filter: invert(1); }
+:root[data-theme='dark'] body::after { filter: none; }
 
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme='light']) body::after { opacity: 0.11; filter: invert(1); }
+  :root:not([data-theme='light']) body::after { filter: none; }
 }
 
 /* Isi harus di atas tekstur & sorotan. */
@@ -997,3 +1003,62 @@ footer {
 .tl svg { width: 100%; height: 13rem; display: block; }
 .tl svg rect { fill: var(--primary); opacity: 0.72; }
 .tl svg a:hover rect { opacity: 1; }
+
+
+/* ------------------------------------------------------- kanvas grafik */
+
+/* Kanvas ECharts. min-width wajib: tanpa ini kanvas melebarkan track grid
+   dan seluruh halaman meluber horizontal. */
+.chart {
+  width: 100%;
+  min-width: 0;
+  margin-top: var(--sp-2);
+}
+.chart[data-chart-error] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--muted-fg);
+  font-size: var(--step--1);
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+}
+.chart[data-chart-error]::after { content: "grafik tidak dapat dimuat"; }
+
+/* rentang tahun lebih panjang dari angka lain -> pakai ukuran lebih kecil
+   supaya tidak memaksa kartunya melar atau melipat dua baris */
+.hero__n--kecil { font-size: clamp(1rem, 1.5vw, 1.35rem) !important; }
+
+/* legenda: beri jarak antar butir, jangan menempel */
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--sp-2);
+  row-gap: var(--sp-1);
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  margin-top: var(--sp-3);
+}
+.legend__t { margin-right: var(--sp-1); }
+
+/* kepala kartu: beri jarak ke isi */
+.card__h {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  flex-wrap: wrap;
+  padding-bottom: var(--sp-2);
+  margin-bottom: var(--sp-3);
+  border-bottom: var(--rule);
+}
+
+/* navigasi: jangan berdesakan, terutama sebelum tombol tema */
+.nav { display: flex; align-items: center; gap: var(--sp-3); }
+.nav button:last-child { margin-left: var(--sp-1); }
+
+/* kartu KPI: jaga tinggi seragam walau isinya beda baris */
+.hero { align-items: stretch; }
+.hero__i { display: flex; flex-direction: column; justify-content: space-between; }
+.hero__l { margin-top: auto; padding-top: var(--sp-2); }
