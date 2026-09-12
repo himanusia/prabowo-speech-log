@@ -1,0 +1,81 @@
+{
+ "id": "ReUe1Ztc_xY",
+ "url": "https://www.youtube.com/watch?v=ReUe1Ztc_xY",
+ "title": "Kunjungan Resmi PM Malaysia Anwar Ibrahim, 27 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Saya hari ini sangat gembira dan berbahagia dapat menyambut",
+   "start": 2.0,
+   "duration": 9
+  },
+  {
+   "text": "Perdana Menteri Malaysia Datuk Sri Anwar Ibrahim di Jakarta.",
+   "start": 11.0,
+   "duration": 30
+  },
+  {
+   "text": "[Musik]",
+   "start": 41.0,
+   "duration": 9
+  },
+  {
+   "text": "[Musik]",
+   "start": 50.0,
+   "duration": 23
+  },
+  {
+   "text": "[Musik]",
+   "start": 73.0,
+   "duration": 9
+  },
+  {
+   "text": "Hubungan",
+   "start": 82.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 89.0,
+   "duration": 3
+  },
+  {
+   "text": "Perdana Menteri Anwar Ibrahim ini menunjukkan eratnya hubungan di antara kedua negara",
+   "start": 92.0,
+   "duration": 8
+  },
+  {
+   "text": "juga menunjukkan komitmen untuk kita terus memperkuat kerja sama di semua bidang.",
+   "start": 100.0,
+   "duration": 14
+  },
+  {
+   "text": "masing-masing berusaha untuk mendekatkan silaturahmi dan juga menunjukkan persahabatan yang setia selama hampir setengah abad.",
+   "start": 114.0,
+   "duration": 10
+  },
+  {
+   "text": "[Musik]",
+   "start": 124.0,
+   "duration": 3
+  }
+ ]
+}

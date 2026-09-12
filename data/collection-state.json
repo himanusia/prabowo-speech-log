@@ -1,13 +1,12 @@
 {
- "generated_at": "2026-09-13T04:17:04+07:00",
+ "generated_at": "2026-09-13T04:33:28+07:00",
  "channel_total": 4878,
  "era_total": 894,
  "worklist_total": 818,
  "counts": {
-  "tanpa_track": 195,
-  "ok_belum_masuk_arsip": 449,
-  "panel_kosong": 3,
-  "menunggu": 171
+  "tanpa_track": 291,
+  "ok_belum_masuk_arsip": 524,
+  "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
@@ -16,9 +15,8 @@
    "panel_kosong": 3
   },
   "kunjungan": {
-   "ok_belum_masuk_arsip": 8,
-   "tanpa_track": 15,
-   "menunggu": 171
+   "ok_belum_masuk_arsip": 83,
+   "tanpa_track": 111
   },
   "keterangan_pers": {
    "ok_belum_masuk_arsip": 46,
@@ -29,17 +27,17 @@
    "ok_belum_masuk_arsip": 7
   }
  },
- "remaining": 623,
+ "remaining": 527,
  "blocked_suspected": false,
  "block_tail": [
   "no_indonesian_track",
   "ok",
-  "no_indonesian_track",
-  "no_indonesian_track",
-  "no_indonesian_track",
   "ok",
   "no_indonesian_track",
-  "ok"
+  "ok",
+  "ok",
+  "no_indonesian_track",
+  "no_indonesian_track"
  ],
  "rows": [
   {
@@ -615,7 +613,7 @@
    "title": "President Prabowo Welcomed with State Honors Ceremony at Les Invalides, Paris, May 28, 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -647,7 +645,7 @@
    "title": "Presiden Prabowo Tiba di Paris untuk Kunjungan Resmi Kenegaraan, Paris, 26 Mei 2026",
    "kind": "kunjungan",
    "date": "2026-05-26",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -687,7 +685,7 @@
    "title": "HIGHLIGHT: President Prabowo's Working Visit to East Java, May 16, 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -711,7 +709,7 @@
    "title": "President Prabowo Inspects the Merah Putih Fisherman Village in South Leato, Gorontalo, May 9, 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -735,7 +733,7 @@
    "title": "Presiden Prabowo Tinjau Puskesmas Miangas, Kepulauan Talaud, 9 Mei 2026",
    "kind": "kunjungan",
    "date": "2026-05-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -759,7 +757,7 @@
    "title": "Presiden Prabowo Disambut Hangat Diaspora Indonesia, Cebu, 7 Mei 2026",
    "kind": "kunjungan",
    "date": "2026-05-07",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -775,7 +773,7 @@
    "title": "Tiba di Filipina, Presiden Prabowo Gunakan Maung Selama KTT ke-48 ASEAN, Cebu, 7 Mei 2026",
    "kind": "kunjungan",
    "date": "2026-05-07",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -783,7 +781,7 @@
    "title": "Presiden Prabowo Bertolak ke Filipina Hadiri KTT ke-48 ASEAN, 7 Mei 2026",
    "kind": "kunjungan",
    "date": "2026-05-07",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -855,7 +853,7 @@
    "title": "During a working visit to Central Java, President Prabowo inspected the Banyumas BLE TPST, April ...",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -887,7 +885,7 @@
    "title": "President Prabowo's Working Visit to Magelang, Central Java, April 18, 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -943,7 +941,7 @@
    "title": "President Prabowo's Working Visit to Moscow, Russia, April 13, 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -951,7 +949,7 @@
    "title": "Presiden Prabowo Tiba di Paris, Prancis, 13 April 2026",
    "kind": "kunjungan",
    "date": "2026-04-13",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -959,7 +957,7 @@
    "title": "Presiden Prabowo Tiba di Moskow, Rusia, 13 April 2026",
    "kind": "kunjungan",
    "date": "2026-04-13",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -967,7 +965,7 @@
    "title": "Presiden Prabowo Bertolak Menuju Moskow, Rusia, Pangkalan TNI AU Halim Perdanakusuma, 12 April 2026",
    "kind": "kunjungan",
    "date": "2026-04-12",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1079,7 +1077,7 @@
    "title": "Presiden Prabowo Tiba di Seoul, Awali Kunjungan Kenegaraan ke Republik Korea, 31 Maret 2026",
    "kind": "kunjungan",
    "date": "2026-03-31",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1119,7 +1117,7 @@
    "title": "Kunjungan Kehormatan Presiden Prabowo kepada Kaisar Jepang Naruhito, Tokyo, 30 Maret 2026",
    "kind": "kunjungan",
    "date": "2026-03-30",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1135,7 +1133,7 @@
    "title": "Presiden Prabowo Tiba di Tokyo, Jepang, 29 Maret 2026",
    "kind": "kunjungan",
    "date": "2026-03-29",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1159,7 +1157,7 @@
    "title": "Presiden Prabowo Terima Kunjungan PM Malaysia Anwar Ibrahim, Istana Merdeka, 27 Maret 2026",
    "kind": "kunjungan",
    "date": "2026-03-27",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1167,7 +1165,7 @@
    "title": "President Prabowo's surprise visit to Senen, Jakarta, March 26, 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1175,7 +1173,7 @@
    "title": "Cabinet Secretary Inspects Peak Return Traffic for Eid al-Fitr 2026 Early Morning, Jakarta, March...",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1375,7 +1373,7 @@
    "title": "Presiden Prabowo Tiba di Abu Dhabi, Perkuat Kemitraan Strategis Indonesia - PEA, 25 Februari 2026",
    "kind": "kunjungan",
    "date": "2026-02-25",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1399,7 +1397,7 @@
    "title": "Presiden Prabowo Disambut Upacara Resmi oleh Raja Abdullah II di Istana Basman, Yordania 25 Feb 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1415,7 +1413,7 @@
    "title": "Presiden Prabowo Tiba di Amman disambut Putra Mahkota, Yordania, 24 Februari 2026",
    "kind": "kunjungan",
    "date": "2026-02-24",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1431,7 +1429,7 @@
    "title": "Serah Terima Kawal Istana, Jakarta, 22 Februari 2026",
    "kind": "kunjungan",
    "date": "2026-02-22",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1503,7 +1501,7 @@
    "title": "Tiba di AS, Presiden Prabowo Akan Bertemu Presiden Trump Guna Perkuat Hubungan Bilateral, 17/02/2026",
    "kind": "kunjungan",
    "date": "2026-02-17",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1511,7 +1509,7 @@
    "title": "Presiden Prabowo Bertolak Menuju Washington DC, Pangkalan TNI AU Halim Perdanakusuma, 16 Feb 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1519,7 +1517,7 @@
    "title": "Serah Terima Kawal Istana, Jakarta, 15 Februari 2026",
    "kind": "kunjungan",
    "date": "2026-02-15",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1527,7 +1525,7 @@
    "title": "Pastikan Kesiapan Program Gizi Nasional, Presiden Prabowo Tinjau SPPG Polri Palmerah, 13 Feb 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1583,7 +1581,7 @@
    "title": "Presiden Prabowo Tiba di Jawa Timur Untuk Hadiri Mujahadah Kubro Satu Abad NU, Malang, 7 Feb 2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1591,7 +1589,7 @@
    "title": "HIGHLIGHT - Kunjungan Kerja PM Australia Anthony Albanese di Indonesia, 6 Februari 2026",
    "kind": "kunjungan",
    "date": "2026-02-06",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1727,7 +1725,7 @@
    "title": "Presiden Prabowo Tiba di Zurich untuk Hadiri World Economic Forum 2026, Swiss, 21 Januari 2026",
    "kind": "kunjungan",
    "date": "2026-01-21",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1767,7 +1765,7 @@
    "title": "Presiden Prabowo Tiba di London, Inggris, 18 Januari 2026",
    "kind": "kunjungan",
    "date": "2026-01-18",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1839,7 +1837,7 @@
    "title": "Presiden Prabowo Tiba di Tapanuli Utara Pastikan Pemulihan Pascabencana, 31 Desember 2025",
    "kind": "kunjungan",
    "date": "2025-12-31",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1863,7 +1861,7 @@
    "title": "Presiden Prabowo Hadiri Akad Massal 50.030 Unit KPR FLPP dan Serah Terima Kunci, Serang, 20 Des 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1871,7 +1869,7 @@
    "title": "Presiden Prabowo Kunjungi Warga dan Tinjau Infrastruktur Pascabanjir di Sumatra Barat, 18 Des 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1911,7 +1909,7 @@
    "title": "Presiden Prabowo Tinjau Wilayah Bencana Bener Meriah, 12 Desember 2025",
    "kind": "kunjungan",
    "date": "2025-12-12",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1927,7 +1925,7 @@
    "title": "Dari Islamabad, Presiden Prabowo Tiba di Moskow, Rusia, 10 Desember 2025",
    "kind": "kunjungan",
    "date": "2025-12-10",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1951,7 +1949,7 @@
    "title": "Presiden Prabowo Disambut Hangat PM Sharif dalam Upacara Kenegaraan di Islamabad, 9 Desember 2025",
    "kind": "kunjungan",
    "date": "2025-12-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1959,7 +1957,7 @@
    "title": "PM dan Presiden Pakistan Jemput langsung Presiden Prabowo di bandara Islamabad, 8 Desember 2025",
    "kind": "kunjungan",
    "date": "2025-12-08",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2015,7 +2013,7 @@
    "title": "Presiden Prabowo Tinjau Langsung Daerah Terdampak Bencana di Sumatra Utara, Aceh, dan Sumatra Barat",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2039,7 +2037,7 @@
    "title": "Presiden Prabowo Kunjungi Wilayah Terdampak Bencana di Tapanuli Tengah, 1 Desember 2025",
    "kind": "kunjungan",
    "date": "2025-12-01",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2119,7 +2117,7 @@
    "title": "Advokat Khusus Sekjen PBB Ratu Máxima tiba di Indonesia, Tangerang, 24 November 2025",
    "kind": "kunjungan",
    "date": "2025-11-24",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2167,7 +2165,7 @@
    "title": "Presiden Prabowo Resmikan RS Kardiologi Emirates–Indonesia, 19 November 2025",
    "kind": "kunjungan",
    "date": "2025-11-19",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2175,7 +2173,7 @@
    "title": "Presiden Prabowo Resmikan Jembatan Kabanaran dan 4 Proyek Infrastruktur, Bantul, 19 November 2025",
    "kind": "kunjungan",
    "date": "2025-11-19",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2199,7 +2197,7 @@
    "title": "HIGHLIGHT - Kunjungan Kenegaraan Raja Kerajaan Yordania Hasyimiah, Raja Abdullah II ibn Al Hussein",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2239,7 +2237,7 @@
    "title": "Presiden Prabowo Bertolak Kembali ke Tanah Air Usai Kunjungan Kenegaraan di Australia, 12 Nov 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2247,7 +2245,7 @@
    "title": "Presiden Prabowo Tinjau Kapal HMAS Canberra Bersama PM Albanese, Sydney, 12 November 2025",
    "kind": "kunjungan",
    "date": "2025-11-12",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2279,7 +2277,7 @@
    "title": "Presiden Prabowo Tiba di Sydney untuk Kunjungan Kenegaraan, Sydney, 11 November 2025",
    "kind": "kunjungan",
    "date": "2025-11-11",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2351,7 +2349,7 @@
    "title": "Presiden Prabowo Tinjau KRL dari Stasiun Manggarai menuju Stasiun Tanah Abang Baru, 4 November 2025",
    "kind": "kunjungan",
    "date": "2025-11-04",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2447,7 +2445,7 @@
    "title": "Presiden Prabowo Tiba di Republik Korea untuk Hadiri KTT APEC 2025, Busan, 30 Oktober 2025",
    "kind": "kunjungan",
    "date": "2025-10-30",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2543,7 +2541,7 @@
    "title": "Presiden Prabowo Tiba di Malaysia untuk Hadiri KTT ke-47 ASEAN, 25 Oktober 2025",
    "kind": "kunjungan",
    "date": "2025-10-25",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2559,7 +2557,7 @@
    "title": "HIGHLIGHT - Kunjungan Kenegaraan Presiden Brasil Luiz Inácio Lula da Silva ke Indonesia",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2567,7 +2565,7 @@
    "title": "HIGHLIGHT - Kunjungan Kenegaraan Presiden Afrika Selatan Matamela Cyril Ramaphosa ke Indonesia",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2623,7 +2621,7 @@
    "title": "President Prabowo Arrives Home After Attending Peace Summit & Gaza Ceasefire, Oct 14, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2639,7 +2637,7 @@
    "title": "Tiba di Mesir, Presiden Prabowo Hadiri KTT Perdamaian Sharm El Sheik",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2679,7 +2677,7 @@
    "title": "Presiden Prabowo Saksikan Penyerahan Aset Rampasan Negara dari Tambang Ilegal kepada PT Timah Tbk.",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2719,7 +2717,7 @@
    "title": "Presiden Prabowo Tiba di Amsterdam, Belanda, 25 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-25",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2735,7 +2733,7 @@
    "title": "Presiden Prabowo Bertolak ke Belanda, Ottawa, 24 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-24",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2743,7 +2741,7 @@
    "title": "Pertemuan Presiden Prabowo dengan PM Carney pada Kunjungan Resmi, Ottawa, 24 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-24",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2759,7 +2757,7 @@
    "title": "Presiden Prabowo Tiba di Ottawa, Kanada, 24 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-24",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2767,7 +2765,7 @@
    "title": "Presiden Prabowo Menerima Kunjungan Presiden FIFA Gianni Infantino, New York, 24 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-24",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2775,7 +2773,7 @@
    "title": "Presiden Prabowo Bertolak ke Ottawa, Kanada, 24 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-24",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2839,7 +2837,7 @@
    "title": "Tiba di New York, Presiden Prabowo Siap Berpidato Ketiga pada Sidang Majelis Umum PBB, 20 Sep 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2855,7 +2853,7 @@
    "title": "Presiden Prabowo Kunjungi Paviliun Indonesia di Expo 2025 Osaka, Jepang, 20 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-20",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2863,7 +2861,7 @@
    "title": "Presiden Prabowo Tiba di Osaka, Jepang, 20 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-20",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2919,7 +2917,7 @@
    "title": "Presiden Prabowo Kunjungi Warga Bali Pasca Banjir, 13 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-13",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -2935,7 +2933,7 @@
    "title": "Presiden Prabowo Tiba di Abu Dhabi, Persatuan Emirat Arab, 12 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-12",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2951,7 +2949,7 @@
    "title": "Presiden Prabowo Tiba di Doha, Qatar, 12 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-12",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -2975,7 +2973,7 @@
    "title": "Presiden Prabowo Tinjau Sekolah Rakyat Menengah Atas Margaguna, Jakarta Selatan,11 September 2025",
    "kind": "kunjungan",
    "date": "2025-09-11",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3175,7 +3173,7 @@
    "title": "President Prabowo Reviews Modern Facilities at RSPON Mahar Mardjono, Welcomed Positively, August ...",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3303,7 +3301,7 @@
    "title": "State Visit of President of Peru Dina Ercilia Boluarte Zegarra to Indonesia, August 10-11, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3327,7 +3325,7 @@
    "title": "President Prabowo Arrives in Singapore to Attend National Day Parade, Singapore, August 9, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3351,7 +3349,7 @@
    "title": "Presiden Prabowo Kembali Menuju Jakarta dengan Whoosh, Kab. Bandung Barat, 7 Agustus 2025",
    "kind": "kunjungan",
    "date": "2025-08-07",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3367,7 +3365,7 @@
    "title": "Gunakan Whoosh, Presiden Prabowo Kunjungan Kerja ke Jawa Barat, 6 Agustus 2025",
    "kind": "kunjungan",
    "date": "2025-08-06",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3447,7 +3445,7 @@
    "title": "Kunjungan PM Malaysia Anwar Ibrahim ke Indonesia, 28-29 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-29",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3527,7 +3525,7 @@
    "title": "Presiden Prabowo Kunjungi Kediaman Presiden ke-7 RI Joko Widodo, Surakarta, 20 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-20",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3543,7 +3541,7 @@
    "title": "Presiden Prabowo Tiba di Tanah Air, Pangkalan TNI AU Halim Perdanakusuma, 16 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-16",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3583,7 +3581,7 @@
    "title": "Presiden Prabowo Tiba di Paris, Prancis, 13 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-13",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3639,7 +3637,7 @@
    "title": "Presiden Prabowo Tiba di Brussel, Belgia, 12 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-12",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3647,7 +3645,7 @@
    "title": "Kunjungan Kenegaraan Presiden Prabowo di Brasilia, 9 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3655,7 +3653,7 @@
    "title": "Presiden Prabowo Tinggalkan Brasil Usai KTT BRICS dan Kunjungan Kenegaraan, Brasilia, 9 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3663,7 +3661,7 @@
    "title": "Presiden Prabowo Tiba di Brasilia, 7 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-07",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3711,7 +3709,7 @@
    "title": "Presiden Prabowo Tiba di Brasil, Rio de Janeiro, 5 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-05",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3743,7 +3741,7 @@
    "title": "Presiden Prabowo Disambut Hangat Putra Mahkota Mohammed bin Salman, Jeddah, 2 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-02",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3751,7 +3749,7 @@
    "title": "Presiden Prabowo Tiba di Jeddah, Arab Saudi, 1 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-01",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3775,7 +3773,7 @@
    "title": "Presiden Prabowo Bertolak ke Arab Saudi untuk Kunjungan Kenegaraan, 1 Juli 2025",
    "kind": "kunjungan",
    "date": "2025-07-01",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3791,7 +3789,7 @@
    "title": "Kunjungan Resmi PM Malaysia Anwar Ibrahim, 27 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-27",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3807,7 +3805,7 @@
    "title": "Presiden Prabowo Resmikan Ngoerah Sun Wellness and Aesthetic Center, Denpasar, 25 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-25",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3823,7 +3821,7 @@
    "title": "President Prabowo's Official Visit to Russia",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3831,7 +3829,7 @@
    "title": "Dari St. Petersburg, Presiden Prabowo Bertolak Menuju Tanah Air, 20 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-20",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3871,7 +3869,7 @@
    "title": "Presiden Prabowo Tiba di St. Petersburg, Rusia, 18 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-18",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3879,7 +3877,7 @@
    "title": "Transit di Praha, Presiden Prabowo Terima Kunjungan PM Ceko Petr Fiala, 17 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-17",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3895,7 +3893,7 @@
    "title": "Bertolak dari Singapura, Presiden Prabowo Lanjutkan Lawatan ke Rusia, 16 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-16",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3927,7 +3925,7 @@
    "title": "Presiden Prabowo Disambut Upacara Kenegaraan di Parliament House Singapore, 16 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-16",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3935,7 +3933,7 @@
    "title": "Tiba di Singapura, Presiden Prabowo Disambut Langsung oleh PM Lawrence Wong, 15 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-15",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3943,7 +3941,7 @@
    "title": "Presiden Prabowo Bertolak Menuju Singapura untuk Kunjungan Kenegaraan, Jakarta, 15 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-15",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -3951,7 +3949,7 @@
    "title": "Presiden Prabowo Resmikan Kampus Bhinneka Tunggal Ika Universitas Pertahanan, 11 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-11",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3959,7 +3957,7 @@
    "title": "Presiden Prabowo Resmikan Indo Defence 2025 Expo & Forum, 11 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-11",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3991,7 +3989,7 @@
    "title": "Presiden Prabowo Panen Raya Jagung dan Lepas Ekspor ke Malaysia, Bengkayang, 5 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-05",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -3999,7 +3997,7 @@
    "title": "Presiden Prabowo Terima Kunjungan Wakil PM Australia Richard Marles di Kertanegara, 5 Juni 2025",
    "kind": "kunjungan",
    "date": "2025-06-05",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4047,7 +4045,7 @@
    "title": "75 Tahun Indonesia-Prancis, Kunjungan Presiden Emmanuel Macron di Indonesia",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4055,7 +4053,7 @@
    "title": "Presiden Prabowo dan Presiden Macron Kunjungi Candi Borobudur, 29 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-29",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4071,7 +4069,7 @@
    "title": "President Prabowo and President Macron Visit the Military Academy, Magelang, May 29, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4095,7 +4093,7 @@
    "title": "Antusiasme Siswa Sambut Kunjungan Kenegaraan Presiden Prancis, Jakarta, 28 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-28",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4103,7 +4101,7 @@
    "title": "Dari Kuala Lumpur, Presiden Prabowo Bertolak Menuju Tanah Air, 27 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-27",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4167,7 +4165,7 @@
    "title": "Presiden Prabowo Tiba di Kuala Lumpur, Malaysia, 25 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-25",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4175,7 +4173,7 @@
    "title": "Presiden Prabowo Bertolak Menuju Malaysia untuk Hadiri KTT ke-46 ASEAN, Jakarta, 25 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-25",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4247,7 +4245,7 @@
    "title": "Dari Thailand, Presiden Prabowo Bertolak ke Tanah Air, Bangkok, 19 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-19",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4263,7 +4261,7 @@
    "title": "Tiba di Government House Thailand, Presiden Prabowo Disambut dengan Upacara Resmi, 19 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-19",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4279,7 +4277,7 @@
    "title": "Presiden Prabowo Tiba di Bangkok, Thailand, 17 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-17",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4287,7 +4285,7 @@
    "title": "Presiden Prabowo Bertolak ke Thailand untuk Kunjungan Resmi, Jakarta, 17 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-17",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4311,7 +4309,7 @@
    "title": "Presiden Prabowo Disambut Hangat di Istana Nurul Iman, Brunei Darussalam, 14 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-14",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4319,7 +4317,7 @@
    "title": "Presiden Prabowo Tiba di Brunei Darussalam untuk Kunjungan Kenegaraan, 14 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-14",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4359,7 +4357,7 @@
    "title": "Presiden Prabowo Terima Kunjungan Bill Gates ke Indonesia, 7 Mei 2025",
    "kind": "kunjungan",
    "date": "2025-05-07",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4495,7 +4493,7 @@
    "title": "President Prabowo's Working Visit to South Sumatra, April 23, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4559,7 +4557,7 @@
    "title": "Presiden Prabowo Terima Kunjungan Kehormatan Wakil PM Pertama Federasi Rusia, Istana Merdeka,15/4/25",
    "kind": "kunjungan",
    "date": null,
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4567,7 +4565,7 @@
    "title": "Presiden Prabowo Tiba di Tanah Air, Pangkalan TNI AU Halim Perdanakusuma, 15 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-15",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4591,7 +4589,7 @@
    "title": "Raja Abdullah II Sambut Kunjungan Resmi Presiden Prabowo, Istana Al Husseiniya Amman, 14 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-14",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4615,7 +4613,7 @@
    "title": "Tiba di Yordania, Presiden Prabowo Disambut Langsung Raja Abdullah II, Amman, 13 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-13",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4647,7 +4645,7 @@
    "title": "President Prabowo Arrives in Doha, Qatar, April 12, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4671,7 +4669,7 @@
    "title": "Presiden Prabowo dan Presiden El-Sisi Kunjungi Akademi Militer Mesir, Kairo, 12 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-12",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4695,7 +4693,7 @@
    "title": "President Prabowo Arrives in Cairo, Egypt, April 11, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4703,7 +4701,7 @@
    "title": "Dari Antalya, Presiden Prabowo Bertolak Menuju Kairo, Mesir, 11 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-11",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4735,7 +4733,7 @@
    "title": "President Prabowo Arrives in Antalya, Turkiye, April 11, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4743,7 +4741,7 @@
    "title": "Dari Ankara, Presiden Prabowo Bertolak Menuju Antalya, Turkiye, 11 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-11",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4783,7 +4781,7 @@
    "title": "Tiba di Ankara, Presiden Prabowo Disambut Langsung Presiden Erdoğan, Turkiye, 9 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-09",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -4791,7 +4789,7 @@
    "title": "Dari Abu Dhabi, Presiden Prabowo Bertolak Menuju Ankara Turkiye, 9 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4823,7 +4821,7 @@
    "title": "Tiba di Abu Dhabi, Presiden Prabowo akan Bertemu Presiden MBZ, Persatuan Emirat Arab, 9 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4839,7 +4837,7 @@
    "title": "Presiden Prabowo Hadiri Panen Raya Padi Serentak di 14 Provinsi, Majalengka, 7 April 2025",
    "kind": "kunjungan",
    "date": "2025-04-07",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4911,7 +4909,7 @@
    "title": "Presiden Prabowo Terima Kunjungan Kehormatan Presiden NDB Dilma Rousseff, 25 Maret 2025",
    "kind": "kunjungan",
    "date": "2025-03-25",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -4999,7 +4997,7 @@
    "title": "President Prabowo's Working Visit to East Java Province, March 17, 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5103,7 +5101,7 @@
    "title": "Presiden Prabowo Tinjau Warga Terdampak Banjir di Kabupaten Bekasi, 8 Maret 2025",
    "kind": "kunjungan",
    "date": "2025-03-08",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5207,7 +5205,7 @@
    "title": "Presiden RI Terima Kunjungan Kehormatan Sekretaris Dewan Keamanan Rusia, Istana Merdeka, 25 Feb 2025",
    "kind": "kunjungan",
    "date": "2025-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5295,7 +5293,7 @@
    "title": "Presiden Prabowo Tinjau Program MBG di Bogor, 10 Februari 2025",
    "kind": "kunjungan",
    "date": "2025-02-10",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5431,7 +5429,7 @@
    "title": "Terima Kunjungan PBNU, Presiden Prabowo Bahas Kontribusi NU bagi Kemajuan Bangsa, 3 Februari 2025",
    "kind": "kunjungan",
    "date": "2025-02-03",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5439,7 +5437,7 @@
    "title": "Presiden Prabowo Subianto Tinjau Pelaksanaan Makan Bergizi Gratis di Jakarta, 3 Februari 2025",
    "kind": "kunjungan",
    "date": "2025-02-03",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5463,7 +5461,7 @@
    "title": "Indonesia-PEA Perkuat Kemitraan, Presiden Prabowo Terima Kunjungan Menteri Suhail, 30 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-30",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5495,7 +5493,7 @@
    "title": "Presiden Prabowo Tiba di Tanah Air, Pangkalan TNI AU Halim Perdanakusuma, 27 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-27",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5503,7 +5501,7 @@
    "title": "Presiden Prabowo Disambut Upacara Kenegaraan di Istana Negara Malaysia, 27 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-27",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5511,7 +5509,7 @@
    "title": "Presiden Prabowo Tiba di Malaysia, 27 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-27",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5543,7 +5541,7 @@
    "title": "Tiba di Rashtrapati Bhavan, Presiden Prabowo Disambut Upacara Kenegaraan, New Delhi, 25 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-25",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5567,7 +5565,7 @@
    "title": "Presiden Prabowo Terima Kunjungan Kehormatan Menteri Luar Negeri India, New Delhi, 24 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-24",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5575,7 +5573,7 @@
    "title": "Presiden Prabowo Tiba di New Delhi, India, 23 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-23",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5583,7 +5581,7 @@
    "title": "Presiden Prabowo Bertolak Menuju India, Pangkalan TNI AU Halim Perdanakusuma, 23 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-23",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5671,7 +5669,7 @@
    "title": "Perdana Menteri Jepang Ishiba Shigeru Tiba di Indonesia, 10 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-10",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5679,7 +5677,7 @@
    "title": "Presiden Prabowo Subianto Bertolak Menuju Tanah Air, Kuala Lumpur, Malaysia, 9 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5695,7 +5693,7 @@
    "title": "Presiden Prabowo Tiba di Kuala Lumpur, Malaysia, 9 Januari 2025",
    "kind": "kunjungan",
    "date": "2025-01-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5767,7 +5765,7 @@
    "title": "Presiden Prabowo Tiba di Tanah Air dan Lakukan Ratas Terkait Nataru, Halim Perdanakusuma,23 Des 2024",
    "kind": "kunjungan",
    "date": "2024-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5831,7 +5829,7 @@
    "title": "President Prabowo Arrives in Cairo, Egypt, December 17, 2024",
    "kind": "kunjungan",
    "date": "2024-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5839,7 +5837,7 @@
    "title": "Presiden Prabowo Bertolak Menuju Kairo, Mesir, Pangkalan TNI AU Halim Perdanakusuma,17 Desember 2024",
    "kind": "kunjungan",
    "date": "2024-12-17",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -5895,7 +5893,7 @@
    "title": "Presiden Prabowo Resmikan Terowongan Masjid Istiqlal-Gereja Katedral, 12 Desember 2024",
    "kind": "kunjungan",
    "date": "2024-12-12",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5911,7 +5909,7 @@
    "title": "Presiden Prabowo Resmikan Flyover Madukoro, Semarang, 11 Desember 2024",
    "kind": "kunjungan",
    "date": "2024-12-11",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -5999,7 +5997,7 @@
    "title": "Presiden Prabowo Tinjau Kawasan BLUPPB Karawang, 2 Desember 2024",
    "kind": "kunjungan",
    "date": "2024-12-02",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6063,7 +6061,7 @@
    "title": "Presiden Prabowo Disambut Upacara Kenegaraan di Qasr Al Watn, Abu Dhabi, 23 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-23",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -6071,7 +6069,7 @@
    "title": "Presiden Prabowo Tiba di Abu Dhabi, Persatuan Emirat Arab, 23 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-23",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6111,7 +6109,7 @@
    "title": "Presiden Prabowo Tiba di London, Inggris, 20 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-20",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6191,7 +6189,7 @@
    "title": "President Prabowo Arrives in Rio de Janeiro, Brazil, November 16, 2024",
    "kind": "kunjungan",
    "date": "2024-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -6199,7 +6197,7 @@
    "title": "Dari Peru, Presiden Prabowo Bertolak Menuju Brasil, 16 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-16",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6263,7 +6261,7 @@
    "title": "Kunjungan Resmi Presiden Prabowo Kepada Presiden Republik Peru Dina Boluarte, Lima, 14 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-14",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6271,7 +6269,7 @@
    "title": "Presiden Prabowo Terima Kunjungan PM Australia Anthony Albanese, Lima, 14 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-14",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6279,7 +6277,7 @@
    "title": "Presiden Prabowo Tiba di Lima, Peru, 13 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-13",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6335,7 +6333,7 @@
    "title": "Presiden Prabowo Tiba di Washington DC, Amerika Serikat, 10 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-10",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -6343,7 +6341,7 @@
    "title": "Dari Beijing, Presiden Prabowo Bertolak Menuju Washington, D.C., 10 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-10",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6359,7 +6357,7 @@
    "title": "Presiden Prabowo Kunjungi Monumen Pahlawan Rakyat, Beijing, 9 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-09",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6391,7 +6389,7 @@
    "title": "Presiden Prabowo Tiba di Beijing, RRT, 8 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-08",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -6407,7 +6405,7 @@
    "title": "Presiden Prabowo Resmikan Rakornas Pemerintah Pusat dan Daerah Tahun 2024, Bogor, 7 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-07",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -6439,7 +6437,7 @@
    "title": "Upacara Penyerahan Surat Surat Kepercayaan Duta Besar LBBP untuk Republik Indonesia, 4 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-04",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6447,7 +6445,7 @@
    "title": "Presiden Prabowo Tinjau Infrastruktur Areal Lumbung Pangan di Wanam, Merauke, 3 November 2024",
    "kind": "kunjungan",
    "date": "2024-11-03",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -6455,7 +6453,7 @@
    "title": "President Prabowo Inspects Rice Harvest, Merauke, November 3, 2024",
    "kind": "kunjungan",
    "date": "2024-00-00?",
-   "state": "menunggu",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -6511,7 +6509,7 @@
    "title": "Presiden Prabowo Tiba di Akmil Magelang, 24 Okt 2024",
    "kind": "kunjungan",
    "date": "2024-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -6527,7 +6525,7 @@
    "title": "Presiden Prabowo Hadiri Upacara Penerimaan dan Penyerahan Memorandum Menhan RI, Jakarta,22 Okt 2024",
    "kind": "kunjungan",
    "date": "2024-00-00?",
-   "state": "menunggu",
+   "state": "tanpa_track",
    "detail": ""
   },
   {

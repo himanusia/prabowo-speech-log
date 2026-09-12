@@ -1,0 +1,66 @@
+{
+ "id": "5wo0lqfmlCU",
+ "url": "https://www.youtube.com/watch?v=5wo0lqfmlCU",
+ "title": "HIGHLIGHT - Kunjungan Kenegaraan Presiden Brasil Luiz Inácio Lula da Silva ke Indonesia",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 19.0,
+   "duration": 11
+  },
+  {
+   "text": "Kita telah melaksanakan pertemuan yang intensif dan produktif.",
+   "start": 30.0,
+   "duration": 7
+  },
+  {
+   "text": "Kita kedua negara adalah dua kekuatan ekonomi baru yang sedang meningkat",
+   "start": 37.0,
+   "duration": 8
+  },
+  {
+   "text": "terus-menerus. [musik] Kita merupakan dua kekuatan global south. Karena itu kerja sama [musik]",
+   "start": 45.0,
+   "duration": 9
+  },
+  {
+   "text": "antara Indonesia dan Brazil memiliki arti strategis dan kami berdua memandang [musik] sangat penting hubungan ini.",
+   "start": 54.0,
+   "duration": 10
+  },
+  {
+   "text": "Hubungan ini kita bertekad [musik] untuk mempererat dan terus meningkat di segala bidang.",
+   "start": 64.0,
+   "duration": 10
+  },
+  {
+   "text": "[musik]",
+   "start": 74.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 81.0,
+   "duration": 3
+  }
+ ]
+}

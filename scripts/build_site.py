@@ -113,7 +113,8 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
       <span class="brand__name"><a href="{rel_root}index.html" style="color:inherit">{e(SITE_NAME)}</a></span>
     </div>
     <nav class="nav" aria-label="Navigasi utama">
-      <button type="button" data-go="{rel_root}index.html" {'aria-current="page"' if active == 'daftar' else ''}>Daftar</button>
+      <button type="button" data-go="{rel_root}index.html" {'aria-current="page"' if active == 'beranda' else ''}>Beranda</button>
+      <button type="button" data-go="{rel_root}daftar.html" {'aria-current="page"' if active == 'daftar' else ''}>Daftar</button>
       <button type="button" data-go="{rel_root}cakupan.html" {'aria-current="page"' if active == 'cakupan' else ''}>Cakupan</button>
       <button type="button" data-go="{rel_root}tentang.html" {'aria-current="page"' if active == 'tentang' else ''}>Tentang</button>
       <button type="button" data-theme-toggle title="Ganti tema terang/gelap" aria-label="Ganti tema">&#9681;</button>
@@ -133,6 +134,164 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
 """
 
 
+# ------------------------------------------------------------------ bentuk grafik
+
+def _treemap_rects(values):
+    """Tata letak treemap sederhana: belah dua berulang, menghasilkan (x,y,w,h) persen."""
+    if not values or sum(values) <= 0:
+        return []
+    out = []
+
+    def bagi(areas, x, y, w, h):
+        if not areas:
+            return
+        if len(areas) == 1:
+            out.append((x, y, w, h))
+            return
+        total = sum(areas)
+        acc, i = 0.0, 0
+        for i in range(len(areas)):
+            acc += areas[i]
+            if acc >= total / 2:
+                break
+        kiri, kanan = areas[:i + 1], areas[i + 1:]
+        porsi = sum(kiri) / total
+        if w >= h:
+            bagi(kiri, x, y, w * porsi, h)
+            bagi(kanan, x + w * porsi, y, w * (1 - porsi), h)
+        else:
+            bagi(kiri, x, y, w, h * porsi)
+            bagi(kanan, x, y + h * porsi, w, h * (1 - porsi))
+
+    bagi([v / sum(values) * 100 * 100 for v in values], 0.0, 0.0, 100.0, 100.0)
+    return out
+
+
+def _treemap(items, min_label=6.0):
+    """Treemap: luas kotak = besar porsi. Bentuk yang sama sekali beda dari batang."""
+    if not items:
+        return ""
+    rects = _treemap_rects([x["share"] for x in items])
+    hi = max(x["share"] for x in items) or 1
+    parts = []
+    for (x, y, w, h), it in zip(rects, items):
+        kuat = 30 + (it["share"] / hi) * 55
+        bg = f"color-mix(in srgb, var(--primary) {kuat:.0f}%, var(--card))"
+        terang = it["share"] / hi > 0.55
+        fg = "color:#fff" if terang else "color:var(--fg)"
+        isi = (f'<b>{e(it["label"])}</b><span>{it["share"]:.0f}%</span>'
+               if w * h >= min_label * 6 else f'<span>{it["share"]:.0f}%</span>')
+        parts.append(
+            f'<div class="tmap__c" style="left:{x:.3f}%;top:{y:.3f}%;'
+            f'width:{w:.3f}%;height:{h:.3f}%;background:{bg};{fg}" '
+            f'title="{e(it["label"])}: {it["share"]:.0f}% pidato">{isi}</div>')
+    return f'<div class="tmap">{"".join(parts)}</div>'
+
+
+def _columns(items, satuan="per 1.000 token"):
+    """Kolom vertikal: bentuk lain lagi, menonjolkan perbandingan tinggi."""
+    if not items:
+        return ""
+    hi = max(x["nilai"] for x in items) or 1
+    cols = "".join(
+        f'<div class="col" title="{e(x["label"])}: {x["nilai"]:.1f} {satuan}">'
+        f'<span class="col__v">{x["nilai"]:.1f}</span>'
+        f'<span class="col__b" style="height:{max(2.0, x["nilai"] / hi * 100):.1f}%"></span>'
+        f'<span class="col__l">{e(x["label"])}</span></div>'
+        for x in items)
+    return f'<div class="cols">{cols}</div>'
+
+
+def _donut(items, tengah=""):
+    """Donat: busur SVG. Sekali lagi bentuk yang berbeda dari batang."""
+    if not items:
+        return ""
+    total = sum(x["share"] for x in items) or 1
+    r, cx, cy, tebal = 52.0, 70.0, 70.0, 20.0
+    C = 2 * 3.141592653589793 * r
+    off = 0.0
+    seg = []
+    for x in items:
+        frac = x["share"] / total
+        dash = frac * C
+        kuat = 92 - (x["share"] / items[0]["share"]) * 34
+        seg.append(
+            f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" '
+            f'stroke="color-mix(in srgb, var(--primary) {kuat:.0f}%, var(--card))" '
+            f'stroke-width="{tebal}" stroke-dasharray="{dash:.2f} {C - dash:.2f}" '
+            f'stroke-dashoffset="{-off:.2f}" transform="rotate(-90 {cx} {cy})">'
+            f'<title>{e(x["label"])}: {x["share"]:.0f}%</title></circle>')
+        off += dash
+    tengah_html = (f'<text x="{cx}" y="{cy - 2}" text-anchor="middle" '
+                   f'class="donut__n">{e(tengah)}</text>'
+                   if tengah else "")
+    legend = "".join(
+        f'<li><span class="dot" style="background:'
+        f'color-mix(in srgb, var(--primary) {92 - (x["share"] / items[0]["share"]) * 34:.0f}%, var(--card))">'
+        f'</span>{e(x["label"])}<b>{x["share"]:.0f}%</b></li>'
+        for x in items)
+    return (f'<div class="donut"><svg viewBox="0 0 140 140" role="img" '
+            f'aria-label="Porsi tiap kategori">{tengah_html}{"".join(seg)}</svg>'
+            f'<ul class="donut__l">{legend}</ul></div>')
+
+
+def _area(months):
+    """Grafik area: volume pidato per bulan, lengkap dengan sumbu dan garis bantu."""
+    if not months:
+        return ""
+    v = [m["events"] for m in months]
+    hi = max(v) or 1
+    n = len(v)
+    titik = [((i / max(1, n - 1)) * 100.0,
+              100.0 - (val / hi) * 92.0) for i, val in enumerate(v)]
+    garis = " ".join(f"{'M' if i == 0 else 'L'}{x:.2f},{y:.2f}"
+                     for i, (x, y) in enumerate(titik))
+    isi = f"{garis} L100.00,100.00 L0,100.00 Z"
+    grid = "".join(
+        f'<line x1="0" y1="{y:.1f}" x2="100" y2="{y:.1f}" class="area__g"/>'
+        for y in (8.0, 54.0, 100.0))
+    ymax = f'<span>{hi}</span>'
+    ymid = f'<span>{round(hi / 2)}</span>'
+    awal, akhir = e(months[0]["month"]), e(months[-1]["month"])
+    return (f'<div class="area">'
+            f'<div class="area__y">{ymax}{ymid}<span>0</span></div>'
+            f'<div class="area__plot">'
+            f'<svg viewBox="0 0 100 100" preserveAspectRatio="none" role="img" '
+            f'aria-label="Volume pidato per bulan, puncak {hi}">'
+            f'{grid}<path class="area__f" d="{isi}"/>'
+            f'<path class="area__l" d="{garis}"/></svg>'
+            f'<div class="area__x"><span>{awal}</span>'
+            f'<span>puncak {hi} pidato</span><span>{akhir}</span></div>'
+            f'</div></div>')
+
+
+def _timeline(speeches):
+    """Garis waktu: SETIAP pidato jadi satu tanda. Menggantikan daftar di beranda."""
+    if not speeches:
+        return ""
+    urut = sorted(speeches, key=lambda s: s["date"])
+    n = len(urut)
+    W, H = 100.0, 100.0
+    hi = max((s["token_count"] or 0) for s in urut) or 1
+    tanda = []
+    for i, s in enumerate(urut):
+        x = (i / max(1, n - 1)) * W
+        tinggi = 12 + (s["token_count"] or 0) / hi * (H - 20)
+        y = H - tinggi
+        tanda.append(
+            f'<a href="pidato/{e(s["id"])}.html"><rect x="{x - 0.32:.3f}" y="{y:.2f}" '
+            f'width="0.64" height="{tinggi:.2f}"><title>{e(s["date"])} — {e(s["title"][:70])} '
+            f'({fmt_int(s["token_count"])} token)</title></rect></a>')
+    isi = "".join(tanda)
+    awal, akhir = e(urut[0]["date"]), e(urut[-1]["date"])
+    return (f'<div class="tl">'
+            f'<svg viewBox="0 0 100 100" preserveAspectRatio="none" role="img" '
+            f'aria-label="Garis waktu {n} pidato">{isi}</svg>'
+            f'<div class="tl__x"><span>{awal}</span>'
+            f'<span>tiap tanda = satu pidato &middot; tinggi = panjangnya</span>'
+            f'<span>{akhir}</span></div></div>')
+
+
 # ------------------------------------------------------------------ daftar utama
 
 def _bar(label: str, frac: float, value: str, *, soft: bool = False,
@@ -149,7 +308,7 @@ def _bar(label: str, frac: float, value: str, *, soft: bool = False,
         cls += " brow__f--soft"
     elif rank is not None:
         # peringkat 1 paling pekat, makin ke bawah makin pudar
-        mix = max(30, 100 - rank * 9)
+        mix = max(48, 100 - rank * 7)
         style += f";background:color-mix(in srgb, var(--primary) {mix}%, var(--border))"
     return (f'<div class="brow"><span class="brow__k">{e(label)}</span>'
             f'<span class="brow__t"><span class="{cls}" style="{style}"></span></span>'
@@ -167,7 +326,7 @@ def _word_cloud(words: list[dict], limit: int = 34) -> str:
     for i, w in enumerate(top):
         # skala akar supaya perbedaan ekstrem tidak mendominasi
         frac = ((w["count"] / hi) ** 0.5 - (lo / hi) ** 0.5) / max(1e-6, 1 - (lo / hi) ** 0.5)
-        size = 0.95 + max(0.0, min(1.0, frac)) * 2.0
+        size = 0.9 + max(0.0, min(1.0, frac)) * 2.6
         tier = "cloud__w--1" if i < 3 else ("cloud__w--2" if i < 10 else "cloud__w--3")
         out.append(f'<span class="cloud__w {tier}" style="font-size:{size:.2f}rem">'
                    f'{e(w["word"])}<b>{fmt_int(w["count"])}</b></span>')
@@ -194,7 +353,7 @@ def _cov_cells(coverage: dict) -> str:
     return "".join(out)
 
 
-def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -> str:
+def _entries(speeches: list[dict]) -> str:
     rows = []
     for s in speeches:
         rows.append(f"""      <li>
@@ -209,9 +368,37 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
           <span class="entry__meta">{e(s['source_tier'] or '')}</span>
         </a>
       </li>""")
+    return chr(10).join(rows)
 
+
+def render_daftar(speeches: list[dict], meta: dict, coverage: dict) -> str:
+    """Halaman daftar. Dipisah dari beranda: beranda untuk analisis, bukan indeks."""
+    body = f"""  <h1>Semua pidato</h1>
+  <p class="lede">{len(speeches)} pidato terverifikasi, {fmt_int(sum(s['upload_count'] for s in speeches))} unggahan.
+  Satu baris = satu acara, bukan satu video.</p>
+
+  <div class="searchbar">
+    <input id="q" type="search" placeholder="Cari pidato atau isi transkrip…" aria-label="Cari pidato" autocomplete="off">
+  </div>
+  <p class="hint" id="count">{len(speeches)} pidato</p>
+  <ol class="list" id="list">
+{_entries(speeches)}
+  </ol>
+  <p class="empty" id="empty" hidden>Tidak ada yang cocok.</p>
+"""
+    return page(
+        f"Semua pidato — {len(speeches)}",
+        body,
+        desc=f"Daftar lengkap {len(speeches)} pidato Presiden Prabowo dengan transkrip, "
+             f"tautan video, dan cap waktu.",
+        canonical="/daftar.html",
+        active="daftar",
+    )
+
+
+def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -> str:
     L = home.get("length") or {}
-    hook = f"""  <div class="hero">
+    hero = f"""  <div class="hero">
     <div class="hero__i"><span class="hero__n hero__n--accent">{fmt_int(home.get('event_count'))}</span><span class="hero__l">pidato</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(home.get('token_count'))}</span><span class="hero__l">token</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(home.get('upload_count'))}</span><span class="hero__l">unggahan</span></div>
@@ -220,148 +407,79 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
     <div class="hero__i"><span class="hero__n">{e(format_span(coverage))}</span><span class="hero__l">rentang</span></div>
   </div>"""
 
-    # ---- awan kata + batang kata
     tw = home.get("top_words", [])
-    wc = _word_cloud(tw, 44)
-    top12 = tw[:10]
-    hi12 = (top12[0]["count"] if top12 else 1) or 1
-    word_bars = "".join(
-        _bar(w["word"], w["count"] / hi12, fmt_int(w["count"]), rank=i)
-        for i, w in enumerate(top12))
-
-    # ---- program
-    prog = home.get("programs", [])[:10]
-    prog_bars = "".join(_bar(x["label"], x["share"] / 100, f'{x["share"]:.0f}%', rank=i)
-                        for i, x in enumerate(prog))
-
-    # ---- konsep
-    conc = home.get("concepts", [])
-    conc_bars = "".join(_bar(x["label"], x["share"] / 100, f'{x["share"]:.0f}%', rank=i)
-                        for i, x in enumerate(conc))
-
-    # ---- topik
+    prog = home.get("programs", [])[:9]
+    conc = home.get("concepts", [])[:6]
     top = home.get("topics", [])
+    fr_sorted = sorted(home.get("framing", []), key=lambda x: -x["per_1000"])
+    hist = home.get("length_histogram", [])
+    hmax = home.get("length_histogram_max", 1) or 1
+
     hi_t = (top[0]["per_1000"] if top else 1) or 1
     topic_bars = "".join(
         _bar(x["topic"].replace("_", " "), x["per_1000"] / hi_t, f'{x["per_1000"]:.1f}', rank=i)
         for i, x in enumerate(top))
 
-    # ---- framing
-    fr = {f["label"]: f for f in home.get("framing", [])}
-    ratio = home.get("kita_saya_ratio")
-    # urutkan menurut nilainya, jangan hardcode — pernah salah urut
-    fr_sorted = sorted(home.get("framing", []), key=lambda x: -x["per_1000"])
-    fr_bars = "".join(
-        _bar(x["label"], x["per_1000"] / (fr_sorted[0]["per_1000"] or 1),
-             f'{x["per_1000"]:.1f}', soft=x["label"] in ("kalian", "kami", "mereka"), rank=i)
-        for i, x in enumerate(fr_sorted))
-    yr_bars = "".join(
-        _bar(y["year"], (y["ratio"] or 0) / 2.0, f'{y["ratio"]}&times;', rank=i)
-        for i, y in enumerate(home.get("framing_per_year", [])))
+    kolom = _columns([{"label": x["label"], "nilai": x["per_1000"]} for x in fr_sorted[:6]])
 
-    # ---- histogram panjang
-    hist = home.get("length_histogram", [])
-    hmax = home.get("length_histogram_max", 1) or 1
     hist_html = "".join(
-        f'<div class="hist__c" title="{e(h["label"])} token: {h["count"]} pidato">'
+        f'<div class="hist__c" title="{e(h["label"])} ribu token: {h["count"]} pidato">'
         f'<span class="hist__n">{h["count"]}</span>'
         f'<span class="hist__b{"" if h["count"] else " hist__b--zero"}" '
         f'style="height:{(max(h["count"], 0.4) / hmax * 100):.1f}%"></span>'
         f'<span class="hist__l">{e(h["label"])}</span></div>'
         for h in hist)
 
-    # ---- kata teratas per tahun
-    pyw = "".join(
-        f'<div style="margin-bottom:.7rem"><div class="card__h" style="border:0;margin:0 0 .35rem;padding:0">'
-        f'<h2 style="font-size:var(--step-1)">{e(y["year"])}</h2>'
-        f'<span class="unit">{fmt_int(y["tokens"])} token</span></div>'
-        + "".join(_bar(w["word"], w["count"] / (y["top"][0]["count"] or 1),
-                       fmt_int(w["count"]), rank=i)
-                  for i, w in enumerate(y["top"]))
-        + "</div>"
-        for y in home.get("per_year_words", []))
+    bln = [m for m in coverage.get("months", []) if m.get("covered")]
+    donut = _donut([{"label": x["label"], "share": x["share"]} for x in conc],
+                   tengah=f'{conc[0]["share"]:.0f}%' if conc else "")
 
     body = f"""  <h1>{e(SITE_NAME)}</h1>
   <p class="lede">Seluruh pidato, sambutan, dan pernyataan resmi yang terkumpul —
   diukur, bukan diringkas.</p>
 
-{hook}
+{hero}
 
-  <div class="dash" style="margin-top:1rem">
-
-    <section class="card c7">
-      <div class="card__h">
-        <h2>Kata terbanyak</h2>
-        <span class="unit">tanpa kata fungsi &amp; pronomina</span>
-      </div>
-      {wc}
-      <p class="sub">10 teratas, dengan jumlah persisnya</p>
-      <div class="bars">{word_bars}</div>
-    </section>
+  <div class="dash">
 
     <section class="card c5">
-      <div class="card__h">
-        <h2>Program yang dibahas</h2>
-        <span class="unit">% pidato</span>
-      </div>
-      <div class="bars">{prog_bars}</div>
-      <p class="note-inline">Dihitung dari seluruh cara penyebutannya: akronim, nama panjang,
-      maupun badan pelaksananya.</p>
-    </section>
-
-    <section class="card c5">
-      <div class="card__h">
-        <h2>Cara dia menyapa</h2>
-        <span class="unit">per 1.000 token</span>
-      </div>
-      <div class="bars">{fr_bars}</div>
-      <p class="note-inline"><strong>kita</strong> {ratio}&times; lebih sering daripada
-      <strong>saya</strong>. <strong>kalian</strong> hampir tidak pernah dipakai.</p>
+      <div class="card__h"><h2>Program yang dibahas</h2><span class="unit">luas kotak = % pidato</span></div>
+      {_treemap(prog)}
     </section>
 
     <section class="card c7">
-      <div class="card__h">
-        <h2>Topik</h2>
-        <span class="unit">kepadatan per 1.000 token</span>
-      </div>
+      <div class="card__h"><h2>Kata terbanyak</h2><span class="unit">besar huruf = frekuensi</span></div>
+      {_word_cloud(tw, 32)}
+    </section>
+
+    <section class="card c6">
+      <div class="card__h"><h2>Cara dia menyapa</h2><span class="unit">per 1.000 token</span></div>
+      {kolom}
+    </section>
+
+    <section class="card c6">
+      <div class="card__h"><h2>Yang disebut masalah</h2><span class="unit">porsi pidato</span></div>
+      {donut}
+    </section>
+
+    <section class="card c7">
+      <div class="card__h"><h2>Topik</h2><span class="unit">kepadatan per 1.000 token</span></div>
       <div class="bars">{topic_bars}</div>
-      <p class="note-inline">Kepadatan kata, bukan tingkat kepentingan. Kategori
-      <em>nasional &amp; identitas</em> memakai banyak kata sekaligus sehingga selalu
-      paling tinggi.</p>
     </section>
 
-    <section class="card c6">
-      <div class="card__h">
-        <h2>Yang disebut masalah</h2>
-        <span class="unit">% pidato</span>
-      </div>
-      <div class="bars">{conc_bars}</div>
-      <p class="note-inline">Korupsi jauh di atas hinaan pribadi.</p>
-    </section>
-
-    <section class="card c6">
-      <div class="card__h">
-        <h2>Panjang pidato</h2>
-        <span class="unit">jumlah pidato</span>
-      </div>
+    <section class="card c5">
+      <div class="card__h"><h2>Panjang pidato</h2><span class="unit">ribu token</span></div>
       <div class="hist">{hist_html}</div>
     </section>
 
-    <section class="card c4">
-      <div class="card__h">
-        <h2>Rasio kita : saya</h2>
-        <span class="unit">per tahun</span>
-      </div>
-      <div class="bars">{yr_bars}</div>
-      <p class="note-inline">Stabil di atas 1&times; setiap tahun — dia lebih sering
-      memakai kata kolektif daripada kata tunggal.</p>
+    <section class="card c12">
+      <div class="card__h"><h2>Volume per bulan</h2><span class="unit">jumlah pidato</span></div>
+      {_area(bln)}
     </section>
 
-    <section class="card c8">
-      <div class="card__h">
-        <h2>Sebaran waktu</h2>
-        <span class="unit">{len(coverage.get('months_without_events', []))} bulan kosong</span>
-      </div>
+    <section class="card c12">
+      <div class="card__h"><h2>Sebaran waktu</h2>
+        <span class="unit">{len(coverage.get('months_without_events', []))} bulan kosong</span></div>
       <div class="heat">{_cov_cells(coverage)}</div>
       <div class="legend">
         <span>jumlah pidato per bulan</span>
@@ -372,34 +490,12 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
         <span class="legend__s" style="border-style:dashed;background:transparent"></span>
         <span>kosong</span>
       </div>
-      <p class="note-inline">Kotak bergaris putus-putus = bulan tanpa pidato sama sekali.
-      Sebaran yang condong ke 2026 itu <strong>artefak cara pencarian</strong>, bukan tanda
-      Prabowo lebih sering berpidato tahun itu — lihat halaman
-      <a href="cakupan.html">cakupan</a>.</p>
     </section>
 
     <section class="card c12">
-      <div class="card__h">
-        <h2>Kata teratas per tahun</h2>
-        <span class="unit">melihat pergeseran kosakata</span>
-      </div>
-      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:1.5rem">
-      {pyw}
-      </div>
-    </section>
-
-    <section class="card c12">
-      <div class="card__h">
-        <h2>Semua pidato</h2>
-        <span class="unit" id="count">{len(speeches)} pidato</span>
-      </div>
-      <div class="searchbar">
-        <input id="q" type="search" placeholder="Cari pidato atau isi transkrip…" aria-label="Cari pidato" autocomplete="off">
-      </div>
-      <ol class="list" id="list" style="margin-top:1rem;list-style:none;padding:0">
-{chr(10).join(rows)}
-      </ol>
-      <p class="empty" id="empty" hidden>Tidak ada yang cocok.</p>
+      <div class="card__h"><h2>Garis waktu</h2>
+        <span class="unit"><a href="daftar.html">buka daftar lengkap &rarr;</a></span></div>
+      {_timeline(speeches)}
     </section>
 
   </div>
@@ -423,7 +519,7 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
                 "url": f"{SITE_BASE}/pidato/{s['id']}.html",
             } for s in speeches],
         }, ensure_ascii=False),
-        active="daftar",
+        active="beranda",
     )
 
 
@@ -879,6 +975,7 @@ def main() -> int:
 
     (DOCS / "index.html").write_text(
         render_index(index, meta, coverage, home), encoding="utf-8")
+    (DOCS / "daftar.html").write_text(render_daftar(index, meta, coverage), encoding="utf-8")
     (DOCS / "cakupan.html").write_text(render_coverage(coverage, meta, speeches), encoding="utf-8")
     (DOCS / "tentang.html").write_text(render_about(meta, coverage), encoding="utf-8")
     (DOCS / "404.html").write_text(render_404(), encoding="utf-8")
@@ -908,7 +1005,8 @@ def main() -> int:
     (DOCS / "data" / "search.json").write_text(
         json.dumps(search, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
-    urls = [f"{SITE_BASE}/", f"{SITE_BASE}/cakupan.html", f"{SITE_BASE}/tentang.html"]
+    urls = [f"{SITE_BASE}/", f"{SITE_BASE}/daftar.html",
+            f"{SITE_BASE}/cakupan.html", f"{SITE_BASE}/tentang.html"]
     urls += [f"{SITE_BASE}/pidato/{s['id']}.html" for s in speeches]
     today = datetime.now(WIB).date().isoformat()
     (DOCS / "sitemap.xml").write_text(

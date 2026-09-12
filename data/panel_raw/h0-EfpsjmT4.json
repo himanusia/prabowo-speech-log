@@ -1,0 +1,101 @@
+{
+ "id": "h0-EfpsjmT4",
+ "url": "https://www.youtube.com/watch?v=h0-EfpsjmT4",
+ "title": "Presiden Prabowo Tiba di Antalya, Turkiye, 11 April 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "raw_snippets": [
+  {
+   "text": "[Tepuk tangan]",
+   "start": 20.0,
+   "duration": 29
+  },
+  {
+   "text": "[Musik]",
+   "start": 49.0,
+   "duration": 20
+  },
+  {
+   "text": "mobil",
+   "start": 69.0,
+   "duration": 11
+  },
+  {
+   "text": "[Musik]",
+   "start": 80.0,
+   "duration": 16
+  },
+  {
+   "text": "Bapak Ibu Menteri belum ketemu",
+   "start": 96.0,
+   "duration": 14
+  },
+  {
+   "text": "Bapak kerja di sini juga berapa lama? Sudah mau 4 tahun. Oh iya kau dari mana? dari Bandung.",
+   "start": 110.0,
+   "duration": 10
+  },
+  {
+   "text": "Bandung. Rasanya sih senang banget ya karena kan susah kita kalau di Indonesia mungkin orang biasa enggak enggak bisa",
+   "start": 120.0,
+   "duration": 7
+  },
+  {
+   "text": "ketemu kan. Ini ee bisa beruntung banget bisa ketemu Bapak Presiden. Dia langsung ee bisa ke tempat cyber kerja",
+   "start": 127.0,
+   "duration": 9
+  },
+  {
+   "text": "di sini. Itu rasanya haru. Kalian kerja di sini? Kerja di sini banyak di hotel-hotel. Oh. Oh,",
+   "start": 136.0,
+   "duration": 10
+  },
+  {
+   "text": "Bapak. Selamat datang. Selamat datang, Pak.",
+   "start": 146.0,
+   "duration": 5
+  },
+  {
+   "text": "Saya sudah 10 tahun di Turki. Baru kali ini saya bisa ketemu Bapak Presiden dan saya sangat senang sekali dan happy dan",
+   "start": 151.0,
+   "duration": 9
+  },
+  {
+   "text": "tadi spontan bisa ketemu dengan Mayor Teddy. Oke. Tadi sempat foto-foto enggak si? Iya, senang sekali Mayor Teddy",
+   "start": 160.0,
+   "duration": 8
+  },
+  {
+   "text": "dengan baiknya dia mau berfoto sama saya. Sudah berapa lama di sini? 5 tahun, Pak. 5 tahun. Saya 10 tahun. 11",
+   "start": 168.0,
+   "duration": 7
+  },
+  {
+   "text": "tahun. 11 tahun keluarga suami gak suami gak oh selamat",
+   "start": 175.0,
+   "duration": 8
+  },
+  {
+   "text": "[Musik]",
+   "start": 183.0,
+   "duration": 3
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "id": "J-00qCrN14A",
+ "url": "https://www.youtube.com/watch?v=J-00qCrN14A",
+ "title": "75 Tahun Indonesia-Prancis, Kunjungan Presiden Emmanuel Macron di Indonesia",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "raw_snippets": [
+  {
+   "text": "adalah sebuah kehormatan yang besar. Saya sebagai Presiden Republik Indonesia menyambut",
+   "start": 3.0,
+   "duration": 9
+  },
+  {
+   "text": "kunjungan daripada Presiden Republik Prancis, Saudara Emmanuel Macron, sahabat baik saya.",
+   "start": 12.0,
+   "duration": 9
+  },
+  {
+   "text": "[Musik]",
+   "start": 21.0,
+   "duration": 7
+  },
+  {
+   "text": "Kunjungan kenegaraan ini juga memiliki suatu makna khusus karena ini tepat",
+   "start": 28.0,
+   "duration": 8
+  },
+  {
+   "text": "dengan 75 tahun hubungan diplomatik antara Indonesia Prancis.",
+   "start": 36.0,
+   "duration": 8
+  },
+  {
+   "text": "[Musik]",
+   "start": 44.0,
+   "duration": 7
+  },
+  {
+   "text": "Kami sepakat untuk melangkah lebih jauh lagi dengan mengadopsi Deklarasi Visi Bersama Menuju 100 tahun Hubungan Indonesia Prancis tahun 2050.",
+   "start": 51.0,
+   "duration": 19
+  },
+  {
+   "text": "C'est pour mon épouse, ma délégation et moi-même un immense honneur d'être reçu en visite d'État dans votre pays. Et si",
+   "start": 70.0,
+   "duration": 8
+  },
+  {
+   "text": "12000 km séparent les rivages de nos deux métropoles, nous n'en sommes pas moins liés par le vent de l'histoire et le souffle de nos destins communs.",
+   "start": 78.0,
+   "duration": 11
+  },
+  {
+   "text": "lama menjadit ditu avec le temps devient colline et",
+   "start": 89.0,
+   "duration": 9
+  },
+  {
+   "text": "peu à peu d'année en année oui notre amitié a atteint des hauteurs de plus en plus",
+   "start": 98.0,
+   "duration": 5
+  },
+  {
+   "text": "[Musik]",
+   "start": 103.0,
+   "duration": 5
+  },
+  {
+   "text": "élevé ini juga menunjukkan komitmen kita untuk meningkatkan kerja sama kita di bidang strategis",
+   "start": 108.0,
+   "duration": 6
+  },
+  {
+   "text": "[Musik]",
+   "start": 114.0,
+   "duration": 29
+  },
+  {
+   "text": "Saya harus menyampaikan bahwa keadaan hubungan antara Prancis dan Indonesia berada dalam tingkat yang sangat baik.",
+   "start": 143.0,
+   "duration": 3
+  }
+ ]
+}

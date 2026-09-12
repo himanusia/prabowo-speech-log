@@ -156,7 +156,7 @@ def main() -> int:
     # Sebaran panjang pidato — untuk histogram.
     buckets = [(0, 500), (500, 1000), (1000, 1500), (1500, 2000), (2000, 3000),
                (3000, 4000), (4000, 6000), (6000, 10**9)]
-    labels = ["<500", "500–1k", "1k–1,5k", "1,5k–2k", "2k–3k", "3k–4k", "4k–6k", ">6k"]
+    labels = ["0,5", "1", "1,5", "2", "3", "4", "6", "6+"]  # ribu token
     hist = []
     for (lo, hi), lab in zip(buckets, labels):
         n = sum(1 for s in speeches if lo <= (s["token_count"] or 0) < hi)

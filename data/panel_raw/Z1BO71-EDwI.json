@@ -1,0 +1,116 @@
+{
+ "id": "Z1BO71-EDwI",
+ "url": "https://www.youtube.com/watch?v=Z1BO71-EDwI",
+ "title": "Presiden Prabowo Tiba di Kuala Lumpur, Malaysia, 25 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "raw_snippets": [
+  {
+   "text": "[Tepuk tangan]",
+   "start": 28.0,
+   "duration": 10
+  },
+  {
+   "text": "Sap",
+   "start": 38.0,
+   "duration": 1
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 39.0,
+   "duration": 1
+  },
+  {
+   "text": "ST ST",
+   "start": 40.0,
+   "duration": 5
+  },
+  {
+   "text": "[Musik]",
+   "start": 45.0,
+   "duration": 1
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 46.0,
+   "duration": 50
+  },
+  {
+   "text": "Selamat datang Bapak. Selamat datang. Selamat datang. Kamu namanya siapa?",
+   "start": 96.0,
+   "duration": 7
+  },
+  {
+   "text": "Mundur mundur. W Willy. Kamu SL. Sakla.",
+   "start": 103.0,
+   "duration": 4
+  },
+  {
+   "text": "Aduh. Terima kasih. Terima kasih. Kamu umurnya berapa?",
+   "start": 107.0,
+   "duration": 6
+  },
+  {
+   "text": "Hah? Kalau kamu aduh terima kasih. Terima kasih. E grogi dikit sih.",
+   "start": 113.0,
+   "duration": 11
+  },
+  {
+   "text": "Grogi. Grogi dikit tapi senang juga.",
+   "start": 124.0,
+   "duration": 5
+  },
+  {
+   "text": "E pertama kali jumpa Bapak Presiden pas pertama-pertamanya",
+   "start": 129.0,
+   "duration": 8
+  },
+  {
+   "text": "deg-degan tapi lama-lama udah enggak terlalu gitu. Terima kasih.",
+   "start": 137.0,
+   "duration": 9
+  },
+  {
+   "text": "Semoga sehat selalu di perjalanan baik-baik dan sehat selalu.",
+   "start": 146.0,
+   "duration": 10
+  },
+  {
+   "text": "Terus, terus semoga panjang umur. Terima kasih semuanya.",
+   "start": 156.0,
+   "duration": 7
+  },
+  {
+   "text": "Terima kasih semuanya.",
+   "start": 163.0,
+   "duration": 9
+  },
+  {
+   "text": "[Musik]",
+   "start": 172.0,
+   "duration": 22
+  },
+  {
+   "text": "Oh iya.",
+   "start": 194.0,
+   "duration": 3
+  }
+ ]
+}

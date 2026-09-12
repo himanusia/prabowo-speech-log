@@ -1,0 +1,81 @@
+{
+ "id": "KDZGi3C6htA",
+ "url": "https://www.youtube.com/watch?v=KDZGi3C6htA",
+ "title": "HIGHLIGHT - Kunjungan Kerja PM Australia Anthony Albanese di Indonesia, 6 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 3.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik]",
+   "start": 8.0,
+   "duration": 3
+  },
+  {
+   "text": "Saya sangat gembira dapat menyambut kembali sahabat saya",
+   "start": 11.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 18.0,
+   "duration": 0.5
+  },
+  {
+   "text": "Perdana Menteri Albanesa di Jakarta.",
+   "start": 18.0,
+   "duration": 5
+  },
+  {
+   "text": "Kunjungan ini juga menjadi kesempatan bagi saya untuk membalas",
+   "start": 23.0,
+   "duration": 7
+  },
+  {
+   "text": "sambutan hangat yang saya terima saat berkunjung ke Sydney pada bulan November",
+   "start": 30.0,
+   "duration": 8
+  },
+  {
+   "text": "2025 yang lalu.",
+   "start": 38.0,
+   "duration": 6
+  },
+  {
+   "text": "[musik]",
+   "start": 44.0,
+   "duration": 8
+  },
+  {
+   "text": "[musik]",
+   "start": 52.0,
+   "duration": 4
+  },
+  {
+   "text": "[musik]",
+   "start": 56.0,
+   "duration": 3
+  }
+ ]
+}

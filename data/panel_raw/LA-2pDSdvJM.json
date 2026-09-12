@@ -1,0 +1,51 @@
+{
+ "id": "LA-2pDSdvJM",
+ "url": "https://www.youtube.com/watch?v=LA-2pDSdvJM",
+ "title": "Kunjungan Kenegaraan Presiden Peru Dina Ercilia Boluarte Zegarra ke Indonesia, 10-11 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "raw_snippets": [
+  {
+   "text": "[Musik]",
+   "start": 6.0,
+   "duration": 18
+  },
+  {
+   "text": "Hari ini saya sangat gembira dapat berjumpa kembali dengan Yang Mulia Presiden Dina Boluarte di Jakarta.",
+   "start": 24.0,
+   "duration": 10
+  },
+  {
+   "text": "Kunjungan yang mulia hari ini adalah bersejarah. Sebab pada 12 Agustus 2025",
+   "start": 34.0,
+   "duration": 9
+  },
+  {
+   "text": "Indonesia dan Peru memperingati 50 tahun hubungan diplomatik.",
+   "start": 43.0,
+   "duration": 5
+  },
+  {
+   "text": "Terima kasih Yang Mulia. Kunjungan Yang Mulia. Kita yakin ke depan kita akan semakin bekerja sama secara produktif.",
+   "start": 48.0,
+   "duration": 3
+  }
+ ]
+}

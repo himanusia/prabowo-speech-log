@@ -1,0 +1,81 @@
+{
+ "id": "QlgjsuHN0Pw",
+ "url": "https://www.youtube.com/watch?v=QlgjsuHN0Pw",
+ "title": "Presiden Prabowo Panen Raya Jagung dan Lepas Ekspor ke Malaysia, Bengkayang, 5 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "SAS pangan adalah kunci dari kemerdekaan. Tidak ada bangsa yang merdeka kalau tidak bisa produksi",
+   "start": 1.0,
+   "duration": 9
+  },
+  {
+   "text": "pangannya sendiri. Saya ulangi, tidak ada bangsa yang merdeka sesungguhnya kalau bangsa itu tidak bisa produksi makannya sendiri.",
+   "start": 10.0,
+   "duration": 12
+  },
+  {
+   "text": "[Musik]",
+   "start": 22.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita sudah diberi tanda-tanda keberhasilan. Kita sedang menuju kepada",
+   "start": 28.0,
+   "duration": 9
+  },
+  {
+   "text": "kedaulatan pangan Indonesia. Kita sedang menuju Sasembada Pangan. Sebentar lagi",
+   "start": 37.0,
+   "duration": 9
+  },
+  {
+   "text": "kita bisa dengan gagah menatap muka dunia dan menatap",
+   "start": 46.0,
+   "duration": 7
+  },
+  {
+   "text": "muka anak-anak kita. Kita sudah bisa mengatakan,",
+   "start": 53.0,
+   "duration": 9
+  },
+  {
+   "text": "\"Yang berdiri di atas kaki kita sendiri.",
+   "start": 62.0,
+   "duration": 8
+  },
+  {
+   "text": "Pada siang hari ini, Kamis tanggal 5 Juli 2025, saya",
+   "start": 70.0,
+   "duration": 8
+  },
+  {
+   "text": "berangkatkan ekspor perdana jagung sebanyak 1200 ton ke Malaysia.",
+   "start": 78.0,
+   "duration": 19
+  },
+  {
+   "text": "Yeah.",
+   "start": 97.0,
+   "duration": 3
+  }
+ ]
+}

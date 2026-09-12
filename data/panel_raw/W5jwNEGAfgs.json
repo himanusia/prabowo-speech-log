@@ -1,0 +1,81 @@
+{
+ "id": "W5jwNEGAfgs",
+ "url": "https://www.youtube.com/watch?v=W5jwNEGAfgs",
+ "title": "Antusiasme Siswa Sambut Kunjungan Kenegaraan Presiden Prancis, Jakarta, 28 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "[Musik]",
+   "start": 0.0,
+   "duration": 10
+  },
+  {
+   "text": "Kita mau sambut Presiden Prancis keren banget. Gagah-gagah banget. Terus",
+   "start": 10.0,
+   "duration": 7
+  },
+  {
+   "text": "prepare banget ya. Seru. Terus bagus kuda-kudanya juga tuh. Pasukan kudanya bagus-bagus semua. Bagus. Iya. Happy",
+   "start": 17.0,
+   "duration": 8
+  },
+  {
+   "text": "katanya lihat kuda. Kudanya juga bagus-bagus. Terus ada motor-motor juga tadi gitu. Jadi kita kayak menghargai banget sambutan buat mereka gitu lah.",
+   "start": 25.0,
+   "duration": 9
+  },
+  {
+   "text": "Iya betul.",
+   "start": 34.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 41.0,
+   "duration": 18
+  },
+  {
+   "text": "Kita mau menyambut Presiden Prancis. Experience-nya menyenangkanlah.",
+   "start": 59.0,
+   "duration": 6
+  },
+  {
+   "text": "Ramai-ramai gitu. seru bisa ketemu sama sekolah-sekolah lain. Bagus sih apa dari Presiden Prancis juga tahu penyambutan",
+   "start": 65.0,
+   "duration": 9
+  },
+  {
+   "text": "yang kita punya tuh gimana kayak tahu nih ada oh di Indonesia tuh ada kuda yang begini-gini nyamp terus anak-anak",
+   "start": 74.0,
+   "duration": 7
+  },
+  {
+   "text": "siswa Pak",
+   "start": 81.0,
+   "duration": 3
+  },
+  {
+   "text": "[Musik]",
+   "start": 84.0,
+   "duration": 3
+  }
+ ]
+}

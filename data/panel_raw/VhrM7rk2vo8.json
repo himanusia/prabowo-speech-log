@@ -1,0 +1,111 @@
+{
+ "id": "VhrM7rk2vo8",
+ "url": "https://www.youtube.com/watch?v=VhrM7rk2vo8",
+ "title": "Serah Terima Kawal Istana, Jakarta, 15 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 2.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik]",
+   "start": 7.0,
+   "duration": 10
+  },
+  {
+   "text": "[musik]",
+   "start": 17.0,
+   "duration": 11
+  },
+  {
+   "text": "[musik]",
+   "start": 28.0,
+   "duration": 6
+  },
+  {
+   "text": "[musik]",
+   "start": 34.0,
+   "duration": 9
+  },
+  {
+   "text": "[musik]",
+   "start": 43.0,
+   "duration": 9
+  },
+  {
+   "text": "[musik]",
+   "start": 52.0,
+   "duration": 4
+  },
+  {
+   "text": "Hari ini saya menyaksikan ya dipersilakan akan menyaksikan acara kelas terima tugas ya yang mana ini saya",
+   "start": 56.0,
+   "duration": 9
+  },
+  {
+   "text": "baru pertama kali melihat seperti ini dan itu sangat bagus sekali rasanya inilah ee yang dinamakan tidak",
+   "start": 65.0,
+   "duration": 7
+  },
+  {
+   "text": "membedakan ya di mana masyarakat sendiri itu bisa melihat bagaimana adanya kegiatan atau aktivitas setelah terima",
+   "start": 72.0,
+   "duration": 7
+  },
+  {
+   "text": "tugas di jajaran instasi angkat e istana ini. Oh, cukup cukup bagus juga impresif. Saya senang sekali ngelihatnya",
+   "start": 79.0,
+   "duration": 7
+  },
+  {
+   "text": "ya. Apalagi kalau saya enggak tahu nih kira-kira berapa bulan sekali diadakan ya. Oh, seminggu sekali tiap minggu diadakan seperti ini cukup bagus. Jadi",
+   "start": 86.0,
+   "duration": 7
+  },
+  {
+   "text": "makin mendekatkan masyarakat dengan apa ee para apa pembela e negara gitu. I",
+   "start": 93.0,
+   "duration": 7
+  },
+  {
+   "text": "saya harapan walaupun mereka mengamankan tapi dengan masyarakat [musik] tetap dekat gitu loh, Mbak ya kan. Jadi tidak ada jarak antara istana dengan rakyat ya gituah.",
+   "start": 100.0,
+   "duration": 11
+  },
+  {
+   "text": "[musik]",
+   "start": 111.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik]",
+   "start": 116.0,
+   "duration": 4
+  },
+  {
+   "text": "Yeah.",
+   "start": 120.0,
+   "duration": 3
+  }
+ ]
+}

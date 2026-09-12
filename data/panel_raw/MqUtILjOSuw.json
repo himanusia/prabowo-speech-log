@@ -1,0 +1,76 @@
+{
+ "id": "MqUtILjOSuw",
+ "url": "https://www.youtube.com/watch?v=MqUtILjOSuw",
+ "title": "Presiden Prabowo Tiba di Kairo, Mesir, 17 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "Pak",
+   "start": 22.0,
+   "duration": 19
+  },
+  {
+   "text": "[Musik]",
+   "start": 41.0,
+   "duration": 4
+  },
+  {
+   "text": "presiden sat datang di Kairo kami siswa sekolah Indonesia kiro saya keisan",
+   "start": 45.0,
+   "duration": 6
+  },
+  {
+   "text": "sayaa umur-umur berapa 11 tahun Kamu 10 tahun terima kasih terima kas",
+   "start": 51.0,
+   "duration": 9
+  },
+  {
+   "text": "terima kasih terima kasih senang karena seumur-umur hidup",
+   "start": 60.0,
+   "duration": 8
+  },
+  {
+   "text": "presiden ini suatu kesempatan yang luar biasa buat kita sebagai mahasiswa yang ada di Alazar ini luar biasa degdegan",
+   "start": 68.0,
+   "duration": 7
+  },
+  {
+   "text": "parah serius apalagi dari kemarin kita ya Dari kemarin salah satu yang saya bisa ambil dari beliau adalah ketekunan",
+   "start": 75.0,
+   "duration": 8
+  },
+  {
+   "text": "beliau Kemudian beliau adalah seorang pejuang yang luar biasa itu menjadi seorang",
+   "start": 83.0,
+   "duration": 7
+  },
+  {
+   "text": "buat kita juga salah satatunya",
+   "start": 90.0,
+   "duration": 3
+  },
+  {
+   "text": "[Musik]",
+   "start": 93.0,
+   "duration": 3
+  }
+ ]
+}

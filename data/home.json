@@ -598,35 +598,35 @@
  ],
  "length_histogram": [
   {
-   "label": "<500",
+   "label": "0,5",
    "count": 4
   },
   {
-   "label": "500–1k",
+   "label": "1",
    "count": 7
   },
   {
-   "label": "1k–1,5k",
+   "label": "1,5",
    "count": 12
   },
   {
-   "label": "1,5k–2k",
+   "label": "2",
    "count": 12
   },
   {
-   "label": "2k–3k",
+   "label": "3",
    "count": 15
   },
   {
-   "label": "3k–4k",
+   "label": "4",
    "count": 9
   },
   {
-   "label": "4k–6k",
+   "label": "6",
    "count": 5
   },
   {
-   "label": ">6k",
+   "label": "6+",
    "count": 3
   }
  ],

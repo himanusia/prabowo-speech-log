@@ -49,6 +49,14 @@
   --radius: 6px;
   --rule: 1px solid var(--border);
   --maxw: 78rem;
+
+  /* skala jarak: semua padding/margin memakai ini supaya iramanya konsisten */
+  --sp-1: 0.3rem;
+  --sp-2: 0.65rem;
+  --sp-3: 1.05rem;
+  --sp-4: 1.7rem;
+  --sp-5: 2.6rem;
+  --sp-6: 4rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -105,7 +113,10 @@ html { -webkit-text-size-adjust: 100%; }
 
 body {
   margin: 0;
-  background: var(--bg);
+  /* transparan: latar + tekstur dipasang di <html>. Kalau body punya latar
+     opak sendiri, tekstur html tertutup seluruhnya (hanya ~75px teratas
+     yang lolos) — pernah kejadian. */
+  background: transparent;
   color: var(--fg);
   font-family: var(--font-sans);
   font-size: var(--step-0);
@@ -128,7 +139,7 @@ code, .mono, kbd, samp { font-family: var(--font-mono); font-variant-numeric: ta
 
 /* ---------------------------------------------------------------- kerangka */
 
-.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.25rem; }
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 var(--sp-4); }
 
 .top {
   position: sticky; top: 0; z-index: 30;
@@ -187,7 +198,7 @@ code, .mono, kbd, samp { font-family: var(--font-mono); font-variant-numeric: ta
   font-weight: 600;
 }
 
-main { padding: 1.75rem 0 4rem; }
+main { padding: var(--sp-5) 0 var(--sp-6); }
 
 .view[hidden] { display: none; }
 
@@ -247,45 +258,86 @@ h3 { font-size: var(--step-1); }
 
 /* ------------------------------------------------------- tekstur latar */
 
-/* Butiran halus, meniru noise Hermes Desktop.
-   Hermes memakai shader WebGL; di sini ditiru dengan feTurbulence di dalam
-   SVG data-URI, jadi nol JavaScript, nol WebGL, nol permintaan jaringan.
-   Parameternya mengikuti punya Hermes: butiran rapat, warna terang,
-   opacity rendah supaya terbaca sebagai tekstur, bukan bercak. */
+/* Butiran halus, meniru tekstur Hermes Desktop.
+   Hermes memakai shader WebGL; di sini ditiru feTurbulence di dalam SVG
+   data-URI: nol JavaScript, nol WebGL, nol permintaan jaringan.
+
+   Pelajaran dari versi sebelumnya yang TIDAK terlihat:
+   1. mix-blend-mode + noise abu-abu penuh -> nyaris tak mengubah apa pun
+      di atas latar hampir putih. Sekarang noise diubah jadi ALFA, jadi yang
+      tergambar adalah bintik gelap transparan (komposit alpha biasa).
+   2. position: fixed hanya melukis setinggi viewport, sehingga separuh
+      halaman benar-benar kosong. Sekarang ditempel di <html> supaya
+      menutupi seluruh tinggi dokumen. */
 :root {
-  --grain-opacity: 0.30;
-  --grain-blend: multiply;
-  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.62 0.62 0.62 0 -0.52'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)' opacity='0.13'/%3E%3C/svg%3E");
+  --grain-size: 190px 190px;
 }
 
-:root[data-theme='dark'] {
-  --grain-opacity: 0.14;
-  --grain-blend: screen;
+/* Latar + tekstur dipasang di <body>, BUKAN di <html>.
+   Percobaan sebelumnya menaruhnya di <html>: background-image di elemen root
+   tidak melukis sesuai dugaan, sementara body yang opak justru menutupinya.
+   Body membentang setinggi seluruh dokumen, jadi dari sini tekstur pasti
+   menutupi semuanya. */
+html { background-color: var(--bg); }
+
+body {
+  background-color: transparent;
+  background-image: var(--grain);
+  background-size: var(--grain-size);
+  background-repeat: repeat;
+  background-attachment: scroll;
 }
 
+/* Tema gelap: bintiknya dibalik jadi terang. */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
-    --grain-opacity: 0.14;
-    --grain-blend: screen;
+    --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0.62 0.62 0.62 0 -0.60'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)' opacity='0.16'/%3E%3C/svg%3E");
   }
 }
 
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-  opacity: var(--grain-opacity);
-  mix-blend-mode: var(--grain-blend);
-  background-image: var(--grain);
-  background-size: 160px 160px;
+:root[data-theme='dark'] {
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0.62 0.62 0.62 0 -0.60'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)' opacity='0.16'/%3E%3C/svg%3E");
 }
 
-/* Isi harus di atas tekstur. */
+/* Permukaan kartu menutupi latar, jadi topeng tambahan tipis di atasnya
+   supaya kartu ikut terasa bertekstur, bukan plastik rata. */
+.card, .hero__i, .top {
+  background-image: var(--grain);
+  background-size: var(--grain-size);
+  background-repeat: repeat;
+}
+
+/* ---- Sorotan Prabowo: potret resmi, tepi memudar, bukan siluet keras ---- */
+body::after {
+  content: "";
+  position: fixed;
+  right: -4vw;
+  bottom: -8vh;
+  width: min(46vw, 40rem);
+  height: min(92vh, 48rem);
+  z-index: 0;
+  pointer-events: none;
+  background-image: url("prabowo.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: contain;
+  opacity: 0.075;
+}
+
+:root[data-theme='dark'] body::after { opacity: 0.11; filter: invert(1); }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) body::after { opacity: 0.11; filter: invert(1); }
+}
+
+/* Isi harus di atas tekstur & sorotan. */
 .top, main, footer { position: relative; z-index: 1; }
 
-@media print { body::before { display: none; } }
+@media print {
+  html { background-image: none; }
+  body::after { display: none; }
+}
 
 /* ------------------------------------------------------- tipografi tegas */
 
@@ -305,15 +357,18 @@ body::before {
 .dash {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  gap: 1rem;
+  gap: var(--sp-3);
 }
 
 .card {
   grid-column: span 12;
+  /* tanpa ini, isi yang lebar (awan kata) melebarkan track grid 1fr
+     sampai seluruh halaman meluber horizontal */
+  min-width: 0;
   background: var(--card);
   border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 1.1rem 1.25rem 1.25rem;
+  border-radius: 12px;
+  padding: var(--sp-4) var(--sp-4) calc(var(--sp-4) + 0.15rem);
 }
 
 .card__h {
@@ -371,7 +426,7 @@ body::before {
 .hero__n {
   display: block;
   font-family: var(--font-mono);
-  font-size: var(--step-5);
+  font-size: clamp(1.4rem, 2.35vw, 2.15rem);
   font-weight: 800;
   line-height: 0.95;
   letter-spacing: -0.05em;
@@ -395,23 +450,30 @@ body::before {
 .bars { display: grid; gap: 0.5rem; }
 
 .brow {
-  display: grid;
-  grid-template-columns: minmax(6rem, 10rem) 1fr minmax(3.6rem, auto);
-  gap: 0.7rem;
+  display: flex;
   align-items: center;
+  gap: var(--sp-2);
+  padding: 0.32rem 0;
 }
 
 .brow__k {
-  font-size: var(--step-0);
+  width: 11.5rem;
+  flex: 0 0 11.5rem;
+  font-size: var(--step--1);
   font-weight: 600;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  line-height: 1.3;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  color: var(--fg);
 }
 
 .brow__t {
+  /* WAJIB flex: 1. Tanpa ini lebarnya mengikuti isi, sehingga width:X% pada
+     isian mengacu ke induk ber-lebar-otomatis dan batang kolaps jadi 3px. */
+  flex: 1 1 0;
+  min-width: 0;
   height: 1.35rem;
-  background: color-mix(in srgb, var(--border) 55%, var(--bg));
+  background: color-mix(in srgb, var(--border) 50%, var(--bg));
   border-radius: 4px;
   overflow: hidden;
   display: flex;
@@ -428,6 +490,8 @@ body::before {
 .brow__f--soft { background: color-mix(in srgb, var(--primary) 42%, var(--border)); }
 
 .brow__v {
+  flex: 0 0 auto;
+  min-width: 3.2rem;
   font-family: var(--font-mono);
   font-size: var(--step-0);
   font-weight: 700;
@@ -444,11 +508,13 @@ body::before {
 /* ------------------------------------------------------------- awan kata */
 
 .cloud {
+  min-width: 0;
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
-  gap: 0.25rem 0.6rem;
-  line-height: 1.1;
+  gap: 0.5rem 0.95rem;
+  line-height: 1.25;
+  padding: 0.3rem 0 0.5rem;
 }
 
 .cloud__w {
@@ -456,6 +522,9 @@ body::before {
   letter-spacing: -0.03em;
   color: var(--fg);
   white-space: nowrap;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.18rem;
 }
 
 .cloud__w b {
@@ -477,44 +546,55 @@ body::before {
   display: grid;
   grid-auto-flow: column;
   grid-auto-columns: 1fr;
-  gap: 0.45rem;
-  align-items: end;
+  gap: 0.4rem;
+  /* stretch, bukan end: supaya sel punya tinggi pasti dan tinggi % batang
+     bisa dihitung. Dengan `end`, tinggi % tidak punya acuan -> batang hilang. */
+  align-items: stretch;
   height: 13rem;
 }
 
-.hist__c { display: grid; align-content: end; gap: 0.3rem; text-align: center; min-width: 0; }
+.hist__c {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 0.3rem;
+  text-align: center;
+  min-width: 0;
+  height: 100%;
+}
 
 .hist__n {
   font-family: var(--font-mono);
-  font-size: var(--step-0);
+  font-size: var(--step--1);
   font-weight: 700;
-  line-height: 1;
+  color: var(--fg);
 }
 
 .hist__b {
-  background: linear-gradient(180deg, var(--primary), color-mix(in srgb, var(--primary) 62%, var(--border)));
-  border-radius: 4px 4px 0 0;
-  min-height: 4px;
+  width: 100%;
+  background: linear-gradient(180deg, var(--primary),
+    color-mix(in srgb, var(--primary) 70%, var(--border)));
+  border-radius: 5px 5px 0 0;
+  min-height: 5px;
+  flex: 0 0 auto;
 }
 
 .hist__b--zero { background: color-mix(in srgb, var(--border) 70%, var(--bg)); }
 
 .hist__l {
-  font-size: var(--step--1);
+  font-size: var(--step--2);
   color: var(--muted-fg);
   font-family: var(--font-mono);
-  transform: rotate(-38deg);
-  transform-origin: center;
   white-space: nowrap;
-  margin-top: 0.5rem;
-  height: 2.2rem;
+  margin-top: 0.4rem;
+  letter-spacing: -0.02em;
 }
 
 /* ------------------------------------------------------------- peta panas */
 
 .heat {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(3.4rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(4.2rem, 1fr));
   gap: 0.3rem;
 }
 
@@ -792,3 +872,128 @@ footer {
   .top, .searchbar, .nav { display: none; }
   body { background: #fff; color: #000; }
 }
+
+
+/* ------------------------------------------------------- bentuk grafik */
+
+/* Treemap: luas kotak = besar porsi. */
+.tmap {
+  min-width: 0;
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.tmap__c {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 0.1rem;
+  padding: 0.45rem 0.55rem;
+  border: 1.5px solid var(--card);
+  overflow: hidden;
+  line-height: 1.15;
+}
+.tmap__c b { font-size: var(--step--1); font-weight: 700; letter-spacing: -0.01em; }
+.tmap__c span { font-family: var(--font-mono); font-size: var(--step--2); opacity: 0.85; }
+
+/* Kolom vertikal. */
+.cols {
+  min-width: 0;
+  display: flex;
+  align-items: flex-end;
+  gap: var(--sp-2);
+  height: 15rem;
+  padding-top: 1.2rem;
+}
+.col {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
+  min-width: 0;
+}
+.col__v {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+  font-variant-numeric: tabular-nums;
+}
+.col__b {
+  width: 100%;
+  max-width: 3.4rem;
+  background: linear-gradient(180deg, var(--primary),
+    color-mix(in srgb, var(--primary) 55%, var(--border)));
+  border-radius: 5px 5px 0 0;
+  min-height: 4px;
+}
+.col__l {
+  margin-top: 0.45rem;
+  font-size: var(--step--2);
+  color: var(--muted-fg);
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+
+/* Donat. */
+.donut {
+  min-width: 0; min-width: 0; display: flex; align-items: center; gap: var(--sp-3); flex-wrap: wrap; }
+.donut svg { width: 9.5rem; height: 9.5rem; flex: 0 0 auto; }
+.donut__n {
+  font-family: var(--font-mono);
+  font-size: 1.45rem;
+  font-weight: 800;
+  fill: var(--fg);
+  letter-spacing: -0.04em;
+}
+.donut__l { list-style: none; margin: 0; padding: 0; flex: 1 1 8rem; min-width: 0; }
+.donut__l li {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.25rem 0;
+  font-size: var(--step--1);
+}
+.donut__l b {
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+.dot { width: 0.7rem; height: 0.7rem; border-radius: 2px; flex: 0 0 auto; }
+
+/* Grafik area. */
+.area { display: flex; gap: var(--sp-2); align-items: stretch; }
+.area__y {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: var(--font-mono);
+  font-size: var(--step--2);
+  color: var(--muted-fg);
+  text-align: right;
+  padding: 0.1rem 0 1.6rem;
+  flex: 0 0 2.4rem;
+}
+.area__plot { flex: 1 1 auto; min-width: 0; }
+.area svg { width: 100%; height: 12rem; display: block; }
+.area__g { stroke: var(--border); stroke-width: 0.35; }
+.area__f { fill: color-mix(in srgb, var(--primary) 22%, transparent); }
+.area__l { fill: none; stroke: var(--primary); stroke-width: 0.7; vector-effect: non-scaling-stroke; }
+.area__x, .tl__x {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--sp-2);
+  margin-top: 0.5rem;
+  font-size: var(--step--2);
+  color: var(--muted-fg);
+}
+
+/* Garis waktu: setiap pidato satu tanda. */
+.tl svg { width: 100%; height: 13rem; display: block; }
+.tl svg rect { fill: var(--primary); opacity: 0.72; }
+.tl svg a:hover rect { opacity: 1; }

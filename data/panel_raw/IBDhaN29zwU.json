@@ -1,0 +1,581 @@
+{
+ "id": "IBDhaN29zwU",
+ "url": "https://www.youtube.com/watch?v=IBDhaN29zwU",
+ "title": "Presiden Prabowo Disambut Upacara Kenegaraan di Qasr Al Watn, Abu Dhabi, 23 November 2024",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 111,
+ "raw_snippets": [
+  {
+   "text": "[Musik]",
+   "start": 3.0,
+   "duration": 21
+  },
+  {
+   "text": "[Musik]",
+   "start": 24.0,
+   "duration": 24
+  },
+  {
+   "text": "[Musik]",
+   "start": 48.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 55.0,
+   "duration": 22
+  },
+  {
+   "text": "[Musik]",
+   "start": 77.0,
+   "duration": 29
+  },
+  {
+   "text": "[Musik]",
+   "start": 106.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 113.0,
+   "duration": 5
+  },
+  {
+   "text": "[Musik]",
+   "start": 118.0,
+   "duration": 24
+  },
+  {
+   "text": "[Musik]",
+   "start": 142.0,
+   "duration": 18
+  },
+  {
+   "text": "[Musik]",
+   "start": 160.0,
+   "duration": 28
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 188.0,
+   "duration": 7
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 195.0,
+   "duration": 3
+  },
+  {
+   "text": "ya ya ya",
+   "start": 198.0,
+   "duration": 5
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 203.0,
+   "duration": 9
+  },
+  {
+   "text": "merh ya merh ya hal ya",
+   "start": 212.0,
+   "duration": 7
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 219.0,
+   "duration": 5
+  },
+  {
+   "text": "[Musik]",
+   "start": 224.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 231.0,
+   "duration": 3
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 234.0,
+   "duration": 1
+  },
+  {
+   "text": "[Musik]",
+   "start": 235.0,
+   "duration": 5
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 240.0,
+   "duration": 0.5
+  },
+  {
+   "text": "[Musik]",
+   "start": 240.0,
+   "duration": 13
+  },
+  {
+   "text": "[Musik]",
+   "start": 253.0,
+   "duration": 67
+  },
+  {
+   "text": "yes yes yes",
+   "start": 320.0,
+   "duration": 6
+  },
+  {
+   "text": "[Musik]",
+   "start": 326.0,
+   "duration": 22
+  },
+  {
+   "text": "[Musik]",
+   "start": 348.0,
+   "duration": 12
+  },
+  {
+   "text": "[Musik]",
+   "start": 360.0,
+   "duration": 6
+  },
+  {
+   "text": "Asalamualaikum",
+   "start": 366.0,
+   "duration": 4
+  },
+  {
+   "text": "[Musik]",
+   "start": 370.0,
+   "duration": 3
+  },
+  {
+   "text": "warahm k",
+   "start": 373.0,
+   "duration": 74
+  },
+  {
+   "text": "[Musik]",
+   "start": 447.0,
+   "duration": 1
+  },
+  {
+   "text": "haras assalamul watani jumhuriat Indonesia salam",
+   "start": 448.0,
+   "duration": 9
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 457.0,
+   "duration": 2
+  },
+  {
+   "text": "[Musik]",
+   "start": 459.0,
+   "duration": 159
+  },
+  {
+   "text": "haras",
+   "start": 618.0,
+   "duration": 2
+  },
+  {
+   "text": "[Musik]",
+   "start": 620.0,
+   "duration": 1
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 621.0,
+   "duration": 2
+  },
+  {
+   "text": "k haras j",
+   "start": 623.0,
+   "duration": 6
+  },
+  {
+   "text": "[Musik]",
+   "start": 629.0,
+   "duration": 17
+  },
+  {
+   "text": "haras Jah",
+   "start": 646.0,
+   "duration": 18
+  },
+  {
+   "text": "[Musik]",
+   "start": 664.0,
+   "duration": 69
+  },
+  {
+   "text": "ha say",
+   "start": 733.0,
+   "duration": 114
+  },
+  {
+   "text": "as",
+   "start": 847.0,
+   "duration": 30
+  },
+  {
+   "text": "alamikum",
+   "start": 877.0,
+   "duration": 17
+  },
+  {
+   "text": "warah Saya ucapkan selamat datang kepada yang mulia presiden dan delegasi di negara Anda persatuan Emirat Arab saya",
+   "start": 894.0,
+   "duration": 10
+  },
+  {
+   "text": "sangat senang berjumpa kembali dengan yang mulia",
+   "start": 904.0,
+   "duration": 23
+  },
+  {
+   "text": "presiden",
+   "start": 927.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 934.0,
+   "duration": 7
+  },
+  {
+   "text": "ah Saya berharap semoga yang mulia diberikan petunjuk untuk dapat memimpin Indonesia menuju Indonesia yang lebih",
+   "start": 941.0,
+   "duration": 9
+  },
+  {
+   "text": "maju tumbuh dan penuh kemuliaan yang Mul presid hubungan kita Bu mulai hari ini",
+   "start": 950.0,
+   "duration": 10
+  },
+  {
+   "text": "kita sudah saling mengenal sekian tahun dan Saya bangga dengan hubungan ini Insyaallah hubungan ini semakin membaik",
+   "start": 960.0,
+   "duration": 8
+  },
+  {
+   "text": "dan berkembang bagi kedua bangsa dan negara di tahun-tahun",
+   "start": 968.0,
+   "duration": 7
+  },
+  {
+   "text": "mendatang yang saya hormati yang mulia presiden Uni Pis",
+   "start": 975.0,
+   "duration": 10
+  },
+  {
+   "text": "Arab presiden Muhammad bin Zaid beserta semua pimpinan",
+   "start": 985.0,
+   "duration": 8
+  },
+  {
+   "text": "dari pemerintah emes yang saya hormati sahibusmu as Syekh Muhammad bin",
+   "start": 993.0,
+   "duration": 8
+  },
+  {
+   "text": "Zaid Al nahyan Rais Daulah al-arabiyah alimarat alarabiah muttahidah walqiadah",
+   "start": 1001.0,
+   "duration": 7
+  },
+  {
+   "text": "Fi addulah Saya ingin ucapkan terima kasih yang sebesar-besarnya kepada yang mulia dan",
+   "start": 1008.0,
+   "duration": 8
+  },
+  {
+   "text": "seluruh rakyat saya diterima dengan begitu Besari",
+   "start": 1016.0,
+   "duration": 18
+  },
+  {
+   "text": "ini ini sungguh kehormatan yang",
+   "start": 1034.0,
+   "duration": 12
+  },
+  {
+   "text": "besageluruha ter yang mulia telah mengirim utusan",
+   "start": 1046.0,
+   "duration": 6
+  },
+  {
+   "text": "khusus kepada pelantikan saya sebagai",
+   "start": 1052.0,
+   "duration": 12
+  },
+  {
+   "text": "[Musik]",
+   "start": 1064.0,
+   "duration": 5
+  },
+  {
+   "text": "presidenuik memang benar yang mulia hubungan kita sudah lama saya sudah kenal yang mulia cukup",
+   "start": 1069.0,
+   "duration": 10
+  },
+  {
+   "text": "lama dan e sekarang alhamdulillah saya mendapat kepercayaan dari rakyat",
+   "start": 1079.0,
+   "duration": 7
+  },
+  {
+   "text": "saya untuk memimpin bangsa Indonesia dan saya ingin meneruskan",
+   "start": 1086.0,
+   "duration": 8
+  },
+  {
+   "text": "hubungan yang sangat baik iniah wa",
+   "start": 1094.0,
+   "duration": 11
+  },
+  {
+   "text": "wa eh kami di",
+   "start": 1105.0,
+   "duration": 9
+  },
+  {
+   "text": "Indonesia memandang yang mulia sebagai pemimpin yang sangat berhasil pemimpin",
+   "start": 1114.0,
+   "duration": 7
+  },
+  {
+   "text": "yang punya visi jauh ke depan yang sudah terbukti membawa kemajuan",
+   "start": 1121.0,
+   "duration": 9
+  },
+  {
+   "text": "modernisasi yang sangat pesat kepada negara emirats dan kami ingin",
+   "start": 1130.0,
+   "duration": 7
+  },
+  {
+   "text": "belajar dari yang",
+   "start": 1137.0,
+   "duration": 12
+  },
+  {
+   "text": "[Musik]",
+   "start": 1149.0,
+   "duration": 6
+  },
+  {
+   "text": "muliaik pengalaman dan kepimpinan yang mulia di setiap bidang terutama di",
+   "start": 1155.0,
+   "duration": 9
+  },
+  {
+   "text": "bidang pembangunan dan juga di bidang geopolitik sangat besar artinya dan untuk itu kami",
+   "start": 1164.0,
+   "duration": 10
+  },
+  {
+   "text": "ingin selalu berhubungan baik dan selu berordinasi dengan yang Mul",
+   "start": 1174.0,
+   "duration": 23
+  },
+  {
+   "text": "[Musik]",
+   "start": 1197.0,
+   "duration": 5
+  },
+  {
+   "text": "prioritas saya dalam pemerintah yang saya PIN ke depan adalah pertama untuk",
+   "start": 1202.0,
+   "duration": 10
+  },
+  {
+   "text": "menjamin keamanan dan ketahanan pangan",
+   "start": 1212.0,
+   "duration": 14
+  },
+  {
+   "text": "[Musik]",
+   "start": 1226.0,
+   "duration": 6
+  },
+  {
+   "text": "dan selanjutnya untuk melaksanakanisasi Processing daripada semua bahan baku",
+   "start": 1232.0,
+   "duration": 8
+  },
+  {
+   "text": "kita di Indonesia supaya mendapat nilai",
+   "start": 1240.0,
+   "duration": 10
+  },
+  {
+   "text": "[Musik]",
+   "start": 1250.0,
+   "duration": 2
+  },
+  {
+   "text": "tambah ini berarti kita ingin melaksanakan industrialisasi yang sangat",
+   "start": 1252.0,
+   "duration": 15
+  },
+  {
+   "text": "besar dalam hal ini kami Melat baik Uni",
+   "start": 1267.0,
+   "duration": 6
+  },
+  {
+   "text": "Arab Indonesia punya keptingan banyak yangama",
+   "start": 1273.0,
+   "duration": 18
+  },
+  {
+   "text": "kita bisa bekerja di beberapa bidang dan kami ingin",
+   "start": 1291.0,
+   "duration": 8
+  },
+  {
+   "text": "mengundang Uni Arab untuk aktif berpartisipasi dalam ekonomi",
+   "start": 1299.0,
+   "duration": 18
+  },
+  {
+   "text": "kam Indonesia sebagai contoh kami terima kasih kami pernah eh",
+   "start": 1317.0,
+   "duration": 10
+  },
+  {
+   "text": "dibantu dalam mendirikan Sovereign wealth fund kami yang sekarang Eh",
+   "start": 1327.0,
+   "duration": 6
+  },
+  {
+   "text": "Ina tapi kami akan memperbesar ini kami ingin membuat eh sovin w kita jauh lebih",
+   "start": 1333.0,
+   "duration": 9
+  },
+  {
+   "text": "besar dan kami juga ingin belajar dari pengalaman Uni Arab Amerika",
+   "start": 1342.0,
+   "duration": 15
+  },
+  {
+   "text": "dalam banyak hal kami sudah kerja sama Baik saya juga ingin mengucapkan terima",
+   "start": 1357.0,
+   "duration": 8
+  },
+  {
+   "text": "kasih dalam rangka memberi bantuan kemanusiaan Uni",
+   "start": 1365.0,
+   "duration": 8
+  },
+  {
+   "text": "arabak kami dan sekarang kesan kam b sama dengan e Rumah Sakit",
+   "start": 1373.0,
+   "duration": 8
+  },
+  {
+   "text": "lapangan eh Uni Arab Emir di rafah Gaza kami terima kasih atas kerjasama ini atas",
+   "start": 1381.0,
+   "duration": 10
+  },
+  {
+   "text": "inisiatif yang mulia mengajak kami kami sangat berterima",
+   "start": 1391.0,
+   "duration": 13
+  },
+  {
+   "text": "kasih G",
+   "start": 1404.0,
+   "duration": 9
+  },
+  {
+   "text": "dalam beberapa bidang kami sudah berbicara lebih teknis kepada pejabat",
+   "start": 1413.0,
+   "duration": 7
+  },
+  {
+   "text": "yang yang mulia tunjuk sampai sekarang yang yang mulia eh suhail kami sudah berbicara lebih",
+   "start": 1420.0,
+   "duration": 9
+  },
+  {
+   "text": "teknis dan kami siap untuk bicara di level yang eh pelaksanaan dan level tidak lanjut",
+   "start": 1429.0,
+   "duration": 16
+  },
+  {
+   "text": "[Musik]",
+   "start": 1445.0,
+   "duration": 10
+  },
+  {
+   "text": "saya sangat sekali lagi berterima kasih atas penerimaan yang begitu baik ini ini tandanya",
+   "start": 1455.0,
+   "duration": 8
+  },
+  {
+   "text": "bahwa hubungan antara kita sangat baik dan saya terus ingin kerja sama dan",
+   "start": 1463.0,
+   "duration": 7
+  },
+  {
+   "text": "konsultasi dengan yang mulia terima kasih",
+   "start": 1470.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 1477.0,
+   "duration": 5
+  },
+  {
+   "text": "[Musik]",
+   "start": 1482.0,
+   "duration": 7
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 1489.0,
+   "duration": 24
+  },
+  {
+   "text": "oke oke thank you thank",
+   "start": 1513.0,
+   "duration": 5
+  },
+  {
+   "text": "[Musik]",
+   "start": 1518.0,
+   "duration": 9
+  },
+  {
+   "text": "you than",
+   "start": 1527.0,
+   "duration": 2
+  },
+  {
+   "text": "[Musik]",
+   "start": 1529.0,
+   "duration": 3
+  }
+ ]
+}

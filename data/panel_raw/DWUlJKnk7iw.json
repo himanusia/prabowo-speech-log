@@ -1,0 +1,116 @@
+{
+ "id": "DWUlJKnk7iw",
+ "url": "https://www.youtube.com/watch?v=DWUlJKnk7iw",
+ "title": "Tiba di Singapura, Presiden Prabowo Disambut Langsung oleh PM Lawrence Wong, 15 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "raw_snippets": [
+  {
+   "text": "[Musik]",
+   "start": 2.0,
+   "duration": 17
+  },
+  {
+   "text": "lagi",
+   "start": 19.0,
+   "duration": 21
+  },
+  {
+   "text": "Terima kasih datang.",
+   "start": 40.0,
+   "duration": 24
+  },
+  {
+   "text": "Welcome tomorrow",
+   "start": 64.0,
+   "duration": 13
+  },
+  {
+   "text": "Thank you very much. Oke, I see you. See you. Thank you. Thank you.",
+   "start": 77.0,
+   "duration": 9
+  },
+  {
+   "text": "Thank you. Thank you.",
+   "start": 86.0,
+   "duration": 19
+  },
+  {
+   "text": "Tadi sempat ketemu kita kebetulan di baris paling ujung bareng-bareng. Jadi begitu bapaknya buka kaca, kita lihat langsung dan happy banget karena mungkin kalau di Indonesia kita enggak punya",
+   "start": 105.0,
+   "duration": 8
+  },
+  {
+   "text": "kesempatan untuk ketemu secara langsung sama Bapak. Sempat ditanya kira-kira kuliahnya jurusan apa gitu. Perasaannya pasti happy banget karena ini kesempatan",
+   "start": 113.0,
+   "duration": 8
+  },
+  {
+   "text": "yang enggak semua orang bisa dapat. Jadi kita dari PPI merasa sangat leverage banget dengan kesempatan ini untuk berjumpa langsung dengan Bapak Presiden Prabowo Sugianto. Eh, ke sini ya buat",
+   "start": 121.0,
+   "duration": 9
+  },
+  {
+   "text": "ketemu Pak Prabowo sih. E berhasil banget e salaman gitu-gitu sih. Ee kayak senang aja sih deg-degan. Baru pertama",
+   "start": 130.0,
+   "duration": 8
+  },
+  {
+   "text": "kali ketemu kan presiden lagi langsung lagi. Kasih kamu namanya siapa?",
+   "start": 138.0,
+   "duration": 15
+  },
+  {
+   "text": "di sini dipap",
+   "start": 153.0,
+   "duration": 11
+  },
+  {
+   "text": "[Musik]",
+   "start": 164.0,
+   "duration": 6
+  },
+  {
+   "text": "lagi selamat datang Bapak, selamat datang",
+   "start": 170.0,
+   "duration": 13
+  },
+  {
+   "text": "Bapak selamat datang Bapak Presiden umurnya berdiri",
+   "start": 183.0,
+   "duration": 8
+  },
+  {
+   "text": "[Musik]",
+   "start": 191.0,
+   "duration": 12
+  },
+  {
+   "text": "dan selamat datang.",
+   "start": 203.0,
+   "duration": 3
+  },
+  {
+   "text": "Selamat datang",
+   "start": 206.0,
+   "duration": 3
+  }
+ ]
+}
