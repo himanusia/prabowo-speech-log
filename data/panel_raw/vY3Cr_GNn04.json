@@ -1,0 +1,66 @@
+{
+ "id": "vY3Cr_GNn04",
+ "url": "https://www.youtube.com/watch?v=vY3Cr_GNn04",
+ "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Harlah ke-102 Nahdlatul Ulama, Jakarta, 5 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "raw_snippets": [
+  {
+   "text": "Bapak tadi Bapak sebut Akan dibersihkan setelah 100",
+   "start": 4.0,
+   "duration": 8
+  },
+  {
+   "text": "hari bahasaonesia jelend jadi begini kita ingin rakyat",
+   "start": 12.0,
+   "duration": 8
+  },
+  {
+   "text": "menuntut yang bersih yang benar yang beker",
+   "start": 20.0,
+   "duration": 10
+  },
+  {
+   "text": "hanya untuk bangsa rakyat tidak ada kepentingan lain yang tidak mau bekerja benarbenar",
+   "start": 30.0,
+   "duration": 8
+  },
+  {
+   "text": "untuk rakyat Ya saya akan saya akan singkirkan ya Ma lebih jelas lagi",
+   "start": 38.0,
+   "duration": 8
+  },
+  {
+   "text": "boleh ya pakoke terima kasih ya selamat",
+   "start": 46.0,
+   "duration": 6
+  },
+  {
+   "text": "NU 100 2 tahun NU kekuatan besar bagi bangsa Indonesia Terima kasih Terima",
+   "start": 52.0,
+   "duration": 8
+  },
+  {
+   "text": "kasih bapak pak",
+   "start": 60.0,
+   "duration": 3
+  }
+ ]
+}

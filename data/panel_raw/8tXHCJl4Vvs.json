@@ -1,0 +1,106 @@
+{
+ "id": "8tXHCJl4Vvs",
+ "url": "https://www.youtube.com/watch?v=8tXHCJl4Vvs",
+ "title": "Presiden Prabowo Hadiri Penutupan Munas-Konbes NU 2026, Bangkalan, 23 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 4.0,
+   "duration": 3
+  },
+  {
+   "text": "[bersorak]",
+   "start": 7.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik]",
+   "start": 12.0,
+   "duration": 1
+  },
+  {
+   "text": "[bersorak]",
+   "start": 13.0,
+   "duration": 5
+  },
+  {
+   "text": "[bersorak]",
+   "start": 18.0,
+   "duration": 16
+  },
+  {
+   "text": "Saya ingin [musik] ucapkan terima kasih atas kehormatan yang besar diberikan",
+   "start": 34.0,
+   "duration": 8
+  },
+  {
+   "text": "kepada saya bisa hadir di tengah-tengah saudara-saudara di acara penutupan Musyawarah Nasional",
+   "start": 42.0,
+   "duration": 7
+  },
+  {
+   "text": "Alim Ulama dan Konferensi Besar Nahdatul Ulama [musik] 2026.",
+   "start": 49.0,
+   "duration": 8
+  },
+  {
+   "text": "Terima kasih atas sambutan yang luar biasa.",
+   "start": 57.0,
+   "duration": 4
+  },
+  {
+   "text": "Memang saya merasa selalu nyaman di tengah-tengah",
+   "start": 61.0,
+   "duration": 9
+  },
+  {
+   "text": "keluarga besar Nadatul Ulama",
+   "start": 70.0,
+   "duration": 3
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 73.0,
+   "duration": 10
+  },
+  {
+   "text": "dengan mengucap bismillahirrahmanirrahim.",
+   "start": 83.0,
+   "duration": 3
+  },
+  {
+   "text": "Pada sore hari ini, Selasa, 23 Juni 2026, saya Prabowo Subianto, Presiden Republik Indonesia. Dengan ini secara",
+   "start": 86.0,
+   "duration": 9
+  },
+  {
+   "text": "resmi saya tutup Musyawarah Nasional Alim ulama dan Konferensi Besar Nadatul Ulama tahun 2026. Terima kasih.",
+   "start": 95.0,
+   "duration": 10
+  },
+  {
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh.",
+   "start": 105.0,
+   "duration": 3
+  }
+ ]
+}

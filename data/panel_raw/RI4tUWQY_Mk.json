@@ -1,0 +1,81 @@
+{
+ "id": "RI4tUWQY_Mk",
+ "url": "https://www.youtube.com/watch?v=RI4tUWQY_Mk",
+ "title": "Presiden Prabowo Resmikan Proyek Baterai Terbesar di Asia Tenggara, Karawang, 29 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Ee kunci daripada pembangunan suatu bangsa adalah kemampuan bangsa itu",
+   "start": 5.0,
+   "duration": 7
+  },
+  {
+   "text": "mengolah sumber alam menjadi bahan yang bermanfaat dan punya nilai tambah yang",
+   "start": 12.0,
+   "duration": 9
+  },
+  {
+   "text": "tinggi sehingga bisa mendorong kemakmuran dan kesejahteraan.",
+   "start": 21.0,
+   "duration": 6
+  },
+  {
+   "text": "Dari sini kita bisa menghasilkan energi terbarukan dan ramah lingkungan yang dicita-citakan seluruh dunia.",
+   "start": 27.0,
+   "duration": 9
+  },
+  {
+   "text": "[Musik]",
+   "start": 36.0,
+   "duration": 2
+  },
+  {
+   "text": "Hidrisasi akan jalan terus. Momentum akan kita percepat. Kita mau bergerak cepat. Rakyat menuntut mengharapkan kemajuan cepat.",
+   "start": 38.0,
+   "duration": 11
+  },
+  {
+   "text": "[Musik]",
+   "start": 49.0,
+   "duration": 3
+  },
+  {
+   "text": "Saya Prabowo Subianto, Presiden Republik Indonesia dengan penuh kebanggaan meresmikan ground breaking ekosistem",
+   "start": 52.0,
+   "duration": 8
+  },
+  {
+   "text": "industri baterai kendaraan listrik terintegrasi konsorsium Antam Indonesia",
+   "start": 60.0,
+   "duration": 6
+  },
+  {
+   "text": "Battery Corporation dan CBL Contemporary Brun Legend.",
+   "start": 66.0,
+   "duration": 12
+  },
+  {
+   "text": "[Musik]",
+   "start": 78.0,
+   "duration": 3
+  }
+ ]
+}

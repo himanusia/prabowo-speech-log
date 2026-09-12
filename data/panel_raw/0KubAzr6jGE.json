@@ -1,0 +1,71 @@
+{
+ "id": "0KubAzr6jGE",
+ "url": "https://www.youtube.com/watch?v=0KubAzr6jGE",
+ "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 20 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "raw_snippets": [
+  {
+   "text": "Eh, Pak Balil tadi soal rapatnya bahasa apa, Pak?",
+   "start": 0.0,
+   "duration": 4
+  },
+  {
+   "text": "Aku eh dari tadi bahas tentang besok ada acara IPA, besok itu",
+   "start": 4.0,
+   "duration": 9
+  },
+  {
+   "text": "adalah ada acara besar yang dihadir oleh 46 negara tentang kontraktor K3S dalam rangka meningkatkan lifting itu besok.",
+   "start": 13.0,
+   "duration": 10
+  },
+  {
+   "text": "Yang kedua, kami juga diskusi tentang bagaimana percepatan hilirisasi dan sekaligus untuk meningkatkan lifting. Nah, dalam",
+   "start": 23.0,
+   "duration": 9
+  },
+  {
+   "text": "kurwaktu dekat nanti setelah kita laporkan kepada Bapak Presiden, Bapak Presiden sudah berencana untuk dari",
+   "start": 32.0,
+   "duration": 7
+  },
+  {
+   "text": "sekian projek hilirisasi itu sudah harus ada yang dilakukan Gombre Breaking untuk diimplementasikan itu ya. Hilisasi apa",
+   "start": 39.0,
+   "duration": 8
+  },
+  {
+   "text": "Pak? Kita akan melakukan hilisasi di bidang nikel ya untuk membangun ekosistem baterai mobil kemudian membangun ee bahan baku baterai mobil.",
+   "start": 47.0,
+   "duration": 11
+  },
+  {
+   "text": "Selain itu kita akan membangun DME.",
+   "start": 58.0,
+   "duration": 2
+  },
+  {
+   "text": "Lokasinya di mana, Pak? Kalau untuk yang nanti kita umumkan nanti ya. Jug ngomongin saudara.",
+   "start": 60.0,
+   "duration": 3
+  }
+ ]
+}

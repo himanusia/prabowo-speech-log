@@ -1,0 +1,121 @@
+{
+ "id": "JrFZJkcM5r4",
+ "url": "https://www.youtube.com/watch?v=JrFZJkcM5r4",
+ "title": "Presiden Prabowo, Gerak Cepat Untuk Negeri",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 2.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 9.0,
+   "duration": 2
+  },
+  {
+   "text": "Kita mampu dengan kekuatan kita bertindak dan bergerak cepat meresmikan 218 [musik] jembatan.",
+   "start": 11.0,
+   "duration": 13
+  },
+  {
+   "text": "[musik]",
+   "start": 24.0,
+   "duration": 4
+  },
+  {
+   "text": "Sekarang kami tidak kewalan lagi dan tidak membuka sepatu lagi kalau kami pergi ke sekolah. Terima kasih Bapak Presiden. [musik]",
+   "start": 28.0,
+   "duration": 17
+  },
+  {
+   "text": "Sekolah harus bagus, harus bersih, harus baik. Tidak boleh ada sekolah yang atapnya runtuh.",
+   "start": 45.0,
+   "duration": 8
+  },
+  {
+   "text": "Tidak boleh ada sekolah yang tidak ada WC.",
+   "start": 53.0,
+   "duration": 3
+  },
+  {
+   "text": "Bagaimana bisa satu sekolah toiletnya hanya satu, [musik] WC-nya satu?",
+   "start": 56.0,
+   "duration": 5
+  },
+  {
+   "text": "Bagaimana bisa kita harus memperbaiki sebanyak-banyak sekolah seluruh Indonesia dalam waktu secepat-cepatnya.",
+   "start": 61.0,
+   "duration": 11
+  },
+  {
+   "text": "[musik]",
+   "start": 72.0,
+   "duration": 4
+  },
+  {
+   "text": "[musik]",
+   "start": 76.0,
+   "duration": 4
+  },
+  {
+   "text": "Ini bukti sekali lagi bahwa pemerintah pusat, pemerintah Republik Indonesia hadir hadir di tingkat yang terkecil",
+   "start": 80.0,
+   "duration": 10
+  },
+  {
+   "text": "sekalipun [musik] di desa, di dusun, di dukuh, pemerintah Republik Indonesia tidak akan membiarkan rakyatnya dalam penderitaan [musik] dan dalam kesulitan.",
+   "start": 90.0,
+   "duration": 14
+  },
+  {
+   "text": "[musik]",
+   "start": 104.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 111.0,
+   "duration": 9
+  },
+  {
+   "text": "[musik]",
+   "start": 120.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik]",
+   "start": 125.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik]",
+   "start": 130.0,
+   "duration": 0.5
+  },
+  {
+   "text": "Yes",
+   "start": 130.0,
+   "duration": 3
+  }
+ ]
+}

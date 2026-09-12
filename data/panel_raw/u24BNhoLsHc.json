@@ -1,0 +1,66 @@
+{
+ "id": "u24BNhoLsHc",
+ "url": "https://www.youtube.com/watch?v=u24BNhoLsHc",
+ "title": "Presiden Prabowo Terima Ustaz Adi Hidayat, Kantor Presiden, 21 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "raw_snippets": [
+  {
+   "text": "Asalamualaikum. Wah, ini teman-teman dari mana nih?",
+   "start": 3.0,
+   "duration": 9
+  },
+  {
+   "text": "Syamdhafa alar dan dari Darul Ifta lembaga fatwa abdim dr",
+   "start": 12.0,
+   "duration": 8
+  },
+  {
+   "text": "mamu pak and syekhul dari darulri",
+   "start": 20.0,
+   "duration": 9
+  },
+  {
+   "text": "sudah berapa lama di sini mereka sudah 20 hari Pak 20 hari silakan silakan ada tiga hal yang pertama",
+   "start": 29.0,
+   "duration": 9
+  },
+  {
+   "text": "dengan Bapak iya kami berinisiatif yang itu semuanya kami kan riset bahwa di",
+   "start": 38.0,
+   "duration": 9
+  },
+  {
+   "text": "kita 80% begitu MKP i yang menarik 10 orang Indonesia selama Ramadan bisa",
+   "start": 47.0,
+   "duration": 8
+  },
+  {
+   "text": "mendampingi masjid di pemerintahan nah jadi ini ada yang di Kementerian Pendidikan dan ketika rakyat",
+   "start": 55.0,
+   "duration": 8
+  },
+  {
+   "text": "iya kita di luar mana aja",
+   "start": 63.0,
+   "duration": 3
+  }
+ ]
+}

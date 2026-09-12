@@ -1,0 +1,66 @@
+{
+ "id": "2O6isRVI4H4",
+ "url": "https://www.youtube.com/watch?v=2O6isRVI4H4",
+ "title": "Suara Buruh Bergema di Monas, Apresiasi Atas Kehadiran Presiden Prabowo, 1 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 4.0,
+   "duration": 19
+  },
+  {
+   "text": "mempermudah segalanya ya. Dari segi pendidikan kita murah gitu kan. Terus dari bahan pokok juga kita enggak terlalu melecit banget. Ya, intinya",
+   "start": 23.0,
+   "duration": 7
+  },
+  {
+   "text": "semua terjangkau lah buat buruh ya, khususnya kaum rendah gitu, kaum bawah gitu aja.",
+   "start": 30.0,
+   "duration": 10
+  },
+  {
+   "text": "Luar biasa ya. Terima kasih kepada Bapak Presiden Prabowo Sugianto yang telah ee berkenan mau menghadiri ee perayaan hari",
+   "start": 40.0,
+   "duration": 8
+  },
+  {
+   "text": "Buruh kita dengan ee Maid ini. Semoga ee perjuangan-perjuangan yang selama ini kita gembar-gembarkan, yang kita ee",
+   "start": 48.0,
+   "duration": 8
+  },
+  {
+   "text": "perjuangkan ee bisa terealisasi ee sesuai dengan cita-cita buruh kita semua gitu. Uh, sangat sangat bahagia sekali.",
+   "start": 56.0,
+   "duration": 9
+  },
+  {
+   "text": "Justru ke sini berbondong-bondong pengin lihat Pak Presiden Prabowo. Saya ingin kinerjanya lebih baik lagi.",
+   "start": 65.0,
+   "duration": 9
+  },
+  {
+   "text": "Saya bangga dengan Pak Presiden dan",
+   "start": 74.0,
+   "duration": 3
+  }
+ ]
+}

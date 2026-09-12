@@ -1,0 +1,51 @@
+{
+ "id": "4YuXyQQRDm0",
+ "url": "https://www.youtube.com/watch?v=4YuXyQQRDm0",
+ "title": "Keterangan Pers Menteri Ketenagakerjaan Yassierli, Jakarta, 10 November 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "raw_snippets": [
+  {
+   "text": "ingin tadi pertemuannya enggak ini mengenalkan ini beliau adalah sekretaris jenderal dari International",
+   "start": 0.0,
+   "duration": 7
+  },
+  {
+   "text": "Trade Union eh Confederation apa tentang eh kondisi ya Indonesia",
+   "start": 7.0,
+   "duration": 9
+  },
+  {
+   "text": "nyata update terkait dengan ketenagakerjaan kemudian beliau juga share terkait dengan internasional ee seperti apa dan",
+   "start": 16.0,
+   "duration": 8
+  },
+  {
+   "text": "kemudian mereka mengapresiasi apa yang sudah dilakukan Indonesia dan juga surga ee menyampaikan beberapa poin ee yang penting harus ee sebagai masuk kita.",
+   "start": 24.0,
+   "duration": 10
+  },
+  {
+   "text": "Oke, sip. Cukup ya. Makasih ya.",
+   "start": 34.0,
+   "duration": 3
+  }
+ ]
+}

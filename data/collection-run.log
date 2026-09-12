@@ -292,3 +292,609 @@ lanjutkan: python3 scripts/status.py
 --- putaran 1 03:31:37 ---
 daftar kerja : 818 | sudah ok: 32 | batch ini: 60
   1/60 OK        GXI54W2zw6E    22 seg  186s  Keterangan Pers Presiden Prabowo Usai Luncurka
+  2/60 OK        TSGyrSE6pmg    17 seg  138s  Keterangan Pers Presiden Prabowo Usai Bertemu 
+  3/60 OK        hwW0lHNBJkU     8 seg  62s  Keterangan Pers Presiden Prabowo Usai Bertemu 
+  4/60 OK        riUzV50He6k    12 seg  92s  Keterangan Pers Presiden Prabowo Usai Hadiri A
+  5/60 OK        guyB_xYGSUk     6 seg  51s  Keterangan Pers Presiden Prabowo Sebelum Berto
+  6/60 OK        96XOSdQ2Avk     7 seg  75s  Keterangan Pers Presiden Prabowo Usai Bertemu 
+  7/60 OK        9lhVB31qLEc    22 seg  173s  Keterangan Pers Presiden Prabowo Usai Resmikan
+  8/60 OK        3p-Lz93cQQg     9 seg  71s  Keterangan Pers Presiden Prabowo Usai Resmikan
+  9/60 OK        0ek5-SPrSfo    47 seg  339s  Keterangan Pers Presiden Prabowo Terkait Bonus
+ 10/60 OK        vLWjgNiYoDE     9 seg  78s  Keterangan Pers Presiden Prabowo Usai Buka Kon
+ 11/60 OK        vY3Cr_GNn04     8 seg  70s  Keterangan Pers Presiden Prabowo Usai Hadiri H
+ 12/60 OK        Bi4aY-P5ljI    27 seg  223s  Keterangan Pers Wakil Ketua DPR Sufmi Dasco Ah
+ 13/60 OK        GP1U9lau9hU    55 seg  434s  Keterangan Pers Presiden Prabowo Usai Resmikan
+ 14/60 OK        Oke0Yxbixks    96 seg  762s  Keterangan Pers Presiden Prabowo: Tarif PPN 12
+ 15/60 OK        FKWsP6NoNKY    22 seg  188s  Keterangan Pers Presiden Prabowo Subianto, Kai
+ 16/60 OK        CPGEPGic-8A    18 seg  136s  Keterangan Pers Presiden Prabowo usai Resmikan
+ 17/60 OK        PtDQNiMPcGE    23 seg  190s  Keterangan Pers Presiden Prabowo, Istana Merde
+ 18/60 OK        FcdliXHmqHc    36 seg  292s  Keterangan Pers Presiden Prabowo Subianto, Lon
+ 19/60 OK        21bu5Og0qXc    35 seg  280s  Keterangan Pers Presiden Prabowo Subianto, Rio
+ 20/60 OK        GW-0apdof30     8 seg  57s  Keterangan Pers Presiden Prabowo Subianto, Lim
+ 21/60 OK        -v129GdlTv8    21 seg  175s  Keterangan Pers Presiden Prabowo usai Terima M
+ 22/60 OK        YQRNLmSKzHU    44 seg  375s  Keterangan Pers Presiden Prabowo, Pangkalan TN
+ 23/60 no_indonesian_track F70FUJv9Rx0  President Prabowo's Statement at the BRICS Sum
+ 24/60 OK        OBpFpAEfjAg     7 seg  59s  INDONESIA MENANG!!! Kontingen Indonesia Menuju
+ 25/60 no_indonesian_track 5vOHC50PErE  [HIGHLIGHT] President Prabowo Becomes Main Gue
+ 26/60 OK        Ewi73wny_qA    60 seg  624s  Pertemuan Bilateral Presiden Prabowo dan Presi
+ 27/60 OK        rvojUOnKVXU    15 seg  127s  Semangat Berlari Bersama dalam Merdeka Run 202
+ 28/60 OK        EAWTKlagU4M    35 seg  297s  Presiden Prabowo Terima Panglima Jilah, Istana
+ 29/60 no_indonesian_track eFlAfs6YKHg  President Prabowo Receives President of Timor-
+ 30/60 OK        6wP_ckneI2o    23 seg  177s  Presiden Prabowo di Tengah Pengungsi Nagekeo: 
+ 31/60 no_indonesian_track t6IsYONtH0Y  President Prabowo Oversees Natural Disaster Re
+ 32/60 OK        BOw2keguqKY    23 seg  178s  Presiden Prabowo Instruksikan Respon Cepat, Ba
+ 33/60 no_indonesian_track Qi02c6m9fFI  Presiden Prabowo Terbang ke Kalimantan, Pimpin
+ 34/60 no_indonesian_track iAYdQFAzpCo  Merah Putih Satukan Ratusan Ribu Warga dalam S
+ 35/60 OK        kKcxPvGjzGM    23 seg  188s  65 Ton Logistik Tambahan dikirim dari Total 25
+ 36/60 OK        3_G2ExSPIJE    14 seg  131s  Kebanggaan Para Pemeran Serta di Peringatan HU
+ 37/60 OK        Ka3kgJJb0Bk    18 seg  155s  Hangatnya Jamuan Rakyat di Istana Rayakan Keme
+ 38/60 OK        5mCry8WTE4Q    14 seg  118s  Tim Paskibraka “Indonesia Berdaulat” Siap Meng
+ 39/60 no_indonesian_track v8cbMDP-fBg  Watch! 81st Independence Day Anniversary Celeb
+ 40/60 OK        gxzLqk-Q6hM    22 seg  170s  Antusias Warga Jelang HUT ke-81 Kemerdekaan RI
+ 41/60 no_indonesian_track fk14ICzlzEs  Aksi Cepat Arahan Bapak Presiden untuk Penanga
+ 42/60 OK        YfThNWTDsX0    36 seg  321s  Perayaan Kemerdekaan untuk Semua
+ 43/60 empty_panel       oxNjh6fAs0E  Presiden Prabowo Terima Pimpinan MPR RI, Jakar
+ 44/60 OK        qV8_My__qJM    17 seg  153s  Doa Lintas Agama Perkuat Semangat Persatuan Je
+ 45/60 OK        mtHXIANYu3s   359 seg  2881s  Pertemuan Presiden RI dengan Pengusaha KADIN P
+ 46/60 OK        qQOz36NOUoc    25 seg  254s  Revitalisasi Stasiun Semarang Tawang dan Akad 
+ 47/60 OK        1FTHuRLmJzs    20 seg  158s  Istana untuk Anak Sekolah: SMAN 55 Jakarta
+ 48/60 OK        p3oqLCWgipM    41 seg  320s  Presiden Prabowo Lantik 1.177 Perwira Remaja T
+ 49/60 OK        QR1wAxIQoL8    19 seg  143s  Istana untuk Anak Sekolah: SMPN 15 Jakarta & S
+ 50/60 OK        eCOPt2WI6es    16 seg  123s  Siswa Disabilitas Wujudkan Mimpi Kunjungi Ista
+ 51/60 no_indonesian_track 0eAM4UI45rE  Presiden Prabowo Sampaikan Belasungkawa atas W
+ 52/60 OK        W-aZQ9PzKos    23 seg  184s  Ketpers Menko Bidang Perekonomian Airlangga Ha
+ 53/60 OK        XI09xqDqTsk    14 seg  127s  Warga Sambut Antusias Peresmian Bendungan Meni
+ 54/60 OK        077vmLENDfY    20 seg  183s  Presiden Prabowo Resmikan 5 Bendungan di Indon
+ 55/60 OK        LHbVHK3X4K8    19 seg  180s  Presiden Prabowo Anugerahkan Tanda Kehormatan 
+ 56/60 OK        MIoNztA-UOM    33 seg  276s  Pemerintah Luncurkan Program Magang Nasional (
+ 57/60 OK        aWMKFjJHQR8    14 seg  121s  Presiden Prabowo Berikan Bantuan Alat Drumben 
+ 58/60 OK        IMT06KAREq4    17 seg  119s  Istana untuk Anak Sekolah: Pondok Pesantren Qu
+ 59/60 OK        brynzY_CnxA   106 seg  866s  Pengumuman Jajak Pendapat (Polling) Pemilihan 
+ 60/60 OK        V0GgaMVmSz0    17 seg  141s  Presiden Prabowo Resmikan 1.151 KM Jalan Daera
+
+selesai: 50/60 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                711
+    ok_belum_masuk_arsip     81
+    tanpa_track              25
+    panel_kosong              1
+  SISA BISA DITARIK       : 793
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=793  kena_batas=no  rc=0
+
+--- putaran 2 03:36:43 ---
+daftar kerja : 818 | sudah ok: 82 | batch ini: 60
+  1/60 OK        8tXHCJl4Vvs    16 seg  115s  Presiden Prabowo Hadiri Penutupan Munas-Konbes
+  2/60 OK        nMX_7sjNEHI    37 seg  297s  Keterangan Pers Direktur Utama PT. PLN (Perser
+  3/60 OK        5IAhNki57ds    68 seg  533s  Keterangan Pers Menteri Pendidikan Dasar dan M
+  4/60 OK        2i10txapRYU    25 seg  193s  Keterangan Pers Wakil Presiden ke-10 dan ke-12
+  5/60 no_indonesian_track pn-OKLO5MX8  Presiden Prabowo Terima Wakil Presiden ke-10 d
+  6/60 no_indonesian_track JFeyxs6aT6M  President Prabowo Receives Letters of Credence
+  7/60 no_indonesian_track yBpY8Cn01gc  President Prabowo Receives Letters of Credence
+  8/60 OK        iN2YUUEyr6k    14 seg  147s  Harapan Orang Tua Menyambut Masa Depan Anak di
+  9/60 OK        iZf3T1ntC3I    12 seg  107s  Dari Ruang Kelas SMPN 111 Jakarta, Cita-Cita B
+ 10/60 no_indonesian_track xzvdEtRRRBQ  Presiden Prabowo Beri Penghormatan Terakhir Je
+ 11/60 OK        vQPblz56CpM    51 seg  293s  Diaspora Indonesia Rasakan Kehangatan Iduladha
+ 12/60 OK        Gl9We_PwpSg    36 seg  338s  Presiden Prabowo Salat Iduladha 1447 Hijriah B
+ 13/60 OK        ozsnenS1PW4    12 seg  113s  Haru dan Bangga Diaspora Sambut Presiden Prabo
+ 14/60 OK        W46cPCjedXA    10 seg  111s  Presiden Prabowo Resmikan Renovasi Museum dan 
+ 15/60 OK        s1cM9185FmQ    12 seg  128s  Presiden Prabowo Panen Raya Udang di Budi Daya
+ 16/60 OK        4QIU8hU5KCM    17 seg  106s  Istana untuk Anak Sekolah: Universitas Gajah M
+ 17/60 OK        FrEfcNiDYDQ    11 seg  90s  Istana untuk Anak Sekolah: SMPN 94 dan SMPN 4 
+ 18/60 no_indonesian_track Cbz0seUPZVQ  Presiden Prabowo Berziarah ke Makam Marsinah, 
+ 19/60 no_indonesian_track 4qYghDYhs_k  President Prabowo Receives Hisense Delegation,
+ 20/60 OK        bHPh8p3Eo4k    10 seg  99s  Presiden Prabowo Sapa Prajurit di Pos Angkatan
+ 21/60 no_indonesian_track uIj_dal7lCE  Momen Hangat Presiden Prabowo Bersama Anak-Ana
+ 22/60 no_indonesian_track QZYIq6CGLDQ  President Prabowo's "Maung" Captures the Atten
+ 23/60 no_indonesian_track BMFtkMwrKC8  Presiden Prabowo Hadiri Gala Dinner KTT ke-48 
+ 24/60 no_indonesian_track 1j1BJ--K964  President Prabowo Attends BIMP-EAGA Summit, Ce
+ 25/60 OK        7d7XUkaKsbY    26 seg  179s  Istana untuk Anak Sekolah: Forum OSIS Jawa Bar
+ 26/60 OK        7BR7epIOXcI   131 seg  1042s  Keterangan Pers Komite Stabilitas Sistem Keuan
+ 27/60 OK        IN6jX0VGWWY   177 seg  1413s  Keterangan Pers Komisi Percepatan Reformasi Po
+ 28/60 no_indonesian_track VSABYun0dtQ  Komisi Percepatan Reformasi Polri Serahkan Buk
+ 29/60 OK        hvL3uu66X_g    19 seg  147s  Ketpers Kepala Badan Pengendalian Pembangunan 
+ 30/60 no_indonesian_track _Mc1W2edm9E  President Prabowo Commemorates May Day with Wo
+ 31/60 OK        2O6isRVI4H4     8 seg  85s  Suara Buruh Bergema di Monas, Apresiasi Atas K
+ 32/60 OK        24ktbt62aJY    62 seg  548s  Saat Presiden Prabowo dan Siswa SMAN 1 Cilacap
+ 33/60 OK        TqrjcE1uLPA    27 seg  235s  Pagi ini Presiden Prabowo Langsung Jenguk Korb
+ 34/60 OK        FdBLZcFadxU    13 seg  95s  Istana untuk Anak Sekolah: SMPN 60 Jakarta
+ 35/60 no_indonesian_track -E-Va1kZ2oY  Presiden Prabowo Subianto Sidak Langsung ke Ko
+ 36/60 OK        PqwsKKlXbIc    32 seg  248s  Presiden Prabowo Sampaikan Ucapan Selamat Mera
+ 37/60 OK        _Nk4pAl8C-w    11 seg  102s  Istana untuk Anak Sekolah: SMPN 39 Jakarta
+ 38/60 OK        _gm-Yn_RJPI    13 seg  96s  Istana untuk Anak Sekolah: SMA Taruna Nusantar
+ 39/60 OK        j2vzDyO6ktI    60 seg  476s  Keterangan Pers Menteri ESDM dan Sekretaris Ka
+ 40/60 no_indonesian_track 8U4tz7TL1Gc  Pertemuan Presiden Prabowo dengan Presiden Mac
+ 41/60 OK        v4BJpBfTvN8    36 seg  294s  Seskab Teddy Soroti “Inflasi Pengamat”, Tegask
+ 42/60 OK        FcQWWbV_Vyo   101 seg  791s  Keterangan Pers Seskab Teddy Indra Wijaya, Jak
+ 43/60 OK        z4rzFf3n900    11 seg  90s  Keterangan Pers Hakim Konstitusi Liliek Prisba
+ 44/60 OK        BJgp9b2Dv50    24 seg  198s  Keterangan Pers Ketua Ombudsman Hery Susanto, 
+ 45/60 OK        x4UA7Rfyn4I    16 seg  125s  Ket Pers Dubes LBBP RI untuk Kesultanan Oman M
+ 46/60 OK        b3GiJwhwsxY    18 seg  144s  HUT TNI AU, Pesawat Kepresidenan Presiden Prab
+ 47/60 OK        g9IAsgFUrIU    10 seg  88s  Presiden Prabowo Resmikan Pabrik Perakitan Ken
+ 48/60 OK        VNsBUryu-nU    35 seg  276s  Keterangan Pers Seskab Teddy Indra Wijaya, Jak
+ 49/60 OK        gwb4z3Lfl2g    97 seg  1955s  Serah Terima Kawal Istana, Halaman Depan Istan
+ 50/60 OK        6cji__Gqs_E    97 seg  809s  Keterangan Pers Menko Perekonomian dan Menteri
+ 51/60 no_indonesian_track v0t6l6bTGrU  President Prabowo Attends State Banquet and Re
+ 52/60 no_indonesian_track cK2XbWVokcI  President Prabowo Received a State Welcome at 
+ 53/60 OK        3T9w5opAGAc    10 seg  99s  Presiden Prabowo Disambut Hangat dan Penuh Keb
+ 54/60 OK        1LZL_OtzJC0    22 seg  786s  Upacara Penyambutan Resmi Presiden Prabowo di 
+ 55/60 OK        faZQzjX7eUA   101 seg  759s  Ket Pers Menteri Investasi dan Hilirisasi, Men
+ 56/60 OK        Erc8sAPMr8E    19 seg  151s  Diaspora Indonesia Sambut Kedatangan Presiden 
+ 57/60 no_indonesian_track 5xWMAaam1MU  Keberangkatan Presiden Prabowo menuju Jepang, 
+ 58/60 OK        0sexj8LAruA    74 seg  537s  Keterangan Pers Seskab Teddy dan Menteri UMKM 
+ 59/60 OK        NLqVUIwWiGg    26 seg  222s  Presiden Prabowo Sapa Ribuan Warga dalam Gelar
+ 60/60 OK        -TRJdVKW4lo    80 seg  564s  Presiden Prabowo Salat Idulfitri dan Halalbiha
+
+selesai: 43/60 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                651
+    ok_belum_masuk_arsip    124
+    tanpa_track              42
+    panel_kosong              1
+  SISA BISA DITARIK       : 776
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=776  kena_batas=no  rc=0
+
+--- putaran 3 03:41:00 ---
+daftar kerja : 818 | sudah ok: 125 | batch ini: 60
+  1/60 OK        A4CGZ86uQtM    60 seg  462s  Presiden Prabowo Salurkan Ribuan Paket Sembako
+  2/60 OK        yju7lC1JBmg    13 seg  99s  Presiden Prabowo Ucapkan Selamat Idulfitri 1 S
+  3/60 OK        JrFZJkcM5r4    19 seg  136s  Presiden Prabowo, Gerak Cepat Untuk Negeri
+  4/60 OK        ByM_Yd3uy-M    64 seg  526s  Pernyataan Ketum MUI K.H. Anwar Iskandar pada 
+  5/60 OK        GnzCdwuxpes    65 seg  514s  Keterangan Pers Menteri ATR/BPN Nusron Wahid, 
+  6/60 OK        SWOkxv6ovOY   139 seg  1076s  Keterangan Pers Para Tokoh dan Pimpinan Ormas 
+  7/60 no_indonesian_track 2mDuEoHi7ro  Presiden Prabowo Berbuka Puasa Bersama Tokoh d
+  8/60 OK        mdmR6eKXXvw    29 seg  203s  Keterangan Pers Menteri Investasi dan Hilirisa
+  9/60 OK        y_Ev82ef8C4    24 seg  169s  Keterangan Pers Mendiktisaintek Brian Yuliarto
+ 10/60 OK        52s1kQVKR5A    20 seg  156s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 11/60 OK        dGrDvs6uNoc    30 seg  246s  Keterangan Pers Ketua MPR RI Ahmad Muzani, Jak
+ 12/60 OK        0_HGdy7Aqwk    22 seg  158s  Keterangan Pers Menteri Energi dan Sumber Daya
+ 13/60 OK        _77YSgAg-Fo    28 seg  215s  Keterangan Pers Menteri Agama Nasaruddin Umar,
+ 14/60 OK        kiJo0cN4_f4    31 seg  249s  Keterangan Pers Menteri Luar Negeri Sugiono, J
+ 15/60 OK        4VZy-HBdfp4    23 seg  181s  Keterangan Pers Ketua Umum Golkar dan Presiden
+ 16/60 OK        -CIQInd2q2E    42 seg  328s  Keterangan Pers Hassan Wirajuda, Jakarta, 3 Ma
+ 17/60 OK        05xWm3UcqmQ    31 seg  427s  Presiden Prabowo Gelar Silaturahmi dan Diskusi
+ 18/60 OK        ooZvi-hw-L8    12 seg  169s  Presiden Prabowo Pimpin Upacara Pemakaman Wapr
+ 19/60 OK        hj1mWPKxJy0    11 seg  91s  Keterangan Pers Menko Pangan Zulkifli Hasan, J
+ 20/60 OK        ZQ04p2F6OKU    68 seg  552s  Seskab Teddy: Bantah MBG Kurangi Program dan A
+ 21/60 no_indonesian_track SZf86LmGjQs  Presiden Prabowo dan Presiden MBZ Perkuat Kemi
+ 22/60 no_indonesian_track lqVsLRPPrzM  Kemudikan Mobil, Raja Abdullah II Antar & Lepa
+ 23/60 no_indonesian_track lCoZ5j0SrZM  Pertemuan Bilateral Presiden Prabowo dengan Ra
+ 24/60 no_indonesian_track UQA-Bu3Rf3s  Dikawal F16 di Langit Yordania, Presiden Prabo
+ 25/60 OK        YucpUYBwqZY    50 seg  500s  Presiden Prabowo Saksikan Kemitraan Danantara–
+ 26/60 OK        2f5eDVTa2As    47 seg  330s  Keterangan Pers Menko Perekonomian dan Sekreta
+ 27/60 OK        I20_ibtCStE   125 seg  958s  Keterangan Pers Menteri Luar Negeri Sugiono, W
+ 28/60 OK        TWvuOB8ZthY    64 seg  515s  Ketpers Menteri Investasi Rosan Roeslani, CIO 
+ 29/60 no_indonesian_track qr8_rkq0Fhg  Presiden Trump Sebut Presiden Prabowo Pemimpin
+ 30/60 no_indonesian_track FUF-Jbi9ifE  Keterangan Pers Duta Besar Pakistan untuk Indo
+ 31/60 OK        sv9Z_5ORpqM     9 seg  76s  Keterangan Pers Kepala BP Taskin Budiman Sudja
+ 32/60 OK        RR54YFvuD9E    28 seg  213s  Keterangan Pers Kepala Badan Pengaturan BUMN D
+ 33/60 OK        n5KWx28-gwQ    53 seg  387s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 34/60 OK        tdL42ILT0UM    58 seg  471s  Keterangan Pers Menko Perekonomian Airlangga H
+ 35/60 OK        ZjB-P6Iayng    94 seg  707s  Keterangan Pers Mensesneg Prasetyo Hadi, Jakar
+ 36/60 OK        Fk8P_c2ZkH4   126 seg  990s  Keterangan Pers Menteri Luar Negeri Sugiono, J
+ 37/60 OK        kMNGKi2RX9U    85 seg  1241s  Pengucapan Sumpah Hakim Konstitusi dan Pelanti
+ 38/60 OK        kU2XV1-02AE    36 seg  271s  Keterangan Pers Menteri Luar Negeri Sugiono, J
+ 39/60 OK        pSNSSX9oJvY    80 seg  642s  Keterangan Pers Hassan Wirajuda, Alwi Shihab, 
+ 40/60 OK        FOTeSU2nfq0    64 seg  507s  Keterangan Pers Dino Patti Djalal, Jakarta, 4 
+ 41/60 OK        eHTPhAKORIE    67 seg  490s  Keterangan Pers Ketua Umum DPP PKB Muhaimin Is
+ 42/60 OK        UpI-vtnpvQU    44 seg  342s  Keterangan Pers Ketua Umum MUI KH. M. Anwar Is
+ 43/60 OK        BEqt2TC9Cd4    78 seg  629s  Keterangan Pers Menteri Agama Nasaruddin Umar 
+ 44/60 OK        QOqE3fbCz2E    52 seg  395s  Keterangan Pers Seskab Teddy Indra Wijaya, Jak
+ 45/60 OK        WN6n_SIxnHw     8 seg  67s  Keterangan Pers Dirut Garuda Indonesia Glenny 
+ 46/60 OK        cCevQSpEtSU    10 seg  78s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 47/60 OK        XY4GTVYQKVI    54 seg  441s  Keterangan Pers Menteri ATR/Kepala BPN Nusron 
+ 48/60 no_indonesian_track jFKoDKffxzU  Presiden Prabowo Hadiri Jamuan Makan Malam ole
+ 49/60 OK        HnjlTBMLztI    91 seg  722s  Keterangan Pers Menteri Luar Negeri Sugiono, B
+ 50/60 no_indonesian_track 2yOiIpmMe0s  Presiden Prabowo Tandatangani Board of Peace (
+ 51/60 OK        rOzar7Jm-zc    53 seg  425s  Keterangan Pers Sekretaris Kabinet Teddy Indra
+ 52/60 no_indonesian_track dDfMQ0CXAbc  Presiden Prabowo Bertemu dengan Wakil PM Inggr
+ 53/60 no_indonesian_track oSuEnlDGKMo  Presiden Prabowo Bertemu dengan PM Inggris Kei
+ 54/60 OK        mhbM-TVoalY    79 seg  616s  Keterangan Pers Mensesneg Prasetyo Hadi, Jakar
+ 55/60 OK        Q444E89OIMs    81 seg  631s  Keterangan Pers Menteri Pendidikan Tinggi, Sai
+ 56/60 OK        J9jMNVW4RJQ    30 seg  222s  Keterangan Pers Mensesneg Prasetyo Hadi, Jakar
+ 57/60 OK        pd1cyim2t-g    19 seg  189s  Kisah Bangga dan Harapan Atlet SEA Games saat 
+ 58/60 OK        0IT-lwJvoeE   120 seg  895s  Keterangan Pers Mensesneg Prasetyo Hadi, Hamba
+ 59/60 OK        hTUVN3Te1dM    16 seg  120s  Keterangan Pers Mensesneg Prasetyo Hadi, Medan
+ 60/60 OK        P-qC_SuFM7g   171 seg  1373s  Kaleidoskop 2025: Kepemimpinan Presiden Prabow
+
+selesai: 49/60 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                591
+    ok_belum_masuk_arsip    173
+    tanpa_track              53
+    panel_kosong              1
+  SISA BISA DITARIK       : 765
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=765  kena_batas=no  rc=0
+
+--- putaran 4 03:45:27 ---
+daftar kerja : 818 | sudah ok: 174 | batch ini: 60
+  1/60 OK        lxVuL4HBvag    64 seg  471s  Ketpers Kepala Staf Kepresidenan M. Qodari dan
+  2/60 no_indonesian_track M8ZjWgYEvtc  Presiden Prabowo Percepat Kampung Haji dan Hun
+  3/60 OK        kFN0-evSNQs    35 seg  280s  Keterangan Pers Mensesneg Prasetyo Hadi, Padan
+  4/60 OK        yBvCXbOfrF4   145 seg  1112s  Keterangan Menteri Investasi Rosan Roeslani, J
+  5/60 OK        ZEchahHI8Os    13 seg  112s  Keterangan Pers Menteri Pertanian Andi Amran S
+  6/60 OK        aOG_-58jkwA    16 seg  218s  Presiden Prabowo Jenguk Siswa dan Guru SDN Kal
+  7/60 no_indonesian_track An2UBq_cqck  Presiden Prabowo Bertemu Presiden Putin di Ist
+  8/60 no_indonesian_track g4YkNeOwuLo  PM Shehbaz Dampingi Presiden Zardari Anugerahk
+  9/60 no_indonesian_track eu51viYs0ok  Pertemuan Bilateral, Pertukaran MOU dan Pernya
+ 10/60 OK        Ae0BcQbY97I    70 seg  502s  Keterangan Pers Ketua Perkumpulan Pemain Pirin
+ 11/60 OK        SVau5uMXz20    46 seg  354s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 12/60 OK        Mqn9oJY1zaM    26 seg  221s  Presiden Prabowo Terima Sekjen Liga Muslim Dun
+ 13/60 no_indonesian_track -roLkyZycpo  Kedatangan Ketua MPR RRT Wang Huning di Indone
+ 14/60 OK        vO9zYMdz0Ws    56 seg  415s  Keterangan Pers Ketua MPR RI Ahmad Muzani, Jak
+ 15/60 OK        wKWhviTAqWs     7 seg  65s  Keterangan Pers Mendiktisaintek Brian Yuliarto
+ 16/60 no_indonesian_track btAfeSAW49U  Pengiriman Bantuan Penanganan Bencana Alam ke 
+ 17/60 OK        Xo0vFyS7iDE    44 seg  366s  Presiden Prabowo Perintahkan Pengiriman Bantua
+ 18/60 OK        YqdQkpUyD5U    16 seg  128s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 19/60 OK        82c9UJKZipQ    55 seg  449s  Keterangan Pers Menko Bidang Perekonomian Airl
+ 20/60 OK        aP0ZeqCtWSc    37 seg  271s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 21/60 OK        8QwvfafgroE     4 seg  31s  Keterangan Pers Menteri Kelautan dan Perikanan
+ 22/60 OK        Njr75zfENZQ    97 seg  774s  Keterangan Pers Menteri Pemuda dan Olahraga Er
+ 23/60 OK        O8skkj11OBI    58 seg  489s  Keterangan Pers Menteri Kependudukan dan Pemba
+ 24/60 OK        whMHi_M8EOQ    78 seg  592s  Keterangan Pers Mendagri Tito Karnavian, Jakar
+ 25/60 OK        uaddSdV8nck    67 seg  536s  Keterangan Pers Kepala BRIN Arif Satria, Jakar
+ 26/60 OK        ISL8FlkE7nc    48 seg  361s  Keterangan Pers Menteri Pertanian Amran Sulaim
+ 27/60 OK        BFQ1895toq0    43 seg  305s  Keterangan Pers Menteri Energi dan Sumber Daya
+ 28/60 OK        4wiIW24f_Dc    47 seg  360s  Keterangan Pers Menteri Investasi Rosan Roesla
+ 29/60 no_indonesian_track v9sXT_pgx54  Keterangan Pers Duta Besar Pakistan Zahid Hafe
+ 30/60 OK        ibp7WTu6bMc    10 seg  62s  Ketpers Presiden Prabowo Usai Luncurkan Digita
+ 31/60 no_indonesian_track pSFhTXa6H0U  Saksikan Demonstrasi Drone, Presiden Prabowo d
+ 32/60 OK        pK_jxcmfttc    10 seg  97s  Prajurit TNI Bangga Tampil di Hadapan Presiden
+ 33/60 no_indonesian_track flcWq2q2upg  Momen Hangat Anak Anak Sambut Raja Abdullah II
+ 34/60 OK        yr0V2Hwt7-k    51 seg  416s  Pemberian Rehabilitasi oleh Presiden Kepada Du
+ 35/60 no_indonesian_track uLhquviACCY  Gubernur Jenderal Australia Sam Mostyn Sambut 
+ 36/60 no_indonesian_track lDx6rWIQdzM  Pertemuan Presiden Prabowo dan PM Australia An
+ 37/60 OK        4YuXyQQRDm0     5 seg  43s  Keterangan Pers Menteri Ketenagakerjaan Yassie
+ 38/60 OK        df3a1SjQAwg    61 seg  1098s  Upacara Penganugerahan Gelar Pahlawan Nasional
+ 39/60 OK        RR_f73iktkU    59 seg  441s  Keterangan Pers Menteri Investasi dan Hilirisa
+ 40/60 OK        WXTZkBU0Pnk     5 seg  35s  Keterangan Pers Menteri Kelautan dan Perikanan
+ 41/60 OK        GcVYOImQSmk    12 seg  97s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 42/60 OK        _E9m4CvnFq0   110 seg  894s  Keterangan Pers Menteri Kebudayaan Fadli Zon, 
+ 43/60 OK        pNS6T4YIZO4    98 seg  779s  Keterangan Pers Menko Pemberdayaan Masyarakat 
+ 44/60 OK        iby2v23K8Ec    45 seg  351s  Keterangan Pers Ignasius Jonan, Jakarta, 3 Nov
+ 45/60 OK        ZswlTO_0s9U    17 seg  133s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 46/60 no_indonesian_track lmYR55UOja0  Pertemuan Bilateral Presiden Prabowo dengan Pr
+ 47/60 no_indonesian_track 7EQ2IbWcqFk  Presiden Prabowo Hadiri KTT APEC 2025 Retret S
+ 48/60 no_indonesian_track clGy_eIDx2I  Presiden Prabowo Hadiri Jamuan Gala Dinner KTT
+ 49/60 no_indonesian_track UoX35X-yiWs  Pertemuan Bilateral Presiden Prabowo dengan PM
+ 50/60 no_indonesian_track sabJx-dWaFg  Presiden Prabowo Hadiri KTT APEC 2025 di Gyeon
+ 51/60 OK        jK59w_aftoo    43 seg  320s  Keterangan Pers Kepala Badan Gizi Nasional (BG
+ 52/60 OK        nggu14qNxZc    51 seg  440s  Keterangan Pers Menko Perekonomian Airlangga H
+ 53/60 OK        zDmNmv18Yyw    41 seg  323s  Presiden Prabowo: Kekuatan dan Masa Depan Indo
+ 54/60 no_indonesian_track 8dFnXTPIKEY  President Prabowo Attends the 26th ASEAN-Repub
+ 55/60 no_indonesian_track QDKwMZCbvfk  Presiden Prabowo Hadiri KTT ke-28 ASEAN Plus T
+ 56/60 no_indonesian_track CtOLq_s97fI  Presiden Prabowo Hadiri KTT ke-28 ASEAN-Jepang
+ 57/60 no_indonesian_track hrf6N_79n48  Presiden Trump Puji Kepemimpinan Presiden Prab
+ 58/60 no_indonesian_track q5nnN-XQ4ns  Presiden Prabowo Hadiri Sesi Pleno KTT ke-47 A
+ 59/60 no_indonesian_track 0G4EuU8UAVY  Presiden Prabowo Hadiri KTT ke-47 ASEAN, Kuala
+ 60/60 OK        6Zmdg0j4Eek    18 seg  134s  Keterangan Pers Mensesneg dan Kapolri, Jakarta
+
+selesai: 38/60 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                531
+    ok_belum_masuk_arsip    211
+    tanpa_track              75
+    panel_kosong              1
+  SISA BISA DITARIK       : 743
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=743  kena_batas=no  rc=0
+
+--- putaran 5 03:49:39 ---
+daftar kerja : 818 | sudah ok: 212 | batch ini: 60
+  1/60 OK        9veS2HVlJbA    52 seg  389s  Keterangan Pers Seskab setelah Tinjau Sekolah 
+  2/60 OK        MCe-bClNGhU    14 seg  96s  Presiden Prabowo Hadiri Sidang Senat Terbuka d
+  3/60 no_indonesian_track 97XQE7kc-LI  Dialog Presiden Prabowo dengan CEO Forbes pada
+  4/60 OK        JzEQ_M34rHw    29 seg  249s  Seskab Teddy: Indonesia Salah Satu Penentu dan
+  5/60 OK        NEgi4UekwaY    40 seg  310s  Keterangan Pers Mensesneg Prasetyo Hadi, Pangk
+  6/60 no_indonesian_track Q6Dmt9mlPEU  Presiden Prabowo menghadiri KTT Perdamaian Sha
+  7/60 OK        8tm0muSTm6o    96 seg  740s  Keterangan Pers Mensesneg Prasetyo Hadi, Jakar
+  8/60 no_indonesian_track 89tm0XVf3EI  Keterangan Pers Ketua Dewan Komisioner LPS Ang
+  9/60 no_indonesian_track YQF8-IUvWB0  Keterangan Pers Ketua Komite Percepatan Papua 
+ 10/60 no_indonesian_track inCNfGA_u-4  Keterangan Pers Gubernur Papua Matius Fakhiri,
+ 11/60 no_indonesian_track TEstWOU7di0  Presiden Prabowo Terima Juara Dunia MotoGP Mar
+ 12/60 OK        AFYylKSXzrc    16 seg  137s  Warga Sambut Bahagia Kehadiran Rumah Subsidi F
+ 13/60 OK        0KGQ20dO8FA    33 seg  263s  Lawatan Presiden Prabowo 6 Hari 4 Negara, 27 S
+ 14/60 no_indonesian_track pjR5u6NyH4Q  Presiden Prabowo Diterima Raja dan Ratu Beland
+ 15/60 no_indonesian_track BBNDJuthdTA  Presiden Prabowo Hadiri Jamuan Makan Malam Res
+ 16/60 no_indonesian_track JiyO0ZTM-Ng  Pertemuan Bilateral Presiden Prabowo dengan Gu
+ 17/60 no_indonesian_track zFu2_urrpz0  Presiden Prabowo Hadiri Pertemuan Multilateral
+ 18/60 no_indonesian_track nTYRwP1B0_c  Presiden Prabowo Anugerahkan Bintang Jasa Utam
+ 19/60 no_indonesian_track 6y5r6NmrROM  Presiden Prabowo Tegaskan Dukungan Indonesia u
+ 20/60 no_indonesian_track swuH7_9NrC4  Pertemuan Bilateral Presiden Prabowo dengan Se
+ 21/60 no_indonesian_track qvFKVehlswI  Presiden Prabowo Hadiri High-Level UN Conferen
+ 22/60 OK        3O0hZVxtrKo    17 seg  121s  Diaspora Bangga Presiden Prabowo Akan Berpidat
+ 23/60 OK        fIuHF8YaQrs    47 seg  323s  Keterangan Pers Menteri Luar Negeri Sugiono, P
+ 24/60 OK        17n-TC_Lej8    42 seg  298s  Keterangan Pers Dirut Pertamina Simon Aloysius
+ 25/60 OK        wN6oOiIkkeA    74 seg  594s  Keterangan Pers Menteri Sosial Saifullah Yusuf
+ 26/60 OK        Y2K7mrn2DTY    31 seg  241s  Keterangan Pers Menteri Keuangan Purbaya Yudhi
+ 27/60 OK        O9_DI5hcgVQ    54 seg  382s  Keterangan Pers Menteri Sekretaris Negara Pras
+ 28/60 OK        NrvoF7AFP5c    12 seg  56s  Keterangan Pers Menko Perekonomian Airlangga H
+ 29/60 no_indonesian_track lzEqlrvJQKc  Pertemuan Presiden Prabowo dengan Presiden PEA
+ 30/60 no_indonesian_track 818nkGGpZTw  Pertemuan Presiden Prabowo dengan Emir Qatar S
+ 31/60 OK        gjxPyE4icD8    52 seg  412s  Presiden Prabowo Terima Tokoh Gerakan Nurani B
+ 32/60 OK        UhEtUBiFWgw    34 seg  265s  Belajar, Bermimpi dan Didengar Presiden Prabow
+ 33/60 OK        gDWnZ8czb28    38 seg  292s  Keterangan Pers Menteri Keuangan Purbaya Yudhi
+ 34/60 OK        NpZ_Ojw67IQ    51 seg  356s  Keterangan Pers Menteri Keuangan Purbaya Yudhi
+ 35/60 OK        kJW5fZ3UHg8    18 seg  134s  Keterangan Pers Menko Pangan Zulkifli Hasan, J
+ 36/60 no_indonesian_track aSP_oQOcPZA  Presiden Prabowo Hadiri BRICS Leaders Virtual 
+ 37/60 OK        s7LzeP9fMfc    23 seg  183s  Keterangan Pers Menteri Koperasi Ferry Joko Ju
+ 38/60 OK        gAdkPB4qcl0    20 seg  156s  Keterangan Pers Menteri Perlindungan Pekerja M
+ 39/60 OK        sHqZZWfRigg    24 seg  199s  Keterangan Pers Menteri Haji dan Umrah Irfan Y
+ 40/60 OK        NvX-xjSu5qs   115 seg  866s  Keterangan Pers Perwakilan Mahasiswa usai Dial
+ 41/60 OK        wPKd2IIicHQ    69 seg  542s  Keterangan Pers Menko Kumham Impias Yusril Ihz
+ 42/60 OK        n_WJgiyrm_E    27 seg  205s  Keterangan Pers Menko Perekonomian Airlangga H
+ 43/60 no_indonesian_track iZdB6Lh7zHQ  Presiden Prabowo Hadiri Peringatan 80 Tahun Ke
+ 44/60 no_indonesian_track LExIflmodlA  Pertemuan Bilateral Presiden Prabowo dengan Pr
+ 45/60 OK        aefht08o_64    25 seg  218s  Keterangan Pers Mensesneg Prasetyo Hadi, Pangk
+ 46/60 OK        ZrLIQnH-oII    49 seg  373s  Keterangan Pers Perwakilan Serikat Pekerja, Ja
+ 47/60 OK        iZsOQRgX3ms    59 seg  453s  Keterangan Pers Organisasi Pemuda Lintas Iman,
+ 48/60 OK        _a8ygjskbqo    93 seg  729s  Keterangan Pers Para Tokoh Lintas Agama, Jakar
+ 49/60 OK        AgjKrM_aNMM    83 seg  537s  Presiden Prabowo Jenguk Polisi dan Masyarakat 
+ 50/60 OK        ZZofuJHr9SQ    32 seg  242s  Keterangan Pers Ketum Organisasi Masyarakat Is
+ 51/60 no_indonesian_track Jq0bv-uKV9A  Presiden Prabowo Takziah ke Rumah Duka Keluarg
+ 52/60 OK        LJ8yd0uRvwY    32 seg  239s  Pernyataan Presiden Prabowo, 29 Agustus 2025
+ 53/60 OK        kLxuTrdr_7g    14 seg  122s  Presiden Prabowo Resmi Buka APKASI Otonomi Exp
+ 54/60 OK        2QViz6nTLhE    40 seg  301s  Keterangan Pers Mendikdasmen  Abdul Mu'ti, Jak
+ 55/60 OK        q7mEU_EMoK4    35 seg  269s  Keterangan Pers Ketua Dewan Ekonomi Nasional L
+ 56/60 OK        6PZayyDann8    16 seg  121s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 57/60 OK        -qDI0-wNicI    20 seg  163s  Keterangan Pers Menko Bidang Pangan Zulkifli H
+ 58/60 OK        V0EQScIUjWk    14 seg  120s  Keterangan Pers Menteri Pertanian Amran Sulaim
+ 59/60 OK        Q4bplkag0vg    25 seg  153s  Merdeka Run 8.0K Meriahkan HUT ke-80 Kemerdeka
+ 60/60 OK        px1vtrT6jGQ     7 seg  102s  80 Tahun Indonesia Merdeka. Bersatu Berdaulat,
+
+selesai: 40/60 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                471
+    ok_belum_masuk_arsip    251
+    tanpa_track              95
+    panel_kosong              1
+  SISA BISA DITARIK       : 723
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=723  kena_batas=no  rc=0
+
+--- putaran 6 03:53:50 ---
+daftar kerja : 818 | sudah ok: 252 | batch ini: 60
+  1/60 OK        mU9YtIuYsCc    20 seg  184s  Pesta Rakyat di Halaman Istana, Rakyat Menyatu
+  2/60 OK        yQYBWonMjmo    24 seg  207s  Kebanggaan Para Pemeran Serta di Peringatan HU
+  3/60 OK        C-pCMMlg5zk    11 seg  100s  Tim Indonesia Berdaulat Siap Kibarkan Sang Mer
+  4/60 OK        0vfRDrI21gA     9 seg  85s  Saksikan Besok! Rangkaian Acara Peringatan 80 
+  5/60 OK        g6CEA3m8vu8    17 seg  126s  Istana Sambut Semua Masyarakat di Hari Kemerde
+  6/60 no_indonesian_track aIFkZ-EHS2E  Keterangan Pers Ketua Dewan Pengarah BPIP Mega
+  7/60 OK        9YT-4ajKe5M    28 seg  236s  Warga Bersiap Penuhi Undangan Presiden ke Ista
+  8/60 OK        iNTNLzJ5f7U    29 seg  242s  Euforia Masyarakat Sambut Upacara HUT ke-80 Ke
+  9/60 OK        6fEGd6ce6RU    49 seg  403s  Keterangan Pers Mensesneg Prasetyo Hadi, Halam
+ 10/60 no_indonesian_track yomkQzmtkCs  Bilateral Meeting of President Prabowo with Pr
+ 11/60 no_indonesian_track fRRqCMoDleE  Presiden Prabowo Hadiri Parade Hari Nasional, 
+ 12/60 no_indonesian_track 77h5ANR4ae4  Keberangkatan Presiden Prabowo ke Singapura un
+ 13/60 OK        _1N-gA1LTQo    54 seg  434s  Keterangan Pers Menteri Usai Sidang Kabinet Pa
+ 14/60 OK        w42y9ws0jZI    33 seg  225s  Keterangan Pers Menteri Kesehatan Budi Gunadi 
+ 15/60 OK        JyGl5dN1Yzc   314 seg  2392s  Keterangan Pers Menteri Sekretaris Negara Pras
+ 16/60 OK        mT7k94ldWP0    13 seg  135s  Doa Kebangsaan 80 Tahun Indonesia Merdeka, Tug
+ 17/60 OK        5JXzjUR5Z20    37 seg  264s  Keterangan Pers Menteri Pertanian usai Rapat T
+ 18/60 OK        LU-jOd2EKDk    54 seg  432s  Keterangan Pers Menteri Perumahan dan Kawasan 
+ 19/60 OK        sIfscbmA3Og    44 seg  348s  Keterangan Pers Menteri Investasi dan Hilirisa
+ 20/60 OK        Ou6_dtfW91M    21 seg  157s  Keterangan Pers Menteri Pertanian Amran Sulaim
+ 21/60 OK        eW9XzFJ0bgE     9 seg  92s  Presiden Prabowo Melayat Mendiang Kwik Kian Gi
+ 22/60 OK        4Nbha0KAxdU    56 seg  457s  Presiden Prabowo Pimpin Rapat Penyelenggaraan 
+ 23/60 OK        jNd-3Ze4Gh4    46 seg  353s  Presiden Prabowo Terima Pimpinan Partai Keadil
+ 24/60 OK        w1x1fbuzr9Y    81 seg  627s  Keterangan Pers Menteri Luar Negeri Sugiono, I
+ 25/60 OK        Ir7_6-uk1YE    17 seg  144s  Prasetya Perwira TNI dan Polri Tahun 2025
+ 26/60 OK        p5ZieuM4rLM    35 seg  292s  Presiden Prabowo Terima Pimpinan MPR RI, Istan
+ 27/60 no_indonesian_track U4nM3WRspNI  Keterangan Pers Menteri Investasi dan Hilirisa
+ 28/60 OK        MLT3s4VgLts    36 seg  295s  Keterangan Pers Menteri Keuangan Sri Mulyani, 
+ 29/60 OK        NO6w94v3IPw    20 seg  143s  Keterangan Pers Menteri Investasi dan Hilirisa
+ 30/60 OK        5BanUv0j3mc    18 seg  131s  Presiden Prabowo Resmikan Kelembagaan 80.081 K
+ 31/60 no_indonesian_track y-K7n8Ntsgw  Pertemuan Presiden Prabowo dengan Presiden Bel
+ 32/60 OK        9q5UvRmTytg    26 seg  198s  Keterangan Pers Sekretaris Kabinet Teddy Indra
+ 33/60 no_indonesian_track GDT29TR1uqk  Presiden Prabowo Hadiri Jamuan Makan Malam ole
+ 34/60 no_indonesian_track B8-Kbgi--wg  Presiden Prabowo Bertemu Raja Belgia di Istana
+ 35/60 no_indonesian_track ojvdFqwWW_8  Pertemuan Presiden Prabowo dengan Presiden Dew
+ 36/60 no_indonesian_track 8WaeakOd1Mc  Pertemuan Presiden Prabowo dengan Presiden Kom
+ 37/60 OK        AbyIcxc9kfE    16 seg  124s  Keterangan Pers Menteri Perdagangan Budi Santo
+ 38/60 OK        c3rsoK29nn8    29 seg  216s  Keterangan Pers Menko Perekonomian Airlangga H
+ 39/60 OK        rkkpGwS1OGU    29 seg  226s  Keterangan Pers Sekretaris Kabinet dan Wakil M
+ 40/60 no_indonesian_track KVMRSChWijM  Keberangkatan Presiden Prabowo ke Brasilia, Ri
+ 41/60 no_indonesian_track Waaq13rGqWM  Presiden Prabowo Hadiri KTT BRICS Hari ke-2, R
+ 42/60 OK        gZflqY-xhFY   105 seg  828s  Keterangan Pers Menko Perekonomian dan Wakil M
+ 43/60 no_indonesian_track 3274hug3lrM  Presiden Prabowo Hadiri KTT BRICS Brasil, Rio 
+ 44/60 no_indonesian_track EcF3snr1cIU  Presiden Prabowo Melaksanakan Ibadah Umrah, Ma
+ 45/60 no_indonesian_track F4Bz760uM3A  Presiden Prabowo Tinggalkan Arab Saudi untuk L
+ 46/60 OK        LcgyMQSpYDc    19 seg  137s  Upacara Peringatan ke-79 Hari Bhayangkara, Mon
+ 47/60 OK        3xp3UBWoavY    99 seg  794s  Keterangan Pers Mensesneg Prasetyo Hadi, Pangk
+ 48/60 OK        RI4tUWQY_Mk    11 seg  88s  Presiden Prabowo Resmikan Proyek Baterai Terbe
+ 49/60 OK        pIg-UJCExOg    16 seg  126s  Presiden Prabowo Resmikan KEK Sanur dan Bali I
+ 50/60 OK        qSNk0ORsaGk     9 seg  80s  Keterangan Pers Ketua Umum PBNU Yahya Cholil S
+ 51/60 no_indonesian_track oB_JhW-32Dg  Presiden Prabowo Bertemu Presiden Putin di Ist
+ 52/60 no_indonesian_track 5iWJOK9ChQQ  Presiden Prabowo Letakkan Karangan Bunga di Pi
+ 53/60 OK        Kyt7DQMcIT8    69 seg  544s  Keterangan Pers Menteri Luar Negeri Sugiono, S
+ 54/60 OK        cdhw3tkyimk    26 seg  202s  Presiden Prabowo Putuskan Empat Pulau Masuk Wi
+ 55/60 OK        r364Cdy1RQ4    50 seg  398s  Keterangan Pers Menteri Luar Negeri Sugiono, S
+ 56/60 no_indonesian_track g38fuFLqV-k  Presiden Prabowo Hadiri Jamuan Santap Siang Ke
+ 57/60 no_indonesian_track vb0NU9P07Z8  Leaders' Retreat Perdana Presiden Prabowo dan 
+ 58/60 OK        j4c2-MA4_NY    23 seg  173s  Presiden Prabowo Instruksikan Akselerasi Penan
+ 59/60 OK        9rxD7xLWeLo    20 seg  197s  Presiden Prabowo Terima Pemain Timnas Indonesi
+ 60/60 OK        QlBvMg3ixZk    16 seg  127s  Presiden Prabowo Saksikan Kemenangan Timnas at
+
+selesai: 41/60 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                411
+    ok_belum_masuk_arsip    292
+    tanpa_track             114
+    panel_kosong              1
+  SISA BISA DITARIK       : 704
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=704  kena_batas=no  rc=0
+
+--- putaran 7 03:58:07 ---
+daftar kerja : 818 | sudah ok: 293 | batch ini: 60
+  1/60 OK        maSEio7Gb90    21 seg  169s  Keterangan Pers Menteri BUMN Erick Thohir, Jak
+  2/60 OK        WBiIInK_9Ec    30 seg  237s  Keterangan Pers Menteri Kesehatan Budi Gunadi 
+  3/60 OK        C9czK35LCcw    12 seg  109s  Presiden Prabowo Pimpin Upacara Hari Lahir Pan
+  4/60 empty_panel       S90lKlT8FSc  Presiden Prabowo Pimpin Ratas Terkait Stimulus
+  5/60 no_indonesian_track pISQqF34k3E  Presiden Prabowo Terima Utusan Khusus PM Inggr
+  6/60 no_indonesian_track _rLNL-UZqpc  Rangkaian Penyambutan Kenegaraan Presiden Macr
+  7/60 OK        rLK84wJLOsc   135 seg  1524s  Jamuan Makan Malam Kenegaraan Presiden Republi
+  8/60 no_indonesian_track QPd_JpmRWLo  Presiden Prabowo Hadiri KTT ke-2 ASEAN-GCC, Ku
+  9/60 no_indonesian_track GRIV-wrxsEM  Presiden Prabowo Hadiri KTT ke-16 BIMP-EAGA, K
+ 10/60 OK        i3won2ibcnc    53 seg  432s  Keterangan Pers Menteri Luar Negeri Sugiono, K
+ 11/60 no_indonesian_track x2VGj8OnNog  Pertemuan Bilateral Presiden Prabowo dengan PM
+ 12/60 no_indonesian_track 3ec4qGez0FI  Pertemuan Bilateral Presiden Prabowo dengan PM
+ 13/60 no_indonesian_track qTrT15cm-v0  Presiden Prabowo Hadiri KTT ke-46 ASEAN, Kuala
+ 14/60 no_indonesian_track Opeb1Pvz7kc  Antusiasme dari Monas, Pelajar dan Masyarakat 
+ 15/60 OK        iws0C_SlM2E    24 seg  203s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 16/60 OK        oZrsq1nO5R0    49 seg  414s  Program MBG Presiden Prabowo untuk Anak-Anak P
+ 17/60 OK        aGdHmLKqu8E    47 seg  390s  CKG di Rote, Program Presiden Prabowo Sentuh P
+ 18/60 OK        o2vqzTjOCps    15 seg  126s  Keterangan Pers Kepala Badan Pengusahaan Batam
+ 19/60 OK        yS6hEdTfYIs    14 seg  146s  Pameran Tahunan ke-49 Indonesian Petroleum Ass
+ 20/60 OK        0KubAzr6jGE     9 seg  70s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 21/60 OK        yTYdiBn_EaU    30 seg  220s  Keterangan Pers Kepala BPI Danantara Indonesia
+ 22/60 OK        XI-CPpothUs   133 seg  1267s  Indonesia dan Thailand Setujui MoU Kesehatan, 
+ 23/60 OK        128p8-aEs08    17 seg  142s  Keterangan Pers Deputi Bidang Protokol, Pers d
+ 24/60 no_indonesian_track y5fpsogcMQY  Keterangan Pers Dubes RRT Untuk Indonesia Wang
+ 25/60 OK        7OR9kzllLr4    11 seg  83s  Keterangan Pers Wakil Menteri ESDM Yuliot Tanj
+ 26/60 no_indonesian_track fyDfkzY5VFE  Keberangkatan Presiden Prabowo ke Brunei Darus
+ 27/60 OK        zwwliMLufr0    17 seg  168s  Presiden Prabowo Subianto Melayat Almarhum Edd
+ 28/60 OK        R7UKKU5kHfI    16 seg  138s  Presiden Prabowo Panggil Menteri Rosan, Bahas 
+ 29/60 OK        oCI_AhDd3CA    34 seg  272s  Keterangan Pers Menko Pangan Zulkifli Hasan, I
+ 30/60 OK        ymLYizcd1yU    52 seg  428s  Keterangan Pers Menteri Investasi dan Hilirisa
+ 31/60 OK        0NwzCuQvZm8    23 seg  224s  Pertemuan Bilateral Presiden Prabowo dengan Pr
+ 32/60 OK        E6OvXSuerYM    16 seg  130s  Keterangan Pers Menteri Koordinator Bidang Per
+ 33/60 OK        BmLk0e1Kj0U    21 seg  213s  Presiden Prabowo Resmikan Terminal Khusus Haji
+ 34/60 OK        oTmzK6ZHQsk    40 seg  323s  Akhir Pekan, Presiden Prabowo Gelar Rapat deng
+ 35/60 OK        5Qc5RaAu0Qk     8 seg  70s  Presiden Prabowo Hadiri Hari Pendidikan Nasion
+ 36/60 OK        hE4X-pD2ziI    12 seg  113s  Presiden Prabowo Hadiri Peringatan Hari Buruh 
+ 37/60 OK        OKFjUaZGY68    79 seg  636s  Keterangan Pers Menteri Sosial, Menteri Pendid
+ 38/60 OK        cye1nniNT_I    46 seg  360s  Keterangan Pers Ketua MPR Ahmad Muzani, Jakart
+ 39/60 OK        frZVeZZwRzo    33 seg  263s  Keterangan Pers CEO Danantara Rosan Roeslani, 
+ 40/60 OK        YsLQOdhVXwU    26 seg  254s  Presiden Prabowo Hadiri Town Hall Danantara In
+ 41/60 no_indonesian_track YwBTbI8mGgM  Presiden Prabowo Terima Chairman Lotte Group d
+ 42/60 no_indonesian_track 803U51PrWgs  Kedatangan PM Republik Fiji, Sitiveni Rabuka d
+ 43/60 OK        4_iyGWo0X8o    42 seg  345s  Keterangan Pers Menko Pangan dan Mentan, 23 Ap
+ 44/60 OK        KrIOeAE2yZU    74 seg  633s  Presiden Prabowo Tebar Benih Padi Dengan Tekno
+ 45/60 OK        _RAYcUNIfz8    28 seg  321s  Pertemuan Hangat Presiden Prabowo dan Wakil PM
+ 46/60 OK        hW206OKlKU0    12 seg  113s  Ucapan Belasungkawa Presiden Prabowo atas Wafa
+ 47/60 OK        6-PQqhNYwso   126 seg  1025s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+ 48/60 OK        l5YMx5rBhgI    38 seg  306s  Keterangan Pers Menko Perekonomian Airlangga H
+ 49/60 OK        BDfzqX5KuUc     8 seg  77s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+ 50/60 no_indonesian_track EGVuwnKOQLM  Pangeran Ghazi Antar Keberangkatan Presiden Pr
+ 51/60 OK        L0cHNnjQy9M    27 seg  220s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+ 52/60 no_indonesian_track BBeqAKULV5U  Pertemuan Presiden Prabowo dengan Emir Qatar S
+ 53/60 OK        _uezr-fAhnk    13 seg  114s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+ 54/60 OK        Bx59-VmSPvY     9 seg  73s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+ 55/60 no_indonesian_track Czalm_-T57I  Dari Kairo, Presiden El-Sisi Antar Keberangkat
+ 56/60 no_indonesian_track nmd5MEys15o  Pertemuan Presiden Prabowo dengan Presiden El-
+ 57/60 OK        QnBLUESJgUA    17 seg  127s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+ 58/60 no_indonesian_track NcZYbNEXBPM  Dialog Bersama Presiden Prabowo pada Antalya D
+ 59/60 no_indonesian_track ygpLsvWlI1U  Meriahnya Penyambutan Presiden Prabowo oleh Pr
+ 60/60 OK        25L4xNnPRD4    77 seg  622s  Keterangan Pers Menteri Luar Negeri Sugiono, A
+
+selesai: 41/60 berhasil
+progres  : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel-progress.jsonl
+raw      : /Users/mac/.hermes/workspace/prabowo-speech-log/data/panel_raw
+lanjutkan: python3 scripts/status.py
+=== STATUS PENGUMPULAN ===
+  era presiden            : 894 video
+  masuk daftar kerja      : 818
+    menunggu                351
+    ok_belum_masuk_arsip    333
+    tanpa_track             132
+    panel_kosong              2
+  SISA BISA DITARIK       : 686
+  dugaan kena batas       : tidak
+
+  STATUS.md + data/collection-state.json ditulis
+  sisa=686  kena_batas=no  rc=0
+
+--- putaran 8 04:03:11 ---
+daftar kerja : 818 | sudah ok: 334 | batch ini: 60
+  1/60 OK        cHWJyGQ7Cjg    10 seg  83s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+  2/60 OK        eeRCT3YSbps    22 seg  180s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+  3/60 no_indonesian_track nF72J0kX-Y0  President Prabowo's meeting with President Moh
+  4/60 OK        Ap2FXQmw-U4    10 seg  91s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+  5/60 no_indonesian_track yylPZkAZk68  Keberangkatan Presiden Prabowo Menuju Kawasan 
+  6/60 no_indonesian_track TFr_cl0a26Q  Presiden Prabowo Berbelasungkawa atas Wafatnya
+  7/60 OK        wM_JUEFoAqk    14 seg  120s  Presiden Prabowo Ucapkan Selamat Hari Raya Idu
+  8/60 OK        vXMF0Cvl77U    14 seg  116s  Presiden Prabowo Ucapkan Selamat Hari Raya Nye
+  9/60 OK        lhECnV4-H08     7 seg  63s  Keterangan Pers Deputi Bidang Protokol, Pers, 
+ 10/60 OK        R54iL8U2f8g     4 seg  76s  Saat Presiden Prabowo dan Presiden ke-7 RI Jok
+ 11/60 OK        5LxnfqSBo2s    31 seg  251s  Keterangan Pers Menko Perekonomian Airlangga H
+ 12/60 no_indonesian_track sLDpP3xniqE  Keterangan Pers Menteri Luar Negeri Prancis Je
+ 13/60 no_indonesian_track Ce_DH1xHDcg  Presiden Prabowo Saksikan Langsung Indonesia L
+ 14/60 OK        rioHl3ugdjE    12 seg  173s  Presiden Prabowo Sambangi Timnas Indonesia Jel
+ 15/60 OK        HSTEvZz-7ok    16 seg  116s  Kebersamaan dan Kepedulian, Ribuan Paket Semba
+ 16/60 OK        u24BNhoLsHc     8 seg  74s  Presiden Prabowo Terima Ustaz Adi Hidayat, Kan
+ 17/60 OK        vPjYlyKzMqg    36 seg  280s  Keterangan Pers Menko Infrastruktur dan Pemban
+ 18/60 OK        NZmP3r7rXpg    16 seg  126s  Presiden Prabowo Resmikan KEK Industropolis Ba
+ 19/60 OK        FlgrOf957NU    13 seg  111s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 20/60 OK        hhuPcwaFNPw    97 seg  785s  Keterangan Pers Menteri Perumahan dan Kawasan 
+ 21/60 OK        6K2mGcxxx-o    68 seg  541s  Keterangan Pers Menko Perekonomian Airlangga H
+ 22/60 no_indonesian_track 1Z653IT0zpU  Presiden Prabowo Terima Utusan Khusus Presiden
+ 23/60 OK        giLYRuGcrVU    11 seg  91s  Minggu Siang, Presiden Prabowo Panggil Sejumla
+ 24/60 OK        3zHuvfAjNts    19 seg  154s  Keterangan Pers Menteri Investasi dan Hilirisa
+ 25/60 OK        W96jQ_qR3tA    68 seg  554s  Keterangan Pers Mendikti Saintek Brian Yuliart
+ 26/60 OK        oxPlIL63hNk    69 seg  561s  Keterangan Pers Menko Bidang Infrastruktur dan
+ 27/60 OK        vSH8L1zIhe4    60 seg  476s  Keterangan Pers Wakil Menteri Pertanian Sudary
+ 28/60 OK        zOGqCMud3vs    57 seg  476s  Presiden Prabowo Terima Pandawara Group, Istan
+ 29/60 OK        t54m11OSrZY    57 seg  458s  Keterangan Pers Menteri Investasi dan Hilirisa
+ 30/60 OK        WTe2KAb2sgg    20 seg  160s  Presiden Prabowo Pimpin Ratas Terkait Percepat
+ 31/60 OK        r4uz3mLx3HM    66 seg  540s  Presiden Prabowo Pimpin Ratas Rencana Penyelen
+ 32/60 OK        _uwmjM4iQ-s    35 seg  291s  Keterangan Pers Menteri Ketenagakerjaan Yassie
+ 33/60 OK        BGW_jtM4tUQ    14 seg  110s  Keterangan Pers Ketua Kamar Dagang dan Industr
+ 34/60 OK        pqsB1MMlDDE    33 seg  271s  Keterangan Pers Menteri Investasi dan Hilirisa
+ 35/60 no_indonesian_track vZRGsv-9ihc  Pengantar Presiden RI pada Pertemuan dengan In
+ 36/60 OK        SA6JMtcehXE   113 seg  900s  Ket Pers Menteri Koperasi dan Mendagri Terkait
+ 37/60 no_indonesian_track a_Q-KzbGJGM  Presiden Prabowo Terima 8 Pengusaha Besar, Bah
+ 38/60 OK        2xqQwUnD9oo    61 seg  528s  Ket Pers Pimpinan Badan Pengelola Investasi Na
+ 39/60 OK        AdrrNAGmKS8    50 seg  401s  Keterangan Pers Menteri Sosial Saifullah Yusuf
+ 40/60 OK        PCiGVP1ULGQ    29 seg  250s  Presiden Prabowo Pimpin Ratas dan Berikan Takl
+ 41/60 OK        haTINB1bIZY    37 seg  297s  Keterangan Pers Menteri ESDM Bahlil Lahadalia,
+ 42/60 OK        sIZK7CTHW7I    29 seg  230s  Keterangan Pers Menteri Investasi dan Hilirisa
+ 43/60 OK        46rAakxMqlc    26 seg  209s  Keterangan Pers Menko Bidang Pangan, Menteri K
+ 44/60 OK        6MEuZdbbA5I    11 seg  100s  Presiden Prabowo Pimpin Upacara Parade Senja, 
+ 45/60 OK        vCe2xfbJrEw    44 seg  348s  Keterangan Pers Menteri Koperasi Budi Arie Set
+ 46/60 OK        hB0LQfqr8MA    73 seg  595s  Keterangan Pers Kepala Badan Gizi Nasional Dad
+ 47/60 OK        WE7q-v42XUg   132 seg  1130s  Keterangan Pers Rosan Roeslani Terkait Dananta

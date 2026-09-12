@@ -1,0 +1,66 @@
+{
+ "id": "5Qc5RaAu0Qk",
+ "url": "https://www.youtube.com/watch?v=5Qc5RaAu0Qk",
+ "title": "Presiden Prabowo Hadiri Hari Pendidikan Nasional 2025 dan Luncurkan PHTC Presiden, Bogor, 2 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "raw_snippets": [
+  {
+   "text": "Kita mengerti semuanya bahwa pendidikan adalah jalan yang sangat menentukan bagi kebangkitan suatu bangsa dan negara.",
+   "start": 5.0,
+   "duration": 12
+  },
+  {
+   "text": "[Musik]",
+   "start": 17.0,
+   "duration": 3
+  },
+  {
+   "text": "Kita akan buktikan ke dunia bahwa kita mampu melaksanakan hal-hal yang besar, hal-hal yang mendasar, hal-hal yang",
+   "start": 20.0,
+   "duration": 8
+  },
+  {
+   "text": "strategis, hal-hal yang bisa merubah nasib suatu bangsa.",
+   "start": 28.0,
+   "duration": 4
+  },
+  {
+   "text": "[Musik]",
+   "start": 32.0,
+   "duration": 16
+  },
+  {
+   "text": "semuanya kerja sama, semuanya bekerja untuk masa depan kita. Semuanya bekerja untuk anak-anak dan cucu-cu kita. Itu",
+   "start": 48.0,
+   "duration": 9
+  },
+  {
+   "text": "negara kita akan bangkit dan harus bangkit dan akan bangkit.",
+   "start": 57.0,
+   "duration": 5
+  },
+  {
+   "text": "[Musik]",
+   "start": 62.0,
+   "duration": 3
+  }
+ ]
+}

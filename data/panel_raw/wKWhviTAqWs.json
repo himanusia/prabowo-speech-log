@@ -1,0 +1,61 @@
+{
+ "id": "wKWhviTAqWs",
+ "url": "https://www.youtube.com/watch?v=wKWhviTAqWs",
+ "title": "Keterangan Pers Mendiktisaintek Brian Yuliarto, Jakarta, 28 November 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "raw_snippets": [
+  {
+   "text": "ee penyiapan SDM ya, terutama bagaimana ee para",
+   "start": 0.0,
+   "duration": 7
+  },
+  {
+   "text": "calon apa ya, calon SDM yang dari kampus itu mulai dilatih, Pak Presiden meminta",
+   "start": 7.0,
+   "duration": 8
+  },
+  {
+   "text": "sebelum lulus barangkali itu juga sudah bisa dilatih ke beberapa ee hal yang memang diperlukan oleh",
+   "start": 15.0,
+   "duration": 7
+  },
+  {
+   "text": "bangsa ini ya kan. Eeah sekarang kita ada beberapa hal ee apakah itu apa sektor pertanian, sektor industri.",
+   "start": 22.0,
+   "duration": 10
+  },
+  {
+   "text": "Nah, jadi ee para SDM ini sebelum apa sebelum lulus ee",
+   "start": 32.0,
+   "duration": 9
+  },
+  {
+   "text": "para mahasiswa di tingkat akhir itu sebisa mungkin sudah dilibatkan pada berbagai ee projek ya ee nasional yang",
+   "start": 41.0,
+   "duration": 9
+  },
+  {
+   "text": "terkait dengan ee Asta Cita, proyek-proyek lainnya sehingga diharapkan mereka nantinya siap ketika lulus. Begitu. Itu aja ya. Makasih.",
+   "start": 50.0,
+   "duration": 3
+  }
+ ]
+}

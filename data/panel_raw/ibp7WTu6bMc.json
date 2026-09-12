@@ -1,0 +1,76 @@
+{
+ "id": "ibp7WTu6bMc",
+ "url": "https://www.youtube.com/watch?v=ibp7WTu6bMc",
+ "title": "Ketpers Presiden Prabowo Usai Luncurkan Digitalisasi Pembelajaran untuk Indonesia Cerdas",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "Ada yang mau jangan di sini, Pak.",
+   "start": 0.0,
+   "duration": 3
+  },
+  {
+   "text": "Ya, alhamdulillah eh program ini ee bisa dimulai dengan cepat.",
+   "start": 3.0,
+   "duration": 14
+  },
+  {
+   "text": "[musik]",
+   "start": 17.0,
+   "duration": 1
+  },
+  {
+   "text": "Kurang 1 tahun semua sekolah sudah menerima, tahun depan terus kita tambah.",
+   "start": 18.0,
+   "duration": 8
+  },
+  {
+   "text": "kualitas pendidikan kita harus kita perbaiki harus kita perbaiki.",
+   "start": 26.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita akan bikin ee ratusan sekolah baru, ribuan sekolah terintegrasi perbaiki semua pendidikan perbaiki ya.",
+   "start": 32.0,
+   "duration": 11
+  },
+  {
+   "text": "Terima kasih, Pak. Banyaknya kasus bullying Pak.",
+   "start": 43.0,
+   "duration": 2
+  },
+  {
+   "text": "Banyaknya kasus bullying Pak. Kasus bully banyak kasus bully Pak.",
+   "start": 45.0,
+   "duration": 4
+  },
+  {
+   "text": "Banyak kasus bully terbaru ada di Tangsel pembulian.",
+   "start": 49.0,
+   "duration": 3
+  },
+  {
+   "text": "Iya. Itu harus kita atasi ya. Oke, terima kasih ya, Bapak.",
+   "start": 52.0,
+   "duration": 3
+  }
+ ]
+}

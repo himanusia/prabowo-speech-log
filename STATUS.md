@@ -1,23 +1,24 @@
 # Status pengumpulan
 
-Diperbarui: 2026-09-13T03:31:30+07:00
+Diperbarui: 2026-09-13T04:02:50+07:00
 
 ## Ringkasan
 
 | Keadaan | Jumlah |
 |---|---:|
-| ok_belum_masuk_arsip | 31 |
-| menunggu | 771 |
-| tanpa_track | 16 |
+| ok_belum_masuk_arsip | 333 |
+| menunggu | 351 |
+| panel_kosong | 2 |
+| tanpa_track | 132 |
 
-**Sisa yang masih bisa ditarik: 802** dari 818 video era presiden.
+**Sisa yang masih bisa ditarik: 686** dari 818 video era presiden.
 
 ## Per jenis
 
 | Jenis | Total | Sudah | Sisa |
 |---|---:|---:|---:|
-| ambigu | 555 | 0 | 555 |
-| keterangan_pers | 50 | 24 | 26 |
+| ambigu | 555 | 280 | 275 |
+| keterangan_pers | 50 | 46 | 4 |
 | kunjungan | 194 | 0 | 194 |
 | pidato | 19 | 7 | 12 |
 
@@ -59,67 +60,67 @@ Diperbarui: 2026-09-13T03:31:30+07:00
 - `A` 2025-06-05 `qfj5NiwiZLc` Keterangan Pers Presiden Prabowo, Bengkayang, 5 Juni 2025
 - `A` 2025-05-21 `BQA3S0SlZLY` Keterangan Pers Presiden Prabowo usai Resmikan Pembukaan IPA ke 49, Tangerang,
 - `A` 2025-05-04 `O0hiVqHtkRw` Keterangan Pers Presiden Prabowo, Bandara Internasional Soekarno-Hatta, 4 Mei 
-- `·` ?? `GXI54W2zw6E` Press Statement by President Prabowo After Launching the Indonesia Plants Move
-- `·` 2025-04-14 `TSGyrSE6pmg` Keterangan Pers Presiden Prabowo Usai Bertemu dengan Raja Abdullah II, Amman, 
-- `·` 2025-04-13 `hwW0lHNBJkU` Keterangan Pers Presiden Prabowo Usai Bertemu dengan Emir Qatar, Doha, 13 Apri
-- `·` 2025-04-11 `riUzV50He6k` Keterangan Pers Presiden Prabowo Usai Hadiri Antalya Diplomacy Forum, Turkiye,
-- `·` 2025-04-11 `guyB_xYGSUk` Keterangan Pers Presiden Prabowo Sebelum Bertolak Menuju Antalya, Ankara, 11 A
-- `·` 2025-04-09 `96XOSdQ2Avk` Keterangan Pers Presiden Prabowo Usai Bertemu dengan Presiden MBZ, Abu Dhabi, 
-- `·` ?? `9lhVB31qLEc` President Prabowo's Press Statement After Inaugurating the Batang Industropoli
-- `·` ?? `3p-Lz93cQQg` Press Statement by President Prabowo After Inaugurating the Precious Metal Ref
-- `·` 2025-03-10 `0ek5-SPrSfo` Keterangan Pers Presiden Prabowo Terkait Bonus Hari Raya kepada Pengemudi Onli
-- `·` ?? `vLWjgNiYoDE` Press Statement by President Prabowo After Opening the XVIII Muslimat NU Congr
-- `·` 2025-02-05 `vY3Cr_GNn04` Keterangan Pers Presiden Prabowo Usai Hadiri Harlah ke-102 Nahdlatul Ulama, Ja
-- `·` 2025-02-04 `Bi4aY-P5ljI` Keterangan Pers Wakil Ketua DPR Sufmi Dasco Ahmad Sebelum Bertemu Presiden Pra
-- `·` ?? `GP1U9lau9hU` Press Statement by President Prabowo After Inaugurating Strategic Electricity 
-- `·` 2024-12-31 `Oke0Yxbixks` Keterangan Pers Presiden Prabowo: Tarif PPN 12% Hanya Barang & Jasa Mewah, Jak
-- `·` 2024-00-00? `FKWsP6NoNKY` Press Statement by President Prabowo Subianto, Cairo, December 18, 2024
-- `·` ?? `CPGEPGic-8A` President Prabowo's Press Statement after the Inauguration of the Friendship T
+- `A` ?? `GXI54W2zw6E` Press Statement by President Prabowo After Launching the Indonesia Plants Move
+- `A` 2025-04-14 `TSGyrSE6pmg` Keterangan Pers Presiden Prabowo Usai Bertemu dengan Raja Abdullah II, Amman, 
+- `A` 2025-04-13 `hwW0lHNBJkU` Keterangan Pers Presiden Prabowo Usai Bertemu dengan Emir Qatar, Doha, 13 Apri
+- `A` 2025-04-11 `riUzV50He6k` Keterangan Pers Presiden Prabowo Usai Hadiri Antalya Diplomacy Forum, Turkiye,
+- `A` 2025-04-11 `guyB_xYGSUk` Keterangan Pers Presiden Prabowo Sebelum Bertolak Menuju Antalya, Ankara, 11 A
+- `A` 2025-04-09 `96XOSdQ2Avk` Keterangan Pers Presiden Prabowo Usai Bertemu dengan Presiden MBZ, Abu Dhabi, 
+- `A` ?? `9lhVB31qLEc` President Prabowo's Press Statement After Inaugurating the Batang Industropoli
+- `A` ?? `3p-Lz93cQQg` Press Statement by President Prabowo After Inaugurating the Precious Metal Ref
+- `A` 2025-03-10 `0ek5-SPrSfo` Keterangan Pers Presiden Prabowo Terkait Bonus Hari Raya kepada Pengemudi Onli
+- `A` ?? `vLWjgNiYoDE` Press Statement by President Prabowo After Opening the XVIII Muslimat NU Congr
+- `A` 2025-02-05 `vY3Cr_GNn04` Keterangan Pers Presiden Prabowo Usai Hadiri Harlah ke-102 Nahdlatul Ulama, Ja
+- `A` 2025-02-04 `Bi4aY-P5ljI` Keterangan Pers Wakil Ketua DPR Sufmi Dasco Ahmad Sebelum Bertemu Presiden Pra
+- `A` ?? `GP1U9lau9hU` Press Statement by President Prabowo After Inaugurating Strategic Electricity 
+- `A` 2024-12-31 `Oke0Yxbixks` Keterangan Pers Presiden Prabowo: Tarif PPN 12% Hanya Barang & Jasa Mewah, Jak
+- `A` 2024-00-00? `FKWsP6NoNKY` Press Statement by President Prabowo Subianto, Cairo, December 18, 2024
+- `A` ?? `CPGEPGic-8A` President Prabowo's Press Statement after the Inauguration of the Friendship T
 - … dan 6 lagi (lihat data/collection-state.json)
 
-### ambigu — 555 video
+### ambigu — 439 video
 
-- `·` 2026-00-00? `F70FUJv9Rx0` President Prabowo's Statement at the BRICS Summit Restricted Session in India,
-- `·` ?? `OBpFpAEfjAg` INDONESIA WINS!!! The Indonesian Contingent Heads to the 20th Asian Games in A
-- `·` ?? `5vOHC50PErE` [HIGHLIGHT] President Prabowo Becomes Main Guest of Honor at the 11th EEF at P
-- `·` 2026-00-00? `Ewi73wny_qA` Bilateral Meeting between President Prabowo and President Putin, Vladivostok, 
-- `·` 2026-00-00? `rvojUOnKVXU` Running Together with Spirit in the 2026 Independence Run, August 29, 2026
-- `·` 2026-00-00? `EAWTKlagU4M` President Prabowo Receives Panglima Jilah, Merdeka Palace, August 28, 2026
-- `·` 2026-00-00? `eFlAfs6YKHg` President Prabowo Receives President of Timor-Leste and Several Nobel Laureate
-- `·` 2026-08-26 `6wP_ckneI2o` Presiden Prabowo di Tengah Pengungsi Nagekeo: Menyapa, Mendengar, dan Menguatk
-- `·` ?? `t6IsYONtH0Y` President Prabowo Oversees Natural Disaster Relief Efforts Following Earthquak
-- `·` 2026-08-24 `BOw2keguqKY` President Prabowo Orders Rapid Response, Aid Sent Again to NTT and Kalimantan,
-- `·` 2026-08-22 `Qi02c6m9fFI` Presiden Prabowo Terbang ke Kalimantan, Pimpin Langsung Penanganan Karhutla, 2
-- `·` ?? `iAYdQFAzpCo` Merah Putih Satukan Ratusan Ribu Warga dalam Semarak Kemerdekaan
-- `·` 2026-00-00? `kKcxPvGjzGM` 65 Tons of Additional Logistics Shipped, Bringing Total to 253 Tons in NTT, Au
-- `·` 2026-00-00? `3_G2ExSPIJE` The Pride of Participants in the 81st Indonesian Independence Day Commemoratio
-- `·` ?? `Ka3kgJJb0Bk` The Warmth of the People's Feast at the Palace: Celebrating Independence with 
-- `·` ?? `5mCry8WTE4Q` “Indonesia Berdaulat” Paskibraka Team Ready to Carry Out the Duty of Hoisting 
-- `·` ?? `v8cbMDP-fBg` Watch! 81st Independence Day Anniversary Celebration of the Republic of Indone
-- `·` 2026-00-00? `gxzLqk-Q6hM` Citizen Enthusiasm Ahead of the 81st Indonesian Independence Day, Jakarta, Aug
-- `·` 2026-08-15 `fk14ICzlzEs` Aksi Cepat Arahan Bapak Presiden untuk Penanganan Gempa Flores, 15 Agustus 202
-- `·` ?? `YfThNWTDsX0` Independence Day Celebration for Everyone
-- `·` 2026-08-03 `oxNjh6fAs0E` Presiden Prabowo Terima Pimpinan MPR RI, Jakarta, 3 Agustus 2026
-- `·` ?? `qV8_My__qJM` Interfaith Prayer Strengthens the Spirit of Unity Ahead of Indonesia's 81st In
-- `·` ?? `mtHXIANYu3s` Meeting Between the President of the Republic of Indonesia and KADIN Entrepren
-- `·` ?? `qQOz36NOUoc` Revitalization of Semarang Tawang Station and Mass Signing for 62,000 Subsidiz
-- `·` ?? `1FTHuRLmJzs` The Palace for School Students: SMAN 55 Jakarta
-- `·` 2026-00-00? `p3oqLCWgipM` President Prabowo Inaugurates 1,177 Young TNI-Polri Officers, Merdeka Palace, 
-- `·` ?? `QR1wAxIQoL8` The Palace for School Kids: SMPN 15 Jakarta & SMAN 46 Jakarta
-- `·` ?? `eCOPt2WI6es` Students with Disabilities Realize Their Dream of Visiting the Presidential Pa
-- `·` ?? `0eAM4UI45rE` Presiden Prabowo Sampaikan Belasungkawa atas Wafatnya Sheikh Hamad bin Khalifa
-- `·` ?? `W-aZQ9PzKos` Press Conference with Coordinating Minister for Economic Affairs Airlangga Har
-- `·` 2026-00-00? `XI09xqDqTsk` Residents Enthusiastically Welcome the Inauguration of Meninting Dam, West Lom
-- `·` 2026-00-00? `077vmLENDfY` President Prabowo Inaugurates 5 Dams in Indonesia, West Lombok, July 10, 2026
-- `·` ?? `LHbVHK3X4K8` President Prabowo Awards the Star of the Republic of Indonesia Adipurna to PM 
-- `·` 2026-00-00? `MIoNztA-UOM` Government Launches 2026 National Internship Program (PMN) Second Cohort, June
-- `·` 2026-00-00? `aWMKFjJHQR8` President Prabowo Donates Marching Band Equipment to SDN Tegallega, Sukabumi R
-- `·` ?? `IMT06KAREq4` The Presidential Palace for Students: Qurrotu Nafsin Islamic Boarding School
-- `·` 2026-00-00? `brynzY_CnxA` Announcement of the 81st Indonesian Independence Day Logo Poll, June 24, 2026
-- `·` ?? `V0GgaMVmSz0` President Prabowo Inaugurates 1,151 KM of Regional Roads, Residents Feel Great
-- `·` 2026-00-00? `8tXHCJl4Vvs` President Prabowo Attends the Closing of the 2026 NU National Conference, Bang
-- `·` 2026-00-00? `nMX_7sjNEHI` Press Statement by President Director of PT. PLN (Persero) Darmawan Prasodjo, 
-- … dan 515 lagi (lihat data/collection-state.json)
+- `A` ?? `OBpFpAEfjAg` INDONESIA WINS!!! The Indonesian Contingent Heads to the 20th Asian Games in A
+- `A` 2026-00-00? `Ewi73wny_qA` Bilateral Meeting between President Prabowo and President Putin, Vladivostok, 
+- `A` 2026-00-00? `rvojUOnKVXU` Running Together with Spirit in the 2026 Independence Run, August 29, 2026
+- `A` 2026-00-00? `EAWTKlagU4M` President Prabowo Receives Panglima Jilah, Merdeka Palace, August 28, 2026
+- `A` 2026-08-26 `6wP_ckneI2o` Presiden Prabowo di Tengah Pengungsi Nagekeo: Menyapa, Mendengar, dan Menguatk
+- `A` 2026-08-24 `BOw2keguqKY` President Prabowo Orders Rapid Response, Aid Sent Again to NTT and Kalimantan,
+- `A` 2026-00-00? `kKcxPvGjzGM` 65 Tons of Additional Logistics Shipped, Bringing Total to 253 Tons in NTT, Au
+- `A` 2026-00-00? `3_G2ExSPIJE` The Pride of Participants in the 81st Indonesian Independence Day Commemoratio
+- `A` ?? `Ka3kgJJb0Bk` The Warmth of the People's Feast at the Palace: Celebrating Independence with 
+- `A` ?? `5mCry8WTE4Q` “Indonesia Berdaulat” Paskibraka Team Ready to Carry Out the Duty of Hoisting 
+- `A` 2026-00-00? `gxzLqk-Q6hM` Citizen Enthusiasm Ahead of the 81st Indonesian Independence Day, Jakarta, Aug
+- `A` ?? `YfThNWTDsX0` Independence Day Celebration for Everyone
+- `K` 2026-08-03 `oxNjh6fAs0E` Presiden Prabowo Terima Pimpinan MPR RI, Jakarta, 3 Agustus 2026
+- `A` ?? `qV8_My__qJM` Interfaith Prayer Strengthens the Spirit of Unity Ahead of Indonesia's 81st In
+- `A` ?? `mtHXIANYu3s` Meeting Between the President of the Republic of Indonesia and KADIN Entrepren
+- `A` ?? `qQOz36NOUoc` Revitalization of Semarang Tawang Station and Mass Signing for 62,000 Subsidiz
+- `A` ?? `1FTHuRLmJzs` The Palace for School Students: SMAN 55 Jakarta
+- `A` 2026-00-00? `p3oqLCWgipM` President Prabowo Inaugurates 1,177 Young TNI-Polri Officers, Merdeka Palace, 
+- `A` ?? `QR1wAxIQoL8` The Palace for School Kids: SMPN 15 Jakarta & SMAN 46 Jakarta
+- `A` ?? `eCOPt2WI6es` Students with Disabilities Realize Their Dream of Visiting the Presidential Pa
+- `A` ?? `W-aZQ9PzKos` Press Conference with Coordinating Minister for Economic Affairs Airlangga Har
+- `A` 2026-00-00? `XI09xqDqTsk` Residents Enthusiastically Welcome the Inauguration of Meninting Dam, West Lom
+- `A` 2026-00-00? `077vmLENDfY` President Prabowo Inaugurates 5 Dams in Indonesia, West Lombok, July 10, 2026
+- `A` ?? `LHbVHK3X4K8` President Prabowo Awards the Star of the Republic of Indonesia Adipurna to PM 
+- `A` 2026-00-00? `MIoNztA-UOM` Government Launches 2026 National Internship Program (PMN) Second Cohort, June
+- `A` 2026-00-00? `aWMKFjJHQR8` President Prabowo Donates Marching Band Equipment to SDN Tegallega, Sukabumi R
+- `A` ?? `IMT06KAREq4` The Presidential Palace for Students: Qurrotu Nafsin Islamic Boarding School
+- `A` 2026-00-00? `brynzY_CnxA` Announcement of the 81st Indonesian Independence Day Logo Poll, June 24, 2026
+- `A` ?? `V0GgaMVmSz0` President Prabowo Inaugurates 1,151 KM of Regional Roads, Residents Feel Great
+- `A` 2026-00-00? `8tXHCJl4Vvs` President Prabowo Attends the Closing of the 2026 NU National Conference, Bang
+- `A` 2026-00-00? `nMX_7sjNEHI` Press Statement by President Director of PT. PLN (Persero) Darmawan Prasodjo, 
+- `A` 2026-00-00? `5IAhNki57ds` Press Statement from the Minister of Primary and Secondary Education, Merdeka 
+- `A` ?? `2i10txapRYU` Press Statement by the 10th and 12th Vice President of the Republic of Indones
+- `A` 2026-00-00? `iN2YUUEyr6k` Parents' Hopes for Their Children's Future at SRMP 17 Tabanan, Bali, June 7, 2
+- `A` 2026-00-00? `iZf3T1ntC3I` From a Classroom at SMPN 111 Jakarta, Big Dreams Reverberate Before President 
+- `A` ?? `vQPblz56CpM` Indonesian Diaspora Experiences the Warmth of Eid al-Adha with President Prabo
+- `A` ?? `Gl9We_PwpSg` President Prabowo Performs Eid al-Adha Prayer 1447 Hijriah with the Indonesian
+- `A` 2026-00-00? `ozsnenS1PW4` Moved and Proud: Diaspora Welcomes President Prabowo in Paris, May 26, 2026
+- `A` ?? `W46cPCjedXA` President Prabowo Inaugurates the Renovation of the Seskoad Museum and Library
+- `A` ?? `s1cM9185FmQ` President Prabowo Leads Grand Shrimp Harvest at the Regional-Based Shrimp Farm
+- … dan 399 lagi (lihat data/collection-state.json)
 
 ### kunjungan — 194 video
 

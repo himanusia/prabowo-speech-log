@@ -1,0 +1,51 @@
+{
+ "id": "WXTZkBU0Pnk",
+ "url": "https://www.youtube.com/watch?v=WXTZkBU0Pnk",
+ "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 6 November 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "raw_snippets": [
+  {
+   "text": "tadi penugasan baru dari Presiden, Pak. Khususnya di KKP apa, Pak?",
+   "start": 0.0,
+   "duration": 3
+  },
+  {
+   "text": "Eh, pembangunan budidaya di darat itu juga salah satu yang di e minta oleh beliau untuk di 500 kabupaten.",
+   "start": 3.0,
+   "duration": 13
+  },
+  {
+   "text": "Budidaya apa itu? Budidaya perikanan.",
+   "start": 16.0,
+   "duration": 2
+  },
+  {
+   "text": "Targetnya itu sampai kapan itu Pak? Di 500 kabupaten 2026 ya baru selesai. Tapi tahun ini dimulai kita ada 100 titik yang akan",
+   "start": 18.0,
+   "duration": 10
+  },
+  {
+   "text": "kita bangun. Pak kalau dari Menkop",
+   "start": 28.0,
+   "duration": 3
+  }
+ ]
+}

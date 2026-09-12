@@ -1,0 +1,61 @@
+{
+ "id": "px1vtrT6jGQ",
+ "url": "https://www.youtube.com/watch?v=px1vtrT6jGQ",
+ "title": "80 Tahun Indonesia Merdeka. Bersatu Berdaulat, Rakyat Sejahtera, Indonesia Maju",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "raw_snippets": [
+  {
+   "text": "[Musik]",
+   "start": 0.0,
+   "duration": 28
+  },
+  {
+   "text": "[Musik]",
+   "start": 28.0,
+   "duration": 5
+  },
+  {
+   "text": "80 tahun sudah para pendiri bangsa Indonesia mendeklarasikan kemerdekaan Indonesia.",
+   "start": 33.0,
+   "duration": 10
+  },
+  {
+   "text": "Proklamasi tanggal 17 Agustus 1945 adalah momen penting dalam perjuangan panjang bangsa ini untuk berdiri di atas kaki kita sendiri.",
+   "start": 43.0,
+   "duration": 11
+  },
+  {
+   "text": "[Musik]",
+   "start": 54.0,
+   "duration": 15
+  },
+  {
+   "text": "Tujuan kita merdeka adalah untuk merdeka dari kemiskinan, untuk merdeka dari kelaparan, merdeka dari penderitaan.",
+   "start": 69.0,
+   "duration": 12
+  },
+  {
+   "text": "Negara kita harus berdaulat secara ekonomi dan mampu memenuhi kebutuhan pangan kita sendiri.",
+   "start": 81.0,
+   "duration": 3
+  }
+ ]
+}

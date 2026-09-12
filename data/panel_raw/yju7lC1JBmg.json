@@ -1,0 +1,91 @@
+{
+ "id": "yju7lC1JBmg",
+ "url": "https://www.youtube.com/watch?v=yju7lC1JBmg",
+ "title": "Presiden Prabowo Ucapkan Selamat Idulfitri 1 Syawal 1447 Hijriah, 20 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "raw_snippets": [
+  {
+   "text": "Bismillahirrahmanirrahim.",
+   "start": 0.0,
+   "duration": 3
+  },
+  {
+   "text": "Asalamualaikum warahmatullahi wabarakatuh.",
+   "start": 3.0,
+   "duration": 4
+  },
+  {
+   "text": "Saudara saudara sebangsa dan setanah air di mana pun engkau berada.",
+   "start": 7.0,
+   "duration": 6
+  },
+  {
+   "text": "Alhamdulillahiabbil alamin. Segala puji bagi Allah Subhanahu wa taala yang telah mempertemukan kita semua dengan hari kemenangan.",
+   "start": 13.0,
+   "duration": 11
+  },
+  {
+   "text": "Saya Prabowo Subianto, Presiden Republik Indonesia, atas nama pribadi, keluarga, dan atas nama Pemerintah Republik Indonesia",
+   "start": 24.0,
+   "duration": 9
+  },
+  {
+   "text": "mengucapkan selamat hari raya Idul Fitri 1447 Hijriah. Mohon maaf lahir batin. Mari",
+   "start": 33.0,
+   "duration": 9
+  },
+  {
+   "text": "kita manfaatkan momen Idul Fitri ini untuk saling memaafkan, mempererat silatmi, dan memperkuat persatuan",
+   "start": 42.0,
+   "duration": 9
+  },
+  {
+   "text": "sebagai satu bangsa di tengah berbagai pantangan yang kita hadapi. Marilah kita",
+   "start": 51.0,
+   "duration": 6
+  },
+  {
+   "text": "terus perkuat kebersamaan kita sebagai satu keluarga besar bangsa Indonesia.",
+   "start": 57.0,
+   "duration": 8
+  },
+  {
+   "text": "Mari kita bekerja lebih keras, saling membantu dan bersama-sama membangun Indonesia yang lebih adil, lebih",
+   "start": 65.0,
+   "duration": 9
+  },
+  {
+   "text": "sejahtera, lebih kuat. Semoga Allah Subhanahu wa taala menerima amal ibadah",
+   "start": 74.0,
+   "duration": 7
+  },
+  {
+   "text": "kita sekalian dan senantiasa melimpahkan rahmat serta berkahnya kepada bangsa",
+   "start": 81.0,
+   "duration": 8
+  },
+  {
+   "text": "Indonesia. Wasalamualaikum warahmatullahi wabarakatuh.",
+   "start": 89.0,
+   "duration": 3
+  }
+ ]
+}

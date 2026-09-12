@@ -1,0 +1,46 @@
+{
+ "id": "R54iL8U2f8g",
+ "url": "https://www.youtube.com/watch?v=R54iL8U2f8g",
+ "title": "Saat Presiden Prabowo dan Presiden ke-7 RI Joko Widodo Berbuka Puasa Bersama, 26 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 4,
+ "raw_snippets": [
+  {
+   "text": "sore SEG Bang SEG B",
+   "start": 14.0,
+   "duration": 26
+  },
+  {
+   "text": "suasana at waktu saya masuk ke suasananya langsung",
+   "start": 40.0,
+   "duration": 15
+  },
+  {
+   "text": "kelihatan I Pak Terima kasih Pak Terima kasih terimaasih terimaasihimaasih",
+   "start": 55.0,
+   "duration": 11
+  },
+  {
+   "text": "Selamat malam Sei terima kasih",
+   "start": 66.0,
+   "duration": 3
+  }
+ ]
+}

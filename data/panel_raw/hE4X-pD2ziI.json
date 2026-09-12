@@ -1,0 +1,86 @@
+{
+ "id": "hE4X-pD2ziI",
+ "url": "https://www.youtube.com/watch?v=hE4X-pD2ziI",
+ "title": "Presiden Prabowo Hadiri Peringatan Hari Buruh Internasional, Monas, 1 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "raw_snippets": [
+  {
+   "text": "[Musik]",
+   "start": 0.0,
+   "duration": 11
+  },
+  {
+   "text": "kita. Saya ingin sampaikan di sini, saya merasa menjadi presidennya buruh.",
+   "start": 11.0,
+   "duration": 10
+  },
+  {
+   "text": "[Musik]",
+   "start": 21.0,
+   "duration": 2
+  },
+  {
+   "text": "Presidennya petani, presidennya nelayan, presidennya orang yang susah.",
+   "start": 23.0,
+   "duration": 13
+  },
+  {
+   "text": "[Musik]",
+   "start": 36.0,
+   "duration": 15
+  },
+  {
+   "text": "Selamat hari buruh internasional mede.",
+   "start": 51.0,
+   "duration": 5
+  },
+  {
+   "text": "Semoga Tuhan maha besar melindungi kita semua. Semoga kita bekerja terus bersama-sama.",
+   "start": 56.0,
+   "duration": 11
+  },
+  {
+   "text": "Saya minta dukunganmu, saya minta bantuan-Mu. Bersama-sama kita selamatkan kekayaan rakyat, kekayaan negara kita.",
+   "start": 67.0,
+   "duration": 14
+  },
+  {
+   "text": "Kekayaan rakyat, kekayaan negara harus dinikmati oleh seluruh rakyat Indonesia.",
+   "start": 81.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 88.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 95.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 102.0,
+   "duration": 3
+  }
+ ]
+}

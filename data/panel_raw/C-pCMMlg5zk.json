@@ -1,0 +1,81 @@
+{
+ "id": "C-pCMMlg5zk",
+ "url": "https://www.youtube.com/watch?v=C-pCMMlg5zk",
+ "title": "Tim Indonesia Berdaulat Siap Kibarkan Sang Merah Putih, 17 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Dengan rahmat Tuhan yang maha esa, Kepala Staf Komando Garsun Tetap 1 Jakarta selaku koordinator tata upacara",
+   "start": 0.0,
+   "duration": 9
+  },
+  {
+   "text": "menimbang dan seterusnya, mengingat dan seterusnya, memperhatikan dan seterusnya. memutuskan",
+   "start": 9.0,
+   "duration": 8
+  },
+  {
+   "text": "menetapkan satu tim B atau Indonesia berdaulat sebagai tim pasukan pengibar",
+   "start": 17.0,
+   "duration": 7
+  },
+  {
+   "text": "sang merah putih pada upacara peringatan detik-detik proklamasi tanggal 17 Agustus 2025 pukul 10 WIB di Istana",
+   "start": 24.0,
+   "duration": 10
+  },
+  {
+   "text": "Merdeka 2. Tim A Indonesia Bersatu sebagai tim pasukan penurunan sang Merah",
+   "start": 34.0,
+   "duration": 7
+  },
+  {
+   "text": "Putih pada upacara penurunan Sang Merah Putih tanggal 17 Agustus 2025 pukul",
+   "start": 41.0,
+   "duration": 7
+  },
+  {
+   "text": "17.00 WIB di Istana Merdeka ditetapkan di Jakarta pada tanggal 16 Agustus 2025.",
+   "start": 48.0,
+   "duration": 10
+  },
+  {
+   "text": "Ya Allah Tuhan yang maha kuat, berikanlah kepada tim paskrat, komandan pasibrat, pemandan upacara, perwira",
+   "start": 58.0,
+   "duration": 7
+  },
+  {
+   "text": "upacara, dan seluruh personil yang mendukung serta terlibat dalam rangkaian kegiatan upacara peringatan hari ulang",
+   "start": 65.0,
+   "duration": 7
+  },
+  {
+   "text": "tahun kemerdekaan Republik Indonesia yang ke-80 tahun 2025. kesehatan, keselamatan serta kekuatan lahir batin",
+   "start": 72.0,
+   "duration": 10
+  },
+  {
+   "text": "sehingga dapat melakukan tugas dengan sempurna dan upacara dapat berjalan dengan lancar.",
+   "start": 82.0,
+   "duration": 3
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "guyB_xYGSUk",
+ "url": "https://www.youtube.com/watch?v=guyB_xYGSUk",
+ "title": "Keterangan Pers Presiden Prabowo Sebelum Bertolak Menuju Antalya, Ankara, 11 April 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 6,
+ "raw_snippets": [
+  {
+   "text": "Bapak dikit ya, Pak. Iya.",
+   "start": 1.0,
+   "duration": 6
+  },
+  {
+   "text": "Iya. Iya, Bapak. Saya kira sudah saya diterima dengan baik di sini. Kita",
+   "start": 7.0,
+   "duration": 7
+  },
+  {
+   "text": "memang punya hubungan yang khusus dengan Turki. Kita ingin mempereratukan ini, kerja sama di berbagai bidang.",
+   "start": 14.0,
+   "duration": 13
+  },
+  {
+   "text": "Eh secara keseluruhan saya sangat ee merasa produktif kunjungan saya kali ini ya. Saya sekarang ke Anatalia Antalia",
+   "start": 27.0,
+   "duration": 9
+  },
+  {
+   "text": "itu ada semacam konferensi di situ. E dan habis itu saya akan ke",
+   "start": 36.0,
+   "duration": 7
+  },
+  {
+   "text": "Kairo. Oke, terima kasih. Makasih, Pak",
+   "start": 43.0,
+   "duration": 3
+  }
+ ]
+}

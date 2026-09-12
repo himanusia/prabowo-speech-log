@@ -1,0 +1,76 @@
+{
+ "id": "g9IAsgFUrIU",
+ "url": "https://www.youtube.com/watch?v=g9IAsgFUrIU",
+ "title": "Presiden Prabowo Resmikan Pabrik Perakitan Kendaraan Komersial Berbasis Listrik, 9 April 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "Kita sangat kuat.",
+   "start": 1.0,
+   "duration": 2
+  },
+  {
+   "text": "Semakin kuat pertumbuhan kita baik.",
+   "start": 3.0,
+   "duration": 6
+  },
+  {
+   "text": "Tahun depan kita akan bikin kejutan untuk seluruh dunia. Indonesia sedang bangkit. This",
+   "start": 9.0,
+   "duration": 10
+  },
+  {
+   "text": "is waking up. We will not be anymore the sleeping [musik] giant. We are rising.",
+   "start": 19.0,
+   "duration": 17
+  },
+  {
+   "text": "[musik]",
+   "start": 36.0,
+   "duration": 5
+  },
+  {
+   "text": "Kalau Jepang punya Isuzu, punya Hino. Kalau Korea punya",
+   "start": 41.0,
+   "duration": 9
+  },
+  {
+   "text": "Hyundai Dawo, saya berharap berapa tahun lagi kita akan menganggap melihat",
+   "start": 50.0,
+   "duration": 9
+  },
+  {
+   "text": "sektor sebagai champion, salah satu champion dari Indonesia.",
+   "start": 59.0,
+   "duration": 10
+  },
+  {
+   "text": "[musik]",
+   "start": 69.0,
+   "duration": 6
+  },
+  {
+   "text": "[musik]",
+   "start": 75.0,
+   "duration": 3
+  }
+ ]
+}

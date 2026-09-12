@@ -1,0 +1,81 @@
+{
+ "id": "FrEfcNiDYDQ",
+ "url": "https://www.youtube.com/watch?v=FrEfcNiDYDQ",
+ "title": "Istana untuk Anak Sekolah: SMPN 94 dan SMPN 4 Jakarta, 19 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Alhamdulillah hari ini kita bisa masuk mengajak anak-anak kami untuk melihat isi dari istana negara.",
+   "start": 9.0,
+   "duration": 12
+  },
+  {
+   "text": "[musik]",
+   "start": 21.0,
+   "duration": 1
+  },
+  {
+   "text": "Untuk perasaan aku sendiri sih senang ya karena bisa nambah pengalaman dan juga tahu isi dari semua ruangan yang ada di sini.",
+   "start": 22.0,
+   "duration": 13
+  },
+  {
+   "text": "Dan ini pengalaman yang sangat luar biasa bagi siswa-siswi SMP 94 karena ee mereka bisa mengetahui secara langsung",
+   "start": 35.0,
+   "duration": 8
+  },
+  {
+   "text": "bagaimana lokasi yang selama ini hanya dilihat dari jauh.",
+   "start": 43.0,
+   "duration": 9
+  },
+  {
+   "text": "Acara ini dapat menumbuhkan wawasan nasional, dapat memberikan pengetahuan juga mengenai ruangan tempat para",
+   "start": 52.0,
+   "duration": 10
+  },
+  {
+   "text": "pemimpin bangsa ini bekerja dan memberi keputusan.",
+   "start": 62.0,
+   "duration": 12
+  },
+  {
+   "text": "[musik]",
+   "start": 74.0,
+   "duration": 1
+  },
+  {
+   "text": "[berteriak]",
+   "start": 75.0,
+   "duration": 3
+  },
+  {
+   "text": "[bersorak]",
+   "start": 78.0,
+   "duration": 5
+  },
+  {
+   "text": "[berteriak]",
+   "start": 83.0,
+   "duration": 3
+  }
+ ]
+}

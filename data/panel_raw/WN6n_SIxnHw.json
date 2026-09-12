@@ -1,0 +1,66 @@
+{
+ "id": "WN6n_SIxnHw",
+ "url": "https://www.youtube.com/watch?v=WN6n_SIxnHw",
+ "title": "Keterangan Pers Dirut Garuda Indonesia Glenny Kairupan, Jakarta, 2 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "raw_snippets": [
+  {
+   "text": "Bapak tadi ketemu Presiden bahas apa aja? Bahas apa aja Pak? Boleh. Kenapa bertemu dengan Pak Presiden, Pak?",
+   "start": 0.0,
+   "duration": 9
+  },
+  {
+   "text": "Oh, biasa dengan Pak Sigit cara-bicara ngobrol-ngobrol ya tentang penerbangan",
+   "start": 9.0,
+   "duration": 8
+  },
+  {
+   "text": "penerbangan di Indonesia ya tentang Garuda, tentang pesawat-pesawat yang apa super apa maju sekarang gitu ya.",
+   "start": 17.0,
+   "duration": 12
+  },
+  {
+   "text": "teknologi-teknologi yang maju. Bagaimana kita harus ikut juga terlibat di dalam perkembangan-perkembangan teknologi.",
+   "start": 29.0,
+   "duration": 8
+  },
+  {
+   "text": "Itulah yang tadi disampaikan Pak Presiden tadi ketemunya bareng sama private company yang dari luar negeri itu, Pak.",
+   "start": 37.0,
+   "duration": 6
+  },
+  {
+   "text": "Iya. Jadi kita discus ada rencana beli seini rencana beli belum. Kita baru koordinasi masalah teknologi-teknologi.",
+   "start": 43.0,
+   "duration": 9
+  },
+  {
+   "text": "Arahan Bapak Presiden apa?",
+   "start": 52.0,
+   "duration": 1
+  },
+  {
+   "text": "Ya itu harus ikuti perkembangan teknologi dunia ya. Benar, betul. Oke, cukup kasih. Makasih.",
+   "start": 53.0,
+   "duration": 3
+  }
+ ]
+}

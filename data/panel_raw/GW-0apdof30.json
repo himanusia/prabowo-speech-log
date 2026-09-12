@@ -1,0 +1,66 @@
+{
+ "id": "GW-0apdof30",
+ "url": "https://www.youtube.com/watch?v=GW-0apdof30",
+ "title": "Keterangan Pers Presiden Prabowo Subianto, Lima, 16 November 2024",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "raw_snippets": [
+  {
+   "text": "satu aja Pak soal apek Pak soal apek Iya saya kira kesempatan yang baik",
+   "start": 0.0,
+   "duration": 9
+  },
+  {
+   "text": "apek ya kita e meneruskan",
+   "start": 9.0,
+   "duration": 7
+  },
+  {
+   "text": "suatu jaringan Network antara pemimpin-pemimpin di Pasifik kita bahas banyak masalah",
+   "start": 16.0,
+   "duration": 8
+  },
+  {
+   "text": "Eh bagaimana kita menjaga perdagangan yang baik yang terbuka tapi",
+   "start": 24.0,
+   "duration": 7
+  },
+  {
+   "text": "adil ya Saya kira gu kesempatan yang baik terima kasih ya terima kasih Bapak kasih pak hati-hati di jalan Pak",
+   "start": 31.0,
+   "duration": 9
+  },
+  {
+   "text": "Indonesia ingin seperti apa di tengah-tengah kita ingin E perdagangan yang yang teratur yang bebas tapi",
+   "start": 40.0,
+   "duration": 7
+  },
+  {
+   "text": "adil Oke terima kasih",
+   "start": 47.0,
+   "duration": 3
+  },
+  {
+   "text": "[Musik]",
+   "start": 50.0,
+   "duration": 3
+  }
+ ]
+}

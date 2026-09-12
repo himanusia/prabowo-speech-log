@@ -1,0 +1,66 @@
+{
+ "id": "hwW0lHNBJkU",
+ "url": "https://www.youtube.com/watch?v=hwW0lHNBJkU",
+ "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Emir Qatar, Doha, 13 April 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "raw_snippets": [
+  {
+   "text": "Perisi, Pak. Door stop, Pak. Izin door stop, Pak.",
+   "start": 4.0,
+   "duration": 5
+  },
+  {
+   "text": "Izin door stop, Pak. Izin doorstop, Pak. Izin doorstop, Pak. Pakowo dikit, Pak. Pak dikit, Pak, Pak. Dikit, Pak. Izin, Pak.",
+   "start": 9.0,
+   "duration": 10
+  },
+  {
+   "text": "Step, Pak.",
+   "start": 19.0,
+   "duration": 3
+  },
+  {
+   "text": "Mengenai kunjungan hari ini kita gimana, Pak? Saya kira pertemuan sangat baik, produktif.",
+   "start": 22.0,
+   "duration": 6
+  },
+  {
+   "text": "ee kita sepakat untuk segera tingkatkan kerja sama.",
+   "start": 28.0,
+   "duration": 5
+  },
+  {
+   "text": "Eh beliau akan ee invest invest invest dengan Danantara",
+   "start": 33.0,
+   "duration": 6
+  },
+  {
+   "text": "satu dana bersama beliau komit 2 miliar dolar ya tadi masing-masing dua kita dua dia dua saya",
+   "start": 39.0,
+   "duration": 9
+  },
+  {
+   "text": "kira bagus ini tindak lanjut dan beliau sangat antusias oke terima kasih terima kasih Isih, Pak.",
+   "start": 48.0,
+   "duration": 3
+  }
+ ]
+}

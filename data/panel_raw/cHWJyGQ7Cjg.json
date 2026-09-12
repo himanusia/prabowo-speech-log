@@ -1,0 +1,76 @@
+{
+ "id": "cHWJyGQ7Cjg",
+ "url": "https://www.youtube.com/watch?v=cHWJyGQ7Cjg",
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Ankara, 10 April 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "Baik, Teman-teman. Besok sekitar pukul 11.",
+   "start": 1.0,
+   "duration": 6
+  },
+  {
+   "text": "Waktu Ankara, Bapak Presiden akan bertolak ke Antalya. Beliau akan",
+   "start": 7.0,
+   "duration": 6
+  },
+  {
+   "text": "menghadiri Antalya Diplomasi Forum. Antalya Diplomasi Forum tahun ini",
+   "start": 13.0,
+   "duration": 8
+  },
+  {
+   "text": "ingin agar diplomasi menjadi upaya kekuatan penyeimbang. di",
+   "start": 21.0,
+   "duration": 9
+  },
+  {
+   "text": "tengah dunia yang semakin terfragmentasi. Bapak Presiden akan",
+   "start": 30.0,
+   "duration": 7
+  },
+  {
+   "text": "hadir di sesi pembukaan di mana Bapak Presiden Erdogan akan memberikan",
+   "start": 37.0,
+   "duration": 8
+  },
+  {
+   "text": "sambutannya. Kemudian Bapak Presiden Prabowo juga akan menjadi pembicara pada sesi ADF Talk.",
+   "start": 45.0,
+   "duration": 12
+  },
+  {
+   "text": "Setelah kegiatan di Antalya, Bapak Presiden akan melanjutkan lawatan",
+   "start": 57.0,
+   "duration": 8
+  },
+  {
+   "text": "perjalanannya. Beliau akan menuju ke Kairo Mesir. Sementara itu, Teman-teman, yang",
+   "start": 65.0,
+   "duration": 9
+  },
+  {
+   "text": "dapat kami sampaikan. Terima kasih.",
+   "start": 74.0,
+   "duration": 3
+  }
+ ]
+}

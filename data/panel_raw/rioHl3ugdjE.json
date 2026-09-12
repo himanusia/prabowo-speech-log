@@ -1,0 +1,86 @@
+{
+ "id": "rioHl3ugdjE",
+ "url": "https://www.youtube.com/watch?v=rioHl3ugdjE",
+ "title": "Presiden Prabowo Sambangi Timnas Indonesia Jelang Laga Lawan Bahrain, 25 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "raw_snippets": [
+  {
+   "text": "langsung. Yes.",
+   "start": 1.0,
+   "duration": 9
+  },
+  {
+   "text": "You speak?",
+   "start": 10.0,
+   "duration": 20
+  },
+  {
+   "text": "[Musik]",
+   "start": 30.0,
+   "duration": 3
+  },
+  {
+   "text": "Bapak stay di sini kalau maju",
+   "start": 33.0,
+   "duration": 35
+  },
+  {
+   "text": "Where? Where is originally from? Holland tinggal di mana? Belanda. Belanda",
+   "start": 68.0,
+   "duration": 7
+  },
+  {
+   "text": "Semarang. Semarang. Semarang. Bisa bahasa Indonesia? Sudah bagus. Bisa bisa",
+   "start": 75.0,
+   "duration": 17
+  },
+  {
+   "text": "Jordi. Jordi. Ahmad. Sulut. Pak. Sulut. Manado. Oh iya. Oh iya. Ibu ibu",
+   "start": 92.0,
+   "duration": 17
+  },
+  {
+   "text": "[Tepuk tangan]",
+   "start": 109.0,
+   "duration": 16
+  },
+  {
+   "text": "Aceh berapa Akan Pakar",
+   "start": 125.0,
+   "duration": 12
+  },
+  {
+   "text": "dari Lombok. Lahir di Lombok, Pak. Oh iya. Papua.",
+   "start": 137.0,
+   "duration": 11
+  },
+  {
+   "text": "[Musik]",
+   "start": 148.0,
+   "duration": 9
+  },
+  {
+   "text": "Makasih,",
+   "start": 157.0,
+   "duration": 3
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": "6MEuZdbbA5I",
+ "url": "https://www.youtube.com/watch?v=6MEuZdbbA5I",
+ "title": "Presiden Prabowo Pimpin Upacara Parade Senja, Magelang, 27 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "[Musik]",
+   "start": 0.0,
+   "duration": 8
+  },
+  {
+   "text": "lapor upacara dan penurunan benda siap dilaks selanjutnya pasukan",
+   "start": 8.0,
+   "duration": 10
+  },
+  {
+   "text": "[Musik]",
+   "start": 18.0,
+   "duration": 2
+  },
+  {
+   "text": "siap kita semua dipilih rakyat kita Abdi",
+   "start": 20.0,
+   "duration": 6
+  },
+  {
+   "text": "rakyat kitaaky pemimpin rakyat kita berasal dari latar belakang",
+   "start": 26.0,
+   "duration": 9
+  },
+  {
+   "text": "yang berbeda-beda daerah yang berbeda-beda dengan bahasa yang berbeda-beda bahasa",
+   "start": 35.0,
+   "duration": 7
+  },
+  {
+   "text": "daerah adat istiadat yang berbeda-beda suku yang berbeda-beda kelompok etnis yang",
+   "start": 42.0,
+   "duration": 8
+  },
+  {
+   "text": "berbeda-beda agama yang berbeda-beda tapi kita sudah menjadi satu",
+   "start": 50.0,
+   "duration": 10
+  },
+  {
+   "text": "sudah menjadi satu keluarga besar keluarga besar Nusantara keluarga besar Indonesia",
+   "start": 60.0,
+   "duration": 19
+  },
+  {
+   "text": "[Musik]",
+   "start": 79.0,
+   "duration": 11
+  },
+  {
+   "text": "[Musik]",
+   "start": 90.0,
+   "duration": 3
+  }
+ ]
+}

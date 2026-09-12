@@ -1,0 +1,71 @@
+{
+ "id": "eW9XzFJ0bgE",
+ "url": "https://www.youtube.com/watch?v=eW9XzFJ0bgE",
+ "title": "Presiden Prabowo Melayat Mendiang Kwik Kian Gie, Jakarta, 30 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "raw_snippets": [
+  {
+   "text": "Ya, saya datang hanya untuk menghormati saudara Sukwa ya, Pak Kik seorang tokoh",
+   "start": 21.0,
+   "duration": 8
+  },
+  {
+   "text": "bangsa yang sangat ee berjasa.",
+   "start": 29.0,
+   "duration": 5
+  },
+  {
+   "text": "Pemikiran-pemikiran beliau, beliau sangat ee mempertahankan ekonomi",
+   "start": 34.0,
+   "duration": 9
+  },
+  {
+   "text": "Pancasila, ekonomi pasal 33. Ee beliau seorang tokoh yang luar biasa. Ee saya merasa dekat sama",
+   "start": 43.0,
+   "duration": 10
+  },
+  {
+   "text": "beliau. Beliau banyak kasih nasihat ke saya.",
+   "start": 53.0,
+   "duration": 5
+  },
+  {
+   "text": "Bahkan berapa hari yang lalu pun mengirim WA ya.",
+   "start": 58.0,
+   "duration": 5
+  },
+  {
+   "text": "I memberi saran-saran. Beliau masih terus memberi WA. Saya kira itu yang bisa sampaikan ya.",
+   "start": 63.0,
+   "duration": 5
+  },
+  {
+   "text": "Kita Indonesia putra terbaik.",
+   "start": 68.0,
+   "duration": 7
+  },
+  {
+   "text": "[Musik]",
+   "start": 75.0,
+   "duration": 3
+  }
+ ]
+}

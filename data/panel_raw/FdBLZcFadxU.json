@@ -1,0 +1,91 @@
+{
+ "id": "FdBLZcFadxU",
+ "url": "https://www.youtube.com/watch?v=FdBLZcFadxU",
+ "title": "Istana untuk Anak Sekolah: SMPN 60 Jakarta",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 4.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik] seru sih kan kita juga jadi tahu ya bagaimana cara kerja yang di dalam istananya terus juga apa sih interior di",
+   "start": 9.0,
+   "duration": 10
+  },
+  {
+   "text": "istananya bagaimana ternyata itu bagus gitu ya enggak kita tuh juga [musik] bisa lihat secara langsung enggak dari sosial media atau televisi saja [musik]",
+   "start": 19.0,
+   "duration": 9
+  },
+  {
+   "text": "terima kasih kasih Bapak Presiden Prabowo [musik] Subianto.",
+   "start": 28.0,
+   "duration": 8
+  },
+  {
+   "text": "E acara ini sangat menyenangkan ee edukatif dan juga menurut saya sangat seru bagi kami yang kelas 9 terutama",
+   "start": 36.0,
+   "duration": 8
+  },
+  {
+   "text": "untuk refreshing ee karena kami telah melaksanakan ujian yang tka sebelum ini.",
+   "start": 44.0,
+   "duration": 7
+  },
+  {
+   "text": "Eh dengan ada acara ini kami jadi refreshing e me-refresh otak kita jadi lebih semangat. Kalau mau balik lagi ke sini, bismillah semoga bisa. Ingin menjadi paskaka nasional.",
+   "start": 51.0,
+   "duration": 13
+  },
+  {
+   "text": "[musik]",
+   "start": 64.0,
+   "duration": 6
+  },
+  {
+   "text": "[bersorak]",
+   "start": 70.0,
+   "duration": 1
+  },
+  {
+   "text": "Semangat ya untuk mencapai masa depan mereka. Jadi ada ee dorongan, semangat, motivasi untuk ee",
+   "start": 71.0,
+   "duration": 9
+  },
+  {
+   "text": "bisa ee kerja di sini ataupun mencapai cita-cita mereka.",
+   "start": 80.0,
+   "duration": 6
+  },
+  {
+   "text": "Hei",
+   "start": 86.0,
+   "duration": 3
+  },
+  {
+   "text": "[musik]",
+   "start": 89.0,
+   "duration": 3
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "8QwvfafgroE",
+ "url": "https://www.youtube.com/watch?v=8QwvfafgroE",
+ "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 26 November 2025",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 4,
+ "raw_snippets": [
+  {
+   "text": "bahas apa aja di dalam, Pak sama Pak Presiden Mas soal progres Kampung nelayan Kampung nelayan merah putih yang kami laporkan ke Bapak gitu.",
+   "start": 0.0,
+   "duration": 11
+  },
+  {
+   "text": "Apa aja sekarang?",
+   "start": 11.0,
+   "duration": 2
+  },
+  {
+   "text": "Sekarang sudah berapa persen? Sekarang sudah 45% dari 165",
+   "start": 13.0,
+   "duration": 7
+  },
+  {
+   "text": "sudah dibangun yang sisanya nanti akan dilanjut di per yang akan datang. begitu",
+   "start": 20.0,
+   "duration": 3
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": "_Nk4pAl8C-w",
+ "url": "https://www.youtube.com/watch?v=_Nk4pAl8C-w",
+ "title": "Istana untuk Anak Sekolah: SMPN 39 Jakarta",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Terima kasih, [berteriak] Pak Presidenowo [musik] Suyarobo.",
+   "start": 0.0,
+   "duration": 7
+  },
+  {
+   "text": "[bersorak]",
+   "start": 7.0,
+   "duration": 2
+  },
+  {
+   "text": "[musik]",
+   "start": 9.0,
+   "duration": 5
+  },
+  {
+   "text": "Aku senang banget karena bisa menjelajahi isi istana kemerdekaan ini.",
+   "start": 14.0,
+   "duration": 6
+  },
+  {
+   "text": "Jujur aku belajar banyak hal karena sebelumnya kan aku belum pernah masuk dan aku ternyata memiliki kesempatan",
+   "start": 20.0,
+   "duration": 7
+  },
+  {
+   "text": "untuk mengetahui isi ruangan yang ada di istana Maju.",
+   "start": 27.0,
+   "duration": 10
+  },
+  {
+   "text": "Senang banget tadi kita disambut hangat oleh Ibu CJ. Ada beberapa materi yang membuat kita menjadi lebih tahu",
+   "start": 37.0,
+   "duration": 7
+  },
+  {
+   "text": "bagaimana cara kerja di dalam pemeriksaan.",
+   "start": 44.0,
+   "duration": 9
+  },
+  {
+   "text": "Eh, terima kasih untuk Pak Prabowo karena sudah memberi kesempatan untuk anak sekolah beberapa dari sekolah itu",
+   "start": 53.0,
+   "duration": 9
+  },
+  {
+   "text": "untuk memiliki kesempatan untuk masuk ke istana maupun ke dalam bangunan istananya maupun ke areanya.",
+   "start": 62.0,
+   "duration": 15
+  },
+  {
+   "text": "Terima kasih, Pak Presiden. Bro, Indonesia jaya.",
+   "start": 77.0,
+   "duration": 3
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "id": "1FTHuRLmJzs",
+ "url": "https://www.youtube.com/watch?v=1FTHuRLmJzs",
+ "title": "Istana untuk Anak Sekolah: SMAN 55 Jakarta",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 1.0,
+   "duration": 3
+  },
+  {
+   "text": "He",
+   "start": 4.0,
+   "duration": 3
+  },
+  {
+   "text": "[musik]",
+   "start": 7.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik]",
+   "start": 12.0,
+   "duration": 4
+  },
+  {
+   "text": "Hei, hei.",
+   "start": 16.0,
+   "duration": 6
+  },
+  {
+   "text": "[musik]",
+   "start": 22.0,
+   "duration": 7
+  },
+  {
+   "text": "Rasanya benar-benar excited banget dan menjadi pengalaman berharga banget buat saya. Apalagi ini masuk ke Istana Presiden yang biasanya saya cuma bisa",
+   "start": 29.0,
+   "duration": 9
+  },
+  {
+   "text": "lihat di TV-TV, sekarang saya bisa merasakannya secara langsung untuk melihat bangunan-bangunannya dan juga isi-isinya.",
+   "start": 38.0,
+   "duration": 9
+  },
+  {
+   "text": "[musik]",
+   "start": 47.0,
+   "duration": 4
+  },
+  {
+   "text": "[musik]",
+   "start": 51.0,
+   "duration": 9
+  },
+  {
+   "text": "Harapan kami ee program ini terus berlanjut sehingga banyak murid dapat mengambil pelajaran dan juga dapat ee",
+   "start": 60.0,
+   "duration": 10
+  },
+  {
+   "text": "bersama-sama untuk saling memahami bahwa ee istana juga memberikan banyak peluang bagi mereka di kemudian hari.",
+   "start": 70.0,
+   "duration": 14
+  },
+  {
+   "text": "[musik]",
+   "start": 84.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 91.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 98.0,
+   "duration": 2
+  },
+  {
+   "text": "Semoga anak-anak yang ada di Indonesia bisa selalu giat belajar dan juga bisa meraih-meraih prestasi-prestasi yang ada di Indonesia.",
+   "start": 100.0,
+   "duration": 8
+  },
+  {
+   "text": "Benar banget. Semangat terus, Teman-teman, dan capai prestasi agar kita [musik] bisa kembali sebagai anak Indonesia yang terus membanggakan.",
+   "start": 108.0,
+   "duration": 16
+  },
+  {
+   "text": "He [musik]",
+   "start": 124.0,
+   "duration": 19
+  },
+  {
+   "text": "terima kasih Bapak",
+   "start": 143.0,
+   "duration": 7
+  },
+  {
+   "text": "[bersorak]",
+   "start": 150.0,
+   "duration": 3
+  }
+ ]
+}

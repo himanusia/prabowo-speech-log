@@ -1,0 +1,76 @@
+{
+ "id": "W46cPCjedXA",
+ "url": "https://www.youtube.com/watch?v=W46cPCjedXA",
+ "title": "Presiden Prabowo Resmikan Renovasi Museum dan Perpustakaan Seskoad, Bandung, 25 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 3.0,
+   "duration": 11
+  },
+  {
+   "text": "[bersorak]",
+   "start": 14.0,
+   "duration": 9
+  },
+  {
+   "text": "[musik]",
+   "start": 23.0,
+   "duration": 28
+  },
+  {
+   "text": "[musik]",
+   "start": 51.0,
+   "duration": 6
+  },
+  {
+   "text": "dengan mengucap bismillahirrahmanirrahim.",
+   "start": 57.0,
+   "duration": 3
+  },
+  {
+   "text": "Pada pagi hari ini, hari Senin, 25 Mei tahun 2000",
+   "start": 60.0,
+   "duration": 8
+  },
+  {
+   "text": "26, saya Prabowo Subianto, Presiden Republik Indonesia dengan ini meresmikan",
+   "start": 68.0,
+   "duration": 7
+  },
+  {
+   "text": "Renovasi Museum dan Perpustakaan Sekolah Staf dan Komando Angkatan Darat Sasku.",
+   "start": 75.0,
+   "duration": 7
+  },
+  {
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh.",
+   "start": 82.0,
+   "duration": 12
+  },
+  {
+   "text": "[musik]",
+   "start": 94.0,
+   "duration": 3
+  }
+ ]
+}

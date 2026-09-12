@@ -1,0 +1,76 @@
+{
+ "id": "3T9w5opAGAc",
+ "url": "https://www.youtube.com/watch?v=3T9w5opAGAc",
+ "title": "Presiden Prabowo Disambut Hangat dan Penuh Kebanggaan oleh Diaspora Indonesia, Seoul, 31 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "[tepuk tangan]",
+   "start": 32.0,
+   "duration": 6
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 38.0,
+   "duration": 5
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 43.0,
+   "duration": 4
+  },
+  {
+   "text": "Tadi beliau tanya saya belajar di mana?",
+   "start": 47.0,
+   "duration": 3
+  },
+  {
+   "text": "Kemudian ee beliau juga menyemangati saya untuk bisa menyelesaikan studi saya. Eh, terus terang sangat bangga",
+   "start": 50.0,
+   "duration": 7
+  },
+  {
+   "text": "karena saya berasal dari Nusa Tenggara Timur yang em sangat sulit untuk ke Jakarta untuk melihat Pak Presiden. Tapi em saya bisa bertemu dengan Pak Presiden",
+   "start": 57.0,
+   "duration": 9
+  },
+  {
+   "text": "di tempat saya menuntut ilmu. Jadi saya sangat bangga sekali dari kemarin itu saya sampai enggak bisa tidur.",
+   "start": 66.0,
+   "duration": 8
+  },
+  {
+   "text": "Luar biasa sekali. Suatu kehormatan saya bisa diundang dengan KPRI untuk bisa hadir menyambut Bapak walaupun hanya",
+   "start": 74.0,
+   "duration": 8
+  },
+  {
+   "text": "lihat sebentar dan salaman. Wah, luar biasa sekali. Sehat selalu ya, Pak.",
+   "start": 82.0,
+   "duration": 6
+  },
+  {
+   "text": "Selamat datang",
+   "start": 88.0,
+   "duration": 3
+  }
+ ]
+}

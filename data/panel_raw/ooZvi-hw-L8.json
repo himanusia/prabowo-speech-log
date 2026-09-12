@@ -1,0 +1,86 @@
+{
+ "id": "ooZvi-hw-L8",
+ "url": "https://www.youtube.com/watch?v=ooZvi-hw-L8",
+ "title": "Presiden Prabowo Pimpin Upacara Pemakaman Wapres ke-6 RI Try Sutrisno, TMPNU Kalibata, 2 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "raw_snippets": [
+  {
+   "text": "Saya Presiden Republik Indonesia atas nama Negara, Bangsa dan Tentara Nasional Indonesia.",
+   "start": 18.0,
+   "duration": 10
+  },
+  {
+   "text": "Dengan ini mempersembahkan ke Persada Ibu Perdiwi Jiwa Raga",
+   "start": 28.0,
+   "duration": 8
+  },
+  {
+   "text": "dan jasa-jasa almarhum nama Tri Sutrisno jabatan",
+   "start": 36.0,
+   "duration": 9
+  },
+  {
+   "text": "Wakil Presiden Republik Indonesia keenam periode tahun 1993 1998.",
+   "start": 45.0,
+   "duration": 9
+  },
+  {
+   "text": "Panglima Abri periode 1988 1993,",
+   "start": 54.0,
+   "duration": 7
+  },
+  {
+   "text": "putra dari Bapak Subandi almarhum yang telah meninggal dunia",
+   "start": 61.0,
+   "duration": 8
+  },
+  {
+   "text": "demi kepentingan serta keluhuran negara dan bangsa.",
+   "start": 69.0,
+   "duration": 8
+  },
+  {
+   "text": "Pada hari Senin tanggal 2 Maret 2026 pukul 0658 WIB di Jakarta.",
+   "start": 77.0,
+   "duration": 12
+  },
+  {
+   "text": "Semoga jalan Dharma Bakti yang ditempuhnya dapat menjadi suri teladan bagi kita",
+   "start": 89.0,
+   "duration": 8
+  },
+  {
+   "text": "semua dan arwahnya mendapat tempat yang terbaik di sisi Tuhan yang Maha Besar.",
+   "start": 97.0,
+   "duration": 8
+  },
+  {
+   "text": "Jakarta, 2 Maret 2026.",
+   "start": 105.0,
+   "duration": 5
+  },
+  {
+   "text": "Presiden Republik Indonesia Prabowo Subianto.",
+   "start": 110.0,
+   "duration": 3
+  }
+ ]
+}

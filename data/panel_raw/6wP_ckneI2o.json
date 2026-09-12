@@ -1,0 +1,141 @@
+{
+ "id": "6wP_ckneI2o",
+ "url": "https://www.youtube.com/watch?v=6wP_ckneI2o",
+ "title": "Presiden Prabowo di Tengah Pengungsi Nagekeo: Menyapa, Mendengar, dan Menguatkan, 26 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "raw_snippets": [
+  {
+   "text": "[musik][bersorak]",
+   "start": 1.0,
+   "duration": 4
+  },
+  {
+   "text": "[bersorak]",
+   "start": 5.0,
+   "duration": 1
+  },
+  {
+   "text": "[musik]",
+   "start": 6.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 13.0,
+   "duration": 2
+  },
+  {
+   "text": "[bersorak]",
+   "start": 15.0,
+   "duration": 1
+  },
+  {
+   "text": "[berteriak]",
+   "start": 16.0,
+   "duration": 4
+  },
+  {
+   "text": "Terima [musik] kasih Bapak. Terima kasih Bapak.",
+   "start": 20.0,
+   "duration": 5
+  },
+  {
+   "text": "Sifat presidenasi",
+   "start": 25.0,
+   "duration": 4
+  },
+  {
+   "text": "[musik]",
+   "start": 29.0,
+   "duration": 14
+  },
+  {
+   "text": "[musik]",
+   "start": 43.0,
+   "duration": 8
+  },
+  {
+   "text": "[bersorak]",
+   "start": 51.0,
+   "duration": 4
+  },
+  {
+   "text": "[musik]",
+   "start": 55.0,
+   "duration": 28
+  },
+  {
+   "text": "[musik]",
+   "start": 83.0,
+   "duration": 6
+  },
+  {
+   "text": "[musik]",
+   "start": 89.0,
+   "duration": 11
+  },
+  {
+   "text": "[musik]",
+   "start": 100.0,
+   "duration": 23
+  },
+  {
+   "text": "[musik]",
+   "start": 123.0,
+   "duration": 8
+  },
+  {
+   "text": "[musik]",
+   "start": 131.0,
+   "duration": 2
+  },
+  {
+   "text": "[bersorak]",
+   "start": 133.0,
+   "duration": 7
+  },
+  {
+   "text": "[berteriak]",
+   "start": 140.0,
+   "duration": 17
+  },
+  {
+   "text": "Ayo, ayo.",
+   "start": 157.0,
+   "duration": 9
+  },
+  {
+   "text": "[musik]",
+   "start": 166.0,
+   "duration": 2
+  },
+  {
+   "text": "[berteriak]",
+   "start": 168.0,
+   "duration": 3
+  },
+  {
+   "text": "[musik]",
+   "start": 171.0,
+   "duration": 3
+  }
+ ]
+}

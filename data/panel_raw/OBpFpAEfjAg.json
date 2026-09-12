@@ -1,0 +1,61 @@
+{
+ "id": "OBpFpAEfjAg",
+ "url": "https://www.youtube.com/watch?v=OBpFpAEfjAg",
+ "title": "INDONESIA MENANG!!! Kontingen Indonesia Menuju Asian Games ke-20 Aichi Nagoya Jepang",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 3.0,
+   "duration": 22
+  },
+  {
+   "text": "Berikan yang terbaik. Wakili bangsa kita.",
+   "start": 25.0,
+   "duration": 4
+  },
+  {
+   "text": "Tunjukkan bahwa anak-anak Indonesia itu tangguh, semangat, tidak mengenal, menyerah.",
+   "start": 29.0,
+   "duration": 10
+  },
+  {
+   "text": "[musik]",
+   "start": 39.0,
+   "duration": 0.5
+  },
+  {
+   "text": "Negara dan bangsa menanti prestasimu. Indonesia menang.",
+   "start": 39.0,
+   "duration": 8
+  },
+  {
+   "text": "Indonesia menang. Indonesia menang. Indonesia menang. Indonesia menang.",
+   "start": 47.0,
+   "duration": 12
+  },
+  {
+   "text": "Yeah.",
+   "start": 59.0,
+   "duration": 3
+  }
+ ]
+}

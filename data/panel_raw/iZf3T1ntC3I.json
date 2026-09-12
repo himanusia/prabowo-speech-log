@@ -1,0 +1,86 @@
+{
+ "id": "iZf3T1ntC3I",
+ "url": "https://www.youtube.com/watch?v=iZf3T1ntC3I",
+ "title": "Dari Ruang Kelas SMPN 111 Jakarta, Cita-Cita Besar Menggema di Hadapan Presiden Prabowo, 2 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 1.0,
+   "duration": 5
+  },
+  {
+   "text": "[musik]",
+   "start": 6.0,
+   "duration": 9
+  },
+  {
+   "text": "14",
+   "start": 15.0,
+   "duration": 16
+  },
+  {
+   "text": "Kita tadi ditanya kayak cita-cita umurnya berapa kamu?",
+   "start": 31.0,
+   "duration": 6
+  },
+  {
+   "text": "Oke, nih badi pesannya ketemu Bapak Presiden. Aku senang banget.",
+   "start": 37.0,
+   "duration": 4
+  },
+  {
+   "text": "Aku senang banget sumpah kayak gemeteran gitu. Soalnya ini first time aku pertama kali ngelihat secara langsung",
+   "start": 41.0,
+   "duration": 7
+  },
+  {
+   "text": "untuk program MBG-nya nih dari kalian gimana? Udah enak banget kita pada suka.",
+   "start": 48.0,
+   "duration": 6
+  },
+  {
+   "text": "Iya udah keren banget pokoknya gitu pada suka ya. Aku salut banget sama.",
+   "start": 54.0,
+   "duration": 4
+  },
+  {
+   "text": "Kalau bisa ngomong ke Pak Presiden mau nyampein apa?",
+   "start": 58.0,
+   "duration": 4
+  },
+  {
+   "text": "Eh, terima kasih buat terima karena itu berharga banget buat kita. Eh, kalau buat Pak Presiden bagi aku terima kasih",
+   "start": 62.0,
+   "duration": 8
+  },
+  {
+   "text": "sudah mau datang ke sini berkunjung ke sini. Kami sebagai siswa SMP 111 senang banget bisa ketemu sama Bapak.",
+   "start": 70.0,
+   "duration": 26
+  },
+  {
+   "text": "[musik]",
+   "start": 96.0,
+   "duration": 3
+  }
+ ]
+}
