@@ -8,3 +8,6 @@ __pycache__/
 venv/
 
 # keluaran build situs tidak diabaikan — docs/ memang yang di-deploy
+
+# pratinjau lokal, bukan bagian situs
+preview.html
