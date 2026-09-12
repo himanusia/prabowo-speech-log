@@ -1,317 +1,396 @@
 {
-  "name": "prabowo",
-  "description": "Indonesian speeches and remarks by President Prabowo Subianto, deduplicated by speech event.",
-  "language_code": "id",
-  "discovery": {
-    "queries": [
-      {
-        "label": "official_channel",
-        "target": "https://www.youtube.com/@SekretariatPresiden/videos",
-        "kind": "channel"
-      },
-      {
-        "label": "search_pidato",
-        "target": "ytsearch100:Prabowo pidato",
-        "kind": "search"
-      },
-      {
-        "label": "search_sambutan",
-        "target": "ytsearch100:Prabowo sambutan",
-        "kind": "search"
-      },
-      {
-        "label": "search_mbg",
-        "target": "ytsearch100:Prabowo MBG",
-        "kind": "search"
-      }
-    ],
-    "extra_searches": [
-      {
-        "label": "targeted_early_search",
-        "target": "ytsearch50:Prabowo pidato 2024",
-        "kind": "search"
-      },
-      {
-        "label": "targeted_early_search",
-        "target": "ytsearch50:Prabowo pidato 2025",
-        "kind": "search"
-      }
-    ]
-  },
-  "title_filters": {
-    "speech_required": "(?i)(pidato|sambutan|speech|remarks|sidang|kenegaraan|pernyataan|may day|hari buruh|muktamar|kongres|peringatan|pelantikan|plenary|business summit|natal|waisak|imlek|forum|rapat paripurna|pemerintahan|ucapan)",
-    "exclude_other_speakers": "(?i)(ustaz\\s+adi\\s+hidayat|mar(?:u|ú)f\\s+amin|ketum\\s+mui|\\bmui\\b|mensesneg|menteri\\b|minister|teddy|momen|polemik|pakar|kroni|podcast|parodi|analisis|komentari|survei|siswa|siswi|bocah|dapur|ayam|mahfud)",
-    "exclude_commentary": "(?i)(ada apa dengan|bikin tertawa|ngakak sampai|gemparkan satu ruangan|keceplosan saat pidato|saat prabowo bicara|ketika prabowo bertanya|bukan asal bicara|istana respons|sambutan hangat diaspora|ditertawakan orang|pecah tawa saat singgung|yang merasa indonesia suram)",
-    "exclude_arrival": "(?i)(tiba|bertolak|keberangkatan|arriv|depart|disambut|welcome)",
-    "speaker_required": "(?i)(prabowo|presiden|president)",
-    "arrival_exempt": "(?i)(pidato|sambutan|speech|remarks|pernyataan)"
-  },
-  "source_tiers": {
-    "official_channel_exact": [
-      "prabowo subianto"
-    ],
-    "official_channel_or_title": [
-      "sekretariat presiden"
-    ],
-    "full_media_title_re": "(?i)\\bfull\\b|\\blengkap\\b|\\blive\\b"
-  },
-  "dedup": {
-    "shingle_size": 4,
-    "same_day_containment": 0.22,
-    "cross_day_containment": 0.58
-  },
-  "canonical": {
-    "opening_re": "(?i)\\b(bismillah|assalamualaikum|asalamualaikum|salam sejahtera|yang saya hormati|yang terhormat|yang kami hormati|saudara-saudara|hadirin|om swastiastu|shalom)\\b",
-    "padded_opening_fraction": 0.02,
-    "complete_opening_fraction": 0.01,
-    "score_title_bonus_re": "(?i)(full|lengkap|pidato|sambutan|speech|remarks)",
-    "score_live_penalty_re": "(?i)\\blive\\b"
-  },
-  "policy_signals": {
-    "label": "MBG",
-    "full_label": "makan bergizi gratis",
-    "exact_token": "mbg",
-    "full_phrase_re": "\\b(?:program\\s+)?makanan?\\s+bergizi\\s+gratis\\b",
-    "paired_terms": [
-      "makan",
-      "bergizi"
-    ],
-    "context_token": "sppg",
-    "context_terms": [
-      "gizi",
-      "bergizi",
-      "makan",
-      "anak"
-    ],
-    "ambiguous_re": "\\bmbg\\s+singkatan\\s+mas\\s+bahlil\\s+ganteng\\b",
-    "label_slug": "mbg"
-  },
-  "topics": {
-    "pangan": [
-      "ikan",
-      "pupuk",
-      "tebu",
-      "sawah",
-      "swasembada",
-      "beras",
-      "pertanian",
-      "pangan",
-      "petani",
-      "gula",
-      "jagung",
-      "nelayan"
-    ],
-    "ekonomi": [
-      "pajak",
-      "umkm",
-      "pertumbuhan",
-      "koperasi",
-      "ekonomi",
-      "pengusaha",
-      "perdagangan",
-      "bumn",
-      "industri",
-      "rupiah",
-      "investasi",
-      "hilirisasi",
-      "anggaran",
-      "usaha"
-    ],
-    "pendidikan": [
-      "sekolah",
-      "guru",
-      "ilmu",
-      "kampus",
-      "pelajar",
-      "sains",
-      "universitas",
-      "siswa",
-      "pendidikan"
-    ],
-    "kesehatan_dan_gizi": [
-      "makanan",
-      "sppg",
-      "gizi",
-      "stunting",
-      "anak",
-      "dokter",
-      "bgn",
-      "kesehatan",
-      "sakit",
-      "rumah",
-      "bergizi",
-      "nutrisi"
-    ],
-    "tata_kelola": [
-      "integritas",
-      "pemerintah",
-      "reformasi",
-      "hukum",
-      "uang",
-      "efisiensi",
-      "korupsi",
-      "hukuman",
-      "pengawasan",
-      "kebocoran",
-      "suap"
-    ],
-    "pertahanan_dan_keamanan": [
-      "militer",
-      "perang",
-      "tni",
-      "pertahanan",
-      "polri",
-      "keamanan",
-      "prajurit",
-      "kepolisian"
-    ],
-    "nasional_dan_identitas": [
-      "negara",
-      "kedaulatan",
-      "kemerdekaan",
-      "bangsa",
-      "pancasila",
-      "rakyat",
-      "tanah",
-      "air",
-      "merah",
-      "putih",
-      "indonesia"
-    ]
-  },
-  "topic_order": [
-    "pangan",
-    "ekonomi",
-    "pendidikan",
-    "kesehatan_dan_gizi",
-    "tata_kelola",
-    "pertahanan_dan_keamanan",
-    "nasional_dan_identitas"
+ "name": "prabowo",
+ "description": "Indonesian speeches and remarks by President Prabowo Subianto, deduplicated by speech event.",
+ "language_code": "id",
+ "discovery": {
+  "queries": [
+   {
+    "label": "official_channel",
+    "target": "https://www.youtube.com/@SekretariatPresiden/videos",
+    "kind": "channel"
+   },
+   {
+    "label": "search_pidato",
+    "target": "ytsearch100:Prabowo pidato",
+    "kind": "search"
+   },
+   {
+    "label": "search_sambutan",
+    "target": "ytsearch100:Prabowo sambutan",
+    "kind": "search"
+   },
+   {
+    "label": "search_mbg",
+    "target": "ytsearch100:Prabowo MBG",
+    "kind": "search"
+   }
   ],
-  "pronouns": [
-    "saya",
-    "kita",
-    "kami",
-    "mereka"
+  "extra_searches": [
+   {
+    "label": "targeted_early_search",
+    "target": "ytsearch50:Prabowo pidato 2024",
+    "kind": "search"
+   },
+   {
+    "label": "targeted_early_search",
+    "target": "ytsearch50:Prabowo pidato 2025",
+    "kind": "search"
+   }
+  ]
+ },
+ "title_filters": {
+  "speech_required": "(?i)(pidato|sambutan|speech|remarks|sidang|kenegaraan|pernyataan|may day|hari buruh|muktamar|kongres|peringatan|pelantikan|plenary|business summit|natal|waisak|imlek|forum|rapat paripurna|pemerintahan|ucapan)",
+  "exclude_other_speakers": "(?i)(ustaz\\s+adi\\s+hidayat|mar(?:u|ú)f\\s+amin|ketum\\s+mui|\\bmui\\b|mensesneg|menteri\\b|minister|teddy|momen|polemik|pakar|kroni|podcast|parodi|analisis|komentari|survei|siswa|siswi|bocah|dapur|ayam|mahfud)",
+  "exclude_commentary": "(?i)(ada apa dengan|bikin tertawa|ngakak sampai|gemparkan satu ruangan|keceplosan saat pidato|saat prabowo bicara|ketika prabowo bertanya|bukan asal bicara|istana respons|sambutan hangat diaspora|ditertawakan orang|pecah tawa saat singgung|yang merasa indonesia suram)",
+  "exclude_arrival": "(?i)(tiba|bertolak|keberangkatan|arriv|depart|disambut|welcome)",
+  "speaker_required": "(?i)(prabowo|presiden|president)",
+  "arrival_exempt": "(?i)(pidato|sambutan|speech|remarks|pernyataan)"
+ },
+ "source_tiers": {
+  "official_channel_exact": [
+   "prabowo subianto"
   ],
-  "stopwords": [
-    "ada",
-    "adalah",
-    "akan",
-    "anda",
-    "antara",
-    "atas",
-    "atau",
-    "bagi",
-    "bahwa",
-    "baik",
-    "banyak",
-    "besar",
-    "bisa",
-    "dalam",
-    "dan",
-    "dapat",
-    "dari",
-    "daripada",
-    "dengan",
-    "di",
-    "hanya",
-    "hari",
-    "ini",
-    "itu",
-    "jadi",
-    "jika",
-    "juga",
-    "kah",
-    "kalau",
-    "kalian",
-    "kami",
-    "kan",
-    "karena",
-    "kasih",
-    "ke",
-    "kepada",
-    "ketika",
-    "kita",
-    "lagi",
-    "lah",
-    "lebih",
-    "maka",
-    "menjadi",
-    "mereka",
-    "namun",
-    "oleh",
-    "pada",
-    "para",
-    "pun",
-    "sama",
-    "sampai",
-    "sangat",
-    "saudara",
-    "saudara-saudara",
-    "saya",
-    "sebagai",
-    "secara",
-    "sekalian",
-    "sekarang",
-    "semua",
-    "seperti",
-    "serta",
-    "sudah",
-    "tadi",
-    "tapi",
-    "telah",
-    "tentang",
-    "terhadap",
-    "terima",
-    "tidak",
-    "untuk",
-    "ya",
-    "yang"
+  "official_channel_or_title": [
+   "sekretariat presiden"
   ],
-  "speech_windows": {
-    "vyp6JITYFM8": [
-      61.6,
-      2865.0
-    ],
-    "xK61ktEglpc": [
-      0.0,
-      1050.0
-    ],
-    "hJybE-uF_qE": [
-      1161.6,
-      2850.0
-    ],
-    "rKpNQwecniM": [
-      20.2,
-      2262.0
-    ],
-    "VyPCSPnxbaE": [
-      34.4,
-      1020.0
-    ],
-    "5OIq7GaU4sI": [
-      0.0,
-      257.0
-    ],
-    "CfnRESwOZKQ": [
-      0.0,
-      923.0
-    ],
-    "E_doThSKS4E": [
-      1333.7,
-      1985.0
-    ],
-    "3e_gu9rWwWQ": [
-      0.0,
-      646.0
-    ],
-    "02IcsjvhFGQ": [
-      0.0,
-      175.0
-    ]
+  "full_media_title_re": "(?i)\\bfull\\b|\\blengkap\\b|\\blive\\b"
+ },
+ "dedup": {
+  "shingle_size": 4,
+  "same_day_containment": 0.22,
+  "cross_day_containment": 0.58
+ },
+ "canonical": {
+  "opening_re": "(?i)\\b(bismillah|assalamualaikum|asalamualaikum|salam sejahtera|yang saya hormati|yang terhormat|yang kami hormati|saudara-saudara|hadirin|om swastiastu|shalom)\\b",
+  "padded_opening_fraction": 0.02,
+  "complete_opening_fraction": 0.01,
+  "score_title_bonus_re": "(?i)(full|lengkap|pidato|sambutan|speech|remarks)",
+  "score_live_penalty_re": "(?i)\\blive\\b"
+ },
+ "policy_signals": {
+  "label": "MBG",
+  "full_label": "makan bergizi gratis",
+  "exact_token": "mbg",
+  "full_phrase_re": "\\b(?:program\\s+)?makanan?\\s+bergizi\\s+gratis\\b",
+  "paired_terms": [
+   "makan",
+   "bergizi"
+  ],
+  "context_token": "sppg",
+  "context_terms": [
+   "gizi",
+   "bergizi",
+   "makan",
+   "anak"
+  ],
+  "ambiguous_re": "\\bmbg\\s+singkatan\\s+mas\\s+bahlil\\s+ganteng\\b",
+  "label_slug": "mbg"
+ },
+ "topics": {
+  "pangan": [
+   "ikan",
+   "pupuk",
+   "tebu",
+   "sawah",
+   "swasembada",
+   "beras",
+   "pertanian",
+   "pangan",
+   "petani",
+   "gula",
+   "jagung",
+   "nelayan"
+  ],
+  "ekonomi": [
+   "pajak",
+   "umkm",
+   "pertumbuhan",
+   "koperasi",
+   "ekonomi",
+   "pengusaha",
+   "perdagangan",
+   "bumn",
+   "industri",
+   "rupiah",
+   "investasi",
+   "hilirisasi",
+   "anggaran",
+   "usaha"
+  ],
+  "pendidikan": [
+   "sekolah",
+   "guru",
+   "ilmu",
+   "kampus",
+   "pelajar",
+   "sains",
+   "universitas",
+   "siswa",
+   "pendidikan"
+  ],
+  "kesehatan_dan_gizi": [
+   "makanan",
+   "sppg",
+   "gizi",
+   "stunting",
+   "anak",
+   "dokter",
+   "bgn",
+   "kesehatan",
+   "sakit",
+   "rumah",
+   "bergizi",
+   "nutrisi"
+  ],
+  "tata_kelola": [
+   "integritas",
+   "pemerintah",
+   "reformasi",
+   "hukum",
+   "uang",
+   "efisiensi",
+   "korupsi",
+   "hukuman",
+   "pengawasan",
+   "kebocoran",
+   "suap"
+  ],
+  "pertahanan_dan_keamanan": [
+   "militer",
+   "perang",
+   "tni",
+   "pertahanan",
+   "polri",
+   "keamanan",
+   "prajurit",
+   "kepolisian"
+  ],
+  "nasional_dan_identitas": [
+   "negara",
+   "kedaulatan",
+   "kemerdekaan",
+   "bangsa",
+   "pancasila",
+   "rakyat",
+   "tanah",
+   "air",
+   "merah",
+   "putih",
+   "indonesia"
+  ]
+ },
+ "topic_order": [
+  "pangan",
+  "ekonomi",
+  "pendidikan",
+  "kesehatan_dan_gizi",
+  "tata_kelola",
+  "pertahanan_dan_keamanan",
+  "nasional_dan_identitas"
+ ],
+ "pronouns": [
+  "saya",
+  "kita",
+  "kami",
+  "mereka"
+ ],
+ "stopwords": [
+  "ada",
+  "adalah",
+  "akan",
+  "anda",
+  "antara",
+  "atas",
+  "atau",
+  "bagi",
+  "bahwa",
+  "baik",
+  "banyak",
+  "besar",
+  "bisa",
+  "dalam",
+  "dan",
+  "dapat",
+  "dari",
+  "daripada",
+  "dengan",
+  "di",
+  "hanya",
+  "hari",
+  "ini",
+  "itu",
+  "jadi",
+  "jika",
+  "juga",
+  "kah",
+  "kalau",
+  "kalian",
+  "kami",
+  "kan",
+  "karena",
+  "kasih",
+  "ke",
+  "kepada",
+  "ketika",
+  "kita",
+  "lagi",
+  "lah",
+  "lebih",
+  "maka",
+  "menjadi",
+  "mereka",
+  "namun",
+  "oleh",
+  "pada",
+  "para",
+  "pun",
+  "sama",
+  "sampai",
+  "sangat",
+  "saudara",
+  "saudara-saudara",
+  "saya",
+  "sebagai",
+  "secara",
+  "sekalian",
+  "sekarang",
+  "semua",
+  "seperti",
+  "serta",
+  "sudah",
+  "tadi",
+  "tapi",
+  "telah",
+  "tentang",
+  "terhadap",
+  "terima",
+  "tidak",
+  "untuk",
+  "ya",
+  "yang"
+ ],
+ "speech_windows": {
+  "vyp6JITYFM8": [
+   61.6,
+   2865.0
+  ],
+  "xK61ktEglpc": [
+   0.0,
+   1050.0
+  ],
+  "hJybE-uF_qE": [
+   1161.6,
+   2850.0
+  ],
+  "rKpNQwecniM": [
+   20.2,
+   2262.0
+  ],
+  "VyPCSPnxbaE": [
+   34.4,
+   1020.0
+  ],
+  "5OIq7GaU4sI": [
+   0.0,
+   257.0
+  ],
+  "CfnRESwOZKQ": [
+   0.0,
+   923.0
+  ],
+  "E_doThSKS4E": [
+   1333.7,
+   1985.0
+  ],
+  "3e_gu9rWwWQ": [
+   0.0,
+   646.0
+  ],
+  "02IcsjvhFGQ": [
+   0.0,
+   175.0
+  ]
+ },
+ "display_name": "prabowo.speeches",
+ "repo_url": "https://github.com/himanusia/youtube-speech-corpus",
+ "repo_label": "github.com/himanusia/youtube-speech-corpus",
+ "programs": [
+  {
+   "label": "MBG",
+   "full": "Makan Bergizi Gratis",
+   "re": "\\b(?:mbg|makan(?:an)?\\s+bergizi|bergizi\\s+gratis|gizi\\s+gratis|sppg|badan\\s+gizi\\s+nasional|program\\s+gizi)\\b"
   },
-  "display_name": "prabowo.speeches",
-  "repo_url": "https://github.com/himanusia/youtube-speech-corpus",
-  "repo_label": "github.com/himanusia/youtube-speech-corpus"
+  {
+   "label": "Danantara",
+   "full": "dana investasi negara",
+   "re": "\\bdanantara\\b|sovereign\\s+wealth"
+  },
+  {
+   "label": "Hilirisasi",
+   "full": "industri pengolahan dalam negeri",
+   "re": "\\bhilirisasi\\b|\\bdi\\s+hilir\\b"
+  },
+  {
+   "label": "Koperasi desa",
+   "full": "koperasi desa merah putih",
+   "re": "koperasi\\s+(?:desa|merah\\s+putih)|\\bkopdes\\b"
+  },
+  {
+   "label": "Rumah subsidi",
+   "full": "rumah rakyat / subsidi perumahan",
+   "re": "rumah\\s+subsidi|rumah\\s+rakyat|perumahan\\s+rakyat|\\bflpp\\b|\\brusun\\b"
+  },
+  {
+   "label": "Sekolah Rakyat",
+   "full": "sekolah rakyat",
+   "re": "sekolah\\s+rakyat"
+  },
+  {
+   "label": "Swasembada",
+   "full": "swasembada pangan/energi",
+   "re": "swasembada"
+  },
+  {
+   "label": "B50 / biodiesel",
+   "full": "biodiesel dan bahan bakar nabati",
+   "re": "\\bb50\\b|\\bb40\\b|biodiesel|bahan\\s+bakar\\s+nabati"
+  },
+  {
+   "label": "IKN",
+   "full": "ibu kota nusantara",
+   "re": "\\bikn\\b|ibu\\s+kota\\s+nusantara|ibu\\s+kota\\s+baru"
+  },
+  {
+   "label": "PLTS / energi surya",
+   "full": "pembangkit listrik tenaga surya",
+   "re": "\\bplts\\b|tenaga\\s+surya|panel\\s+surya|energi\\s+surya"
+  },
+  {
+   "label": "3 juta rumah",
+   "full": "program tiga juta rumah",
+   "re": "(?:3|tiga)\\s+juta\\s+rumah"
+  },
+  {
+   "label": "Freeport",
+   "full": "PT Freeport Indonesia",
+   "re": "freeport"
+  }
+ ],
+ "concepts": [
+  {
+   "label": "Kekuatan asing / pengkhianat",
+   "note": "kata literal 'antek' nol; maksudnya disampaikan lewat sinonim",
+   "re": "\\bantek|antek-antek|londo\\s+ireng|kaki\\s+tangan|pengkhianat|ditunggangi|dikendalikan\\s+asing|kekuatan[\\s-]kekuatan\\s+asing|bangsa[\\s-]bangsa\\s+asing"
+  },
+  {
+   "label": "Korupsi dan kebocoran",
+   "note": "kosakata negatif yang paling dominan, jauh di atas hinaan pribadi",
+   "re": "\\bkorupsi|koruptor|\\bmaling\\b|mencuri|dicuri|kebocoran|\\bbocor\\b|mark.?up"
+  },
+  {
+   "label": "Bencana dan penanganan",
+   "note": "sering dibahas lewat nama lembaga, bukan nama bencananya",
+   "re": "karhutla|kebakaran\\s+hutan|kabut\\s+asap|titik\\s+api|\\bbnpb\\b|\\bbmkg\\b|gempa|banjir|longsor|erupsi|bencana|kekeringan"
+  }
+ ]
 }

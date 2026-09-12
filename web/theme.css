@@ -243,6 +243,124 @@ h3 { font-size: var(--step-1); }
 
 .stat__l { color: var(--muted-fg); font-size: var(--step--1); }
 
+/* ------------------------------------------------------- latar belakang */
+
+/* Siluet tipis satu warna. Warnanya dari CSS, bentuknya dari mask PNG,
+   jadi satu berkas melayani tema terang dan gelap. */
+.bg-figure {
+  position: fixed;
+  right: -3rem;
+  bottom: -3rem;
+  width: min(44rem, 74vw);
+  aspect-ratio: 420 / 590;
+  background-color: var(--primary);
+  -webkit-mask-image: url('prabowo-mask.png');
+  mask-image: url('prabowo-mask.png');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-position: bottom right;
+  mask-position: bottom right;
+  opacity: 0.055;
+  pointer-events: none;
+  user-select: none;
+  z-index: 0;
+}
+
+:root[data-theme='dark'] .bg-figure { opacity: 0.085; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .bg-figure { opacity: 0.085; }
+}
+
+@media (max-width: 60rem) {
+  .bg-figure { width: 34rem; right: -6rem; opacity: 0.045; }
+}
+
+@media print { .bg-figure { display: none; } }
+
+.top, main, footer { position: relative; z-index: 1; }
+
+/* ------------------------------------------------------------ pengukur */
+
+.meter {
+  display: grid;
+  grid-template-columns: minmax(7rem, 12rem) 1fr 5.5rem;
+  gap: 0.7rem;
+  align-items: center;
+  padding: 0.3rem 0;
+}
+
+.meter__label {
+  font-size: var(--step--1);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.meter__track {
+  height: 0.6rem;
+  background: var(--muted);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.meter__fill {
+  height: 100%;
+  background: var(--primary);
+  border-radius: 999px;
+  min-width: 2px;
+}
+
+.meter__val {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  color: var(--muted-fg);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.meter__val b { color: var(--fg); font-weight: 650; }
+
+@media (max-width: 46rem) {
+  .meter { grid-template-columns: 1fr 4.5rem; }
+  .meter__track { grid-column: 1 / -1; }
+}
+
+.sect { margin-top: 2.25rem; }
+
+.sect__head { display: flex; align-items: baseline; gap: 0.75rem; margin-bottom: 0.6rem; flex-wrap: wrap; }
+.sect__head h2 { margin: 0; font-size: var(--step-2); }
+.sect__head .hint { margin: 0; }
+
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
+  gap: 1.5rem 2.5rem;
+}
+
+.words { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+
+.word {
+  font-family: var(--font-mono);
+  font-size: var(--step--1);
+  padding: 0.2rem 0.5rem;
+  border: var(--rule);
+  border-radius: 999px;
+  background: var(--card);
+}
+
+.word b { color: var(--primary); font-weight: 650; }
+
+.note-inline {
+  border-left: 3px solid var(--border-strong);
+  padding-left: 0.8rem;
+  color: var(--muted-fg);
+  font-size: var(--step--1);
+  margin: 0.6rem 0 0;
+}
+
 /* ------------------------------------------------------------------ chip */
 
 .chip {
