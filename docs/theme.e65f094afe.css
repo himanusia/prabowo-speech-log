@@ -17,7 +17,7 @@
   --card: #fdf6f5;
   --card-fg: #241f20;
   --muted: #f7efee;
-  --muted-fg: #7a6b6a;
+  --muted-fg: #6b5d5c;
   --popover: #ffffff;
   --border: #ecdbd9;
   --border-strong: #dcc6c3;
@@ -67,7 +67,7 @@
     --card: #1d1819;
     --card-fg: #f2eaea;
     --muted: #241e1f;
-    --muted-fg: #a3969a;
+    --muted-fg: #b3a5a9;
     --popover: #221c1d;
     --border: #35292a;
     --border-strong: #4a3a3b;
@@ -91,7 +91,7 @@
   --card: #1d1819;
   --card-fg: #f2eaea;
   --muted: #241e1f;
-  --muted-fg: #a3969a;
+  --muted-fg: #b3a5a9;
   --popover: #221c1d;
   --border: #35292a;
   --border-strong: #4a3a3b;
@@ -139,7 +139,21 @@ code, .mono, kbd, samp { font-family: var(--font-mono); font-variant-numeric: ta
 
 /* ---------------------------------------------------------------- kerangka */
 
-.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 var(--sp-4); }
+.wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding-left: var(--sp-4);
+  padding-right: var(--sp-4);
+}
+
+/* main memakai class="wrap". Tanpa aturan ini, padding vertikal dari
+   selektor `main` (spesifisitas elemen) kalah oleh `.wrap` (kelas),
+   sehingga judul menempel ke navbar dan blok KPI menempel ke kartu
+   di bawahnya. Terukur: jaraknya 0px. */
+main.wrap {
+  padding-top: var(--sp-5);
+  padding-bottom: var(--sp-6);
+}
 
 .top {
   position: sticky;
@@ -209,7 +223,11 @@ main { padding: var(--sp-5) 0 var(--sp-6); }
 
 h1, h2, h3 { line-height: 1.25; margin: 0 0 .5rem; font-weight: 650; letter-spacing: -.011em; }
 
-h1 { font-size: var(--step-3); }
+h1 {
+  font-size: var(--step-3);
+  margin: var(--sp-2) 0 var(--sp-2);
+  letter-spacing: -0.03em;
+}
 h2 { font-size: var(--step-2); }
 h3 { font-size: var(--step-1); }
 
@@ -222,7 +240,7 @@ h3 { font-size: var(--step-1); }
   margin: 0 0 .4rem;
 }
 
-.lede { color: var(--muted-fg); max-width: 62ch; margin: 0 0 1.25rem; }
+.lede { color: var(--muted-fg); max-width: 62ch; margin: 0 0 var(--sp-5); }
 
 .hint { color: var(--muted-fg); font-size: var(--step--1); }
 
@@ -374,6 +392,7 @@ body::after {
 /* ------------------------------------------------------------ dasbor */
 
 .dash {
+  margin-top: var(--sp-4);
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: var(--sp-4);
@@ -392,6 +411,15 @@ body::after {
   padding: var(--sp-5) var(--sp-5) calc(var(--sp-5) + 0.2rem);
 }
 
+.card__h h2,
+.card__h h3 {
+  margin: 0;
+  font-size: var(--step-2);
+  letter-spacing: -0.025em;
+  font-weight: 750;
+  line-height: 1.25;
+}
+
 .card__h {
   display: flex;
   align-items: baseline;
@@ -402,12 +430,7 @@ body::after {
   border-bottom: 1px solid var(--border);
 }
 
-.card__h h2 {
-  margin: 0;
-  font-size: var(--step-2);
-  letter-spacing: -0.025em;
-  font-weight: 750;
-}
+
 
 .card__h .unit {
   font-family: var(--font-mono);
@@ -429,6 +452,7 @@ body::after {
 /* --------------------------------------------------------- angka besar */
 
 .hero {
+  margin-bottom: var(--sp-1);
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
   gap: var(--sp-3);
@@ -1064,6 +1088,15 @@ footer {
 .legend__t { margin-right: var(--sp-1); }
 
 /* kepala kartu: beri jarak ke isi */
+.card__h h2,
+.card__h h3 {
+  margin: 0;
+  font-size: var(--step-2);
+  letter-spacing: -0.025em;
+  font-weight: 750;
+  line-height: 1.25;
+}
+
 .card__h {
   display: flex;
   align-items: baseline;
@@ -1083,3 +1116,107 @@ footer {
 .hero { align-items: stretch; }
 .hero__i { display: flex; flex-direction: column; justify-content: space-between; }
 .hero__l { margin-top: auto; padding-top: var(--sp-2); }
+
+
+/* ------------------------------------------------------- antar halaman */
+
+/* Transisi lintas dokumen (Chrome/Edge). Tanpa JavaScript: browser
+   menyilangkan halaman lama ke halaman baru, jadi tidak ada kedip putih.
+   Di browser yang belum mendukung, navigasi biasa tetap jalan. */
+@view-transition { navigation: auto; }
+
+::view-transition-old(root) { animation: 140ms ease-out both vt-keluar; }
+::view-transition-new(root) { animation: 190ms ease-in both vt-masuk; }
+
+@keyframes vt-keluar { to { opacity: 0; } }
+@keyframes vt-masuk  { from { opacity: 0; } }
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(root), ::view-transition-new(root) { animation: none; }
+}
+
+
+/* ------------------------------------------------------- blok bertujuan */
+
+/* Halaman depan disusun sebagai beberapa BLOK, tiap blok satu pertanyaan.
+   Tujuannya supaya jelas angka ini mau membuktikan apa, bukan sekadar
+   tumpukan grafik. */
+.blok { margin-top: var(--sp-6); }
+.blok:first-of-type { margin-top: var(--sp-5); }
+
+.blok__t {
+  font-size: var(--step-3);
+  letter-spacing: -0.03em;
+  font-weight: 750;
+  margin: 0 0 var(--sp-2);
+  padding-bottom: var(--sp-2);
+  border-bottom: 2px solid var(--primary);
+  display: inline-block;
+}
+
+.blok__d {
+  color: var(--muted-fg);
+  max-width: 68ch;
+  margin: 0 0 var(--sp-4);
+  font-size: var(--step-1);
+  line-height: 1.6;
+}
+
+/* TEMUAN: kesimpulan satu baris di atas tiap grafik. Ini yang menjawab
+   "objektifnya apa" — grafik cuma buktinya. */
+.temuan {
+  margin: 0 0 var(--sp-3);
+  font-size: var(--step-0);
+  line-height: 1.6;
+  color: var(--fg);
+  max-width: 72ch;
+}
+.temuan b { color: var(--primary); font-weight: 750; }
+.temuan i { font-style: normal; font-family: var(--font-mono); }
+
+@media (max-width: 720px) {
+  .blok__t { font-size: var(--step-2); }
+  .blok { margin-top: var(--sp-5); }
+}
+
+
+/* ------------------------------------------------------- layar kecil */
+
+@media (max-width: 900px) {
+  .hero { grid-template-columns: repeat(2, 1fr); }
+  .c5, .c7, .c4, .c6, .c8 { grid-column: span 12; }
+}
+
+@media (max-width: 720px) {
+  main.wrap { padding-top: var(--sp-4); padding-bottom: var(--sp-5); }
+  .blok { margin-top: var(--sp-5); }
+  .hero { grid-template-columns: repeat(2, 1fr); gap: var(--sp-2); }
+  .hero__i { padding: var(--sp-3); }
+  .hero__n { font-size: 1.5rem !important; }
+  .card { padding: var(--sp-4); border-radius: 12px; }
+  .dash { gap: var(--sp-3); }
+  .chart { height: auto !important; min-height: 15rem; }
+  .top__row { flex-wrap: wrap; gap: var(--sp-2); }
+}
+
+@media (max-width: 460px) {
+  .hero { grid-template-columns: 1fr; }
+  .blok__d, .temuan { font-size: var(--step-0); }
+}
+
+
+/* Catatan batasan — sengaja ditaruh paling atas supaya dibaca sebelum
+   angkanya, bukan setelah kesimpulan terbentuk. */
+.catatan {
+  margin: var(--sp-3) 0 0;
+  padding: var(--sp-3) var(--sp-4);
+  border-left: 3px solid var(--warn);
+  background: color-mix(in srgb, var(--warn) 8%, transparent);
+  border-radius: 0 10px 10px 0;
+  font-size: var(--step-0);
+  line-height: 1.6;
+  max-width: 78ch;
+  color: var(--fg);
+}
+.catatan b { color: var(--warn); }
+.catatan i { font-style: normal; font-weight: 600; }

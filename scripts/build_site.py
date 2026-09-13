@@ -104,6 +104,9 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
 <link rel="stylesheet" href="{rel_root}theme.{ASSET_V['css']}.css">
 <link rel="alternate" type="application/json" href="{rel_root}data/index.json" title="Indeks JSON">
 <script type="application/ld+json">{jsonld}</script>
+<script type="speculationrules">
+{{"prerender":[{{"where":{{"href_matches":"/*"}},"eagerness":"moderate"}}]}}
+</script>
 </head>
 <body>
 <header class="top">
@@ -398,18 +401,40 @@ def render_daftar(speeches: list[dict], meta: dict, coverage: dict) -> str:
     )
 
 
-def _chart(id_: str, judul: str, unit: str, tinggi: str = "16rem", kelas: str = "c12") -> str:
-    """Satu panel grafik. Kanvas diisi charts.js (ECharts)."""
-    return f"""    <section class="card {kelas}">
-      <div class="card__h"><h2>{e(judul)}</h2><span class="unit">{unit}</span></div>
-      <div class="chart" id="{id_}" style="height:{tinggi}"></div>
-    </section>"""
+def _chart(id_: str, judul: str, temuan: str, unit: str, tinggi: str = "16rem",
+           kelas: str = "c12") -> str:
+    """Satu panel: judul, TEMUAN (kesimpulan satu baris), satuan, lalu grafik."""
+    return f"""      <section class="card {kelas}">
+        <div class="card__h">
+          <h3>{e(judul)}</h3>
+          <span class="unit">{unit}</span>
+        </div>
+        <p class="temuan">{temuan}</p>
+        <div class="chart" id="{id_}" style="height:{tinggi}"></div>
+      </section>"""
 
 
 def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -> str:
     L = home.get("length") or {}
+    prog = home.get("programs", [])
+    tw = home.get("top_words", [])
+    top = home.get("topics", [])
+    fr = sorted(home.get("framing", []), key=lambda x: -x["per_1000"])
+    conc = home.get("concepts", [])
+    hist = home.get("length_histogram", [])
+    bln = [m for m in coverage.get("months", []) if m.get("covered")]
+
+    n = home.get("event_count") or 1
+    mbg = next((x for x in prog if "mbg" in x["label"].lower()), None)
+    kor = next((x for x in conc if "korupsi" in x["label"].lower()), None)
+    kita = next((x for x in fr if x["label"] == "kita"), None)
+    saya = next((x for x in fr if x["label"] == "saya"), None)
+    rasio = home.get("kita_saya_ratio")
+    t0 = top[0] if top else None
+    t1 = top[1] if len(top) > 1 else None
+
     hero = f"""  <div class="hero">
-    <div class="hero__i"><span class="hero__n hero__n--accent">{fmt_int(home.get('event_count'))}</span><span class="hero__l">pidato</span></div>
+    <div class="hero__i"><span class="hero__n hero__n--accent">{fmt_int(n)}</span><span class="hero__l">pidato</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(home.get('token_count'))}</span><span class="hero__l">token</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(home.get('upload_count'))}</span><span class="hero__l">unggahan</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(L.get('median'))}</span><span class="hero__l">token median</span></div>
@@ -417,23 +442,13 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
     <div class="hero__i"><span class="hero__n hero__n--kecil">{e(format_span(coverage))}</span><span class="hero__l">rentang</span></div>
   </div>"""
 
-    tw = home.get("top_words", [])
-    prog = home.get("programs", [])[:9]
-    conc = home.get("concepts", [])[:5]
-    top = home.get("topics", [])
-    fr_sorted = sorted(home.get("framing", []), key=lambda x: -x["per_1000"])
-    hist = home.get("length_histogram", [])
-    bln = [m for m in coverage.get("months", []) if m.get("covered")]
-
-    # Data grafik ditulis KE DALAM HTML sebagai JSON: perayap dan pembaca
-    # tanpa JavaScript tetap mendapat angkanya.
     chart_data = {
         "words": [{"name": w["word"], "value": w["count"]} for w in tw[:20]],
-        "programs": [{"name": x["label"], "value": round(x["share"])} for x in prog],
+        "programs": [{"name": x["label"], "value": round(x["share"])} for x in prog[:9]],
         "topics": [{"name": x["topic"].replace("_", " "), "value": round(x["per_1000"], 1)}
                    for x in top],
-        "framing": [{"name": x["label"], "value": round(x["per_1000"], 1)} for x in fr_sorted],
-        "concepts": [{"name": x["label"], "value": round(x["share"])} for x in conc],
+        "framing": [{"name": x["label"], "value": round(x["per_1000"], 1)} for x in fr],
+        "concepts": [{"name": x["label"], "value": round(x["share"])} for x in conc[:5]],
         "length": {"labels": [x["label"] for x in hist],
                    "counts": [x["count"] for x in hist]},
         "months": [{"month": m["month"], "events": m["events"], "tokens": m["tokens"]}
@@ -442,47 +457,121 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
                       "tokens": s["token_count"] or 0,
                       "url": f"pidato/{s['id']}.html"} for s in speeches],
     }
-    payload = json.dumps(chart_data, ensure_ascii=False, separators=(",", ":"))
-    payload = payload.replace("</", "<\\/")      # jangan sampai menutup <script>
+    payload = json.dumps(chart_data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+
+    def pct(x):
+        return f"{x:.0f}%" if x is not None else "—"
 
     body = f"""  <h1>{e(SITE_NAME)}</h1>
-  <p class="lede">Seluruh pidato, sambutan, dan pernyataan resmi yang terkumpul —
-  diukur, bukan diringkas.</p>
+  <p class="lede">Semua pidato sejak 20 Oktober 2024, dihitung — bukan diringkas.
+  Empat pertanyaan, dijawab dari {fmt_int(n)} pidato yang sudah terkumpul.</p>
+
+  <div class="catatan">
+    <b>Baca dulu.</b> Arsip ini belum lengkap. Yang terkumpul {fmt_int(n)} dari
+    perkiraan {fmt_int(meta.get('era_videos') or 894)} video era kepresidenan,
+    dan sebarannya condong ke 2026 karena cara pengumpulan, bukan karena dia
+    makin sering berpidato. Angka di bawah menggambarkan <i>apa yang sudah
+    terkumpul</i>, bukan seluruh masa jabatannya.
+  </div>
 
 {hero}
 
-  <div class="dash">
-{_chart('chart-program', 'Program yang dibahas', 'luas kotak = % pidato', '17rem', 'c5')}
-{_chart('chart-kata', 'Kata terbanyak', '14 teratas, tanpa kata fungsi', '17rem', 'c7')}
-{_chart('chart-sapa', 'Cara dia menyapa', 'per 1.000 token', '14rem', 'c5')}
-{_chart('chart-masalah', 'Yang disebut masalah', 'porsi pidato', '14rem', 'c7')}
-{_chart('chart-topik', 'Topik', 'kepadatan per 1.000 token', '15rem', 'c7')}
-{_chart('chart-panjang', 'Panjang pidato', 'ribu token', '15rem', 'c5')}
-{_chart('chart-volume', 'Volume per bulan', 'jumlah pidato &middot; bisa di-geser', '15rem', 'c12')}
-    <section class="card c12">
-      <div class="card__h"><h2>Sebaran waktu</h2>
-        <span class="unit">{len(coverage.get('months_without_events', []))} bulan kosong</span></div>
-      <div class="heat">{_cov_cells(coverage)}</div>
-      <div class="legend">
-        <span class="legend__t">jumlah pidato per bulan</span>
-        <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 12%, var(--card))"></span>
-        <span>sedikit</span>
-        <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 70%, var(--card))"></span>
-        <span>banyak</span>
-        <span class="legend__s" style="border-style:dashed;background:transparent"></span>
-        <span>kosong</span>
-      </div>
-    </section>
-{_chart('chart-waktu', 'Garis waktu', '<a href="daftar.html">buka daftar lengkap &rarr;</a>', '17rem', 'c12')}
-  </div>
+  <section class="blok">
+    <h2 class="blok__t">1 &middot; Apa yang dia anggap penting?</h2>
+    <p class="blok__d">Kalau sesuatu disebut berulang kali di ribuan kalimat, itu masuk prioritasnya.
+    Diukur dari jumlah pidato yang menyebutnya, bukan jumlah kata mentah.</p>
+    <div class="dash">
+{_chart('chart-program', 'Program yang paling banyak dibahas',
+        f"<b>MBG disebut di {pct(mbg['share'] if mbg else None)} pidato</b> — hampir separuh. "
+        f"Jauh di atas Danantara ({pct(prog[1]['share']) if len(prog)>1 else '—'}) "
+        f"dan hilirisasi ({pct(prog[2]['share']) if len(prog)>2 else '—'}).",
+        'luas kotak = % pidato', '17rem', 'c5')}
+{_chart('chart-kata', 'Kata yang paling sering dia ucapkan',
+        f"Puncaknya <b>{e(tw[0]['word'])}</b> ({fmt_int(tw[0]['count']) if tw else 0}&times;). "
+        f"Sepuluh teratas semuanya soal negara dan rakyat — tidak ada satu pun nama program.",
+        '14 teratas, tanpa kata fungsi', '17rem', 'c7')}
+{_chart('chart-topik', 'Topik yang mendominasi',
+        f"<b>{e(t0['topic'].replace('_',' ')) if t0 else '—'}</b> {t0['per_1000'] if t0 else 0:.1f} "
+        f"per 1.000 token, sementara ekonomi cuma {t1['per_1000'] if t1 else 0:.1f}. "
+        f"Selisihnya lima kali — hampir semua pidato bernada kebangsaan.",
+        'kepadatan per 1.000 token', '15rem', 'c12')}
+    </div>
+  </section>
+
+  <section class="blok">
+    <h2 class="blok__t">2 &middot; Bagaimana dia membawa diri?</h2>
+    <p class="blok__d">Pilihan kata ganti menunjukkan apakah dia berbicara sebagai bagian
+    dari rakyat, atau sebagai orang yang bicara kepada rakyat.</p>
+    <div class="dash">
+{_chart('chart-sapa', 'Dia bilang "kita", bukan "saya"',
+        f"<b>kita {kita['per_1000'] if kita else 0:.1f}</b> vs "
+        f"<b>saya {saya['per_1000'] if saya else 0:.1f}</b> per 1.000 token — "
+        f"<b>{rasio}&times; lebih sering</b>. Kata <i>kalian</i> hampir tidak pernah dipakai "
+        f"({next((x['per_1000'] for x in fr if x['label']=='kalian'), 0):.1f}).",
+        'per 1.000 token', '14rem', 'c5')}
+{_chart('chart-masalah', 'Yang dia sebut sebagai masalah',
+        f"<b>Korupsi dan kebocoran {pct(kor['share'] if kor else None)}</b> — dua dari tiga pidato. "
+        f"Jauh di atas hinaan pribadi, yang jarang muncul.",
+        'porsi pidato', '14rem', 'c7')}
+    </div>
+  </section>
+
+  <section class="blok">
+    <h2 class="blok__t">3 &middot; Seberapa besar dan seberapa lengkap?</h2>
+    <p class="blok__d">Sebelum menyimpulkan apa pun dari angka di atas, ukuran sampelnya
+    harus jujur dulu. Bagian ini menunjukkan apa yang sudah terkumpul dan apa yang belum.</p>
+    <div class="dash">
+{_chart('chart-panjang', 'Panjang pidatonya tidak seragam',
+        f"Setengah pidato di bawah <b>{fmt_int(L.get('median'))} token</b>, "
+        f"tapi yang terpanjang <b>{fmt_int(L.get('longest'))}</b> — "
+        f"selisihnya {round((L.get('longest') or 1)/max(1,(L.get('median') or 1)))}&times;. "
+        f"Pidato pendek dan marathon tidak bisa diperlakukan sama.",
+        'ribu token &middot; jumlah pidato', '15rem', 'c5')}
+{_chart('chart-volume', 'Volume per bulan',
+        f"Puncaknya <b>{max((m['events'] for m in bln), default=0)} pidato</b> dalam sebulan. "
+        f"Tapi pola naik ini <b>artefak cara pencarian</b>, bukan bukti dia makin sering berpidato — "
+        f"lihat halaman <a href='cakupan.html'>cakupan</a>.",
+        'jumlah pidato &middot; bisa di-geser', '15rem', 'c7')}
+{_chart('chart-waktu', 'Setiap titik satu pidato',
+        f"{fmt_int(n)} tanda, tinggi = panjang pidato. "
+        f"Bagian yang renggang di kiri menandakan periode yang belum tergali.",
+        '<a href="daftar.html">buka daftar lengkap &rarr;</a>', '17rem', 'c12')}
+    </div>
+  </section>
+
+  <section class="blok">
+    <h2 class="blok__t">4 &middot; Seberapa bisa dipercaya?</h2>
+    <p class="blok__d">Batasan yang perlu dibaca sebelum mengutip angka mana pun di halaman ini.</p>
+    <div class="dash">
+      <section class="card c12">
+        <div class="card__h">
+          <h3>Sebaran waktu &amp; yang belum tergali</h3>
+          <span class="unit">{len(coverage.get('months_without_events', []))} bulan kosong</span>
+        </div>
+        <p class="temuan">Kotak bergaris putus-putus = bulan tanpa pidato sama sekali.
+        Sebaran yang condong ke 2026 itu <b>artefak cara pengumpulan</b>, bukan tanda
+        Prabowo lebih sering berpidato tahun itu.</p>
+        <div class="heat">{_cov_cells(coverage)}</div>
+        <div class="legend">
+          <span class="legend__t">jumlah pidato per bulan</span>
+          <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 12%, var(--card))"></span>
+          <span>sedikit</span>
+          <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 70%, var(--card))"></span>
+          <span>banyak</span>
+          <span class="legend__s" style="border-style:dashed;background:transparent"></span>
+          <span>kosong</span>
+        </div>
+      </section>
+    </div>
+  </section>
 
   <script id="chart-data" type="application/json">{payload}</script>
 """
     return page(
-        f"{SITE_NAME} — {len(speeches)} pidato",
+        f"{SITE_NAME} — {n} pidato",
         body,
-        desc=f"Arsip {len(speeches)} pidato Presiden Prabowo dengan transkrip ber-cap-waktu: "
-             f"kata terbanyak, program yang paling dibahas, topik, dan tautan ke video asalnya.",
+        desc=f"Cara Prabowo berpidato, diukur dari {n} pidato: program yang paling dibahas, "
+             f"kata yang paling sering diucapkan, dan batas kepercayaan datanya.",
         canonical="/",
         jsonld=json.dumps({
             "@context": "https://schema.org",

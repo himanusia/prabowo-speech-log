@@ -62,14 +62,14 @@
         borderColor: t.border,
         borderWidth: 1,
         padding: [7, 10],
-        textStyle: { color: t.fg, fontSize: 12, fontFamily: t.font },
+        textStyle: { color: t.fg, fontSize: 13, fontFamily: t.font },
         extraCssText: 'border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,.10);'
       }
     };
   }
 
   function axisLabel(t) {
-    return { color: t.muted, fontSize: 11, fontFamily: t.font };
+    return { color: t.muted, fontSize: 12, fontFamily: t.font };
   }
 
   /* garis pisah vertikal antar label, supaya tidak terlihat menempel */
@@ -111,7 +111,7 @@
           color: function (p) { return toRGBA(t.primary, 0.42 + (p.dataIndex / d.length) * 0.58); }
         },
         label: {
-          show: true, position: 'right', color: t.muted, fontSize: 11,
+          show: true, position: 'right', color: t.muted, fontSize: 12,
           fontFamily: t.mono,
           formatter: function (p) { return nf(p.value); }
         },
@@ -144,9 +144,9 @@
           rich: {
             /* overflow break + width: kalau tidak, ECharts memotongnya
                jadi "Koper…" pada kotak yang sempit */
-            n: { fontSize: 12, fontWeight: 700, color: '#fff', lineHeight: 16,
+            n: { fontSize: 13, fontWeight: 700, color: '#fff', lineHeight: 16,
                  width: 92, overflow: 'break' },
-            v: { fontSize: 11, fontFamily: t.mono, color: 'rgba(255,255,255,.85)',
+            v: { fontSize: 12, fontFamily: t.mono, color: 'rgba(255,255,255,.85)',
                  lineHeight: 14, width: 92 }
           }
         },
@@ -181,7 +181,7 @@
           borderRadius: [0, 4, 4, 0],
           color: function (p) { return toRGBA(t.primary, 0.42 + (p.dataIndex / d.length) * 0.58); }
         },
-        label: { show: true, position: 'right', color: t.muted, fontSize: 11, fontFamily: t.mono },
+        label: { show: true, position: 'right', color: t.muted, fontSize: 12, fontFamily: t.mono },
         emphasis: { itemStyle: { color: t.primary } }
       }]
     });
@@ -213,7 +213,7 @@
           color: function (p) { return toRGBA(t.primary, 0.42 + (p.dataIndex / d.length) * 0.58); }
         },
         label: {
-          show: true, position: 'top', color: t.fg, fontSize: 11,
+          show: true, position: 'top', color: t.fg, fontSize: 12,
           fontFamily: t.mono, fontWeight: 700
         },
         emphasis: { itemStyle: { color: t.primary } }
@@ -230,7 +230,7 @@
       legend: {
         type: 'scroll', orient: 'vertical', right: 0, top: 'center',
         itemWidth: 10, itemHeight: 10, itemGap: 18,
-        textStyle: { color: t.fg, fontSize: 12, fontFamily: t.font },
+        textStyle: { color: t.fg, fontSize: 13, fontFamily: t.font },
         formatter: function (name) {
           var f = D.concepts.filter(function (x) { return x.name === name; })[0];
           return name + '  ' + (f ? f.value + '%' : '');
@@ -269,7 +269,7 @@
         type: 'bar', barMaxWidth: 40,
         data: D.length.counts,
         itemStyle: { borderRadius: [5, 5, 0, 0], color: toRGBA(t.primary, 0.72) },
-        label: { show: true, position: 'top', color: t.fg, fontSize: 11, fontFamily: t.mono, fontWeight: 700 },
+        label: { show: true, position: 'top', color: t.fg, fontSize: 12, fontFamily: t.mono, fontWeight: 700 },
         emphasis: { itemStyle: { color: t.primary } }
       }]
     });
