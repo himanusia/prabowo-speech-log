@@ -1,0 +1,58 @@
+{
+ "id": "2025-02-05-keterangan-pers-usai-hadiri-harlah-ke-102-nahdlatul",
+ "video_id": "vY3Cr_GNn04",
+ "date": "2025-02-05",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Harlah ke-102 Nahdlatul Ulama, Jakarta, 5 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=vY3Cr_GNn04",
+ "duration_s": 59,
+ "duration_hms": "0:59",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "token_count": 69,
+ "unique_word_count": 48,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "vY3Cr_GNn04",
+   "url": "https://www.youtube.com/watch?v=vY3Cr_GNn04",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Harlah ke-102 Nahdlatul Ulama, Jakarta, 5 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 56.0,
+   "text": "Bapak tadi Bapak sebut Akan dibersihkan setelah 100 hari bahasaonesia jelend jadi begini kita ingin rakyat menuntut yang bersih yang benar yang beker hanya untuk bangsa rakyat tidak ada kepentingan lain yang tidak mau bekerja benarbenar untuk rakyat Ya saya akan saya akan singkirkan ya Ma lebih jelas lagi boleh ya pakoke terima kasih ya selamat NU 100 2 tahun NU kekuatan besar bagi bangsa Indonesia Terima kasih Terima"
+  },
+  {
+   "t": 60.0,
+   "d": 3.0,
+   "text": "kasih bapak pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

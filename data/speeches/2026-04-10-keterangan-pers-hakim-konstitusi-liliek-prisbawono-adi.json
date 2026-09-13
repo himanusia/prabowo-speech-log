@@ -1,0 +1,83 @@
+{
+ "id": "2026-04-10-keterangan-pers-hakim-konstitusi-liliek-prisbawono-adi",
+ "video_id": "z4rzFf3n900",
+ "date": "2026-04-10",
+ "date_precise": true,
+ "title": "Keterangan Pers Hakim Konstitusi Liliek Prisbawono Adi, Istana Negara, 10 April 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=z4rzFf3n900",
+ "duration_s": 84,
+ "duration_hms": "1:24",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 193,
+ "unique_word_count": 99,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "z4rzFf3n900",
+   "url": "https://www.youtube.com/watch?v=z4rzFf3n900",
+   "title": "Keterangan Pers Hakim Konstitusi Liliek Prisbawono Adi, Istana Negara, 10 April 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 3,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 21.0,
+   "text": "hari ini saya telah dilantik sebagai hakim konstitusi untuk menggantikan yang mulia Prof. Dr. Anwar Utsman, Sarjan Hukum Magister Hukum sebagai sebuah kebanggaan dan kebahagiaan dan tentunya ee ucapan terima kasih kepada lembaga saya, kepada Ketua Mahkamah Agung Republik Indonesia yang mulia Prof. Dr."
+  },
+  {
+   "t": 22.0,
+   "d": 4.0,
+   "text": "Sunto yang telah memberikan saya kepercayaan untuk menduduki jabatan ini."
+  },
+  {
+   "t": 26.0,
+   "d": 10.0,
+   "text": "Saya mohon doanya tentunya ini adalah ee perjuangan bagi saya untuk selalu meningkatkan integritas dan kapasitas saya sebagai hakim konstitusi."
+  },
+  {
+   "t": 36.0,
+   "d": 10.0,
+   "text": "Sekali lagi saya mengucapkan terima kasih mohon doanya untuk melaksanakan tugas dan tanggung jawab untuk mengawal konstitusi di Republik Indonesia. Saya rasa hanya itu, Teman-teman semuanya."
+  },
+  {
+   "t": 46.0,
+   "d": 17.0,
+   "text": "ada tugas yang ke depannya yang diminta untuk kita lakukan secara spesifik tidak ada tugas khusus yang disampaikan kepada saya. Jadi saya hanya ee dalam posisi menggantikan e Pak Anwar Utsman, Prof. Anwar Usman yang telah ee 15 tahun bertugas sebagai hakim konstitusi saja."
+  },
+  {
+   "t": 63.0,
+   "d": 19.0,
+   "text": "Atau punya visi yang juga akan Bapak bawa sebagai hakim konstitusi ke depannya tentunya mengawal ee konstitusi Republik Indonesia. Itu yang tertama untuk sifat negarawan. itu yang menjadi ee apa aduan bagi kami sebagai hakim konstitusi. Itu saja. Baik, cukup. Terima kasih ya."
+  },
+  {
+   "t": 82.0,
+   "d": 3.0,
+   "text": "Baik, terima kasih. Terima kasih semuanya. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

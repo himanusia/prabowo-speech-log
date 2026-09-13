@@ -1,0 +1,88 @@
+{
+ "id": "2026-04-10-keterangan-pers-ketua-ombudsman-hery-susanto-istana",
+ "video_id": "BJgp9b2Dv50",
+ "date": "2026-04-10",
+ "date_precise": true,
+ "title": "Keterangan Pers Ketua Ombudsman Hery Susanto, Istana Negara, 10 April 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=BJgp9b2Dv50",
+ "duration_s": 187,
+ "duration_hms": "3:07",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 24,
+ "token_count": 237,
+ "unique_word_count": 127,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "BJgp9b2Dv50",
+   "url": "https://www.youtube.com/watch?v=BJgp9b2Dv50",
+   "title": "Keterangan Pers Ketua Ombudsman Hery Susanto, Istana Negara, 10 April 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 7,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  },
+  "Hilirisasi": {
+   "count": 1
+  },
+  "Sekolah Rakyat": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 26.0,
+   "text": "Alhamdulillah puji syukur ke hadirat Allah Subhanahu wa taala Tuhan yang maha esa. Hari ini kami dilantik oleh Presiden Republik Indonesia untuk menjalankan tugas, fungsi, dan kewenangan kami sebagai ee anggota merangkap ketua dan ee anggota merangkap ketua Ombusmen Republik Indonesia."
+  },
+  {
+   "t": 26.0,
+   "d": 53.0,
+   "text": "Dan untuk hal tersebut kami bersembilan akan ee segera merapatkan barisan untuk ee merampungkan tugas, fungsi, dan keuangan kami ee yang sudah ditunggu masyarakat. Karena pelantikan yang sudah memakan waktu hingga 2 bulan ya 2 bulan ini ee menjadi terhambat dan sekarang sudah terselenggara pelantikan. Oleh karena itu, kami akan ee siap untuk melaksanakan tugas fungsi dan keuangan kami. Demikian apa yang menjadi perhatian dalam pengawasan publik periode ini apa sih, Pak?"
+  },
+  {
+   "t": 79.0,
+   "d": 29.0,
+   "text": "Ee yang jadi prioritas pertama adalah ee pembenahan internal bahwa ada banyak hal di internal ombusmen yang mesti diperbaiki. di antaranya struktur SDM dan anggaran yang mana Ombusmen dirasa masih berjarak dengan pemerintah."
+  },
+  {
+   "t": 108.0,
+   "d": 24.0,
+   "text": "Oleh karena kami masih dianggap berjarak dengan pemerintah, maka kami akan mendekatkan program-program yang menjadi tujuan pemerintah yaitu asacita untuk bisa dilaksanakan sebaik-baiknya."
+  },
+  {
+   "t": 132.0,
+   "d": 25.0,
+   "text": "Dengan demikian perlu pengawasan ombusmen dan oleh karenanya program asta tersebut banyak hal yang belum tersampaikan kepada masyarakat seperti pendidikan gratis, kemudian ee sekolah rakyat, makan bergizi gratis dan lain hilirisasi dan lain sebagainya."
+  },
+  {
+   "t": 157.0,
+   "d": 30.0,
+   "text": "Oleh karenanya itu, program-program pemerintah ini akan kami dekatkan dengan masyarakat termasuk juga ee bisa dilaksanakan sebaik-baiknya. Oleh karenanya perlu pendampingan dari Ombusmen agar ee program pemerintah yang baik itu bisa tercapai kepada masyarakat. Demikian selamat"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

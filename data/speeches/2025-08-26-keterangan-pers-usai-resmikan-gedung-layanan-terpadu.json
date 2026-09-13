@@ -1,0 +1,73 @@
+{
+ "id": "2025-08-26-keterangan-pers-usai-resmikan-gedung-layanan-terpadu",
+ "video_id": "Lk27E4bo_lA",
+ "date": "2025-08-26",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo usai Resmikan Gedung Layanan Terpadu dan INN RSPON, 26 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Lk27E4bo_lA",
+ "duration_s": 41,
+ "duration_hms": "0:41",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "token_count": 96,
+ "unique_word_count": 66,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Lk27E4bo_lA",
+   "url": "https://www.youtube.com/watch?v=Lk27E4bo_lA",
+   "title": "Keterangan Pers Presiden Prabowo usai Resmikan Gedung Layanan Terpadu dan INN RSPON, 26 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 6.0,
+   "text": "Baik. Iya. Ya. Izin Bapak ya. Kalian sudah dengar kan? Sudah ikuti semua acara ya."
+  },
+  {
+   "t": 6.0,
+   "d": 12.0,
+   "text": "Alhamdulillah kita bangga kita punya pusat seperti ini. Ee kualitasnya sangat baik. Saya sudah lihat sampai ke atas ee pasien-pasiennya juga diraut dengan baik."
+  },
+  {
+   "t": 18.0,
+   "d": 4.0,
+   "text": "Ee kita sudah tidak kalah dengan rumah sakit terbaik di luar negeri."
+  },
+  {
+   "t": 22.0,
+   "d": 16.0,
+   "text": "Alhamdulillah ee banyak ee lembaga luar negeri pun mau ikut riset di sini. Pak Presiden, Pak Presiden mohon izin, Pak. Mengenai anggota kabinet Bapak, salah satu wam sudah diurus semuanya tuh ya. Oke."
+  },
+  {
+   "t": 38.0,
+   "d": 3.0,
+   "text": "Penggantinya, Pak. Penggantinya, Pak. Penggantinya, Pak. Ada nanti. Tenang aja. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

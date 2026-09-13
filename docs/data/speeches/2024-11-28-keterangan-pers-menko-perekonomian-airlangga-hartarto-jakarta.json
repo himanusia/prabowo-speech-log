@@ -1,0 +1,68 @@
+{
+ "id": "2024-11-28-keterangan-pers-menko-perekonomian-airlangga-hartarto-jakarta",
+ "video_id": "Tl4FlfgfjZ4",
+ "date": "2024-11-28",
+ "date_precise": true,
+ "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 28 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Tl4FlfgfjZ4",
+ "duration_s": 151,
+ "duration_hms": "2:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 233,
+ "unique_word_count": 121,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Tl4FlfgfjZ4",
+   "url": "https://www.youtube.com/watch?v=Tl4FlfgfjZ4",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 28 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 42.0,
+   "text": "barusan bapak presiden menerima Sekjen eh korman dari OECD pada prinsipnya pertemuan untuk menyampaikan eh report mengenai progres Indonesia dan di dalam eh report yang sudah disampaikan dengan Menteri Keuangan du hari yang lalu terus disampaikan bahwa targetan daripada eh perekonomian di tahun 2025 secara fundamental relatif bisa dicapai jadi ini sejalan dengan IMF dan World Bank dan kedua tentu Eh ada proses eh mengenai aksesi Indonesia dan proses ini"
+  },
+  {
+   "t": 42.0,
+   "d": 45.0,
+   "text": "sedang berproses dan EE tentu nanti kita akan melihat arahan bapak Presiden selanjutnya mengenai ee jadwal daripada ee tindakan ee selanjutnya dari Indonesia terkait dengan ee ee target waktu dan yang lain Oleh karena itu ee beberapa ee masukan dari hasil laporan Tadi disampaikan Apakah itu terkait dengan eh target eh mengenai eh produktivitas yang EE bisa ditingkatkan dan juga beberapa sektor lain termasuk digital juga ee terkait dengan eh program unggulan bapak presiden food"
+  },
+  {
+   "t": 87.0,
+   "d": 50.0,
+   "text": "security energy security dan e meal program yang eh OECD dapat memberikan eh benchmarking daripada e data-data dari negara yang tercakup di dalam OECD karena ada 38 negara di sana Mungkin itu saja karena besok akan ada pembahasan lanjutan Terima kasih selamat siang itu kan ee kemarin sudah diumumkan ee dipublish di ee Kementerian Keuangan 2 hari yang lalu jadi rekomendasinya kan eh mereka sudah mengevaluasi bahwa capaian 5,2% di 2025 itu dapat dicapai namun"
+  },
+  {
+   "t": 137.0,
+   "d": 14.0,
+   "text": "mereka juga ada catatan ee untuk ke depannya yang juga ee bisa kita pelajari ke depan ya terima kasih for"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,78 @@
+{
+ "id": "2025-01-01-ket-pers-usai-hadiri-sidang-senat-terbuka",
+ "video_id": "Djc-ebYxyBY",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Ket Pers Presiden Prabowo usai Hadiri Sidang Senat Terbuka dan Dies Natalis UKRI,Bandung,18 Okt 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Djc-ebYxyBY",
+ "duration_s": 38,
+ "duration_hms": "0:38",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "token_count": 52,
+ "unique_word_count": 40,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Djc-ebYxyBY",
+   "url": "https://www.youtube.com/watch?v=Djc-ebYxyBY",
+   "title": "Ket Pers Presiden Prabowo usai Hadiri Sidang Senat Terbuka dan Dies Natalis UKRI,Bandung,18 Okt 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 4.0,
+   "text": "Hadir wisudanya Ukri."
+  },
+  {
+   "t": 4.0,
+   "d": 11.0,
+   "text": "Kita hari ini wisuda berapa? 500 521 21 sarjana dan ee UKRI berkembang pesat ya."
+  },
+  {
+   "t": 15.0,
+   "d": 3.0,
+   "text": "Sekarang sudah tujuh fakultas ya. Iya. Tujuh."
+  },
+  {
+   "t": 18.0,
+   "d": 3.0,
+   "text": "Tujuh Pak 15 prodi."
+  },
+  {
+   "t": 21.0,
+   "d": 7.0,
+   "text": "Prodi sangat pesat. Kampus lagi dibangun ada di beberapa tempat."
+  },
+  {
+   "t": 28.0,
+   "d": 10.0,
+   "text": "Saya kira ee saya ucapkan terima kasih kepada yang sekarang megangri sangat besar prestasinya. Oke, terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

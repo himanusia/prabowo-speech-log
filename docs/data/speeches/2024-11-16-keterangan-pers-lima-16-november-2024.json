@@ -1,0 +1,58 @@
+{
+ "id": "2024-11-16-keterangan-pers-lima-16-november-2024",
+ "video_id": "GW-0apdof30",
+ "date": "2024-11-16",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Subianto, Lima, 16 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=GW-0apdof30",
+ "duration_s": 53,
+ "duration_hms": "0:53",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "token_count": 79,
+ "unique_word_count": 46,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "GW-0apdof30",
+   "url": "https://www.youtube.com/watch?v=GW-0apdof30",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, Lima, 16 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 47.0,
+   "text": "satu aja Pak soal apek Pak soal apek Iya saya kira kesempatan yang baik apek ya kita e meneruskan suatu jaringan Network antara pemimpin-pemimpin di Pasifik kita bahas banyak masalah Eh bagaimana kita menjaga perdagangan yang baik yang terbuka tapi adil ya Saya kira gu kesempatan yang baik terima kasih ya terima kasih Bapak kasih pak hati-hati di jalan Pak Indonesia ingin seperti apa di tengah-tengah kita ingin E perdagangan yang yang teratur yang bebas tapi"
+  },
+  {
+   "t": 47.0,
+   "d": 6.0,
+   "text": "adil Oke terima kasih [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

@@ -1,0 +1,73 @@
+{
+ "id": "2024-01-01-keterangan-pers-menteri-energi-dan-sumber-daya",
+ "video_id": "YBXZXpn60xU",
+ "date": "2024-01-01",
+ "date_precise": false,
+ "title": "Keterangan Pers Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, Jakarta, 31 Okt 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=YBXZXpn60xU",
+ "duration_s": 136,
+ "duration_hms": "2:16",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 302,
+ "unique_word_count": 162,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "YBXZXpn60xU",
+   "url": "https://www.youtube.com/watch?v=YBXZXpn60xU",
+   "title": "Keterangan Pers Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, Jakarta, 31 Okt 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 34.0,
+   "text": "teman-teman media yang saya hormati hari ini kami ee di rapat ee internal sedikit dengan Pak Kepala Badan investasi investigasi khusus dan pengendalian pembangunan dan pengendalian pembangunan kemudian Pak komisaris e Pertamina dan saya Kami membahas beberapa langkah-langkah eh penting dalam rangka meningkatkan lifting karena kita tahu bahwa cadangan minyak kita yang sudah ada itu sudah sekitar 300 satu wilayah kerja tapi sampai sekarang belum Pod ini"
+  },
+  {
+   "t": 34.0,
+   "d": 29.0,
+   "text": "akan kita lakukan kemudian kita mempunyai 4.500 sumur ID yang harus dilakukan dan Ini Salah satu program utama bapak presiden untuk Bagaimana bisa melakukan kemenderian energi karena itu saya minta bantu dari Pak Aris sebagai kepala Badan investasi investigasi khusus dan pengendilan pembangunan untuk bagaimana melakukan percepatan-percepatan lapangan Kalau ada kendala selain itu juga kami membahas tentang beberapa langkah-langkah terkait dengan"
+  },
+  {
+   "t": 63.0,
+   "d": 32.0,
+   "text": "ee subsidi tempat sasaran dan Ini kita lagi godok timnya sudah digodok Kebetulan kami sendiri yang ditunjuk sebagai ketua tim dan dalam waktu dekat kita akan melaporkan kepada bapak presiden untuk kemudian menjadi ee materi atau bahan referensi keputusan dari bapak presiden saya pikir hanya itu Pak untuk yang tim eeeri itu yang tidak lanjutkan kemarin juga Pak yang dibahas soal ee bagaimana e apa namanya merapikan data-data I iya iya itu tidak tidak jauh beda dari apa yang"
+  },
+  {
+   "t": 95.0,
+   "d": 30.0,
+   "text": "disampaikan oleh kemarin oleh Kepala Badan informasi mungkin kami bagian detailingnya Ya detailingnya apa pak I kita harus datanya harus sama ya harus tepat sasaran jangan yang kita kasih subsidi yang tidak tepat sasaran gitugitulah berarti ini dipastikan e maksudnya alokasi subsidi ini nanti bakal langsung naik kearakat ada bebera beberapa formulasi salah satu alternatifnya adalah yang tadi disampaikan tapi nanti keputusannya"
+  },
+  {
+   "t": 125.0,
+   "d": 11.0,
+   "text": "akan disampaikan setelah tim ini bekerja selesai kami akan lapor kepada bapak presiden berarti masih akan ada subsidi yang terkorporasi dulu ya Pak belum bisa saya jawab Itu Sekarang kami lagi dalam pengkajian ya Oke ya Oke terima kasih semuanya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

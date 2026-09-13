@@ -1,0 +1,78 @@
+{
+ "id": "2025-05-05-pertemuan-bilateral-dengan-senat-kerajaan-kamboja-hun",
+ "video_id": "0NwzCuQvZm8",
+ "date": "2025-05-05",
+ "date_precise": true,
+ "title": "Pertemuan Bilateral Presiden Prabowo dengan Presiden Senat Kerajaan Kamboja Hun Sen, 5 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=0NwzCuQvZm8",
+ "duration_s": 218,
+ "duration_hms": "3:38",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 163,
+ "unique_word_count": 97,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "0NwzCuQvZm8",
+   "url": "https://www.youtube.com/watch?v=0NwzCuQvZm8",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Presiden Senat Kerajaan Kamboja Hun Sen, 5 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 26.0,
+   "text": "Yang saya hormati yang mulia Samdek Agamo Hasen Padunen, Presiden dari Senat Kerajaan Kamboja. Adalah suatu kehormatan bagi saya atas nama pribadi dan atas nama pemerintah Republik Indonesia untuk menyambut kedatangan Yang Mulia."
+  },
+  {
+   "t": 27.0,
+   "d": 28.0,
+   "text": "Saya senang dapat berjumpa kembali dengan Yang Mulia sejak pertemuan kita terakhir di Nompen pada bulan September 2024 sebelum saya dilantik sebagai Presiden Republik Indonesia di Asia Tenggara. Yang mulia adalah negara negarawan senior yang sangat dihormati."
+  },
+  {
+   "t": 55.0,
+   "d": 29.0,
+   "text": "Saya gembira dan menyambut baik rencana Yang Mulia untuk menyampaikan berbagai pandangan mengenai proses perdamaian di Kamboja dan peran di ASEAN yang akan disampaikan di area School of Government dan di sekretariat ASEAN. Saya yakin pandangan yang mulia akan memperkaya upaya bersama kita."
+  },
+  {
+   "t": 84.0,
+   "d": 25.0,
+   "text": "untuk menjaga perdamaian, stabilitas, dan kemakmuran bersama di kawasan Asia Tenggara. Sebagai pendukung perdamaian di Kamboja pada tahun 1980-an dan 1990-an, komitmen Indonesia masih tetap teguh."
+  },
+  {
+   "t": 109.0,
+   "d": 27.0,
+   "text": "Kami terus akan mengutamakan dialog rekonsiliasi dan resolusi konflik di setiap peristiwa. Kami akan utamakan resolusi konflik secara damai."
+  },
+  {
+   "t": 136.0,
+   "d": 83.0,
+   "text": "[Musik] [Musik] [Musik] [Musik] [Musik] [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

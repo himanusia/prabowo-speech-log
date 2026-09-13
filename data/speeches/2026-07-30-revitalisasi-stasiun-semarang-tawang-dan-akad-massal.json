@@ -1,0 +1,108 @@
+{
+ "id": "2026-07-30-revitalisasi-stasiun-semarang-tawang-dan-akad-massal",
+ "video_id": "qQOz36NOUoc",
+ "date": "2026-07-30",
+ "date_precise": true,
+ "title": "Revitalisasi Stasiun Semarang Tawang dan Akad Massal 62.000 KPR Subsidi, 30 Juli 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=qQOz36NOUoc",
+ "duration_s": 229,
+ "duration_hms": "3:49",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 221,
+ "unique_word_count": 134,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "qQOz36NOUoc",
+   "url": "https://www.youtube.com/watch?v=qQOz36NOUoc",
+   "title": "Revitalisasi Stasiun Semarang Tawang dan Akad Massal 62.000 KPR Subsidi, 30 Juli 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 6,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 6.0,
+   "d": 31.0,
+   "text": "[musik] [musik] [musik] Hari ini kita dapat berkumpul di sini di tempat yang syarat nilai sejarah untuk melaksanakan peresmian revitalisasi stasiun Semarang Tawang."
+  },
+  {
+   "t": 37.0,
+   "d": 9.0,
+   "text": "Kereta api adalah instrumen ekonomi rakyat."
+  },
+  {
+   "t": 46.0,
+   "d": 14.0,
+   "text": "Kereta api adalah instrumen [musik] sesungguhnya daripada demokratisasi ekonomi."
+  },
+  {
+   "t": 60.0,
+   "d": 4.0,
+   "text": "Terima kasih Kereta api Indonesia. Teruskan."
+  },
+  {
+   "t": 64.0,
+   "d": 30.0,
+   "text": "Dan hari ini saya ee akan mencoba kereta api baru yang diluncurkan oleh KHI untuk mendukung menopang pariwisata yang diberi nama Nusantara Explorer."
+  },
+  {
+   "t": 94.0,
+   "d": 3.0,
+   "text": "lebih lebih ditingkatkan lagi gitu ya."
+  },
+  {
+   "t": 97.0,
+   "d": 6.0,
+   "text": "Tapi ee sudah bisa dirasakan sih untuk kemajuannya kemajuan."
+  },
+  {
+   "t": 103.0,
+   "d": 40.0,
+   "text": "E semoga aja nanti di Semarang ini jadi stasiun untuk di Jawa Tengahnya yang lebih bagus dan kalau bisa yang paling bagus."
+  },
+  {
+   "t": 143.0,
+   "d": 24.0,
+   "text": "adalah kehormatan dan kebahagiaan bagi saya untuk hadir dalam akad massal 62.000 unit KPR rumah bersubsidi yang digelar secara serentak di 165 titik di 372 kabupaten kota di 36 provinsi seluruh Indonesia."
+  },
+  {
+   "t": 167.0,
+   "d": 17.0,
+   "text": "Saya terutama bangga dan bahagia bahwa kita sebagai pemerintah dapat memberi kebahagiaan kepada [musik] 22.000 keluarga warga negara kita."
+  },
+  {
+   "t": 184.0,
+   "d": 11.0,
+   "text": "Saudara-saudara, kita menghendaki seluruh warga Indonesia bisa punya rumah yang layak."
+  },
+  {
+   "t": 195.0,
+   "d": 40.0,
+   "text": "Untuk itu kita bekerja keras dengan berbagai program untuk subsidinya membantu kami. Iya, betul. Terus ee bunganya juga lumayan sedikit ya untuk ambil rumah itu ee saya ini adalah wisli saya, Ibu. bisnis saya dalam hidup saya yaitu punya rumah sebelum nikah seperti itu. Saya ucapkan terima kasih dengan Bapak Prabowo dengan adanya program rumah bersubsidi ini ee bisa mendapatkan rumah"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

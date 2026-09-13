@@ -1,0 +1,98 @@
+{
+ "id": "2025-09-24-tiba-di-ottawa-kanada-24-september-2025",
+ "video_id": "1_95JA48FDg",
+ "date": "2025-09-24",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Ottawa, Kanada, 24 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=1_95JA48FDg",
+ "duration_s": 190,
+ "duration_hms": "3:10",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 141,
+ "unique_word_count": 84,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "1_95JA48FDg",
+   "url": "https://www.youtube.com/watch?v=1_95JA48FDg",
+   "title": "Presiden Prabowo Tiba di Ottawa, Kanada, 24 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 35.0,
+   "text": "[Musik] Oh."
+  },
+  {
+   "t": 36.0,
+   "d": 68.0,
+   "text": "B selamat datang Bapak aja Iya."
+  },
+  {
+   "t": 104.0,
+   "d": 10.0,
+   "text": "Welcome to Canada Welcome to Sandor Selamat datang diwa."
+  },
+  {
+   "t": 114.0,
+   "d": 9.0,
+   "text": "Terima kasih. Terima kasih. Kamu siapa namanya? Sofia. Sofia. Umurmu berapa? 10."
+  },
+  {
+   "t": 123.0,
+   "d": 6.0,
+   "text": "10. Kamu? Iya. Umurmu berapa? Ee 10."
+  },
+  {
+   "t": 129.0,
+   "d": 7.0,
+   "text": "10. Wah. Luar biasa sekolahnya di sini semua? Iya. Oh, terima kasih ya."
+  },
+  {
+   "t": 136.0,
+   "d": 10.0,
+   "text": "Aduh ini semua. Terima kasih semuanya. Terima kasih semuanya."
+  },
+  {
+   "t": 146.0,
+   "d": 7.0,
+   "text": "Saya melihat Presiden Prabowo dan Mr. Teddy. Yes. Bu."
+  },
+  {
+   "t": 153.0,
+   "d": 12.0,
+   "text": "Oh, senang sekali. Saya agak mengerar. Tapi saya tidak sempat berfoto dengan Pak Prabowo, tapi sempat berfoto dengan Pak Tedi karena selagi esteting kali dengan dia."
+  },
+  {
+   "t": 165.0,
+   "d": 26.0,
+   "text": "Pak Prabowo di sini ee kami bangga sekali Papa Prabowo bisa kunjung melihat diaspora Indonesia yang ada di sini. Oh, kita excited. Kita tadi dari ini dari Menteria jam 09.00 Kita udah nunggu sampai 3 jam di sini. Kita saling happy, e, kita salaman, kita senang ketemu dan e tadi aku tadi video sama foto juga ada."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

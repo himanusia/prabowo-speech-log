@@ -1,0 +1,78 @@
+{
+ "id": "2025-04-21-ucapan-belasungkawa-atas-wafatnya-paus-fransiskus-istana",
+ "video_id": "hW206OKlKU0",
+ "date": "2025-04-21",
+ "date_precise": true,
+ "title": "Ucapan Belasungkawa Presiden Prabowo atas Wafatnya Paus Fransiskus, Istana Merdeka, 21 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=hW206OKlKU0",
+ "duration_s": 97,
+ "duration_hms": "1:37",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 120,
+ "unique_word_count": 86,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "hW206OKlKU0",
+   "url": "https://www.youtube.com/watch?v=hW206OKlKU0",
+   "title": "Ucapan Belasungkawa Presiden Prabowo atas Wafatnya Paus Fransiskus, Istana Merdeka, 21 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 6.0,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Shalom."
+  },
+  {
+   "t": 8.0,
+   "d": 21.0,
+   "text": "Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Saudara-saudara sebangsa dan setanah air. Dengan rasa duka yang mendalam saya menerima kabar mangkatnya Sri Paus Fransiskus."
+  },
+  {
+   "t": 29.0,
+   "d": 15.0,
+   "text": "Dunia kembali kehilangan sosok panutan yang memiliki komitmen besar terhadap perdamaian, kemanusiaan, dan persaudaraan."
+  },
+  {
+   "t": 44.0,
+   "d": 17.0,
+   "text": "Kunjungan Sri Paus Fransiskus ke Jakarta tahun lalu telah memberi kesan yang mendalam tidak hanya di kalangan umat Katolik, namun di hati seluruh rakyat Indonesia."
+  },
+  {
+   "t": 61.0,
+   "d": 29.0,
+   "text": "pesan kesederhana, pluralisme, keberpihakan kepada orang miskin, dan kepedulian Sri Paus terhadap sesama akan selalu menjadi teladan bagi kita semua. Selamat jalan Sri Paus, pesanmu untuk menjaga kemanusiaan dan perdamaian."
+  },
+  {
+   "t": 90.0,
+   "d": 9.0,
+   "text": "akan selalu membekas di hati kita. Wasalamualaikum warahmatullahi wabarakatuh. Shalom. Salve. Om santi santi santi om. Namo buddhaya. Salam kebajikan. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

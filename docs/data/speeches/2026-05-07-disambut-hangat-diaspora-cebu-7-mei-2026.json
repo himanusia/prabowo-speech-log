@@ -1,0 +1,123 @@
+{
+ "id": "2026-05-07-disambut-hangat-diaspora-cebu-7-mei-2026",
+ "video_id": "43t_feUKKCk",
+ "date": "2026-05-07",
+ "date_precise": true,
+ "title": "Presiden Prabowo Disambut Hangat Diaspora Indonesia, Cebu, 7 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=43t_feUKKCk",
+ "duration_s": 275,
+ "duration_hms": "4:35",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 33,
+ "token_count": 410,
+ "unique_word_count": 205,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "43t_feUKKCk",
+   "url": "https://www.youtube.com/watch?v=43t_feUKKCk",
+   "title": "Presiden Prabowo Disambut Hangat Diaspora Indonesia, Cebu, 7 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 11
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 24.0,
+   "d": 28.0,
+   "text": "kamu udah sudah sangat inilah sangat terkejut sekali ya maksudnya ee ee sungguh sangat ee apa membanggakan karena ee mungkin e Bapak ingin memperkenalkan ee mobil tersebut ee kepada ee negara Filipin. Heeh. Jadi, wow."
+  },
+  {
+   "t": 52.0,
+   "d": 6.0,
+   "text": "[tertawa] surprise iya surprise. Surprise sekali jauh-jauh dari Indonesia dibawa ke sini gitu."
+  },
+  {
+   "t": 58.0,
+   "d": 5.0,
+   "text": "Iya. Baik Bu, terakhir mungkin Bu, ada yang mau disampaikan doa, ucapan atau apa kepada Pak Prabowo?"
+  },
+  {
+   "t": 63.0,
+   "d": 18.0,
+   "text": "Ee semoga untuk ke depannya ee dalam ee Bapak Prabowo memimpin ee negara Republik Indonesia semakin sukses ee maju dan juga Bapak Prabowo diberikan kesehatan ee perlindungan dari Allah Subhanahu wa taala."
+  },
+  {
+   "t": 81.0,
+   "d": 22.0,
+   "text": "Hal yang spesial sih bisa melihat ee pemimpin yang bangga membawa produk lokal karya anak bangsa ee inovasi dengan teknologi karya anak bangsa ke N internasional."
+  },
+  {
+   "t": 103.0,
+   "d": 13.0,
+   "text": "Terima kasih. Kamu namanya siapa? Umur berapa? 10."
+  },
+  {
+   "t": 116.0,
+   "d": 14.0,
+   "text": "Ah, senang sekali karena baru pertama kali ini saya bisa berjumpa selamanya hanya melihat dari video kalau dia beliau kunjungan ke luar negeri tapi sekarang berada di tempat on the spot."
+  },
+  {
+   "t": 130.0,
+   "d": 4.0,
+   "text": "Saya bisa begitu malah tadi ditanya-tanya. Tadi ditanya apa, Pak?"
+  },
+  {
+   "t": 134.0,
+   "d": 11.0,
+   "text": "Oh, kamu sudah berapa lama? Oh, saya sudah di sini sudah 15 tahun. Asal dari mana? Dari Madiun. Oh, sudah lama. Sudah bisa bahasa sini. Oh, iya iya Bapak tidak bisa."
+  },
+  {
+   "t": 145.0,
+   "d": 4.0,
+   "text": "Oh, berarti Bapak sudah 15 tahun, Pak, di sini, Pak. Iya, iya iya iya."
+  },
+  {
+   "t": 149.0,
+   "d": 33.0,
+   "text": "Lalu ada pesan yang ingin disampaikan enggak, Pak, untuk Bapak Presiden? nya berpendapat bahwa kehadiran Bapak Presiden di antara kita orang Indonesia yang ada di situ ini membuat suatu suatu gerakan yang baru bahwa Bapak Presiden kita ini mendunia dan khususnya di tetangga di negara Filipina di mana kita ini tinggal di mana sudah memberikan apa itu kebesaran hati juga orang Filipina sering bertanya bagaimana Indonesia dan kita telah memperkenalkan punya Bapak Presiden"
+  },
+  {
+   "t": 182.0,
+   "d": 26.0,
+   "text": "Bapakanto yang begitu luar biasa. Itulah senang senang kesannya senang eh saya bangga sebagai bisa mewakili negara saya untuk menyambut kehadiran Pak Presiden di sini. Kesempatan ini pastinya tidak ee tidak berkali-kali atau lebih bisa dibilang sekali dalam seumur hidup saya."
+  },
+  {
+   "t": 208.0,
+   "d": 40.0,
+   "text": "Jadi saya saya sebagai orang yang merasakan kebanggaan yang mendalam karena perhatian yang luar biasa dari pemerintah Indonesia untuk menghadirkan para diaspora, memberi kesempatan pada diaspora untuk bisa menyambutkan itu secara pribadi dia keb dia menurut saya pribadi dia ee sekali ee sehat dan yang pasti ramah yang pasti ramah e bisa berceramah sama dengan beberapa diaspora tidak bercanggaman masih bisa menanyakan beberapa hal-hal untuk untuk sebagai apa"
+  },
+  {
+   "t": 248.0,
+   "d": 35.0,
+   "text": "ee sebagai ee sambutan sambutan saat tangan Kamu juga siapa?"
+  },
+  {
+   "t": 283.0,
+   "d": 16.0,
+   "text": "Selamat datang tinggal Saya staf KBNAS Sehatshat"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

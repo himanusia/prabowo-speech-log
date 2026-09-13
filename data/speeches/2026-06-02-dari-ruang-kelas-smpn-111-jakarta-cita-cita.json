@@ -1,0 +1,87 @@
+{
+ "id": "2026-06-02-dari-ruang-kelas-smpn-111-jakarta-cita-cita",
+ "video_id": "iZf3T1ntC3I",
+ "date": "2026-06-02",
+ "date_precise": true,
+ "title": "Dari Ruang Kelas SMPN 111 Jakarta, Cita-Cita Besar Menggema di Hadapan Presiden Prabowo, 2 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=iZf3T1ntC3I",
+ "duration_s": 98,
+ "duration_hms": "1:38",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 111,
+ "unique_word_count": 71,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "iZf3T1ntC3I",
+   "url": "https://www.youtube.com/watch?v=iZf3T1ntC3I",
+   "title": "Dari Ruang Kelas SMPN 111 Jakarta, Cita-Cita Besar Menggema di Hadapan Presiden Prabowo, 2 Juni 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 36.0,
+   "text": "[musik] [musik] 14 Kita tadi ditanya kayak cita-cita umurnya berapa kamu?"
+  },
+  {
+   "t": 37.0,
+   "d": 4.0,
+   "text": "Oke, nih badi pesannya ketemu Bapak Presiden. Aku senang banget."
+  },
+  {
+   "t": 41.0,
+   "d": 13.0,
+   "text": "Aku senang banget sumpah kayak gemeteran gitu. Soalnya ini first time aku pertama kali ngelihat secara langsung untuk program MBG-nya nih dari kalian gimana? Udah enak banget kita pada suka."
+  },
+  {
+   "t": 54.0,
+   "d": 4.0,
+   "text": "Iya udah keren banget pokoknya gitu pada suka ya. Aku salut banget sama."
+  },
+  {
+   "t": 58.0,
+   "d": 4.0,
+   "text": "Kalau bisa ngomong ke Pak Presiden mau nyampein apa?"
+  },
+  {
+   "t": 62.0,
+   "d": 34.0,
+   "text": "Eh, terima kasih buat terima karena itu berharga banget buat kita. Eh, kalau buat Pak Presiden bagi aku terima kasih sudah mau datang ke sini berkunjung ke sini. Kami sebagai siswa SMP 111 senang banget bisa ketemu sama Bapak."
+  },
+  {
+   "t": 96.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

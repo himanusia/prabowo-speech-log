@@ -1,0 +1,63 @@
+{
+ "id": "2026-02-06-highlight---kunjungan-kerja-pm-australia-anthony",
+ "video_id": "KDZGi3C6htA",
+ "date": "2026-02-06",
+ "date_precise": true,
+ "title": "HIGHLIGHT - Kunjungan Kerja PM Australia Anthony Albanese di Indonesia, 6 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=KDZGi3C6htA",
+ "duration_s": 56,
+ "duration_hms": "0:56",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 42,
+ "unique_word_count": 33,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "KDZGi3C6htA",
+   "url": "https://www.youtube.com/watch?v=KDZGi3C6htA",
+   "title": "HIGHLIGHT - Kunjungan Kerja PM Australia Anthony Albanese di Indonesia, 6 Februari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 20.5,
+   "text": "[musik] [musik] Saya sangat gembira dapat menyambut kembali sahabat saya [musik] Perdana Menteri Albanesa di Jakarta."
+  },
+  {
+   "t": 23.0,
+   "d": 21.0,
+   "text": "Kunjungan ini juga menjadi kesempatan bagi saya untuk membalas sambutan hangat yang saya terima saat berkunjung ke Sydney pada bulan November 2025 yang lalu."
+  },
+  {
+   "t": 44.0,
+   "d": 15.0,
+   "text": "[musik] [musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "kunjungan",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

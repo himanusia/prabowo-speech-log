@@ -1,0 +1,73 @@
+{
+ "id": "2025-06-25-resmikan-kek-sanur-dan-bali-international-hospital",
+ "video_id": "pIg-UJCExOg",
+ "date": "2025-06-25",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan KEK Sanur dan Bali International Hospital, Denpasar, 25 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=pIg-UJCExOg",
+ "duration_s": 126,
+ "duration_hms": "2:06",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 139,
+ "unique_word_count": 94,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "pIg-UJCExOg",
+   "url": "https://www.youtube.com/watch?v=pIg-UJCExOg",
+   "title": "Presiden Prabowo Resmikan KEK Sanur dan Bali International Hospital, Denpasar, 25 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 3,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 6,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 35.0,
+   "text": "[Musik] Saya ingin juga menyampaikan terima kasih dan penghargaan atas semua pihak yang telah merintis pembangunan kawasan ekonomi khusus ini yang di ee peruntukkan untuk kesehatan. Saya kira ini adalah suatu terobosan yang pertama kali di republik kita."
+  },
+  {
+   "t": 37.0,
+   "d": 22.0,
+   "text": "Kita mencanangkan atau membuat suatu kawasan ekonomi khusus yang diperuntukkan untuk pelayanan kesehatan bertaraf dunia, bertaraf internasional."
+  },
+  {
+   "t": 59.0,
+   "d": 37.0,
+   "text": "[Musik] Tanggapan Bapak sangat bangga sekali dengan rumah sakit Bali Internal Hospital ini di mana alat-alatnya lengkap kemudian bisa melayani kardiologi, onkologi, neurologi, gastroenterologi, dan ortopedi. Itulah lima keunggulan yang diharapkan. bisa melayani pasien semaksimal mungkin. Bapak Presiden bangga sekali dengan Bali Interospital yang punya alat selengkap itu dan terkumpul di satu rumah sakit."
+  },
+  {
+   "t": 96.0,
+   "d": 21.0,
+   "text": "Dengan rahmat Tuhan Yang Maha Esa, pada sore hari ini, hari Rabu, 25 Juni 2025, saya Prabowo Subianto, Presiden Republik Indonesia meresmikan kawasan ekonomi khusus Sanur dan Bali International Hospital."
+  },
+  {
+   "t": 117.0,
+   "d": 11.0,
+   "text": "[Musik] Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

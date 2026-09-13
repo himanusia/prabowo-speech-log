@@ -1,0 +1,83 @@
+{
+ "id": "2025-06-11-resmikan-kampus-bhinneka-tunggal-ika-universitas-pertahanan",
+ "video_id": "_xdWBOvabSY",
+ "date": "2025-06-11",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Kampus Bhinneka Tunggal Ika Universitas Pertahanan, 11 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=_xdWBOvabSY",
+ "duration_s": 102,
+ "duration_hms": "1:42",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 106,
+ "unique_word_count": 75,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "_xdWBOvabSY",
+   "url": "https://www.youtube.com/watch?v=_xdWBOvabSY",
+   "title": "Presiden Prabowo Resmikan Kampus Bhinneka Tunggal Ika Universitas Pertahanan, 11 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 5,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 8.0,
+   "d": 34.0,
+   "text": "Di dunia modern ini hanya dengan sains dan teknologi kita bisa menghilangkan kemiskinan. Kita bisa menjadi negara maju, negara modern. Pimpinan Unhan saya minta bekerja berbakti dengan sebaik-baiknya. ciptakan budaya baru, budaya yangik memiliki nilai-nilai patriotisme yang baik. Jangan takut mengakui kekurangan. Jangan takut mengakui kelemahan. Hadapi kesulitan."
+  },
+  {
+   "t": 42.0,
+   "d": 5.0,
+   "text": "Hadapi tantangan. Hadapi rintangan. Jangan gentar."
+  },
+  {
+   "t": 47.0,
+   "d": 11.0,
+   "text": "[Musik] Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 58.0,
+   "d": 18.0,
+   "text": "Pada sore hari ini, Rabu, 11 Juni 2025, saya Prabowo Subianto, Presiden Republik Indonesia meresmikan Kampus Bhineka Tunggal Ika Universitas Pertahanan Republik Indonesia."
+  },
+  {
+   "t": 76.0,
+   "d": 5.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 81.0,
+   "d": 26.0,
+   "text": "Ungkapan kami adalah terima kasih Bapak Presiden. Kami bangga, kami bersyukur karena karena Bapak Presiden Prabowo mengembangkan kampus dan universitas ini hingga keadaan yang sangat membanggakan."
+  },
+  {
+   "t": 107.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

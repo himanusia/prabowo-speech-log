@@ -1,0 +1,93 @@
+{
+ "id": "2025-03-25-kebersamaan-dan-kepedulian-ribuan-paket-sembako-untuk",
+ "video_id": "HSTEvZz-7ok",
+ "date": "2025-03-25",
+ "date_precise": true,
+ "title": "Kebersamaan dan Kepedulian, Ribuan Paket Sembako untuk Warga, Kabupaten bogor, 25 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=HSTEvZz-7ok",
+ "duration_s": 97,
+ "duration_hms": "1:37",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 135,
+ "unique_word_count": 87,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "HSTEvZz-7ok",
+   "url": "https://www.youtube.com/watch?v=HSTEvZz-7ok",
+   "title": "Kebersamaan dan Kepedulian, Ribuan Paket Sembako untuk Warga, Kabupaten bogor, 25 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 11.0,
+   "d": 37.0,
+   "text": "[Musik] [Tertawa] Cepat [Tepuk tangan] [Tepuk tangan] Iya, sama-sama."
+  },
+  {
+   "t": 48.0,
+   "d": 5.0,
+   "text": "Oh, makasih Bapak ya. Terima kasih Bapakih banyak."
+  },
+  {
+   "t": 53.0,
+   "d": 9.0,
+   "text": "Mudah-mudahan semoga tahun depan tambah banyak panjang umur. Dapat apa aja nih, Bu? Oh, enggak tahu. Alhamdulillah. Alhamdulillah. Dapat sembako."
+  },
+  {
+   "t": 62.0,
+   "d": 2.0,
+   "text": "Alhamdulillah Bapak terima kasih."
+  },
+  {
+   "t": 64.0,
+   "d": 26.0,
+   "text": "Hari ini ada pembagian sembakau. Awal tahunya gimana sih, Bu? sama aja tahun kemarin juga seperti berarti setiap tahun. Iya. Heeh. Antri terus tadi kayaknya kelihatan ada kupon gitu emang untuk ngambil ya, Bu? Iya, untuk ngambil. Cuman kalau untuk kupon yang dua harus harus apa? Enggak bisa dua kali ngambil harus satu-satu dulu gantian."
+  },
+  {
+   "t": 90.0,
+   "d": 2.0,
+   "text": "Biasanya apa aja sih, Bu, yang didapat?"
+  },
+  {
+   "t": 92.0,
+   "d": 6.0,
+   "text": "Biasa sembakau. Berasia beras. Apalagi, Bu? Kayak gitu aja."
+  },
+  {
+   "t": 98.0,
+   "d": 7.0,
+   "text": "beras, minyak kadang mau kena. Oh, tahun kemari ya sedikit tambahan."
+  },
+  {
+   "t": 105.0,
+   "d": 3.0,
+   "text": "Alhamdulillah Bu berarti dipakai buat lebaran ya. Iya. Bergant dari kemarin samping."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

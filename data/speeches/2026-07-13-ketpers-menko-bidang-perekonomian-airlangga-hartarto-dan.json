@@ -1,0 +1,87 @@
+{
+ "id": "2026-07-13-ketpers-menko-bidang-perekonomian-airlangga-hartarto-dan",
+ "video_id": "W-aZQ9PzKos",
+ "date": "2026-07-13",
+ "date_precise": true,
+ "title": "Ketpers Menko Bidang Perekonomian Airlangga Hartarto dan Menteri ESDM Bahlil Lahadalia, 13 Juli 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=W-aZQ9PzKos",
+ "duration_s": 175,
+ "duration_hms": "2:55",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 338,
+ "unique_word_count": 170,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "W-aZQ9PzKos",
+   "url": "https://www.youtube.com/watch?v=W-aZQ9PzKos",
+   "title": "Ketpers Menko Bidang Perekonomian Airlangga Hartarto dan Menteri ESDM Bahlil Lahadalia, 13 Juli 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 3,
+  "ekonomi": 3,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "B50 / biodiesel": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 33.0,
+   "text": "Hari ini eh rapat dengan Bapak Presiden ee salah satu agenda yang dibahas adalah terkait dengan ee harga BBM khusus untuk nelayan, pengusaha nelayan yang memiliki kapal dari 30 JT groston sampai dengan 200 cross ton. Nah, arahan Bapak Presiden karena kita lihat ee harga daripada P50 itu yang khusus untuk nelayan di bawah 30 JT kan sudah diberikan di 6.800."
+  },
+  {
+   "t": 33.0,
+   "d": 37.0,
+   "text": "Kemudian harga BBM ee yang non subsidi itu kemarin sempat melonjak ke 21.300 ee 300 dan karena ee pengusaha layan ini perlu diberikan harga kekhususan ee tadi dibahas bahwa harga yang disepakati adalah di harga Rp15.000 per literarkan harga rata-rata ee produksi solar di dalam negeri itu bisa dipatok di angka 18.600."
+  },
+  {
+   "t": 70.0,
+   "d": 30.0,
+   "text": "Oleh karena itu, Pak Menteri ESDM akan membuat mengeluarkan regulasi terkait dengan subsidi tersebut yang besarnya subsidi kira-kira 3.600 itu [mendengus] akan dibiayai oleh BPDP. Kenapa dibiayai BPDP? Karena saat sekarang ee BPDP mempunyai cukup ee dana untuk membiayai hal tersebut bukan oleh APBN karena ee harga minyak dan harga solar dan harga ee biodiesel sudah dekat."
+  },
+  {
+   "t": 100.0,
+   "d": 13.0,
+   "text": "Dan oleh karena itu ada ee dana yang bisa digunakan dan untuk kebijakan ini juga diberikan kuota untuk 6 bulan ke depan sebesar 400.000 ton. Selanjutnya silakan Pak Menteri SDM."
+  },
+  {
+   "t": 113.0,
+   "d": 31.0,
+   "text": "Ya, tadi seperti apa yang disampaikan oleh Pak Menkoho, ini semua dalam rangka bagaimana memberikan rasa kepastian bagi saudara-saudara kita pelaku usaha di sektor perikanan karena memang kan harganya agak tinggi sekarang. Nah, dengan dengan harga Rp15.000 ini diharapkan dapat membantu proses operasional bagi nilaian yang 30 JT ke atas. Nah, kaitan dengan itu kami segera akan membuat surat keputusan ee dari SDM untuk ditindaklanjuti. Nah, terkait"
+  },
+  {
+   "t": 144.0,
+   "d": 20.0,
+   "text": "dengan subsidi tadi Pak Menko dari dari BP2 PKS ya. Jadi non kita tidak pakai dana ABBN, kita pakai dana dari BP2 PKS. Nah, ini nanti agar tidak disalahgunakan nanti kita akan minta titik-titiknya akan ditentukan oleh koordinasikan dengan Menteri Perikanan supaya apa?"
+  },
+  {
+   "t": 164.0,
+   "d": 11.0,
+   "text": "Jangan sampai niat baik pemerintah untuk membantu nelaian, tapi kemudian salah lagi dipergunakan. Nah, ini yang kita akan jaga supaya implementasinya bisa dilakukan dengan baik dan sudah bertentu ini atas arahan dan perintah Bapak Presiden ya. Oke, makasih. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

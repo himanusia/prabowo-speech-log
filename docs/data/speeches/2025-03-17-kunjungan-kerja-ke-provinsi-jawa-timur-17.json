@@ -1,0 +1,77 @@
+{
+ "id": "2025-03-17-kunjungan-kerja-ke-provinsi-jawa-timur-17",
+ "video_id": "-PJERGJJjes",
+ "date": "2025-03-17",
+ "date_precise": true,
+ "title": "Kunjungan Kerja Presiden Prabowo Ke Provinsi Jawa Timur, 17 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=-PJERGJJjes",
+ "duration_s": 222,
+ "duration_hms": "3:42",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 27,
+ "token_count": 255,
+ "unique_word_count": 153,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "-PJERGJJjes",
+   "url": "https://www.youtube.com/watch?v=-PJERGJJjes",
+   "title": "Kunjungan Kerja Presiden Prabowo Ke Provinsi Jawa Timur, 17 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {
+  "Freeport": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 38.0,
+   "text": "[Musik] dengan bisa dimurnikannya emas yang kami produksi dari tambang di Tembagapura di Papua itu nantinya akan sepenuhnya dimurnikan di sini tahun ini diperkirakan sekitar 32 ton akan kami murnikan di sini dan tentu saja nilai tambahannya yang paling penting adalah ketersediaan emas di dalam negeri sehingga rencana pemerintah untuk pembentukan Bank emas yang sudah dibentuk ya buulion bank itu akan lebih"
+  },
+  {
+   "t": 42.0,
+   "d": 90.0,
+   "text": "mendapatkan bahan baku lagi yaitu tahun ini 32 ton tahun-tahun ked depannya sekitar 50 ton per tahun [Musik] saudara-saudara ini nanti akan menjadi kekuatan dan energi baru bagi masa depan Indonesia Saya Prabowo Subianto Presiden Republik Indonesia dengan ini meresmikan pabrik pemurnian logam mulia PT Freeport Indonesia di grezek Jawa Timur [Musik] [Tepuk tangan] kita bangun kururang lebih 12 bulan bu ya sekitar 12 bulan total anggaran kita pakai untuk merenov 16 Stadion dan satu"
+  },
+  {
+   "t": 132.0,
+   "d": 46.0,
+   "text": "pembangunan baru itu sekitar 1,7 triliun harapan kami sih ini semua Stadion sudah certified PSSI certified FIFA semuanya tempat duduk ee apa rumput semuanya lah ee e harapan kami ke depan benar-benar bisa men-support kementerian PU bisa men-support olahraga khususnya sepak bola sehingga talent-talen muda bisa bertumbuhan dan harapan besar Pak Prabowo untuk meraih Indonesia emas di 2045 bisa segera tercapai pemerintah sudah buktikan bahwa kita ingin mendorong dan"
+  },
+  {
+   "t": 178.0,
+   "d": 45.0,
+   "text": "membina olahraga sepak bola dan ini akan kita teruskan dengan berbagai upaya konsentrasi kreativitas mencari kebijakan-kebijakan yang bisa mendorong untuk kita punya prestasi yang hebat prestasi yang baik saya juga minta semua unsur untuk mendukung hal ini saya Prabowo Subianto Presiden Republik Indonesia dengan ini meresmikan renovasi dan pembangunan 17 stadion di Indonesia telah selesai dilaksanakan terima kasih"
+  },
+  {
+   "t": 223.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

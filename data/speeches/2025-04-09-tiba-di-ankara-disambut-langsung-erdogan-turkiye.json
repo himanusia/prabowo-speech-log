@@ -1,0 +1,73 @@
+{
+ "id": "2025-04-09-tiba-di-ankara-disambut-langsung-erdogan-turkiye",
+ "video_id": "FIqp1y_Qwz4",
+ "date": "2025-04-09",
+ "date_precise": true,
+ "title": "Tiba di Ankara, Presiden Prabowo Disambut Langsung Presiden Erdoğan, Turkiye, 9 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=FIqp1y_Qwz4",
+ "duration_s": 212,
+ "duration_hms": "3:32",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 163,
+ "unique_word_count": 88,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "FIqp1y_Qwz4",
+   "url": "https://www.youtube.com/watch?v=FIqp1y_Qwz4",
+   "title": "Tiba di Ankara, Presiden Prabowo Disambut Langsung Presiden Erdoğan, Turkiye, 9 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 5.0,
+   "d": 146.0,
+   "text": "[Tepuk tangan] [Tepuk tangan] [Musik] Hallah for the morning companies [Musik] Marhaba Askar [Musik] [Musik] Sini, Pak. Terima kasih. Terima kasih di mana? Di Banten University."
+  },
+  {
+   "t": 151.0,
+   "d": 6.0,
+   "text": "Oh, sudah berapa tahun di sini? Sudah 3 tahun, Pak. Wow."
+  },
+  {
+   "t": 157.0,
+   "d": 21.0,
+   "text": "Ee tentunya merasa sangat bangga ya karena Bapak Presiden sudah datang menjenguk kita mahasiswa di Turki. Dan tentunya saya merasa sangat senang sekali karena mungkin di Turki sendiri nanti akan banyak ee hal-hal yang bakalan bisa membawa kebaikan untuk negara Indonesia itu sendiri. Tadi ngobrol apa aja sih dengan Pak Presiden?"
+  },
+  {
+   "t": 178.0,
+   "d": 36.0,
+   "text": "Tadi saya ngobrol ditanya kuliah di mana, jurusannya apa, dan saya kuliah di Barton University. Ini adalah eh provinsi di bagian Turki dan jurusan saya landskap arsitektur. Saya berharap karena saya mahasiswa Turki di sini mungkin ke depannya di bagian ekonomi dan juga mungkin di bagian pendidikan ya, Pak ya. Jadi di Turki ini mungkin banyak sekali ee kuliahnya jadi lebih ee murah dan mungkin Indonesia bisa banget mengadopsi hal ini di bagian pendidikan."
+  },
+  {
+   "t": 214.0,
+   "d": 3.0,
+   "text": "Selamat datang"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

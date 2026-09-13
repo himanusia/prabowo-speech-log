@@ -1,0 +1,73 @@
+{
+ "id": "2025-01-01-prajurit-tni-bangga-tampil-di-hadapan-dan",
+ "video_id": "pK_jxcmfttc",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Prajurit TNI Bangga Tampil di Hadapan Presiden Prabowo dan Raja Abdullah II ibn Al Hussein, 15/11/25",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=pK_jxcmfttc",
+ "duration_s": 75,
+ "duration_hms": "1:15",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 193,
+ "unique_word_count": 126,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "pK_jxcmfttc",
+   "url": "https://www.youtube.com/watch?v=pK_jxcmfttc",
+   "title": "Prajurit TNI Bangga Tampil di Hadapan Presiden Prabowo dan Raja Abdullah II ibn Al Hussein, 15/11/25",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 5,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 8.0,
+   "d": 16.0,
+   "text": "Akan kami tampilkan ee latihan keterampilan bela diri merpati putih, bela diri bangsa. Kemudian selanjutnya latihan keterampilan e tactical drone yang merupakan gabungan antara TNI dengan Angkatan Bersenjata Jordania."
+  },
+  {
+   "t": 24.0,
+   "d": 6.0,
+   "text": "Di mana di sini akan digambarkan ada penggunaan drone fiber optik untuk mencegah adanya JMER dari pihak musuh."
+  },
+  {
+   "t": 30.0,
+   "d": 16.0,
+   "text": "Kemudian ada juga teknologi drone kamikaz, ada juga drone untuk breaching atau membuka pintu pada saat penyerbuan peranan darat. Ada drone pengintaian dan juga ada drone yang untuk menjatuhkan baik bahan peledak maupun dari komponen cadangan yang akan menampilkan drone yang akan menjatuhkan alat pemadap api."
+  },
+  {
+   "t": 46.0,
+   "d": 26.0,
+   "text": "Untuk Jordan sendiri kita kirimkan prajurit kurang lebih selama 12 bulan untuk melatih tentang drone. Selepas kembali dari sini mereka melanjutkan latihan dengan cara mengirimkan prajurit Ganton ke sini. Kita berlatih kurang lebih 3 hari sebelum tampil di depan Presiden Raja Yordan. Hari ini harapan kami terjalin hubungan yang strategis yaitu mulai dari geopolitik, geoekonomi dan geostrategis antar ee dua negara dan antar ee gawaa."
+  },
+  {
+   "t": 72.0,
+   "d": 11.0,
+   "text": "Kami prajurit e mengucapkan terima kasih dan rasa bangga sudah terbat sekali dapat diberikan kesempatan dan kepercayaan terutama di hari ini bisa tampil depan dua kepala negara yang mana ini mungkin tidak semua prajurit mendapatkan kesempatan seperti ini. Ya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

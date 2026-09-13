@@ -1,0 +1,78 @@
+{
+ "id": "2026-08-01-doa-lintas-agama-perkuat-semangat-persatuan-jelang",
+ "video_id": "qV8_My__qJM",
+ "date": "2026-08-01",
+ "date_precise": true,
+ "title": "Doa Lintas Agama Perkuat Semangat Persatuan Jelang HUT ke-81 Kemerdekaan RI, Monas, 1 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=qV8_My__qJM",
+ "duration_s": 142,
+ "duration_hms": "2:22",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 214,
+ "unique_word_count": 124,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "qV8_My__qJM",
+   "url": "https://www.youtube.com/watch?v=qV8_My__qJM",
+   "title": "Doa Lintas Agama Perkuat Semangat Persatuan Jelang HUT ke-81 Kemerdekaan RI, Monas, 1 Agustus 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 14.0,
+   "text": "Malam ini ribuan umat dan para tokoh lintas agama berkumpul dalam satu majelis memanjatkan doa terbaik bagi negerinya."
+  },
+  {
+   "t": 17.0,
+   "d": 14.0,
+   "text": "[musik] Bineka tunggal ika ini adalah Indonesia ini adalah lukisan yang paling indah Tuhan."
+  },
+  {
+   "t": 31.0,
+   "d": 23.0,
+   "text": "Lukisan indah paling indah yang harus kita pelihara ya. Jangan ada yang mengacak-acak e keindahan Indonesia ya, keindahan budayanya, keindahan alamnya, keindahan ee spiritualnya. Jangan ada yang mengacak-acak. Insyaallah kita saling menopang satu dengan yang lain ya. Kita tidak saling menjatuhkan."
+  },
+  {
+   "t": 54.0,
+   "d": 29.0,
+   "text": "Kita kokoh sebagai satu bangsa di dalam perjalanan dan semangat proklamasi untuk mencapai cita-cita proklamasi yang telah dirumuskan sejak awal bangsa ini. Dengan adanya cinta kasih yang terus dikembangkan akan membawa persatuan dan kesatuan dengan jauh lebih indah. Karena memang inilah Indonesia. kita tidak bisa menolak keragaman ini, tetapi bagaimana kita bisa saling merangkul satu sama lain agar kita bisa menciptakan ee keindahan dan perdamaian di Indonesia ini [musik] sendiri."
+  },
+  {
+   "t": 83.0,
+   "d": 59.0,
+   "text": "Nilai-nilai yang pertama dan utama adalah persatuan dan kesatuan. Apapun suku, agama, ras, dan golongan, kita adalah satu nusa, satu bangsa, satu bahasa Indonesia. semua terjaga keharmonisan kerukunan antar umat beragama harmonis selalu terjaga di Indonesia ini sehingga [musik] menjadi satu kesatuan membuktikan bahwa perbedaan bukan alat perseteruhan [musik] tapi ibaratnya seperti orkestra yang terdiri atas berbagai macam alat musik tapi bisa berpadu harmonis karena ada satu lagu kebersamaan yaitu Indonesia."
+  },
+  {
+   "t": 142.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

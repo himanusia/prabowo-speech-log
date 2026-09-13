@@ -1,0 +1,93 @@
+{
+ "id": "2026-08-24-instruksikan-respon-cepat-bantuan-kembali-dikirim-ke",
+ "video_id": "BOw2keguqKY",
+ "date": "2026-08-24",
+ "date_precise": true,
+ "title": "Presiden Prabowo Instruksikan Respon Cepat, Bantuan Kembali Dikirim ke NTT dan Kalimantan, 24/8/2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=BOw2keguqKY",
+ "duration_s": 166,
+ "duration_hms": "2:46",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 255,
+ "unique_word_count": 149,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "BOw2keguqKY",
+   "url": "https://www.youtube.com/watch?v=BOw2keguqKY",
+   "title": "Presiden Prabowo Instruksikan Respon Cepat, Bantuan Kembali Dikirim ke NTT dan Kalimantan, 24/8/2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 4,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 52.0,
+   "text": "[musik] Izin, Pak Danut. Oke. [musik] Baik. Jadi yang pertama pagi ini Senin, 24 Agustus 2026 pukul 4.30 kembali diberangkatkan enam pesawat TNI AU menuju NTT [musik] dan menuju Kalimantan. Tiga pesawat menuju NTT akan mendarat di Labuhan Bajo dan Maumere. Tiga pesawat akan mendarat di Kalimantan, tepatnya di Pontianak, Palangkaraya, dan Banjarmasin. [musik] Kemudian yang kedua, untuk yang ke NTT diangkut [musik] diterbangkan 31 ton logistik bantuan makanan siap makan, biskuit, waver,"
+  },
+  {
+   "t": 53.0,
+   "d": 14.0,
+   "text": "protein bar, roti-roti, dan makanan lain sebagainya. dan juga turut diterbangkan juga mainan kecil, mainan untuk anak-anak [musik] yang terdampak juga."
+  },
+  {
+   "t": 67.0,
+   "d": 21.0,
+   "text": "Kemudian yang berikutnya, tiga pesawat terbang ke Kalimantan membawa 500 unit mesin pompa air yang merupakan bagian dari 2000 [musik] mesin pompa air. Yang mana kemarin ini adalah permohonan dari para gubernur di [musik] Kalimantan."
+  },
+  {
+   "t": 88.0,
+   "d": 19.0,
+   "text": "yang langsung diinterrusikan oleh Bapak Presiden untuk segera dikirim sesegera mungkin. [musik] Masing-masing pompa air dilengkapi dengan pipa atau selang [musik] sepanjang 1 km. Yang tujuannya dari mesin ini adalah untuk memadamkan api khususnya di lahan tanah gambut."
+  },
+  {
+   "t": 107.0,
+   "d": 5.0,
+   "text": "Kemudian yang ketiga, yang terakhir arahan Bapak Presiden sangat jelas."
+  },
+  {
+   "t": 112.0,
+   "d": 23.0,
+   "text": "Semua penanganan harus dilakukan secara cepat dan terpadu dan bantuan logistik yang dikirim harus benar-benar sampai dan diterima manfaatnya sesegera mungkin bagi masyarakat yang terdampak. Kita semua [musik] memastikan masyarakat yang terdampak tidak berjalan sendiri. Kita semua membersamai mereka."
+  },
+  {
+   "t": 135.0,
+   "d": 23.5,
+   "text": "[musik] Terima kasih kepada siapapun yang telah membantu. Semoga setiap niat baik, ikhtiar yang telah diusahakan bersama dapat benar-benar segera diterima, dirasakan manfaatnya bagi masyarakat yang terdampak. Saya kira itu. Kita doakan bersama semoga keadaan semakin segera membaik. Oke, terima kasih."
+  },
+  {
+   "t": 158.0,
+   "d": 6.0,
+   "text": "Wasalamualaikum warahmatullahi [musik] wabarakatuh."
+  },
+  {
+   "t": 164.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

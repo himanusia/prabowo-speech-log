@@ -1,0 +1,68 @@
+{
+ "id": "2026-05-09-sapa-prajurit-di-pos-angkatan-darat-miangas",
+ "video_id": "bHPh8p3Eo4k",
+ "date": "2026-05-09",
+ "date_precise": true,
+ "title": "Presiden Prabowo Sapa Prajurit di Pos Angkatan Darat Miangas, Kepulauan Talaud, 9 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=bHPh8p3Eo4k",
+ "duration_s": 73,
+ "duration_hms": "1:13",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 118,
+ "unique_word_count": 80,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "bHPh8p3Eo4k",
+   "url": "https://www.youtube.com/watch?v=bHPh8p3Eo4k",
+   "title": "Presiden Prabowo Sapa Prajurit di Pos Angkatan Darat Miangas, Kepulauan Talaud, 9 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 6.0,
+   "d": 9.0,
+   "text": "Siap jin. Sementara pam ring 3 tim laut di situ."
+  },
+  {
+   "t": 15.0,
+   "d": 2.0,
+   "text": "Siap."
+  },
+  {
+   "t": 17.0,
+   "d": 35.0,
+   "text": "Kemudian eara untuk rasanya berbincang langsung dengan Bapak, kami merasa suatu kebanggaan buat kami tersendiri sebagai prajurit. Karena ini pertama kali kami bertemu dengan Bapak secara langsung dengan menyapa dan terus bersalaman serta berbincang-berbincang sedikit dan juga menunjukkan barak atau pos kami. Ee untuk yang ditanyakan oleh Bapak Presiden yaitu mengenai sumber air kami yaitu untuk kebutuhan sehari-hari kami ya buat masak"
+  },
+  {
+   "t": 52.0,
+   "d": 27.0,
+   "text": "dan juga untuk mandi dan mencuci. kami menjawab, kami punya sumur dan sumurnya bersih. ee kalau menurut saya Bapak orangnya tegas terus ee perhatian sama anggota tentunya itu dan juga menurut saya Bapak orangnya sangat peduli sehingga tadi pertama datang langsung singgah dan menuju pos kami. H"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

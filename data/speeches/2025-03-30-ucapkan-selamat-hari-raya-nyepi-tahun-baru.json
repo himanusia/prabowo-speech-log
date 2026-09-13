@@ -1,0 +1,63 @@
+{
+ "id": "2025-03-30-ucapkan-selamat-hari-raya-nyepi-tahun-baru",
+ "video_id": "vXMF0Cvl77U",
+ "date": "2025-03-30",
+ "date_precise": true,
+ "title": "Presiden Prabowo Ucapkan Selamat Hari Raya Nyepi Tahun Baru Saka 1947, 30 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=vXMF0Cvl77U",
+ "duration_s": 111,
+ "duration_hms": "1:51",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 171,
+ "unique_word_count": 109,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "vXMF0Cvl77U",
+   "url": "https://www.youtube.com/watch?v=vXMF0Cvl77U",
+   "title": "Presiden Prabowo Ucapkan Selamat Hari Raya Nyepi Tahun Baru Saka 1947, 30 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 9
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 37.0,
+   "text": "Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh salam sejahtera kita sekalian Shalom salve Om Swastiastu namo Buda salam kebajikan Saya Prabowo Subianto Presiden Republik Indonesia atas nama pemerintah Republik Indonesia dan atas nama pribadi mengucapkan selamat hari raya Nyepi Tahun Baru saka47 seluruh umat Hindu di seluruh tanah air hari raya Nyepi adalah momen refleksi yang mendalam sebuah kesempatan untuk"
+  },
+  {
+   "t": 38.0,
+   "d": 39.0,
+   "text": "menenangkan diri menyucikan hati dan menyelaraskan hubungan manusia dengan alam semesta serta terlebih dengan Sang Pencipta dalam keheningan Nyepi kita diajak untuk merenungkan kembali makna hidup memperkuat nilai-nilai kebajikan dan menumbuhkan semangat kedamaian saya mengajak seluruh bangsa Indonesia di mana pun berada untuk menjadikan semangat Nyepi sebagai inspirasi bersama dalam membangun kehidupan yang lebih harmonis rukun dan damai dalam keberagaman yang kita miliki"
+  },
+  {
+   "t": 77.0,
+   "d": 35.0,
+   "text": "kita temukan kekuatan sebagai bangsa yang besar yang sedang membangun bersama untuk kesejahteraan seluruh rakyat Indonesia Sekali lagi saya mengucapkan selamat hari raya Nyepi semoga kedamaian dan kebijaksanaan senantiasa menyertai kita semua terima kasih wasalamualaikum warahmatullahi wabarakatuh salam sejahtera B kita sekalian Shalom salve om Santi Santi om namo Budha salam kebajikan"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

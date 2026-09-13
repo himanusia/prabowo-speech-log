@@ -1,0 +1,58 @@
+{
+ "id": "2025-02-20-saksikan-pelantikan-kepala-daerah-seluruh-kamis-20",
+ "video_id": "gRNRYKEZ7cQ",
+ "date": "2025-02-20",
+ "date_precise": true,
+ "title": "Saksikan! Pelantikan Kepala Daerah Seluruh Indonesia, Kamis, 20 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=gRNRYKEZ7cQ",
+ "duration_s": 39,
+ "duration_hms": "0:39",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "token_count": 62,
+ "unique_word_count": 48,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "gRNRYKEZ7cQ",
+   "url": "https://www.youtube.com/watch?v=gRNRYKEZ7cQ",
+   "title": "Saksikan! Pelantikan Kepala Daerah Seluruh Indonesia, Kamis, 20 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 12.0,
+   "d": 36.0,
+   "text": "pelantikan ini merupakan yang pertama kali digelar secara serentak di Istana Kepresidenan dan ini menandai babak baru dalam tata kelola pemerintahan daerah di Indonesia momen ini adalah momen yang sangat bersejarah yang juga merupakan komitmen Pemerintah Daerah yang lebih efektif efisien transparan dan berorientasi kepada pelayanan publik saksikan live Pelantikan kepala daerah seluruh Indonesia besok Kamis 20"
+  },
+  {
+   "t": 48.0,
+   "d": 3.0,
+   "text": "Februari 2025 mulai pukul 0900 Waktu Indonesia Barat"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

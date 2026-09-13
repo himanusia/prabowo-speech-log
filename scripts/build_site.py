@@ -401,16 +401,23 @@ def render_daftar(speeches: list[dict], meta: dict, coverage: dict) -> str:
     )
 
 
-def _chart(id_: str, judul: str, temuan: str, unit: str, tinggi: str = "16rem",
-           kelas: str = "c12") -> str:
-    """Satu panel: judul, TEMUAN (kesimpulan satu baris), satuan, lalu grafik."""
+def _chart(id_: str, judul: str, angka: str, unit: str, tinggi: str = "16rem",
+           kelas: str = "c12", bisa_semua: bool = True) -> str:
+    """Satu panel: judul, ANGKA (bukan paragraf), satuan, grafik, tombol.
+
+    Tombol `semua` membuka seluruh data. Data dikirim UTUH ke halaman;
+    pemotongan hanya soal tampilan dan bisa dibuka pengguna.
+    """
+    tombol = (f'<button type="button" class="lebih" data-lebih="{id_}" '
+              f'aria-expanded="false">semua</button>' if bisa_semua else "")
     return f"""      <section class="card {kelas}">
         <div class="card__h">
           <h3>{e(judul)}</h3>
           <span class="unit">{unit}</span>
         </div>
-        <p class="temuan">{temuan}</p>
+        <p class="angka">{angka}</p>
         <div class="chart" id="{id_}" style="height:{tinggi}"></div>
+        <div class="kaki">{tombol}<span class="kaki__n" data-jumlah="{id_}"></span></div>
       </section>"""
 
 
@@ -443,19 +450,38 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
   </div>"""
 
     chart_data = {
-        "words": [{"name": w["word"], "value": w["count"]} for w in tw[:20]],
-        "programs": [{"name": x["label"], "value": round(x["share"])} for x in prog[:9]],
-        "topics": [{"name": x["topic"].replace("_", " "), "value": round(x["per_1000"], 1)}
-                   for x in top],
-        "framing": [{"name": x["label"], "value": round(x["per_1000"], 1)} for x in fr],
-        "concepts": [{"name": x["label"], "value": round(x["share"])} for x in conc[:5]],
+        # UTUH dan multi-metrik. Tiap butir membawa beberapa ukuran
+        # sekaligus supaya pembaca bisa menilai sendiri dari sudut berbeda,
+        # bukan disuguhi satu angka yang sudah ditafsirkan.
+        "words": [{"name": w["word"], "count": w["count"], "per1000": w["per_1000"],
+                   "speeches": w.get("speeches"), "share": w.get("share")} for w in tw],
+        "programs": [{"name": x["label"], "full": x.get("full"), "share": round(x["share"]),
+                      "events": x.get("events"), "mentions": x.get("mentions"),
+                      "per_event": x.get("per_event"), "first": x.get("first"),
+                      "last": x.get("last")} for x in prog],
+        "topics": [{"name": x["topic"].replace("_", " "), "per1000": round(x["per_1000"], 1),
+                    "count": x.get("count"), "speeches": x.get("speeches"),
+                    "share": x.get("share")} for x in top],
+        "framing": [{"name": x["label"], "per1000": round(x["per_1000"], 1),
+                     "count": x.get("count"), "speeches": x.get("speeches")} for x in fr],
+        "concepts": [{"name": x["label"], "full": x.get("full"), "share": round(x["share"]),
+                      "events": x.get("events"), "mentions": x.get("mentions"),
+                      "per_event": x.get("per_event"), "first": x.get("first"),
+                      "last": x.get("last")} for x in conc],
         "length": {"labels": [x["label"] for x in hist],
                    "counts": [x["count"] for x in hist]},
         "months": [{"month": m["month"], "events": m["events"], "tokens": m["tokens"]}
                    for m in bln],
         "timeline": [{"date": s["date"], "title": s["title"],
                       "tokens": s["token_count"] or 0,
+                      "words": s.get("unique_word_count"),
+                      "uploads": s.get("upload_count"),
                       "url": f"pidato/{s['id']}.html"} for s in speeches],
+        "years": [{"year": y["year"], "speeches": y["speeches"], "tokens": y["tokens"],
+                   "kita": y.get("kita_per_1000"), "saya": y.get("saya_per_1000"),
+                   "ratio": y.get("ratio")} for y in home.get("framing_per_year", [])],
+        "coverage": {"punya": n, "era": meta.get("era_videos") or 894,
+                     "kosong": len(coverage.get("months_without_events", []))},
     }
     payload = json.dumps(chart_data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 
@@ -463,107 +489,37 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
         return f"{x:.0f}%" if x is not None else "—"
 
     body = f"""  <h1>{e(SITE_NAME)}</h1>
-  <p class="lede">Semua pidato sejak 20 Oktober 2024, dihitung — bukan diringkas.
-  Empat pertanyaan, dijawab dari {fmt_int(n)} pidato yang sudah terkumpul.</p>
-
-  <div class="catatan">
-    <b>Baca dulu.</b> Arsip ini belum lengkap. Yang terkumpul {fmt_int(n)} dari
-    perkiraan {fmt_int(meta.get('era_videos') or 894)} video era kepresidenan,
-    dan sebarannya condong ke 2026 karena cara pengumpulan, bukan karena dia
-    makin sering berpidato. Angka di bawah menggambarkan <i>apa yang sudah
-    terkumpul</i>, bukan seluruh masa jabatannya.
-  </div>
+  <p class="lede">{fmt_int(n)} pidato sejak 20 Oktober 2024 &middot; {fmt_int(home.get('token_count'))} token</p>
 
 {hero}
 
-  <section class="blok">
-    <h2 class="blok__t">1 &middot; Apa yang dia anggap penting?</h2>
-    <p class="blok__d">Kalau sesuatu disebut berulang kali di ribuan kalimat, itu masuk prioritasnya.
-    Diukur dari jumlah pidato yang menyebutnya, bukan jumlah kata mentah.</p>
-    <div class="dash">
-{_chart('chart-program', 'Program yang paling banyak dibahas',
-        f"<b>MBG disebut di {pct(mbg['share'] if mbg else None)} pidato</b> — hampir separuh. "
-        f"Jauh di atas Danantara ({pct(prog[1]['share']) if len(prog)>1 else '—'}) "
-        f"dan hilirisasi ({pct(prog[2]['share']) if len(prog)>2 else '—'}).",
-        'luas kotak = % pidato', '17rem', 'c5')}
-{_chart('chart-kata', 'Kata yang paling sering dia ucapkan',
-        f"Puncaknya <b>{e(tw[0]['word'])}</b> ({fmt_int(tw[0]['count']) if tw else 0}&times;). "
-        f"Sepuluh teratas semuanya soal negara dan rakyat — tidak ada satu pun nama program.",
-        '14 teratas, tanpa kata fungsi', '17rem', 'c7')}
-{_chart('chart-topik', 'Topik yang mendominasi',
-        f"<b>{e(t0['topic'].replace('_',' ')) if t0 else '—'}</b> {t0['per_1000'] if t0 else 0:.1f} "
-        f"per 1.000 token, sementara ekonomi cuma {t1['per_1000'] if t1 else 0:.1f}. "
-        f"Selisihnya lima kali — hampir semua pidato bernada kebangsaan.",
-        'kepadatan per 1.000 token', '15rem', 'c12')}
-    </div>
-  </section>
-
-  <section class="blok">
-    <h2 class="blok__t">2 &middot; Bagaimana dia membawa diri?</h2>
-    <p class="blok__d">Pilihan kata ganti menunjukkan apakah dia berbicara sebagai bagian
-    dari rakyat, atau sebagai orang yang bicara kepada rakyat.</p>
-    <div class="dash">
-{_chart('chart-sapa', 'Dia bilang "kita", bukan "saya"',
-        f"<b>kita {kita['per_1000'] if kita else 0:.1f}</b> vs "
-        f"<b>saya {saya['per_1000'] if saya else 0:.1f}</b> per 1.000 token — "
-        f"<b>{rasio}&times; lebih sering</b>. Kata <i>kalian</i> hampir tidak pernah dipakai "
-        f"({next((x['per_1000'] for x in fr if x['label']=='kalian'), 0):.1f}).",
-        'per 1.000 token', '14rem', 'c5')}
-{_chart('chart-masalah', 'Yang dia sebut sebagai masalah',
-        f"<b>Korupsi dan kebocoran {pct(kor['share'] if kor else None)}</b> — dua dari tiga pidato. "
-        f"Jauh di atas hinaan pribadi, yang jarang muncul.",
-        'porsi pidato', '14rem', 'c7')}
-    </div>
-  </section>
-
-  <section class="blok">
-    <h2 class="blok__t">3 &middot; Seberapa besar dan seberapa lengkap?</h2>
-    <p class="blok__d">Sebelum menyimpulkan apa pun dari angka di atas, ukuran sampelnya
-    harus jujur dulu. Bagian ini menunjukkan apa yang sudah terkumpul dan apa yang belum.</p>
-    <div class="dash">
-{_chart('chart-panjang', 'Panjang pidatonya tidak seragam',
-        f"Setengah pidato di bawah <b>{fmt_int(L.get('median'))} token</b>, "
-        f"tapi yang terpanjang <b>{fmt_int(L.get('longest'))}</b> — "
-        f"selisihnya {round((L.get('longest') or 1)/max(1,(L.get('median') or 1)))}&times;. "
-        f"Pidato pendek dan marathon tidak bisa diperlakukan sama.",
-        'ribu token &middot; jumlah pidato', '15rem', 'c5')}
-{_chart('chart-volume', 'Volume per bulan',
-        f"Puncaknya <b>{max((m['events'] for m in bln), default=0)} pidato</b> dalam sebulan. "
-        f"Tapi pola naik ini <b>artefak cara pencarian</b>, bukan bukti dia makin sering berpidato — "
-        f"lihat halaman <a href='cakupan.html'>cakupan</a>.",
-        'jumlah pidato &middot; bisa di-geser', '15rem', 'c7')}
-{_chart('chart-waktu', 'Setiap titik satu pidato',
-        f"{fmt_int(n)} tanda, tinggi = panjang pidato. "
-        f"Bagian yang renggang di kiri menandakan periode yang belum tergali.",
-        '<a href="daftar.html">buka daftar lengkap &rarr;</a>', '17rem', 'c12')}
-    </div>
-  </section>
-
-  <section class="blok">
-    <h2 class="blok__t">4 &middot; Seberapa bisa dipercaya?</h2>
-    <p class="blok__d">Batasan yang perlu dibaca sebelum mengutip angka mana pun di halaman ini.</p>
-    <div class="dash">
-      <section class="card c12">
-        <div class="card__h">
-          <h3>Sebaran waktu &amp; yang belum tergali</h3>
-          <span class="unit">{len(coverage.get('months_without_events', []))} bulan kosong</span>
-        </div>
-        <p class="temuan">Kotak bergaris putus-putus = bulan tanpa pidato sama sekali.
-        Sebaran yang condong ke 2026 itu <b>artefak cara pengumpulan</b>, bukan tanda
-        Prabowo lebih sering berpidato tahun itu.</p>
-        <div class="heat">{_cov_cells(coverage)}</div>
-        <div class="legend">
-          <span class="legend__t">jumlah pidato per bulan</span>
-          <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 12%, var(--card))"></span>
-          <span>sedikit</span>
-          <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 70%, var(--card))"></span>
-          <span>banyak</span>
-          <span class="legend__s" style="border-style:dashed;background:transparent"></span>
-          <span>kosong</span>
-        </div>
-      </section>
-    </div>
-  </section>
+  <div class="dash">
+{_chart('chart-program', 'Program yang dibahas', f"{len(prog)} program", 'luas kotak = % pidato', '17rem', 'c5')}
+{_chart('chart-kata', 'Kata yang paling sering', 'tanpa kata fungsi', 'hitungan &middot; per 1.000 token &middot; jumlah pidato', '17rem', 'c7')}
+{_chart('chart-topik', 'Topik', f"{len(top)} kategori", 'kepadatan per 1.000 token &middot; jumlah pidato', '15rem', 'c7')}
+{_chart('chart-sapa', 'Kata ganti', f"{len(fr)} kata", 'per 1.000 token', '15rem', 'c5')}
+{_chart('chart-masalah', 'Kategori masalah', f"{len(conc)} kategori", 'porsi pidato &middot; kemunculan', '14rem', 'c5')}
+{_chart('chart-panjang', 'Panjang pidato', f"median {fmt_int(L.get('median'))} token", 'ribu token &middot; jumlah pidato', '14rem', 'c7')}
+{_chart('chart-volume', 'Volume per bulan', f"{len(bln)} bulan terisi", 'jumlah pidato &middot; token', '15rem', 'c7')}
+{_chart('chart-tahun', 'Kata ganti per tahun', f"{len(home.get('framing_per_year', []))} tahun", 'per 1.000 token', '14rem', 'c5')}
+    <section class="card c12">
+      <div class="card__h">
+        <h3>Sebaran waktu</h3>
+        <span class="unit">{len(coverage.get('months_without_events', []))} bulan tanpa pidato</span>
+      </div>
+      <div class="heat">{_cov_cells(coverage)}</div>
+      <div class="legend">
+        <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 12%, var(--card))"></span>
+        <span>sedikit</span>
+        <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 70%, var(--card))"></span>
+        <span>banyak</span>
+        <span class="legend__s" style="border-style:dashed;background:transparent"></span>
+        <span>kosong</span>
+      </div>
+    </section>
+{_chart('chart-waktu', 'Garis waktu', f'{fmt_int(n)} pidato', 'tinggi = panjang &middot; klik untuk membuka', '17rem', 'c12')}
+{_chart('chart-kelengkapan', 'Kelengkapan arsip', f"{fmt_int(n)} dari {fmt_int(meta.get('era_videos') or 894)} video era kepresidenan", 'per bulan', '13rem', 'c12', False)}
+  </div>
 
   <script id="chart-data" type="application/json">{payload}</script>
 """
@@ -1011,8 +967,18 @@ APP_JS = r"""/* Penyaring dan tema. Keduanya opsional — tanpa JS halaman tetap
 # ------------------------------------------------------------------------ main
 
 def main() -> int:
-    speeches = [json.loads(p.read_text(encoding="utf-8"))
-                for p in sorted((DATA / "speeches").glob("*.json"))]
+    semua = [json.loads(p.read_text(encoding="utf-8"))
+             for p in sorted((DATA / "speeches").glob("*.json"))]
+    # Arsip ini soal PIDATO PRABOWO. Entri hasil impor panel yang ternyata
+    # keterangan pers pejabat lain, kunjungan, atau potongan sangat pendek
+    # TIDAK diterbitkan — kalau ikut, judul situsnya jadi tidak jujur.
+    def terbit(d):
+        k = d.get("speaker_kind")
+        if k is None:
+            return True                      # 67 entri awal, sudah terkurasi
+        return k in ("pidato_prabowo", "prabowo_bicara")
+    speeches = [d for d in semua if terbit(d)]
+    disaring = len(semua) - len(speeches)
     index = json.loads((DATA / "index.json").read_text(encoding="utf-8"))
     coverage = json.loads((DATA / "coverage.json").read_text(encoding="utf-8"))
     meta = json.loads((DATA / "meta.json").read_text(encoding="utf-8"))
@@ -1034,7 +1000,7 @@ def main() -> int:
     ASSET_V["js"] = hashlib.sha256(APP_JS.encode("utf-8")).hexdigest()[:10]
     ASSET_V["vendor"] = asset_version(WEB / "vendor" / "echarts.min.js")
     ASSET_V["charts"] = asset_version(WEB / "charts.js")
-    ASSET_V["figure"] = asset_version(WEB / "prabowo.png")
+    ASSET_V["figure"] = asset_version(WEB / "prabowo.svg")
     print(f"versi aset: css={ASSET_V['css']} js={ASSET_V['js']}")
 
     # Bersihkan keluaran lama supaya tidak ada sisa halaman yatim.
@@ -1066,11 +1032,12 @@ def main() -> int:
     # CSS ditulis, bukan disalin: rujukan gambar latar diganti ke nama
     # berversi, supaya gambarnya juga tidak bisa tersangkut di cache.
     css = (WEB / "theme.css").read_text(encoding="utf-8")
-    css = css.replace('url("prabowo.png")', f'url("prabowo.{ASSET_V["figure"]}.png")')
+    css = css.replace('url("prabowo.svg")',
+                      f'url("prabowo.{ASSET_V["figure"]}.svg")')
     (DOCS / f"theme.{ASSET_V['css']}.css").write_text(css, encoding="utf-8")
     (DOCS / f"app.{ASSET_V['js']}.js").write_text(APP_JS, encoding="utf-8")
     shutil.copy2(WEB / "charts.js", DOCS / f"charts.{ASSET_V['charts']}.js")
-    shutil.copy2(WEB / "prabowo.png", DOCS / f"prabowo.{ASSET_V['figure']}.png")
+    shutil.copy2(WEB / "prabowo.svg", DOCS / f"prabowo.{ASSET_V['figure']}.svg")
     (DOCS / "vendor").mkdir(exist_ok=True)
     shutil.copy2(WEB / "vendor" / "echarts.min.js",
                  DOCS / "vendor" / f"echarts.{ASSET_V['vendor']}.min.js")

@@ -1,0 +1,132 @@
+{
+ "id": "2025-12-01-kunjungi-wilayah-terdampak-bencana-di-tapanuli-tengah",
+ "video_id": "yn1b5cHw9jY",
+ "date": "2025-12-01",
+ "date_precise": true,
+ "title": "Presiden Prabowo Kunjungi Wilayah Terdampak Bencana di Tapanuli Tengah, 1 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=yn1b5cHw9jY",
+ "duration_s": 273,
+ "duration_hms": "4:33",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 33,
+ "token_count": 223,
+ "unique_word_count": 112,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "yn1b5cHw9jY",
+   "url": "https://www.youtube.com/watch?v=yn1b5cHw9jY",
+   "title": "Presiden Prabowo Kunjungi Wilayah Terdampak Bencana di Tapanuli Tengah, 1 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 18.0,
+   "d": 40.0,
+   "text": "[musik] [musik] Datang Bapak selamat datang. [musik] Selamat datang kami ucapkan."
+  },
+  {
+   "t": 58.0,
+   "d": 2.0,
+   "text": "[musik] Selamat datang."
+  },
+  {
+   "t": 60.0,
+   "d": 10.0,
+   "text": "Selamat datang Ibu. Selamat [musik] datang kami ucapkan salam."
+  },
+  {
+   "t": 70.0,
+   "d": 13.0,
+   "text": "Salam [musik] dari salam dari kami yang ingin maju."
+  },
+  {
+   "t": 83.0,
+   "d": 122.0,
+   "text": "[musik] [musik] [musik] [musik] [musik] [musik] [musik] ajaimat i kita ee lihat memang yang ee tapi ee saya lihat saya terima kasih semua pihak terutama semua instansi yang reaksi yang sangat cepat untuk memberi bantuan memang kondisi alam memang sangat menantang ya sangat menimbul kesulitan ee banyak banyak jalur masih terputus tapi kita segera ee melakukan ee segala upaya saya untuk mengatasi kesulitan-kesulitan yang dialami ya. Sekarang masalah ee BBM tapi"
+  },
+  {
+   "t": 205.0,
+   "d": 33.0,
+   "text": "kita sekapal besar sudah bisa merapat ya di Simborga. Kemudian Herkules terus kita kerahkan ee mungkin tiap hari berapa titik yang bisa diaratkan ya baterah maupun I. Jadi sekarang ini ee saya kira saya terima kasih sama semua instansi eh TNI, PORI, PU ya ee Badan BNPB ya."
+  },
+  {
+   "t": 238.0,
+   "d": 6.0,
+   "text": "Siapan Alam. Terima kasih semuanya reaksi pemda juga bekerja dengan baik."
+  },
+  {
+   "t": 244.0,
+   "d": 6.0,
+   "text": "Kita hadapi ini, kita hadapi musibah dengan tabah dan dengan solidaritas."
+  },
+  {
+   "t": 250.0,
+   "d": 18.0,
+   "text": "Semuanya kompak kita atasi ya. Negara kita kuat sekarang mampu untuk mengatasi ya. Terima kasih Pak."
+  },
+  {
+   "t": 268.0,
+   "d": 2.0,
+   "text": "Kamu yang panggil-panggil aku, ya."
+  },
+  {
+   "t": 270.0,
+   "d": 8.0,
+   "text": "Iya, Pak. Jelas, Pak. Pak, sehat selalu, Pak. Sana sudah berapa hari di sini?"
+  },
+  {
+   "t": 278.0,
+   "d": 0.5,
+   "text": "Siap."
+  },
+  {
+   "t": 278.0,
+   "d": 3.0,
+   "text": "Sudah 7 hari. 7 hari. Siap, Pak."
+  },
+  {
+   "t": 281.0,
+   "d": 2.0,
+   "text": "Pak, dari mana kalian?"
+  },
+  {
+   "t": 283.0,
+   "d": 5.0,
+   "text": "Dari Basanas Pusat. Pusat. Siap."
+  },
+  {
+   "t": 288.0,
+   "d": 3.0,
+   "text": "Terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

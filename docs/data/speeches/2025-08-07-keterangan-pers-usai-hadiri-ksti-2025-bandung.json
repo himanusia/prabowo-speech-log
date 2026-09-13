@@ -1,0 +1,68 @@
+{
+ "id": "2025-08-07-keterangan-pers-usai-hadiri-ksti-2025-bandung",
+ "video_id": "Gczc14dpEdw",
+ "date": "2025-08-07",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Hadiri KSTI Indonesia 2025, Bandung, 7 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Gczc14dpEdw",
+ "duration_s": 48,
+ "duration_hms": "0:48",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 6,
+ "token_count": 109,
+ "unique_word_count": 70,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Gczc14dpEdw",
+   "url": "https://www.youtube.com/watch?v=Gczc14dpEdw",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri KSTI Indonesia 2025, Bandung, 7 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 8.0,
+   "text": "Ih, Pak. Tadi kenapa tertumb biar lebih bebas gitu ya. Jangan selalu nempel, jangan dipelentir, jangan dipolitisasi."
+  },
+  {
+   "t": 8.0,
+   "d": 10.0,
+   "text": "Ini kan kita bicara, kita bicara ilmu, kita bicara ilmu sains, teknologi. Ya, Pak. Kalau soal ambalan ada yang bakal ditigasinya enggak apa?"
+  },
+  {
+   "t": 18.0,
+   "d": 12.0,
+   "text": "Kan tadi pagi sudah diaksin sama pemerintah Malaysia. Jadi tahu Sulawesi pertambahan pemerintah ya. Kita cari e penyelesaian yang baik."
+  },
+  {
+   "t": 30.0,
+   "d": 18.0,
+   "text": "yang damai itu ada itikad baik dari dua dua pihak ya kita jangan biasalah ada mungkin intinya kita mau penyelesaian yang baik ya Pak soal 17 Agustus Pak mau undang kepala negara siap Pak 17 Agustus Pakar Pak kita relatif sederhana duluah kita masih banyak pekerjaan untuk rakyat ya oke makasih Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

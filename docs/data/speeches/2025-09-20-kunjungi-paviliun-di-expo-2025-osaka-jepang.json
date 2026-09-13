@@ -1,0 +1,73 @@
+{
+ "id": "2025-09-20-kunjungi-paviliun-di-expo-2025-osaka-jepang",
+ "video_id": "PqYW_TF2pzE",
+ "date": "2025-09-20",
+ "date_precise": true,
+ "title": "Presiden Prabowo Kunjungi Paviliun Indonesia di Expo 2025 Osaka, Jepang, 20 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=PqYW_TF2pzE",
+ "duration_s": 151,
+ "duration_hms": "2:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 188,
+ "unique_word_count": 112,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "PqYW_TF2pzE",
+   "url": "https://www.youtube.com/watch?v=PqYW_TF2pzE",
+   "title": "Presiden Prabowo Kunjungi Paviliun Indonesia di Expo 2025 Osaka, Jepang, 20 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 14
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 42.0,
+   "text": "[Musik] Eh, konsep besar dari pavilon Indonesia sebenarnya menggambarkan ee sejarah panjang kehidupan masyarakat Indonesia sebagai bangsa maritim. Jadi, Paviliun Indonesia ini merepresentasikan ee kapal besar ya yang tentunya ee kita kenal ee bahwa sebagai bangsa bahari tidak saja dari sisi kapalnya, tetapi juga kehidupan budaya, kuliner dan juga kehidupan alam sangat erat kaitannya dengan laut. Nah, bentuknya sendiri di ujung depan tinggi itu menggambarkan e semangat bangsa Indonesia kita untuk"
+  },
+  {
+   "t": 45.0,
+   "d": 8.0,
+   "text": "terus maju menjadi bangsa besar, bangsa maju sesuai dengan visi Indonesia 2045."
+  },
+  {
+   "t": 53.0,
+   "d": 53.0,
+   "text": "[Musik] Yang pertama tentunya sebagai eh national branding bahwa Indonesia dalam konteks pembangunannya kita sangat memegang teguh prinsip-prinsip keberlanjutan ya ee supaya generasi mendatang tetap bisa menik nikmati ee alam ee budaya dan juga kehidupan kualitas hidup yang ee sama paling tidak sama baiknya dengan apa yang kita rasakan saat ini. Pengunjungnya tentunya sebagian besar dari ee Jepang ya mereka sangat antusias. Namun juga kita"
+  },
+  {
+   "t": 106.0,
+   "d": 36.0,
+   "text": "mendapat kunjungan banyak dari ee pengunjung negara-negara lain. Kemudian juga ee dari prominent people ya, ada beberapa prince, kemudian ee perdana menteri menteri untuk hadir juga di sini secara khusus dan juga tentunya dari eh dari Indonesiairo SNS Indonesia of energy."
+  },
+  {
+   "t": 142.0,
+   "d": 12.0,
+   "text": "初 [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

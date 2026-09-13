@@ -1,0 +1,83 @@
+{
+ "id": "2025-03-20-keterangan-pers-usai-resmikan-kek-industropolis-batang",
+ "video_id": "9lhVB31qLEc",
+ "date": "2025-03-20",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Resmikan KEK Industropolis Batang, Jawa Tengah, 20 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=9lhVB31qLEc",
+ "duration_s": 164,
+ "duration_hms": "2:44",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 249,
+ "unique_word_count": 126,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "9lhVB31qLEc",
+   "url": "https://www.youtube.com/watch?v=9lhVB31qLEc",
+   "title": "Keterangan Pers Presiden Prabowo Usai Resmikan KEK Industropolis Batang, Jawa Tengah, 20 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 4,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 47.0,
+   "text": "Ya, alhamdulillah hari ini kita bisa ee meresmikan kawasan ekonomi khusus ini industropolisopolis batang batang yang ee sangat ee sekel sangat baik perencanaannya, visinya dan pelaksanaannya. Ya, kita lihat semakin hari semakin terwujud ee rencana-cana besar. Sudah tadi sudah 20 ya 20 ee perusahaan sudah di sini. Ee tujuh yang sudah beroperasi koperasi, tujuh sudah konstruksi, 13 sedang dalam perencanaan. Jadi ini luar biasa. Jadi"
+  },
+  {
+   "t": 47.0,
+   "d": 27.0,
+   "text": "kita optimis ya. Dan ini salah satu dari berapa puluh rencana KEK yang kita akan bangun nanti. Mungkin idealnya satu KEK di tiap provinsi. Jadi ujungnya kita mungkin harus punya 38 K. Ya, itu yang kita ingin ke arah sana. Saya kira ee nanti kita lihat semakin ke depan semakin ee baik, semakin kuat ya."
+  },
+  {
+   "t": 74.0,
+   "d": 23.0,
+   "text": "Fundamental ekonomi kita kuat. Kalau di sana sini ada goncangan itu goncangan dunia tapi kita kuat fundamental kita kuat. Alhamdulillah saya lihat kurang seminggu lebaran ya. Ee saya kira harga-harga pangan, harga-harga sembakau terkendali."
+  },
+  {
+   "t": 97.0,
+   "d": 7.0,
+   "text": "Ee ya kita sudah rencanakan yang baik, mudah-mudahan mudiknya berjalan dengan baik."
+  },
+  {
+   "t": 104.0,
+   "d": 36.0,
+   "text": "transportasi. Kita sudah turunkan harga pesawat kita sudah turunkan ee kereta api kita juga ee jalan tol juga akan diturunkan ya. Ee kita fasilitasi se baik mungkin untuk rakyat kita juga. kita sedang berjuang terus untuk ee mengurangi ee birokrasi, mengurangi ee regulasi yang berbelit-belit. Kita mau ekonomi kita efisien, efisien, efisien."
+  },
+  {
+   "t": 140.0,
+   "d": 12.0,
+   "text": "Dengan efisiensi kita bisa bersaing kompetitif dan kita apa semakin cepat nanti akan menuju negara yang sejahtera."
+  },
+  {
+   "t": 152.0,
+   "d": 12.0,
+   "text": "Saya kira itu dari saya. Terima kasihimana tanggapannya buat hari ini Pak kita berdoa berhasil Pediksi susah, Pak. Insyaallah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

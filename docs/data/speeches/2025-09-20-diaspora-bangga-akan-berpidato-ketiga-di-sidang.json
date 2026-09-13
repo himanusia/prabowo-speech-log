@@ -1,0 +1,93 @@
+{
+ "id": "2025-09-20-diaspora-bangga-akan-berpidato-ketiga-di-sidang",
+ "video_id": "3O0hZVxtrKo",
+ "date": "2025-09-20",
+ "date_precise": true,
+ "title": "Diaspora Bangga Presiden Prabowo Akan Berpidato Ketiga di Sidang PBB, New York, 20 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=3O0hZVxtrKo",
+ "duration_s": 118,
+ "duration_hms": "1:58",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 198,
+ "unique_word_count": 118,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "3O0hZVxtrKo",
+   "url": "https://www.youtube.com/watch?v=3O0hZVxtrKo",
+   "title": "Diaspora Bangga Presiden Prabowo Akan Berpidato Ketiga di Sidang PBB, New York, 20 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 23.0,
+   "text": "[Musik] [Musik] Hari ini kita ee nyambut aja sih."
+  },
+  {
+   "t": 23.0,
+   "d": 5.0,
+   "text": "Kebetulan Pak Presiden kan baru aja landing kan, baru nyampai di New York."
+  },
+  {
+   "t": 28.0,
+   "d": 6.0,
+   "text": "Em kita sebagai dari perwakilan Permias kita ee nyambut kedatangannya ke sini."
+  },
+  {
+   "t": 34.0,
+   "d": 17.0,
+   "text": "Lumayan bangga sih karena kan ee dengar-dengar juga kita urutan ketiga kan ya. Em kita bisa ee berbicara di depan negara-negara yang penting lainnya. Em sebagai mahasiswa saya bangga sih. Ee semoga apapun yang dilakukan di UNJ lancarlah."
+  },
+  {
+   "t": 51.0,
+   "d": 24.0,
+   "text": "Eh setahu saya presiden di sini Darangka United Nations Journal Assembly. E Bapak hadir di sini dengan ketua-ketua negara yang lain. Em negara hadir. Jadi ini kehormatan untuk Indonesia ya. Kalau Pak Prabo hari ini datang e di New York untuk acara United Nations Sambi atau UNG."
+  },
+  {
+   "t": 75.0,
+   "d": 14.0,
+   "text": "[Musik] Kamu siapa namamu? Siapa namanya? Hatta K. Hatta Kyawa. belajar namanya siapa? Umurmu berapa?"
+  },
+  {
+   "t": 89.0,
+   "d": 15.0,
+   "text": "Iya. Em ee ada komen saya ada dua. Yang pertama tentunya saya ee merasa bangga ee Presiden kita selama ee kurang lebih 10 tahun terakhir ee akhirnya bisa berkunjung ke New York dan menyampaikan aspirasi warga Indonesia secara general."
+  },
+  {
+   "t": 104.0,
+   "d": 11.0,
+   "text": "Yang kedua adalah saya berharap semoga eh ajang ini menjadi momen bukan hanya sekedar partisipasi tapi juga bisa menjadikan wadah aspirasi bagi diaspora-diaspora yang ada di Amerika Serikat."
+  },
+  {
+   "t": 115.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

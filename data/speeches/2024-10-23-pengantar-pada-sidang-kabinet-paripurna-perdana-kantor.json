@@ -1,0 +1,193 @@
+{
+ "id": "2024-10-23-pengantar-pada-sidang-kabinet-paripurna-perdana-kantor",
+ "video_id": "IWewatK6Vxw",
+ "date": "2024-10-23",
+ "date_precise": true,
+ "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna Perdana, Kantor Presiden, 23 Oktober 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=IWewatK6Vxw",
+ "duration_s": 1575,
+ "duration_hms": "26:15",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 195,
+ "token_count": 1610,
+ "unique_word_count": 619,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "IWewatK6Vxw",
+   "url": "https://www.youtube.com/watch?v=IWewatK6Vxw",
+   "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna Perdana, Kantor Presiden, 23 Oktober 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 8,
+  "pendidikan": 13,
+  "kesehatan_dan_gizi": 19,
+  "tata_kelola": 7,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 62
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 3
+  },
+  "Hilirisasi": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 108.0,
+   "text": "Presiden Republik Indonesia dan Wakil Presiden Republik Indonesia memasuki ruang sidang [Musik] kameraa Pak [Musik] Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh Waalaikumsalam Selamat siang salam sejahtera bagi kita sekalian Shalom Om Swastiastu namo budhaya salam kebajikan rahayu-rahayu saudara-saudara sekalian para para anggota kabinet Merah Putih yang saya hormati dan saya banggakan wakil presiden yang saya hormati para Menko"
+  },
+  {
+   "t": 108.0,
+   "d": 65.0,
+   "text": "ketua dewan ekonomi nasional para ketua Badan Panglima TNI Kapolri Jaksa Agung yang saya hormati kepala BIN saudara-saudara sekalian sekarang Saya kira adalah suatu momen bersejarah ini adalah kabinet sidang kabinet Paripurna [Musik] pertama yang saya Pimpin kabinet yang kita sepakati kita beri nama kabinet merah putih untuk menjadi suatu simbol persatuan simbol kebersamaan simbol kebangsaan saya terus-menerus sudahberapa tahun"
+  },
+  {
+   "t": 173.0,
+   "d": 65.0,
+   "text": "ini maju keehadapan rakyat Indonesia kepada semua pemimpin politik pemimpin masyarakat pemimpin agama pemimpin pengusaha saya terus-menerus menekankan pentingnya persatuan sumber Kunci keberhasilan kebangkitan suatu bangsa dalam sejarah manusia berabad-abad kuncinya adalah bila elitnya bisa kerja sama bila elitnya bersatu persatuan ini artinya adalah kita bisa sepakati Mana adalah kepentingan nasional yang"
+  },
+  {
+   "t": 238.0,
+   "d": 54.0,
+   "text": "inti Man adalah kepentingan nasional yang vital bagi kelangsungan hidup bangsa kita kita masing-masing punya kepentingan politik masing-masing kita masing-masing punya kepentingan kelompok masing-masing tapi manakala kita sudah bicara tentang bangsa dan negara kita harus sepakati kepentingan nasional yang vital saya meyakini bahwa kepentingan nasional vital kita tentunya harus kita sepakati adalah [Musik]"
+  },
+  {
+   "t": 292.0,
+   "d": 58.0,
+   "text": "kemerdekaan dan keutuhan NKRI uhan Negara Kesatuan Republik Indonesia dan untuk menjamin keutuhan dan kelangsungan hidup negara kesatuan republ Indonesia kita harus dengan handal dengan cerdik dengan pandai bisa menjaga dan mengelola kekayaan bangsa kita hanya apabila kita bisa menjaga dan mengelola dengan baik semua kekayaan kita hanya dengan demikian kita bisa memberi pelayanan kepada rakyat kita"
+  },
+  {
+   "t": 350.0,
+   "d": 60.0,
+   "text": "kita bisa memberi kebutuhan hidup rakyat kita kita bisa membayar segala keperluan suatu negara modern dan di antaranya tentunya adalah menjamin kedaulatan bangsa saya ingatkan saudara-saudara sekalian Jangan sampai kita lupa dengan undang-undang dasar kita sendiri undang-undang Dasar 1945 yang jelas dalam pembukaannya tertera tujuan-tujuan nasional kita di mana tujuan-tujuan nasional kita sangat jelas oleh pendiri-pendiri bangsa kita tujuan pertamanya adalah melindungi segenap bangsa"
+  },
+  {
+   "t": 410.0,
+   "d": 53.0,
+   "text": "Indonesia dan seluruh tumpah darah Indonesia ini tujuan nasional yang pertama untuk kita Survive karena itu kita perlu memikirkan Apakah kita sudah cocok atau tidak investasi kita kepada pertahanan bangsa Indonesia kedua tentunya memajukan kesejahteraan umum saya katakan berkali-kali bahwa negara yang merek rakyatnya harus merasakan kemerdekaan janganlah kita bangga menjadi anggota g20 kalau rakyat kita masih banyak yang miskin masih banyak yang"
+  },
+  {
+   "t": 463.0,
+   "d": 52.0,
+   "text": "lapar mencerdaskan kehidupan bangsa mutlak pendidikan bagi kita adalah prioritas yang sangat tinggi saya kira ini terlihat komitmen kita kepada pendidikan Kalau tidak salah alokasi kita dalam anggaran 2025 untuk pendidikan salah satu tertinggi Pak mungkin selama sejarah kita untuk pertama kali kita sudah 25% bu ya 20 jadi masalah pendidikan sangat utama ya tentunya tujuan nasional keempat kita juga hadir"
+  },
+  {
+   "t": 515.0,
+   "d": 72.0,
+   "text": "dalam pergolakan ataupun interaksi dunia di mana kita harus selalu membela kemerdekaan bangsa-bangsa dan karena itu mau tidak mau Indonesia harus kuat saudara sekalian dalam hal ini semua ada beberapa penekanan dari saya saya paham bahwa kita ee baru baru dilantik saya saja baru 3 hari saudara-saudara baru du hari dilantik dan saudara-saudara saya persilakan secepat mungkin terutama bagi menteri-menteri yang baru ee"
+  },
+  {
+   "t": 587.0,
+   "d": 56.0,
+   "text": "silakan konsolidasi sendiri mengatur sendiri secepat mungkin administrasi saudara dan tim saudara di kementerian dan badan masing-masing penyusunan tim sangat penting tim yang baik tim yang bisa kerja sama akan memudahkan kita mencapai target-target yang kita ee Tentukan saudara-saudara saya sangat mengutamakan kerja sama sebagai tim untuk itu dalam waktu dekat saya akan mengajak saudara-saudara ke Magelang di mana kita akan melaksanakan beberapa hari ee menambah"
+  },
+  {
+   "t": 643.0,
+   "d": 56.0,
+   "text": "pembekalan kemudian Ee Kita akan adakan koordinasi-koordinasi di tempat di Magelang Jawa Tengah di kawasan Akademi Militer hal itu saya e nilai bawa banyak manfaat akan membawa banyak manfaat karena sesungguhnya lahirnya Republik kita memang proklamasi di Jakarta tetapi ujian proklamasi berada di daerah-daerah di mana pejuang-pejuang kita melaksanakan perebutan kemerdekaan secara fisik dan daerah Magelang merupakan suatu sentra perlawanan kita terhadap"
+  },
+  {
+   "t": 699.0,
+   "d": 61.0,
+   "text": "penjajah mulai ratusan tahun dikenal sebagai darah perjuangannya Pangeran Diponegoro di antara lima gunung itu saya kira cukup e membawa suatu Aura tradisi keberanian tradisi heroisme tradisi cinta tanah air saudara-saudara sekalian jumlah anggota kabinet kita sebanyak 48 menteri juga ada badan-badan yang sangat strategis ini memang lebih banyak dari pemerintahpemerintah sebelumnya jumlah ini ee Saya Sadari memang bisa dianggap tergolong"
+  },
+  {
+   "t": 760.0,
+   "d": 53.0,
+   "text": "besar tapi memang bangsa kita bangsa yang besar kita tidak dapat pungkiri bahwa kita negara keempat terbesar di dunia dari jumlah penduduk dari luas wilayah kita Luasnya sama dengan Eropa Barat di mana Eropa itu terdiri dari 27 negara kita satu negara mengelola Eropa itu membutuhkan 27 Menteri Keuangan 27 Menteri Pertahanan 27 Menteri Dalam Negeri saudara-saudara Kita seluas Eropa saudara-saudara sekalian kita juga memilih politik sistem politik"
+  },
+  {
+   "t": 813.0,
+   "d": 49.0,
+   "text": "demokratis kalau kita negara otoriter mungkin kita cukup menjalankan semua dengan jumlah penduduk yang sedikit jadi saudarasudara ini tidak masalah yang penting kita bekerja dengan efisien yang penting kita tidak bekerja dengan seenaknya saya minta Menteri Keuangan saya minta semua Menko Saya minta semua menteri telusuri lagi alokasi APBN pelajari lagi Dipa pelajar lagi saya minta detail kegiatan-kegiatan yang terlalu"
+  },
+  {
+   "t": 862.0,
+   "d": 66.0,
+   "text": "seremonial terlalu banyak seminar terlalu banyak sarasehan terlalu banyak konferensi terlalu banyak perjalanan luar negeri mohon dikurangi kita harus memberi contoh fokus kita adalah pembangunan ekonomi kesejahteraan rakyat ke dalam jangan mengada-ada studi banding Belajar Pramuka ke negara lain ya Saya minta efisien saudara-saudara Kalau saudara perhatikan dalam pemerintahan yang saya bentuk saya perkuat kepala staf kepresidenan saya perkuat itu saya ada"
+  },
+  {
+   "t": 928.0,
+   "d": 67.0,
+   "text": "tambah lagi badan pengendalian pembangunan dan investigasi khusus tugas mereka adalah memonitor semua program semua proyek yang kita akan lancarkan saya juga membentuk suatu badan baru badan percepatan pengentasan kemiskinan badan ini akan mempelajari akan mengikuti semua program-program perlindungan sosial semua program-program bantuan ke bagian golongan rakyat yang masih perlu bantuan intervensi bukan Saya ingin mencampuri pekerjaannya kementerian-kementerian tidak tapi saya"
+  },
+  {
+   "t": 995.0,
+   "d": 73.0,
+   "text": "ingin membantu di mana Ada bottleneck di mana ada kesulitan segera kita atasi marilah kita jujur mengakui bahwa birokrasi di kita sangat terkenal sangat terkenal nya sangat terkenal lambatnya bahkan ada pembicaraan oleh rakyat kita bahwa birokrasi pemerintah kita sering mempersulit bukan mempermudah keperluan rakyat bahkan ada yang mengatakan kalau bisa dibikin sulit Kenapa Dibikin mudah ya ini saya minta menteri-menteri Sekarang mari kita lebih berani Mari"
+  },
+  {
+   "t": 1068.0,
+   "d": 45.0,
+   "text": "kita lebih tidak ragu-ragu untuk memberi pelayanan yang terbaik kepada rakyat kita jangan ragu-ragu Kalau saudara tidak puas dengan pejabat-pejabat di bawah Anda laporkan segera kita ganti begitu banyak orang yang mau mengabdi tidak ada orang di sini yang kebal yang tidak patuh tidak bekerja keras untuk bangsa dan negara dan rakyat saudara saya beri wewenang copot segera suruh tinggal di rumah aja Dar daripada bikin susah"
+  },
+  {
+   "t": 1113.0,
+   "d": 45.0,
+   "text": "kita saudara-saudara sekalian saya kira dalam waktu dekat saudara-saudara akan segera menyiapkan program kerja saudara masing-masing saya beri kesempatan segera dan sewaktu-waktu terus saya akan Panggil koordinasi tadi pagi sebelum sidang kabinet saya sudah koordinasi sama beberapa menteri dengan Jaksa Agung dengan BPKP dan besok pun kita akan lanjutkan ada beberapa pengarahan dari saya menteri Bapenas Pastikan semua program dan"
+  },
+  {
+   "t": 1158.0,
+   "d": 61.0,
+   "text": "[Musik] kegiatan di semua Kementerian lembaga mempunyai kontribusi yang signifikan terukur Daning energi pelajari kembali semua proyek jangan ada proyek yang mercuuar semua ditujukan kepada yang saya sampaikan pada pidato saya di depan majelis permusatan rakyat pada hari pelantikan saya kita harus suas Sembada pangan itu prioritas dasar karena situasi Global perang besar bisa pecah setiap saat kita harus jamin kemampuan kita memberi makan rakyat kita"
+  },
+  {
+   "t": 1219.0,
+   "d": 53.0,
+   "text": "sendiri swaspada energi mutlak kita bersyukur kita punya sumber alam yang sangat besar kita sekarang tidak boleh ragu-ragu memanfaatkannya sebaik-baiknya hilirisasi kunci daripada kemakmuran karena itu saya minta menteri-menteri terkait menteri investasi hilerisasi menteri Bapenas menteri isdm dengan beberapa menteri lain dibantu oleh tentu Menko Perekonomian dan ketua dewan ekonomi nasional Saya minta Segera"
+  },
+  {
+   "t": 1272.0,
+   "d": 65.0,
+   "text": "inventarisir proyek-proyek penting dalam program hilisasi kita 26 komunitas proyek-proyek yang vital dalam 20 as tersebut yang harus dihilisasi segera dirumuskan bikin daftar dan EE kita segera untuk mencari ee dana sehingga kita bisa mulai hiisasi dalam waktu yang sesingkat-singkatnya kemudian program makan bergizi badan kepala Badan gizi nasional dan semua KL untuk e siapkan segera kita mulai dengan bergerak cepat tepat sasaran"
+  },
+  {
+   "t": 1337.0,
+   "d": 45.0,
+   "text": "terukur tapi jangan takut dengan Kesulitan saya masih mendengar beberapa tokoh meragukan kemampuan kita untuk laksanakan itu saya tidak katakan bahwa ini bisa selesai dalam satu minggu 2 minggu atau 3 bulan tidak ada di antara kita yang punya tongkat Nabi Sulaiman tapi kita bisa berhitung kita bisa mengelola kita bisa alokasi dana kita bisa kerahkan sumber daya dan kita akan mencapai target yang kita"
+  },
+  {
+   "t": 1382.0,
+   "d": 47.0,
+   "text": "tentukan saya Hakul yakin saya pertaruhkan saya pertaruhkan kepimpinan saya bagi saya makan bergizi untuk anak-anak dan ibu hamil ini adalah strategik yang tidak mendukung hal ini silakan keluar dari pemerintah yang saya Pimpin kita satu tim harus yakin semuanya ini bagian daripada rencana kebangkitan bangsa Indonesia dan sesudah itu tentunya yang saya katakan pendidikan pendidikan sangat mutlak saya sudah Panggil menteri"
+  },
+  {
+   "t": 1429.0,
+   "d": 54.0,
+   "text": "pendidikan tinggi sains dan tolog dan menteri pendidikan dasar menengah kita sudah mempunyai gambaran besar bagaimana mana kita segera akan menyentuh semua anak-anak kita kita akan gunakan teknologi untuk mempercepat membawa pendidikan kepada anak-anak kita dan ini sesudah itu tentunya kesehatan juga penting demokratisasi yang paling cepat yang paling dirasakan oleh rakyat adalah pendidikan dan kesehatan kalau kita bisa memberi pendidikan yang terbaik untuk anak-anak kita"
+  },
+  {
+   "t": 1483.0,
+   "d": 65.0,
+   "text": "kesehatan yang memadai untuk seluruh rakyat kita itu adalah demokrasi yang sebenarnya saudara-saudara Menteri Kesehatan teruskan reformasi kesehatan atasi kekurangan dokter dan tenaga kesehatan kita punya program khusus nanti kita bahas terus sendiri Ini semua harus ditopang oleh pertahanan yang kuat penegakan hukum yang tidak [Musik] ragu-ragu saya minta Jaksa Agung Kapolri BPKP badan inteligens negara fokus ancaman yang berat bagi kita judi"
+  },
+  {
+   "t": 1548.0,
+   "d": 27.0,
+   "text": "online narkoba penyeludupan penyelewengan korupsi kebocoran hanya dengan penegakan hukum yang tegas dan inteligence yang baik bukti-bukti yang kuat bisa kita segera mitigasi hal ini semua"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

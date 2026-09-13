@@ -1,0 +1,83 @@
+{
+ "id": "2026-02-02-keterangan-pers-dirut-garuda-glenny-kairupan-jakarta",
+ "video_id": "WN6n_SIxnHw",
+ "date": "2026-02-02",
+ "date_precise": true,
+ "title": "Keterangan Pers Dirut Garuda Indonesia Glenny Kairupan, Jakarta, 2 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=WN6n_SIxnHw",
+ "duration_s": 56,
+ "duration_hms": "0:56",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "token_count": 109,
+ "unique_word_count": 71,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "WN6n_SIxnHw",
+   "url": "https://www.youtube.com/watch?v=WN6n_SIxnHw",
+   "title": "Keterangan Pers Dirut Garuda Indonesia Glenny Kairupan, Jakarta, 2 Februari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 9.0,
+   "text": "Bapak tadi ketemu Presiden bahas apa aja? Bahas apa aja Pak? Boleh. Kenapa bertemu dengan Pak Presiden, Pak?"
+  },
+  {
+   "t": 9.0,
+   "d": 20.0,
+   "text": "Oh, biasa dengan Pak Sigit cara-bicara ngobrol-ngobrol ya tentang penerbangan penerbangan di Indonesia ya tentang Garuda, tentang pesawat-pesawat yang apa super apa maju sekarang gitu ya."
+  },
+  {
+   "t": 29.0,
+   "d": 8.0,
+   "text": "teknologi-teknologi yang maju. Bagaimana kita harus ikut juga terlibat di dalam perkembangan-perkembangan teknologi."
+  },
+  {
+   "t": 37.0,
+   "d": 6.0,
+   "text": "Itulah yang tadi disampaikan Pak Presiden tadi ketemunya bareng sama private company yang dari luar negeri itu, Pak."
+  },
+  {
+   "t": 43.0,
+   "d": 9.0,
+   "text": "Iya. Jadi kita discus ada rencana beli seini rencana beli belum. Kita baru koordinasi masalah teknologi-teknologi."
+  },
+  {
+   "t": 52.0,
+   "d": 1.0,
+   "text": "Arahan Bapak Presiden apa?"
+  },
+  {
+   "t": 53.0,
+   "d": 3.0,
+   "text": "Ya itu harus ikuti perkembangan teknologi dunia ya. Benar, betul. Oke, cukup kasih. Makasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,88 @@
+{
+ "id": "2025-01-01-hadiri-sidang-senat-terbuka-dan-dies-natalis",
+ "video_id": "MCe-bClNGhU",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo Hadiri Sidang Senat Terbuka dan Dies Natalis UKRI Tahun 2025, Bandung, 18 Okt 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=MCe-bClNGhU",
+ "duration_s": 85,
+ "duration_hms": "1:25",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 88,
+ "unique_word_count": 61,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "MCe-bClNGhU",
+   "url": "https://www.youtube.com/watch?v=MCe-bClNGhU",
+   "title": "Presiden Prabowo Hadiri Sidang Senat Terbuka dan Dies Natalis UKRI Tahun 2025, Bandung, 18 Okt 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 6.0,
+   "text": "Perjalanan perjuangan hidupmu baru mulai."
+  },
+  {
+   "t": 9.0,
+   "d": 21.0,
+   "text": "Tadi saya senang ee pemberi pidato [Musik] menyampaikan bahwa kalian sebagai anak muda harus berani menatap masa depan dengan tantangannya bahwa hidup tidak gampang."
+  },
+  {
+   "t": 30.0,
+   "d": 6.0,
+   "text": "Hidup penuh perjuangan, penuh tantangan, penuh kesulitan."
+  },
+  {
+   "t": 36.0,
+   "d": 24.0,
+   "text": "[Musik] Saudara harus berani jadi pemimpin yang baik atau pengikut yang baik, tapi jangan tidak mengerti peran saudara."
+  },
+  {
+   "t": 60.0,
+   "d": 6.0,
+   "text": "Dan kadang-kadang peran itu berbeda pada saat yang beda."
+  },
+  {
+   "t": 66.0,
+   "d": 7.0,
+   "text": "Ada saatnya menjadi pemimpin, ada saatnya pemimpin itu menjadi pengikut yang setia."
+  },
+  {
+   "t": 73.0,
+   "d": 12.0,
+   "text": "Jadi setiap kegiatan manusia itu keberhasilan dan kegagalan ditentukan juga oleh pemimpin."
+  },
+  {
+   "t": 85.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

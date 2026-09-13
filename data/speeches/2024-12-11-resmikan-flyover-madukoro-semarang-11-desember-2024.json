@@ -1,0 +1,68 @@
+{
+ "id": "2024-12-11-resmikan-flyover-madukoro-semarang-11-desember-2024",
+ "video_id": "W_Rf8O98bqs",
+ "date": "2024-12-11",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Flyover Madukoro, Semarang, 11 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=W_Rf8O98bqs",
+ "duration_s": 222,
+ "duration_hms": "3:42",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 27,
+ "token_count": 216,
+ "unique_word_count": 132,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "W_Rf8O98bqs",
+   "url": "https://www.youtube.com/watch?v=W_Rf8O98bqs",
+   "title": "Presiden Prabowo Resmikan Flyover Madukoro, Semarang, 11 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 3,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 79.0,
+   "text": "[Musik] tahun 2023 S 2024 dengan dur 4 Kil lebarnya ini 19 M dengan ljut 2* 2 bak ini ada Sisi [Musik] Alhamdulillah pada hari yang berbahagia ini kita semua berkumpul untuk meresmikan salah satu infrastruktur yang penting yaitu flyover maduoro di Kota Semarang kita mengerti bahwa infrastruktur adalah penting untuk membuka konektivitas memperlancar arus lalu lintas dengan demikian memacu pembangunan ekonomi saudara-saudara"
+  },
+  {
+   "t": 80.0,
+   "d": 53.0,
+   "text": "sekalian saya Kira Saya ingin ucapkan terima kasih ke semua pihak yang telah bekerja keras kita harus tahu bahwa infrastruktur ini adalah dibangun dengan uang rakyat saya ingatkan untuk kesekian kalinya bahwa setiap rupiah uang rakyat harus di pakai digunakan sebesar-besarnya untuk kepentingan rakyat ya untuk pihak pekerjaan umum dan pihak yang melaksanakan pembangunan tersebut Terima kasih atas perencanaan pelaksanaan yang baik yakinkan bahwa"
+  },
+  {
+   "t": 133.0,
+   "d": 43.0,
+   "text": "semua yang dibangun adalah sesuai spesifikasi yakinkan bahwa efisiensi dan kualitas dipertahankan ya Berilah yang terbaik sehingga kemampuan negara dan bangsa sebesar-besarnya bisa dirasakan manfaatnya oleh rakyat kita Saya kira itu yang saya sampaikan terima kasih selamat semoga infrastruktur ini prasalan ini bermanfaat dan berguna tidak hanya untuk rakyat Semarang tapi rakyat Jawa Tengah semuanya sekali lagi terima kasih"
+  },
+  {
+   "t": 176.0,
+   "d": 47.0,
+   "text": "wasalamualikum warahmatullahi wabarak sejahtera kita sekalian Shalom om swastu om santitianti om namo budhaya Terima kasih Selanjutnya mohon berkenan Presiden Republik Indonesia dilanjutkan dengan penandatanganan prasasti [Musik] [Musik] dengan demikian flyover maduoro telah diresmikan oleh Presiden Republik Indonesia"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

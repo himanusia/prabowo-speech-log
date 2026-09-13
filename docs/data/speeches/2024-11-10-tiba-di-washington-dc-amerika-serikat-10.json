@@ -1,0 +1,63 @@
+{
+ "id": "2024-11-10-tiba-di-washington-dc-amerika-serikat-10",
+ "video_id": "-c-T00GFwo4",
+ "date": "2024-11-10",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Washington DC, Amerika Serikat, 10 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=-c-T00GFwo4",
+ "duration_s": 174,
+ "duration_hms": "2:54",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 202,
+ "unique_word_count": 136,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "-c-T00GFwo4",
+   "url": "https://www.youtube.com/watch?v=-c-T00GFwo4",
+   "title": "Presiden Prabowo Tiba di Washington DC, Amerika Serikat, 10 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 19.0,
+   "d": 107.0,
+   "text": "United States President such you know our Ambassador President welcome to kan Selamat datang Selamat datang okay so we see you are you Riding bak Selamat datang Bapak darahud 2014 aduh saya dah lama banget ya Bert pengin ketemu Pak perowo dari 2014 gak kesamp waktu saat Beliau juga mampir di kita juga gak sempat mampir perasaan itu tadi menangis sudah enggak bisa lagi nahan air mata itu terharu banget itu ya perjuangan kita Alhamdulillah Pak Prabowo jadi presiden"
+  },
+  {
+   "t": 126.0,
+   "d": 34.0,
+   "text": "Alhamdulillah love you Pak E Tadi sangat-sangat senang kita sebagai diaspora bisa ketemu Bapak Presiden di negara tempat kita studi apalagi juga hubungan Indonesia dengan Amerika kita juga belajar banyak di kampus Dan harapannya sih hubungan kedua negara ini dengan kunjungan Bapak Prabowo akan semakin lebih meningkat tentunya sangat senang satu e bahwa kedatangan presiden membuat kami cukup bangga sebagai warga negara dan dikunjungi oleh Bapak Kami sempat bersalaman kemudian bertur sapa"
+  },
+  {
+   "t": 160.0,
+   "d": 33.0,
+   "text": "sedikit Pak prabawo sangat berwibawa Smart kemudian tentunya eh R kayak dipcture-pcture difoto-fotoan bias kan nonton di tv sama persis depanku persis Tadi adiknya eh suunya sempat di Iya tadi dicium pas ketemu ditanya namanya siapa gitu Ya baik Koh baik ya sehat buat Pak Presiden e tetap semangat kita semua di sini disupport pak presiden selalu"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

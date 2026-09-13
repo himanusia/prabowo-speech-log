@@ -1,0 +1,102 @@
+{
+ "id": "2025-11-03-keterangan-pers-menteri-esdm-bahlil-lahadalia-jakarta",
+ "video_id": "ZswlTO_0s9U",
+ "date": "2025-11-03",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 3 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ZswlTO_0s9U",
+ "duration_s": 124,
+ "duration_hms": "2:04",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 251,
+ "unique_word_count": 128,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ZswlTO_0s9U",
+   "url": "https://www.youtube.com/watch?v=ZswlTO_0s9U",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 3 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "B50 / biodiesel": {
+   "count": 4
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 14.0,
+   "text": "Saya laporkan kepada Bapak Presiden sesuai arahan Bapak Presiden untuk listrik desa 20292030 dari 5.700 desa dan 4.400 dusun itu harus selisi."
+  },
+  {
+   "t": 14.0,
+   "d": 4.0,
+   "text": "Yang kedua tadi kami juga laporan ke Bapak Presiden terkait dengan lifting."
+  },
+  {
+   "t": 18.0,
+   "d": 35.0,
+   "text": "Alhamdulillah sekarang lifting kita per hari ini dari Januari sampai dengan e November itu sudah mencapai 600 5.000 R lebih barel per dayi. Target APBN kan 605.000 barel. Jadi sekarang sudah melampaui target dari APBN. Kami juga melaporkan tentang PNBP. PNBP kita di 2025 yang ditargetkan oleh Kementerian Keuangan lewat APBN kurang lebih sekitar 260 triliun. Sekarang sudah hampir 80% 76% 74 sampai 75%."
+  },
+  {
+   "t": 53.0,
+   "d": 4.0,
+   "text": "Kemudian yang paling penting adalah tentang kedaulatan energi."
+  },
+  {
+   "t": 57.0,
+   "d": 13.0,
+   "text": "Tadi kami melaporkan ke Pak Presiden di 2025 2026 insyaallah kita enggak akan impor solar lagi. Kenapa? Karena RDMP kilang kita yang di apa namanya?"
+  },
+  {
+   "t": 70.0,
+   "d": 4.0,
+   "text": "Balikpapan. Insyaallah 10 November ini akan kita resmikan."
+  },
+  {
+   "t": 74.0,
+   "d": 11.0,
+   "text": "Kalau kita dorong B50 lagi untuk ke depan berpotensi untuk kita bisa suplly kita bisa terjadi lebih terhadap solar dan bisa kita ekspor."
+  },
+  {
+   "t": 85.0,
+   "d": 4.0,
+   "text": "Respon Pak Presiden gimana tadi? Respon Pak Presiden gimana Pak?"
+  },
+  {
+   "t": 89.0,
+   "d": 32.0,
+   "text": "Ya, ini kan semuanya perintah Bapak Presiden yang perintahnya kita harus selesaikan dengan baik. Kalau semua kita sudah lakukan, ya insyaallah bahwa Presiden pasti juga mengerti dan tahulah, Pak. Enggak impornya itu berarti karena RDM, Pak. Bukan karena B50, B ada dua B50 tapi kita dorong jadi bisa kita kalau lebih kita ekspor maksudnya dengan RDMP aja sudah bisa bikin gaya impor salat kita lagi hitung tapi yang jelas kita targetkan FDMP jadi B50 jadi kita akan over supply insyaall ini bulan ini bulan ini berjalan ya"
+  },
+  {
+   "t": 121.0,
+   "d": 3.0,
+   "text": "belum oh RP i RDMP-nya 10 November kalau November 10 November I 10 November ya itu Yah, Pak tadi"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,95 @@
+{
+ "id": "2026-05-16-highlight-kunjungan-kerja-ke-jawa-timur-16",
+ "video_id": "ZM-ON0kAxcY",
+ "date": "2026-05-16",
+ "date_precise": true,
+ "title": "HIGHLIGHT: Kunjungan Kerja Presiden Prabowo ke Jawa Timur, 16 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ZM-ON0kAxcY",
+ "duration_s": 189,
+ "duration_hms": "3:09",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 24,
+ "token_count": 141,
+ "unique_word_count": 83,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ZM-ON0kAxcY",
+   "url": "https://www.youtube.com/watch?v=ZM-ON0kAxcY",
+   "title": "HIGHLIGHT: Kunjungan Kerja Presiden Prabowo ke Jawa Timur, 16 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  },
+  "Koperasi desa": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 28.0,
+   "text": "[musik] Saya kira museum ini didirikan sebagai lambang, sebagai simbol, dan sebagai tonggak peringatan untuk memperingati keberanian seorang [musik] pejuang."
+  },
+  {
+   "t": 30.0,
+   "d": 21.0,
+   "text": "seorang pejuang muda, seorang pejuang perempuan yang berjuang untuk hak-hak kaum buruh."
+  },
+  {
+   "t": 51.0,
+   "d": 32.0,
+   "text": "[musik] [musik] Hari ini adalah hari yang penting adalah tonggak [musik] bersejarah yang meresmikan [musik] operasionalisasi 1000 lebih koperasi secara fisik."
+  },
+  {
+   "t": 83.0,
+   "d": 24.0,
+   "text": "Gedungnya ada, gudangnya ada, sistemnya ada, barangnya ada, [musik] petugasnya ada, unsur-unsur [musik] logistiknya ada, ada truk, ada pick up, [musik] ada kendaraan tiga roda."
+  },
+  {
+   "t": 107.0,
+   "d": 10.0,
+   "text": "Saya kira hari ini cukup penting."
+  },
+  {
+   "t": 117.0,
+   "d": 38.0,
+   "text": "[musik] [musik] Tidak mungkin suatu negara bertahan survive tanpa produksi pangan yang lancar, yang aman, yang berkesinambungan. [musik] Dengan Koperasi Merah Putih MBG, Desa Nelayan ditopang oleh kemampuan pertanian kita, ditopang oleh perikanan kita, produksi pangan kita aman."
+  },
+  {
+   "t": 155.0,
+   "d": 21.0,
+   "text": "Aman karbohidrat, aman protein, aman ternak, jagung strategis untuk pakan ternak. Jadi kedaulatan kita terjaga dan [musik] diamankan."
+  },
+  {
+   "t": 176.0,
+   "d": 15.0,
+   "text": "[musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

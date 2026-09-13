@@ -1,0 +1,82 @@
+{
+ "id": "2026-08-17-hangatnya-jamuan-rakyat-di-istana-rayakan-kemerdekaan",
+ "video_id": "Ka3kgJJb0Bk",
+ "date": "2026-08-17",
+ "date_precise": true,
+ "title": "Hangatnya Jamuan Rakyat di Istana Rayakan Kemerdekaan Bersama UMKM dan Masyarakat, 17 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Ka3kgJJb0Bk",
+ "duration_s": 134,
+ "duration_hms": "2:14",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 224,
+ "unique_word_count": 131,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Ka3kgJJb0Bk",
+   "url": "https://www.youtube.com/watch?v=Ka3kgJJb0Bk",
+   "title": "Hangatnya Jamuan Rakyat di Istana Rayakan Kemerdekaan Bersama UMKM dan Masyarakat, 17 Agustus 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 4
+  }
+ },
+ "transcript": [
+  {
+   "t": 7.0,
+   "d": 28.0,
+   "text": "[musik] Senang sekali kita di sini sangat bahagia bisa kumpul sama sesama pedagang bondong rame-rame ya. Mudah-mudahan semua ini berkah untuk semuanya ya. Kita merasa bangga ya karena terpilih dari sekian banyak UMKM yang ada kita dapat pesanan 1100. Jadi 700 porsi untuk pagi, 400 porsi untuk siang."
+  },
+  {
+   "t": 35.0,
+   "d": 1.0,
+   "text": "Penurunan sore."
+  },
+  {
+   "t": 36.0,
+   "d": 22.0,
+   "text": "Jujur belum keliling ya, tapi habis ini coba mau keliling mau sambil lihat-lihat apa nih yang enak gitu kan. Karena habis upacara juga perlu asupan yang bagus juga."
+  },
+  {
+   "t": 58.0,
+   "d": 32.0,
+   "text": "[musik] Em, jujur ini baru pertama kali ya, Mbak ya. Pastinya sangat excited karena di sini em selain kita bisa dapat souvenir, fotobot dan segala macam, kita juga bisa menyaksikan langsung gitu. Biasanya kita kan cuma ngelihat di TV ini bisa benar-benar ngelihat. tadi ketemu Pak Tedi juga kebetulan ya. Tentu Indonesia sebagai daerah Ring of Fire banyak sekali bencana baik bencana ee gempa bumi atau tsunami"
+  },
+  {
+   "t": 90.0,
+   "d": 32.0,
+   "text": "ataupun lainnya. Karena itu ee pada dua hari yang lalu di NTT saudara-saudara kita semua rakyat Indonesia mengalami musibah dengan ee adanya gempa bumi 7,7 hektar. Dengan ini saya menyampaikan dukacita bela suka awak kepada yang meninggal dan juga dengan harapan kita semua membantu penyelesaian dan mereka kembali ke rumah masing-masing dengan baik."
+  },
+  {
+   "t": 122.0,
+   "d": 19.0,
+   "text": "Ow [musik] ow ow ow ow ow ow [musik] ow ow ow ow ow ow ow ow ow ow ow ow ow ow ow ow ow ow Oh. Oh. Oh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

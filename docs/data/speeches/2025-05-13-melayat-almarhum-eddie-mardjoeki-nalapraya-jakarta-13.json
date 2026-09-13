@@ -1,0 +1,78 @@
+{
+ "id": "2025-05-13-melayat-almarhum-eddie-mardjoeki-nalapraya-jakarta-13",
+ "video_id": "zwwliMLufr0",
+ "date": "2025-05-13",
+ "date_precise": true,
+ "title": "Presiden Prabowo Subianto Melayat Almarhum Eddie Mardjoeki Nalapraya, Jakarta, 13 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=zwwliMLufr0",
+ "duration_s": 146,
+ "duration_hms": "2:26",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 148,
+ "unique_word_count": 98,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "zwwliMLufr0",
+   "url": "https://www.youtube.com/watch?v=zwwliMLufr0",
+   "title": "Presiden Prabowo Subianto Melayat Almarhum Eddie Mardjoeki Nalapraya, Jakarta, 13 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 73.0,
+   "text": "[Musik] atas nama pemerintah Republik Indonesia juga atas nama seluruh masyarakat pencakilat Indonesia dan dunia. Dan atas nama pribadi saya, saya ingin menyampaikan rasa sengalah atas meninggalnya Mayor Jenderal TNI Pawirawan Edi Maruki beliau meniti karier dari bawah sebagai se prajurit sampai tingkat jenderal dan sebagian yang besar hidupnya. Selain pengabdian kepada negara dan bangsa sebagai anggota tentara tentara nasional Indonesia. Beliau"
+  },
+  {
+   "t": 75.0,
+   "d": 9.0,
+   "text": "juga ee sangat besar peranannya dalam membina ee Pancasilat Indonesia."
+  },
+  {
+   "t": 84.0,
+   "d": 8.0,
+   "text": "Beliau sangat rajin keliling seluruh dunia, keliling seluruh tanah air."
+  },
+  {
+   "t": 92.0,
+   "d": 22.0,
+   "text": "Sehingga bisa dikatakan kalau ditanya siapa itu ketua umum IPSI? Jawabannya adalah Edin Haraya. Kalau saya ditanya Pak Prabowo, Pak Prab apa? Saya penggantinya."
+  },
+  {
+   "t": 114.0,
+   "d": 31.0,
+   "text": "Kita pantas menghormati seorang pejuang, seorang pemimpin yang memberi contoh selalu mengutamakan cinta tanah air sampai saya yakin nafas beliau terakhir. Saya kira beliau contoh seorang patriot sejati. Kita lepas beliau. Sekali lagi kita kehilangan pejuang yang memberi contoh yang baik."
+  },
+  {
+   "t": 145.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

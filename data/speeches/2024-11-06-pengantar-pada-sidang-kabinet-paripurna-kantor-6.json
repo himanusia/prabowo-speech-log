@@ -1,0 +1,83 @@
+{
+ "id": "2024-11-06-pengantar-pada-sidang-kabinet-paripurna-kantor-6",
+ "video_id": "pKY6c7ydVDc",
+ "date": "2024-11-06",
+ "date_precise": true,
+ "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna, Kantor Presiden, 6 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=pKY6c7ydVDc",
+ "duration_s": 321,
+ "duration_hms": "5:21",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 42,
+ "token_count": 391,
+ "unique_word_count": 204,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "pKY6c7ydVDc",
+   "url": "https://www.youtube.com/watch?v=pKY6c7ydVDc",
+   "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna, Kantor Presiden, 6 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 4,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 8
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 12.0,
+   "d": 59.0,
+   "text": "[Musik] Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh Waalaikumsalam warahmatullahi wabarakatuh selamat sore salam sejahtera bagi kita sekalian Shalom Om Swastiastu namo budhaya salam kebajikan rahayu-rahayu yang saya hormati saudara wakil presiden saudara-saudara sekalian para anggota kabinet merah putih para menteri koordinator para menteri ketua dewan ekonomi nasional Panglima TNI Kapolri Jaksa"
+  },
+  {
+   "t": 71.0,
+   "d": 63.0,
+   "text": "Agung kepala BIN dan para kepala Badan yang hadir sore hari ini saya selenggarakan ee sidang kabinet Paripurna berkenaan dengan rencana saya untuk melakukan kunjungan kenegaraan dan kunjungan kerja ke beberapa negara antara lain menghadiri ee KTT apek di Peru dan g20 di Brazil juga ada undangan kunjungan kenegaraan ke pemerintah Tiongkok kunjungan kehormatan ke Amerika Serikat dan juga kunjungan kerja ke Inggris untuk menjumpai Perdana Menteri"
+  },
+  {
+   "t": 134.0,
+   "d": 44.0,
+   "text": "Inggris dan juga ada kemungkinan saya sedang mempelajari katanya ada undangan juga untuk KTT G7 Kita diundang juga karena ini berarti sesuatu kehormatan ya Indonesia dianggap juga pantas diundang ke G7 jadi E hal-hal ini tidak bisa saya hindari karena semua punya nilai strategis juga berhubungan juga dengan keadaan ekonomi kita karena kita harus berunding harus juga menggali potensi-potensi yang yang ada dan"
+  },
+  {
+   "t": 178.0,
+   "d": 51.0,
+   "text": "menyelesaikan masalah-masalah yang krusial dan yang strategis dengan kelompok-kelompok negara tersebut yang EE bisa dikatakan merupakan blok-blok ekonomi yang sangat penting sangat ee krusial untuk kelangsungan hidup ekonomi kita karena itu saya merasa perlu untuk ee kumpulkan sudah saudara menyampaikan beberapa pengarahan [Musik] ee Selama saya sedang berada di luar negeri tetapi saya kira dengan ee teknologi sekarang ada vicon dan"
+  },
+  {
+   "t": 229.0,
+   "d": 40.0,
+   "text": "sebagainya jadi hal-hal yang saya anggap penting kita bisa melaksanakan suatu pertemuan melalui ee video conferencing dan saya juga ee menyampaikan ke saudara-saudara e jangan ragu-ragu kalau ada masalah apapun kalau saudara sudah menyampaikan ke Menko tapi saudara Masih Ingin suatu kejelasan dari dari ee saya jangan ragu-ragu untuk ee menghadap menghubungi saya juga jangan juga ragu-ragu untuk telepon saya saya terbuka"
+  },
+  {
+   "t": 269.0,
+   "d": 44.0,
+   "text": "saudara-saudara boleh telepon langsung ya kita tinggalkan sekarang hal-hal yang terlalu protokoler terlalu feodal tidak ada kita ini adalah kolega kita mengabdi sama-sama ke rakyat ee saya menduduki posisi mungkin bisa dianggap ee y pemimpin daripada tim kita ya memang saya mandataris Saya menerima mandat dari rakyat bersama saudara wakil presiden tapi kita adalah sama dalam kewajiban tanggung jawab rakyat Jadi silakan gunakan teknologi ya tetapi tentunya hal-hal"
+  },
+  {
+   "t": 313.0,
+   "d": 20.0,
+   "text": "yang rawan tidak tidak perlu lewat telepon ya kan Ini zaman modern ini banyak telinga yang ingin dengar kalauudara inanh yang p silakan ya Ee saya membuka pintu"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

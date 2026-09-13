@@ -1,0 +1,78 @@
+{
+ "id": "2025-05-04-resmikan-terminal-khusus-haji-dan-umrah-2f",
+ "video_id": "BmLk0e1Kj0U",
+ "date": "2025-05-04",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Terminal Khusus Haji dan Umrah 2F Bandara Soekarno-Hatta, 4 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=BmLk0e1Kj0U",
+ "duration_s": 202,
+ "duration_hms": "3:22",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 177,
+ "unique_word_count": 109,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "BmLk0e1Kj0U",
+   "url": "https://www.youtube.com/watch?v=BmLk0e1Kj0U",
+   "title": "Presiden Prabowo Resmikan Terminal Khusus Haji dan Umrah 2F Bandara Soekarno-Hatta, 4 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 5.0,
+   "d": 49.0,
+   "text": "[Musik] Sekali lagi selamat sebagai bangsa Indonesia. kita bangga tentunya ee fasilitas ini bagus, modern, luas, nyaman, dan kemampuan kapasitas ini juga cukup membanggakan. Dilaporkan akan lebih dari 904 juta ee kapasitas orang per tahun. Ini saya kira sesuatu prestasi yang luar biasa."
+  },
+  {
+   "t": 54.0,
+   "d": 25.0,
+   "text": "Sekali lagi selamat dan ee dengan demikian saya hari ini mendapat kehormatan besar untuk meresmikan terminal khusus haji dan umrah terminal 2F Bandara Internasional Soekarno Hatta. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 79.0,
+   "d": 21.0,
+   "text": "[Tepuk tangan] [Musik] Dan dengan demikian, terminal khusus haji dan umrah 2F Bandara Internasional Soekarno Hatta telah diresmikan oleh Presiden Republik Indonesia."
+  },
+  {
+   "t": 100.0,
+   "d": 80.0,
+   "text": "[Musik] [Musik] [Musik] [Musik] [Musik] Dari awal kita sudah dinyatakan jadi calon jemaah. Kita itu sudah di semuanya ada grup puskesmasnya, ada grup dariaknya."
+  },
+  {
+   "t": 180.0,
+   "d": 16.0,
+   "text": "benar-benar enaklah sekarang haji ini ya membantu banget sama kita dan semuanya saya rasa yang saya rasakan ya enak apalagi dokter-dokternya, tim dokternya semua itu benar-benar membantu. Waktu itu juga ada kita kesehatan kita kurang."
+  },
+  {
+   "t": 196.0,
+   "d": 11.0,
+   "text": "Mereka memang benar-benar bantu kita ee bilang kita supaya bisa jaga kesehatan, jaga kesehatan, jaga kesehatan. fisik soalnya ya yang sangat dibutuhkan saat haji ini."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,63 @@
+{
+ "id": "2025-04-10-keterangan-pers-deputi-bidang-protokol-pers-dan",
+ "video_id": "cHWJyGQ7Cjg",
+ "date": "2025-04-10",
+ "date_precise": true,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Ankara, 10 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=cHWJyGQ7Cjg",
+ "duration_s": 76,
+ "duration_hms": "1:16",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 89,
+ "unique_word_count": 60,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "cHWJyGQ7Cjg",
+   "url": "https://www.youtube.com/watch?v=cHWJyGQ7Cjg",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Ankara, 10 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 6.0,
+   "text": "Baik, Teman-teman. Besok sekitar pukul 11."
+  },
+  {
+   "t": 7.0,
+   "d": 50.0,
+   "text": "Waktu Ankara, Bapak Presiden akan bertolak ke Antalya. Beliau akan menghadiri Antalya Diplomasi Forum. Antalya Diplomasi Forum tahun ini ingin agar diplomasi menjadi upaya kekuatan penyeimbang. di tengah dunia yang semakin terfragmentasi. Bapak Presiden akan hadir di sesi pembukaan di mana Bapak Presiden Erdogan akan memberikan sambutannya. Kemudian Bapak Presiden Prabowo juga akan menjadi pembicara pada sesi ADF Talk."
+  },
+  {
+   "t": 57.0,
+   "d": 20.0,
+   "text": "Setelah kegiatan di Antalya, Bapak Presiden akan melanjutkan lawatan perjalanannya. Beliau akan menuju ke Kairo Mesir. Sementara itu, Teman-teman, yang dapat kami sampaikan. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

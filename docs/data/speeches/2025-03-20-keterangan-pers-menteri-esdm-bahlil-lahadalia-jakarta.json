@@ -1,0 +1,80 @@
+{
+ "id": "2025-03-20-keterangan-pers-menteri-esdm-bahlil-lahadalia-jakarta",
+ "video_id": "FlgrOf957NU",
+ "date": "2025-03-20",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 20 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=FlgrOf957NU",
+ "duration_s": 101,
+ "duration_hms": "1:41",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 244,
+ "unique_word_count": 138,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "FlgrOf957NU",
+   "url": "https://www.youtube.com/watch?v=FlgrOf957NU",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 20 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 6,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "Hilirisasi": {
+   "count": 1
+  },
+  "Freeport": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 8.0,
+   "text": "dan PP1 terkait dengan ee pendapatan negara bukan pajak di sektor mineral Batubara."
+  },
+  {
+   "t": 8.0,
+   "d": 32.0,
+   "text": "Dan tadi kita melakukan pembahasan untuk melakukan exercise beberapa sumber-sumber pendapatan negara baru khususnya peningkatan royalti di sektor ee emas, nikel, dan ee beberapa komoditas lain termasuk dalamnya adalah batu bara. Di samping itu, kita juga sedang mempertimbangkan untuk menggali beberapa produk turunan lain dari ee mineral kita yang selama ini belum menjadi bagian daripada pendapatan negara. Ya, gitu ya. Perubahannya gimana, Pak? Jadi, perubahannya sekarang"
+  },
+  {
+   "t": 40.0,
+   "d": 26.0,
+   "text": "udah hampir final dikit lagi. Itu maksudnya yang berkaitan dengan royalty apa? Royalty, Pak. Royalty. Baik dari bahan bakunya sampai dengan barang jadinya. Ini juga dalam rangka menunjang proses hilirisasi. Kalau Mas dan Nikel sebelumnya udah udah dikenakan belum sih, Pak? Sudah dikenakan tapi P Iya naik karena apa? Karena kita tahu harga nikel juga sekarang bagus, harga emas bagus. Enggak fair dong kalau kemudian harganya naik kemudian negara tidak"
+  },
+  {
+   "t": 66.0,
+   "d": 17.0,
+   "text": "mendapatkan pendapatan tambahan. Jadi ini dalam rangka menjaga keseimbangan aja. Berapa persen, Pak, kenaikannya kira-kira? Ee antara dua 1,5 du ada yang sampai tiga tergantung dan itu ee fluktuatif ya. Kalau harganya naik, kita naikkan kepada ee yang paling tinggi."
+  },
+  {
+   "t": 83.0,
+   "d": 18.0,
+   "text": "Tapi kalau harganya lagi turun, kita juga tidak boleh mengenakan pajak yang besar kepada pengusaha. Karena kita butuh pengusaha juga berkembang. Ya, Pak. Royal Royalty. E Freeport katanya tetap eh nail down apa sesuai dengan IUPK ya, Pak. Enggak akan naik e apa royalty fre sesuai aturan dan kita kenakan pajak yang paling tinggi. Jadi kena freak kena dong."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

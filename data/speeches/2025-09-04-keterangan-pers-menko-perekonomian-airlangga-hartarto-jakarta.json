@@ -1,0 +1,113 @@
+{
+ "id": "2025-09-04-keterangan-pers-menko-perekonomian-airlangga-hartarto-jakarta",
+ "video_id": "n_WJgiyrm_E",
+ "date": "2025-09-04",
+ "date_precise": true,
+ "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 4 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=n_WJgiyrm_E",
+ "duration_s": 191,
+ "duration_hms": "3:11",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 27,
+ "token_count": 412,
+ "unique_word_count": 201,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "n_WJgiyrm_E",
+   "url": "https://www.youtube.com/watch?v=n_WJgiyrm_E",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 4 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 6,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 31.0,
+   "text": "itu kami update mengenai ee perkembangan ee perekonomian indikator secara makro masih baik. Kemudian ee secara mikro ee selama pasca kejadian stock market juga ee turunnya relatif tipis. Kemudian sudah rebound kembali, kemudian dari segi rupiah juga kuat di 16.400 maka tentunya secara makro itu baik."
+  },
+  {
+   "t": 31.0,
+   "d": 17.0,
+   "text": "Tinggal beberapa program itu ee akan dilakukan penebalan-penebalan terhadap program-program ee yang diberikan ke masyarakat. Artinya kan kita punya program yang dinikmati oleh ee baik itu kelas menengah. Nah, ini yang kita akan terus ee tebalkan."
+  },
+  {
+   "t": 48.0,
+   "d": 4.0,
+   "text": "Stimulus semester 2 jadi apa? Stimulus semester 2 kan tetap jalan."
+  },
+  {
+   "t": 52.0,
+   "d": 34.0,
+   "text": "Apa aja, Pak? Nah, itu yang sekarang ee ada kan ee stimulus seperti gaji yang di bawah R juta kan itu sudah berjalan gaji untuk padat karya. Sektor tertentu kan PPH-nya ditanggung pemerintah. Jadi ee itu sudah dinikmati oleh 1,7 juta masyarakat. Kemudian ada program-program yang terkait dengan perumahan melalui Kredit Usaha Rakyat. Nah, ini kami akan dorong juga. Kemudian juga ada program ee renovasi rumah itu juga akan terus didorong."
+  },
+  {
+   "t": 86.0,
+   "d": 6.0,
+   "text": "Pak, kalau melihat saham yang kemarin sempat turun, Pak, pada saat banyak aksi dan lain sebagainya turut dibahas enggak sih, Pak?"
+  },
+  {
+   "t": 92.0,
+   "d": 22.0,
+   "text": "Enggak. Tadi dilaporkan karena saham itu kan turunnya kalau tahun minggu kemarin relatif stabil, hari Senin turunnya sekitar 1,2% tapi Selasa, Rabu relatif ee normalnya. Kemudian juga rupiah juga terjaga. Jadi hal itu menunjukkan resiliensi dari ekonomi secara nasional."
+  },
+  {
+   "t": 114.0,
+   "d": 30.0,
+   "text": "Maka arahan Pak Bapak Presiden tadi hal-hal yang ee terkait dengan ee bantuan sosial yang sekarang kita grojokkan itu untuk juga terus di ee informasikan ke masyarakat. Bahas ada antisipasi diak kita sudah tahu ya, Pak. Ada8 itu kan ada tuntutan terkait apa kementerian di sektor ekonomi ya, Pak. itu ada atensi itu yang ee kan mencegah PHK massal itu sudah menjadi bagian daripada tugas pemerintah. Tadi kami sampaikan kalau"
+  },
+  {
+   "t": 144.0,
+   "d": 16.0,
+   "text": "deregulasi itu dilanjutkan di beberapa ee industri di Jawa itu akan bisa meningkatkan 100.000 lebih tenaga kerja kalau ini kita sedang siapkan. Terus kalau perlindungan tenaga kontraknya, Pak, kan itu juga ada di tuntutannya, Pak."
+  },
+  {
+   "t": 160.0,
+   "d": 10.0,
+   "text": "Ya kan itu kan kita sudah ada yang kontrak itu diberikan fasilitas untuk ee ketenagakerjaan khusus untuk yang ee 1 tahun ya."
+  },
+  {
+   "t": 170.0,
+   "d": 6.0,
+   "text": "Pak ekonom ingatin ris fiskal sama inflasi dengan adanya berharing gimana?"
+  },
+  {
+   "t": 176.0,
+   "d": 9.0,
+   "text": "Inflasi kan relatif terjaga. Bahkan di bulan ini kan terjadi deflasi bulan kemarin. Jadi pertumbuhannya kan ee inflasinya 2,31."
+  },
+  {
+   "t": 185.0,
+   "d": 3.0,
+   "text": "Beran sharingnya akan ada ini enggak sih apa periode tertentunya akan dihentikan?"
+  },
+  {
+   "t": 188.0,
+   "d": 3.0,
+   "text": "Ini kan masih di masih dibicarakan tapi dengan tingkat suku bunga yang relatif lebih rendah harapannya kredit bisa lebih didorong lagi agar sektoril bisa bergerak ya. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

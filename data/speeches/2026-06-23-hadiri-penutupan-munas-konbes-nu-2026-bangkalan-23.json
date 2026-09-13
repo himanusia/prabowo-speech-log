@@ -1,0 +1,73 @@
+{
+ "id": "2026-06-23-hadiri-penutupan-munas-konbes-nu-2026-bangkalan-23",
+ "video_id": "8tXHCJl4Vvs",
+ "date": "2026-06-23",
+ "date_precise": true,
+ "title": "Presiden Prabowo Hadiri Penutupan Munas-Konbes NU 2026, Bangkalan, 23 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=8tXHCJl4Vvs",
+ "duration_s": 104,
+ "duration_hms": "1:44",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 92,
+ "unique_word_count": 59,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "8tXHCJl4Vvs",
+   "url": "https://www.youtube.com/watch?v=8tXHCJl4Vvs",
+   "title": "Presiden Prabowo Hadiri Penutupan Munas-Konbes NU 2026, Bangkalan, 23 Juni 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 53.0,
+   "text": "[musik] [bersorak] [musik] [bersorak] [bersorak] Saya ingin [musik] ucapkan terima kasih atas kehormatan yang besar diberikan kepada saya bisa hadir di tengah-tengah saudara-saudara di acara penutupan Musyawarah Nasional Alim Ulama dan Konferensi Besar Nahdatul Ulama [musik] 2026."
+  },
+  {
+   "t": 57.0,
+   "d": 4.0,
+   "text": "Terima kasih atas sambutan yang luar biasa."
+  },
+  {
+   "t": 61.0,
+   "d": 25.0,
+   "text": "Memang saya merasa selalu nyaman di tengah-tengah keluarga besar Nadatul Ulama [tepuk tangan] dengan mengucap bismillahirrahmanirrahim."
+  },
+  {
+   "t": 86.0,
+   "d": 19.0,
+   "text": "Pada sore hari ini, Selasa, 23 Juni 2026, saya Prabowo Subianto, Presiden Republik Indonesia. Dengan ini secara resmi saya tutup Musyawarah Nasional Alim ulama dan Konferensi Besar Nadatul Ulama tahun 2026. Terima kasih."
+  },
+  {
+   "t": 105.0,
+   "d": 3.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

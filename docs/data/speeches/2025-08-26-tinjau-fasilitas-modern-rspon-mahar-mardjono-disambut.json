@@ -1,0 +1,108 @@
+{
+ "id": "2025-08-26-tinjau-fasilitas-modern-rspon-mahar-mardjono-disambut",
+ "video_id": "mauY4zD7TiU",
+ "date": "2025-08-26",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tinjau Fasilitas Modern RSPON Mahar Mardjono Disambut Positif, 26 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=mauY4zD7TiU",
+ "duration_s": 161,
+ "duration_hms": "2:41",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 24,
+ "token_count": 286,
+ "unique_word_count": 160,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "mauY4zD7TiU",
+   "url": "https://www.youtube.com/watch?v=mauY4zD7TiU",
+   "title": "Presiden Prabowo Tinjau Fasilitas Modern RSPON Mahar Mardjono Disambut Positif, 26 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 8,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 18.0,
+   "text": "Enggak, [Musik] enggak ada keluhan sih pada saat apa, pada saat kejadiannya enggak, enggak terasa apa-apa biasa aja. Malah pada saat itu saya mau olahraga pagi ya terus terus jatuh aja enggak terus enggak bisa digerakin kakinya sama tangan."
+  },
+  {
+   "t": 18.0,
+   "d": 1.0,
+   "text": "Kakinya nyeret."
+  },
+  {
+   "t": 19.0,
+   "d": 8.0,
+   "text": "Iya. Enggak bisa mengerak tangan sama kaki. Tiba-tiba aja gitu."
+  },
+  {
+   "t": 27.0,
+   "d": 19.0,
+   "text": "Waktu awal-awal itu pas awal-awal pendarahan saya merasakan kepala pusit kepala hebat, mual muntah. Pokoknya sampai muntahnya tuh sampai udah enggak ada makanan lagi. Tinggal reak-reak aja."
+  },
+  {
+   "t": 46.0,
+   "d": 5.0,
+   "text": "Awalnya saya lagi saum yaumul bid ya."
+  },
+  {
+   "t": 51.0,
+   "d": 33.0,
+   "text": "Hari ketiga ketika saya salat Asar di rakaat keempat itu kok kaki saya yang kanan berat tapi e bukan belum berat ee kebas kayak kebas kata saya kenapa kaki saya kebas dari siang enggak kenapa-napa terus saya masih terusin salat sampai salam begitu salam saya mau bergeser sudah enggak bisa diangkat kakinya ya ini baru saya rasakan sih ya sungguh bagus bagus ya ini sangat membantu nanti untuk pasien ini lebih nyawa sih masuk kemari nyaman ya."
+  },
+  {
+   "t": 84.0,
+   "d": 12.0,
+   "text": "[Musik] Apa sih namanya tuh? Kekuatan kaki saya jadi lebih baik. Alhamdulillah dan ya semakin ini aja sih semakin bagus pola jalannya."
+  },
+  {
+   "t": 96.0,
+   "d": 12.0,
+   "text": "Nyaman pokoknya oke deh. Okenya sampai tiga kalian juga bagus semuanya dokternya, perawatnya pada baik, teknisinya baik semuanya."
+  },
+  {
+   "t": 108.0,
+   "d": 29.0,
+   "text": "Dan saya hari ini sangat bangga saya tadi keliling saya melihat rumah sakit ini sekarang sudah secara fisik dan secara alat dan secara spesialis ahli-ahli saya sudah melihat tidak kalah dengan rumah sakit-rumah sakit yang terbaik di luar negeri. Terima kasih Menteri Kesehatan, terima kasih Menteri Keuangan yang terus mendukung, terima kasih semua unsur dan juga terima kasih pihak luar negeri. Saya dapat dari"
+  },
+  {
+   "t": 137.0,
+   "d": 5.0,
+   "text": "laporan bahwa pemerintah Belanda juga membantu."
+  },
+  {
+   "t": 142.0,
+   "d": 16.0,
+   "text": "Ee terima kasih dengan bantuan dari pemerintah Belanda atas dukungan untuk pembangunan Republik Indonesia."
+  },
+  {
+   "t": 158.0,
+   "d": 3.0,
+   "text": "Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

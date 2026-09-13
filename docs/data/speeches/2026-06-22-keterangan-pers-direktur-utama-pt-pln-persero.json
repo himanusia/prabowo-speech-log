@@ -1,0 +1,123 @@
+{
+ "id": "2026-06-22-keterangan-pers-direktur-utama-pt-pln-persero",
+ "video_id": "nMX_7sjNEHI",
+ "date": "2026-06-22",
+ "date_precise": true,
+ "title": "Keterangan Pers Direktur Utama PT. PLN (Persero) Darmawan Prasodjo, Jakarta, 22 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=nMX_7sjNEHI",
+ "duration_s": 285,
+ "duration_hms": "4:45",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 37,
+ "token_count": 330,
+ "unique_word_count": 157,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "nMX_7sjNEHI",
+   "url": "https://www.youtube.com/watch?v=nMX_7sjNEHI",
+   "title": "Keterangan Pers Direktur Utama PT. PLN (Persero) Darmawan Prasodjo, Jakarta, 22 Juni 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 8.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 8.0,
+   "d": 8.0,
+   "text": "Salam sejahtera untuk kita semuanya. Shalom. Om swastiastu. Namo buddhaya."
+  },
+  {
+   "t": 16.0,
+   "d": 2.0,
+   "text": "Salam kebajikan."
+  },
+  {
+   "t": 18.0,
+   "d": 25.0,
+   "text": "Rekan-rekan media dan juga masyarakat, kami ingin menyampaikan kabar baik bahwa pemadaman bergilir yang terjadi minggu lalu di Pulau Jawa mulai kemarin hari Minggu."
+  },
+  {
+   "t": 43.0,
+   "d": 14.0,
+   "text": "Kondisi sistem kelistrikan di Pulau Jawa mulai membaik dan pemadaman bergilir berhasil diminimalisir."
+  },
+  {
+   "t": 57.0,
+   "d": 15.0,
+   "text": "Kami ingin mohon maaf kepada masyarakat karena ketidaknyamanan dengan terjadinya pemadaman bergilir tersebut."
+  },
+  {
+   "t": 72.0,
+   "d": 32.0,
+   "text": "pasokan energi primer yang sesuai dengan spesifikasi kebutuhan pembangkit baik PLN maupun dari pembangkit milik mitra kami atau independent power producer minggu lalu mulai mengalir dan untuk itu memperkuat ketahanan dari sistem kelistrikan di Pulau Jawa."
+  },
+  {
+   "t": 104.0,
+   "d": 28.0,
+   "text": "Kemudian juga hari Jumat kami menyampaikan ada dua pembangkit besar milik mitra kami yang mengalami kendala teknis dan terpaksa keluar dari sistem. Dan untuk itu kami minggu lalu langsung menurunkan tim PLN bersama dengan mitra kami untuk melakukan perbaikan."
+  },
+  {
+   "t": 132.0,
+   "d": 22.0,
+   "text": "Dan ada kabar yang baik, tadi malam satu pembangkit besar berhasil dipulihkan dan sinkron dengan sistem kelistrikan di Pulau Jawa dan mulai memasuk listrik untuk sistem di Pulau Jawa."
+  },
+  {
+   "t": 154.0,
+   "d": 20.0,
+   "text": "Kami memberikan apresiasi luar biasa atas dukungan, arahan, dan bimbingan dari pemerintah khususnya Kementerian ESDM dalam hal ini Bapak Menteri Bahlil Hadaliah."
+  },
+  {
+   "t": 174.0,
+   "d": 22.0,
+   "text": "Kami juga melakukan perbaikan tata kelola rantai pasok energi primer dan juga melakukan penguatan pada pembangkit baik itu milik PLN maupun milik mitra kami yaitu independent Power Producer."
+  },
+  {
+   "t": 196.0,
+   "d": 9.0,
+   "text": "Kami melakukan upaya all out 24 jam 7 hari seminggu."
+  },
+  {
+   "t": 205.0,
+   "d": 21.0,
+   "text": "baik itu dalam melakukan monitoring memetakan seluruh upaya kami agar perbaikan keandalan sistem listrik di Jawa ini bisa terus terjaga dan bahkan ditingkatkan."
+  },
+  {
+   "t": 226.0,
+   "d": 18.0,
+   "text": "Untuk itu sekali lagi kami mohon maaf sebesar-besarnya atas ketidaknyamanan terhadap masyarakat karena ada minggu lalu ada gangguan pemadaman bergilir."
+  },
+  {
+   "t": 244.0,
+   "d": 41.0,
+   "text": "Kami mohon doa, dukungan dari seluruh masyarakat agar upaya all out dari kami semuanya ini bisa dimudahkan dan berjalan dengan lancar. Dan kami mengapresiasi sekali lagi dukungan dari pemerintah, kekompakan dari seluruh mitra kami, baik dari pemasok, dari mitra-mitra pembangkit sehingga kita bersama-sama menjaga keandalan agar penyediaan energi ini ke depannya bisa berjalan dengan lancar. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

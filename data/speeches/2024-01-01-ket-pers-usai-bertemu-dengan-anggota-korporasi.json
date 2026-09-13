@@ -1,0 +1,62 @@
+{
+ "id": "2024-01-01-ket-pers-usai-bertemu-dengan-anggota-korporasi",
+ "video_id": "mlY9ljeckaQ",
+ "date": "2024-01-01",
+ "date_precise": false,
+ "title": "Ket Pers Presiden Prabowo Usai Bertemu dengan Anggota Korporasi USINDO,Washington DC, 11 Nov 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=mlY9ljeckaQ",
+ "duration_s": 67,
+ "duration_hms": "1:07",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 98,
+ "unique_word_count": 64,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "mlY9ljeckaQ",
+   "url": "https://www.youtube.com/watch?v=mlY9ljeckaQ",
+   "title": "Ket Pers Presiden Prabowo Usai Bertemu dengan Anggota Korporasi USINDO,Washington DC, 11 Nov 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {
+  "Freeport": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 25.0,
+   "d": 47.0,
+   "text": "Saya sangat gembira peremuan tadi dengan perusahaan-perusahaan terbesar ya Ee di Amerika dan di dunia mereka sangat ee terlibat dalam perekonomian Indonesia dalam pembangun Indonesia sudah lama mereka di Indonesia dan mereka terus ee percaya dengan ee dengan Indonesia dengan ekonomi Indonesia dan E saya juga mendorong mereka untuk terus eh melakukan e investasi ikut serta dalam rencana pembangunan kita ada kerjaasama yang ditandatanganiak Pak Eh ini kan ini"
+  },
+  {
+   "t": 72.0,
+   "d": 20.0,
+   "text": "pembicaraan umum belum tandatangan tapi mereka sudah ongoing sudah berjalan lama ada Freeport ada ex mobil Chevron ada eh ge yaectric health banyak sekali ya Oke terima kasih Insyaallah besok besok"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,103 @@
+{
+ "id": "2025-12-16-jenguk-siswa-dan-guru-sdn-kalibaru-01",
+ "video_id": "aOG_-58jkwA",
+ "date": "2025-12-16",
+ "date_precise": true,
+ "title": "Presiden Prabowo Jenguk Siswa dan Guru SDN Kalibaru 01 Cilincing, RS Koja Jakarta, 16 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=aOG_-58jkwA",
+ "duration_s": 168,
+ "duration_hms": "2:48",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 136,
+ "unique_word_count": 77,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "aOG_-58jkwA",
+   "url": "https://www.youtube.com/watch?v=aOG_-58jkwA",
+   "title": "Presiden Prabowo Jenguk Siswa dan Guru SDN Kalibaru 01 Cilincing, RS Koja Jakarta, 16 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 29.0,
+   "d": 8.0,
+   "text": "Hai itu siapa yang hadir? Siapa namanya? Pako."
+  },
+  {
+   "t": 37.0,
+   "d": 8.0,
+   "text": "Alamat kita coba sembuh ya."
+  },
+  {
+   "t": 45.0,
+   "d": 5.0,
+   "text": "Kau kenal saya? Kenal saya. Hah?"
+  },
+  {
+   "t": 50.0,
+   "d": 11.0,
+   "text": "Cocok. Jadi nanti selanjutnya mungkin akan ada tahapan ada tahapan seperti begitu. Nanti makan ya."
+  },
+  {
+   "t": 61.0,
+   "d": 20.0,
+   "text": "Oke ya. Sehat-sehat ya Fio. Baik-baik kamu ya. Oke ya. Siapa berani yang berani kan? Oke."
+  },
+  {
+   "t": 81.0,
+   "d": 4.0,
+   "text": "Oke."
+  },
+  {
+   "t": 85.0,
+   "d": 7.0,
+   "text": "Ini eh ini ICU-nya 16 apa?"
+  },
+  {
+   "t": 92.0,
+   "d": 38.0,
+   "text": "Anak-anak ada berapa? 20 mesin mesin di sini Pak mudah-mudahan cepat sembuh Bapak ini persis di bagian belakang tapi sudah sudah sudah stabil stabil sudah kobrol-obrol ketawa."
+  },
+  {
+   "t": 130.0,
+   "d": 8.0,
+   "text": "Oke. Alhamdulillnya hanya satu hari itu dia turun dijahit. Iya. Iya."
+  },
+  {
+   "t": 138.0,
+   "d": 56.0,
+   "text": "Ini yang anak yatim Pak. Iya. neneknya ya sama neneknya secara kondisi sudah plus belajar yang baik ya belajar yang baik nanti kamu bisa jaga jaga nenek ya iya nenek Anak kedua, Pak. Anak kedua. Kedua, Pak. Iya, Pak. Makasih, Pak."
+  },
+  {
+   "t": 194.0,
+   "d": 3.0,
+   "text": "Pak saya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

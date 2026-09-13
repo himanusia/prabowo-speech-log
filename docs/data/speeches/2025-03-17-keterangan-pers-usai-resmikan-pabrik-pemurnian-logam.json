@@ -1,0 +1,62 @@
+{
+ "id": "2025-03-17-keterangan-pers-usai-resmikan-pabrik-pemurnian-logam",
+ "video_id": "3p-Lz93cQQg",
+ "date": "2025-03-17",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Resmikan Pabrik Pemurnian Logam Mulia, Gresik, 17 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=3p-Lz93cQQg",
+ "duration_s": 61,
+ "duration_hms": "1:01",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 101,
+ "unique_word_count": 73,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "3p-Lz93cQQg",
+   "url": "https://www.youtube.com/watch?v=3p-Lz93cQQg",
+   "title": "Keterangan Pers Presiden Prabowo Usai Resmikan Pabrik Pemurnian Logam Mulia, Gresik, 17 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "Freeport": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 49.0,
+   "text": "[Tepuk tangan] I kita kita bangga Bersyukur ya kita akhirnya punya Processing dari logam-logam murni kita sekarang tidak mau menjual sumber alam kita e sebagai bahan baku kita tidak mau lagi jual murah kita mau diprosessing di Indonesia supaya nilai tambah bisa kita nikmati ini nanti tambah kekayaan negara untuk rakyat Indonesia ya Jadi kita bersyukur dalam hal ini juga Freeport bekerja sama dengan kita dengan baik dan eh saya juga ucapkan selamat kepada"
+  },
+  {
+   "t": 50.0,
+   "d": 12.0,
+   "text": "semua pihak yang bekerja keras sehingga ini bisa terwujud ini sebetulnya impian lama kita sudah belasan tahun ya puluhan tahun sebnya Alhamdulillah tercapai hari ini ya Terima kasih semuanya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

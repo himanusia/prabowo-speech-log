@@ -1,0 +1,68 @@
+{
+ "id": "2024-12-18-keterangan-pers-kairo-18-desember-2024",
+ "video_id": "FKWsP6NoNKY",
+ "date": "2024-12-18",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Subianto, Kairo, 18 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=FKWsP6NoNKY",
+ "duration_s": 176,
+ "duration_hms": "2:56",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 265,
+ "unique_word_count": 148,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "FKWsP6NoNKY",
+   "url": "https://www.youtube.com/watch?v=FKWsP6NoNKY",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, Kairo, 18 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 5,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 53.0,
+   "text": "bapak bapak izin Pak boleh minta tanggapannya engak Pak mengenai agenda pada hari ini seperti apa Bapak i tadi pagi kalian Saya kira Ikuti saya ada kunjungan kenegaraan diterima oleh Presiden Mesir presidencc kemudian pembicaraan yang cukup mendalam sesudah itu saya berkunjung ke alasar ketemu imam besar Grand Sikh kemudian sempat bicara dengan kurang lebih hampir 2000 mahasiswa kita di Alazar eh kemudian baru saja ketemu dengan e"
+  },
+  {
+   "t": 55.0,
+   "d": 46.0,
+   "text": "Perdana Menteri Pakistan juga membicarakan kemungkinan kerjasama meningkatkan kerjaasama di bidang ekonomi eh dan e perdagangan dan besok kita tentunya akan ketemu dengan anggota-anggota D8 yang lain Saya kira ya ini dalam rangkaah terus kita membangun hubungan untuk saling mencari peluang dalam keadaan yang tidak pasti biar ekonomi kita masing-masing kuat begitu untuk presiden untuk presiden Pakistan sendiri beliau menyambangi langsung Bapak di Mesir ini ini ini Perdana"
+  },
+  {
+   "t": 101.0,
+   "d": 39.0,
+   "text": "Menteri bukan presidennya perdana menterinya ya Pak untuk Del sendiri apa yang akan menjadi fokus Indonesia Pak mengingat kita akan jadi tuan rumah nextnya ya memang eh tujuannya adalah bagaimana negara-negara berkembang kan ini di di pikan tahun '97 ya dan kebetulan D8 ini del8 ini adalah negara er muslim yang penduduknya besar jadi kalau bisa kerja sama di bidang ekonomi ee Saya kira ini saling memperkuat antara lain dengan Mesir kita"
+  },
+  {
+   "t": 140.0,
+   "d": 38.0,
+   "text": "bicara ee apa itu eh menuju ke eh Free Trade agreement ya Ee Kita kan butuh fosfat dari mereka untuk pupuk mereka butuh kelapa sawit Kita ini kerja sama sama juga di di negara-negara lain ya dengan India dengan Pakistan kita bicarakan semua kemungkinan kerja sama sekarang fokusnya kita bagaimana memperkuat ekonomi kita masing-masing Saya kira Kesejahteraan Rakyat ya terima kasih terima kasih Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

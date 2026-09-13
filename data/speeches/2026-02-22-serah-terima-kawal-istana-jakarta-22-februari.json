@@ -1,0 +1,73 @@
+{
+ "id": "2026-02-22-serah-terima-kawal-istana-jakarta-22-februari",
+ "video_id": "OH0OWPzpgeA",
+ "date": "2026-02-22",
+ "date_precise": true,
+ "title": "Serah Terima Kawal Istana, Jakarta, 22 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=OH0OWPzpgeA",
+ "duration_s": 97,
+ "duration_hms": "1:37",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 180,
+ "unique_word_count": 100,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "OH0OWPzpgeA",
+   "url": "https://www.youtube.com/watch?v=OH0OWPzpgeA",
+   "title": "Serah Terima Kawal Istana, Jakarta, 22 Februari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 18.0,
+   "d": 41.0,
+   "text": "ee cukup ini ya apa namanya menghibur sekali karena kita baru baru kali ini nih apa namanya ngelihat baru ada kayak begini-beginian Mas. Heeh. Kalau bisa untuk acara-acara seperti ini semuanya yang yang kayak seperti ini terbuka juga gitu loh. Jadi perbanyak acara-acara seperti ini, Mas. Ini akan hiburan juga ya. untuk pertama kali dalam sejarah saya ini pertama kali Pak mungkin ada untuk dari Prabowo seperti kerajaan Inggris beliau seperti ini saya tahunya"
+  },
+  {
+   "t": 59.0,
+   "d": 26.0,
+   "text": "dengan seperti itu Pak harapan mungkin untuk hiburannya Pak lebih variatif dan juga lebih kita kan punya 33 38 provinsi nah dalam provinsi itu kita lebih baik ee dicantumin di acara tersebut Pak ya kita bisa kumpul teman-teman pecinta Vespa [tertawa] diundang langsung dari e Pas Pampres suatu kehormatanlah bagi kami bisa hadir di sini."
+  },
+  {
+   "t": 85.0,
+   "d": 2.0,
+   "text": "Oke. Terus yang paling menarik dari acara tadi apa?"
+  },
+  {
+   "t": 87.0,
+   "d": 25.0,
+   "text": "Acara tadi ya apa ya ee berkudanya ya kita jarang-jarang ngelihat e apa baris berbaris ee gitu dan juga yang paling utama kita bisa silaturahmi sama pedas ee harapannya ya bisa terus berlanjut acara seperti ini biar makin kompak e komunitas-komunitas terutama komunitas Vespa di utamanya."
+  },
+  {
+   "t": 112.0,
+   "d": 3.0,
+   "text": "tetap"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "kunjungan",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

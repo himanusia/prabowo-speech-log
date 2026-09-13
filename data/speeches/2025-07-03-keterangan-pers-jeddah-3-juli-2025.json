@@ -1,0 +1,78 @@
+{
+ "id": "2025-07-03-keterangan-pers-jeddah-3-juli-2025",
+ "video_id": "AYvszO2Wpdo",
+ "date": "2025-07-03",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo, Jeddah, 3 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=AYvszO2Wpdo",
+ "duration_s": 60,
+ "duration_hms": "1:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 87,
+ "unique_word_count": 56,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "AYvszO2Wpdo",
+   "url": "https://www.youtube.com/watch?v=AYvszO2Wpdo",
+   "title": "Keterangan Pers Presiden Prabowo, Jeddah, 3 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 4.0,
+   "text": "Bapak, bagaimana hasil pertemuan Bapak dengan Pangeran MBS? Bagaimana, Pak?"
+  },
+  {
+   "t": 4.0,
+   "d": 8.0,
+   "text": "Saya kira sangat produktif ya. Eh, kita sepakat untuk tingkatkan kerja sama."
+  },
+  {
+   "t": 12.0,
+   "d": 25.0,
+   "text": "Kita baru bentuk ee Dewan Koordinasi Koordinasi tertinggi ya, Supreme Coordination Council antara pihak Saudi dan Indonesia. kita sepakat tingkatkan semua ee kerja sama di semua bidang. Jadi saya sangat puas, alhamdulillah ee produktif."
+  },
+  {
+   "t": 37.0,
+   "d": 14.0,
+   "text": "Insyaallah kita akan ee melihat suatu peningkatan kerja sama antara kita dan Saudi Arabia dan banyak ee masalah-masalah geopolitik."
+  },
+  {
+   "t": 51.0,
+   "d": 6.0,
+   "text": "Kita punya persamaan visi. Ya, saya kira itu. Terima kasih."
+  },
+  {
+   "t": 57.0,
+   "d": 3.0,
+   "text": "Indonesia gimana"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

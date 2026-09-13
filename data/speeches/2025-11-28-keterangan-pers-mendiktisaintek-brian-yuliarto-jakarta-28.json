@@ -1,0 +1,58 @@
+{
+ "id": "2025-11-28-keterangan-pers-mendiktisaintek-brian-yuliarto-jakarta-28",
+ "video_id": "wKWhviTAqWs",
+ "date": "2025-11-28",
+ "date_precise": true,
+ "title": "Keterangan Pers Mendiktisaintek Brian Yuliarto, Jakarta, 28 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=wKWhviTAqWs",
+ "duration_s": 53,
+ "duration_hms": "0:53",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "token_count": 104,
+ "unique_word_count": 69,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "wKWhviTAqWs",
+   "url": "https://www.youtube.com/watch?v=wKWhviTAqWs",
+   "title": "Keterangan Pers Mendiktisaintek Brian Yuliarto, Jakarta, 28 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 1,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 32.0,
+   "text": "ee penyiapan SDM ya, terutama bagaimana ee para calon apa ya, calon SDM yang dari kampus itu mulai dilatih, Pak Presiden meminta sebelum lulus barangkali itu juga sudah bisa dilatih ke beberapa ee hal yang memang diperlukan oleh bangsa ini ya kan. Eeah sekarang kita ada beberapa hal ee apakah itu apa sektor pertanian, sektor industri."
+  },
+  {
+   "t": 32.0,
+   "d": 21.0,
+   "text": "Nah, jadi ee para SDM ini sebelum apa sebelum lulus ee para mahasiswa di tingkat akhir itu sebisa mungkin sudah dilibatkan pada berbagai ee projek ya ee nasional yang terkait dengan ee Asta Cita, proyek-proyek lainnya sehingga diharapkan mereka nantinya siap ketika lulus. Begitu. Itu aja ya. Makasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

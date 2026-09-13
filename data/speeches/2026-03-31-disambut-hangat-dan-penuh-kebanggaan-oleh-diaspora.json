@@ -1,0 +1,68 @@
+{
+ "id": "2026-03-31-disambut-hangat-dan-penuh-kebanggaan-oleh-diaspora",
+ "video_id": "3T9w5opAGAc",
+ "date": "2026-03-31",
+ "date_precise": true,
+ "title": "Presiden Prabowo Disambut Hangat dan Penuh Kebanggaan oleh Diaspora Indonesia, Seoul, 31 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=3T9w5opAGAc",
+ "duration_s": 59,
+ "duration_hms": "0:59",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 104,
+ "unique_word_count": 70,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "3T9w5opAGAc",
+   "url": "https://www.youtube.com/watch?v=3T9w5opAGAc",
+   "title": "Presiden Prabowo Disambut Hangat dan Penuh Kebanggaan oleh Diaspora Indonesia, Seoul, 31 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 32.0,
+   "d": 18.0,
+   "text": "[tepuk tangan] [tepuk tangan] [tepuk tangan] Tadi beliau tanya saya belajar di mana?"
+  },
+  {
+   "t": 50.0,
+   "d": 24.0,
+   "text": "Kemudian ee beliau juga menyemangati saya untuk bisa menyelesaikan studi saya. Eh, terus terang sangat bangga karena saya berasal dari Nusa Tenggara Timur yang em sangat sulit untuk ke Jakarta untuk melihat Pak Presiden. Tapi em saya bisa bertemu dengan Pak Presiden di tempat saya menuntut ilmu. Jadi saya sangat bangga sekali dari kemarin itu saya sampai enggak bisa tidur."
+  },
+  {
+   "t": 74.0,
+   "d": 14.0,
+   "text": "Luar biasa sekali. Suatu kehormatan saya bisa diundang dengan KPRI untuk bisa hadir menyambut Bapak walaupun hanya lihat sebentar dan salaman. Wah, luar biasa sekali. Sehat selalu ya, Pak."
+  },
+  {
+   "t": 88.0,
+   "d": 3.0,
+   "text": "Selamat datang"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

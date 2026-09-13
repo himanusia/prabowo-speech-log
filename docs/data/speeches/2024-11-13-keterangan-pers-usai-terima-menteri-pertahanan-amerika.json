@@ -1,0 +1,68 @@
+{
+ "id": "2024-11-13-keterangan-pers-usai-terima-menteri-pertahanan-amerika",
+ "video_id": "-v129GdlTv8",
+ "date": "2024-11-13",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo usai Terima Menteri Pertahanan Amerika Serikat, 13 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=-v129GdlTv8",
+ "duration_s": 161,
+ "duration_hms": "2:41",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 232,
+ "unique_word_count": 124,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "-v129GdlTv8",
+   "url": "https://www.youtube.com/watch?v=-v129GdlTv8",
+   "title": "Keterangan Pers Presiden Prabowo usai Terima Menteri Pertahanan Amerika Serikat, 13 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 11.0,
+   "d": 47.0,
+   "text": "gimana P tadi pertemuan sama saya kira hubungan baik saya sama beliau sudah bekerja sama lama ya ya kita bicara masalah-masalah yang Saya kira yang aktual kerjaasama di antara kedua negara tukarmenukar informasi dan pandangan saya kira itu intinya mungkin tentang pertemuan kemarin dengan Joe biden kan presiden Amerika menduk masuk OECD ya Pak ini gimana kedudukan Indonesia dengan adanya Indonesia jugau masuka organisasi yang berbeda begitu Pak Saya kira gak ada masalah kita juga"
+  },
+  {
+   "t": 58.0,
+   "d": 46.0,
+   "text": "ikut IP kita ikut CP CPP Apa itu cptp CP TPP ya kita ikut beberapa kelompok ya untuk ekonomi ya kita ingin mencari yang terbaik peluang-peluang untuk ekonomi kita kita harus memikirkan Kesejahteraan Rakyat kita kan Oke harapan Pak G gaz sama Cina Selatan Pak itu apa gimana Pak kemarin sama gaz dan Cina S ya kita kita bahas itu saya tetap menyarankan two state solution sebetulnya mereka juga setuju kita bekerja kita berharap"
+  },
+  {
+   "t": 104.0,
+   "d": 51.0,
+   "text": "untuk bisajata segera ya Laut Cina Selatan kita bahas saya katakan kita ingin kerja sama dengan semua pihak kita menghormati semua kekuatan tapi kita juga akan mempertahankan kedaulatan kita ya tapi kita memilih saya memilih selalu mencari peluang untuk kerja sama saya percaya kolaborasi kerja sama selalu lebih baik daripada eh konfrontasi atau konflik tentunya ini harus di diupayakan ya tidak akan datang sendiri harus ada upaya untuk"
+  },
+  {
+   "t": 155.0,
+   "d": 17.0,
+   "text": "membangun saling percaya saling menghormati jadi kita memilih untuk eh memelihara hubungan baik dengan semua pihak oke [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

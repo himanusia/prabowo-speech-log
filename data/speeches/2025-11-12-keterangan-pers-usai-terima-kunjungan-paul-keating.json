@@ -1,0 +1,78 @@
+{
+ "id": "2025-11-12-keterangan-pers-usai-terima-kunjungan-paul-keating",
+ "video_id": "MtaiC0EXW_A",
+ "date": "2025-11-12",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Terima Kunjungan Paul Keating, Sydney, 12 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=MtaiC0EXW_A",
+ "duration_s": 91,
+ "duration_hms": "1:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 153,
+ "unique_word_count": 82,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "MtaiC0EXW_A",
+   "url": "https://www.youtube.com/watch?v=MtaiC0EXW_A",
+   "title": "Keterangan Pers Presiden Prabowo Usai Terima Kunjungan Paul Keating, Sydney, 12 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 4.0,
+   "text": "Selamat sore, Pak Presiden."
+  },
+  {
+   "t": 4.0,
+   "d": 9.0,
+   "text": "Boleh sedikit, Pak. Pertemuannya seperti apa, Bapak? Saya kira sangat bagus. Beliau sangat berpengalaman."
+  },
+  {
+   "t": 13.0,
+   "d": 20.0,
+   "text": "Ee pemikiran-pemikiran beliau ee sangat jernih, pengalaman beliau sangat banyak. Jadi, saya apa ya? Saya merasa banyak sekali saya dapat dari pemikiran-pemikiran beliau."
+  },
+  {
+   "t": 33.0,
+   "d": 16.0,
+   "text": "Apa saja, Pak, contohnya? Mungkin di bidang apa? Mungkin secara khususnya ya di bidang hubungan internasional, di bidang ekonomi, di bidang ee geoekonomi, geopolitik, banyak sekali."
+  },
+  {
+   "t": 49.0,
+   "d": 39.0,
+   "text": "Iya ya, Pak. Ya, kalau keseluruhan gimana, Pak? Secara keseluruhan, Pak, untuk kunjungan ke Australia ini seperti apa? Saya kira sangat baik ya. Saya kita harus tahu bahwa ee kita bertetangga dan ee Indonesia berkepentingan punya hubungan baik sama Australia. Demikian sebaliknya, kalau kita bekerja sama dengan baik di semua bidang ini akan membawa ee manfaat yang sangat besar untuk kedua negara dan untuk kawasan kita semuanya ya. Oke, terima kasih."
+  },
+  {
+   "t": 88.0,
+   "d": 3.0,
+   "text": "Terima kasih. Bapak mau foto bareng. Foto bareng boleh enggak? Boleh. Boleh. Ayo. Silakan. Silakan."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

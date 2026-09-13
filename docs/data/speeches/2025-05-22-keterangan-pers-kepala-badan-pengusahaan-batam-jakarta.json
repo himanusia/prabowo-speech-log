@@ -1,0 +1,73 @@
+{
+ "id": "2025-05-22-keterangan-pers-kepala-badan-pengusahaan-batam-jakarta",
+ "video_id": "o2vqzTjOCps",
+ "date": "2025-05-22",
+ "date_precise": true,
+ "title": "Keterangan Pers Kepala Badan Pengusahaan Batam, Jakarta, 22 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=o2vqzTjOCps",
+ "duration_s": 121,
+ "duration_hms": "2:01",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 216,
+ "unique_word_count": 125,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "o2vqzTjOCps",
+   "url": "https://www.youtube.com/watch?v=o2vqzTjOCps",
+   "title": "Keterangan Pers Kepala Badan Pengusahaan Batam, Jakarta, 22 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 8,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 30.0,
+   "text": "Alhamdulillah pada sore hari ini kami dapat ee bersilaturahmi dengan Bapak Presiden. Pada intinya kita hari ini diberikan ruang oleh beliau untuk menyampaikan progres yang terkait dengan pekerjaan di atau apa yang telah kami lakukan di BP Batam. Pada intinya kami melaporkan pertama desain-desain yang telah kami lakukan agar bisa melakukan percepatan untuk investasi di daerah."
+  },
+  {
+   "t": 30.0,
+   "d": 30.0,
+   "text": "antara lain dengan penataan e lahan melalui land management system, kemudian juga penyederhanaan pelayanan perizinan dengan menghilangkan ee apa namanya itu ee ya menarik mengintegrasikan perizinan kita itu fatwa planologis fatwa planologis dan ee ada pengintegrasian antara pemerintah pelayanan pemerintah Kota Batam dengan pelayanan di BP Batam."
+  },
+  {
+   "t": 60.0,
+   "d": 40.0,
+   "text": "Terus yang ketiga ee kami minta arahan dari beliau bagaimana persoalan ee apa yang memang harus menjadi ee stressing penyelenggaraan tugas kami ke depan. Pada intinya target RPJMN 8% pertumbuhan ekonomi itu insyaallah Batam akan berikhtiar lebih dari itu. Kita sudah melihat ee data-data yang ada di BPS, di BKPM dan data di ee LP MUI yang menjadi mitra BB Batam bahwa tren pertumbuhan ekonomi di Batam dan tren pertumbuhan investasi di Batam insyaallah kondusif. Nah, itu tadi"
+  },
+  {
+   "t": 100.0,
+   "d": 18.0,
+   "text": "yang kami laporkan. Pak Presiden memberikan arahan bahwa kami mesti terus bersemangat dan ee beliau akan ee melakukan penyelarasan berbagai regulasi yang dinilai menghambat bagi perkembangan investasi. Itu saja barangkali poin kuncinya. Terima kasih."
+  },
+  {
+   "t": 118.0,
+   "d": 3.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

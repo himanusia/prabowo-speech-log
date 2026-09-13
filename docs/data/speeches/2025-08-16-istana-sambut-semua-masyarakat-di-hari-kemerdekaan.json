@@ -1,0 +1,98 @@
+{
+ "id": "2025-08-16-istana-sambut-semua-masyarakat-di-hari-kemerdekaan",
+ "video_id": "g6CEA3m8vu8",
+ "date": "2025-08-16",
+ "date_precise": true,
+ "title": "Istana Sambut Semua Masyarakat di Hari Kemerdekaan, Jakarta, 16 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=g6CEA3m8vu8",
+ "duration_s": 121,
+ "duration_hms": "2:01",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 207,
+ "unique_word_count": 110,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "g6CEA3m8vu8",
+   "url": "https://www.youtube.com/watch?v=g6CEA3m8vu8",
+   "title": "Istana Sambut Semua Masyarakat di Hari Kemerdekaan, Jakarta, 16 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 8.0,
+   "text": "Ya, senang-senang bingung ya. Kenapa milih ibu yang tua yang muda banyak gitu? Kenapa bingung?"
+  },
+  {
+   "t": 10.0,
+   "d": 4.0,
+   "text": "Kan enggak pernah jadi bingung. Tapi senang, Bu. Senang."
+  },
+  {
+   "t": 14.0,
+   "d": 10.0,
+   "text": "Iya. Terima kasih, Pak Presiden, Bapak Prabowo ya, yang sudah mengundang Bu Siti yang kerja sebagai PPSU."
+  },
+  {
+   "t": 24.0,
+   "d": 33.0,
+   "text": "Ee terima kasih banyaklah dapat undangan bisa masuk istana. Biasanya kan masuk istana cuma nyapu, sekarang jadi undangan. I terima kasih banyak ya [Musik] ya. Senang banget. Enggak ada ininya ya apa ya? Enggak ada bandingnya saking senangnya gitu. Mudah-mudahan Indonesia ke depannya tambah maju, tambah makmur rakyat ya. Cuman ya jangan sampai nyakitin rakyat kecil gitu aja doang."
+  },
+  {
+   "t": 57.0,
+   "d": 14.0,
+   "text": "Ya, mudah-mudahan Pak Presiden di apa ya, diberi kesembuhan, sehat selalu gitu. Terima kasih Bapak Parowo."
+  },
+  {
+   "t": 71.0,
+   "d": 17.0,
+   "text": "Senang alhamdulillah bisa menghadiri di istana, bisa menghormati para pahlawan, dan bisa ketemu sama pejabat-pejabat negara. Seumur-umur baru kali ini nanti bisa masuk istana. Biasanya di biasanya melihat dari dalam baja aja sekarang bisa masuk langsung bisa ngerasa di dalam istana."
+  },
+  {
+   "t": 88.0,
+   "d": 1.0,
+   "text": "Undangannya langsung dari Bapak Presiden."
+  },
+  {
+   "t": 89.0,
+   "d": 4.0,
+   "text": "Apalagi undangannya langsung dari Bapak Presiden. Alhamdulillah. Terima kasih Pak Presiden."
+  },
+  {
+   "t": 93.0,
+   "d": 27.0,
+   "text": "Saya kaget banget tiba-tiba kan saya lagi di mobil tiba-tiba diketok-ketok pintunya dapat undangan kayak gini kan saya kagit juga sih. Bapak Prabowo terima kasih sudah mengundang saya untuk e mengikuti upacara bendera di istana."
+  },
+  {
+   "t": 120.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

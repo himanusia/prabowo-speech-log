@@ -1,0 +1,78 @@
+{
+ "id": "2026-01-01-ucapkan-selamat-idulfitri-1-syawal-1447-hijriah",
+ "video_id": "yju7lC1JBmg",
+ "date": "2026-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo Ucapkan Selamat Idulfitri 1 Syawal 1447 Hijriah, 20 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=yju7lC1JBmg",
+ "duration_s": 92,
+ "duration_hms": "1:32",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 136,
+ "unique_word_count": 96,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "yju7lC1JBmg",
+   "url": "https://www.youtube.com/watch?v=yju7lC1JBmg",
+   "title": "Presiden Prabowo Ucapkan Selamat Idulfitri 1 Syawal 1447 Hijriah, 20 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 9
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 3.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 3.0,
+   "d": 4.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 7.0,
+   "d": 6.0,
+   "text": "Saudara saudara sebangsa dan setanah air di mana pun engkau berada."
+  },
+  {
+   "t": 13.0,
+   "d": 11.0,
+   "text": "Alhamdulillahiabbil alamin. Segala puji bagi Allah Subhanahu wa taala yang telah mempertemukan kita semua dengan hari kemenangan."
+  },
+  {
+   "t": 24.0,
+   "d": 41.0,
+   "text": "Saya Prabowo Subianto, Presiden Republik Indonesia, atas nama pribadi, keluarga, dan atas nama Pemerintah Republik Indonesia mengucapkan selamat hari raya Idul Fitri 1447 Hijriah. Mohon maaf lahir batin. Mari kita manfaatkan momen Idul Fitri ini untuk saling memaafkan, mempererat silatmi, dan memperkuat persatuan sebagai satu bangsa di tengah berbagai pantangan yang kita hadapi. Marilah kita terus perkuat kebersamaan kita sebagai satu keluarga besar bangsa Indonesia."
+  },
+  {
+   "t": 65.0,
+   "d": 27.0,
+   "text": "Mari kita bekerja lebih keras, saling membantu dan bersama-sama membangun Indonesia yang lebih adil, lebih sejahtera, lebih kuat. Semoga Allah Subhanahu wa taala menerima amal ibadah kita sekalian dan senantiasa melimpahkan rahmat serta berkahnya kepada bangsa Indonesia. Wasalamualaikum warahmatullahi wabarakatuh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

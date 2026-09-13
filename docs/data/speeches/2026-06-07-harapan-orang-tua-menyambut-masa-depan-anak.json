@@ -1,0 +1,87 @@
+{
+ "id": "2026-06-07-harapan-orang-tua-menyambut-masa-depan-anak",
+ "video_id": "iN2YUUEyr6k",
+ "date": "2026-06-07",
+ "date_precise": true,
+ "title": "Harapan Orang Tua Menyambut Masa Depan Anak di SRMP 17 Tabanan, Bali, 7 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=iN2YUUEyr6k",
+ "duration_s": 109,
+ "duration_hms": "1:49",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 155,
+ "unique_word_count": 86,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "iN2YUUEyr6k",
+   "url": "https://www.youtube.com/watch?v=iN2YUUEyr6k",
+   "title": "Harapan Orang Tua Menyambut Masa Depan Anak di SRMP 17 Tabanan, Bali, 7 Juni 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 4,
+  "kesehatan_dan_gizi": 7,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {
+  "Sekolah Rakyat": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 13.0,
+   "d": 19.0,
+   "text": "[bersorak] Allahu Akbar. Siap. Alhamdulillah."
+  },
+  {
+   "t": 32.0,
+   "d": 15.0,
+   "text": "[musik] rakyat [berteriak] membaca sudah lancar dia ikut juga lomba cerpennya juga."
+  },
+  {
+   "t": 47.0,
+   "d": 15.0,
+   "text": "Saya mengucapkan sama Pak Presiden banyak terima kasih telah membantu kami anak saya sekolah. memang kami tidak mampu. Itulah bagusnya untuk sekolah rakyat, untuk anak-anak yang gak mampu."
+  },
+  {
+   "t": 62.0,
+   "d": 33.0,
+   "text": "Saya juga berterima kasih banyak sekali kepada Bapak Perbowo yang punya program sebesar ini membiayai masyarakat miskin seperti saya biar bisa [musik] anaknya menimpa ilmu. Saya banyak-banyak terima kasih ya. Semoga ke depannya Pak Kbowo ini mendapat balasan yang seimpal dan mendapat murah rezeki dan melanjutkan perjuangan ke depannya biar bisa anak-anak nanti yang miskin ikut nanti menikmati dan [musik] merasakan kebijaan dari Bapak Presiden Saya mengucapkan banyak-banyak terima"
+  },
+  {
+   "t": 95.0,
+   "d": 21.0,
+   "text": "kasih kepada Pak Prabowo telah mendirikan sekolah rakyat ini. Terima kasih, Pak Prabowo atas semuanya semua yang diberikan kepada [musik] saya. Saya ingin anak saya tidak seperti saya, yang tidak bisa membaca dan menulis."
+  },
+  {
+   "t": 116.0,
+   "d": 3.0,
+   "text": "Saya pengin anak saya sukses nantinya."
+  },
+  {
+   "t": 119.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,95 @@
+{
+ "id": "2025-06-04-keterangan-pers-menteri-bumn-erick-thohir-jakarta",
+ "video_id": "maSEio7Gb90",
+ "date": "2025-06-04",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri BUMN Erick Thohir, Jakarta, 4 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=maSEio7Gb90",
+ "duration_s": 156,
+ "duration_hms": "2:36",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 371,
+ "unique_word_count": 188,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "maSEio7Gb90",
+   "url": "https://www.youtube.com/watch?v=maSEio7Gb90",
+   "title": "Keterangan Pers Menteri BUMN Erick Thohir, Jakarta, 4 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 9,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 3,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 5
+  },
+  "Korupsi dan kebocoran": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 32.0,
+   "text": "Bapak Presiden ee ingin memastikan bahwa e mulai awal Juni ini yang diskon-diskon yang sudah diputuskan di ratas bisa berjalan untuk kereta api, untuk jalan tol, e pesawat dan lain-lain. Jadi memang ee kita sedang juga diskusi dengan MenQ untuk surat keputusan bersamanya supaya memang nanti penugasan ini kita bisa jalankan seperti yang sebelum tapi insyaallah kan sebelum-sebelumnya sudah jalan. Jadi mungkin kompleksitasnya tidak terlalu beratlah."
+  },
+  {
+   "t": 32.0,
+   "d": 9.0,
+   "text": "Itu ada targetnya enggak, Pak? Mulai bulan apa? Kan Juni kan juga sudah berjalan juga ya. Memang ee kemarin diputuskan kan ee 5 Juni sampai Juli."
+  },
+  {
+   "t": 41.0,
+   "d": 4.0,
+   "text": "Makanya kita beliau manggil lagi, \"Besok bisa enggak?\" Saya bilang, \"Siap, Pak."
+  },
+  {
+   "t": 45.0,
+   "d": 32.0,
+   "text": "kita lagi mulai rapatin dan ini baguslah buat meringankan juga ee masyarakat yang sedang berlibur dan terbukti beberapa ee support pemerintah untuk transportasi ini kan selama ini juga berjalan dengan baik dan hasil impact-nya buat ekonomi darah terasa gitu. Kalau dari BUJT sendiri itu melihatnya bagaimana, Pak, dari sisi bisnis dan keuangan? Apakah mumpuni Pak untuk memberikan diskon? ee kan nanti ee dari ee Kementerian Keuangan akan membantu ee juga top up ee"
+  },
+  {
+   "t": 77.0,
+   "d": 4.0,
+   "text": "untuk ee keuangan bagian dari stimulus ekonomi."
+  },
+  {
+   "t": 81.0,
+   "d": 33.0,
+   "text": "Untuk diskon kereta berlaku untuk kereta cepat terus juga, Pak? Mm belum disampaikan sedikit itu baru yang kereta biasa, Pak. Top upnya itu ke perusahaan-perusan BUJT BUMN gitu ya, Pak ya. ee nanti hasil diskusi hari ini lagi nunggu para wamen lagi diskusi ee yang pastikan memang ee jangan sampai memberatkan keuangan ee ee BUMN yang sekarang dikelola dan tentara. Ee kami dari Kementerian BUMN tentu karena ini penugasan kita coba menselaraskan daripada ee misi yang pemerintah"
+  },
+  {
+   "t": 114.0,
+   "d": 32.0,
+   "text": "inginkan gitu. Jadi ee balance keuangannya kita jaga anggarannya Pak tadi kan disampaikan ada penugasan nanti diop up oleh pemti keuangan berarti ini kanan terkait dengan Reidalio. Gimana ya Pak ya di dewan penasihat? Nah itu nanti danantara yang buat statement kan sudah ada persidnya dari Danantara. Tapi ya maksudnya dari Danantara yang itu yang lain cukup ya. Ada anak usaha adik karya. K usaha di karya ee belum membayarkan gaji karyawannya, Pak. Ya, mesti ditindak nanti dilihat ada kasus"
+  },
+  {
+   "t": 146.0,
+   "d": 10.0,
+   "text": "korupsi atau tidak. Tapi kan kembali untuk operasional sekarang sudah ada di Danantara, investasi Danantara. Kita sebagai Menteri BUMN menjaga regulasinya dan tentu pengawasannya dan juga kita support dalam hal-hal penugasan kan bagi tugas."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

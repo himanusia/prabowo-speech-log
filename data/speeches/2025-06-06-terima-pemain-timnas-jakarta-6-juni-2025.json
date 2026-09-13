@@ -1,0 +1,93 @@
+{
+ "id": "2025-06-06-terima-pemain-timnas-jakarta-6-juni-2025",
+ "video_id": "9rxD7xLWeLo",
+ "date": "2025-06-06",
+ "date_precise": true,
+ "title": "Presiden Prabowo Terima Pemain Timnas Indonesia, Jakarta, 6 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=9rxD7xLWeLo",
+ "duration_s": 167,
+ "duration_hms": "2:47",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "token_count": 379,
+ "unique_word_count": 185,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "9rxD7xLWeLo",
+   "url": "https://www.youtube.com/watch?v=9rxD7xLWeLo",
+   "title": "Presiden Prabowo Terima Pemain Timnas Indonesia, Jakarta, 6 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 25.0,
+   "d": 25.0,
+   "text": "Boleh. Saya rasa pelatih pemain sangat merasakan apresiasi yang luar biasa dari Bapak Presiden karena ini kan bukan di sana mereka di rumah pribadi. Jadi mereka merasa kekeluargaan. Bapak Presiden juga mentreat mereka sebagai keluarga karena kita tahu mereka juga banyak berkorban kan untuk merah putih kita. Dan Bapak Presiden apresiasi itu."
+  },
+  {
+   "t": 50.0,
+   "d": 25.0,
+   "text": "Dan Bapak Presiden menitipkan walaupun kita sudah lolos ya ke playoff, nah kita fokus lawan Jepang juga tetap mesti benar-benar bermain maksimal ya. Jadi jangan karena sudah lewat ee terus kita bersantai-santai. Tidak. Itu bukan ciri khas yang dididik oleh Bapak Presiden untuk bangsa kita. Kita harus berjuang terus gitu. Tadi di dalam acaranya selain makan siang apa aja, Pak? makan siang terus tadi Marcelino nyanyi ya"
+  },
+  {
+   "t": 75.0,
+   "d": 25.0,
+   "text": "yang biasa yang kayak Iya yang kayak waktu di Bali itu pada bawa goodbag hadir dari presiden apa gimana Pak sepertinya itu saya saya kurang tahu apa ada ini apa, Pak? Ada janji dari presiden enggak kalau misalnya timnas menang atau lolos nih pastilah enggak usah dari Pak Presiden. Pemerintah sudah bantu ya sepak bola nasional hampir 200 miliar per tahun. Jadi itu angka yang luar biasa yang saya rasa selama"
+  },
+  {
+   "t": 100.0,
+   "d": 38.0,
+   "text": "pemerintahan ini yang terbesar gitu nanti kan e tadi Bapak Presiden pesan jangan minder kita bangsa besar kita harus berani lawan semua dan tentu kenapa uji coba di bulan ee September melawan Kuwait dan Lebanon karena kita akan melawan timur tengah. Nah, kita juga izin ee tadi e saya melapor ke Bapak Presiden, ada Pak Menesnek, ada Pak Setkap untuk juga ee untuk biding sebagai tuan rumah ya."
+  },
+  {
+   "t": 138.0,
+   "d": 9.0,
+   "text": "Siapa tahu kita masih bisa walaupun kita tahu dominasi negara-negara Timur Tengah ee cukup kuat ya sebagai tuan rumah ya."
+  },
+  {
+   "t": 147.0,
+   "d": 11.0,
+   "text": "Kita cobah. Kita coba ini kesempatannya ee kita enggak boleh berpikir itu. Kita harus tetap bermain sebaik-baiknya."
+  },
+  {
+   "t": 158.0,
+   "d": 6.0,
+   "text": "Kalau kita bisa main bagus cetak gol ya kalau dicurangin apapun ketahuan kok ya."
+  },
+  {
+   "t": 164.0,
+   "d": 25.0,
+   "text": "Jadi kita kita sendiri yang harus kuat ee untuk menunjukkan performa terbaik gitu. Kita enggak boleh mengeluh terus ya. Makasih ya Bapak Presiden. Ada rencana akan menonton langsung di Jepang. Wah, saya rasa Pak Presiden banyak agenda besar ya. Ee bola sudah lewat, Bapak Presiden bekerja lagi untuk masyarakat dan rakyat. Beliau sangat paham apalagi sekarang ada program yang sedang didorong stimulus ekonomi. Ya, ini yang beliau juga fokuskan gitu."
+  },
+  {
+   "t": 189.0,
+   "d": 3.0,
+   "text": "Makasih. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

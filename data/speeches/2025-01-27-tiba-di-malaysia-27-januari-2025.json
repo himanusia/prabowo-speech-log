@@ -1,0 +1,63 @@
+{
+ "id": "2025-01-27-tiba-di-malaysia-27-januari-2025",
+ "video_id": "bf2mI4oUDQc",
+ "date": "2025-01-27",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Malaysia, 27 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=bf2mI4oUDQc",
+ "duration_s": 204,
+ "duration_hms": "3:24",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 24,
+ "token_count": 158,
+ "unique_word_count": 104,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "bf2mI4oUDQc",
+   "url": "https://www.youtube.com/watch?v=bf2mI4oUDQc",
+   "title": "Presiden Prabowo Tiba di Malaysia, 27 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 7,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 63.0,
+   "d": 145.0,
+   "text": "[Musik] siap [Tepuk tangan] [Musik] Bapak sehat selalu Bapak [Tepuk tangan] [Musik] B Terima kasih pagi-pagijemput saya [Musik] terima kasih terima kasih pagi-pagi terima kasih terima kasih dari jam tadi saya sampai jam an sama jam an jam [Musik] eh untuk ketemu Pak Prabu Yoi apa menyambut Pak Iya menyambut kehadirannya happy banget tapi kita enggak dapat apa namanya salam karena kan di belakang banget jadinya jadinya enggak apa-apa lihat aja udah bersyukur aja tadi sih sempat kayak tegang gimana"
+  },
+  {
+   "t": 208.0,
+   "d": 40.0,
+   "text": "gitu benar dekatin Akir Prabowo gimana ya sosok sosoknya tuh beraura tegas tegas terus juga keren eh kami excited sekali karena eh prab presiden Prabowo Ini kan baru terpilih ya kami punya harapan yang besar kepada Presiden agar pendidikan Indonesia lebih baik dan segala aspek di Indonesia bisa lebih baik beliau tadi memberi salam i guru-guru siswa-siswa seru senang bangetimih siswa sekolah Indones"
+  },
+  {
+   "t": 248.0,
+   "d": 19.0,
+   "text": "Alhamdulillah terima kasih terima kasih Oh I pagi-pagi sudah jemput saya nih [Musik] Aduh Oke terima kasih [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

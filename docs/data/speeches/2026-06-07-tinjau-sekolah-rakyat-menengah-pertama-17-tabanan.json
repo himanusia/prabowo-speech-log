@@ -1,0 +1,112 @@
+{
+ "id": "2026-06-07-tinjau-sekolah-rakyat-menengah-pertama-17-tabanan",
+ "video_id": "7609oB0Y5AI",
+ "date": "2026-06-07",
+ "date_precise": true,
+ "title": "Presiden Prabowo Subianto Tinjau Sekolah Rakyat Menengah Pertama 17 Tabanan, Bali, 7 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=7609oB0Y5AI",
+ "duration_s": 177,
+ "duration_hms": "2:57",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 29,
+ "token_count": 207,
+ "unique_word_count": 132,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "7609oB0Y5AI",
+   "url": "https://www.youtube.com/watch?v=7609oB0Y5AI",
+   "title": "Presiden Prabowo Subianto Tinjau Sekolah Rakyat Menengah Pertama 17 Tabanan, Bali, 7 Juni 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 6,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 9
+ },
+ "policy_signals": {
+  "Sekolah Rakyat": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 20.0,
+   "text": "Masih masih [musik] [bernyanyi] [musik] saya dari kecil sudah ditinggal oleh ayah saya."
+  },
+  {
+   "t": 21.0,
+   "d": 12.0,
+   "text": "Ibu saya merawat saya sendirian dan ia selalu mengajarkan saya untuk selalu jujur, semangat, dan pantang menyerah."
+  },
+  {
+   "t": 33.0,
+   "d": 24.0,
+   "text": "sekolah rakyat kita wujudkan untuk ee membantu mereka yang [musik] paling susah, mereka yang paling [musik] kurang berdaya."
+  },
+  {
+   "t": 57.0,
+   "d": 23.0,
+   "text": "Jadi pembangunan [musik] kita sebagai bangsa tujuannya adalah untuk [musik] membuat seluruh rakyat Indonesia hidupnya [musik] layak, hidupnya baik."
+  },
+  {
+   "t": 80.0,
+   "d": 15.0,
+   "text": "Karena itu usaha untuk berbuat agar rakyat hidup baik, hidup layak adalah usaha yang sangat besar."
+  },
+  {
+   "t": 95.0,
+   "d": 7.0,
+   "text": "[musik] Kita harus bekerja keras di semua bidang."
+  },
+  {
+   "t": 102.0,
+   "d": 7.0,
+   "text": "Salah satu adalah pendidikan."
+  },
+  {
+   "t": 109.0,
+   "d": 4.0,
+   "text": "Berterima kasih kepada Bapak Prabowo."
+  },
+  {
+   "t": 113.0,
+   "d": 7.0,
+   "text": "Saya sudah mau anak saya sekolah di sini. Baik. I, Pak."
+  },
+  {
+   "t": 120.0,
+   "d": 13.0,
+   "text": "Terima kasih Bapak Presiden Prab Sugianto karena telah lihat anak-anak seperti kami, anak-anak dari rumah bolong yang kini diberi kesempatan [musik] untuk berdiri sejajar."
+  },
+  {
+   "t": 133.0,
+   "d": 21.0,
+   "text": "Suksesema Bapak Presiden Suksema Indonesia. Aku akan berjanji, menjaga persaudaraan [musik] dan menghormati perbedaan dan pulang membawa cahaya untuk ayah, ibu, dan untuk Indonesia."
+  },
+  {
+   "t": 154.0,
+   "d": 24.0,
+   "text": "I [musik] promise from this school and from this young heart, I will study hard. I will [musik] respect the friends. I will love my country. And one day [musik] I will help Indonesia stand even higher. From Bali we rise for our parents, for Presiden Prabowo, for Indonesia. [musik] Thank you. [tepuk tangan]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

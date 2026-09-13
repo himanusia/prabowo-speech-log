@@ -1,0 +1,78 @@
+{
+ "id": "2025-12-04-terima-sekjen-liga-muslim-dunia-istana-merdeka",
+ "video_id": "Mqn9oJY1zaM",
+ "date": "2025-12-04",
+ "date_precise": true,
+ "title": "Presiden Prabowo Terima Sekjen Liga Muslim Dunia, Istana Merdeka, 4 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Mqn9oJY1zaM",
+ "duration_s": 211,
+ "duration_hms": "3:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 26,
+ "token_count": 342,
+ "unique_word_count": 138,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Mqn9oJY1zaM",
+   "url": "https://www.youtube.com/watch?v=Mqn9oJY1zaM",
+   "title": "Presiden Prabowo Terima Sekjen Liga Muslim Dunia, Istana Merdeka, 4 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 45.0,
+   "text": "Ya, teman-teman sekalian ee terima kasih tadi saya bersama dengan Ketua MPR RI, Pak eh Ahmad Mujani mendampingi Bapak Presiden eh menerima Sekjen Liga Muslim Dunia, Syekh Muhammad bin Abdul Karim Alisya. Ee pertemuan tadi berlangsung dengan akrab. ada beberapa catatan yang disampaikan oleh ee Syekh Abdul Karim yaitu pertama tentu ee beliau menyampaikan bahwasanya Indonesia dalam hal ini kepemimpinan Presiden Prabowo Subianto itu memiliki pengaruh yang"
+  },
+  {
+   "t": 46.0,
+   "d": 47.0,
+   "text": "sangat kuat di tengah ee dunia Islam terutama dan juga di kancah global. ee Presiden Prabowo memiliki ee pengaruh yang kuat untuk memastikan bahwasannya ee agenda perdamaian di dunia terutama di ee dunia Islam itu bisa berlangsung dengan baik. dan ee Syekh ee Muhammad bin Abdul Karim juga menyampaikan terima kasih dengan sangat terkait dengan peran Presiden Prabowo ee terkait dengan solusi ee penanganan dan perdamaian di Gaza atau di Palestina."
+  },
+  {
+   "t": 93.0,
+   "d": 10.0,
+   "text": "Dan kepemimpinan Pak Prabowo dalam hal ini diakui oleh bukan hanya oleh dunia Islam tapi juga ee oleh di dunia Barat."
+  },
+  {
+   "t": 103.0,
+   "d": 44.0,
+   "text": "Kemudian kedua, Pak Syekh Muhammad Abdul Karim juga tadi Presiden e Sekjen Liga Muslim Dunia menyampaikan bahwasanya ee berharap ee masyarakat Indonesia terutama kepemimpinan Presiden Prabowo itu bisa menjadi wajah utama dunia Islam nantinya. Karena peran-peran dan ee kepemimpinan Presiden Prabowo hari ini itu sangat memiliki pengaruh yang luar biasa dan mudah-mudahan kiblat ee perdamaian dunia Islam itu bisa dibawa oleh ee Presiden Prabowo melalui Indonesia."
+  },
+  {
+   "t": 147.0,
+   "d": 42.0,
+   "text": "Kemudian tadi Presiden juga menyampaikan pada prinsipnya beliau eh berterima kasih ee kepada ee Liga Muslim Dunia terutama pemerintah Saudi Arabia karena terkait dengan ee mengizinkan ee Indonesia ee untuk ee berencana membangun kampung haji di ee Arab Saudi. Kemudian ee Presiden juga berharap ee Kampung Haji ini bisa memperbaiki terus-menerus pelayanan haji di masa yang akan datang. Tetapi tadi juga saya hampir luput ee menyampaikan bahwasanya Presiden Liga Muslim Dunia"
+  },
+  {
+   "t": 189.0,
+   "d": 23.0,
+   "text": "mengundang Pak Prabowo Presiden untuk berbicara di forum muktamar Liga Muslim Dunia. terkait dengan waktunya itu disesuaikan dengan kesediaan Presiden Prabowo. Ee mereka berharap ee Presiden Prabowo membawa pesan-pesan perdamaian, membawa semangat persatuan di dunia Islam. Itu yang paling yang yang utama disampaikan soal Kampung Haji itu"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

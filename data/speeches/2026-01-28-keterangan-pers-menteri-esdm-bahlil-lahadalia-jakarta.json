@@ -1,0 +1,73 @@
+{
+ "id": "2026-01-28-keterangan-pers-menteri-esdm-bahlil-lahadalia-jakarta",
+ "video_id": "cCevQSpEtSU",
+ "date": "2026-01-28",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 28 Januari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=cCevQSpEtSU",
+ "duration_s": 71,
+ "duration_hms": "1:11",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 158,
+ "unique_word_count": 100,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "cCevQSpEtSU",
+   "url": "https://www.youtube.com/watch?v=cCevQSpEtSU",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 28 Januari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 23.0,
+   "text": "terkait dengan ee implementasi pengelolaan daripada sumber daya alam kita khususnya di sektor minerbang yang harus memperhatikan kepentingan negara dalam konteks bagaimana kita bisa memediasi agar pengelolaan sumber daya alam itu betul-betul berorientasi pada ee penghasilan negara yang lebih baik tapi juga harus bijak dengan pengusaha."
+  },
+  {
+   "t": 23.0,
+   "d": 32.0,
+   "text": "Kira-kira begitu pembahasan B keluar batu bara Pak tadi termasuk em plus minus saya pikir tadi belum dibahas secara serius lah masih masih dalam diskusi-diskusi biasa ya untukang mas izin yang dicabut itu orang presiden kepada kami khususnya saya Menteri SBM agar segera mencari formulasi yang tepat untuk kepentingan negara yang lebih baik karena orientasi pengelolaan negara pasal 3345 itu kan semuanya dikelola dengan baik untuk bagaimana menjetterakan rakyat"
+  },
+  {
+   "t": 55.0,
+   "d": 7.0,
+   "text": "kita. Kita akan butuh butuh pendapatan negara yang yang lebih baik untuk kesejahteraan rakyat."
+  },
+  {
+   "t": 62.0,
+   "d": 6.0,
+   "text": "Kalau Marta BPKT akan dikelola oleh BUMN baru ya, Pak. Itu e sudah ada. Oh, nanti kita bahas ya."
+  },
+  {
+   "t": 68.0,
+   "d": 3.0,
+   "text": "Nanti kita bahas dan e nanti kita bahas ya. Tapi udah ada omongannya, Pak."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,68 @@
+{
+ "id": "2025-01-01-istana-untuk-anak-sekolah-pondok-pesantren-qurrotu",
+ "video_id": "IMT06KAREq4",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Istana untuk Anak Sekolah: Pondok Pesantren Qurrotu Nafsin",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=IMT06KAREq4",
+ "duration_s": 111,
+ "duration_hms": "1:51",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 149,
+ "unique_word_count": 91,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "IMT06KAREq4",
+   "url": "https://www.youtube.com/watch?v=IMT06KAREq4",
+   "title": "Istana untuk Anak Sekolah: Pondok Pesantren Qurrotu Nafsin",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 4,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 6.0,
+   "d": 25.5,
+   "text": "[musik] Sebelum ke sini kita udah persiapan banyak banget buat ke istana Presiden karena kita ee enggak expect bakal ke sini. Senang banget. tadi pas masuk gerbangnya aja itu udah bagus banget, [musik] udah keren banget view-nya bagus banget."
+  },
+  {
+   "t": 31.0,
+   "d": 9.0,
+   "text": "Kita enggak nyangka juga bakalan ada di sini."
+  },
+  {
+   "t": 40.0,
+   "d": 38.0,
+   "text": "Sangat senang sekali karena ini first time baru pertama kalinya. Ini sangat menghibur hati kami dan para santri semua. sejauh perjalanan kami ini, kami mendapatkan pelajaran yang luar biasa dari Istana Merdeka ini dan kita mendapat pelajaran yang amat penting dan kita bisa mendapatkan ee ilmu-ilmu yang bermanfaat dan ee apa yang kita dapatkan di sini. [musik] [musik] harapan ke depannya ee mungkin terus berjalan dan berlanjut karena ini sangat"
+  },
+  {
+   "t": 78.0,
+   "d": 39.0,
+   "text": "mengedukasi kami khususnya para pelajar dan lembaga pendidikan utamanya pesantren, mewakili pesantren karena ee bisa melihat lebih dekat lagi bagaimana pemerintahan [musik] ini menjalani program-program [musik] Terima kasih Bapak [tepuk tangan] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,88 @@
+{
+ "id": "2026-05-05-istana-untuk-anak-sekolah-forum-osis-jawa",
+ "video_id": "7d7XUkaKsbY",
+ "date": "2026-05-05",
+ "date_precise": true,
+ "title": "Istana untuk Anak Sekolah: Forum OSIS Jawa Barat (FOJB), 5 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=7d7XUkaKsbY",
+ "duration_s": 182,
+ "duration_hms": "3:02",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 26,
+ "token_count": 297,
+ "unique_word_count": 152,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "7d7XUkaKsbY",
+   "url": "https://www.youtube.com/watch?v=7d7XUkaKsbY",
+   "title": "Istana untuk Anak Sekolah: Forum OSIS Jawa Barat (FOJB), 5 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 62.0,
+   "text": "Terima kasih presiden Surianto [tepuk tangan] [musik] [musik] [musik] Kita dari Forum OSI Jawa Barat [bersorak] [musik] tidak karena benar-benar unreal. Yang aku tidak pikirkan tuh kayak benar-benar kan biasanya ngelihat dari TikTok terus dari sosial media terus sekarang ngelihat hasil langsung dari langsung tatap muka gitu. Benar-benar senang banget enggak bisa menyangka bisa terjadi di hidup aku. Terus Bapak Prabowo juga tadi benar-benar baik. Mayor Teddy juga Letnan Lol."
+  },
+  {
+   "t": 62.0,
+   "d": 14.0,
+   "text": "Eh, Lekel. Maaf baik banget. Terus kayaknya ini gak bakal lupa deh dari hidup aku soalnya benar-benar amazing."
+  },
+  {
+   "t": 76.0,
+   "d": 24.0,
+   "text": "Perasaannya benar-benar terharu. Ee tidak nyangka ya, benar-benar senang, bahagia karena jujur tadi sempat menangis juga sedikit karena emang benar rasa enggak percaya ya. Kemungkinan besar enggak bisa ketemu Pak Presiden ya, hanya ketemu Pak Tedi. Tapi ternyata alhamdulillah eh rezekinya kita bisa bertemu dengan Bapak Presiden. Untuk Bapak Presiden Prabo Subianto, terima kasih banyak telah [musik] menyambut kami, telah menerima kami, telah mengadakan program istana untuk anak"
+  },
+  {
+   "t": 100.0,
+   "d": 40.0,
+   "text": "sekolah yang sangat amat ee berguna untuk kami, sangat ee sengia mengenalkan kami untuk ee untuk masa jenjang [musik] kerja kami nanti ke depannya. Terima kasih banyak Bapak Presiden dan Bapak Sekretariat Kabinet Bapak [bersorak] eh alhamdulillah banget saya bangga gitu ya tadi [musik] bisa ketemu langsung dengan Bapak Presiden Prabowo Subianto juga bangga banget kalau di redak [musik] bisa terbayangkan itu ada di 1000 kali ya Kak karena betul-betul kita forum terus sekolah juga pasti sangat bangga"
+  },
+  {
+   "t": 140.0,
+   "d": 19.0,
+   "text": "tadi muter-muter ke beberapa ruangan rapat, ruangan Bapak Prabowonya langsung, terus juga ngelihat sekitar [musik] istana yang bagus banget pemandangannya, indah banget. Aku selalu berdoa kayak suatu saat semoga aku nanti bakal ada di sini di posisi ini gantiin e yang stafsus-stafsus yang ada di sini mungkin bisa jadi menteri suatu saat nanti."
+  },
+  {
+   "t": 159.0,
+   "d": 8.0,
+   "text": "Terima kasih, Pak Presiden Prabowo Subianto."
+  },
+  {
+   "t": 167.0,
+   "d": 12.0,
+   "text": "Salah pemimpin [musik] Jawa Barat."
+  },
+  {
+   "t": 179.0,
+   "d": 3.0,
+   "text": "Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

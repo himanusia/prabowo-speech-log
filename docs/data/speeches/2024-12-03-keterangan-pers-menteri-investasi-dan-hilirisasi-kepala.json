@@ -1,0 +1,87 @@
+{
+ "id": "2024-12-03-keterangan-pers-menteri-investasi-dan-hilirisasi-kepala",
+ "video_id": "daL1Ulq5BD4",
+ "date": "2024-12-03",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, 3 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=daL1Ulq5BD4",
+ "duration_s": 245,
+ "duration_hms": "4:05",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 30,
+ "token_count": 440,
+ "unique_word_count": 193,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "daL1Ulq5BD4",
+   "url": "https://www.youtube.com/watch?v=daL1Ulq5BD4",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, 3 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 6,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 9
+ },
+ "policy_signals": {
+  "Korupsi dan kebocoran": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 51.0,
+   "text": "ya asalamualaikum warahmatullahi wabarakatuh Shalom Om swasasu nama budhaya salam kebajikan ya tadi e baru saja eh saya mendampingi bapak presiden bersama-sama dengan bapaklangga Menteri e kator bidang perekonomian Pak Menlu bapak bapak untuk bertemu dengan delegasi dari usabc US eh ASEAN business Council ada 50 perusahaan yang datang hari ini Eh tadi dicandangkan Dari jam 10 sampai 11.3 tapi ee apa diskusinya begitu baik dan berkembang dan bapak presiden memerintahkan untuk terus melanjutkan"
+  },
+  {
+   "t": 51.0,
+   "d": 34.0,
+   "text": "sampai jam 12.00 dan kita ini baru selesai dan lima perusahaan ini ee menyampaikan banyak hal dan dari delapan industri yang berbeda dari ee kesehatan Healthcare dari e makanan kemudian juga dari pariwisata dari eh farmasutikal obat-obatan dan juga dari digitalisasi dan yang lain-lainnya dan Eh pada intinya yang bisa saya sampaikan bahwa mereka sangat excited eh karena kebanyakan mereka juga sudah berinvestasi di Indonesia ee dan ada"
+  },
+  {
+   "t": 85.0,
+   "d": 38.0,
+   "text": "juga yang akan berinvestasi Indonesia juga dari ee mineral oil and gas Jadi mereka eh menyatakan e akan berinvestasi lebih di Indonesia karena mereka mempunyai keyakinan eh dengan pemerintahan Bapak Prabowo yang EE menunjukkan komitmennya untuk terus mengembangkan iklim investasi Indonesia terus mengembangkan e of doing busis di Indonesia dan juga di saat bersamaan juga bapak presiden menyampaikan Ee tidak akan ada toleransi untuk ee apa untuk Korupsi atau hal-hal negatif yang"
+  },
+  {
+   "t": 123.0,
+   "d": 35.0,
+   "text": "akan menghambat investasi eh dan eh rule of Law akan sangat ditegakkan Dan ini juga memberikan rasa nyaman dan cover kepada Para investor eh yang sudah berinvestas di Indonesia ini dan di juga eh penguatan dari segi sumber daya manusia kita jadi harapannya pada saat mereka berinvestasi di saat bersamaan mereka juga apa membangun dan meningkatkan kapasitas dari sumber daya sumber daya manusia kita para pekerja kita dan juga diharapkan adanya eh transfer Of"
+  },
+  {
+   "t": 158.0,
+   "d": 32.0,
+   "text": "Teknologi Jadi pada intinya Eh tadi juga mereka bisa bertanya langsung Kalau saya catat lebih dari eh 11 pertanyaan yang disampaikan langsung bapak presiden dan bapak presiden menyampaikan langsung carara gamblang Bagaimana komitmen dari pemerintah Indonesia untuk terus bersama-sama eh meningkatkan ekonomic GR ini dengan menjaga investasi baik yang sudah masuk Indonesia maupun ee yang akan masuk Indonesia dan berkolaborasi juga dengan Para investor dalam negeri"
+  },
+  {
+   "t": 190.0,
+   "d": 45.0,
+   "text": "itu juga mesage dari bapak presiden mungkin itu yang bisa sampaikan terima kasih I itu juga disampaikan oleh eh presiden direktornya exon mobil ibu Carol Gil menyampaikan juga komitmennya dan eh apa angkanya juga cukup signifikan Eh tapi kita akan Go into detailnya dulu dari eh Kementerian investasi eh tetapi eh disampaikan bahwa mereka akan investasi eh di carbon capture juga mereka sampaikan tadi kalau bipi sudah berinvestasi komitmen 7,1 eh miliar dolar mereka akan e berinvestasi sampai"
+  },
+  {
+   "t": 235.0,
+   "d": 10.0,
+   "text": "juga 15 miliar dolar itu juga yang sempat disampaikan oleh EE apa persend diror dari eh exon mobil Oke terima kasih ya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

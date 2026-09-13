@@ -1,0 +1,73 @@
+{
+ "id": "2025-02-07-pengantar-pada-sidang-perdana-dewan-pertahanan-nasional",
+ "video_id": "jyyNVE9Qwjk",
+ "date": "2025-02-07",
+ "date_precise": true,
+ "title": "Pengantar Presiden Prabowo pada Sidang Perdana Dewan Pertahanan Nasional, 7 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=jyyNVE9Qwjk",
+ "duration_s": 271,
+ "duration_hms": "4:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 34,
+ "token_count": 279,
+ "unique_word_count": 185,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "jyyNVE9Qwjk",
+   "url": "https://www.youtube.com/watch?v=jyyNVE9Qwjk",
+   "title": "Pengantar Presiden Prabowo pada Sidang Perdana Dewan Pertahanan Nasional, 7 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 7,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 50.0,
+   "text": "Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh Selamat siang salam sejahtera Bag Kita sekalian Shalom salve Om Swastiastu namo Budha salam kebajikan yang saya hormati saudara Wakil Presiden Republik Indonesia para menteri koordinator para menteri kabinet merah putih Jaksa Agung kepala BIN Panglima TNI Kapolri Kasat ksal ksau para anggota tetap Dewan Pertahanan Nasional serta para anggota pakar strategis industri pertahanan yang saya"
+  },
+  {
+   "t": 54.0,
+   "d": 44.0,
+   "text": "hormati pertama-tama tentunya sebagai insan yang bertakwa marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Kuasa Allah subhanahu wa taala atas segala karunia yang telah diberikan kepada kita sekalian kita masih diberi kesehatan untuk kumpul di tempat yang baik ini melaksanakan ee kegiatan yang sangat penting yaitu sidang perdana dewan pertanaan nasional saudara-saudara"
+  },
+  {
+   "t": 98.0,
+   "d": 64.0,
+   "text": "sekalian sebagaimana tadi disampaikan oleh ketua harian bahwa Dewan Pertahanan Nasional itu diamanatkan oleh undang-undang Nomor 3 Tahun 2002 tentang pertahanan negara khususnya pasal 15 tentang pembentukan dewan pertanan nasional tapi baru kita wujudkan tahun 2024 berarti baru 22 tahun sesudah undang-undang disahkan kita sekarang memiliki dewan pertanian nasional sesuai perintah undang-undang Sesuai dengan amanat dari undang-undang Nomor 3 Tahun"
+  },
+  {
+   "t": 162.0,
+   "d": 59.0,
+   "text": "2002 saudara-saudara sekalian dalam hal ini saya ingin kembali sebagaimana tadi juga dilaporkan oleh ketua harian ya vitalnya masalah pertahanan bagi suatu negara Bahkan dalam pembukaan undang-undang dasar kita 1945 tujuan nasional pertama adalah melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia asas pertama adalah aszas perlindungan artinya azas pertahanan jadi saudara-saudara kalau"
+  },
+  {
+   "t": 221.0,
+   "d": 54.0,
+   "text": "kita pun lihat dalam bernegara saya berapa kali sudah menyampaikan bahwa dalam state ataupun bernegara aliran bernegara itu ada aliran ideologi aliran kemakmuran tapi yang sekarang menonjol yang sekarang mencuat dan yang sekarang sepertinya berlaku adalah aliran bernegara berdasarkan azas realisme adanya negara adalah tujuannya adalah Survival bagi bangsa kita Saya kira Terima kasih kawan-kawan dari media ya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

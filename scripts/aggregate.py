@@ -25,8 +25,14 @@ OUT = DATA / "home.json"
 
 
 def load_speeches() -> list[dict]:
-    return [json.loads(p.read_text(encoding="utf-8"))
+    rows = [json.loads(p.read_text(encoding="utf-8"))
             for p in sorted((DATA / "speeches").glob("*.json"))]
+    # Sama seperti build_site: arsip ini soal pidato Prabowo, jadi entri yang
+    # ternyata keterangan pers pejabat lain atau kunjungan tidak dihitung.
+    def terbit(d):
+        k = d.get("speaker_kind")
+        return True if k is None else k in ("pidato_prabowo", "prabowo_bicara")
+    return [d for d in rows if terbit(d)]
 
 
 def text_of(s: dict) -> str:
@@ -145,13 +151,25 @@ def main() -> int:
     STOP = set(prof.get("stopwords", []))
     PRONOUNS = set(prof.get("pronouns", []))
     words = Counter()
+    # Berapa PIDATO yang memuat kata ini. Penting untuk membedakan kata yang
+    # menumpuk di satu pidato panjang dengan kata yang tersebar di banyak
+    # pidato — dua hal yang sangat berbeda tapi angka mentahnya sama saja.
+    word_docs = Counter()
     for s in speeches:
+        seen = set()
         for w in re.findall(r"[a-z][a-z'-]{2,}", text_of(s).lower()):
             if w in STOP or w in PRONOUNS or len(w) < 4:
                 continue
             words[w] += 1
-    top_words = [{"word": w, "count": c, "per_1000": round(c / total_tokens * 1000, 2)}
-                 for w, c in words.most_common(60)]
+            seen.add(w)
+        for w in seen:
+            word_docs[w] += 1
+    total_docs = max(1, len(speeches))
+    top_words = [{"word": w, "count": c,
+                  "per_1000": round(c / total_tokens * 1000, 2),
+                  "speeches": word_docs.get(w, 0),
+                  "share": round(word_docs.get(w, 0) / total_docs * 100, 1)}
+                 for w, c in words.most_common(150)]
 
     # Sebaran panjang pidato — untuk histogram.
     buckets = [(0, 500), (500, 1000), (1000, 1500), (1500, 2000), (2000, 3000),

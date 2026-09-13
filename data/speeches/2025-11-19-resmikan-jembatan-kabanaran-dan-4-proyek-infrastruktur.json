@@ -1,0 +1,73 @@
+{
+ "id": "2025-11-19-resmikan-jembatan-kabanaran-dan-4-proyek-infrastruktur",
+ "video_id": "Xp8lmsj05y4",
+ "date": "2025-11-19",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Jembatan Kabanaran dan 4 Proyek Infrastruktur, Bantul, 19 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Xp8lmsj05y4",
+ "duration_s": 75,
+ "duration_hms": "1:15",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 77,
+ "unique_word_count": 59,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Xp8lmsj05y4",
+   "url": "https://www.youtube.com/watch?v=Xp8lmsj05y4",
+   "title": "Presiden Prabowo Resmikan Jembatan Kabanaran dan 4 Proyek Infrastruktur, Bantul, 19 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 26.0,
+   "d": 14.0,
+   "text": "mendengar arti historis dari tempat ini tempat perjuangan ee Pangeran Mangkubumi melawan Belanda."
+  },
+  {
+   "t": 40.0,
+   "d": 39.0,
+   "text": "markasnya di sini ee juga bahwa ini nanti akan diharapkan mempermudah konektivitas, mempermudah akses juga kepada daerah yang begitu indah, begitu penting dalam budaya Jawa, penuh ee spiritualitas dan kita mendengar ada rencana-rencana untuk membangun ee kawasan ini untuk mendukung pariwisata."
+  },
+  {
+   "t": 79.0,
+   "d": 8.0,
+   "text": "Saya sangat terkesan keindahan ini luar biasa juga desainnya sangat luar biasa."
+  },
+  {
+   "t": 87.0,
+   "d": 11.0,
+   "text": "Ee semoga yang maha kuasa selalu menyertai rakyat Yogyakarta."
+  },
+  {
+   "t": 98.0,
+   "d": 3.0,
+   "text": "Terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

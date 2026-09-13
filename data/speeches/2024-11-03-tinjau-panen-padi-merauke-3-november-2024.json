@@ -1,0 +1,63 @@
+{
+ "id": "2024-11-03-tinjau-panen-padi-merauke-3-november-2024",
+ "video_id": "NWSTT2z-FOU",
+ "date": "2024-11-03",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tinjau Panen Padi, Merauke, 3 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=NWSTT2z-FOU",
+ "duration_s": 207,
+ "duration_hms": "3:27",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "token_count": 186,
+ "unique_word_count": 109,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "NWSTT2z-FOU",
+   "url": "https://www.youtube.com/watch?v=NWSTT2z-FOU",
+   "title": "Presiden Prabowo Tinjau Panen Padi, Merauke, 3 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 4,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 8.0,
+   "d": 31.0,
+   "text": "jadi eh program cetak sawah di Merauke ini sebelum dilaksanakan cetak sawah yang pertama adalah dilaksanakan kegiatan namanya optimalisasi lahan nah optimalisasi lahan ini ee programnya di enam distrik atau di enam kecamatan yang ada di seputaran Kota Merauke ini luasannya sekitar 40.000 hektar mas nah 40.000 hektar Syukur Alhamdulillah Ini yang dari 40.000 hektar sudah tercapai 100% Mas yang dulu yang dari 40"
+  },
+  {
+   "t": 39.0,
+   "d": 37.0,
+   "text": "hektar ni rata-rata tanamnya hanya setahun sekali panen dengan program e optimalisasi lahan yaitu adanya perbaikan drainase terus kemudian ada bantuan untuk pengolahan-lahan setiap hektarnya r00.000 dari pemerintah kepada para petani ada bantuan pupuk dan la sebagainya sehingga mereka sekarang panennya dalam setahun bisa tiga kali Mas tiga kali tanam dan tiga kali panen mas Nah sekarang ini sedang proses e tanam ketiga Mas"
+  },
+  {
+   "t": 76.0,
+   "d": 139.0,
+   "text": "[Musik] tembak-tak sekarang a [Musik] [Musik] [Musik] karena ada program ini peningkatan hasil panen kami bertambah mengucap syukur dan berterima kasih untuk program yang sudah di adakan di Kabupaten broke [Tepuk tangan] [Musik] karena hanya tahu ada di tv kan Sekarang orangnya yang sudah tahu sendiri jadi aku pel aku cium Jalan sebelah sanaihih presiden saya gantinya Pak Presiden Jokowi rupanya Bagaimana orangnya Bagaimana sekarang sudah tahu"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

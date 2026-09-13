@@ -1,0 +1,68 @@
+{
+ "id": "2025-05-04-keterangan-pers-bandara-internasional-soekarno-hatta-4-mei",
+ "video_id": "O0hiVqHtkRw",
+ "date": "2025-05-04",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo, Bandara Internasional Soekarno-Hatta, 4 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=O0hiVqHtkRw",
+ "duration_s": 90,
+ "duration_hms": "1:30",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 160,
+ "unique_word_count": 105,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "O0hiVqHtkRw",
+   "url": "https://www.youtube.com/watch?v=O0hiVqHtkRw",
+   "title": "Keterangan Pers Presiden Prabowo, Bandara Internasional Soekarno-Hatta, 4 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 27.0,
+   "text": "I kita berjuang iya sama semua pihak Menteri Agama, Kepala Badan Haji semuanya. Kita sedang mencari yang paling mungkin kita turunin lagi. Turunin lagi. Kita akan berangkat ke Arab Saudi. Saya sudah minta waktu akan jumpa dengan pemerintah, dengan e pemimpin-pemimpin Arab Saudi. Kita berniat membangun perkampungan Indonesia."
+  },
+  {
+   "t": 27.0,
+   "d": 20.0,
+   "text": "Nanti penerbangan juga kita akan bikin efisien semuanya. Di mana yang bisa kita kurangi biaya kita harus lakukan ya, Pak. Jadi hasil peninjauan tadi seperti apa, Pak? Hasilnya, Pak, kalau dilihat apa soal peninjauan tadi seperti apa, Pak? Saya kira sangat baik. Luar biasa. Ini inisiatif bersejarah ya."
+  },
+  {
+   "t": 47.0,
+   "d": 40.0,
+   "text": "Kita sendiri lihat dulu jemaah kita di luar di tenda panas-panas banyak sudah lanjut usia banyak yang di kursi roda. Sekarang kita berbuat lebih manusiawi, lebih nyaman, lebih aman. Saya kira ini sesuatu prestasi. Terima kasih semua pihak Menteri BUMN, semua jurni Angkasapura. Menteri Perhubungan, Menteri Agama. Kita satu tim yang sangat bagus. Sekarang kerjanya semua adalah memberi pelayanan yang terbaik untuk"
+  },
+  {
+   "t": 87.0,
+   "d": 3.0,
+   "text": "rakyat kita. Oke, pesan"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

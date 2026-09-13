@@ -1,0 +1,83 @@
+{
+ "id": "2025-03-10-keterangan-pers-menteri-ketenagakerjaan-yassierli-jakarta-10",
+ "video_id": "_uwmjM4iQ-s",
+ "date": "2025-03-10",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Ketenagakerjaan Yassierli, Jakarta, 10 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=_uwmjM4iQ-s",
+ "duration_s": 279,
+ "duration_hms": "4:39",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 35,
+ "token_count": 450,
+ "unique_word_count": 182,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "_uwmjM4iQ-s",
+   "url": "https://www.youtube.com/watch?v=_uwmjM4iQ-s",
+   "title": "Keterangan Pers Menteri Ketenagakerjaan Yassierli, Jakarta, 10 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 44.0,
+   "text": "teman-teman media yang saya hormati eh enggak lupa saya ucapkan eh selamat puasa Bagi yang puasa dan buat teman-teman semua jadi Tadi Alhamdulillah kita sudah dengarkan bersama eh apa yang disampaikan oleh Bapak Presiden Bapak Prabowo terkait dengan dua hal yang pertama itu adalah THR untuk pekerja swasta Bun dan BUMD yang memang biasanya rutin tiap tahun ee kami keluar dengan sebuah e surat edaran dari Kementerian Ketenagakerjaan dan Insyaallah kita akan"
+  },
+  {
+   "t": 44.0,
+   "d": 39.0,
+   "text": "ee umumkan Segera ya Eh jadwalnya Insyaallah besok gitu ya jadwalnya Insyaallah besok kita akan umumkan Kemudian yang kedua Tadi Alhamdulillah ee sesuai dengan apa yang disampaikan oleh pak presiden ee hadir juga perwakilan dari ee apa ee pemilik aplikasi dan kemudian juga hadir juga dari perwakilan pekerja ee bagaimana tadi bapak presiden menyampaikan eh meminta e menghimbau untuk adanya bonus hari raya"
+  },
+  {
+   "t": 83.0,
+   "d": 39.0,
+   "text": "yang dibayarkan kepada pekerja eh kepada pengemudi dan kurir online ee yang nanti detailnya kita juga rencana akan umumkan segera tapi poin penting yang saya ingin sampaikan adalah Eh ini melalui suatu proses yang kita sebut dengan meaningful participation jadi sebuah proses diskusi yang EE cukup panjang dan memang itulah harapan kami bahwa kita sebenarnya dengan duduk bersama kita bisa menyepakati dan kemudian itu menjadi solusi yang"
+  },
+  {
+   "t": 122.0,
+   "d": 43.0,
+   "text": "terbaik buat semua jadi ee detailnya Insyaallah kita ee masih kita akan segera umumkan ya ee tadi kita sudah eh bersepakat untuk eh final touch-nya itu Insyaallah besok ya jadi eh semoga besok itu kita bisa umumkan detailnya Seperti apa mungkin itu ee teman-teman semua di undangan GP Apakah juga besok akan dipaktikan bahwa sesuai ketentuan sesuai ketentuan Insyaallah dan eh bila perusahaan melanggar atau"
+  },
+  {
+   "t": 165.0,
+   "d": 56.0,
+   "text": "ey apa eh pengelolaan dariak Iya itu kan sebagai sesuatu regulasi yang harus di yang harus diperhatikan ya Jadi ada lagi untuk e sendiri ada besaran yang dipatak tadi seperti kata bapak presiden ee Saya tidak mau mendahului ya jadi nanti kita akan resmik kita akan Jelaskan ee se-nya ya Ee Insyaallah Semoga besok bersama dengan perwakilan dari ee apa dari pemilik ya pengelola aplikasi dan juga ee pengemudi dan kurir online kita bisa umumkan bersama besok ya"
+  },
+  {
+   "t": 221.0,
+   "d": 38.0,
+   "text": "Insyaallah i tadi yang pertama kan tentu bertahap dan yang kedua saya selalu mengatakan eh eh yang kita lakukan itu adalah meaningful participation dan ini adalah kunci untuk kita keluar dengan sebuah ee kesepakatan kekeluargaan yang untuk kebaikan untuk kita semua Insyaallah besok kita bahas ya diberik E PH kepada ojol itu apakah merubah statusnya sebagai dari Mitra atau pekerja Pak eh kita belum ke sana"
+  },
+  {
+   "t": 259.0,
+   "d": 20.0,
+   "text": "belum ke sana ya jadi iya artinya kan tadi sudah jelas ya ee kebijakan dan permintaan dari bapak presiden dan kami berharap itu tentu diperhatikan Ya baik besok ya kita tunggu ya Kita tunggu untuk detail terkait dengan surat edarannya seperti apa Makasih semua"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

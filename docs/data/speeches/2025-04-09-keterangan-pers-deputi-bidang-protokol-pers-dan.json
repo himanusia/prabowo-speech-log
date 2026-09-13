@@ -1,0 +1,103 @@
+{
+ "id": "2025-04-09-keterangan-pers-deputi-bidang-protokol-pers-dan",
+ "video_id": "eeRCT3YSbps",
+ "date": "2025-04-09",
+ "date_precise": true,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Ankara, 9 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=eeRCT3YSbps",
+ "duration_s": 171,
+ "duration_hms": "2:51",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 239,
+ "unique_word_count": 134,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "eeRCT3YSbps",
+   "url": "https://www.youtube.com/watch?v=eeRCT3YSbps",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Ankara, 9 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 25.0,
+   "text": "Alhamdulillah malam ini pukul 19.30 waktu Ankara Bapak Presiden Republik Indonesia Bapak Prabowo telah tiba di Ankara dan langsung disambut oleh Yang Mulia Presiden Errogan tepat di bawah tangga. Tadi kita saksikan beliau bersalaman hangat kemudian berpelukan."
+  },
+  {
+   "t": 26.0,
+   "d": 27.0,
+   "text": "momen itu sekaligus kembali memperlihatkan kedekatan personal antara kedua pemimpin Bapak Presiden Perbowo dan Bapak Presiden Erdogan termasuk ada jajar kehormatan dari pasukan kehormatan Turki. Kemudian setelah itu beliau ke hotel untuk bermalam."
+  },
+  {
+   "t": 53.0,
+   "d": 12.0,
+   "text": "Besoknya dijadwalkan siang hari Bapak Presiden Republik Indonesia Bapak Prabowo akan pidato di Parlemen Turki."
+  },
+  {
+   "t": 65.0,
+   "d": 23.0,
+   "text": "Rencananya akan dihadiri oleh anggota parlemen, kemudian juga para undangan lainnya. Setelah dari gedung parlemen diagendakan sekitar pukul 15.30 30 akan ada upacara penyambutan kenegaraan di istana Presiden Erdohan di istana Turki."
+  },
+  {
+   "t": 88.0,
+   "d": 10.0,
+   "text": "Upacara ini diawali dengan lagu kebangsaan kedua negara, kemudian dilakukan inspeksi pasukan."
+  },
+  {
+   "t": 98.0,
+   "d": 18.0,
+   "text": "Setelah itu akan ada perkenalan dua delegasi kedua negara baik dari pihak Turki maupun juga tentu saja dari pihak Indonesia. Setelah itu akan ada pertemuan tetat antara Bapak Presiden Prabowo dengan Presiden Satogan."
+  },
+  {
+   "t": 116.0,
+   "d": 23.0,
+   "text": "Kemudian dilanjutkan dengan bilateral meeting dan juga akan ada penandatanganan beberapa MOU yang sedang dipersiapkan. Kemudian setelah itu akan memberikan keterangan pes oleh Bapak Presiden dan juga Bapak Presiden Agogat."
+  },
+  {
+   "t": 139.0,
+   "d": 16.0,
+   "text": "Setelah dari Ankara, Bapak Presiden juga dijadwalkan akan menghadiri ADF. ADF ini adalah Antalia diplomasi forum yang akan dilaksanakan di Antalya."
+  },
+  {
+   "t": 155.0,
+   "d": 11.0,
+   "text": "Kemudian setelah kegiatan di Antalya selesai direncanakan Bapak Presiden akan melanjutkan lawatan ke Timur Tengah."
+  },
+  {
+   "t": 166.0,
+   "d": 3.0,
+   "text": "Negara berikutnya adalah Mesir."
+  },
+  {
+   "t": 169.0,
+   "d": 3.0,
+   "text": "Sementara demikian yang dapat kami sampaikan kepada teman-teman. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

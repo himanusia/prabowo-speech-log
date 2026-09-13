@@ -1,0 +1,92 @@
+{
+ "id": "2025-04-23-keterangan-pers-usai-luncurkan-program-gerakan-menanam",
+ "video_id": "GXI54W2zw6E",
+ "date": "2025-04-23",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Luncurkan Program Gerakan Indonesia Menanam, 23 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=GXI54W2zw6E",
+ "duration_s": 173,
+ "duration_hms": "2:53",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 249,
+ "unique_word_count": 154,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "GXI54W2zw6E",
+   "url": "https://www.youtube.com/watch?v=GXI54W2zw6E",
+   "title": "Keterangan Pers Presiden Prabowo Usai Luncurkan Program Gerakan Indonesia Menanam, 23 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 9,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {
+  "Swasembada": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 6.0,
+   "d": 54.0,
+   "text": "Pak soal gren aja pak menangapi ini Pak saya tadi e sangat bahagia gembira bangga ada inisiatif membuat gerakan Indonesia menanam dengan segala hasil risetnya sendiri inovasi kerja sama antara unsur tadi ada unsur ulama-ulama ulama saudagar tadi para teknokrat para insinyur para ahli ada ahli tadi ahli biologi ahli kimia ahli pertanian ahli komputer ini semua jadi ee masalah pertanian ini sekarang adalah ee membutuhkan sains dan teknologi ya untuk kita"
+  },
+  {
+   "t": 60.0,
+   "d": 11.0,
+   "text": "mampu swasembada tiap tahun jumlah penduduk kita tambah berapa? Sekitar 3,5 juta ya tiap tahun juta."
+  },
+  {
+   "t": 71.0,
+   "d": 17.0,
+   "text": "Bayangkan dalam 10 tahun 35 juta tambahan. Kalau kita tidak inovatif, kita sudah pakai teknologi, kita tidak punya keberanian untuk mulai ya bikin lumbung pangan."
+  },
+  {
+   "t": 88.0,
+   "d": 21.0,
+   "text": "nasional, lumbung pangan provinsi, lumbung pangan kabupaten, lumbung pangan kecamatan sampai lumbung pangan desa. Tadi Menkupangan mengatakan kalau tiap keluarga punya lima pot cabe, sudah enggak mahal lagi, Pak, cabe. Harga cabe tidak akan pernah mahal."
+  },
+  {
+   "t": 109.0,
+   "d": 9.0,
+   "text": "Setiap keluarga bisa punya cabe sendiri, mungkin punya tomat sendiri."
+  },
+  {
+   "t": 118.0,
+   "d": 17.0,
+   "text": "timun sendiri. Halaman kecil pun bisa pelihara ikan lele. Ya, kita nanti latih yang bertingkat itu hidroponik, bertingkat vertikal. Jadi sekarang ini semua unsur bersatu."
+  },
+  {
+   "t": 135.0,
+   "d": 32.0,
+   "text": "Ibarat kita membuat suatu tim tim nasional untuk mencapai apa yang kita cita-citakan ya. Bahwa kita aman, kuat, stabil. Kita enggak bisa di sibukkan, dikacaukan oleh aduh kekuatan manaun. Kita tidak mau ganggu bangsa lain, tapi kita harus jamin kesejahteraan rakyat kita, Pak."
+  },
+  {
+   "t": 167.0,
+   "d": 12.0,
+   "text": "Potensi potensi sumsel Bapak lihat seperti apa, Pak? Luar biasa. Luar biasa. Oke. He tadi dilaporkan kita akan naik 25% produksi Sumatera Selatan P aja sejuta. Pak yang"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

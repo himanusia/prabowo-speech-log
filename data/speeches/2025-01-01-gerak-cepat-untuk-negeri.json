@@ -1,0 +1,83 @@
+{
+ "id": "2025-01-01-gerak-cepat-untuk-negeri",
+ "video_id": "JrFZJkcM5r4",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo, Gerak Cepat Untuk Negeri",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=JrFZJkcM5r4",
+ "duration_s": 131,
+ "duration_hms": "2:11",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 124,
+ "unique_word_count": 70,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "JrFZJkcM5r4",
+   "url": "https://www.youtube.com/watch?v=JrFZJkcM5r4",
+   "title": "Presiden Prabowo, Gerak Cepat Untuk Negeri",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 6,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 3,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 22.0,
+   "text": "[musik] [musik] Kita mampu dengan kekuatan kita bertindak dan bergerak cepat meresmikan 218 [musik] jembatan."
+  },
+  {
+   "t": 24.0,
+   "d": 29.0,
+   "text": "[musik] Sekarang kami tidak kewalan lagi dan tidak membuka sepatu lagi kalau kami pergi ke sekolah. Terima kasih Bapak Presiden. [musik] Sekolah harus bagus, harus bersih, harus baik. Tidak boleh ada sekolah yang atapnya runtuh."
+  },
+  {
+   "t": 53.0,
+   "d": 3.0,
+   "text": "Tidak boleh ada sekolah yang tidak ada WC."
+  },
+  {
+   "t": 56.0,
+   "d": 5.0,
+   "text": "Bagaimana bisa satu sekolah toiletnya hanya satu, [musik] WC-nya satu?"
+  },
+  {
+   "t": 61.0,
+   "d": 11.0,
+   "text": "Bagaimana bisa kita harus memperbaiki sebanyak-banyak sekolah seluruh Indonesia dalam waktu secepat-cepatnya."
+  },
+  {
+   "t": 72.0,
+   "d": 32.0,
+   "text": "[musik] [musik] Ini bukti sekali lagi bahwa pemerintah pusat, pemerintah Republik Indonesia hadir hadir di tingkat yang terkecil sekalipun [musik] di desa, di dusun, di dukuh, pemerintah Republik Indonesia tidak akan membiarkan rakyatnya dalam penderitaan [musik] dan dalam kesulitan."
+  },
+  {
+   "t": 104.0,
+   "d": 29.5,
+   "text": "[musik] [musik] [musik] [musik] [musik] Yes"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

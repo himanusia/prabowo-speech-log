@@ -1,0 +1,92 @@
+{
+ "id": "2026-03-05-keterangan-pers-menteri-esdm-bahlil-lahadalia-jakarta",
+ "video_id": "52s1kQVKR5A",
+ "date": "2026-03-05",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 5 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=52s1kQVKR5A",
+ "duration_s": 147,
+ "duration_hms": "2:27",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "token_count": 320,
+ "unique_word_count": 161,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "52s1kQVKR5A",
+   "url": "https://www.youtube.com/watch?v=52s1kQVKR5A",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 5 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "PLTS / energi surya": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 17.0,
+   "text": "Teman-teman media, kami baru selesai melakukan rapat terbatas dengan Bapak Presiden yang pembahasannya ada lebih pada implementasi energi bersih dan terbarukan."
+  },
+  {
+   "t": 18.0,
+   "d": 31.0,
+   "text": "di dalamnya termasuk kaitannya dengan 100 eh gigawt untuk PLTS, kemudian energi baru terbarukan, dan juga adalah percepatan konversi kit dari kenderaan bermotor kita yang 120 juta motor yang memakai bensin. Kita akan mencoba bertahap untuk melakukan konversi ke motor listrik. Nah, kaitan dengan hal tersebut Bapak Presiden sangat ee berkeinginan untuk implementasinya dilakukan segera dan insyaallah kita"
+  },
+  {
+   "t": 49.0,
+   "d": 37.0,
+   "text": "akan melakukan dalam kurung waktu yang tidak lama. ee Bapak Presiden menyampaikan bahwa maksimal 3 sampai 4 tahun bahkan kalau bisa lebih cepat lagi. Dan karena itu Pak Presiden membentuk ee tim Satgas untuk bisa melakukan percepatan ini. Dan tadi kami diberikan tugas sebagai oleh Bapak Presiden sebagai ketua satgas dalam menjalankan dan menterjemahkan secara cepat. Sudah berang tentu orientasinya adalah transisi energi bisa kita lakukan cepat, tapi juga kita bisa mengurangi subsidi. Karena dengan kita mengkonversi"
+  },
+  {
+   "t": 86.0,
+   "d": 13.0,
+   "text": "dari PLTD diesel ke PLTS itu akan mengakibatkan efisiensi terhadap subsidi listrik kita dan sekaligus kita mendorong percepatan untuk pembagian motor dan mobil listrik. Saya pikir itu."
+  },
+  {
+   "t": 99.0,
+   "d": 25.0,
+   "text": "Kalau yang motor listrik tadi berarti nanti motor bensin ini bakal diubah, Pak. Kan sebelumnya ada subsidi juga, Pak. itu bakal di sebelumnya memang ada konversi setiap tahun ada sekitar 200.000 motor yang dikonversi dari motor listrik dari motor bensin ke motor listrik tapi sekarang kan sudah mulai ada teknologinya lebih murah jadi mungkin sekitar 4 5 sampai 6 juta. Jadi semakin ke sini semakin ee murah dan itu akan berupaya untuk ee"
+  },
+  {
+   "t": 124.0,
+   "d": 4.0,
+   "text": "pemerintah bisa hadir bersama-sama dalam mengurangi beban mereka dalam konversi."
+  },
+  {
+   "t": 128.0,
+   "d": 17.0,
+   "text": "Jadi programnya subsidi lagi, Pak, kayak ee semacam begitu tapi nanti kita cari formulasinya yang baik. Satgas kan baru dibentuk, baru diumumkan hari ini. Jadi, habis ini kami akan melakukan kerja-kerja Satgas sehingga perencanaannya lebih-lebih betul-betul presisi. Ya, setidaknya untuk 2026 ini berapa banyak motor yang mau dikonversi?"
+  },
+  {
+   "t": 145.0,
+   "d": 3.0,
+   "text": "Bapak Satgas baru dibentuk hari ini, Pak. Tunggu saya kerja dulu baru saya laporkan ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,72 @@
+{
+ "id": "2025-01-01-keterangan-pers-deputi-bidang-protokol-pers-dan",
+ "video_id": "PXZsPM7Wtns",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media terkait Survei Kepuasan Publik, 29 Jan 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=PXZsPM7Wtns",
+ "duration_s": 109,
+ "duration_hms": "1:49",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 166,
+ "unique_word_count": 115,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "PXZsPM7Wtns",
+   "url": "https://www.youtube.com/watch?v=PXZsPM7Wtns",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media terkait Survei Kepuasan Publik, 29 Jan 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 9,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 36.0,
+   "text": "pemerintah tentu saja menyabut baik hasil survei yang menunjukkan Tingginya tingkat kepuasan masyarakat terhadap kinerja bapak presiden Prabowo dan kabinet merah putih dalam 100 hari pertama masa kerja Hasil tersebut mencerminkan kepercayaan dan dukungan rakyat terhadap langkah-langkah yang telah diambil oleh pemerintah dalam menjalankan agenda prioritas nasional kepuasan publik ini pasti menjadi motivasi sekaligus tanggung jawab untuk"
+  },
+  {
+   "t": 36.0,
+   "d": 35.0,
+   "text": "terus bekerja cerdas lebih keras konsisten dan inovatif dalam memenuhi harapan untuk meningkatkan kesejahteraan rakyat pemerintah juga telah memulai program unggulan seperti program makan bergizi gratis yang bertujuan untuk meningkatkan kualitas hidup Masyarakat khususnya para generasi muda pemerintah tidak akan pernah puas dan tidak terlena dengan hasil survei ini Pemerintah dipastikan akan terus memperkuat"
+  },
+  {
+   "t": 71.0,
+   "d": 35.0,
+   "text": "koordinasi antar lembaga menjaga stabilitas politik meningkatkan transparansi efisiensi dan akuntabilitas serta memastikan bahwa setiap langkah-langkah kebijakan yang diambil harus berpihak kepada kepentingan rakyat rakyat Indonesia pemerintah mengucapkan terima kasih kepada seluruh rakyat Indonesia atas dukungan dan kepercayaan kepada pemerintah dan pemerintah berkomitmen untuk terus bekerja tanpa henti demi"
+  },
+  {
+   "t": 106.0,
+   "d": 3.0,
+   "text": "mewujudkan Indonesia yang maju adil dan sejahtera"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

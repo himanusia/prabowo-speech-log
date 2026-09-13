@@ -1,0 +1,77 @@
+{
+ "id": "2025-06-05-keterangan-pers-bengkayang-5-juni-2025",
+ "video_id": "qfj5NiwiZLc",
+ "date": "2025-06-05",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo, Bengkayang, 5 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=qfj5NiwiZLc",
+ "duration_s": 89,
+ "duration_hms": "1:29",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 134,
+ "unique_word_count": 80,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "qfj5NiwiZLc",
+   "url": "https://www.youtube.com/watch?v=qfj5NiwiZLc",
+   "title": "Keterangan Pers Presiden Prabowo, Bengkayang, 5 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 39.0,
+   "text": "Ya, tadi kita sangat bahagia, sangat bersyukur ya. Ini bukti dengan sinergitas, dengan kerja sama semua unsur ee kita produksi pangan kita sangat ee meningkat luar biasa. Ee tahun ini saja kuartal pertama peningkatannya sudah 50% 48, sekian hampir 50% kuartal pertama. Jadi mungkin cita-cita kita soal sembada jagung mungkin tidak sampai 2 3 tahun, mungkin 1 tahun kita sudah selanj."
+  },
+  {
+   "t": 40.0,
+   "d": 9.0,
+   "text": "E benihnya juga benih kita variatas yang bagus ee pupuknya juga banyak yang organik."
+  },
+  {
+   "t": 49.0,
+   "d": 16.0,
+   "text": "Jadi ee kita sangat sangat bahagia, sangat optimis. Terima kasih Kapoli, Menteri Pertanian, Gubernur, semua unsur Menteri Perdagangan, Panglima TNI ini kerja sama semua ini sangat membahagiakan."
+  },
+  {
+   "t": 65.0,
+   "d": 14.0,
+   "text": "Kita akan jadi cita-cita kita tidak sekedar hanya sasada pangan. Saya sangat yakin kita akan menjadi lumbung pangan dunia."
+  },
+  {
+   "t": 79.0,
+   "d": 11.0,
+   "text": "kita bisa menjadi solusi bagi masalah banyak negara lain yang sedang dilanda kelaparan dan kekeringan. Oke, terima kasih Pak Presiden."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

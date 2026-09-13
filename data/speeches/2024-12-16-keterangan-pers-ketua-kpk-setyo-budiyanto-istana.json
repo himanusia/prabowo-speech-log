@@ -1,0 +1,87 @@
+{
+ "id": "2024-12-16-keterangan-pers-ketua-kpk-setyo-budiyanto-istana",
+ "video_id": "jzOh89HaKZ8",
+ "date": "2024-12-16",
+ "date_precise": true,
+ "title": "Keterangan Pers Ketua KPK Setyo Budiyanto, Istana Negara, 16 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=jzOh89HaKZ8",
+ "duration_s": 199,
+ "duration_hms": "3:19",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 438,
+ "unique_word_count": 203,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "jzOh89HaKZ8",
+   "url": "https://www.youtube.com/watch?v=jzOh89HaKZ8",
+   "title": "Keterangan Pers Ketua KPK Setyo Budiyanto, Istana Negara, 16 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 4,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Korupsi dan kebocoran": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 34.0,
+   "text": "Saya kira ini kegiatannya hanya pelantikan dan penyumpahan saja sebagaimana tadi semua rekan-rekan media saksikan ya Jadi kita semua berlimah bersama dengan seluruh dewan pengawas kegiatannya Hari ini tepat 1330 dilantik dan disumpah oleh Bapak Presiden gituah tadi terkait masalah arahan dan lainlain ya kita berpedoman saja dengan e tuas dansi dari Komisi an korupsi itu yang akan kami pedoman nanti eh setelah ini kami akan berkoordinasi"
+  },
+  {
+   "t": 35.0,
+   "d": 39.0,
+   "text": "dengan bapak Sekjen KPK kegiatannya apa E Apakah hari ini ataukah mungkin besok ya nanti akan kami laksanakan Sesuai dengan jadwal Pak Presiden Prabu beberapa kali menegaskan e korupsi itu I kalau soal itu kan dari mulai beliau Pada saat eh di se gedung Senayan itu kan sudah dengan tegas ya kemudian di acara kegiatan di Sentul yang dihadiri oleh pejabat pemerintah ya dan beberapa event kegiatan-kegiatan yang sifatnya resmi beliau kan sudah dengan tegas ya menyampaikan bahwa"
+  },
+  {
+   "t": 74.0,
+   "d": 32.0,
+   "text": "kegiatan-kegiatan berhubungan dengan APBN pemborosan korupsi harus diberantas dengan tegas Nah itu menurut saya sudah merupakan suatu arahan kepada kami semuanya Kami pedomani itu bagaimana caranya supaya kami bisa ikut mendukung program dari bapak presiden untuk menjaga ee supaya pemerintahan ini tidak banyak melakukan pemberosan tapi bn-nya bisa terjaga dengan baik ya kemudian masalah ee pengadaan barang dan jasa itu betul-betul sesuai dengan"
+  },
+  {
+   "t": 106.0,
+   "d": 32.0,
+   "text": "ketentuan kemudian juga beliau banyak melakukan instruksi tentang ee pengetatan masalah perjalanan dinas Nah itu bagian-bagian itu nanti kami akan menjabarkan supaya disesuaikan dengan ketentuan program prior dilakukan untuk memastikan semua itu bisa dicapai Pak untuk lima pimpinan baru ini e apa sih yang akan dilakukan supaya I kalau soal itu bicaranya kan hari ini kami pelantikan Ya pastinya kami semua lima orang kan punya visi masing-masing ya dari situ nanti kami akan bicara duduk"
+  },
+  {
+   "t": 138.0,
+   "d": 26.0,
+   "text": "bersama kami sesuaikan itulah akan menjadi program jangka pendek jangka sedang dan jangka panjang Pak komitmennya untuk kasus-kasus yang masih belum selesai sampai sekarang ya pasti nanti kami akan evaluasi kami akan duduk bersama dengan kedeputian penindakan Kita sesuaikan mana yang harus kita prioritaskan mana yang mandek mana yang macet mana yang menjadi skala prioritas Bagaimana ya semuanya Kami akan evaluasi apa yang sudah dilakukan apa yang belum"
+  },
+  {
+   "t": 164.0,
+   "d": 33.0,
+   "text": "semuanya pasti akan kami eh tinggalan-tinggalan apa nanti kan akan ada serah terima dari pejabat yang lama kepada yang EE baru nanti kami akan ee kaji semuanya dan itu tentu menjadi tanggung jawab dari pimpinan yang baru bimana Pak k ya beberapa kali kan sudah kami sampaikan salah satu kewenangan KPK kan bisa melakukan penyadapan ya untuk apa kalau misalkan kita punya kewenangan penyadapan kemudian tidak melakukan utt itu kan salah satu rangkaian kegiatannya kan dari penyadapan gitu yatikan tidak"
+  },
+  {
+   "t": 197.0,
+   "d": 3.0,
+   "text": "akan dihilangkan Berarti Pak ya tidak akan dihilangkan ya Pak ya kan sudah disebutkanupa kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

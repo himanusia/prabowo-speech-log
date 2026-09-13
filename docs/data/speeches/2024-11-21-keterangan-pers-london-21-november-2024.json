@@ -1,0 +1,87 @@
+{
+ "id": "2024-11-21-keterangan-pers-london-21-november-2024",
+ "video_id": "FcdliXHmqHc",
+ "date": "2024-11-21",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Subianto, London, 21 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=FcdliXHmqHc",
+ "duration_s": 284,
+ "duration_hms": "4:44",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 36,
+ "token_count": 416,
+ "unique_word_count": 189,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "FcdliXHmqHc",
+   "url": "https://www.youtube.com/watch?v=FcdliXHmqHc",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, London, 21 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 4,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 4,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 47.0,
+   "text": "tentunya ini kan kunjungan kehormatan ya saya datang E dan beliau sangat eh perhatian terhadap lingkungan terhadap eh pelestarian hutan pelestarian alam e di situ kita banyak e persamaan saya mengatakan saya sangat mendukung dan kita akan kerja sama beliau menyarankan saya jumpa dengan beberapa tokoh dari jaringan yang beliau telah bangun bertahun-tahun untuk memajukan masalah ini beliau sudah ke Indonesia dua kali dan Saya mengundang beliau untuk datang"
+  },
+  {
+   "t": 47.0,
+   "d": 56.0,
+   "text": "lagi Eh dan eh Saya kira intinya itu sama beliau saya juga ucap Terima kasih e waktu muda Saya pernah tinggal di sini sekolah di sini jadi itu dengan eh dengan raja ya dengan Perdana Menteri dengan menteri-menterinya kita bicara membahas kerja sama di berapa bidang eh mereka juga e minat membantu kita di berapa sektor sektor ekonomi tentunya perikanan kemudian pendidikan kesehatan jadi dan juga pertahanan dengan Wakil perdana menteri"
+  },
+  {
+   "t": 103.0,
+   "d": 44.0,
+   "text": "ya kita membahas beberapa masalah tentang bagaimana saya jelaskan rencana kita untuk menyelenggarakan makan bergizi untuk anak-anak kita mereka sangat kan sangat juga ee ingin mencari cara dan bentuk untuk membantu kita jadi banyak sekali dan EE tadi ini barusan saya baru berjumpa dengan eh pemimpin-pemimpin eh perusahaan-perusahaan besar di sini ada 19 ya 19 19 19 tokoh pemimpin dari Berapa besar dan EE tadi pagi dengan"
+  },
+  {
+   "t": 147.0,
+   "d": 51.0,
+   "text": "ee pimpinan dari di bp eh total eh mereka sudah komit investasi eh 8,5 miliar dolar jadi 7 miliar BP 1,5 miliar dari beberapa perusahan lain e jadi cukup produktiflah ya pertemuan-pertemuan kita hari ini mereka sangat ee ingin masuk ke Indonesia sebagian dari mereka sudah di Indonesia lebih dari 100 tahun prestasi mereka juga cukup baik saya kira ee ini menunjukkan apa optimisme mereka terhadap ekonomi kita ya kepercayaan ini juga di Brazil juga demikian"
+  },
+  {
+   "t": 198.0,
+   "d": 41.0,
+   "text": "di Amerika juga demikian di tionpok juga demikian Alhamdulillah ya sangat produktif Oke sesuai target dengan harapan mungkin pak agak agak agak melebihi Iya kan melebihi jadi saya pulang Bawa komitmen total 185 18,5 miliar dolar jadi saya kira ini cukup bagus menunjukkan kepercayaan Global terhadap ekonomi Indonesia ya Jadi kita ya tentunya kita harus lebih hati-hati kita tentunya pemerintah yang bersih mereka sangat menghargai e"
+  },
+  {
+   "t": 239.0,
+   "d": 42.0,
+   "text": "tingkat kita Oke Aga selanjutnya pakan ke Man Selan eh Saya kira acara resmi sudah selesai Oh masih ada satu dua pertemuan masih ada satu di London di London kalau negara selanjutnya Pak ada saya akan ke eh Emirates Abu Dhabi tanggal 23 23 ya saya diterima di Abu Dhabi tanggal 23 langsung pulang 24 Saya sudah di Jakarta ada bahasa khus Pak Yang nanti akan dibicar di mana Di Abu di ya antara dua negara sahabat yang sangat dekat ya"
+  },
+  {
+   "t": 281.0,
+   "d": 3.0,
+   "text": "pasti banyak yang dibahas yaima kasihim kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

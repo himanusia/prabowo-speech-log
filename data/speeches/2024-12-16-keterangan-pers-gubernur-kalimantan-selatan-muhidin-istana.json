@@ -1,0 +1,58 @@
+{
+ "id": "2024-12-16-keterangan-pers-gubernur-kalimantan-selatan-muhidin-istana",
+ "video_id": "wWc8cvFnSnM",
+ "date": "2024-12-16",
+ "date_precise": true,
+ "title": "Keterangan Pers Gubernur Kalimantan Selatan Muhidin, Istana Negara, 16 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=wWc8cvFnSnM",
+ "duration_s": 50,
+ "duration_hms": "0:50",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "token_count": 99,
+ "unique_word_count": 69,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "wWc8cvFnSnM",
+   "url": "https://www.youtube.com/watch?v=wWc8cvFnSnM",
+   "title": "Keterangan Pers Gubernur Kalimantan Selatan Muhidin, Istana Negara, 16 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 33.0,
+   "text": "Terima kasih asalamualaikum warahmatullahi wabarakatuh kebetulan kemarin kita mau pulang dapat undangan untuk pelantikan padahal kita sudah ketemu menteri Negeri bahwa mungkin pelantikan Sekalian aja nanti setelah tanggal 7 Februari tapi alhamdulillah kemarin ada surat e dari apa presiden bahwa kita akan dilantik pada hari ini Alhamdulillah jadi kita meneruskan sampai sampai nanti mungk mungkin tanggal 7 Februari kita meneruskan kembali karena kita terpilih menjadi"
+  },
+  {
+   "t": 33.0,
+   "d": 17.0,
+   "text": "gubernur Kalimantan Selatan Pak ada komunikasi enggak sih Pak dengan Pak Sabirin e yang mengundurkan diri belum sampai saat ini belum ketemu pernah ketemu lagi beliau tidak ada di tempat Ada lagi Ada lagi okeima kasih pakasih Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

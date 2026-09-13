@@ -1,0 +1,103 @@
+{
+ "id": "2025-07-07-keterangan-pers-sekretaris-kabinet-dan-wakil-menlu",
+ "video_id": "rkkpGwS1OGU",
+ "date": "2025-07-07",
+ "date_precise": true,
+ "title": "Keterangan Pers Sekretaris Kabinet dan Wakil Menlu, Rio de Janeiro, 7 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=rkkpGwS1OGU",
+ "duration_s": 222,
+ "duration_hms": "3:42",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 29,
+ "token_count": 375,
+ "unique_word_count": 180,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "rkkpGwS1OGU",
+   "url": "https://www.youtube.com/watch?v=rkkpGwS1OGU",
+   "title": "Keterangan Pers Sekretaris Kabinet dan Wakil Menlu, Rio de Janeiro, 7 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 14
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 16.0,
+   "text": "Oke. Baik, Teman-teman. Jadi, hari ini dan kemarin tepatnya tanggal 6 hari Minggu, kemudian sekarang tanggal 7 hari Senin, Juli 2025, Bapak Presiden Prabowo Subianto menghadiri KTT Bricks."
+  },
+  {
+   "t": 16.0,
+   "d": 13.0,
+   "text": "Dan hari ini adalah hari kedua sudah selesai yang mana ini artinya ada sejarah baru. Indonesia secara resmi mengikuti KTT Bricks yang pertama kali."
+  },
+  {
+   "t": 29.0,
+   "d": 44.0,
+   "text": "Dan ini adalah inisiasi dari Bapak Presiden. Kemudian di tahun yang sama kita diterima. Kemudian seluruh negara anggota BRIS dukung support dan akhirnya di tahun yang sama juga kita resmi menjadi anggota penuh BRIS ya. Kemudian dari awalnya bricks lima negara kemudian berkembang sehingga Indonesia menjadi anggota resmi ke-10 dari 11. Jadi satu Arab Saudi belum resmi gitu. Kemudian ini adalah eh dari Pak Presiden bagaimana caranya Indonesia berkolaborasi kemudian sebanyak mungkin bergabung dengan"
+  },
+  {
+   "t": 73.0,
+   "d": 40.0,
+   "text": "organisasi-organisasi sehingga inilah brak salah satunya yang kita ee bergabung. Dan kemarin dan hari ini beliau menjelaskan di depan ee banyak sekali kepala negara. Jadi tadi secara resmi ada 28 negara dan kepala negara, kepala pemerintahan ya. Jadi 10 anggota BRIS, kemudian ada 10 partner countries, kemudian ada 8 tamu dan ini banyak sekali yang antri untuk masuk bricks. Dan ya ini menunjukkan bahwa Indonesia semakin didengar, semakin"
+  },
+  {
+   "t": 113.0,
+   "d": 5.0,
+   "text": "diperhatikan, semakin dipandang, dan semakin dibutuhkan di dunia global ya."
+  },
+  {
+   "t": 118.0,
+   "d": 7.0,
+   "text": "Jadi di Bik sendiri dari 10 negara hampir 50% adalah populasi dunia."
+  },
+  {
+   "t": 125.0,
+   "d": 17.0,
+   "text": "Dan dari PDB-nya itu sekitar 35% 35% dari PDB global. Itu aja kira-kira teknisnya nanti ee dari Pak Women lu kemudian rilis kemen akan lebih lanjut. Oke ya. Silakan."
+  },
+  {
+   "t": 142.0,
+   "d": 31.0,
+   "text": "Terima kasih, Pak Seskap. Menambahi Pak Seskap tadi ee bahwa hari ini pembahasan hari ini ee mengenai lingkungan hidup dan mengenai global health, mengenai kesehatan. Ee tadi Bapak Presiden menyampaikan bahwa dampak-dampak dari perubahan iklim sangat dirasakan oleh Indonesia ee dan menyampaikan komitmen Indonesia untuk ee memerangi climate change dan juga utamanya ee proses upaya kita untuk ee melakukan energi transisi."
+  },
+  {
+   "t": 173.0,
+   "d": 40.0,
+   "text": "Ee tadi Bapak Presiden juga menyampaikan komitmennya untuk meneruskan membantu WHO ee dalam menangani masalah global health ee Indonesia terus ee mendukung langkah-langkah ee baik itu dalam konteks tib eh tubukologis maupun juga dalam konteks malaria. Ee hari ini fokusnya ee utamanya mengenai lingkungan hidup. Jadi banyak negara yang menyampaikan ee komitmen-komitmennya untuk menangani ee time change dan mempersiapkan kop 30 yang akan dilaksanakan bulan Oktober nanti."
+  },
+  {
+   "t": 213.0,
+   "d": 6.0,
+   "text": "Oke, saya rasa itu. Oke, kita ketemu di Brazil ya. Oke, Teman-teman. Makasih semuanya."
+  },
+  {
+   "t": 219.0,
+   "d": 3.0,
+   "text": "Makasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

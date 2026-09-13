@@ -1,0 +1,63 @@
+{
+ "id": "2024-12-16-pengantar-pada-rapat-terbatas-jelang-nataru-kantor",
+ "video_id": "0eO0o4CyPl4",
+ "date": "2024-12-16",
+ "date_precise": true,
+ "title": "Pengantar Presiden Prabowo pada Rapat Terbatas Jelang Nataru, Kantor Presiden, 16 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=0eO0o4CyPl4",
+ "duration_s": 146,
+ "duration_hms": "2:26",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 170,
+ "unique_word_count": 125,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "0eO0o4CyPl4",
+   "url": "https://www.youtube.com/watch?v=0eO0o4CyPl4",
+   "title": "Pengantar Presiden Prabowo pada Rapat Terbatas Jelang Nataru, Kantor Presiden, 16 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 53.0,
+   "text": "mohon perhatian Presiden dan Wakil Presiden Republik Indonesia memasuki ruang acara Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh selamat sore salam sejahtera Bag Kita sekalian sharom salve Om Swastiastu namo budhaya salam kebajikan saudara wakil presiden para Menko dan menteri kabinet merah putih Panglima TNI Kapolri kepala BIN pada sore hari ini sengaja saya kumpulkan para menteri dan pejabat"
+  },
+  {
+   "t": 53.0,
+   "d": 42.0,
+   "text": "terkait untuk mengecek dan memastikan kesiapan menghadapi hari Natal tahun 2024 dan tahun baru 2025 agar seluruh lapisan masyarakat dapat menjalankan hari-hari tersebut dengan penuh kebaikan penuh sukacita dan yang terpenting dengan penuh rasa aman dan nyaman persiapan perayaan hari Natal dan tahun baru ini memang sudah dibahas dalam beberapa kali rapat Dan saya yakin bahwa saudara-saudara juga sudah"
+  },
+  {
+   "t": 95.0,
+   "d": 51.0,
+   "text": "melakukan koordinasi dan persiapan yang sebaik-baiknya tapi saya ingin juga mendapat laporan yang terkini dari pihak keamanan juga dari sektor transportasi kemudian an tentang pasukan bahan bakar ketersediaan bahan pangan dan bahan-bahan pokok lainnya juga sektor Tenaga Kerja dan sektor pariwisata kalau begitu dengan demikian Saya mungkin persilakan mungkin ee kapalri mungkin akan melaporkan terima kasih fore"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

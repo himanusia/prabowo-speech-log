@@ -1,0 +1,95 @@
+{
+ "id": "2025-12-31-keterangan-pers-seskab-teddy-terkait-agenda-di",
+ "video_id": "JJf1NWrjxds",
+ "date": "2025-12-31",
+ "date_precise": true,
+ "title": "Keterangan Pers Seskab Teddy terkait Agenda Presiden Prabowo di Tapanuli Selatan, 31 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=JJf1NWrjxds",
+ "duration_s": 148,
+ "duration_hms": "2:28",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 326,
+ "unique_word_count": 163,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "JJf1NWrjxds",
+   "url": "https://www.youtube.com/watch?v=JJf1NWrjxds",
+   "title": "Keterangan Pers Seskab Teddy terkait Agenda Presiden Prabowo di Tapanuli Selatan, 31 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 1
+  },
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 14.0,
+   "text": "Jadi apa nanti belajar?"
+  },
+  {
+   "t": 15.0,
+   "d": 34.0,
+   "text": "[tertawa] E jadi di Bung Sian itu di sini kan di Batang Toru Selatan itu warganya mayoritas sudah kembali ke rumah masing-masing. Tetapi di pengungsian itu ada tetap dapur kemudian logistik di situ. Jadi kadang kala masyarakat datang kadang kala kembali ada sudah mulai bekerja. ini karena malam tahun baru nanti Bapak Presiden menginap di sini selatan kemudian ya mungkin makan malam bersama warga setempat kemudian salam-salaman di sana kemudian ada ee"
+  },
+  {
+   "t": 49.0,
+   "d": 18.0,
+   "text": "nonton film layar tancap begitu di sama warga itu berarti sampai jam 12.00 malam ya Mas tahun baruan sama warga di jam makan malam karena mereka sudah ada jam makan malamnya mungkin jam jam 0.30 30 sesuai yang sudah ada di sini. Kita sudah siapkan juga di sana. Memang tempat pengungsian khusus ya."
+  },
+  {
+   "t": 67.0,
+   "d": 1.0,
+   "text": "Kalau penanganannya gimana, Mas?"
+  },
+  {
+   "t": 68.0,
+   "d": 21.0,
+   "text": "Penanganan pasca bencana di sini termasuk jembatan Bailey yang tadi tadi itu salah satu jembatan yang baru saja jadi kemarin jadi. Jadi kalau ee 4 hari lalu kan ada 12. Kemudian di batang yang ke-13 tadi Pak Presiden tinjau langsung ee itu menghubungkan Tabuan Noli Selatan ke Taban Noli Tengah."
+  },
+  {
+   "t": 89.0,
+   "d": 19.0,
+   "text": "Makanya tadi ada Bupati Masinton kan perbatasan dan salah satu rute yang sulit juga karena tadi Anda lihat sendiri kanan kirinya sudah pembersihan juga sudah e beberapa minggu ini ya. Ini Anda lihat sendiri ekonomi sudah berjalan tadi warga warung-warung buka, kemudian toko-toko UMKM kecil sudah buka, sudah berjalan."
+  },
+  {
+   "t": 108.0,
+   "d": 19.0,
+   "text": "Berarti secara penuh sudah bisa berjalan ya jembatannya Mas? sudah bisa diakses tentunya karena baru 2 hari ya ada buka tutup begitu kemudian gantian biasa kita tes agar walaupun selesainya cepat tapi kita mau aman jadi tidak hanya asal cepat yang penting aman juga itu aja kira-kira oke kalau agenda 2026 awal tanggal 1 apa, Mas Presiden?"
+  },
+  {
+   "t": 127.0,
+   "d": 22.0,
+   "text": "Besok ke Aceh Tamiang. Jadi menginap di sini tempat selatan bermalam tahun baruan bersama warga. Kemudian besok pagi ke Aceh Kamiang ada rumah hunian yang dibuat danantara atau Bapak Presiden. Besok kita cek seharusnya 500600 insyaallah jadi e ya besok kita cek gimana perkembangan itu aja. Terima kasih ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

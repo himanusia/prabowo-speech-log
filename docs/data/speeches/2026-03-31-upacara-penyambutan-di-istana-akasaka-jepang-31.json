@@ -1,0 +1,98 @@
+{
+ "id": "2026-03-31-upacara-penyambutan-di-istana-akasaka-jepang-31",
+ "video_id": "1LZL_OtzJC0",
+ "date": "2026-03-31",
+ "date_precise": true,
+ "title": "Upacara Penyambutan Resmi Presiden Prabowo di Istana Akasaka Jepang, 31 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=1LZL_OtzJC0",
+ "duration_s": 737,
+ "duration_hms": "12:17",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 172,
+ "unique_word_count": 117,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "1LZL_OtzJC0",
+   "url": "https://www.youtube.com/watch?v=1LZL_OtzJC0",
+   "title": "Upacara Penyambutan Resmi Presiden Prabowo di Istana Akasaka Jepang, 31 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 40.0,
+   "d": 521.0,
+   "text": "Suka S S S Mulia Bapak Presiden Prabanto dan semua delikasi dari kabat Indonesia. Selamat datang di Jepang."
+  },
+  {
+   "t": 561.0,
+   "d": 8.0,
+   "text": "Saya sangat bahagia dapat bertemu kembali dengan Yang Mulia setelah terakhir bertemu pada KP KPE di Korea Selatan."
+  },
+  {
+   "t": 569.0,
+   "d": 35.0,
+   "text": "November lalu kita duduk bersin bersyukur atas kemajuan berbagai kerja sama antara Jepang dan Indonesia, terutama di bidang ekonomi dan keamanan."
+  },
+  {
+   "t": 604.0,
+   "d": 15.0,
+   "text": "Saya ingin bersama-sama memperkuat dan memakmurkan kawasan Indo Pasifik demi terwujudnya Indo Pasifik yang bebas dan terbuka."
+  },
+  {
+   "t": 619.0,
+   "d": 20.0,
+   "text": "Yang saya hormati, yang mulia perdana menteri yang saya banggakan."
+  },
+  {
+   "t": 639.0,
+   "d": 12.0,
+   "text": "Saya ingin ucapkan terima kasih yang sebesar-besarnya atas sambutan hangat dari Yang Mulia dari pemerintah Jepang."
+  },
+  {
+   "t": 651.0,
+   "d": 35.0,
+   "text": "juga saya diterima dengan sangat baik oleh Sri Baginda Kaisar Narut itu kemarin Indonesia dan Jepang adalah sahabat dekat dan mitra strategis."
+  },
+  {
+   "t": 686.0,
+   "d": 30.0,
+   "text": "Hubungan kita sudah sangat lama dibangun atas dasar kepercayaan, saling menghormati kepentingan bersama."
+  },
+  {
+   "t": 716.0,
+   "d": 28.0,
+   "text": "Di tengah dinamika geopolitik dunia yang sangat kompleks, Indonesia dan Jepang harus menjadi bagian dari stabilitas dan solusi."
+  },
+  {
+   "t": 744.0,
+   "d": 33.0,
+   "text": "Saya yakin pertemuan ini kunjungan saya ke sini akan menghancurkan langkah konkret yang dapat segera ditindaklanjuti untuk memperkokoh hubungan antara Jepang dan 本協"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

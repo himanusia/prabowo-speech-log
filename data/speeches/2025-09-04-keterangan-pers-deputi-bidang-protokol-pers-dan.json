@@ -1,0 +1,73 @@
+{
+ "id": "2025-09-04-keterangan-pers-deputi-bidang-protokol-pers-dan",
+ "video_id": "Ap2FXQmw-U4",
+ "date": "2025-09-04",
+ "date_precise": true,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Abu Dhabi, 9-4-2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Ap2FXQmw-U4",
+ "duration_s": 81,
+ "duration_hms": "1:21",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 127,
+ "unique_word_count": 81,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Ap2FXQmw-U4",
+   "url": "https://www.youtube.com/watch?v=Ap2FXQmw-U4",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Abu Dhabi, 9-4-2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 9.0,
+   "text": "Alhamdulillah tadi pagi Bapak Presiden Republik Indonesia Bapak Prabowo telah tiba di Abu Dhabi sekitar pukul 60.30."
+  },
+  {
+   "t": 10.0,
+   "d": 12.0,
+   "text": "Beliau langsung disambut oleh Menteri Energi dan Infrastruktur yang mulia Bapak Suhail. Setelah itu beliau langsung ke hotel istirahat sejenak."
+  },
+  {
+   "t": 22.0,
+   "d": 45.0,
+   "text": "Kemudian dari hotel beliau akan melakukan pertemuan dengan yang mulia Bapak Presiden Muhammad bin Zayid di kediaman di Alqasar Alsuan tersebut beliau akan didampingi oleh Menteri Luar Negeri dan juga sekretaris kabinet. Setelah melakukan private meeting, pertemuan akan diakhiri dengan diumumkannya baik MOU maupun LOI yang telah ditandatangani dan disepakati dari kedua belah pihak. Setelah kegiatan di kediaman Bapak Presiden Muhammad bin"
+  },
+  {
+   "t": 67.0,
+   "d": 12.0,
+   "text": "Zayid, Bapak Presiden akan kembali ke hotel. Kemudian selanjutnya akan melanjutkan rawatan perjalanan kunjungan kerja ke Timur Tengah dan Turki ini."
+  },
+  {
+   "t": 79.0,
+   "d": 3.0,
+   "text": "Beliau akan lanjut penerbangan ke Ankara. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

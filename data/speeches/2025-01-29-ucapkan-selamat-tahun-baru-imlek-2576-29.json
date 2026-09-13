@@ -1,0 +1,88 @@
+{
+ "id": "2025-01-29-ucapkan-selamat-tahun-baru-imlek-2576-29",
+ "video_id": "8Wu5wtWOOT0",
+ "date": "2025-01-29",
+ "date_precise": true,
+ "title": "Presiden Prabowo Ucapkan Selamat Tahun Baru Imlek 2576, 29 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=8Wu5wtWOOT0",
+ "duration_s": 91,
+ "duration_hms": "1:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 132,
+ "unique_word_count": 81,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "8Wu5wtWOOT0",
+   "url": "https://www.youtube.com/watch?v=8Wu5wtWOOT0",
+   "title": "Presiden Prabowo Ucapkan Selamat Tahun Baru Imlek 2576, 29 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 2.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 3.0,
+   "d": 6.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian."
+  },
+  {
+   "t": 9.0,
+   "d": 6.0,
+   "text": "Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 15.0,
+   "d": 5.0,
+   "text": "Saya Prabowo Subianto, Presiden Republik Indonesia."
+  },
+  {
+   "t": 20.0,
+   "d": 10.0,
+   "text": "Atas nama Pemerintah Republik Indonesia dan atas nama pribadi mengucapkan selamat tahun baru Imlek."
+  },
+  {
+   "t": 30.0,
+   "d": 8.0,
+   "text": "2.576 kepada seluruh saudara-saudara kita yang merayakannya."
+  },
+  {
+   "t": 38.0,
+   "d": 33.0,
+   "text": "Semoga perayaan Imlek tahun ini membawa kebahagiaan, kesejahteraan, dan keberuntungan bagi seluruh masyarakat keturunan Tionghoa dan masyarakat Tionghoa yang berada di Indonesia. Di momen penuh harapan ini, mari kita bersama-sama mempererat persaudaraan, menjaga kerukunan, dan merayakan keberagaman sebagai kekuatan bangsa kita. Bhineka tunggal ika berbeda tapi satu."
+  },
+  {
+   "t": 71.0,
+   "d": 21.0,
+   "text": "Saya juga mengucapkan selamat memasuki tahun ular kayu. Semoga tahun ini menjadi tahun yang penuh keberkahan, kedamaian, dan kebahagiaan bagi kita semua. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom salve. Om santi santi om namo buddhaya. Salam kebajikan."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

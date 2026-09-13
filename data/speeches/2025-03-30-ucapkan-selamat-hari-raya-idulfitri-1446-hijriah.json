@@ -1,0 +1,68 @@
+{
+ "id": "2025-03-30-ucapkan-selamat-hari-raya-idulfitri-1446-hijriah",
+ "video_id": "wM_JUEFoAqk",
+ "date": "2025-03-30",
+ "date_precise": true,
+ "title": "Presiden Prabowo Ucapkan Selamat Hari Raya Idulfitri 1446 Hijriah, 30 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=wM_JUEFoAqk",
+ "duration_s": 111,
+ "duration_hms": "1:51",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 161,
+ "unique_word_count": 109,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "wM_JUEFoAqk",
+   "url": "https://www.youtube.com/watch?v=wM_JUEFoAqk",
+   "title": "Presiden Prabowo Ucapkan Selamat Hari Raya Idulfitri 1446 Hijriah, 30 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 43.0,
+   "text": "Bismillahirrahmanirrahim. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan. Saya Prabowo Subianto, Presiden Republik Indonesia atas nama pemerintah Republik Indonesia dan atas nama pribadi mengucapkan selamat hari raya Idul Fitri. 1 Syawal 1446 Hijriah kepada seluruh umat Islam di tanah air dan di seluruh dunia. Setelah sebulan penuh menjalankan ibadah puasa Ramadan, tibalah saat kita merayakan"
+  },
+  {
+   "t": 45.0,
+   "d": 31.0,
+   "text": "kemenangan. Idul Fitri adalah momen suci untuk saling memaafkan, mempererat silaturahmi, dan meneguhkan kembali komitmen kita sebagai pribadi untuk menjadi lebih baik, lebih sabar, dan lebih peduli terhadap sesama. Saya mengajak seluruh rakyat Indonesia di mana pun berada untuk menjadikan Idul Fitri ini sebagai kekuatan dalam memperkokoh persatuan bangsa."
+  },
+  {
+   "t": 76.0,
+   "d": 34.0,
+   "text": "memperkuat solidaritas sosial dan membangun masa depan Indonesia yang lebih adil, lebih makmur, dan berkeadapan untuk kesejahteraan seluruh rakyat Indonesia. Minal aidin wal faizin. Mohon maaf lahir dan batin. Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom. Salve om. Santi santi santi om."
+  },
+  {
+   "t": 110.0,
+   "d": 3.0,
+   "text": "Namo budhaya. Salam kebajikan."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

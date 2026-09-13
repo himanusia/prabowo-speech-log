@@ -1,0 +1,58 @@
+{
+ "id": "2026-04-28-kunjungan-kerja-ke-jawa-tengah-tinjau-tpst",
+ "video_id": "0ivbpLGFr84",
+ "date": "2026-04-28",
+ "date_precise": true,
+ "title": "Kunjungan Kerja ke Jawa Tengah, Presiden Prabowo Tinjau TPST BLE Banyumas, 28 April 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=0ivbpLGFr84",
+ "duration_s": 72,
+ "duration_hms": "1:12",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 64,
+ "unique_word_count": 48,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "0ivbpLGFr84",
+   "url": "https://www.youtube.com/watch?v=0ivbpLGFr84",
+   "title": "Kunjungan Kerja ke Jawa Tengah, Presiden Prabowo Tinjau TPST BLE Banyumas, 28 April 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 50.0,
+   "text": "[bersorak] [musik] [musik] Ee ini suatu terobosan inisiatif yang sangat baik. pengolahan sampah dengan menggunakan teknologi yang tidak terlalu canggih tapi efektif sebagian besar produk lokal dan dalam suatu rangkaian [musik] sistem dari rumah tangga sampai ke kabupaten."
+  },
+  {
+   "t": 53.0,
+   "d": 22.0,
+   "text": "Jadi ini saya kira sangat efektif ya ee menjadi contoh untuk banyak ee provinsi, banyak kabupaten, bahkan dari negara lain ada yang ke sini. [musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

@@ -1,0 +1,72 @@
+{
+ "id": "2025-03-07-keterangan-pers-ketua-kamar-dagang-dan-industri",
+ "video_id": "BGW_jtM4tUQ",
+ "date": "2025-03-07",
+ "date_precise": true,
+ "title": "Keterangan Pers Ketua Kamar Dagang dan Industri (Kadin) Anindya Bakrie, Jakarta, 7 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=BGW_jtM4tUQ",
+ "duration_s": 104,
+ "duration_hms": "1:44",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 234,
+ "unique_word_count": 130,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "BGW_jtM4tUQ",
+   "url": "https://www.youtube.com/watch?v=BGW_jtM4tUQ",
+   "title": "Keterangan Pers Ketua Kamar Dagang dan Industri (Kadin) Anindya Bakrie, Jakarta, 7 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 6,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 4,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 31.0,
+   "text": "ya asalamualaikum warahmatullahi wabarakatuh mungkin saya eh akan bicara secara umum saja nanti dari pihak E apa pemerintah yang ditugaskan bisa bicara Lebih Detail tapi tadi yang saya lihat adalah ee pertemuan yang sangat baik eh antara pemerintah yang dipimpin oleh pak presiden Prabowo e dengan dunia usaha e Kadin saya sebagai ketua umum datang bersama teman-teman dunia usaha untuk berpikir bagaimana kita satu bisa mendukung"
+  },
+  {
+   "t": 31.0,
+   "d": 31.0,
+   "text": "program pemerintah untuk bisa mendapat pertumbuhan yang 8% lalu juga menentaskan kemiskinan Nah tadi bicara banyak juga mengenai program-program danantara tadi ada Pak Er thhir ada pak menteri rosan di sana juga bicara dan juga tadi di situ ada tamu e pembicara luar negeri yang mungkin teman-teman bisa cek nah dia juga berbagi pemikiran bahwa danantara ini adalah suatu apa robobosan yang luar biasa tapi bagaimana kita bisa melakukan tata kelola yang baik investasi yang baik untuk bisa"
+  },
+  {
+   "t": 62.0,
+   "d": 33.0,
+   "text": "menghasilkan sesuatu yang baik mungkin dari Kadin Saya ingin mengatakan bahwa Kadin itu adalah e naungan dunia usaha sehingga sangat dibutuhkan supaya kerja sama yang ideal sampai ke daerah karena bukan saja pertumbuhan ee tadi Pak Presiden menyampaikan bahwa juga ingin memastikan bahwa dari sisi kesejahteraan bersamaan tuh juga ada mungkin itu dulu ya minggu depan Hari Jumat kita akan melaksanakan ee apa ee peluncuran quickwin ee dari program-program kadiin"
+  },
+  {
+   "t": 95.0,
+   "d": 9.0,
+   "text": "untuk mendukung pemerintah jadi hari Jumat depan tadi kami juga sudah laporkan mudah-mudahan hasilnya bisa baik Jadi kami tunggu teman-teman wartawan di sana ya oke ya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

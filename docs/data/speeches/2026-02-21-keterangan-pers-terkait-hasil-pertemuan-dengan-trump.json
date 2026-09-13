@@ -1,0 +1,98 @@
+{
+ "id": "2026-02-21-keterangan-pers-terkait-hasil-pertemuan-dengan-trump",
+ "video_id": "wnl-kttbbpk",
+ "date": "2026-02-21",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Terkait Hasil Pertemuan dengan Presiden Trump, 21 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=wnl-kttbbpk",
+ "duration_s": 96,
+ "duration_hms": "1:36",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 166,
+ "unique_word_count": 105,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "wnl-kttbbpk",
+   "url": "https://www.youtube.com/watch?v=wnl-kttbbpk",
+   "title": "Keterangan Pers Presiden Prabowo Terkait Hasil Pertemuan dengan Presiden Trump, 21 Februari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 4,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 26.0,
+   "text": "e pertemuan bilateral sama Presiden Trump kemarin itu bahas apa aja sih, I kita bahas ee masalah perdagangan di antara kedua negara ya perundingan sudah cukup lama akhirnya ketemu saling saling menguntungkan, saling menghormati. Saya kira bagus ya."
+  },
+  {
+   "t": 26.0,
+   "d": 7.0,
+   "text": "Kemarin Indonesia jadi negara satu-satunya yang di ketua milat terar setelah bop, Pak. Mungkin ada pembahasan lebih dalam setelah itu, Pak."
+  },
+  {
+   "t": 33.0,
+   "d": 12.0,
+   "text": "Intinya itu kita kan termasuk yang paling mungkin paling lama ya berunding soal tarif itu perdagangan. Tapi baguslah hasilnya."
+  },
+  {
+   "t": 45.0,
+   "d": 6.0,
+   "text": "Kemarin Bapak ketemu pemimpin perusahaan-perusahaan investasi besar dunia. Mungkin bisa diceritakan sedikit ya."
+  },
+  {
+   "t": 51.0,
+   "d": 16.0,
+   "text": "ee mereka menyampaikan mereka sangat sangat tertarik sama Indonesia. Mereka confident, mereka ee lihat iklimnya membaik terus mereka positif terhadap ekonomi kita."
+  },
+  {
+   "t": 67.0,
+   "d": 1.0,
+   "text": "Iya."
+  },
+  {
+   "t": 68.0,
+   "d": 15.0,
+   "text": "Akhirnya kan Amerika Serikat membatalkan dari Supreme Court. Ee arahan Bapak I kita siap untuk menghadapi semua kemungkinan kita hormati ee politik dalam negeri Amerika Serikat. Ya, kita lihat perkembangannya ya."
+  },
+  {
+   "t": 83.0,
+   "d": 3.0,
+   "text": "Angka 10% ini menguntungkan Indonesia enggak, Pak?"
+  },
+  {
+   "t": 86.0,
+   "d": 7.0,
+   "text": "Saya kira ya menguntungkanlah ya. Kita siap untuk menghadapi segala kemungkinan."
+  },
+  {
+   "t": 93.0,
+   "d": 3.0,
+   "text": "Oke, makasih Bapak. Sehatshat Bapak foto dong."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

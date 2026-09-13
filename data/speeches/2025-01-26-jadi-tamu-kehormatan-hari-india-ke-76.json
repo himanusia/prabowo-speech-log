@@ -1,0 +1,68 @@
+{
+ "id": "2025-01-26-jadi-tamu-kehormatan-hari-india-ke-76",
+ "video_id": "YiP33kARAG8",
+ "date": "2025-01-26",
+ "date_precise": true,
+ "title": "Presiden Prabowo Jadi Tamu Kehormatan Hari Republik India ke 76, New Delhi, 26 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=YiP33kARAG8",
+ "duration_s": 223,
+ "duration_hms": "3:43",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 279,
+ "unique_word_count": 147,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "YiP33kARAG8",
+   "url": "https://www.youtube.com/watch?v=YiP33kARAG8",
+   "title": "Presiden Prabowo Jadi Tamu Kehormatan Hari Republik India ke 76, New Delhi, 26 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 3,
+  "nasional_dan_identitas": 8
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 121.0,
+   "text": "[Musik] [Musik] [Musik] [Musik] Saya merasa sangat bangga karena ee Merupakan suatu kehormatan bagi saya untuk bisa berpartisipasi dalam parade ini karena Eh parada ini Eh kami diutus oleh Presiden dan itu merupakan suatu kehormatan langsung bagi kami untuk dapat mengikuti parada ini kami mengucapkan banyak terima kasih untuk Bapak Presiden kami yakni Bapak Prabowo Subianto karena telah memberikan kami khususnya Taruna Akmil yakni gscl untuk ikut dalam kegiatan ini ini merupakan"
+  },
+  {
+   "t": 121.0,
+   "d": 41.0,
+   "text": "suatu kehormatan yang besar bagi kami izin perbedaan suhu antara Indonesia dengan India di Indonesia eh suhunya 28 derajat 30 derajat di India cukup dingin mungkin lagi mesin dingin pagi sampai 5 derajat sampai 10 derajat sehingga itu membuat kami agak kaget tapi kami dapat mengatasi dengan cepat untuk perasaan eh secara pribadi saya sangat amat bangga karena eh Ini pertama kali dalam sejarah Indonesia tampil diundang bahkan sampai kurang lebih 352 orang ini bahkan"
+  },
+  {
+   "t": 162.0,
+   "d": 31.0,
+   "text": "terbanyak selama India mengundang negara-negara lain Jadi ini adalah suatu kebangan dan kehormatan bagi saya perbedaannya banyak mulai langkah dan gerakan tangan beda tapi yang berkesan eh Bahwa saat kami latihan beberapa kali latihan di tempat hariha itu semua mata semua mata itu tertuju pada kami mulai dari warga sipil militernya bahkan semua tuh melihat ke kami semua tuh ngeluarin HP untuk merekam kami eh saya mengutip kata-kata dari bapak presiden kita Bapak"
+  },
+  {
+   "t": 193.0,
+   "d": 30.0,
+   "text": "prabuo Subianto Beliau mengatakan bahwa bangsa yang besar itu dilihat dari kekuatan tentaranya jadi saya harap ke depannya akan banyak event-event seperti ini kita harus Tunjukkan ke dunia bahwa TNI itu kuat TNI itu ada dan TNI itu bukan bukan tentara ece-ce gitu loh jadi kita harus tunjukin ke dunia bahwa kita itu kuat untuk menunjukkan bahwa bangsa kita ad bangsa yang kuat [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

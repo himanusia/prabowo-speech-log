@@ -1,0 +1,78 @@
+{
+ "id": "2025-07-21-resmikan-kelembagaan-80-081-koperasi-desa-kelurahan",
+ "video_id": "5BanUv0j3mc",
+ "date": "2025-07-21",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Kelembagaan 80.081 Koperasi Desa/Kelurahan Merah Putih, 21 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=5BanUv0j3mc",
+ "duration_s": 120,
+ "duration_hms": "2:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 182,
+ "unique_word_count": 95,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5BanUv0j3mc",
+   "url": "https://www.youtube.com/watch?v=5BanUv0j3mc",
+   "title": "Presiden Prabowo Resmikan Kelembagaan 80.081 Koperasi Desa/Kelurahan Merah Putih, 21 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 7,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 50.0,
+   "text": "[Musik] [Tepuk tangan] [Musik] [Tepuk tangan] [Musik] Kita sudah mengerti bahwa konsep koperasi adalah konsep untuk mereka yang lemah. Yang kuat tidak mau berurusan dan koperasi. yang kuat tidak mau menjadi anggota koperasi pun gak mau. Tapi konsepnya sederhana sama dengan konsep lidi satu lidi lemah tidak kuat tidak ada artinya satu lidi. Tapi puluhan lidi, ratusan lidi dijadikan satu. Ini adalah alat yang bisa membantu"
+  },
+  {
+   "t": 52.0,
+   "d": 6.0,
+   "text": "kita. Jadi dari lemah lemah lemah menjadi kekuatan."
+  },
+  {
+   "t": 58.0,
+   "d": 8.0,
+   "text": "Ini adalah konsep koperasi. Saya percaya ini awal dari suatu gerakan besar."
+  },
+  {
+   "t": 66.0,
+   "d": 19.0,
+   "text": "Dana yang selama ini diserap dari desa ke kota, kita balikkan dari ibu kota ke provinsi ke desa. Kekuatan ekonomi sekarang berputar di kabupaten, kecamatan, dan di desa."
+  },
+  {
+   "t": 85.0,
+   "d": 34.0,
+   "text": "Ya, saya harap kan anu apa harganya lebih murah, bisa terjangkau masyarakat kecil gitu loh, Bu. lebih maksudnya ke depannya lebih baik lagilah ee lebih harganya lebih miring biar yang rakyat-rakyat yang kecil yang pedagang bisa dapat harga yang lebih murah daripada ke tangan ke berapa kan Bu ya. Semoga dengan keadaannya ee ada koperasi bisa membantu koperasi bisa membantu masyarakat Desa Mentangan dan wilayah yang lainnya."
+  },
+  {
+   "t": 119.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

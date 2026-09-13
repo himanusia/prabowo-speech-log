@@ -1,0 +1,92 @@
+{
+ "id": "2026-05-05-ketpers-kepala-badan-pengendalian-pembangunan-dan-investigasi",
+ "video_id": "hvL3uu66X_g",
+ "date": "2026-05-05",
+ "date_precise": true,
+ "title": "Ketpers Kepala Badan Pengendalian Pembangunan dan Investigasi Khusus Aris Marsudiyanto, 5 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=hvL3uu66X_g",
+ "duration_s": 139,
+ "duration_hms": "2:19",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 311,
+ "unique_word_count": 167,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "hvL3uu66X_g",
+   "url": "https://www.youtube.com/watch?v=hvL3uu66X_g",
+   "title": "Ketpers Kepala Badan Pengendalian Pembangunan dan Investigasi Khusus Aris Marsudiyanto, 5 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 3,
+  "pendidikan": 4,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "Sekolah Rakyat": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 29.0,
+   "text": "makan siang bersama dengan Bapak Presiden ya mengevaluatilah segala apa yang sudah berjalan program-program saat ini seperti itu. Dan alhamdulillah ya sampai dengan saat ini juga sudah di-announce ya oleh Badan Pusat Statistik pertumbuhan ekonomi kita on 5,61% ya artinya seluruh program Bapak Presiden ya sampai dengan saat ini berjalan dengan baik dan lancar. Alhamdulillah. Heeh. Oke."
+  },
+  {
+   "t": 29.0,
+   "d": 11.0,
+   "text": "Ada arahan mungkin pada ya kita banyak ee berdiskusi ya evaluasi dengan berbagai macam program berjalan dan Heeh."
+  },
+  {
+   "t": 40.0,
+   "d": 32.0,
+   "text": "Dan saya mengharap ya kepada seluruh e elit bangsa saat ini ya apalagi para akademisi ya, para pengamat ya, Bapak Presiden selalu membuka ruang untuk berkomunikasi ya, berdemokrasi, berdiskusi ya. Silakan menyampaikan kritik-kritik dengan cara-cara yang baik ya. Ada kritik, ada penghinaan, ada provokasi. Nah, kita harus tahu masuk di sektor mana ya. Bangsa kita sedang sibuk membangun dengan situasi perang dunia saat ini. Alhamdulillah ya semuanya"
+  },
+  {
+   "t": 72.0,
+   "d": 11.0,
+   "text": "ekonomi dalam keadaan baik ya. Jangan diriokin dengan hal-hal yang remeh-temeh yang sepele ya gitu. Marilah kita sama-sama kompaklah apa apalagi elitnya ya. Pak dengan Pak Bran bahasa apa?"
+  },
+  {
+   "t": 83.0,
+   "d": 13.0,
+   "text": "Apa Pak Br? Oh, dengan Pak Bryan ya, kita membahas segala macam e hal yang menyangkut pendidikan ya, bagaimana meningkatkan mencerdaskan kehidupan bangsa ini ya yang berkaitan dengan pendidikan dan lain-lain."
+  },
+  {
+   "t": 96.0,
+   "d": 21.0,
+   "text": "Tadi dibahas enggak apa secara detail soal dan apa namanya kelanjutan dari bagaimana kita diminta untuk membantu Iya. Iya. Iya. I. Jadi petunjuk Bapak Presiden ya cukup lengkap ya, detail ya mulai dari sekolah rakyat sampai universitas bagaimana kita membentuk smart generation ya seperti itu. Oke."
+  },
+  {
+   "t": 117.0,
+   "d": 4.0,
+   "text": "Oh ya itu nanti ee akan dijelaskan mungkin sama mencekn atau Pak Mentu ya."
+  },
+  {
+   "t": 121.0,
+   "d": 18.0,
+   "text": "Tapi e kelihatannya juga beliau kemungkinan tadi juga akan hadir ya karena itu e sifatnya penting ya. Tapi secara terperinci nanti akan dijelaskan oleh menteri terkait ya atau [berdehem] depan Pak kalau enggak salah tanggal berapa tuuh ya mungkin ya tapi e itu nanti akan dijelaskan cara pastinya lah aku mendahului enggak enak ya oke Ayo"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

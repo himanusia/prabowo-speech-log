@@ -1,0 +1,103 @@
+{
+ "id": "2025-09-16-keterangan-pers-menko-perekonomian-airlangga-hartarto-jakarta",
+ "video_id": "NrvoF7AFP5c",
+ "date": "2025-09-16",
+ "date_precise": true,
+ "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 16 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=NrvoF7AFP5c",
+ "duration_s": 52,
+ "duration_hms": "0:52",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 132,
+ "unique_word_count": 88,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "NrvoF7AFP5c",
+   "url": "https://www.youtube.com/watch?v=NrvoF7AFP5c",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 16 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 3.0,
+   "text": "Untuk mekanisme yang program magang itu seap sih, Pak sebenarnya, Pak?"
+  },
+  {
+   "t": 3.0,
+   "d": 6.0,
+   "text": "Mekanisme program magang sedang dimatangkan Mendignas dan Menistek Dikti. Oke."
+  },
+  {
+   "t": 9.0,
+   "d": 7.0,
+   "text": "Tetapi salah satunya adalah mereka yang eligible adalah yang lulus maksimal 1 tahun. Oke."
+  },
+  {
+   "t": 16.0,
+   "d": 3.0,
+   "text": "Sehingga bisa fres graduate bisa ditangkap."
+  },
+  {
+   "t": 19.0,
+   "d": 3.0,
+   "text": "Nanti mereka itu panggangnya di perusahaan milik negara apa SU ya, Pak?"
+  },
+  {
+   "t": 22.0,
+   "d": 11.0,
+   "text": "eh perusahaan semuanya bisa semua, swasta atau milik negara dan akan ada kerja sama link and match antara perguruan tinggi dan perusahaan-perusahaan tersebut."
+  },
+  {
+   "t": 33.0,
+   "d": 3.0,
+   "text": "Ini sudah bisa mulai berarti kuartal ketiga atau bulan Oktober itu, Pak?"
+  },
+  {
+   "t": 36.0,
+   "d": 4.0,
+   "text": "Ee kita berharap di kuartal keempat ini sudah bisa mulai."
+  },
+  {
+   "t": 40.0,
+   "d": 2.0,
+   "text": "Hanya di Jakarta aja apa beberapa daerah juga, Pak? Seluruh Indonesia."
+  },
+  {
+   "t": 42.0,
+   "d": 7.0,
+   "text": "Seluruh Indonesia. UMP-nya berarti disesuaikan dengan sesuai dengan UMP daerah masing-masing. 6 bulan, Pak, diaj oleh pemerinta bulan. 6 bulan. Ya, terima kasih."
+  },
+  {
+   "t": 49.0,
+   "d": 3.0,
+   "text": "Terima kasih, Pak."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

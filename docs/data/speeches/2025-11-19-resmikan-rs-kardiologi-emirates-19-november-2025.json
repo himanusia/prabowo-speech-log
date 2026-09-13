@@ -1,0 +1,88 @@
+{
+ "id": "2025-11-19-resmikan-rs-kardiologi-emirates-19-november-2025",
+ "video_id": "p4EKi5BEH0U",
+ "date": "2025-11-19",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan RS Kardiologi Emirates–Indonesia, 19 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=p4EKi5BEH0U",
+ "duration_s": 123,
+ "duration_hms": "2:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 100,
+ "unique_word_count": 65,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "p4EKi5BEH0U",
+   "url": "https://www.youtube.com/watch?v=p4EKi5BEH0U",
+   "title": "Presiden Prabowo Resmikan RS Kardiologi Emirates–Indonesia, 19 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 8,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 17.0,
+   "d": 23.0,
+   "text": "Pelayanan kesehatan adalah salah satu kewajiban negara. negara yang berhasil ee mampu memberi pelayanan kesehatan yang layak untuk seluruh rakyat Indonesia."
+  },
+  {
+   "t": 40.0,
+   "d": 8.0,
+   "text": "Karena itu inisiatif seperti ini adalah sangat penting."
+  },
+  {
+   "t": 48.0,
+   "d": 15.0,
+   "text": "Saya dapat laporan rumah sakit ini memiliki peralatan mungkin yang tercanggih di seluruh Indonesia."
+  },
+  {
+   "t": 63.0,
+   "d": 13.0,
+   "text": "Saya juga memberitahu ke Menteri Kesehatan bahwa saya menghendaki tiap kabupaten kota memiliki rumah sakit yang canggih seperti ini."
+  },
+  {
+   "t": 76.0,
+   "d": 6.0,
+   "text": "Dalam 4 tahun yang akan datang kita akan berusaha mencapai itu. Kita berusaha."
+  },
+  {
+   "t": 82.0,
+   "d": 20.0,
+   "text": "Tapi yang jelas saya akan alokasikan ee biaya yang cukup besar untuk pelayanan kesehatan."
+  },
+  {
+   "t": 102.0,
+   "d": 35.0,
+   "text": "Insyaallah mudah-mudahan bisa segera e mereplikasi seluruh kabupaten."
+  },
+  {
+   "t": 137.0,
+   "d": 3.0,
+   "text": "1 2 3. Terima kasih Bapak. Terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

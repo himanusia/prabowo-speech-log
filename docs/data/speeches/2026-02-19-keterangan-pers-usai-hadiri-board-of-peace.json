@@ -1,0 +1,127 @@
+{
+ "id": "2026-02-19-keterangan-pers-usai-hadiri-board-of-peace",
+ "video_id": "8-cctoi8ELg",
+ "date": "2026-02-19",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo usai Hadiri Board of Peace, Washington D.C, 19 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=8-cctoi8ELg",
+ "duration_s": 215,
+ "duration_hms": "3:35",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 30,
+ "token_count": 329,
+ "unique_word_count": 178,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "8-cctoi8ELg",
+   "url": "https://www.youtube.com/watch?v=8-cctoi8ELg",
+   "title": "Keterangan Pers Presiden Prabowo usai Hadiri Board of Peace, Washington D.C, 19 Februari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 9
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 6.0,
+   "d": 13.0,
+   "text": "Luar biasa gimana hari ini pertama ya? Ee alhamdulillah tadi berjalan dengan baik, lancar ya."
+  },
+  {
+   "t": 19.0,
+   "d": 6.0,
+   "text": "ee kita lihat ee kemajuan-kemajuan yang sudah dicapai."
+  },
+  {
+   "t": 25.0,
+   "d": 17.0,
+   "text": "Sementara saya kira aliran bantuan ee makan, bantuan kebutuhan rakyan gaza saya kira tertinggi selama berapa tahun."
+  },
+  {
+   "t": 42.0,
+   "d": 6.0,
+   "text": "Jadi makan cukup, kebutuhan-kebutuhan lain mengalir deras."
+  },
+  {
+   "t": 48.0,
+   "d": 22.0,
+   "text": "Kemudian ee kita lihat rencana rencana ke depan nampaknya sangat serius ya. Ee tadi walaupun ee kita ee bertekad untuk ini berhasil karena ini memberi harapan perdamaian ya."
+  },
+  {
+   "t": 70.0,
+   "d": 10.0,
+   "text": "Walaupun ee tadi saya juga dalam statement singkat saya, saya juga ingatkan banyak kesulitan masih di depan banyak hambatan rintangan ya obstacles."
+  },
+  {
+   "t": 80.0,
+   "d": 53.0,
+   "text": "Tapi ya kita harus bertekad untuk ee mencapai keberhasilan demi ee rakyat Palestina ya. kita tentunya komit ya tadi beapa negara-negara muslim semua menegaskan ee komitmen e kita untuk benar-benar mencapai eh lasting peace and the only lasting peace dalam beberapa statement kita ya negara-negara yang kelompok delan kelompok ee negara-negara negara muslim yang di ee undang pertama kali untuk melaksanakan [mendengus] ee atau ikut dalam ee usaha bordis ini. Ee kita ya"
+  },
+  {
+   "t": 133.0,
+   "d": 11.0,
+   "text": "bagi kita the real the only long lasting solution is a two state solution."
+  },
+  {
+   "t": 144.0,
+   "d": 24.0,
+   "text": "Tapi kita juga ee tegaskan bahwa kita ee berusaha keras dan kalau secara real saya lihat bencana-bencana sangat besar dan ee jauh kondisi dan masa depan rakyat Gaza akan jauh lebih baik. tentunya ee kita harus waspada."
+  },
+  {
+   "t": 168.0,
+   "d": 18.0,
+   "text": "Kelompok-kelompok yang ingin selalu menggagalkan penyelesaian menyeluruh ya pasti ada dari semua pihak. Saya kira itu statement saya Bapak tadi Putam bilang takut sama Bapak katanya takut [tertawa] Pak Pak soal pengiriman pasukan gimana Pak?"
+  },
+  {
+   "t": 186.0,
+   "d": 17.0,
+   "text": "Eh, komitmen ya. Kita siap kita siap kita kapan kira-kira diri mungkin ee iya kelompok-kelompok advance mungkin tidak lama lah mungkin 1 2 bulan ini sudah ya soal penunjukan IS tadi kan ditunjuk jadi wakil komandan ISF Pak."
+  },
+  {
+   "t": 203.0,
+   "d": 3.0,
+   "text": "Iya mereka minta kita jadi deputi komander."
+  },
+  {
+   "t": 206.0,
+   "d": 3.0,
+   "text": "Strateginya strategi seperti apa? Strateginya seperti apa ya?"
+  },
+  {
+   "t": 209.0,
+   "d": 9.0,
+   "text": "Strategi maksudnya strategi apa dipilih menjadi wakil komander ini seperti apa? dipilih ya dipilih ya kita cari yang bagus ya tugasnya J."
+  },
+  {
+   "t": 218.0,
+   "d": 3.0,
+   "text": "Oke, terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

@@ -1,0 +1,68 @@
+{
+ "id": "2025-11-06-keterangan-pers-menteri-kelautan-dan-perikanan-sakti",
+ "video_id": "WXTZkBU0Pnk",
+ "date": "2025-11-06",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 6 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=WXTZkBU0Pnk",
+ "duration_s": 31,
+ "duration_hms": "0:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "token_count": 59,
+ "unique_word_count": 41,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "WXTZkBU0Pnk",
+   "url": "https://www.youtube.com/watch?v=WXTZkBU0Pnk",
+   "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 6 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 3.0,
+   "text": "tadi penugasan baru dari Presiden, Pak. Khususnya di KKP apa, Pak?"
+  },
+  {
+   "t": 3.0,
+   "d": 13.0,
+   "text": "Eh, pembangunan budidaya di darat itu juga salah satu yang di e minta oleh beliau untuk di 500 kabupaten."
+  },
+  {
+   "t": 16.0,
+   "d": 2.0,
+   "text": "Budidaya apa itu? Budidaya perikanan."
+  },
+  {
+   "t": 18.0,
+   "d": 13.0,
+   "text": "Targetnya itu sampai kapan itu Pak? Di 500 kabupaten 2026 ya baru selesai. Tapi tahun ini dimulai kita ada 100 titik yang akan kita bangun. Pak kalau dari Menkop"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

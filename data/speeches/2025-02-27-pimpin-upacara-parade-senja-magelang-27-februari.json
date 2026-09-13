@@ -1,0 +1,58 @@
+{
+ "id": "2025-02-27-pimpin-upacara-parade-senja-magelang-27-februari",
+ "video_id": "6MEuZdbbA5I",
+ "date": "2025-02-27",
+ "date_precise": true,
+ "title": "Presiden Prabowo Pimpin Upacara Parade Senja, Magelang, 27 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=6MEuZdbbA5I",
+ "duration_s": 93,
+ "duration_hms": "1:33",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 70,
+ "unique_word_count": 40,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "6MEuZdbbA5I",
+   "url": "https://www.youtube.com/watch?v=6MEuZdbbA5I",
+   "title": "Presiden Prabowo Pimpin Upacara Parade Senja, Magelang, 27 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 60.0,
+   "text": "[Musik] lapor upacara dan penurunan benda siap dilaks selanjutnya pasukan [Musik] siap kita semua dipilih rakyat kita Abdi rakyat kitaaky pemimpin rakyat kita berasal dari latar belakang yang berbeda-beda daerah yang berbeda-beda dengan bahasa yang berbeda-beda bahasa daerah adat istiadat yang berbeda-beda suku yang berbeda-beda kelompok etnis yang berbeda-beda agama yang berbeda-beda tapi kita sudah menjadi satu"
+  },
+  {
+   "t": 60.0,
+   "d": 33.0,
+   "text": "sudah menjadi satu keluarga besar keluarga besar Nusantara keluarga besar Indonesia [Musik] [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

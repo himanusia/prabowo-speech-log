@@ -1,0 +1,82 @@
+{
+ "id": "2025-03-03-keterangan-pers-menko-bidang-pangan-menteri-koperasi",
+ "video_id": "46rAakxMqlc",
+ "date": "2025-03-03",
+ "date_precise": true,
+ "title": "Keterangan Pers Menko Bidang Pangan, Menteri Koperasi dan Menteri Desa, Jakarta, 3 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=46rAakxMqlc",
+ "duration_s": 201,
+ "duration_hms": "3:21",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 26,
+ "token_count": 369,
+ "unique_word_count": 183,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "46rAakxMqlc",
+   "url": "https://www.youtube.com/watch?v=46rAakxMqlc",
+   "title": "Keterangan Pers Menko Bidang Pangan, Menteri Koperasi dan Menteri Desa, Jakarta, 3 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 4,
+  "ekonomi": 14,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 11
+ },
+ "policy_signals": {
+  "Koperasi desa": {
+   "count": 4
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 43.0,
+   "text": "baik asalamualaikum warahmatullahi wabarakatuh Waalaikumsalam Selamat sore saudara-saudara Baru saja kami selesai ratas dipimpin bapak presiden langsung ya pesertanya banyak tadi ada Menteri koperasiasi bgn bgn Pertanian menteri Desa Menteri Pertanian bmn ada juga himbara ee Kapolri menhan menhan banyak sekali pesertanya satu ee ee yang diputuskan yaitu dibentuknya koperasi Desa merah putih jadi disingkat COPD merah putih Nah itu akan"
+  },
+  {
+   "t": 44.0,
+   "d": 40.0,
+   "text": "dibangun di 7.000 Desa ya Ee anggarannya dari mana nanti anggarannya itu dari dana desa yang sekarang ada sudah dibentuk nanti badannya badan koperasi ya ya Ee bikin gudang di situ dengan ada enam gerai sehingga nanti di desa itu akan ada pusat kegiatan ekonomi dan ee e menampung hasil-hasil pertanian di desa itu kira-kira itu intinya saudara-saudara satu Desa tadi diperkirakan akan men anggaran sampai 5 3 sampai 5 miliar 3 sampai R miliar itu"
+  },
+  {
+   "t": 84.0,
+   "d": 41.0,
+   "text": "kan kita ada dana desa R miliar per tahun kalau 5 tahun kan R miliar R miliar lima ee Berarti 5 tahun 55 miliar Tapi ini diperlukan di depan Oleh karena itu tadi ada himbara yang bisa nanti ee menanggulangi dulu diangsur secara 3 tahun atau sampai 5 tahun Jadi intinya dibentuk koperasi desa desa merah putih di 70.000 sampai 80.000 Desa Saya kira itu saudara-saudara ada yang bertanya barangkali Nah jadi tiga model saya jelaskan he silakan silakan Pak jadi ada tiga model satu membentuk Koperasi Baru Oh sori sori satu membangun Koperasi"
+  },
+  {
+   "t": 125.0,
+   "d": 31.0,
+   "text": "Baru dua apa merevitalisasi koperasi yang sudah ada yang ketiga membangun dan mengembangkan jadi ada tiga model Kalau yang belum ada kita buka baru karena ada ada 64.000 gapoktan yang juga siap bermigrasi menjadi eh Koperasi gitu loh jadi nanti modelingnya seperti itu tinggal kita lihat ee kondisi-kondisi koperasi-koperasi di desa-desa yang pasti dengan pembentukan koperasi Desa merah putih ini ini akan memutus mata rantai"
+  },
+  {
+   "t": 156.0,
+   "d": 34.0,
+   "text": "ee distribusi barang yang efeknya merugikan ke konsumen maupun ke produsen ya supaya bisa bisa lebih murah harga-harga di masyarakat lanjut terhir Pak saya dikit saja jadi dengan ada arahan bapak presiden tadi karena permendes Nomor 2 Tahun 2004 sudah keluar tentang fokus anggaran ee penggunaan Dana Desa kami akan merevisi itu fokusnya kepada e koperasi Desa merah putih ujungnya sama semangatnya Bagaimana sus pangan Bagaimana yang"
+  },
+  {
+   "t": 190.0,
+   "d": 12.0,
+   "text": "lain-lain inti pokoknya Desa semua maju Desa semua berkembang dengan baik kita akan Bangun Desa Bangun Indonesia Saya kira itu Terima kasih wasalamualaikum warahmatullahi wabarakatuh makasihan selamat"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

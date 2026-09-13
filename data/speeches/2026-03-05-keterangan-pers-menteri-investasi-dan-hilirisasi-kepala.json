@@ -1,0 +1,112 @@
+{
+ "id": "2026-03-05-keterangan-pers-menteri-investasi-dan-hilirisasi-kepala",
+ "video_id": "mdmR6eKXXvw",
+ "date": "2026-03-05",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala Danantara Rosan Roeslani, 5 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=mdmR6eKXXvw",
+ "duration_s": 199,
+ "duration_hms": "3:19",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 29,
+ "token_count": 408,
+ "unique_word_count": 154,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "mdmR6eKXXvw",
+   "url": "https://www.youtube.com/watch?v=mdmR6eKXXvw",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala Danantara Rosan Roeslani, 5 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 9,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "PLTS / energi surya": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 22.0,
+   "text": "ee ya tadi yang dibahas mungkin tadi sudah disampaikan juga ya bagaimana ee terutama mengenai ee pembangunan dari PLTS ee untuk solar di beberapa desa tadi. Sebenarnya ingin di semua di ya hampir di semua desa tetapi tadi diprioritaskan mungkin di daerah-daerah yang memang sudah punya distribusinya."
+  },
+  {
+   "t": 22.0,
+   "d": 42.0,
+   "text": "Jadi kurang lebih dari usulan tadi awal 100 MW mungkin ada 13 ee ee dari 100 GW jadi 13 GW terlebih dahulu yang rencananya akan diprioritaskan dan memang saya juga sampaikan kebetulan ee sudah ada masuk investasi di Indonesia ee ATC ATON ini untuk pembangunan ee pabrik investasi 1,4 miliar dolar dengan kapasitas 50 MW. Jadi ee itu ee sudah ee 50 GW. Jadi itu juga sudah investasi sudah masuk ee akhir tahun ini akan selesai. J. Jadi itu juga akan membantu"
+  },
+  {
+   "t": 64.0,
+   "d": 37.0,
+   "text": "untuk kita bisa makai produksi dalam kita untuk proyek e PLTS ini. Nah, ee itu yang yang dari tadi sampaikan dan ee diharapkan nanti ee dari SDM dan kami untuk ee mempersiapkan itu dan ee untuk bisa ini mempercepat kebetulan ee dari Garantara sudah ada satu prototype untuk pembangunan PLTS ini di e daerah e Sumenep. ee yang kebetulan baru selesai ee sebesar 1 MW. Karena itu juga ee produk itu akan ditinjau, akan dilihat"
+  },
+  {
+   "t": 101.0,
+   "d": 33.0,
+   "text": "langsung oleh tim ee baik oleh SDM dan juga Mikti ee untuk kemudian itu bisa di-roll out. memang ee dari Bapak Presiden memberikan arahan agar bisa ee pembangunan ini dengan beberapa opsi pendanaan yang itu diminta untuk ee kami melihat dan mempelajarinya strukturnya bekerja sama dengan baik dengan ee ee dalam negeri maupun dengan pihak ee swasta yang mempunyai teknologi dan mempunyai kemampuan dari segi solar dan baterainya. Nah, itu ee pembicaraan dari"
+  },
+  {
+   "t": 134.0,
+   "d": 19.0,
+   "text": "yang tadi berlangsung yang fokusnya ada di situ ya. Kemudian memang ada ee hal-hal lain mungkin sudah dibahas oleh oleh Pak Ril. Jadi, sebenarnya fokusnya sih ee adalah itu sih pembahasannya ee dari kami dan ee apa kurang lebih seperti itu."
+  },
+  {
+   "t": 153.0,
+   "d": 4.0,
+   "text": "Yang investasi tadi itu investasi baru di tahun apa sih?"
+  },
+  {
+   "t": 157.0,
+   "d": 5.0,
+   "text": "Oh, enggak. Itu sudah ee ee investasi tahun 2025."
+  },
+  {
+   "t": 162.0,
+   "d": 12.0,
+   "text": "ee kan pembangunannya itu memakan waktu kurang lebih ee hampir ee 1 seteng tahun lah ya dan akan selesai insyaallah pada tahun 2026 akhir pembangunan ini."
+  },
+  {
+   "t": 174.0,
+   "d": 3.0,
+   "text": "Nilai investasinya Pak 1,4 miliar dolar."
+  },
+  {
+   "t": 177.0,
+   "d": 4.0,
+   "text": "Oh iya 145 miliar dolar itu dari luar sama di dalam negeri Pak."
+  },
+  {
+   "t": 181.0,
+   "d": 15.0,
+   "text": "Itu investasi ke dalam negeri. Investasi ke dalam negeri. Maksudnya investasi dari FDI ya. dari investment ee yang sudah dimulai tahun 2025 pertengahan dan ee targetnya akan selesai pada tahun akhir 2026 ini untuk pabrik PLT seperti terima kasih ya."
+  },
+  {
+   "t": 196.0,
+   "d": 3.0,
+   "text": "Terima kasih, Pak. Makasih, Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

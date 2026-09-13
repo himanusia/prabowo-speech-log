@@ -1,0 +1,72 @@
+{
+ "id": "2026-07-10-warga-sambut-antusias-peresmian-bendungan-meninting-lombok",
+ "video_id": "XI09xqDqTsk",
+ "date": "2026-07-10",
+ "date_precise": true,
+ "title": "Warga Sambut Antusias Peresmian Bendungan Meninting, Lombok Barat, 10 Juli 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=XI09xqDqTsk",
+ "duration_s": 114,
+ "duration_hms": "1:54",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 215,
+ "unique_word_count": 135,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "XI09xqDqTsk",
+   "url": "https://www.youtube.com/watch?v=XI09xqDqTsk",
+   "title": "Warga Sambut Antusias Peresmian Bendungan Meninting, Lombok Barat, 10 Juli 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 7,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 48.0,
+   "text": "[musik] sebelumnya itu bisa kita menanam cuman dua kali pada musim kemarau itu terjadi ee kesulitan air atau pekak klek disebutkan. Nah, itu sekarang dengan adanya bendungan ini sangat bermanfaat kita bisa menanam tiga kali dalam setahun. Nah, itu untuk mengatasi juga kebanjiran pada waktu musim hujan dan ee mitigasi pada waktu musim kemarau begitu. Kalau sebelum ada mendongan ini kondisinya ee banyak problem artinya karena subak-subak dari petani itu berebut air"
+  },
+  {
+   "t": 50.0,
+   "d": 13.0,
+   "text": "gitu kan kendak tatindir gitu. Tapi insyaallah alhamdulillah besok ini ke depannya akan lebih okah gitu. untuk meminilasi masalah sewangselah seperti itu sehingga petani juga ee bertaninya lancar gitu."
+  },
+  {
+   "t": 63.0,
+   "d": 19.0,
+   "text": "Oke. Alhamdulillah kami sebagai petani semenjak adanya bendungan menunting ini bahwa petani pada awalnya yang sebelum ada menunting ini bahwa dari jam .00 malam sampai jam pagi petani mencari air. Tapi alhamdulillah semenjak adanya bendung menenting ini para petani tidak mencari air lagi."
+  },
+  {
+   "t": 82.0,
+   "d": 34.0,
+   "text": "Tinggal menunggu di sawahnya semua teralieri. Alhamdulillah. Sementara warga sekitar memanfaatkan untuk memancing ikan dan untuk apa namanya mengurangi atau menutupi kebutuhan-kebutuhan lauk pauk di rumah tangga. Kemudian sias lain manfaatnya adalah ee perekonomiannya agak sedikit ada kemajuan sedikit dibanding yang dulu karena apa ee pengaruh kedatangan warga apa namanya ee para wisatawan yang datang berkunjung ya ada saja yang mampir beranja di setiap lapak-lapak di setiap kios-kios yang ada di sekitar"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,58 @@
+{
+ "id": "2025-03-30-keterangan-pers-deputi-bidang-protokol-pers-dan",
+ "video_id": "lhECnV4-H08",
+ "date": "2025-03-30",
+ "date_precise": true,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Yusuf Permana, Jakarta, 30 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=lhECnV4-H08",
+ "duration_s": 53,
+ "duration_hms": "0:53",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "token_count": 95,
+ "unique_word_count": 65,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "lhECnV4-H08",
+   "url": "https://www.youtube.com/watch?v=lhECnV4-H08",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Yusuf Permana, Jakarta, 30 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 42.0,
+   "text": "Besok insyaallah 1 Syawal 1446 Hijriah, Bapak Presiden Republik Indonesia Prabowo Subianto akan menunaikan salat Idul Fitri di Masjid Istiqlal. Setelah salat Idul Fitri selesai, beliau akan menuju Istana Merdeka untuk melaksanakan acara gelar Gria. Bapak Presiden juga mengundang para mantan Presiden, mantan wakil presiden, para pejabat negara, para duta besar, lembaga internasional, tokoh agama, tokoh masyarakat, dan juga masyarakat umum untuk dapat hadir di acara Gelar Geria di Istana Merdeka."
+  },
+  {
+   "t": 43.0,
+   "d": 11.0,
+   "text": "Acara nanti akan dimulai pukul 09.00 dan acara ini sekaligus ingin menjadi acara silaturahim nasional membangun kekeluargaan, membangun kebersamaan di hari kemenangan yang fitri ini. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

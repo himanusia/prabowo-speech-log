@@ -1,0 +1,73 @@
+{
+ "id": "2026-05-28-dikawal-146-pasukan-berkuda-tiba-di-istana",
+ "video_id": "wajs6rcOAD4",
+ "date": "2026-05-28",
+ "date_precise": true,
+ "title": "Dikawal 146 Pasukan Berkuda, Presiden Prabowo Tiba di Istana Élysée, Paris, 28 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=wajs6rcOAD4",
+ "duration_s": 89,
+ "duration_hms": "1:29",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 118,
+ "unique_word_count": 78,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "wajs6rcOAD4",
+   "url": "https://www.youtube.com/watch?v=wajs6rcOAD4",
+   "title": "Dikawal 146 Pasukan Berkuda, Presiden Prabowo Tiba di Istana Élysée, Paris, 28 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 23.0,
+   "d": 36.0,
+   "text": "[musik] [musik] [musik] [musik] Pertama-tama saya menyampaikan terima kasih yang sebesar-besarnya, penghargaan yang [musik] setinggi-tingginya atas penerimaan yang begitu besar, yang begitu baik, penuh kehormatan untuk saya dan delegasi saya."
+  },
+  {
+   "t": 59.0,
+   "d": 2.0,
+   "text": "Melihat perkembangan dunia ke depan."
+  },
+  {
+   "t": 61.0,
+   "d": 18.0,
+   "text": "[musik] Kita yakin di keadaan global yang penuh ketidakpastian, penuh ketegangan, penuh konflik, kedua negara kita bisa mainkan suatu peranan yang [musik] positif."
+  },
+  {
+   "t": 79.0,
+   "d": 23.0,
+   "text": "Indonesia selalu akan mendorong semua usaha untuk memelihara perdamaian di dunia. Sekarang di mana bumi sudah semakin kecil karena sains dan teknologi, perang dan konflik tidak mungkin membawa kebaikan untuk siapapun."
+  },
+  {
+   "t": 102.0,
+   "d": 10.0,
+   "text": "Hari ini saya diterima dengan kehormatan yang begitu besar. Terima kasih sekali [musik] lagi. Semoga Indonesia dan Prancis terus melangkah maju dengan arah yang jelas, komitmen yang kuat. [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

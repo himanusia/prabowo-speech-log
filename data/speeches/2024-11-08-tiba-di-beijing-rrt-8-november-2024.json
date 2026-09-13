@@ -1,0 +1,58 @@
+{
+ "id": "2024-11-08-tiba-di-beijing-rrt-8-november-2024",
+ "video_id": "J6J_YxCYguM",
+ "date": "2024-11-08",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Beijing, RRT, 8 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=J6J_YxCYguM",
+ "duration_s": 183,
+ "duration_hms": "3:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 118,
+ "unique_word_count": 71,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "J6J_YxCYguM",
+   "url": "https://www.youtube.com/watch?v=J6J_YxCYguM",
+   "title": "Presiden Prabowo Tiba di Beijing, RRT, 8 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 150.0,
+   "text": "[Tepuk tangan] [Musik] loya Gak ada ketemu lagi rasanya senang banget karena aku sama teman-teman juga tadi udah nunggu dan kita semua udah pada gak sabar untuk ketemu Pak prabo dan ternyata ekspektasi kita bagus banget karena Pak prabo sangat ramah dan baik Sema Pak Prabowo terus amanah dan juga menjalankan semua tugasnya dengan baik hingga masa akhir jabatan exting banget akhirnya kita bisa ketemu prabao juga apalagi eh di Beijing"
+  },
+  {
+   "t": 154.0,
+   "d": 33.0,
+   "text": "bukannya di Indonesia gitu ya Oh tadi Eh ketemu presiden sangat sangat senang ya karena itu pertama kali untuk saya bisa bertemu dengan Presiden Republik Indonesia dan itu bagi saya Saya pikir itu sangat senang dan itu itu sangat jarang kesempatannya sangat jarang jadi saya senang-senang BAP"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

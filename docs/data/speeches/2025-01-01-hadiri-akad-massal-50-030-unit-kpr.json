@@ -1,0 +1,78 @@
+{
+ "id": "2025-01-01-hadiri-akad-massal-50-030-unit-kpr",
+ "video_id": "Gxka7SXu3bg",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo Hadiri Akad Massal 50.030 Unit KPR FLPP dan Serah Terima Kunci, Serang, 20 Des 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Gxka7SXu3bg",
+ "duration_s": 126,
+ "duration_hms": "2:06",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 168,
+ "unique_word_count": 90,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Gxka7SXu3bg",
+   "url": "https://www.youtube.com/watch?v=Gxka7SXu3bg",
+   "title": "Presiden Prabowo Hadiri Akad Massal 50.030 Unit KPR FLPP dan Serah Terima Kunci, Serang, 20 Des 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 50.0,
+   "text": "[musik] [musik] [musik] [musik] [musik] Eh, saya sangat merasa senang sekali karena dibantu dengan program subsidi ini. Jadi, meringankan saya untuk e bulanannya dan juga terlihat dari ee model rumahnya pun tidak terlihat subsidinya seperti rumah kluster tapi dengan biaya subsidi gitu. Jadi ee modelnya yang sangat bagus dan juga [musik] dari kualitas rumah ini alhamdulillah bagus. termasuk juga dari"
+  },
+  {
+   "t": 54.0,
+   "d": 25.0,
+   "text": "air di sini alhamdulillah jernih itu bisa dikonsumsi seperti itu. Ee sangat bangga sekali, sangat bersyukur [musik] dan juga ee terharu bisa memiliki rumah pertama saya dengan harga yang terjangkau dan juga angsuran yang terjangkau dibantu dengan program-program pemerintah yang sangat membantu sekali [musik] untuk saya."
+  },
+  {
+   "t": 79.0,
+   "d": 15.0,
+   "text": "Sebelumnya terima kasih untuk Bapak Presiden karena sudah menyediakan [musik] rumah murah bagi kami yang ingin memiliki rumah, impian-impian kami beserta keluarga supaya bisa lebih mandiri lagi."
+  },
+  {
+   "t": 94.0,
+   "d": 12.0,
+   "text": "Ee untuk Bapak Presiden Prabowo, terima kasih atas program perumahannya. Sangat membantu untuk kita masyarakat sebagai UMKM. Terima kasih."
+  },
+  {
+   "t": 106.0,
+   "d": 9.0,
+   "text": "Sekali lagi [tepuk tangan] terima kasih semua pihak yang bekerja keras sampai kita bisa menghasilkan 50.030."
+  },
+  {
+   "t": 115.0,
+   "d": 15.0,
+   "text": "[musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

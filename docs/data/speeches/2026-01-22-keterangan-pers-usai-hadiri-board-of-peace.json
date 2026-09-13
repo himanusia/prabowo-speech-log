@@ -1,0 +1,78 @@
+{
+ "id": "2026-01-22-keterangan-pers-usai-hadiri-board-of-peace",
+ "video_id": "atzqXDtCM1I",
+ "date": "2026-01-22",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Board of Peace (BoP) Charter, Davos, 22 Januari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=atzqXDtCM1I",
+ "duration_s": 40,
+ "duration_hms": "0:40",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 6,
+ "token_count": 70,
+ "unique_word_count": 40,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "atzqXDtCM1I",
+   "url": "https://www.youtube.com/watch?v=atzqXDtCM1I",
+   "title": "Keterangan Pers Presiden Prabowo Usai Hadiri Board of Peace (BoP) Charter, Davos, 22 Januari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 5.0,
+   "text": "Saya kira ini kesempatan bersejarah. Ini kesempatan bersejarah."
+  },
+  {
+   "t": 6.0,
+   "d": 9.0,
+   "text": "Ee ini benar-benar peluang untuk mencapai perdamaian di Gaza. Yang jelas penderitaan rakyat Gaza sudah berkurang."
+  },
+  {
+   "t": 15.0,
+   "d": 4.0,
+   "text": "Sangat berkurang ya. Sangat berkurang."
+  },
+  {
+   "t": 19.0,
+   "d": 6.0,
+   "text": "Ee bantuan-bantuan ee kemanusiaan begitu deras, begitu besar masuk. Sudah masuk."
+  },
+  {
+   "t": 25.0,
+   "d": 13.0,
+   "text": "Saya sangat ee saya sangat berharap dan Indonesia siap ikut serta membersmembers yang ada di ya. Siapa yang ingin perdamaian di situ?"
+  },
+  {
+   "t": 38.0,
+   "d": 3.0,
+   "text": "Siapa yang ingin bantu rakyat Gaza rakyat Palestina?"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

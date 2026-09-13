@@ -1,0 +1,78 @@
+{
+ "id": "2025-04-14-keterangan-pers-usai-bertemu-dengan-raja-abdullah",
+ "video_id": "TSGyrSE6pmg",
+ "date": "2025-04-14",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Raja Abdullah II, Amman, 14 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=TSGyrSE6pmg",
+ "duration_s": 123,
+ "duration_hms": "2:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 195,
+ "unique_word_count": 120,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "TSGyrSE6pmg",
+   "url": "https://www.youtube.com/watch?v=TSGyrSE6pmg",
+   "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Raja Abdullah II, Amman, 14 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 1,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 41.0,
+   "text": "Bapak sedikit Pakikin Pak sedikit aja Pakit Pak izin Pak Pak hasil hasil Pak hasil pertemuan tadi bagaimana Pak ya kita ee membahas peningkat kerja sama di beberapa bidang bidang ee pendidikan, sains, teknologi, ekonomi, OMI ya kan kita di sini ee kita beli banyak ee fosfat bot untuk pupuk kita ee salah satu termurah di dunia."
+  },
+  {
+   "t": 43.0,
+   "d": 6.0,
+   "text": "Kita juga ee bicara masalah Gaza ya."
+  },
+  {
+   "t": 49.0,
+   "d": 27.0,
+   "text": "bagaimana kita bisa ee membantu dari segi kemanusiaan ee juga kita mendesak segera ada pencat senjata dan kita akan ee menawarkan apa yang bisa kita bantu untuk ee mempercepat proses perdamaian. Pak, hasil konsultasi dengan lima negara nih sudah ee dijalani, Pak."
+  },
+  {
+   "t": 76.0,
+   "d": 31.0,
+   "text": "Bagaimana, Pak, hasil konsultasinya banyak? Alhamdulillah, ya kita dapat ee update yang jernih. Kita berharap mungkin dalam waktu dekat akan ada terobosan ke arah yang baik. Ee tentunya kita harus ee menghitung dan membela kepentingan semua pihak, terutama kepentingan rakyat Palestina."
+  },
+  {
+   "t": 107.0,
+   "d": 15.0,
+   "text": "Saya kira itu Bapak boleh diceritakan boleh diceritakan sedikit Pak kedekatan dengan Raja Abdullah kemarin banyak momen hangat yang juga jadi perhatian masyarakat. Seperti apa sih Pak kedekatannya Pak? Memang memang sahabat lama waktu kita masih muda."
+  },
+  {
+   "t": 122.0,
+   "d": 3.0,
+   "text": "Sekarang masih berjiwa muda ya, tapi kita bersahabat ya. Terima kasihi."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

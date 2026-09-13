@@ -1,0 +1,63 @@
+{
+ "id": "2025-04-11-keterangan-pers-sebelum-bertolak-menuju-antalya-ankara",
+ "video_id": "guyB_xYGSUk",
+ "date": "2025-04-11",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Sebelum Bertolak Menuju Antalya, Ankara, 11 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=guyB_xYGSUk",
+ "duration_s": 45,
+ "duration_hms": "0:45",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 6,
+ "token_count": 70,
+ "unique_word_count": 53,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "guyB_xYGSUk",
+   "url": "https://www.youtube.com/watch?v=guyB_xYGSUk",
+   "title": "Keterangan Pers Presiden Prabowo Sebelum Bertolak Menuju Antalya, Ankara, 11 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 6.0,
+   "text": "Bapak dikit ya, Pak. Iya."
+  },
+  {
+   "t": 7.0,
+   "d": 20.0,
+   "text": "Iya. Iya, Bapak. Saya kira sudah saya diterima dengan baik di sini. Kita memang punya hubungan yang khusus dengan Turki. Kita ingin mempereratukan ini, kerja sama di berbagai bidang."
+  },
+  {
+   "t": 27.0,
+   "d": 19.0,
+   "text": "Eh secara keseluruhan saya sangat ee merasa produktif kunjungan saya kali ini ya. Saya sekarang ke Anatalia Antalia itu ada semacam konferensi di situ. E dan habis itu saya akan ke Kairo. Oke, terima kasih. Makasih, Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

@@ -1,0 +1,513 @@
+{
+ "id": "2025-01-01-kaleidoskop-2025-kepemimpinan-arah-tegas-menuju-berdaulat",
+ "video_id": "P-qC_SuFM7g",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Kaleidoskop 2025: Kepemimpinan Presiden Prabowo, Arah Tegas Menuju Indonesia Berdaulat",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=P-qC_SuFM7g",
+ "duration_s": 1362,
+ "duration_hms": "22:42",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 171,
+ "token_count": 2093,
+ "unique_word_count": 699,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "P-qC_SuFM7g",
+   "url": "https://www.youtube.com/watch?v=P-qC_SuFM7g",
+   "title": "Kaleidoskop 2025: Kepemimpinan Presiden Prabowo, Arah Tegas Menuju Indonesia Berdaulat",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 11,
+  "ekonomi": 51,
+  "pendidikan": 7,
+  "kesehatan_dan_gizi": 26,
+  "tata_kelola": 19,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 76
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  },
+  "Hilirisasi": {
+   "count": 4
+  },
+  "Koperasi desa": {
+   "count": 1
+  },
+  "Rumah subsidi": {
+   "count": 4
+  },
+  "Sekolah Rakyat": {
+   "count": 3
+  },
+  "3 juta rumah": {
+   "count": 2
+  },
+  "Korupsi dan kebocoran": {
+   "count": 2
+  },
+  "Bencana dan penanganan": {
+   "count": 4
+  }
+ },
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 68.0,
+   "text": "[musik] [musik] [musik] [musik] [musik] Tahun 2025 menjadi momentum penting dalam kepemimpinan Presiden Prabowo Subianto [musik] di tengah tantangan global yang kian kompleks. Mulai dari ketidakpastian ekonomi, krisis pangan, dan tekanan geopolitik, Indonesia tetap memilih arah yang jelas dalam membangun kemandirian bangsa."
+  },
+  {
+   "t": 72.0,
+   "d": 14.0,
+   "text": "Arah tersebut tidak berhenti pada visi besar, namun diwujudkan melalui pelaksanaan Asta [musik] Cita dan berbagai program prioritas yang langsung menyentuh kebutuhan masyarakat."
+  },
+  {
+   "t": 86.0,
+   "d": 12.0,
+   "text": "Salah satu wujud paling nyata dari Asta Cita [musik] adalah program makan bergizi gratis. Program ini menegaskan komitmen negara dalam membangun kualitas sumber daya manusia sejak usia dini."
+  },
+  {
+   "t": 98.0,
+   "d": 18.0,
+   "text": "Pemenuhan gizi anak-anak bukan sekedar kebijakan sosial, melainkan [musik] investasi jangka panjang bagi masa depan bangsa. Melalui program ini, negara hadir di ruang paling dasar [musik] kehidupan rakyat, yaitu meja makan keluarga dan ruang kelas sekolah."
+  },
+  {
+   "t": 116.0,
+   "d": 19.0,
+   "text": "Anak-anak Indonesia dipersiapkan untuk tumbuh sehat, cerdas, [musik] dan berdaya saing. Inilah perwujudan Asta Cita dalam pembangunan manusia yang berkeadilan [musik] dan berkelanjutan."
+  },
+  {
+   "t": 135.0,
+   "d": 21.0,
+   "text": "[musik] Tahun 2025 menjadi tonggak penting dalam arah pembangunan sumber daya manusia Indonesia. Di bawah kepemimpinan Presiden Prabowo Subianto, pendidikan kembali ditegaskan sebagai fondasi utama kemajuan bangsa."
+  },
+  {
+   "t": 156.0,
+   "d": 17.0,
+   "text": "Salah satu wujud nyata dari komitmen tersebut adalah penguatan dan pembangunan sekolah rakyat. sebuah inisiatif yang menegaskan bahwa negara hadir untuk memastikan setiap anak Indonesia [musik] memiliki hak sama untuk belajar dan bermimpi."
+  },
+  {
+   "t": 173.0,
+   "d": 25.0,
+   "text": "Presiden Prabowo memandang sekolah rakyat bukan sekedar bangunan fisik, [musik] melainkan ruang harapan. Melalui kebijakan yang berpihak pada masyarakat [musik] kecil, sekolah rakyat dirancang untuk menjangkau anak-anak dari keluarga kurang mampu, daerah terpencil, dan kelompok yang selama ini rentan tertinggal [musik] dari sistem pendidikan formal."
+  },
+  {
+   "t": 198.0,
+   "d": 19.0,
+   "text": "Ini mencerminkan keyakinan Presiden Prabowo bahwa tidak boleh ada satuun anak Indonesia yang [musik] tertinggal hanya karena kondisi ekonomi."
+  },
+  {
+   "t": 217.0,
+   "d": 18.0,
+   "text": "Peluncuran program magang kerja oleh Presiden Prabowo Subianto menjadi salah satu tonggak penting dalam upaya membangun sumber daya manusia Indonesia yang unggul, [musik] berdaya saing, dan siap menghadapi tantangan dunia kerja global."
+  },
+  {
+   "t": 235.0,
+   "d": 12.0,
+   "text": "[musik] Program magang ini dirancang untuk memberikan kesempatan kepada pelajar, mahasiswa, dan lulusan baru untuk terjun langsung ke dunia kerja."
+  },
+  {
+   "t": 247.0,
+   "d": 13.0,
+   "text": "Peserta akan ditempatkan di berbagai [musik] sektor strategis mulai dari industri, UMKM, pertanian, teknologi hingga instansi [musik] pemerintahan."
+  },
+  {
+   "t": 260.0,
+   "d": 11.0,
+   "text": "Dengan demikian, mereka dapat merasakan langsung ritme kerja, budaya profesional, serta tantangan nyata yang tidak selalu diajarkan di ruang kelas."
+  },
+  {
+   "t": 271.0,
+   "d": 18.0,
+   "text": "Program magang kerja menargetkan 100.000 peserta hingga akhir 2025 dengan dukungan 1666 [musik] perusahaan yang telah mendaftarkan 26.181 lowongan [musik] magang. Program magang ini dilaksanakan dalam dua gelombang."
+  },
+  {
+   "t": 289.0,
+   "d": 6.0,
+   "text": "Gelombang pertama diikuti 20.000 peserta yang mulai bekerja pada 20 Oktober 2025."
+  },
+  {
+   "t": 295.0,
+   "d": 7.0,
+   "text": "Sementara gelombang kedua dibuka pada bulan November dengan target tambahan 80.000 peserta."
+  },
+  {
+   "t": 302.0,
+   "d": 11.0,
+   "text": "Program magang kerja yang diluncurkan Presiden Prabowo Subianto mencerminkan visi besar Indonesia [musik] menuju masa depan yang mandiri dan berdaya saing."
+  },
+  {
+   "t": 313.0,
+   "d": 15.0,
+   "text": "Program ini bukan hanya tentang bekerja, tetapi upaya untuk menyiapkan generasi penerus bangsa yang siap memimpin, berkontribusi, dan membawa Indonesia menjadi negara yang kuat [musik] di kancah global."
+  },
+  {
+   "t": 328.0,
+   "d": 12.0,
+   "text": "Dengan langkah [musik] nyata ini, harapan akan lahirnya generasi emas Indonesia bukan lagi sekedar wacana, [musik] melainkan sebuah pencapaian besar bagi Indonesia."
+  },
+  {
+   "t": 340.0,
+   "d": 22.0,
+   "text": "[musik] [musik] Pemerintah di bawah kepemimpinan Presiden Prabowo Subianto memberikan perhatian serius [musik] pada kebijakan stimulus keuangan sebagai instrumen utama menjaga [musik] stabilitas dan mendorong pertumbuhan ekonomi nasional."
+  },
+  {
+   "t": 362.0,
+   "d": 8.0,
+   "text": "Stimulus ini dirancang untuk melindungi daya beli masyarakat sekaligus menggerakkan sektor usaha."
+  },
+  {
+   "t": 370.0,
+   "d": 8.0,
+   "text": "Presiden Prabowo menegaskan bahwa kebijakan keuangan negara harus berpihak pada rakyat dan [musik] dunia usaha produktif."
+  },
+  {
+   "t": 378.0,
+   "d": 14.0,
+   "text": "Oleh karena itu, pemerintah menyalurkan berbagai stimulus yang menyasar masyarakat berpenghasilan rendah, UMKM, serta [musik] sektor-sektor strategis yang memiliki dampak luas terhadap perekonomian."
+  },
+  {
+   "t": 392.0,
+   "d": 9.0,
+   "text": "Delap stimulus ekonomi telah [musik] dirilis pemerintah dengan total anggaran 16,23 triliun."
+  },
+  {
+   "t": 401.0,
+   "d": 14.0,
+   "text": "Stimulus ini diberikan dalam bentuk bantuan pangan hingga pembebasan pajak yang ditargetkan [musik] mampu mendorong pertumbuhan ekonomi hingga 5,2% sepanjang 2025."
+  },
+  {
+   "t": 415.0,
+   "d": 11.0,
+   "text": "Presiden Prabowo Subianto menyiapkan anggaran 16,23 [musik] triliun untuk membiayai stimulus tersebut."
+  },
+  {
+   "t": 426.0,
+   "d": 10.0,
+   "text": "Dana itu akan [musik] digunakan antara lain untuk tambahan bantuan sosial dan perluasan pembebasan pajak penghasilan."
+  },
+  {
+   "t": 436.0,
+   "d": 10.0,
+   "text": "Pemerintah memastikan setiap kebijakan stimulus dijalankan [musik] secara hati-hati, terukur, dan berkelanjutan dengan tetap menjaga kesehatan fiskal negara."
+  },
+  {
+   "t": 446.0,
+   "d": 9.0,
+   "text": "Transparansi dan akuntabilitas menjadi bagian penting [musik] agar manfaat stimulus benar-benar dirasakan masyarakat."
+  },
+  {
+   "t": 455.0,
+   "d": 21.0,
+   "text": "[musik] Melalui stimulus keuangan yang tepat, sasaran dan berpihak pada produktivitas, Presiden Prabowo optimistis Indonesia mampu menghadapi tantangan global dengan lebih tangguh sekaligus membuka peluang pertumbuhan ekonomi yang inklusif."
+  },
+  {
+   "t": 476.0,
+   "d": 32.0,
+   "text": "[musik] Dalam kerangka Asta Cita tentang pemerataan pembangunan dan penguatan ekonomi rakyat, Koperasi Desa Merah Putih menjadi instrumen [musik] penting di tahun 2025. Program ini mendorong desa tidak hanya sebagai objek pembangunan, melainkan sebagai pusat pertumbuhan ekonomi. Koperasi diperkuat sebagai wadah produksi, distribusi, dan pemasaran hasil desa. Negara hadir bukan untuk menggantikan peran rakyat, melainkan [musik] memperkuatnya. Dengan koperasi yang sehat dan profesional, desa menjadi"
+  },
+  {
+   "t": 508.0,
+   "d": 11.0,
+   "text": "[musik] mandiri, lapangan kerja tumbuh, dan ekonomi nasional menguat dari bawah."
+  },
+  {
+   "t": 519.0,
+   "d": 14.0,
+   "text": "[musik] Penguatan ekonomi rakyat juga diwujudkan melalui kredit usaha rakyat atau KUR atau KUR [musik] yang terus diperluas dan dipermudah."
+  },
+  {
+   "t": 533.0,
+   "d": 19.0,
+   "text": "Di bawah kepemimpinan Prabowo, Kur diarahkan agar benar-benar menjadi alat pemberdayaan bukan sekedar fasilitas keuangan. Bagi petani, nelayan, pedangan kecil, dan pelaku UMKM, KUR membuka akses modal yang selama ini menjadi hambatan utama."
+  },
+  {
+   "t": 552.0,
+   "d": 12.0,
+   "text": "Program ini sejalan dengan [musik] Asta Cita dalam menciptakan keadilan ekonomi dan membuka kesempatan yang setara bagi seluruh rakyat untuk tumbuh dan berkembang."
+  },
+  {
+   "t": 564.0,
+   "d": 39.0,
+   "text": "[musik] Di tahun 2025, program kredit juga digelontorkan Presiden Prabowo dalam sektor perumahan. [musik] Salah satunya merealisasikan program 3 juta rumah sebagai upaya memenuhi kebutuhan hunian layak bagi masyarakat [musik] berpenghasilan rendah. Komitmen tersebut ditandai dengan peresmian akad massal 26.000 Kredit pemilikan rumah fasilitas likuiditas pembiayaan perumahan [musik] atau FLPP yang dirangkaikan dengan serah [musik] terima kunci rumah subsidi menyala di Cilengsi, Kabupaten Bogor."
+  },
+  {
+   "t": 603.0,
+   "d": 15.0,
+   "text": "Selain itu, akad massal juga dihadiri langsung Presiden Prabowo terhadap [musik] 50.030 unit rumah. Subsidi ini dipusatkan di Perumahan Pondok Banten Indah, Kecamatan Cipocok [musik] Jaya, Kota Serang."
+  },
+  {
+   "t": 618.0,
+   "d": 9.0,
+   "text": "Melalui program FLPP, pemerintah memberikan kemudahan pembiayaan perumahan berupa bunga tetap, cicilan terjangkau, dan tenor panjang."
+  },
+  {
+   "t": 627.0,
+   "d": 10.0,
+   "text": "Harapannya agar masyarakat berpenghasilan rendah dapat memiliki rumah pertama secara lebih mudah dan berkelanjutan."
+  },
+  {
+   "t": 637.0,
+   "d": 17.0,
+   "text": "Selain akad kredit, kegiatan ini juga menandai dimulainya pemanfaatan rumah subsidi yang telah siap huni lengkap dengan fasilitas sambungan listrik [musik] sebagai bagian dari upaya peningkatan kualitas hunian rakyat."
+  },
+  {
+   "t": 654.0,
+   "d": 17.0,
+   "text": "Program 3 juta rumah menjadi salah satu program prioritas nasional [musik] yang tidak hanya bertujuan menyediakan rumah layak, tetapi juga mendorong pertumbuhan ekonomi, [musik] memperluas lapangan kerja di sektor konstruksi, serta menggerakkan industri pendukung dan UMKM."
+  },
+  {
+   "t": 671.0,
+   "d": 28.0,
+   "text": "Dengan terlaksananya akad massal dan serah terima kunci [musik] ini, ribuan keluarga kini resmi memiliki rumah sendiri sekaligus menjadi bagian dari langkah nyata pemerintah dalam membangun kesejahteraan rakyat [musik] dari sektor perumahan."
+  },
+  {
+   "t": 699.0,
+   "d": 27.0,
+   "text": "Di bawah Komando Kepemimpinan Presiden Prabowo Subianto, pemerintah terus memperkuat program hilirisasi nasional sebagai strategi utama dalam membangun kemandirian ekonomi [musik] dan meningkatkan nilai tambah di dalam negeri. Presiden Prabowo telah menetapkan 26 sektor komoditas sebagai prioritas hilirisasi nasional mencakup mineral, minyak, dan gas. perikanan, pertanian, perkebunan, serta kehutanan."
+  },
+  {
+   "t": 726.0,
+   "d": 15.0,
+   "text": "Selain memperkuat ketahanan energi dan industri nasional, hilirisasi juga diproyeksikan menciptakan banyak lapangan kerja bagi masyarakat Indonesia. Sepanjang tahun 2025, hilirisasi telah menjadi magnet investasi nasional dan global."
+  },
+  {
+   "t": 741.0,
+   "d": 12.0,
+   "text": "Pemerintah terus berupaya memastikan kepastian regulasi, percepatan proses perizinan, serta penguatan infrastruktur pendukung agar investasi berjalan seiring dengan kepentingan nasional."
+  },
+  {
+   "t": 753.0,
+   "d": 11.0,
+   "text": "Presiden Prabo selalu menegaskan [musik] bahwa kekayaan alam Indonesia haruslah menjadi modal kekuatan bangsa, bukan sekedar komoditas ekspor murah."
+  },
+  {
+   "t": 764.0,
+   "d": 28.0,
+   "text": "[musik] Dalam masa [musik] kepemimpinannya di tahun 2025, Presiden Prabo telah menempatkan ketahanan energi sebagai [musik] salah satu pilar utama pembangunan nasional. Melalui berbagai program strategis, [musik] pemerintah berupaya memastikan ketersediaan energi yang andal, terjangkau, dan berkelanjutan bagi seluruh rakyat Indonesia."
+  },
+  {
+   "t": 792.0,
+   "d": 19.0,
+   "text": "[musik] Presiden Prabowo menegaskan bahwa energi bukan sekedar komoditas ekonomi, melainkan fondasi kedaulatan [musik] bangsa. Karena itu, pemerintah mendorong penguatan produksi energi nasional sekaligus mengurangi ketergantungan terhadap impor."
+  },
+  {
+   "t": 811.0,
+   "d": 9.0,
+   "text": "[musik] Ketahanan energi diarahkan untuk mendukung sektor strategis lainnya seperti industri transportasi dan pangan."
+  },
+  {
+   "t": 820.0,
+   "d": 11.0,
+   "text": "[musik] Pasokan energi yang stabil diharapkan mampu meningkatkan daya saing ekonomi nasional dan mendorong pertumbuhan yang inklusif."
+  },
+  {
+   "t": 831.0,
+   "d": 13.0,
+   "text": "Salah satunya PLTA di kawasan Bendungan, Jati Gede, Kabupaten Sumedang yang [musik] menjadi proyek strategis nasional dalam mendukung transisi menuju energi baru terbarukan."
+  },
+  {
+   "t": 844.0,
+   "d": 14.0,
+   "text": "PLTLJ3D memiliki kapasitas pembangkit dua turbin 2* 55 [musik] MW atau 110 MW memanfaatkan aliran air dari Bendungan Jati Gede."
+  },
+  {
+   "t": 858.0,
+   "d": 13.0,
+   "text": "Proyek ini tidak hanya bertujuan menyediakan energi listrik [musik] yang ramah lingkungan, tetapi juga memberikan manfaat tambahan yang berfungsi sebagai pengendali banjir."
+  },
+  {
+   "t": 871.0,
+   "d": 7.0,
+   "text": "khususnya untuk wilayah hilir seperti Majalengka, Subang, dan Indramayu."
+  },
+  {
+   "t": 878.0,
+   "d": 6.0,
+   "text": "Bagi para petani, air yang dialirkan dari Bendungan Jati Gede menjadi sumber irigasi utama untuk lahan pertanian."
+  },
+  {
+   "t": 884.0,
+   "d": 19.0,
+   "text": "[musik] Pemerintah menargetkan ketahanan energi yang tidak hanya kuat di pusat, tetapi juga menjangkau wilayah terluar, [musik] terdepan, dan tertinggal. Melalui pembangunan infrastruktur energi di daerah, akses listrik dan energi besi semakin merata bagi seluruh masyarakat."
+  },
+  {
+   "t": 903.0,
+   "d": 19.0,
+   "text": "[musik] Dengan berbagai kebijakan dan program tersebut, Presiden Prabowo optimistis [musik] Indonesia mampu berdiri tegak sebagai bangsa yang mandiri secara energi, kuat menghadapi tantangan global, [musik] dan berdaulat dalam menentukan arah pembangunannya."
+  },
+  {
+   "t": 922.0,
+   "d": 10.0,
+   "text": "[musik] Ketahanan energi bukan sekedar soal hari ini, melainkan investasi bagi masa depan Indonesia."
+  },
+  {
+   "t": 932.0,
+   "d": 21.0,
+   "text": "[musik] Di sepanjang tahun 2025, Presiden Prabowo Subianto terus memperkuat konektivitas [musik] dan keselamatan nasional sebagai bagian dari implementasi Asta Cita."
+  },
+  {
+   "t": 953.0,
+   "d": 5.0,
+   "text": "[musik] Program delan agenda strategis pembangunan yang menjadi fondasi arah Indonesia ke depan."
+  },
+  {
+   "t": 958.0,
+   "d": 11.0,
+   "text": "Salah satunya peresmian stasiun Tanah Abang Baru yang merupakan bagian dari komitmen pemerintah untuk terus memperkuat konektivitas [musik] antar moda di Jakarta."
+  },
+  {
+   "t": 969.0,
+   "d": 14.0,
+   "text": "Presiden Prabowo menegaskan bahwa transportasi [musik] publik yang aman, nyaman, dan terjangkau adalah hak seluruh warga negara serta fondasi penting bagi produktivitas dan pemerataan ekonomi nasional."
+  },
+  {
+   "t": 983.0,
+   "d": 11.0,
+   "text": "Presiden Prabowo menegaskan bahwa konektivitas [musik] merupakan kunci dalam memperkuat persatuan nasional dan membuka peluang ekonomi yang merata."
+  },
+  {
+   "t": 994.0,
+   "d": 19.0,
+   "text": "[musik] Pembangunan jalan, jembatan, pelabuhan, bandara, serta [musik] transportasi massal terus dipercepat terutama untuk menghubungkan daerah terpencil, terluar, dan perbatasan dengan pusat-pusat [musik] pertumbuhan."
+  },
+  {
+   "t": 1013.0,
+   "d": 31.0,
+   "text": "[musik] [musik] Selain gizi dan ekonomi, kesehatan menjadi pilar [musik] penting dalam Asta Cita. Tahun 2025 ditandai dengan pelaksanaan program cek kesehatan [musik] gratis yang menegaskan perubahan paradigma dari pengobatan ke pencegahan."
+  },
+  {
+   "t": 1044.0,
+   "d": 7.0,
+   "text": "Dengan pemeriksaan kesehatan yang mudah diakses, negara membantu masyarakat menjaga [musik] kualitas hidupnya sejak dini."
+  },
+  {
+   "t": 1051.0,
+   "d": 18.0,
+   "text": "Program ini tidak hanya menekan biaya kesehatan jangka panjang, namun juga meningkatkan produktivitas masyarakat secara keseluruhan. Negara hadir sebelum rakyat [musik] jatuh sakit."
+  },
+  {
+   "t": 1069.0,
+   "d": 6.0,
+   "text": "Sepanjang tahun 2025, kunjungan luar negeri Presiden Prabowo bukan sekedar [musik] agenda seremonial."
+  },
+  {
+   "t": 1075.0,
+   "d": 8.0,
+   "text": "Diplomasi dijalankan sebagai instrumen strategis untuk memperkuat posisi Indonesia di panggung internasional."
+  },
+  {
+   "t": 1083.0,
+   "d": 13.0,
+   "text": "Melalui pertemuan dengan berbagai pemimpin dunia, Indonesia tampil sebagai negara yang percaya diri, berdaulat, dan siap bekerja sama secara [musik] setara."
+  },
+  {
+   "t": 1096.0,
+   "d": 9.0,
+   "text": "Diplomasi diarahkan pada penguatan [musik] berbagai bentuk kerja sama konkret di beragam sektor [musik] strategis."
+  },
+  {
+   "t": 1105.0,
+   "d": 7.0,
+   "text": "Pendekatan ini mencerminkan prinsip bahwa hubungan luar negeri harus memberi manfaat [musik] nyata bagi rakyat."
+  },
+  {
+   "t": 1112.0,
+   "d": 13.0,
+   "text": "Bukan sekadar citra, Indonesia tidak hanya ingin menjadi pasar, tetapi mitra yang dihormati."
+  },
+  {
+   "t": 1125.0,
+   "d": 16.0,
+   "text": "Sebagai pemimpin dengan latar belakang pertahanan, Prabowo menempatkan keamanan nasional sebagai [musik] syarat utama pembangunan. Tahun 2025 ditandai dengan penguatan sistem pertahanan negara [musik] melalui modernisasi alut sista."
+  },
+  {
+   "t": 1141.0,
+   "d": 6.0,
+   "text": "peningkatan profesionalisme aparat dan perhatian terhadap kesejahteraan prajurit."
+  },
+  {
+   "t": 1147.0,
+   "d": 9.0,
+   "text": "[musik] Pendekatan ini menegaskan sikap Indonesia yang cinta damai, namun tidak mengorbankan kedaulatan."
+  },
+  {
+   "t": 1156.0,
+   "d": 23.0,
+   "text": "Keamanan bukan untuk menakuti, melainkan melindungi. Tujuannya agar rakyat dapat hidup bekerja dan bermimpi dengan rasa aman."
+  },
+  {
+   "t": 1179.0,
+   "d": 12.0,
+   "text": "Peristiwa banjir bandang yang melanda sejumlah wilayah di Sumatera dan Aceh pada akhir November 2025 menjadi ujian nyata bagi pemerintahan Prabowo."
+  },
+  {
+   "t": 1191.0,
+   "d": 6.0,
+   "text": "Pada situasi darurat tersebut, negara langsung bergerak cepat, terkoordinasi, dan berpihak pada keselamatan rakyat."
+  },
+  {
+   "t": 1197.0,
+   "d": 16.0,
+   "text": "Pemerintah pusat di bawah kepemimpinan Presiden Prabowo selalu memastikan respon penanganan bencana berjalan terpadu. Caranya melalui pengerahan sumber daya, dukungan [musik] logistik, serta koordinasi lintas kementerian dan lembaga."
+  },
+  {
+   "t": 1213.0,
+   "d": 26.0,
+   "text": "[musik] Perhatian terhadap kebutuhan dasar masyarakat terdampak menjadi bagian dari komitmen negara untuk hadir di saat rakyat menghadapi masa paling sulit. Peristiwa ini menegaskan bahwa kepemimpinan tidak hanya diuji dalam perumusan kebijakan strategis, tetapi juga dalam kemampuan negara melindungi warganya ketika bencana [musik] datang tanpa peringatan."
+  },
+  {
+   "t": 1239.0,
+   "d": 10.0,
+   "text": "[musik] Di tahun 2025, Presiden Prabowo telah dua kali hadir langsung ke Kejaksaan Agung menyaksikan penyerahan uang [musik] hasil sitaan negara."
+  },
+  {
+   "t": 1249.0,
+   "d": 23.0,
+   "text": "Kedatangan pertama dilakukan pada 20 Oktober 2025 di mana [musik] saat itu Kejaksaan Agung menyerahkan total uang sebesar R13,255 triliun. [musik] Uang tersebut hasil dari kasus tindak pidana korupsi explor crude palm oil minyak kelapa sawit periode 2021-2022 yang menjerat sejumlah korporasi."
+  },
+  {
+   "t": 1272.0,
+   "d": 32.0,
+   "text": "Sedangkan kedatangan kedua dilakukan Presiden Prabowo pada tanggal 24 Desember 2025 dengan uang 6,6 triliun hasil rampasan terkait kasus penyalahgunaan hutan serta korupsi ekspor CPO dan impor gula. Pada kedatangan kedua tersebut, Presiden Prabo juga menuliskan pesan khusus pada sebuah prasasti yang ditandatangani sendiri oleh Presiden. [musik] Tulisannya berbunyi, \"Jadilah jaksa yang berani dan jujur dalam membela keadilan demi bangsa dan rakyat Indonesia tercinta. [musik]"
+  },
+  {
+   "t": 1304.0,
+   "d": 13.0,
+   "text": "Prabowo Subianto merupakan Presiden RI yang pertama memberikan kado istimewa akhir tahun berupa [musik] pesan dan dukungan kepada jaksa yang dituliskan dalam sebuah prasti."
+  },
+  {
+   "t": 1317.0,
+   "d": 26.0,
+   "text": "[musik] Kepemimpinan Presiden Prabowo di tahun 2025 menunjukkan arah yang konsisten dalam membangun Indonesia berdaulat, mandiri, dan berkeadilan dengan diplomasi yang efektif, ketahanan pangan yang diperkuat, kemandirian energi yang dirintis, pertahanan kokoh, serta [musik] program sosial yang menyentuh rakyat. Indonesia diarahkan untuk tidak sekedar bertahan, namun tetap melangkah maju dengan penuh percaya diri. [musik]"
+  },
+  {
+   "t": 1343.0,
+   "d": 13.0,
+   "text": "Tahun 2025 bukanlah tujuan akhir, melainkan fondasi bagi masa depan Indonesia yang lebih kuat dan bermartabat di tahun-tahun berikutnya."
+  },
+  {
+   "t": 1356.0,
+   "d": 10.0,
+   "text": "[musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

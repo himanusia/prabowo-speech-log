@@ -1,0 +1,73 @@
+{
+ "id": "2025-12-16-keterangan-pers-menteri-pertanian-andi-amran-sulaiman",
+ "video_id": "ZEchahHI8Os",
+ "date": "2025-12-16",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Pertanian Andi Amran Sulaiman, Jakarta, 16 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ZEchahHI8Os",
+ "duration_s": 101,
+ "duration_hms": "1:41",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 163,
+ "unique_word_count": 102,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ZEchahHI8Os",
+   "url": "https://www.youtube.com/watch?v=ZEchahHI8Os",
+   "title": "Keterangan Pers Menteri Pertanian Andi Amran Sulaiman, Jakarta, 16 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 7,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 11.0,
+   "text": "Yang ditanyakan apa nih? Yang pertama adalah yang sawah untuk Aceh Aceh, Sumut, Padang itu kurang lebih Rp70.000."
+  },
+  {
+   "t": 12.0,
+   "d": 8.0,
+   "text": "Yang pus ee sawah yang akan dicetak ulang itu 11.000 hektar sampai dengan hari ini."
+  },
+  {
+   "t": 20.0,
+   "d": 41.0,
+   "text": "Ini akan diselesaikan oleh pemerintah pusat. Yang kedua, masalah Papua itu kita akan suasembarakan Papua paling lambat 3 tahun, kalau bisa 2 tahun selesai. Karena Papua butuh 660.000 ton beras, tetapi hanya memproduksi 120.000 ton sehingga masih kekurangan 500.000 ton. Nah, 500.000 ton membutuhkan sawah 100.000 ton. kita sudah bagi Papua Selatan, Papua, dan Papua Barat. Bahkan enam provinsi juga memohon untuk cetak"
+  },
+  {
+   "t": 61.0,
+   "d": 38.0,
+   "text": "sawah. Insyaallah paling ee 3 tahun bisa jadi 2 tahun selesai Rp100.000. Sehingga Papua adalah SUA sembada pangan. Mimpi kita adalah seluruh pulau-pulau Kalimantan sudah, Sulawesi sudah, Sumatera sudah, Sosada, Jawa surplus. Mimpi kita seluruh Indonesia suas sembada pangan sehingga dia ngangkut itu tidak ada. Dia angkut antara pulau dan ini adalah solusi permanen masalah inflasi. Kemudian tadi ada perbaikan pabrik sagu kita akan selesaikan di"
+  },
+  {
+   "t": 99.0,
+   "d": 3.0,
+   "text": "Sorong. Kita akan aktifkan kembali sudah dibangun. tetapi harus diaktifkan kembali."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

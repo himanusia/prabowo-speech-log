@@ -1,0 +1,88 @@
+{
+ "id": "2025-09-08-keterangan-pers-menteri-perlindungan-pekerja-migran-mukhtarudin",
+ "video_id": "gAdkPB4qcl0",
+ "date": "2025-09-08",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Perlindungan Pekerja Migran Mukhtarudin, Jakarta, 8 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=gAdkPB4qcl0",
+ "duration_s": 141,
+ "duration_hms": "2:21",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "token_count": 298,
+ "unique_word_count": 137,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "gAdkPB4qcl0",
+   "url": "https://www.youtube.com/watch?v=gAdkPB4qcl0",
+   "title": "Keterangan Pers Menteri Perlindungan Pekerja Migran Mukhtarudin, Jakarta, 8 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 18.0,
+   "text": "disampaikan ee yang jelas baru dilantik ya, baru dilantik. Ee arahan Presiden saya kira ya apa yang jadi asta cita beliau itulah yang menjadi akan kita ee ee laksanakan dengan sebaik-baiknya ya."
+  },
+  {
+   "t": 18.0,
+   "d": 32.0,
+   "text": "dan ee soal tugas-tugas secara lebih rinci memang belum disampaikan. Tetapi ya intinya ya asta cita Presiden Probowo Gibran harus kita sukseskan dan kita laksanakan sebaik-baik mungkin karena tugas berat ke depan terkait dengan e tenaga kerja migran juga ee PR yang ee cukup harus kita perhatikan ya. Jadi intinya saya akan melaksanakan tugas dengan baik-baik, sebaik-baiknya sesuai arahan Presiden."
+  },
+  {
+   "t": 50.0,
+   "d": 12.0,
+   "text": "Tentu ee asta cita presiden ya ee pemerintah yang harus kita laksanakan sebaik-baik mungkin di periode 2025-29 sisa ini."
+  },
+  {
+   "t": 62.0,
+   "d": 37.0,
+   "text": "Berarti agenda terdekat akan konsolidasi dulu sama materi sebelumnya? Yang jelas ya kita silaturahim dululah ya di internal perkenalan ya sekaligus juga ya saya juga ingin ee ee apa namanya ya tentu program-program yang telah dilaksanakan ya oleh menteri sebelumnya tentu akan kita lanjutkan ya yang sejalan dengan asta citanya Pak Presiden ya saya kira tidak ada hal-hal yang lebih spesifiknya tantangannya yang Bapak lihat apa nih Pak depan apa ee ya nantilah ya lebih teknisnya nanti aja"
+  },
+  {
+   "t": 99.0,
+   "d": 18.0,
+   "text": "dulu ya. Tapi yang jelas saya ucapkan terima kasih kepada Pak Presiden Perbowo yang memberikan amanah dan tentu akan saya laksanakan dengan tanggung jawab ee sesuai garis-garis yang akan diarahkan oleh Pak Presiden dalam mewujudkan asta citanya pemerintahan Pak Presiden Prabowo Gran. Saya kira itu aja dulu ya."
+  },
+  {
+   "t": 117.0,
+   "d": 17.0,
+   "text": "Yang lain-lain lebih tadi juga ee saya belum dapat update ya. ee saya akan koordinasi dengan ee kementerian kapan setelah terimanya ya setelah terima jabatannya seterti nanti ee saya belum dapat informasi jadwalnya."
+  },
+  {
+   "t": 134.0,
+   "d": 4.0,
+   "text": "Presiden menyampaikan alasan pergantian Menteri Pos ini enggak, Pak?"
+  },
+  {
+   "t": 138.0,
+   "d": 3.0,
+   "text": "Enggak. Itu ini akan hakatif presiden ya. Saya kira ini biasa dalam pemerintahan dan ee biasalah ya. Makasih ya. Makasih ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

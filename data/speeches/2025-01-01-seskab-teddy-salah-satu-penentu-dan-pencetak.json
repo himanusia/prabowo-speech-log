@@ -1,0 +1,108 @@
+{
+ "id": "2025-01-01-seskab-teddy-salah-satu-penentu-dan-pencetak",
+ "video_id": "JzEQ_M34rHw",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Seskab Teddy: Indonesia Salah Satu Penentu dan Pencetak Sejarah dalam Perdamaian Timur Tengah",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=JzEQ_M34rHw",
+ "duration_s": 240,
+ "duration_hms": "4:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 29,
+ "token_count": 396,
+ "unique_word_count": 229,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "JzEQ_M34rHw",
+   "url": "https://www.youtube.com/watch?v=JzEQ_M34rHw",
+   "title": "Seskab Teddy: Indonesia Salah Satu Penentu dan Pencetak Sejarah dalam Perdamaian Timur Tengah",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 9
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 7.0,
+   "text": "Also with us is President Rabbowo, a very incredible man of Indonesia."
+  },
+  {
+   "t": 9.0,
+   "d": 19.0,
+   "text": "President."
+  },
+  {
+   "t": 28.0,
+   "d": 36.0,
+   "text": "Oke, jadi gini. Hari ini tanggal 13 Oktober 2025, Bapak Presiden Prabowo telah selesai melaksanakan kunjungan ke Mesir dalam memenuhi undangan dari Presiden Amerika Serikat Donald Trump dan Presiden Mesir LCC yang pada intinya dalam pertemuan Sarmeel Syekh di Mesir ini telah terjadi penandatangan kesepakatan damai dan penghentian perang di Palestina di Gaza. Dan tadi dihadiri oleh banyak sekali pimpinan negara-negara penting. Ada Presiden"
+  },
+  {
+   "t": 64.0,
+   "d": 32.0,
+   "text": "Amerika Serikat, Presiden Mesir, Presiden Prancis, Raja Bahrin, Raja Jordan, Perdana Menteri Italia, Presiden Turki, Emir Qatar, Emir K White, Perdana Menteri Inggris, Spanyol, Pakistan, dan banyak sekali pimpinan lainnya. Yang ini menunjukkan bahwa Indonesia semakin dihormati karena kita semakin kuat dan kita semakin diperhitungkan. Dan ini adalah momentum yang sangat baik."
+  },
+  {
+   "t": 96.0,
+   "d": 12.0,
+   "text": "Kemudian Bapak Presiden Prabowo sejak dulu sampai dengan sekarang sangat konsern mengenai isu Palestina khususnya di Timur Tengah."
+  },
+  {
+   "t": 108.0,
+   "d": 15.0,
+   "text": "Dan beliau dari dulu sampai sekarang melakukan dua kegiatan yang terus-menerus. Yang pertama adalah diplomasi. Beliau selalu memberikan pidato dalam forum-forum besar internasional."
+  },
+  {
+   "t": 123.0,
+   "d": 15.0,
+   "text": "I would like also to express today Indonesia's commitment to support a comprehensive and permanent ceas an important step towards a real and lasting solution towards real peace between Israel and Palestine."
+  },
+  {
+   "t": 138.0,
+   "d": 10.0,
+   "text": "Kemudian yang kedua, beliau melaksanakan asing nyata apa aja? Misalnya kita mengirimkan lebih dari 100 nakes dan dokter ke Palestina sudah dilakukan."
+  },
+  {
+   "t": 148.0,
+   "d": 17.0,
+   "text": "Yang kedua, kita mengundang lebih dari 60 anak-anak Palestina untuk belajar di Universitas Pertahanan saat beliau menjadi manh yang ketiga, kita sudah mengirim bantuan kemanusiaan dan kapal rumah sakit."
+  },
+  {
+   "t": 165.0,
+   "d": 40.0,
+   "text": "Kemudian yang keempat ini yang paling penting. Kita sudah kalau tidak salah empat kali mengirimkan bahan bantuan logistik drop off melalui pesawat terbang yang mana ini bukan hal yang mudah. Tidak banyak negara yang melakukan itu. Kenapa? Karena dalam mengirimkan pesawat untuk melepaskan drop off logistik itu butuh izin dari banyak negara yang mana pesawatnya dilintasi, udaranya dilintasi dan ini tentunya butuh diplomasi yang kuat dan kedekatan pribadi dengan pimpinan-pimpinan di negara tersebut."
+  },
+  {
+   "t": 205.0,
+   "d": 34.0,
+   "text": "Dan pada intinya hari ini adalah momentum yang sangat besar, hari yang istimewa. Jadi Indonesia di bawah kepimpinan Bapak Presiden Prabowo tidak menjadi penonton, tapi kita di sini turut serta menjadi salah satu penentu dan salah satu pencetak sejarah dalam perdamaian di Timur Tengah khususnya di Palestina. Saya kira itu kita doakan bersama insyaallah semuanya lancar, semua yang telah disepakati dapat berjalan sebagaimana yang diharapkan."
+  },
+  {
+   "t": 239.0,
+   "d": 3.0,
+   "text": "Itu saja. Terima kasih teman-teman semua. Kita kembali kita ketemu di Jakarta. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,58 @@
+{
+ "id": "2025-01-20-anak-anak-sekolah-sambut-kedatangan-di-sumedang-20",
+ "video_id": "118eNiTV0e4",
+ "date": "2025-01-20",
+ "date_precise": true,
+ "title": "Anak-Anak Sekolah Sambut Kedatangan Presiden Prabowo di Sumedang, 20 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=118eNiTV0e4",
+ "duration_s": 79,
+ "duration_hms": "1:19",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 57,
+ "unique_word_count": 53,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "118eNiTV0e4",
+   "url": "https://www.youtube.com/watch?v=118eNiTV0e4",
+   "title": "Anak-Anak Sekolah Sambut Kedatangan Presiden Prabowo di Sumedang, 20 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 61.0,
+   "text": "tanganti Rusak kamangan nanti gurumu marahajuaju jadilah ini contoh kebanggaan bahwa putra-utrionesia kompak keras Kalau jujur kalau ikhlas mampu untuk memberi kemajuan kepada bangsa Indonesia dengan mengucap Bismillahirrahmanirrahim pada pagi hari ini tanggal 20 Januari 2025 saya Presiden Republik Indonesia resmikan proyek strategis ketenag listrikan di 18 provinsi Terima kasih wasalamualaikum warahmatullahi"
+  },
+  {
+   "t": 64.0,
+   "d": 18.0,
+   "text": "[Musik] wabarakatuh belajar ya semuanya [Tepuk tangan] [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

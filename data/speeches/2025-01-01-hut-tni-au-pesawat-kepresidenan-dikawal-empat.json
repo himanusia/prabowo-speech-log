@@ -1,0 +1,118 @@
+{
+ "id": "2025-01-01-hut-tni-au-pesawat-kepresidenan-dikawal-empat",
+ "video_id": "b3GiJwhwsxY",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "HUT TNI AU, Pesawat Kepresidenan Presiden Prabowo Dikawal Empat F-16 dan Dua T50 Golden Eagle",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=b3GiJwhwsxY",
+ "duration_s": 141,
+ "duration_hms": "2:21",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 176,
+ "unique_word_count": 101,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "b3GiJwhwsxY",
+   "url": "https://www.youtube.com/watch?v=b3GiJwhwsxY",
+   "title": "HUT TNI AU, Pesawat Kepresidenan Presiden Prabowo Dikawal Empat F-16 dan Dua T50 Golden Eagle",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 3,
+  "nasional_dan_identitas": 18
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 11.0,
+   "text": "Rakyat Indonesia bangga dengan saudara-saudara. Jaga jaga tanah air kita."
+  },
+  {
+   "t": 11.0,
+   "d": 15.0,
+   "text": "Yang terhormat Bapak Presiden Republik Indonesia Bapak Prabowo Sugianto dengan penuh rasa kehormatan banda di hari ulang tahun yang ke Angkatan Udara."
+  },
+  {
+   "t": 26.0,
+   "d": 19.0,
+   "text": "Kami semua orang muda mengucapkan terima kasih atas perhatian dan dukungan Bapak tidak menjabat sebagai Menteri Pertahanan tahun 2019 hingga saat ini sebagai presiden dalam memperkuat dan memodernisasi TNI angkatan udara."
+  },
+  {
+   "t": 45.0,
+   "d": 11.0,
+   "text": "Kami memohon doa restu agar senantiasa diberi kekuatan dalam menjalankan penasian kepada bangsa dan negara."
+  },
+  {
+   "t": 56.0,
+   "d": 18.0,
+   "text": "Dengan semangat pengabdian tanpa batas, kami bertekad menni angkatan udara yang ampuh menuju Indonesia maju. Dirgahayu TNI Angkatan Udara. Salam buana 5 Indonesiawan."
+  },
+  {
+   "t": 74.0,
+   "d": 10.0,
+   "text": "Terima kasih saya Prab Sugianto, Presiden Republik Indonesia."
+  },
+  {
+   "t": 84.0,
+   "d": 9.0,
+   "text": "Sekali lagi atas nama seluruh rakyat Indonesia, kami bangga dengan angkatan udara kami."
+  },
+  {
+   "t": 93.0,
+   "d": 2.0,
+   "text": "Kami bangga dengan elang-elang muda."
+  },
+  {
+   "t": 95.0,
+   "d": 11.0,
+   "text": "Dirhayu tentara nasional Indonesia angkasan udara buana paksa. Selamat ulang tahun yang ke-80."
+  },
+  {
+   "t": 106.0,
+   "d": 13.0,
+   "text": "Semoga TNA terus jaya selalu kuat. mempertahankan kedaulatan Republik Indonesia di udara."
+  },
+  {
+   "t": 119.0,
+   "d": 6.0,
+   "text": "Rakyat Indonesia bangga dengan saudara-saudara."
+  },
+  {
+   "t": 125.0,
+   "d": 5.0,
+   "text": "Jaga jaga tanah air kita."
+  },
+  {
+   "t": 130.0,
+   "d": 8.0,
+   "text": "Terima kasih hormat saya kepada kalian semua. Semangat terus. Terima kasih."
+  },
+  {
+   "t": 138.0,
+   "d": 3.0,
+   "text": "Selesai. Terima kasih, Bapak. Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

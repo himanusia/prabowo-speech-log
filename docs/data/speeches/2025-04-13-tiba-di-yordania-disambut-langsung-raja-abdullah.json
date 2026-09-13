@@ -1,0 +1,73 @@
+{
+ "id": "2025-04-13-tiba-di-yordania-disambut-langsung-raja-abdullah",
+ "video_id": "wHy-ptfVMWs",
+ "date": "2025-04-13",
+ "date_precise": true,
+ "title": "Tiba di Yordania, Presiden Prabowo Disambut Langsung Raja Abdullah II, Amman, 13 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=wHy-ptfVMWs",
+ "duration_s": 502,
+ "duration_hms": "8:22",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 36,
+ "token_count": 279,
+ "unique_word_count": 151,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "wHy-ptfVMWs",
+   "url": "https://www.youtube.com/watch?v=wHy-ptfVMWs",
+   "title": "Tiba di Yordania, Presiden Prabowo Disambut Langsung Raja Abdullah II, Amman, 13 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 11
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 15.0,
+   "d": 171.0,
+   "text": "Tiger 01 This is Indonesia One, I am Prabowo Subianto President of the Republic of Indonesia. Thank you for receiving me thank you for supporting me please pass on to your commander my greatest appreciation thank you very much syukr wasalamualaikum warahmatullahi wabarakatuh waalaikumsalam [Musik] a [Musik] How Have you how are you how are you my def minister my agriculture minister my religion secretary of the cabinetary"
+  },
+  {
+   "t": 186.0,
+   "d": 256.0,
+   "text": "[Musik] Thank you very much [Musik] [Tepuk tangan] [Musik] [Tepuk tangan] [Musik] [Musik] [Musik] terima kasih terima kasih Waduh masyarakat semua hadir terima kasih kamu namanya siapa siapa yuna yuna kamu Ahmad ah kamu umurnya berapa 10 10 kamu umurnya berapa tujuh terima kasih ya pak dari Amti Jordan Pak aduh banyak sekali yah saat ini kami kedatangan presiden orang nomor satu di Indonesia pastinya kita warga Indonesia yang sedang di berada di luar negeri ya sangat antusias"
+  },
+  {
+   "t": 442.0,
+   "d": 34.0,
+   "text": "excited makanya kami mengunjungi alhamdulillah kami bisa melihat secara langsung Presiden Indonesia buat Prof probo Presiden kami alhamdulillah kami sangat bahagia sekali apalagi dengan ee kegiatan Bapak yang dari kemarin sudah mengunjungi Turki Mesir ee dan Qatar dan ini negara terakhir di Yordania kami sangat bangga sekali dengan perjuangan Bapak untuk membantu Palestina berapa tahun sudah di sini saya baru"
+  },
+  {
+   "t": 476.0,
+   "d": 30.0,
+   "text": "3 tahun Pak 3 tahun belajar apa ini belajar apa belajar syariah Pak syariah terima kasih semuanya belajar yang baik semua jujur saya dari dulu benar-benar ee nge-fan sama beliau dan sangat percaya bahwa ee Indonesia dipimpin sama Bapak Prabowo ini bakal maju untuk Bapak Presiden Republik Indonesia Presiden Bapak Prabowo Subianto terus semangat semoga Indonesia lebih maju ke depannya untuk nusa dan bangsa dan negara terima"
+  },
+  {
+   "t": 506.0,
+   "d": 11.0,
+   "text": "kasih Bapak Presiden izin nama Presiden semuanya 1 2 3 semuanya 1 2 3 sudah terima kasih Bapak Presiden"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

@@ -1,0 +1,137 @@
+{
+ "id": "2025-09-19-keterangan-pers-menteri-keuangan-purbaya-yudhi-sadewa",
+ "video_id": "Y2K7mrn2DTY",
+ "date": "2025-09-19",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Keuangan Purbaya Yudhi Sadewa, Jakarta, 19 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Y2K7mrn2DTY",
+ "duration_s": 228,
+ "duration_hms": "3:48",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 31,
+ "token_count": 545,
+ "unique_word_count": 247,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Y2K7mrn2DTY",
+   "url": "https://www.youtube.com/watch?v=Y2K7mrn2DTY",
+   "title": "Keterangan Pers Menteri Keuangan Purbaya Yudhi Sadewa, Jakarta, 19 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 7,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 4,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "Hilirisasi": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 9.0,
+   "text": "Selamat malam, Teman-teman. Langsung aja kalau ada pertanyaan silakan. Tadi yang barusan rapat ada dua hal."
+  },
+  {
+   "t": 11.0,
+   "d": 42.0,
+   "text": "Satu, rencana bagaimana menarik uang-uang dolar yang orang Indonesia suka taruh di luar balik ke sini. Tapi masih belum matang, masih kita matangkan lagi. Tapi kalau saya lihat rencananya cukup bagus sekali. Jadi kemungkinan bisa dijalankan dalam waktu mungkin 1 bulan ke depan. Itu utamanya. Yang kedua tadi ee ada Menteri Sosial ee menjabarkan programnya tahun 2026 yang biasa ee kurang anggarannya. dia minta nanti ee kalau bisa ditambah anggarannya akan kita pelajari bersama antara"
+  },
+  {
+   "t": 53.0,
+   "d": 11.0,
+   "text": "keuangan dan sosial. Nanti baru kita hitung seperti apa kalau perlu ditambah dan bagaimana cara nambahnya dan ee kapan akan ditambah."
+  },
+  {
+   "t": 64.0,
+   "d": 3.0,
+   "text": "Soal dolar tadi apa, Pak? DHE lagi atau?"
+  },
+  {
+   "t": 67.0,
+   "d": 4.0,
+   "text": "Oh, enggak enggak ini betul-betul market base. Kalau saya kan orang market."
+  },
+  {
+   "t": 71.0,
+   "d": 9.0,
+   "text": "Jadi ya pasti market base. Bukan memaksa orang itu, tapi akan memberikan ini masih belum matang ya. boleh ngomong ya saya enggak tahu. Dikit aja mungkin piskill, Pak."
+  },
+  {
+   "t": 80.0,
+   "d": 7.0,
+   "text": "Kira-kira akan diberi akan ada insentif di mana orang Indonesia lebih suka nara uang dolar di sini dibanding di luar."
+  },
+  {
+   "t": 87.0,
+   "d": 17.0,
+   "text": "Saya baru tahu juga bahwa ternyata setiap bulan banyak juga yang ngirim ke luar negeri orang Indonesia uang-uangnya utamanya ke beberapa negara di kawasan sini. Jadi kita akan mencegah itu dengan memberikan insentif yang menarik sehingga mereka enggak usah capek-capek kirim dolarnya keluar. itu utamanya Pak."
+  },
+  {
+   "t": 104.0,
+   "d": 7.0,
+   "text": "Tapi sebelumnya Beni eh pas eh RDG lalu bilang katanya sebenarnya suplai dolar itu membaik, Pak. Nah, itu gimana, Pak?"
+  },
+  {
+   "t": 111.0,
+   "d": 5.0,
+   "text": "Ee berapa diskusi Presiden untuk menarik lagi dolarnya lebih baik?"
+  },
+  {
+   "t": 116.0,
+   "d": 33.0,
+   "text": "Oh, enggak gini, mungkin sekarang emang ee membaik, tapi kita masih ngelihat ada yang masih bergerak keluar. Kalau kita bisa ee jaga masuk ke sini enggak keluar, cadangan kita akan lebih besar lagi dan ee perbangan kita punya suplai dolar lebih banyak lagi. Dan nanti proyek-proyek yang ee let say hilirisasi kan biasanya perlunya dolar financing kan dananya ada di sini dengan bunga yang ee cukup baik dan yang untung adalah perbankan dalam"
+  },
+  {
+   "t": 149.0,
+   "d": 3.0,
+   "text": "negeri sendiri. Jadi uangnya enggak ke mana-mana. Itu kira-kira rencananya."
+  },
+  {
+   "t": 152.0,
+   "d": 2.0,
+   "text": "Saya enggak tahu bisa ngomong apa ya kira-kira begitulah."
+  },
+  {
+   "t": 154.0,
+   "d": 21.0,
+   "text": "Ee Pak ee masih soal RGB, Pak. Nah, ini kan B rate sama fund rate kan turun ee kotak gitu supaya makin akomodatif. Nah, itu tuh dari Bapak sendiri melihatnya dampaknya ke IO ee SB kita bakal kalau ee masih menarik ya sih Pak kan ee di tahun depan saja porsi keterbitan SBM kan cukup susah Pak yang terdominasi untuk pembiayaan."
+  },
+  {
+   "t": 175.0,
+   "d": 11.0,
+   "text": "Menarik apa enggak tergantung gimana prospek pertumbuhan di sini. Jadi biasanya mereka masuk ke sini bukan hanya eh yield aja tapi juga mencari stabilitas."
+  },
+  {
+   "t": 186.0,
+   "d": 32.0,
+   "text": "Walaupun yeldnya misalnya selisihnya lebih dikit dibanding di luar, tapi kalau betul-betul stabil dan ada potensi penguatan nilai tukar, kalau ekonominya bagus kan ekonomi bagus, orang masuk ke sini lay tukarnya akan membaik. Jadi ketika kita ciptakan prospek ekonomi yang bagus, asing akan cenderung masuk ke sini. Kalau yield dalam rupiah term dalam itu dalam nominal term angkanya itu turun dibanding sebelumnya. Tapi ada potensial gain yang lain dari tadi ee harga"
+  },
+  {
+   "t": 218.0,
+   "d": 12.0,
+   "text": "obligasinya sering meningkat ditambah apresiasi nilai apresiasi nilai tukar itu amat menarik. Jadi kalau stabil aja mereka suka apalagi kalau ada ekspektasi rupiah menguat. Jadi, Anda enggak usah takut. Selama kita bisa menciptakan prospek pertemuan ekonomi yang bagus, mereka akan masuk ke sini."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

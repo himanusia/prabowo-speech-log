@@ -1,0 +1,93 @@
+{
+ "id": "2026-07-10-resmikan-5-bendungan-di-lombok-barat-10",
+ "video_id": "077vmLENDfY",
+ "date": "2026-07-10",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan 5 Bendungan di Indonesia, Lombok Barat, 10 Juli 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=077vmLENDfY",
+ "duration_s": 164,
+ "duration_hms": "2:44",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "token_count": 133,
+ "unique_word_count": 83,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "077vmLENDfY",
+   "url": "https://www.youtube.com/watch?v=077vmLENDfY",
+   "title": "Presiden Prabowo Resmikan 5 Bendungan di Indonesia, Lombok Barat, 10 Juli 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 8
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 9.0,
+   "d": 24.0,
+   "text": "[musik] [musik] Saya merasa sangat bangga, saya merasa dihormati untuk diundang hari ini bertemuang langsung dengan masyarakat NTB."
+  },
+  {
+   "t": 33.0,
+   "d": 14.0,
+   "text": "Saya bersyukur bendungan ini bisa saya yang resmikan, tetapi pendahulu-pendahulu saya semua berjasa."
+  },
+  {
+   "t": 47.0,
+   "d": 15.0,
+   "text": "Saya selalu ingatkan seluruh bangsa, bangsa yang berhasil, bangsa yang besar, bangsa yang bisa meraih kemakmuran untuk rakyatnya adalah bangsa yang bersatu."
+  },
+  {
+   "t": 62.0,
+   "d": 13.0,
+   "text": "Saudara-saudara, lima bendungan yang kita resmikan hari ini adalah investasi negara sekitar 9,79 triliun."
+  },
+  {
+   "t": 75.0,
+   "d": 11.0,
+   "text": "Jaga bendungan-bendungan ini dengan baik, kelola dengan profesional, rawat dengan baik."
+  },
+  {
+   "t": 86.0,
+   "d": 16.0,
+   "text": "Pastikan bahwa air yang dibutuhkan petani sampai ke petani."
+  },
+  {
+   "t": 102.0,
+   "d": 2.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 104.0,
+   "d": 56.0,
+   "text": "Pada siang hari ini, Jumat 10 Juli 2026, dengan rahmat Tuhan yang maha besar, saya Prabowo Subianto, Presiden Republik Indonesia dengan ini saya resmikan Bendungan Meninting Provinsi Nusa Tenggara Barat, Bendungan Rukoh dan Keruto Provinsi Aceh, Bandung Jelantah, Provinsi Jawa Tengah, Bandung Sidan Provinsi Bali."
+  },
+  {
+   "t": 160.0,
+   "d": 13.0,
+   "text": "[musik] [musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

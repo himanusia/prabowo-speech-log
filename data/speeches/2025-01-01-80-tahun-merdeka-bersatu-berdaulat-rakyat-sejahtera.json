@@ -1,0 +1,68 @@
+{
+ "id": "2025-01-01-80-tahun-merdeka-bersatu-berdaulat-rakyat-sejahtera",
+ "video_id": "px1vtrT6jGQ",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "80 Tahun Indonesia Merdeka. Bersatu Berdaulat, Rakyat Sejahtera, Indonesia Maju",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=px1vtrT6jGQ",
+ "duration_s": 84,
+ "duration_hms": "1:24",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "token_count": 58,
+ "unique_word_count": 42,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "px1vtrT6jGQ",
+   "url": "https://www.youtube.com/watch?v=px1vtrT6jGQ",
+   "title": "80 Tahun Indonesia Merdeka. Bersatu Berdaulat, Rakyat Sejahtera, Indonesia Maju",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 43.0,
+   "text": "[Musik] [Musik] 80 tahun sudah para pendiri bangsa Indonesia mendeklarasikan kemerdekaan Indonesia."
+  },
+  {
+   "t": 43.0,
+   "d": 11.0,
+   "text": "Proklamasi tanggal 17 Agustus 1945 adalah momen penting dalam perjuangan panjang bangsa ini untuk berdiri di atas kaki kita sendiri."
+  },
+  {
+   "t": 54.0,
+   "d": 27.0,
+   "text": "[Musik] Tujuan kita merdeka adalah untuk merdeka dari kemiskinan, untuk merdeka dari kelaparan, merdeka dari penderitaan."
+  },
+  {
+   "t": 81.0,
+   "d": 3.0,
+   "text": "Negara kita harus berdaulat secara ekonomi dan mampu memenuhi kebutuhan pangan kita sendiri."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,73 @@
+{
+ "id": "2025-02-05-keterangan-pers-menteri-pariwisata-widiyanti-putri-jakarta",
+ "video_id": "mBX4sAGxJFI",
+ "date": "2025-02-05",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Pariwisata Widiyanti Putri, Jakarta, 5 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=mBX4sAGxJFI",
+ "duration_s": 192,
+ "duration_hms": "3:12",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 24,
+ "token_count": 222,
+ "unique_word_count": 122,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "mBX4sAGxJFI",
+   "url": "https://www.youtube.com/watch?v=mBX4sAGxJFI",
+   "title": "Keterangan Pers Menteri Pariwisata Widiyanti Putri, Jakarta, 5 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 39.0,
+   "text": "Assalamualaikum warahmatullahi wabarakatuh salam sejahtera bagi kita semua rekan-rekan media yang saya hormati Saya baru saja selesai menghadap bapak presiden Prabowo dan melaporkan beberapa hal terkait perkembangan sektor pariwisata utamanya dalam 100 hari setelah saya dilantik dan sebaiii bahwa dalam periode 100 hari tersebut kementerian pariwisata mampu menjaga pertumbuhan jumlah kunjungan wisatawan"
+  },
+  {
+   "t": 39.0,
+   "d": 39.0,
+   "text": "mancanegara dan wisatawan Nusantara dengan angka yang meningkat dibandingkan dengan periode yang sama pada tahun 2023 selain menunjukkan keberhasilan kementerian pariwisata dalam menjaga peruhan Wisman Dan wisnus ini juga mencermink kepercayaan wisatawan kepada kondisi dan kebijakan pariwisata Indonesia di bawah pemerintahan yang baru mengenai data berdasarkan data Badan Pusat Statistik jumlah kunjungan Wisman pada Kuartal ke4"
+  },
+  {
+   "t": 78.0,
+   "d": 60.0,
+   "text": "2024 tercatat pada angka 3,37 juta kunjungan tumbuh 10,3% dibandingkan ke tahun 2023 di sisi perjalanan wisatawan Nusantara angkanya mencapai 263,13 juta perjalanan pada Kuartal ke4 2024 meningkat 23,2% dibandingkan Kuartal ke4 tahun 2023 secara keseluruhan pada tahun 2024 jumlahjungan wiswan capai 13,74 juta kunjungan meningkat sekitar 18% dibandingkan dengan tahun 2023 begitu pula dengan jumlah perjalanan wisatawan mancanegara eh wisatawan manca eh wisatawan Nusantara"
+  },
+  {
+   "t": 138.0,
+   "d": 51.0,
+   "text": "mohon maaf yang mencapai r.21,56 juta perjalanan meningkat 22% dibandingkan dengan tahun 2023 Nah dari sisi penyerapan tenaga kerja jumlah tenaga kerja pariwisata tahun 2024 tercatat sebesar 25,01 juta orang tumbuh 2,5% dibandingkan 24,41 juta Pada tahun 2023 sehingga saya ingin menyampaikan di sini pada rekan-rekan sekalian saya optimis bahwa bahwa perkembangan sektor pariwisata dapat terus berlanjut Dan semakin mendorong kontribusi sektor pariwisata terhadap perkembangan PDB"
+  },
+  {
+   "t": 189.0,
+   "d": 3.0,
+   "text": "nasional Terima kasih wasalamualaikum warahmatullahi wabarakatuh"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

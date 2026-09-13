@@ -1,0 +1,77 @@
+{
+ "id": "2025-01-01-mendadak-hadiri-telekonferensi-bahas-swasembada-pangan-dan",
+ "video_id": "KgSCkkTX2IU",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Mendadak, Presiden Prabowo Hadiri Telekonferensi Bahas Swasembada Pangan dan Harga Gabah, 3 Feb 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=KgSCkkTX2IU",
+ "duration_s": 274,
+ "duration_hms": "4:34",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 32,
+ "token_count": 301,
+ "unique_word_count": 152,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "KgSCkkTX2IU",
+   "url": "https://www.youtube.com/watch?v=KgSCkkTX2IU",
+   "title": "Mendadak, Presiden Prabowo Hadiri Telekonferensi Bahas Swasembada Pangan dan Harga Gabah, 3 Feb 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 18,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 15
+ },
+ "policy_signals": {
+  "Swasembada": {
+   "count": 5
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 43.0,
+   "text": "Jawa Tengah siap di manana Ja Jawa Tengah waktu itu kan sudah ada kirim 30 orang untuk pelatihan di sana Pak nanti di Ya siap pertama saya ucapkan terima kasih kepada semua pihak yang telah bekerja keras sehingga kita semakin dekat kepada sasaran kita yaitu Swasembada tangan Swasembada beras mulainya dengan Swasembada beras baru nanti ke arah Swasembada pangan saudara-saudara sekalian saya tekankan lagi Bahwa"
+  },
+  {
+   "t": 43.0,
+   "d": 50.0,
+   "text": "masalah Swasembada pangan masalah pangan adalah hidup dan matinya bangsa Indonesia Saya ulangi masalah pangan adalah masalah kedaulatan masalah pangan adalah masa kemerdekaan masalah pangan adalah masa Survival kita sebagai bangsa kalau kita mau jadi negara maju pangan harus aman dulu dan saya minta semua pihak untuk dengan hati yang tulus dengan cinta tanah air dengan Cinta Merah Putih dengan Patriotisme yang"
+  },
+  {
+   "t": 93.0,
+   "d": 75.0,
+   "text": "tinggi setia kepada tujuan ini petani kita adalah produsen produsen pangan hidup mereka harus baik kesejahteraan mereka harus meningkat karena itu pemerintah Republik Indonesia sudah menetapkan harga gabah harga gabah kering giling ya yang dibeli dari petani Kering panen ya ya adalah rp6.500 Saya ulangi r6.500 saya siap keluarkan PP Saya tidak mainmain ini ini saya Katakanlah ini adalah masalah kebangsaan pengusaha harus"
+  },
+  {
+   "t": 168.0,
+   "d": 51.0,
+   "text": "untung tapi tidak bisa untung seenaknya semua pihak harus menang produsen petani pengusaha dan konsumen kalau negara lain bisa Indonesia harus bisa juga dan kalau tidak mau ya sudah tutup aja enggak usah bikin penggilingan padi saya ambil alih negara akan ambil alih penggilingan padi saya katakan ini masalah hidup dan mati ini masalah Survival saya tidak main-main saya Saya ulangi harga gabah Kering panen harus"
+  },
+  {
+   "t": 219.0,
+   "d": 55.0,
+   "text": "6.500 para menteri para pembantu saya para staf para ahli segera merumuskan langkah-langkah yang harus diambil saya katakan Saya belajar dari beapa negara mereka bisa kita tidak mau bahwa kita pakai sistem-sistem kapitalis bebas prinsip pasar Iya tapi tidak boleh seenaknya Saya kira itu pengarahan dari saya ini"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

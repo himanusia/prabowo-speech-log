@@ -1,0 +1,85 @@
+{
+ "id": "2025-03-03-keterangan-pers-menteri-investasi-dan-hilirisasi-kepala",
+ "video_id": "sIZK7CTHW7I",
+ "date": "2025-03-03",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Jakarta, 3 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=sIZK7CTHW7I",
+ "duration_s": 223,
+ "duration_hms": "3:43",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 29,
+ "token_count": 408,
+ "unique_word_count": 192,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "sIZK7CTHW7I",
+   "url": "https://www.youtube.com/watch?v=sIZK7CTHW7I",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Jakarta, 3 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 6,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 3
+  },
+  "Hilirisasi": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 46.0,
+   "text": "asalamualaikum warahmatullahi wabarakatuh Shalom omasiastu nama budayha salam kebajikan eh kami dari satkasilirisasi dan juga e semua Kementerian terkait termasuk ada pak menteri KKP kita baru eh melaporkan kepada bapak Presiden eh beberapa proyek yang akan kita investasikan kita akan review di hilirisasi ee dari hilirisasi mineral ee batu bara kemudian juga produk pertani produk pertanian produk kelautan seperti ee rumput laut dan yang lain-lainnya kita"
+  },
+  {
+   "t": 46.0,
+   "d": 38.0,
+   "text": "mendiskusikan kita melihat ee proyek-proyek Ini dampaknya gimana dari segi penciptaan lapanan pekerjaan dampaknya ke segi ekspor Seperti apa ee penurunan impornya seperti apa dan juga eh apa kesiapan dari tentunya dari pendanaannya dan eh dalam ini nanti kita dari semua Kementerian akan duduk lagi untuk lebih mendetailkan eh program-program itu proek-proek itu eh sehingga bisa menjadi visibel karena ini investasinya juga harus memberikan"
+  },
+  {
+   "t": 84.0,
+   "d": 40.0,
+   "text": "eh return yang baik yang acceptable eh karena ini akan banyak di apa berikan pendanaan misalnya oleh danantara jadi danantara juga kita akan eh melalui proses yang proper apa melalui proses komite investasi duen itu semua step akan kita lalui karena kita juga terbuka eh sesuai dengan industrialisasi yang ingin kita tempuh yang ingin kita capai eh sehingga kita bisa mempunyai industri yang sehat yang berkelanjutan berkesinambungan eh di saat bersamaan ini mempunyai dampak yang besar terhadap"
+  },
+  {
+   "t": 124.0,
+   "d": 36.0,
+   "text": "ee pertumbuhan perekonomian kita eh dan juga yang paling penting yang tadi kita bicarakan adalah berapa banyak pencipta lapan pekerjaannya pak menteri ya itu searnya yang yang kita bicarakan eh kita merreview saja tapi kembali lagi nanti ini akan diserahkan sesudah lebih detail dan akan dianalisa oleh tim dari eh komite investasi eh komite audit dari ee danantara mungkin kurang lebihnya seperti itu ya tentunya kita juga melihat dari"
+  },
+  {
+   "t": 160.0,
+   "d": 34.0,
+   "text": "segi kesiapannya karena ini kan beberapa proek ini memang kita memerlukan visibilitas visibility studynya lebih rinci lagi Lebih detail lagi dan tentunya Bagaimana ini yang paling penting bisa melibatkan eh para para petani contohnya ee apa rumput laut nelayan nelayan a budaya ini kan sangat bisa melibatkan petani apa budaya udang dan yang lain-lainnya jadi tidak semata-mata hanya dari melihat returnnya saja Misalnya oh returnnya eh 14% atau 15%"
+  },
+  {
+   "t": 194.0,
+   "d": 29.0,
+   "text": "tetapi juga dilihat dampak-dampak lainnya yang positif yang terutama e dampak ini bisa terusmenerus seperti salah satu produk yang yang tadi kita sampaikan adalah rumput laut yang memang e sangatsangat positif dan produk tur searnya kan sangat banyak untuk rumput laut ini jadi ee itu yang yang kita bahas juga aspek-aspek lainnya nanti masalah R return atau E yield-nya itu nanti akanak kami melakukan analisa tersendiri lagi gitu ya mungkin pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

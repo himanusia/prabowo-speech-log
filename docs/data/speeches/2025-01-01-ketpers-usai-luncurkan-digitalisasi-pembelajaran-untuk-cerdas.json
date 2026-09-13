@@ -1,0 +1,93 @@
+{
+ "id": "2025-01-01-ketpers-usai-luncurkan-digitalisasi-pembelajaran-untuk-cerdas",
+ "video_id": "ibp7WTu6bMc",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Ketpers Presiden Prabowo Usai Luncurkan Digitalisasi Pembelajaran untuk Indonesia Cerdas",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ibp7WTu6bMc",
+ "duration_s": 55,
+ "duration_hms": "0:55",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 89,
+ "unique_word_count": 53,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ibp7WTu6bMc",
+   "url": "https://www.youtube.com/watch?v=ibp7WTu6bMc",
+   "title": "Ketpers Presiden Prabowo Usai Luncurkan Digitalisasi Pembelajaran untuk Indonesia Cerdas",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 5,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 3.0,
+   "text": "Ada yang mau jangan di sini, Pak."
+  },
+  {
+   "t": 3.0,
+   "d": 14.0,
+   "text": "Ya, alhamdulillah eh program ini ee bisa dimulai dengan cepat."
+  },
+  {
+   "t": 17.0,
+   "d": 9.0,
+   "text": "[musik] Kurang 1 tahun semua sekolah sudah menerima, tahun depan terus kita tambah."
+  },
+  {
+   "t": 26.0,
+   "d": 6.0,
+   "text": "kualitas pendidikan kita harus kita perbaiki harus kita perbaiki."
+  },
+  {
+   "t": 32.0,
+   "d": 11.0,
+   "text": "Kita akan bikin ee ratusan sekolah baru, ribuan sekolah terintegrasi perbaiki semua pendidikan perbaiki ya."
+  },
+  {
+   "t": 43.0,
+   "d": 2.0,
+   "text": "Terima kasih, Pak. Banyaknya kasus bullying Pak."
+  },
+  {
+   "t": 45.0,
+   "d": 4.0,
+   "text": "Banyaknya kasus bullying Pak. Kasus bully banyak kasus bully Pak."
+  },
+  {
+   "t": 49.0,
+   "d": 3.0,
+   "text": "Banyak kasus bully terbaru ada di Tangsel pembulian."
+  },
+  {
+   "t": 52.0,
+   "d": 3.0,
+   "text": "Iya. Itu harus kita atasi ya. Oke, terima kasih ya, Bapak."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

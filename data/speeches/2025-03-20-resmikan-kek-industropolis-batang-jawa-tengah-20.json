@@ -1,0 +1,63 @@
+{
+ "id": "2025-03-20-resmikan-kek-industropolis-batang-jawa-tengah-20",
+ "video_id": "NZmP3r7rXpg",
+ "date": "2025-03-20",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan KEK Industropolis Batang, Jawa Tengah, 20 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=NZmP3r7rXpg",
+ "duration_s": 121,
+ "duration_hms": "2:01",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 175,
+ "unique_word_count": 113,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "NZmP3r7rXpg",
+   "url": "https://www.youtube.com/watch?v=NZmP3r7rXpg",
+   "title": "Presiden Prabowo Resmikan KEK Industropolis Batang, Jawa Tengah, 20 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 6,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 48.0,
+   "text": "Dengan mengucap Bismillahirrahmanirrahim pada siang hari ini Kamis 20 Maret 2025 Saya Prabowo Subianto presiden reponesia meresmikan kawasan ekonomi khusus industropolis Batang Jawa Tengah [Tepuk tangan] [Musik] pertama kami ingin menyampaikan ucapan syukur alhamdulillah dan terima kasih presiden Probo Subianto mendatangani peraturan pemerintah untuk menetapkan kawasan Ind padu Batang sebagai kawasan ekonomi khusus bernama industropolis"
+  },
+  {
+   "t": 48.0,
+   "d": 35.0,
+   "text": "batang sebelum kikd diberlakukan kami sudah memiliki 27 komitmen investasi yang ditandatangani dalam bentuk perjanjian pemanfaatan tanah industri dari 27 Itu tu pabrik sudah beroperasi dan sudah menyerap 7.000 tenaga kerja kemudian tujuh lagi sedang dalam masa konstruksi dan kita harapkan secara bertahap tahun ini dan depan mereka juga akan beroperasi sehingga diharapkan akan menambah jumlah peluang kerja di kawasan dan 14 ini dalam persiapan jadi kira-kira akhir tahun dan tahun awal tahun depan juga 14 ini akan mulai e"
+  },
+  {
+   "t": 83.0,
+   "d": 38.0,
+   "text": "melakukan pembangunan dari 27 ini kita sudah memperoleh 17 triliun komitmen investasi dan diharapkan bisa menciptakan sekitar 39.000 peluang pekerjaan dari yang 27 Nah setelah kaeka diberlakukan Kami punya hitungan dan proyeksi kita bisa memperoleh komitmen investasi dalam 5 tahun ke depan sebesar 75 triliun dan kita bisa menciptakan sekitar 50.000 kesempatan [Musik] kerja foreign"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

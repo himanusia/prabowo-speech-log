@@ -1,0 +1,92 @@
+{
+ "id": "2025-09-08-keterangan-pers-menteri-koperasi-ferry-joko-juliantono",
+ "video_id": "s7LzeP9fMfc",
+ "date": "2025-09-08",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Koperasi Ferry Joko Juliantono, Jakarta, 8 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=s7LzeP9fMfc",
+ "duration_s": 177,
+ "duration_hms": "2:57",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 326,
+ "unique_word_count": 148,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "s7LzeP9fMfc",
+   "url": "https://www.youtube.com/watch?v=s7LzeP9fMfc",
+   "title": "Keterangan Pers Menteri Koperasi Ferry Joko Juliantono, Jakarta, 8 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 10,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {
+  "Koperasi desa": {
+   "count": 4
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 40.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera untuk kita semua. Selamat sore ya. kami tadi ee telah melaksanakan pengangkatan dan pembacaan sumpah sebagai Menteri Koperasi Republik Indonesia dan tentunya ee tadi kami sempat dibriefing sebentar oleh Presiden untuk ee secepat mungkin, sesegera mungkin untuk ee bekerja dan saya ee tentu karena sebelumnya menjadi wakil presiden tentu akan melanjutkan apa yang sudah ee kami lakukan saya bersama"
+  },
+  {
+   "t": 40.0,
+   "d": 19.0,
+   "text": "Menteri Koperasi sebelumnya Pak Budi Aristiadi. Kami akan melanjutkan ee mulai besok kita akan gerak secepat mungkin untuk ee kegiatan khususnya koperasi Desa Kelurahan Merah Putih dan juga koperasi secara umumnya. Mungkin itu yang dapat saya sampaikan. Terima kasih."
+  },
+  {
+   "t": 59.0,
+   "d": 11.0,
+   "text": "Ee belum wakil menterinya belum. Jadi nanti ee nunggu arahan selanjutnya untuk wakil menterinya untuk sementara belum ada. Kalau presiden disampaikan enggak, Pak?"
+  },
+  {
+   "t": 70.0,
+   "d": 34.0,
+   "text": "Enggak. Saya enggak tahu untuk tanya presiden. Mungkin itu dulu ya. Program e Koperasi Desa Merah Putih tentu akan menjadi program prioritas Kementerian Koperasi karena itu juga menjadi program unggulan presiden dan sudah akan kita masukkan. tadi juga kebetulan baru saja kami melakukan rapat dengar pendapat dengan Komisi 6 DPR RI dan Koperasi Desa Kelurahan Merah Putih tentu akan didukung oleh ee teman-teman di DPR RI dan juga secepat mungkin kita akan ee"
+  },
+  {
+   "t": 104.0,
+   "d": 13.0,
+   "text": "melahirkan Undang-Undang Sistem Perkoperasian Nasional yang ee sebagai undang-undang baru untuk menggantikan Undang-Undang ee Nomor 92 ee yang lalu."
+  },
+  {
+   "t": 117.0,
+   "d": 34.0,
+   "text": "dulu yang sudah apa namanya sudah terlalu lama belum di diganti gitu mungkin itu Pak dengan penambahan anggaran kampus itu berarti akan tetap dilakukan ya ee nanti kami akan konsultasi dengan Menteri Keuangan yang baru juga untuk apa namanya karena ee Kementerian Koperasi kita ingin bisa menjadi kementerian kelas 2 yang bisa mendukung kerja 80.000 Ibu operasi desa ini untuk bisa operasional. Tapi tentu kami ee akan berkonsultasi lebih jauh dengan Menteri"
+  },
+  {
+   "t": 151.0,
+   "d": 23.0,
+   "text": "Keuangan yang baru dan yang lain-lainnya. Terima kasih. Mohon doanya semoga selamat, berkah dan koperasi desa kita doakan mulai bisa operasional dan 16 triliun yang sudah dialokasikan bisa bermanfaat sebaik-baiknya untuk masyarakat ee di desa-desa. Terima kasih. Selamat sore."
+  },
+  {
+   "t": 174.0,
+   "d": 3.0,
+   "text": "Asalamualaikum. warahmatullahi wabarakatuh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

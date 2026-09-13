@@ -1,0 +1,67 @@
+{
+ "id": "2024-01-01-rapat-terbatas-terkait-erupsi-gunung-lewotobi-laki",
+ "video_id": "iWv_f7TR4jk",
+ "date": "2024-01-01",
+ "date_precise": false,
+ "title": "Rapat Terbatas Terkait Erupsi Gunung Lewotobi Laki Laki di Flores Timur, Washington DC, 12 Nov 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=iWv_f7TR4jk",
+ "duration_s": 124,
+ "duration_hms": "2:04",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 143,
+ "unique_word_count": 98,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "iWv_f7TR4jk",
+   "url": "https://www.youtube.com/watch?v=iWv_f7TR4jk",
+   "title": "Rapat Terbatas Terkait Erupsi Gunung Lewotobi Laki Laki di Flores Timur, Washington DC, 12 Nov 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 7.0,
+   "d": 49.0,
+   "text": "Selamat malam saudara-saudara sekalian bisa dengar suara saya para menteri jelas enggak suara saya jelas Bapak siap jelas bapak baik yang saya hormati Menko pembangunan manusia dan kebudayaan Menko pemberdayaan masyarakat Menteri Sosial mensesn Menteri Kesehatan menteri Perumahan dan kawasan permukiman pim TNI Kapolri yang saya hormati Kepala BNPB eh dan bersama saya ada menteriar negeri dan sekretaris kabinet e Terima kasih"
+  },
+  {
+   "t": 56.0,
+   "d": 62.0,
+   "text": "saudara-saudara jam berapa di Jakarta sekarang 10 malam 22 Oke 22 Terima kasih saya Eh saya ee mengelpon saudara-saudara Saya ingin diberi update Bagaimana tentang eh keadaan bencana di gunung lewoi laki-laki di Flores Timur NTT e mohon saya diberi update silakan mungkinak presiden tadi pagi kami juga sudah melakukan rapat koordinasi dipimpin oleh Bapak Wapres dan sejak erupsi tanggal 3 dini hari yang lalu eh bnppbos tnilemda juga telah langsung melakukan"
+  },
+  {
+   "t": 118.0,
+   "d": 13.0,
+   "text": "penyelamatan dan ih warga dan saat ini ee sudah ada lebih dari 13.000 warga yang mengungsi"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

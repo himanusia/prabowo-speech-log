@@ -1,0 +1,83 @@
+{
+ "id": "2025-02-04-keterangan-pers-wakil-ketua-dpr-sufmi-dasco",
+ "video_id": "Bi4aY-P5ljI",
+ "date": "2025-02-04",
+ "date_precise": true,
+ "title": "Keterangan Pers Wakil Ketua DPR Sufmi Dasco Ahmad Sebelum Bertemu Presiden Prabowo, 4 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Bi4aY-P5ljI",
+ "duration_s": 214,
+ "duration_hms": "3:34",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 27,
+ "token_count": 478,
+ "unique_word_count": 227,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Bi4aY-P5ljI",
+   "url": "https://www.youtube.com/watch?v=Bi4aY-P5ljI",
+   "title": "Keterangan Pers Wakil Ketua DPR Sufmi Dasco Ahmad Sebelum Bertemu Presiden Prabowo, 4 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 40.0,
+   "text": "semalam ada pertemuan dengan bapak ya I Kalau semalam memang eh kami sengaja minta waktu ketemu untuk berkomunikasi sebagai perwakilan dari Dewan Perwakilan Rakyat itu menyampaikan aspirasi rakyat di daerah-daerah yang kemarin kesulitan mendapatkan LPG nah sehingga kemudian e dari hasil komunikasi-komunikasi itu ya tadi pagi presiden sudah turun tangan minta agar Kementerian SDM mengaktifkan kembali pengecor-pengecor yang tadinya tidak ee bisa berjualan demikian artinya sebelumnya belum pernah disampaikan ke"
+  },
+  {
+   "t": 40.0,
+   "d": 33.0,
+   "text": "Pak Prabowo sampai kemudian Pak Presiden harus turun tangan Begu eh Jadi sebenarnya setelah dicek itu ada kebijakan dari e internal Kementerian SDM itu ee untuk mengaktif ee apa namanya tuh supaya menertibkan pengecar-pengecer yang eh Harganya tidak seragam dan e cenderung mahal cenderung mahal di Mas masyarakat nah kemudian ee ternyata ee dalam waktu yang bersamaan penertiban itu ternyata menimulkan dampak yang EE seperti kita sama-sama tahu nah sehingga"
+  },
+  {
+   "t": 73.0,
+   "d": 32.0,
+   "text": "akhirnya dari hasil komunikasi semalam dan dievaluasi tadi pagi ee presiden kemudian meminta supaya ee secara parsial dilakukan administrasi penertibannya tetapi pengecer-pengecer bisa sambil berjualan dulu supaya rakyat tetap bisa membeli ee lpg-nya demikian berarti administrasi penertipan itu nanti akan dibikin aturannya atau gimana sih Iya jadi memang di SDM sendiri sedang bikin aturannya gitu oke hujan hujan yang meninggal gitu apaper apa sih"
+  },
+  {
+   "t": 105.0,
+   "d": 32.0,
+   "text": "Pak responnya dan bagaimana Gimana ada warga yang meninggal karenatri itu presiden tu bagaimana apa pres tahu ada kasus seperti itu iya kita juga sudah beritahu bahwa Ya tapi kan sebab musababnya enggak cuma karena ngantri itu kebetulan di pak Mulang di Dapil saya jadi kita sudah kirim tim juga untuk ee datang dan malam ini ee ada pengajian di situ Terima kasih diskusi hari ini soal tujuannya tetap dilakukan tapi caranya mungkin yang sedikititu Pak Iya iya secara parsial caranya kemudian dilaksanakan tetapi ee pengecarnya bisa"
+  },
+  {
+   "t": 137.0,
+   "d": 25.0,
+   "text": "berjualan dulu sambil nanti akan di ee benahi atau kemudian diproses administrasinya menjadi subpangkalan salah satu meminta pertimbangan Pak JK juga sebagai pencetusnya begitu Pak mungkin untuk Waduh enggak tahu saya Pak bilang katanya tetap harus menggunakan KTP untuk membeli gas LPG Apakah itu menyikkan juga masyarakat Pak untuk membeli gas LPG harus mengunak k eh kalau itu nanti kita tanyakan teknisnya saja di SDM saya kurang paham demikian"
+  },
+  {
+   "t": 162.0,
+   "d": 34.0,
+   "text": "masalahnya apa sih sebenarnya hingga akhirnya jadi rencana Aduh nanya satu-satu ya masalahnya ditemukan DPR itu apa hingga dari rencana penertiban hingga akhirnya terjadi ternyata eh antrian dan kelangkan dan lain-lain Iya kita melihat bahwa ee apa penerapan aturannya juga mungkin mendadak ya tidak tersosialisasikan ee sehingga kemudian dampaknya tidak Ee tidak dihitung bahwa kemudian eh terjadi eh penumpukan-penumpukan masyarakat yang perlu gas LPG kan begitu ya okeak bahwa"
+  },
+  {
+   "t": 196.0,
+   "d": 18.0,
+   "text": "pak Pres Prabowo tidak melarangjualanascer ini apakah sebelumnya pak B tidak melaporkan ke Pak Prabowo Pak eh saya belum tahu itu Apakah kemudian hal seperti itu mesti dikoordinasikan ke presiden ya tapi kebijakan-kebijakan di Kementerian itu biasanya kan bisa berjalan sendiri-sendiri tapi kemudian apabila menimbulkan dampak seperti ini ya presiden wajib turun tangan terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

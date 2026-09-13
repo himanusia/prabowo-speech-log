@@ -1,0 +1,83 @@
+{
+ "id": "2025-08-25-keterangan-pers-menteri-pertanian-amran-sulaiman-jakarta",
+ "video_id": "V0EQScIUjWk",
+ "date": "2025-08-25",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Pertanian Amran Sulaiman, Jakarta, 25 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=V0EQScIUjWk",
+ "duration_s": 116,
+ "duration_hms": "1:56",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 151,
+ "unique_word_count": 85,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "V0EQScIUjWk",
+   "url": "https://www.youtube.com/watch?v=V0EQScIUjWk",
+   "title": "Keterangan Pers Menteri Pertanian Amran Sulaiman, Jakarta, 25 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 11.0,
+   "text": "E tadi yang kami bahas adalah perkembangan ee percepatan ee optimalisasi lahan dan cetak sawah."
+  },
+  {
+   "t": 11.0,
+   "d": 17.0,
+   "text": "Ini akan kalau cetak sawah selesai ee secara bertahap selama 3 tahun berturut-turut ini akan membuat ee swasta sembada ke depan itu sustain berkelanjutan. Oke, ada pertanyaan?"
+  },
+  {
+   "t": 28.0,
+   "d": 2.0,
+   "text": "Ada."
+  },
+  {
+   "t": 30.0,
+   "d": 29.0,
+   "text": "Dan ya perlu juga kami sampaikan sesuai hasil BAPENAS dan pengamatan lapangan sekarang ini harga sudah berangsur-angsur turun. Kita akan melakukan operasi pasar besar-besaran berkelanjutan sampai Desember. Dan ee beras yang kita siapkan SPHP adalah sebanyak 1,3 juta ton."
+  },
+  {
+   "t": 59.0,
+   "d": 24.0,
+   "text": "sampai Desember kita target insyaallah ke depan harga beras e beransur-ansur turun. Hari ini per harian kita sudah mencapai 6.000 ton per hari. Target kita berikutnya adalah 7.000 dan akan mencapai ee 10.000 ton per hari ke depan. Oke, makasih ya."
+  },
+  {
+   "t": 83.0,
+   "d": 30.0,
+   "text": "berasnya cadangan beras pemerintah masih ee 3,9 juta ton masih cukup besar sangat sangat aman kalau nanti kita SPHP-nya 1 juta perkiraan akhir tahun itu dua minimal 2,5 2,7 juta ton dan itu sangat cukup tinggi."
+  },
+  {
+   "t": 113.0,
+   "d": 3.0,
+   "text": "Makasih ya. Yuk."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

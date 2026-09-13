@@ -1,0 +1,80 @@
+{
+ "id": "2025-05-08-panggil-menteri-rosan-bahas-evaluasi-dan-asesmen",
+ "video_id": "R7UKKU5kHfI",
+ "date": "2025-05-08",
+ "date_precise": true,
+ "title": "Presiden Prabowo Panggil Menteri Rosan, Bahas Evaluasi dan Asesmen BUMN, 8 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=R7UKKU5kHfI",
+ "duration_s": 128,
+ "duration_hms": "2:08",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 301,
+ "unique_word_count": 148,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "R7UKKU5kHfI",
+   "url": "https://www.youtube.com/watch?v=R7UKKU5kHfI",
+   "title": "Presiden Prabowo Panggil Menteri Rosan, Bahas Evaluasi dan Asesmen BUMN, 8 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 46.0,
+   "text": "apa ee diskusi aja beliau sekalian diajak makan siang tadi sama beliau kemudian e diskusi update mengenai apa ee apa kegiatan kita di Danantara ee dan bagaimana kita ke depannya ee apa penekanan lagi bahwa ee diminta melakukan evaluasi dan assesment kepada ee BUM-BUM yang ada. dipastikan juga untuk ee yang dipilih juga yang ee jenjang karirnya itu jelas dan juga mempunyai integritas lah. Seperti itu arahan dari beliau. Ee jadi itu yang kita sedang lakukan ee dan yang"
+  },
+  {
+   "t": 46.0,
+   "d": 12.0,
+   "text": "lain-lainnya ya intinya seperti itulah yang lain. Pak soal arahan Bapak katanya ee minta ROFs ditunda dan aksi korporasi juga ditunda ke BUMN non Tbk gimana Pak?"
+  },
+  {
+   "t": 58.0,
+   "d": 31.0,
+   "text": "Itu beneran ada, Pak? Iya ee karena memang kita kembali lagi yang dipilih ini mesti yang ee kalau Bapak bilang itu yang ee best brain best talent yang ada yang berdasarkan meritocr ya. Jadi yang berdasarkan ee yang yang terbaik. Jadi kita memastikan ee seperti kita pada saat memilih tim dari untuk dan antara kan kita bisa dilihat kan itu adalah tim-tim memang yang ee terbaik di bidangnya yang menjalankan ee usaha ke depannya ini benar-benar dengan karena Bapak-bapak bilangnya dengan yang cita tanah air."
+  },
+  {
+   "t": 89.0,
+   "d": 19.0,
+   "text": "Kalau cinta tanah air kan tidak melakukan hal-hal yang negatif ya korupsi dan yang lain-lain. Jadi ee seperti itu sih. Berarti alasannya umumnya untuk pemilihan direksi ya, Pak Rups di Oh, bukan, bukan. Itu untuk sebetulnya untuk memastikan supaya ini kan danara sebagai ee apa?"
+  },
+  {
+   "t": 108.0,
+   "d": 20.0,
+   "text": "Sebagai pemegang saham ee sekaligus kan untuk melihat operasional ini secara baik dan benar dan untuk lebih menciptakan biaya du lebih mengefis mengefisiensikan juga. Jadi ee kembali lagi eh valut creation dan dan antara kan kita juga mempunyai ee target-target yang dicanangkan gitu ya. Jadi pada intinya sih seperti itu. Jadi lebih saya lebih update ke beliau aja pada hari ini ya. soal asesmen kinerja BUMS"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

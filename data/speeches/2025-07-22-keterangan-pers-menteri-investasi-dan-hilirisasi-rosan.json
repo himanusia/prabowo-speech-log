@@ -1,0 +1,103 @@
+{
+ "id": "2025-07-22-keterangan-pers-menteri-investasi-dan-hilirisasi-rosan",
+ "video_id": "NO6w94v3IPw",
+ "date": "2025-07-22",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Investasi dan Hilirisasi Rosan Roeslani, Jakarta, 22 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=NO6w94v3IPw",
+ "duration_s": 136,
+ "duration_hms": "2:16",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "token_count": 221,
+ "unique_word_count": 105,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "NO6w94v3IPw",
+   "url": "https://www.youtube.com/watch?v=NO6w94v3IPw",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi Rosan Roeslani, Jakarta, 22 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 7,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 19.0,
+   "text": "Kalau kalau kami dari investasi ya ee investasi di eh kek di eh tahun 2015 ini itu ee kurang lebih 91 triliun dan itu ada ee tadi ada banyak sih pokoknya tapi kurang kurang lebih Heeh."
+  },
+  {
+   "t": 19.0,
+   "d": 7.0,
+   "text": "91 triliun untuk ee investasi melalui kawasan kek pada tahun 2025 gitu."
+  },
+  {
+   "t": 26.0,
+   "d": 8.0,
+   "text": "Realisasi itu, Pak? ee realisasi realisasi 91. Iya dari kek ya hanya dalam 6 bulan ee pertama."
+  },
+  {
+   "t": 34.0,
+   "d": 5.0,
+   "text": "Nanti kalau yang resmi lengkapnya untuknya tahun ini sampai akhir tahun berapa, Pak? Kenapa?"
+  },
+  {
+   "t": 39.0,
+   "d": 5.0,
+   "text": "Tadi kan realisasi sampai sekarang kalau sampai akhir tahun ini kek atau kek?"
+  },
+  {
+   "t": 44.0,
+   "d": 28.0,
+   "text": "Oh kek. Eh rencananya itu sampai rencananya itu ya kurang lebih kita ingin mencapai R200.000 Lupa lupa soalnya dari tadi kebanyakan. Nah, banyakkannya banyak sama ini. Oh, ketemu Pak ketemu."
+  },
+  {
+   "t": 72.0,
+   "d": 8.0,
+   "text": "Jangan lupa. Mohon maaf Pak daripada salah daripada salah gambar kita foto bentar."
+  },
+  {
+   "t": 80.0,
+   "d": 2.0,
+   "text": "Kok enggak ada ya?"
+  },
+  {
+   "t": 82.0,
+   "d": 32.0,
+   "text": "Oh, benar. 90,1 triliun potong dari target investasi. Oh sori mohon maaf tuh kan saya salah Januari sampai Desember 2024 itu 90,1 triliun dari target investasi di Kawasan Kek itu tadinya 78,1 triliun. Jadi kita melewati target untuk 2024 ee kemudian penyerapan tand kerjanya di 2024 itu 47.747 melebih target dari yang 38.953 dan itu tambahan pelaku usahanya dari dari Januari sampai Desember 2004 itu"
+  },
+  {
+   "t": 114.0,
+   "d": 19.0,
+   "text": "ada 72 pelaku usaha. Tetapi keseluruhan dari 2012 sampai 2024 capaian kumulatif PKIIK itu 263,4 triliun dengan jumlah pelaku usaha 403 dan kecan laman tenaga kerjanya itu selama 2012 sampai 2024 itu 160.874."
+  },
+  {
+   "t": 133.0,
+   "d": 3.0,
+   "text": "Oke, itu jatah saya. sisanya silakan nanti ke"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

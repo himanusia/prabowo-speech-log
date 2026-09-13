@@ -1,0 +1,103 @@
+{
+ "id": "2025-06-11-resmikan-indo-defence-2025-expo-forum-11",
+ "video_id": "yZVIm9vDw7c",
+ "date": "2025-06-11",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Indo Defence 2025 Expo & Forum, 11 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=yZVIm9vDw7c",
+ "duration_s": 145,
+ "duration_hms": "2:25",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 94,
+ "unique_word_count": 65,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "yZVIm9vDw7c",
+   "url": "https://www.youtube.com/watch?v=yZVIm9vDw7c",
+   "title": "Presiden Prabowo Resmikan Indo Defence 2025 Expo & Forum, 11 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 4,
+  "nasional_dan_identitas": 12
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 28.0,
+   "text": "[Musik] keselamatan suatu bangsa."
+  },
+  {
+   "t": 31.0,
+   "d": 7.0,
+   "text": "harus dijamin oleh pertahanan suatu bangsa."
+  },
+  {
+   "t": 38.0,
+   "d": 10.0,
+   "text": "Tidak ada bangsa yang waras yang menghendaki perang."
+  },
+  {
+   "t": 48.0,
+   "d": 7.0,
+   "text": "Perang adalah kegiatan manusia yang destruktif."
+  },
+  {
+   "t": 55.0,
+   "d": 11.0,
+   "text": "[Musik] Perang menimbulkan [Musik] kehancuran."
+  },
+  {
+   "t": 66.0,
+   "d": 21.0,
+   "text": "Tapi sejarah manusia mengajarkan bahwa suatu bangsa yang tidak mau investasi terhadap pertahanannya sendiri biasanya kedaulatannya dirampas."
+  },
+  {
+   "t": 87.0,
+   "d": 12.0,
+   "text": "Biasanya kemerdekaannya dirampas."
+  },
+  {
+   "t": 99.0,
+   "d": 7.0,
+   "text": "Ini adalah ajaran sejarah."
+  },
+  {
+   "t": 106.0,
+   "d": 20.0,
+   "text": "Karena itu bangsa Indonesia dari awal mengatakan bahwa bangsa Indonesia cinta damai, tapi bangsa Indonesia lebih cinta kemerdekaan."
+  },
+  {
+   "t": 126.0,
+   "d": 19.0,
+   "text": "Dengan mengucap bismillahirrahmanirrahim pada pagi hari ini, Rabu 11 Juni 2025, saya Prabowo Sugianto, Presiden Republik Indonesia membuka Indo Defense Expo dan Forum tahun 2025."
+  },
+  {
+   "t": 145.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

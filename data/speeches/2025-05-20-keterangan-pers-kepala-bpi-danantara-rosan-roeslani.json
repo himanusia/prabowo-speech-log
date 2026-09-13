@@ -1,0 +1,97 @@
+{
+ "id": "2025-05-20-keterangan-pers-kepala-bpi-danantara-rosan-roeslani",
+ "video_id": "yTYdiBn_EaU",
+ "date": "2025-05-20",
+ "date_precise": true,
+ "title": "Keterangan Pers Kepala BPI Danantara Indonesia Rosan Roeslani, Jakarta, 20 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=yTYdiBn_EaU",
+ "duration_s": 218,
+ "duration_hms": "3:38",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 30,
+ "token_count": 472,
+ "unique_word_count": 184,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "yTYdiBn_EaU",
+   "url": "https://www.youtube.com/watch?v=yTYdiBn_EaU",
+   "title": "Keterangan Pers Kepala BPI Danantara Indonesia Rosan Roeslani, Jakarta, 20 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 4,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 38.0,
+   "text": "ee apa kita mengupdate saja beberapa apa kegiatan yang kita lakukan di Danantara ee terutama dari segi investasi yang akan kita lakukan ke depannya ee baik itu di apa diirisasi baik itu di sektor kesehatan ee dan juga di sektor ee clean energy e waste to energy dan yang lain-lain. Karena pada intinya juga ya karena kita juga harus mempunyai pertanggung jawaban dari dan data yang kita keluarkan, diharapkan juga kita ee kita sampaikan kita akan ee menaruh tim-tim"
+  },
+  {
+   "t": 38.0,
+   "d": 39.0,
+   "text": "yang kuat ee dan ee terbuka juga untuk menaruh juga ee apa-spart yang dibutuhkan agar ke depannya juga menjadi segi governance governance-nya dan tata kelola juga menjadi lebih baik. Jadi memang penekanan di ee tata kelola di transparansi, keterbukaan dan juga akuntabilitas juga ditekankan agar dan juga ditekankan agar e ini menjadi ee lebih baik dan menjadi penggerak terutama dalam hal penciptaan lapan pekerjaan. Tadi juga disampaikan ee oleh beliau. Jadi ee penekanannya"
+  },
+  {
+   "t": 77.0,
+   "d": 37.0,
+   "text": "adalah di situ juga bagaimana kita ee lebih mencurakan lagi dari segi ee risiko, dari segi ee compliance itu juga tadi ee pembicaraan yang di ee ditekankan. Jadi ee hal-hal itu ya tentunya di dalam investasi kita ke depannya harapannya ee return yang diharapkan ya tentunya harus ada tetapi lain ee terutama dari pasalapan pekerjaan itu juga yang ditekankan oleh beliau itu aja sih. Tapi sejauh ini ada yang masuk baru enggak investasi atau juga proyek yang akan mulai lanjut"
+  },
+  {
+   "t": 114.0,
+   "d": 30.0,
+   "text": "begitu dari Danantara. Dan di antara ya memang ee kita ada ee listnya kan ya, list projectnya ee sudah sampai mana join ini ya sudah ada yang hampir final eh karena kita kan juga harus melakukan semua proses du diligent ini dengan baik dari baik dari segi dulig dari segi e finansial, dari segi legal, dari segi administrasinya, dari segi teknologinya dan yang lain-lain. Dan itu sudah kita lakukan. Jadi ee harapannya dalam waktu"
+  },
+  {
+   "t": 144.0,
+   "d": 9.0,
+   "text": "sebentar lagi ada beber ada beberapa investasi yang kita akan ee lakukan dan kita juga akan terbuka kepada publikasinya apa saja yang kita lakukan."
+  },
+  {
+   "t": 153.0,
+   "d": 18.0,
+   "text": "Karena buat kita yang paling penting juga ee apa ee prosesnya ini kita sudah lakukan secara benar, secara komprehensif dan sesuai dengan aturan yang ada. Pak dengan Boeing gimana Pak dengan Boeing Pak yang kemarin di Instagram Bapak bilang kalau antara bakal kerja sama dengan Boeing itu gimana posisi dengan Boing? Oh enggak."
+  },
+  {
+   "t": 171.0,
+   "d": 38.0,
+   "text": "itu kan ee kami menerima apa pimpinan Boeing dari ee Amerika dan juga pimpinan dari regionalnya ya. Ini lebih sebetulnya menyangkut kepada ee kesiapan Boeing untuk ee bekerja sama dengan ee Garuda ya. Ee karena memang kan di dulu sempat ada komitmen ya Pak Doni ya kerja sama Boeing dengan Garuda yang memang tertunda karena COVID. Nah, itu ee apa menjadi e salah satu topik pembicaraan bagaimana ee untuk per itu bisa berjalan lagi atau tentunya akan melakukan adjustment atau revisi. Nah,"
+  },
+  {
+   "t": 209.0,
+   "d": 6.0,
+   "text": "itu sedang dicaji oleh tim di Garuda maupun di Danantara."
+  },
+  {
+   "t": 215.0,
+   "d": 3.0,
+   "text": "terkait"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

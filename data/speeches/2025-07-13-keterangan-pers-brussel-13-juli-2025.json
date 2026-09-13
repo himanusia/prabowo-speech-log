@@ -1,0 +1,78 @@
+{
+ "id": "2025-07-13-keterangan-pers-brussel-13-juli-2025",
+ "video_id": "GYSUFgb5wP4",
+ "date": "2025-07-13",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo, Brussel, 13 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=GYSUFgb5wP4",
+ "duration_s": 114,
+ "duration_hms": "1:54",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 156,
+ "unique_word_count": 94,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "GYSUFgb5wP4",
+   "url": "https://www.youtube.com/watch?v=GYSUFgb5wP4",
+   "title": "Keterangan Pers Presiden Prabowo, Brussel, 13 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 27.0,
+   "text": "Bapak akhirnya Pak 9 tahun Bapak I eh alhamdulillah tadi kita ada pertemuan dengan ee Uni Eropa ya ee Komisi dan ee dewan Presiden Commission, EU Commission dan Presiden European Council."
+  },
+  {
+   "t": 27.0,
+   "d": 19.0,
+   "text": "ee luar biasa e terobosan besar setelah 10 tahun negosiasi hari ini kita ee tembus break breakthrough semua titik-titik persoalan sudah kita selesaikan."
+  },
+  {
+   "t": 46.0,
+   "d": 25.0,
+   "text": "Jadi kita sudah punya sekarang perjanjian eh comprehensive economic partnership agreement antara Indonesia dan Uni Eropa yang ini sebetulnya nanti adalah menjadi free trade agreement ya. Hampir semua tarif kita eh sudah selesai ya. Hampir semuanya 0% di antara kita."
+  },
+  {
+   "t": 71.0,
+   "d": 4.0,
+   "text": "Jadi ini saya terobosan baru Uni Eropa pasar yang sangat besar."
+  },
+  {
+   "t": 75.0,
+   "d": 20.0,
+   "text": "ee jumlah penduduk 400 60 juta lebih. Ee total GDP mereka sangat besar, perdagangan mereka juga sangat besar. Jadi ini alhamdulillah suatu ee suatu peristiwa bersejarah."
+  },
+  {
+   "t": 95.0,
+   "d": 19.0,
+   "text": "ee kita dalam keadaan ketidakpastian dunia sekarang kita ya punya ee alternatif-alternatif yang kuat. Saya kira itu ya tangan e ya puh waktu tentunya mudah-mudahan tidak lama lah tadi juga ada paspor itu"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

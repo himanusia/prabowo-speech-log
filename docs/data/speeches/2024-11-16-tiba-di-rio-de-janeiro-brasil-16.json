@@ -1,0 +1,63 @@
+{
+ "id": "2024-11-16-tiba-di-rio-de-janeiro-brasil-16",
+ "video_id": "AxOllDt4ar4",
+ "date": "2024-11-16",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Rio de Janeiro, Brasil, 16 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=AxOllDt4ar4",
+ "duration_s": 167,
+ "duration_hms": "2:47",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 164,
+ "unique_word_count": 100,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "AxOllDt4ar4",
+   "url": "https://www.youtube.com/watch?v=AxOllDt4ar4",
+   "title": "Presiden Prabowo Tiba di Rio de Janeiro, Brasil, 16 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 7.0,
+   "d": 117.0,
+   "text": "кади [Musik] [Musik] Pak Semoga lancar [Musik] Pak an [Musik] berasil selamat datangio [Musik] [Musik] Pak ninainal oke terus kamu tadi ditanya apa sama Pak prab eh dad here and where is your Dad oke terus S Tadi kamu jawab is your Dad kamu not sure ya I I'm not sure oke terus tadi latihannya Berapa lama untuk ngomong kayak gitu kayak 10 menitan kan pendeki enggak tadi iya atau apa Ini pertama kali tu kan Iya"
+  },
+  {
+   "t": 124.0,
+   "d": 39.0,
+   "text": "Yes Aduh rasanya senang banget ya saya kita sebagai orang Indonesia di Rio bangga banget karena bisa dapat pertama dikunjungi sama bapak presiden ya itu dan lagi ya kita hanya bisa berdoa semoga Bapak Bil diberi kesehatan sehat supaya bisa memimpin bangsa Indonesia t sempat diajak ke ngobrol Oh dia tanya saya dari mana Saya bilang Saya dari Kalimantan ter tanya suami dari mana ya cerita juga gitu Oh I gimana ya pertama kali untuk saya juga"
+  },
+  {
+   "t": 163.0,
+   "d": 11.0,
+   "text": "lihat e presiden Indonesia ah untuk e pak presiden Semoga ke depannya Indonesia tambah maju tambah Jaya Al"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

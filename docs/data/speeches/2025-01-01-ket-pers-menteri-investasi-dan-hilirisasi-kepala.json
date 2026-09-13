@@ -1,0 +1,77 @@
+{
+ "id": "2025-01-01-ket-pers-menteri-investasi-dan-hilirisasi-kepala",
+ "video_id": "uGCx2WrulpU",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Ket Pers Menteri Investasi dan Hilirisasi/Kepala BKPM terkait Investasi Mobil Listrik, 6 Feb 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=uGCx2WrulpU",
+ "duration_s": 149,
+ "duration_hms": "2:29",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 332,
+ "unique_word_count": 137,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "uGCx2WrulpU",
+   "url": "https://www.youtube.com/watch?v=uGCx2WrulpU",
+   "title": "Ket Pers Menteri Investasi dan Hilirisasi/Kepala BKPM terkait Investasi Mobil Listrik, 6 Feb 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 4,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 40.0,
+   "text": "Enggak tadi hanyabahas Dari apa investasi e yang masuk ke Indonesia untuk pengembangan mobil listrik eh baterai itu bagaimana kita juga bisa berperan lebih aktif untuk kita e apa e dari segi investasi mempunyai kemungkinan untuk mengembangkan juga e mobil listrik Bagaimana investasi yang bisa masuk untuk untuk itu nah Nah jadi lebih ke situ sih Gitu Ee karena potensi tadi kita bicara ya kita kan potensi dari nikelnya segala macam baterainya sampai baterai kita"
+  },
+  {
+   "t": 40.0,
+   "d": 35.0,
+   "text": "sudah ada recycle baterainya udah ada nah tapi mobilnya kan kita belum ada nih mobil untuk eh apa mobil listriknya sedangkan kita kan sudah comited e untuk eh net Zero emission di 2060 Nah malah keinginan dari bapak presiden bisa lebih cepat Nah jadi ee sedangkan apa perusi mobil di kita kan sekitar 1,2 juta per tahun dan berkembang dan berkembang dan diharapkan di tahun 2030 tadi disampaikan sampai 2,5 juta sampai 2,5 juta Ya intinya Masa"
+  },
+  {
+   "t": 75.0,
+   "d": 29.0,
+   "text": "kita hanya tidak bisa berperan lebih besar dari itu nahalnya arahnya seperti itu dan Ee Kita diminta juga untuk ya untuk ee melakukan ee pengkajian-pengkajian lah tapi kepada itu sih gitu bahkan sudah ada yundai Pak tidak ada investasi masuk lagi Pak Iya kan Hyundai ini ee bukan hanya Hyundai ada Hyundai ada byyd yang sudah masuk ada ada buling yang sudah bikin manufacturingnya Ya nah tapi kan itu atas"
+  },
+  {
+   "t": 104.0,
+   "d": 33.0,
+   "text": "nama perusahaan ee mereka gitu nah kita kan sudah ada Maung ini Nah ini mungkin ada pengembangan-pengemban berikutnya nanti kita akan bicara ke apa akan ee kerjakan lebih lanjut lagilah ininyamennya masuk ke mobilis Dar ma enggak mau Kan sudah ada gitu kan Nanti kita lihat untuk pengembangan ke depannya juga itu aja tapi dari segi investasinya saya si lebih dari segi investasinya lah Bagaimana dari apa pengembangan itu hitung-hitungannya nanti Seperti apa gitu ya Ada pembahasan soal peluncuran danantara juga Pak di"
+  },
+  {
+   "t": 137.0,
+   "d": 12.0,
+   "text": "dalam Pak Kenapa ada pembahasan soal peluncuran danantara juga yang kabarnya dalam waktu kan ruubwn sudah R sudah P lebih fokus tadi soal apa mobil Bagaimana pengembangan mobil bisa dari ujung bulu Ke Hilir lebihu itu aja sih ya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

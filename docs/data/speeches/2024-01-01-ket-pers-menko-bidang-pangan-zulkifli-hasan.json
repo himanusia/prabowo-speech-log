@@ -1,0 +1,92 @@
+{
+ "id": "2024-01-01-ket-pers-menko-bidang-pangan-zulkifli-hasan",
+ "video_id": "1fa5ykWhcXE",
+ "date": "2024-01-01",
+ "date_precise": false,
+ "title": "Ket Pers Menko Bidang Pangan Zulkifli Hasan Terkait Ratas Mengenai Swasembada Pangan, 30 Des 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=1fa5ykWhcXE",
+ "duration_s": 300,
+ "duration_hms": "5:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 39,
+ "token_count": 466,
+ "unique_word_count": 209,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "1fa5ykWhcXE",
+   "url": "https://www.youtube.com/watch?v=1fa5ykWhcXE",
+   "title": "Ket Pers Menko Bidang Pangan Zulkifli Hasan Terkait Ratas Mengenai Swasembada Pangan, 30 Des 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 31,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Swasembada": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 47.0,
+   "text": "Ya baik Baru selesai rapat temanya suas semada pangan ya Ee memang beberapa berpendapat apa yang disampaikan bapak presiden kita akan suaseda pangan dalam waktu singkat ya Ada beberapa pihak yang EE mungkin tidak yakin ya tapi dengan ee kesungguhan semua pihak terutama yang ee di mana-mana Disampaikan oleh Bapak Presiden bahwa kita ee harus bekerja keras ee semua pihak dan Fokus utama Swasembada akhirnya"
+  },
+  {
+   "t": 48.0,
+   "d": 46.0,
+   "text": "ee Alhamdulillah ee tadi dalam ratas yang pertama kita sudah memutuskan yang pertama dulu tidak impor beras Pak mintan ya tahun depan tidak Har berani Amin ya tidak impor beras kemudian jagung tambah jagung tambah ee gula untuk konsumsi tambah garam ya pak anu KKP mana ya KKP tambah garam Nah yang kedua baru saja kami rapatnya panjang hampir 2 jam Seteng tadi ya karena memang seru ya Eh ratas tapi perdebatan ada perdebatan yang yang"
+  },
+  {
+   "t": 94.0,
+   "d": 48.0,
+   "text": "menarik tapi perdebatan dalam artian karena positif ya karena positif Karena Januari saja produksi beras kita sudah naik dari 0 0,8 jadi 1,3 jadi 1,3 ja ya Nah yang Februari Februari 0,8 Februari 0,8 jadi 2 Kom 2,08 2,08 produksi beras juta 2,08 juta Januari dari 0,35 naik ke 1,3 ya Nah tadi melalu perdebatan panjang kita tadi sudah dibutuhkan oleh Bapak Presiden Kabar gembira untuk para petani harga gabah"
+  },
+  {
+   "t": 142.0,
+   "d": 51.0,
+   "text": "sudah disepakati naik ya dari 6.000 menjadi 6.500 ini I kan Pak tadi Pak Mentan satu ya harga HPP beras Pakak dua jagung disepakati harganya e naik dari 5.000 menjadi 5.500 dan poin penting ya tadi menjadi keputusan bersejarah Saya kira eh dalam rapat-rapat kabinet yang saya ikuti ini hari ini kita mengambil keputusan bersejarah ya berapapun produksi ee beras ee gabah I EE petani akan ditampung dan jagung dengan harga ayo pak pak Arif dicari Tadi harga apa"
+  },
+  {
+   "t": 193.0,
+   "d": 34.0,
+   "text": "berapaap pun produksi gabah dan jagung petani ya akan ditampung sesuai dengan harga yang telah ditetapkan oleh pemerintah berapa saja jagung dan EE gabah petani ini baru satu keputusan yang berani ya E tadi dalam perbatnya kalau beli di gudangnya di mana nyimpannya di mana kami bahas sampai detail ya Ada gudang bulok nanti akan dipergunakan Ada gudang apa eh risi gudang akan digunakan Ada gudang induk"
+  },
+  {
+   "t": 227.0,
+   "d": 37.0,
+   "text": "koperasi akan digunakan pendek kata perintah presiden memutuskan tadi gabah dan jagung berapaun produk petani akan dibeli dengan harga HPP 6.500 dan 5.500 saudara-saudara kira-kira itu berita yang paling penting yang perlu kami sampaikan kepada ee saudara-saudara dan tentu seluruh ee petani di mana pun berada baik petani ee padi maupun petani jagung Saya kira demikian saudara-saudara terima kasih atas perhatiannya selamat sore selamat malam asalamualaikum warahmatullahi"
+  },
+  {
+   "t": 264.0,
+   "d": 34.0,
+   "text": "wabarakatuh Ini kan eh tahun depan juga akan berlaku PPN 12% Apakah itu akan mengaku pada pengadaan-pengadaan kebetulan bagus sekali pertanyaanmu bagus sekali pertanyaannya seluruh produk pangan tidak ada kenaikan apapun yang dalam negeri titik jelas ya ya mau beras ketan mau beras merah mau apa tidak ada kenaikan PPN apapun khusus semua pangan di dalam negeri semua pangan dalam negeri tidak ada makasih"
+  },
+  {
+   "t": 298.0,
+   "d": 3.0,
+   "text": "yaas for"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

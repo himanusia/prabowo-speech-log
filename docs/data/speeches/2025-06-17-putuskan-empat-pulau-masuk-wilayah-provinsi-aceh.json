@@ -1,0 +1,93 @@
+{
+ "id": "2025-06-17-putuskan-empat-pulau-masuk-wilayah-provinsi-aceh",
+ "video_id": "cdhw3tkyimk",
+ "date": "2025-06-17",
+ "date_precise": true,
+ "title": "Presiden Prabowo Putuskan Empat Pulau Masuk Wilayah Provinsi Aceh, 17 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=cdhw3tkyimk",
+ "duration_s": 197,
+ "duration_hms": "3:17",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 26,
+ "token_count": 289,
+ "unique_word_count": 149,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "cdhw3tkyimk",
+   "url": "https://www.youtube.com/watch?v=cdhw3tkyimk",
+   "title": "Presiden Prabowo Putuskan Empat Pulau Masuk Wilayah Provinsi Aceh, 17 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 30.0,
+   "text": "Baik, ee terima kasih. Saya telah dilaporkan bahwa Saudara-saudara sudah bertemu untuk ee membahas masalah empat pulau yang jadi bahan ee pembicaraan sekarang. Ee silakan mungkin ada yang mau sampaikan ke saya silakan."
+  },
+  {
+   "t": 31.0,
+   "d": 3.0,
+   "text": "Baik, Pak. Terima kasih."
+  },
+  {
+   "t": 34.0,
+   "d": 30.0,
+   "text": "Jadi kami telah ee membicarakan soal empat pulau dan alhamdulillah tadi berdasarkan ee temuan baru dari Pak Mendagri, kita ketemu dokumen lama keputusan Mendagri tentang kesepakatan dua gubernur yang pada waktu itu ditandatangani oleh ee Raja Inal Siregar, Gubernur Sumatera Utara yang menyepakati bahwa empat pulau itu masuk ke dalam wilayah Aceh, Pak."
+  },
+  {
+   "t": 64.0,
+   "d": 33.0,
+   "text": "Nah, sehingga berdasarkan ee temuan dari bukti otentik yang didapat, kita tadi sudah bersepakat bahwa ee sebentar di hadapan Pak Presiden, dua gubernur akan menandatangani pembaruan kesepakatan tentang empat pulau yang masuk ke wilayah Aceh dan setelah ini kita akan terangkan kepada masyarakat melalui media ee runut-runutan tentang bagaimana terjadi sengketa dan bagaimana akhir penyelesaiannya."
+  },
+  {
+   "t": 97.0,
+   "d": 17.0,
+   "text": "Demikian dilaporkan, Pak. Baik, terima kasih. Saya kira demikian, ya. Ee saya kira prinsip bahwa kita satu negara NKRI, saya kira itu selalu jadi pegangan kita."
+  },
+  {
+   "t": 114.0,
+   "d": 48.0,
+   "text": "Tapi ee alhamdulillah kalau memang dengan cepat sudah ada pemahaman bersama penyelesaian saya kira baik sekali. Jadi segera saja di umumkan ke masyarakat nanti supaya enggak jadi bahan untuk bikin ramai lagi. Suasana kita sangat bagus. Jadi kita sangat perlu ee suatu penerangan terus ke rakyat ya. Kondisi kita baik, kondisi ekonomi kita baik, pertumbuhan kita baik, produksi pertanian kita baik. Saya lihat kemajuan di semua bidang. Jadi ee kita"
+  },
+  {
+   "t": 162.0,
+   "d": 21.0,
+   "text": "semua perlu untuk terus ee menjaga kondisi ini. Tapi ee apapun saya ucap terima kasih kepada Saudara sekalian, kepada para menteri, para pejabat yang telah bekerja keras ya."
+  },
+  {
+   "t": 183.0,
+   "d": 12.0,
+   "text": "Ee saya sangat menghargai pekerjaan saudara, sangat menghargai kerja sama teamwork. Saya merasakan teamwork kita sangat baik. Terima kasih."
+  },
+  {
+   "t": 195.0,
+   "d": 3.0,
+   "text": "Silakan."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,63 @@
+{
+ "id": "2025-05-21-pameran-tahunan-ke-49-indonesian-petroleum-association-ipa",
+ "video_id": "yS6hEdTfYIs",
+ "date": "2025-05-21",
+ "date_precise": true,
+ "title": "Pameran Tahunan ke-49 Indonesian Petroleum Association (IPA) Tahun 2025, Tangerang, 21 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=yS6hEdTfYIs",
+ "duration_s": 129,
+ "duration_hms": "2:09",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 101,
+ "unique_word_count": 86,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "yS6hEdTfYIs",
+   "url": "https://www.youtube.com/watch?v=yS6hEdTfYIs",
+   "title": "Pameran Tahunan ke-49 Indonesian Petroleum Association (IPA) Tahun 2025, Tangerang, 21 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 34.0,
+   "text": "Dengan mengucap bismillahirrahmanirrahim pada sore hari ini, hari Rabu, 21 Mei 2025, saya Prabowo Subianto, Presiden Republik Indonesia dengan resmi membuka konvensi dan pameran tahunan ke-49 Indonesian Petroleum Association IPA tahun 2025. Terima kasih."
+  },
+  {
+   "t": 34.0,
+   "d": 84.0,
+   "text": "adalah eh 556.000ukan adalah bagaimana caranya kami ee mendukung atas ee ee pemboran pengembangan. Kemudian e baru selesai aku pembayaran insyaallah wangi kita membuat apes gagak rimang di utara tubang minyak punyaknya kemudian juga murnikan tidak terlalu lagi oil kita kirim ke sini [Musik] to Indonesian nationals and they are driving the force behind the over 10 of discovery and looking forward the the country to achieving"
+  },
+  {
+   "t": 118.0,
+   "d": 11.0,
+   "text": "Pak foto Pak, Pak ya,"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

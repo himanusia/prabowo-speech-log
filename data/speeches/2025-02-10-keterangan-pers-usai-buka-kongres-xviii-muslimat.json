@@ -1,0 +1,58 @@
+{
+ "id": "2025-02-10-keterangan-pers-usai-buka-kongres-xviii-muslimat",
+ "video_id": "vLWjgNiYoDE",
+ "date": "2025-02-10",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Buka Kongres XVIII Muslimat NU, Surabaya, 10 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=vLWjgNiYoDE",
+ "duration_s": 67,
+ "duration_hms": "1:07",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 101,
+ "unique_word_count": 75,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "vLWjgNiYoDE",
+   "url": "https://www.youtube.com/watch?v=vLWjgNiYoDE",
+   "title": "Keterangan Pers Presiden Prabowo Usai Buka Kongres XVIII Muslimat NU, Surabaya, 10 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 49.0,
+   "text": "sudah jelas sayain pesannya untuk ibu-ibu muslimat Pak perannya di Indonesia Pak sangat penting sebagai yang ikut membesarkan generasi yang akan datang ya ibu-ibu itu sangat penting dan muslimat saya lihat terutama ketua umumnya punya visi jauh depanamp ke inti tadi Sada lingkungan kebersihan kesehatan kebersihan itu bagian dari kesehatan dan keindahan kemudian mengentaskan kemiskinan kalau kita semua ikut ya kan Jangan hanya nunggu pemerintah Jangan"
+  },
+  {
+   "t": 50.0,
+   "d": 18.0,
+   "text": "tergantung Tapi semua ikut serta bantu yang lemah bantu yang miskin Insyaallah kita bangk danaan kerah saya sangat optimis kita akan lakukan pembangunan ekonomi pembangunan industri secara besar besaran ya terima kasih kasih bapakima kas"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

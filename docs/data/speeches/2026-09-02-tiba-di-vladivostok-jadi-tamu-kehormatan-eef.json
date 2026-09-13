@@ -1,0 +1,78 @@
+{
+ "id": "2026-09-02-tiba-di-vladivostok-jadi-tamu-kehormatan-eef",
+ "video_id": "9ROspyEde_M",
+ "date": "2026-09-02",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Vladivostok Jadi Tamu Kehormatan EEF ke-11, 2 September 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=9ROspyEde_M",
+ "duration_s": 78,
+ "duration_hms": "1:18",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 137,
+ "unique_word_count": 89,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "9ROspyEde_M",
+   "url": "https://www.youtube.com/watch?v=9ROspyEde_M",
+   "title": "Presiden Prabowo Tiba di Vladivostok Jadi Tamu Kehormatan EEF ke-11, 2 September 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 101.0,
+   "d": 1.0,
+   "text": "Tunggu dulu, Mbak. Tunggu berhenti."
+  },
+  {
+   "t": 102.0,
+   "d": 6.0,
+   "text": "Nanti kita tetap ya. K."
+  },
+  {
+   "t": 108.0,
+   "d": 11.0,
+   "text": "Oke. Majuan. Maju sedikit. Maju maju."
+  },
+  {
+   "t": 119.0,
+   "d": 6.0,
+   "text": "Selamat datang."
+  },
+  {
+   "t": 125.0,
+   "d": 33.0,
+   "text": "Jujur ini senang banget karena pengalaman pertama saya juga dan saya di Rusianya di Vladivostok untuk e presiden yang pertama kali datang setelah sekian lama yaitu Pak Prabowo. Jadi saya happy banget, jelas bangga banget karena ini kan ee forum internasional ekonomi yang selalu dihadiri sama Presiden Putinnya dan kebetulan tahun ini secara langsung Bapak Presiden ee Rusia Pak Putin e mengundang langsung Bapak Presiden Bad."
+  },
+  {
+   "t": 158.0,
+   "d": 21.0,
+   "text": "E perasaannya tentu aja degdegan, ngerasa senang ee campur dedekan karena ini pertama kalinya bisa bertemu Bapak dan diberi kesempatan buat salaman sama Bapak. Ya, buat saya itu sangat berkesan. Eh, saya beserta teman-teman sangat senang Bapak bisa datang ke sini mengikuti forum ekonomi dan ini menurut saya bisa membuat Indonesia dan Rusia menjadi lebih dekat lagi."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

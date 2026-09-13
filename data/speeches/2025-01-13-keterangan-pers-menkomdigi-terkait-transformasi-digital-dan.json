@@ -1,0 +1,78 @@
+{
+ "id": "2025-01-13-keterangan-pers-menkomdigi-terkait-transformasi-digital-dan",
+ "video_id": "1BmayjFMKGc",
+ "date": "2025-01-13",
+ "date_precise": true,
+ "title": "Keterangan Pers Menkomdigi Terkait Transformasi Digital dan E-Government, Jakarta, 13 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=1BmayjFMKGc",
+ "duration_s": 218,
+ "duration_hms": "3:38",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 26,
+ "token_count": 399,
+ "unique_word_count": 194,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "1BmayjFMKGc",
+   "url": "https://www.youtube.com/watch?v=1BmayjFMKGc",
+   "title": "Keterangan Pers Menkomdigi Terkait Transformasi Digital dan E-Government, Jakarta, 13 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 10,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 35.0,
+   "text": "eh program-program di Kementerian komunikasi dan digital di anaranya yang terkait dengan dukungan kami untuk eh transformasi digital dan juga e-government eh sebagaimana kita tahu Presiden sangat kcern dengan digitalisasi Presiden ingin eh layanan-layanan e publik dilakukan secara transparan melalui digitalisasi Jadi kurang lebih tadi arahanarahan Eh untuk hal-hal tersebut dan juga program-program lainnya yang ada di Kementerian PIK"
+  },
+  {
+   "t": 35.0,
+   "d": 54.0,
+   "text": "Enggak ini untuk IG untuk pemerintahan digital udah itu aja teman-teman kenapa dibahas ya nanti ya tapi tadi salah satunya memang membahas tentang apa bagaimana kita melindungi anak-anak kita di ranah digitalisan Kita lihat nanti ya kita lihat Seperti apa nanti makasih Iya ini jadinya bocoran dulu eh sebetulnya ini masih nanti ya kita kita e inginnya kita pelajari dulu betul-betul Tapi pada prinsipnya gini sambil menjembatani aturan yang lebih ajak pemerintah akan mengeluarkan aturan pemerintah terlebih dahulu gitu sambil"
+  },
+  {
+   "t": 89.0,
+   "d": 33.0,
+   "text": "kemudian kaji yang terkait dengan e perlindungan anak lebih kuatnya lagi yang memang tidak bisa dianah Kementerian karena harus melibatkan DPR itu juga kita akan siapkan jadi e sambil menjembatani sekali lagi kita keluarkan aturannya sambil bicara dengan DPR mengenai apa yang aturan e undang-undang seperti apa yang kita bisa keluarkan untuk melindungi anak-anak kita itu mungkin presiden kalau terkait anak-anak memang sangat atentif tadi e beliau sampaikan ee e lanjutkan dipelajari dan"
+  },
+  {
+   "t": 122.0,
+   "d": 35.0,
+   "text": "agar bisa dilaksanakan beliau amat mendukung bagaimana Perlindungan Anak ini bisa dilakukan ke depan di ranah digital kita Makasih banyak he Tadi saya sudah cerita ya Jadi gini dalam satu Kementerian perlu banyak perspektif tadi kita lihat ada yang jadi kita menggunakan mix method ada yang sebelumnya sudah di posisi itu kita kuatkan ada yang sudah di kemkom Digi tapi kita rotasi ada yang dari luar dari swasta para profesional kita undang juga"
+  },
+  {
+   "t": 157.0,
+   "d": 35.0,
+   "text": "untuk masuk dan juga perlu ada pekerja seni jadi Mbak Ralin juga mewakili pekerja seni Mbak Ralin juga mewakili keterwakilan perempuan dan Mbak Ralin punya koneksi yang cukup baik e dengan e komunitas internasional dan juga perhatian cukup luas kepada anak-anak karena itu kami berikan tugas tadi untuk kemitraan global internasional dan juga untuk edukasi mengenai digital jadi itu supaya menterinya kan gak harus setiap hari keliling edukasi"
+  },
+  {
+   "t": 192.0,
+   "d": 26.0,
+   "text": "digitalid komunikas strategis ya ini saya gak tahu ya Rudi Sutanto ya yang saya kenal ruditanto gitu Jadi saya tidak tidak maupekulasi mengenai siapa CV yang kami terima beliau memang juga adalah strategi komunikasi dan jadi juga mewarnai di Kementerian ini karena secara Kementerian ini kan enggak cuma digital tapi juga bidang komunikasi cukup yaasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

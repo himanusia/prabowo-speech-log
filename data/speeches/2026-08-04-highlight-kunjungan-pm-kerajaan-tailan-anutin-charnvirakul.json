@@ -1,0 +1,73 @@
+{
+ "id": "2026-08-04-highlight-kunjungan-pm-kerajaan-tailan-anutin-charnvirakul",
+ "video_id": "nfN2hEhPwkI",
+ "date": "2026-08-04",
+ "date_precise": true,
+ "title": "[HIGHLIGHT] Kunjungan Resmi PM Kerajaan Tailan Anutin Charnvirakul ke Indonesia, 3-4 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=nfN2hEhPwkI",
+ "duration_s": 107,
+ "duration_hms": "1:47",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 104,
+ "unique_word_count": 68,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "nfN2hEhPwkI",
+   "url": "https://www.youtube.com/watch?v=nfN2hEhPwkI",
+   "title": "[HIGHLIGHT] Kunjungan Resmi PM Kerajaan Tailan Anutin Charnvirakul ke Indonesia, 3-4 Agustus 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 34.0,
+   "text": "[musik] Terima kasih yang sebesar-besarnya kepada yang mulia Perdana Menteri Anutin beserta delegasi yang telah hadir hari ini di Jakarta untuk kunjungan kenegaraan dan the second [musik] leaders consultation Thailand."
+  },
+  {
+   "t": 35.0,
+   "d": 27.0,
+   "text": "Kunjungan ini memiliki makna yang [musik] penting karena baik Indonesia dan Thailand adalah pendiri daripada ASEAN sehingga hubungan antara kita sangat mempengaruhi keadaan di Asia Tenggara."
+  },
+  {
+   "t": 62.0,
+   "d": 19.0,
+   "text": "[musik] Saya yakin Indonesia dan Thailand akan terus memastikan kemitraan strategis ini akan membawa manfaat nyata bagi kemakmuran rakyat kedua negara kita."
+  },
+  {
+   "t": 81.0,
+   "d": 24.0,
+   "text": "Yang Mulia Perdana Menteri Anutin, sekali lagi saya ucapkan terima kasih atas kunjungan yang mulia, atas komitmen kita bersama untuk memperkuat hubungan kedua negara kita."
+  },
+  {
+   "t": 105.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "kunjungan",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

@@ -1,0 +1,117 @@
+{
+ "id": "2025-12-18-keterangan-pers-mensesneg-prasetyo-hadi-padang-pariaman",
+ "video_id": "kFN0-evSNQs",
+ "date": "2025-12-18",
+ "date_precise": true,
+ "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Padang Pariaman, 18 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=kFN0-evSNQs",
+ "duration_s": 272,
+ "duration_hms": "4:32",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 35,
+ "token_count": 546,
+ "unique_word_count": 243,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "kFN0-evSNQs",
+   "url": "https://www.youtube.com/watch?v=kFN0-evSNQs",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Padang Pariaman, 18 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 3,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 5
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 1.0,
+   "text": "Sudah, Bapak."
+  },
+  {
+   "t": 1.0,
+   "d": 31.0,
+   "text": "Ee baik, terima kasih semuanya. Ee pada siang hari ini Bapak Presiden e mengakhiri kunjungan ee Provinsi Sumatera Barat setelah ee tadi malam beliau ee bermalam di ee Kota Padang dan kemudian juga langsung menggelar rapat bersama dengan ee beberapa menteri dan jajaran ee kepala staf angkatan. ee banyak hal dibicarakan tidak hanya berkenaan dengan masalah ee bencana."
+  },
+  {
+   "t": 32.0,
+   "d": 32.0,
+   "text": "Beliau memanfaatkan waktu dan kesempatan ee dapat berkumpul bersama dengan jajaran terkait untuk membicarakan beberapa hal. ee ada yang berkenaan dengan masalah ee pertahanan, ada yang berkenaan dengan masalah ee ee Kementerian Dalam Negeri, ada juga beliau mendapatkan laporan mengenai ee perkembangan ee Komite Reformasi Kepolisian karena juga hadir Bapak Kapolri tadi malam. Nah, hari ini beliau ee melanjutkan untuk ee mengunjungi ee daerah-daerah yang terdampak tadi"
+  },
+  {
+   "t": 64.0,
+   "d": 43.0,
+   "text": "dimulai dari ee wilayah ee Kayasa di ee Palambayan, Kabupaten ee Agam di sana beliau menengok pengungsi yang ee mulai hari ini sudah ee dibangun ini sementara karena memang sekarang fokusnya khusus di daerah ee Sumatera Barat kita harus sudah ee fokus untuk masalah hunian sementara dan ee jika memungkinkan untuk segera dilakukan ee relokasi menjadi hunian tetap. Kemudian setelah dari ee Palambayan, Bapak Presiden berkenan berkunjung ke Desa Kayu Tanam untuk melihat ee jembatan Beli yang dibangun"
+  },
+  {
+   "t": 107.0,
+   "d": 20.0,
+   "text": "oleh e teman-teman TNI, dibantu oleh masyarakat yang ini memang menghubungkan dua wilayah yang tadinya sempat terputus. memang ee kurang lebih ada 35 Beli di seluruh ee wilayah yang terdampak yang sekarang proses pengerjaannya sedang sedang kita kebut."
+  },
+  {
+   "t": 127.0,
+   "d": 32.0,
+   "text": "Karena bagaimanapun dalam dalam rangka pemulihan maka akses ee tersambungnya jalan yang tadinya terputus itu menjadi sebuah keharusan yang itu harus dipercepat. Dalam perjalanan juga Bapak Presiden tadi mendapatkan laporan dari Kepala BNBP tidak hanya berkenaan dengan penanganan ee bencana di Sumatera Barat, tetapi juga ee perkembangan penanganan di Provinsi Sumatera Utara maupun di Aceh dan ee Kepala BNPB melaporkan dan meminta ee tambahan personil baik TNI maupun ee polisi khususnya di beberapa"
+  },
+  {
+   "t": 159.0,
+   "d": 31.0,
+   "text": "wilayah di Aceh yang memang ee masih banyak tergenang e lumpur ya. Di antaranya Aceh Tamiang. Kemudian tadi dilaporkan juga Aceh, Aceh Timur juga ee masih terdapat banyak kenangan yang itu membutuhkan tambahan personil. terakhir Bapak Presiden mengunjungi ee lembah ane ya yang sudah mulai di perbaiki. Ini memang jalan nasional yang ee tadi beliau ee berkunjung ke lokasi yang memang beliau meminta untuk bisa segera"
+  },
+  {
+   "t": 190.0,
+   "d": 11.0,
+   "text": "di dipercepat perbaikannya sehingga ee jalur utama ee dari Padang menuju daerah ee Bukit Tinggi dapat segera tersambung kembali."
+  },
+  {
+   "t": 201.0,
+   "d": 31.0,
+   "text": "Memang kemudian ee berkenaan dengan bencana ini banyak juga yang harus ee menjadi pekerjaan rumah kita yang berkaitan dengan masalah lingkungan, penertiban kawasan-kawasan hutan, izin-zin ee pertambangan, izin-zin pembukaan, ee usaha-usaha di bantaran-bantaran sungai juga itu menjadi perhatian dari Bapak Besen yang tadi disampaikan kepada jajaran terkait bagi gubernur, wakil ee gubernur dan para bupati. Terakhir, terima kasih sekali lagi kami haturkan kepada seluruh pihak BNPB, TNI, Polri, Basarnas,"
+  },
+  {
+   "t": 232.0,
+   "d": 19.0,
+   "text": "Pemerintah Provinsi, pemerintah e kabupaten, dan seluruh masyarakat yang bahu-membahu bekerja sama, bekerja keras untuk segera ee mengatasi keadaan dan kembali menjalani kehidupan kita dengan sebaik-baiknya. Terima kasih teman-teman media sudah sabar."
+  },
+  {
+   "t": 251.0,
+   "d": 4.0,
+   "text": "Terima kasih Bapak menemani. Jangan kapok-kapok."
+  },
+  {
+   "t": 255.0,
+   "d": 6.0,
+   "text": "Terima kasih semuanya. Sehat selalu untuk semuanya. Infrastruktur beres kapan enggak, Mas? Bapak minta infrastruktur beres kapan?"
+  },
+  {
+   "t": 261.0,
+   "d": 11.0,
+   "text": "Ee secepat-cepatnya ya. Karena masing-masing kan memang kondisinya berbeda-beda ya. Ada yang masalahnya jalan, ada yang masalahnya jembatan dan seterusnya. Kita bekerja secepat-cepatnya. Terima kasih. Pak."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,63 @@
+{
+ "id": "2024-12-06-pertemuan-dengan-ke-7-joko-widodo-jakarta-6",
+ "video_id": "McX9dHV2KPE",
+ "date": "2024-12-06",
+ "date_precise": true,
+ "title": "Pertemuan Presiden Prabowo dengan Presiden ke-7 RI Joko Widodo, Jakarta, 6 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=McX9dHV2KPE",
+ "duration_s": 85,
+ "duration_hms": "1:25",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 168,
+ "unique_word_count": 91,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "McX9dHV2KPE",
+   "url": "https://www.youtube.com/watch?v=McX9dHV2KPE",
+   "title": "Pertemuan Presiden Prabowo dengan Presiden ke-7 RI Joko Widodo, Jakarta, 6 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 9.0,
+   "d": 41.0,
+   "text": "Saya dengar Pak Jokowi ada di Jakarta saya undang makan begitu Jadi Beliau pernah saya pernah ke rumah beliau di Solo saya undang sekarang ke katanegara saya kira itu ya agenda apa P tadi kita makan makan e makan malam Pak ya makan malam makan menunya apa Pak nasi goreng jawa P Aam ayam goreng dan macam-macamlah ya Ada pembahasan politik sama ekonom masuk ke partai Gerindra mungkin atau bagaimana mau masuk ke partai Gerindra m Gerindra terbuka terbuka tapi kita tentunya enggak bisa maksa beliau"
+  },
+  {
+   "t": 50.0,
+   "d": 32.0,
+   "text": "masuk beliau bapak presiden dulu waktu ke mirauk kan kemudian mampir ke Solo ini saya pas ke Jakarta kayak kunjungan balasan G J ber karena kangen jam berapa di sini tadi Pak Pak Jokowi Sampai jam berapa di Jakarta tadi Pak sampai jam ber Berarti Pak Jokowi sudah menentukan sikap belum mau masuk ke partai mana mungkin gitu nanya-nanyatik semuanya tawarannya ada pak Mungkin ada pertimbangan Pak makan malam makan malam Bapak ada perbincangan"
+  },
+  {
+   "t": 82.0,
+   "d": 12.0,
+   "text": "soal pkad Jakarta mungkin pak maunyak ekonomi Pak Terima kasih Pak presidenaasih pakasih Bapak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

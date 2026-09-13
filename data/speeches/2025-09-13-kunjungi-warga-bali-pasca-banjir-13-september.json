@@ -1,0 +1,72 @@
+{
+ "id": "2025-09-13-kunjungi-warga-bali-pasca-banjir-13-september",
+ "video_id": "fWLePyy6bPY",
+ "date": "2025-09-13",
+ "date_precise": true,
+ "title": "Presiden Prabowo Kunjungi Warga Bali Pasca Banjir, 13 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=fWLePyy6bPY",
+ "duration_s": 100,
+ "duration_hms": "1:40",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 129,
+ "unique_word_count": 75,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "fWLePyy6bPY",
+   "url": "https://www.youtube.com/watch?v=fWLePyy6bPY",
+   "title": "Presiden Prabowo Kunjungi Warga Bali Pasca Banjir, 13 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 40.0,
+   "text": "[Musik] [Musik] Kalau airnya selalu besar, saya naik pergi, saya takut saya kena banjir ke kali, saya lari langsung langsung barang-barang rumah tangganya sudah semua nyut, Bu. Kalau gak lari kan saya ikut dilarikan air sampai gak ada apa-apanya sampai kehabisan modal apa-apa pokoknya habis semua gak ada dagangan pokoknya habis pokoknya gak ada apa-apanya gitu semua dah ini keluarga ini lari dah semua"
+  },
+  {
+   "t": 43.0,
+   "d": 46.0,
+   "text": "barang-barangnya [Musik] waktu itu kan ee jam 12 air masih ini masih belum naik ee naiknya itu sekitar jam 0.30 30 pas .30 itu baru naik air sampai besar-besarnya air itu sekitar jam 0.30 baru langsung besaran enggak ada yang bisa diselamatin apa termasuk sepeda-sepeda itu kerendem semua dan barang-barang dagang-dagangan juga artis [Musik] kelas e kelas kelas delaman saya itu, Pak. Aduh kentuan dia bangun."
+  },
+  {
+   "t": 89.0,
+   "d": 3.0,
+   "text": "I baik-baik ya."
+  },
+  {
+   "t": 92.0,
+   "d": 11.0,
+   "text": "Baikbaik, [Musik] Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

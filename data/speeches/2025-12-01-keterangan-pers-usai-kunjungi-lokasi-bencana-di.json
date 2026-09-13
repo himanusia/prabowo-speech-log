@@ -1,0 +1,112 @@
+{
+ "id": "2025-12-01-keterangan-pers-usai-kunjungi-lokasi-bencana-di",
+ "video_id": "R1w1mx6ftCc",
+ "date": "2025-12-01",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Kunjungi Lokasi Bencana di Tapanuli Tengah, 1 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=R1w1mx6ftCc",
+ "duration_s": 189,
+ "duration_hms": "3:09",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 26,
+ "token_count": 306,
+ "unique_word_count": 155,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "R1w1mx6ftCc",
+   "url": "https://www.youtube.com/watch?v=R1w1mx6ftCc",
+   "title": "Keterangan Pers Presiden Prabowo Usai Kunjungi Lokasi Bencana di Tapanuli Tengah, 1 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 16.0,
+   "text": "kita sekarang prioritas bagaimana ee bisa segera kirim ee bantuan-bantuan yang diperlukan terutama ee BBM yang sangat penting."
+  },
+  {
+   "t": 18.0,
+   "d": 6.0,
+   "text": "Listrik sebentar lagi saya kira bisa dibuka semuanya."
+  },
+  {
+   "t": 24.0,
+   "d": 9.0,
+   "text": "BBM tadi yang dilaporkan ke saya yang sangat penting. Ada berapa desa yang terisolasi, insyaallah kita bisa tembus."
+  },
+  {
+   "t": 33.0,
+   "d": 20.0,
+   "text": "Ee saya tadi sampaikan penghargaan terima kasih kepada semua instansi yang bekerja keras ee BNPB ya ee Badan Nasional Penanggulangan Bencana reaksinya cukup cepat. TNI sangat cepat."
+  },
+  {
+   "t": 53.0,
+   "d": 13.0,
+   "text": "Polri juga cepat kita kerahkan juga sudah cukup banyak ee helikopter ee Hercules, pesawat-pesawat kita kerahkan semua."
+  },
+  {
+   "t": 66.0,
+   "d": 31.0,
+   "text": "Eh, insyaallah kita dengan kerja sama erat, teamwork yang baik, kita bisa segera menghadapi musibah ini, segera memberi ee solusi-solusi kepada kesulitan rakyat sekarang ini. Ya, saya kira itu saja dari saya. ee kita hadapi ya kita bersyukur cuaca membaik ya, ramalannya juga yang terburuk sudah liwat."
+  },
+  {
+   "t": 97.0,
+   "d": 9.0,
+   "text": "Mudah-mudahan ya ini kondisi sekarang perubahan iklim kita harus hadapi dengan baik."
+  },
+  {
+   "t": 106.0,
+   "d": 23.0,
+   "text": "pemerintahan harus benar-benar ee berfungsi menjaga ya menjaga lingkungan, mengantisipasi kondisi di masa depan. Mungkin yang di daerah-daerah juga semuanya harus siap menghadapi kondisi yang perubahan iklim yang berpengaruh."
+  },
+  {
+   "t": 129.0,
+   "d": 5.0,
+   "text": "Baik, terima kasih. Tadi ada minta bantuan dari lokasi, Pak. Masyarakat ngobrolnya seperti apa, Pak?"
+  },
+  {
+   "t": 134.0,
+   "d": 37.0,
+   "text": "mungkin minta bantuan tadi cepat ngobrol dengan korban bantuan priorit i tentunya mereka masih dalam kondisi syok ya saya kira pemerintah sudah berbuat ya yang terbaik ya kalau dari hasil monitor ada barnes dan lain-lain menjual ke lapangan ada instusus mungkin yang belum dilakukan iya enggak mereka sudah punya sopya protap ya kita sekarang apa yang dibut butuhkan kita kerahkan ya, Pak. Kalau dari hasil monitor, apakah statusnya cukup bencana darurat provinsi atau bisa dinaikkan?"
+  },
+  {
+   "t": 171.0,
+   "d": 11.0,
+   "text": "Iya, kita monitor terus. Saya kira situasi membang baik ya. Jadi saya kira saya kira kondisi yang sekarang ini sudah cukup. I selainnya ke mana, Pak? Meninjau apa?"
+  },
+  {
+   "t": 182.0,
+   "d": 9.0,
+   "text": "saya ke Aceh, ke Medan dan ke Aceh. Baik, Teman-teman ya. Ya, makasih Bapak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

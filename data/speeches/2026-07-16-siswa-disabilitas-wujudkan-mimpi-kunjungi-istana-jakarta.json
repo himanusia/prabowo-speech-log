@@ -1,0 +1,88 @@
+{
+ "id": "2026-07-16-siswa-disabilitas-wujudkan-mimpi-kunjungi-istana-jakarta",
+ "video_id": "eCOPt2WI6es",
+ "date": "2026-07-16",
+ "date_precise": true,
+ "title": "Siswa Disabilitas Wujudkan Mimpi Kunjungi Istana, Jakarta, 16 Juli 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=eCOPt2WI6es",
+ "duration_s": 111,
+ "duration_hms": "1:51",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 146,
+ "unique_word_count": 93,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "eCOPt2WI6es",
+   "url": "https://www.youtube.com/watch?v=eCOPt2WI6es",
+   "title": "Siswa Disabilitas Wujudkan Mimpi Kunjungi Istana, Jakarta, 16 Juli 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 4,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 8
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 5.0,
+   "text": "[musik] Ketua Harian Institusi Sintas Indonesia."
+  },
+  {
+   "t": 9.0,
+   "d": 19.0,
+   "text": "Aku sungguh [musik] jadi anak Indonesia."
+  },
+  {
+   "t": 28.0,
+   "d": 7.0,
+   "text": "Saya merasa senang karena saya bisa berkunjung ke istana negara ini."
+  },
+  {
+   "t": 35.0,
+   "d": 18.0,
+   "text": "Karena ini baru pertama kalinya saya mengikuti kompetisi maksudnya acara acara istana untuk anak sekolah. Senang banget lihat yang di sini apa tuh?"
+  },
+  {
+   "t": 53.0,
+   "d": 3.0,
+   "text": "tadi udah lihat apa aja di dalam?"
+  },
+  {
+   "t": 56.0,
+   "d": 11.0,
+   "text": "Lihat e tempat pertemuan [musik] negara negara lain dan ruang ruang presiden."
+  },
+  {
+   "t": 67.0,
+   "d": 18.0,
+   "text": "Terima kasih kepada Pak Presiden eh Prabowo Subianto telah e memberikan kesempatan kepada kami sekolah luar biasa dan anak-anak e hebat disabilitas. untuk bisa mengunjungi istana negara."
+  },
+  {
+   "t": 85.0,
+   "d": 30.0,
+   "text": "Baik, untuk sarana dan prasarana di Istana Negara luar biasa. Ternyata lingkungan di sini inklusi ee teman-teman disabilitas dari yang mulai netra, dari yang teman tuli atau rungu, Grahita, Daksa, semuanya ada aksesnya di sini. Mulai dari jalannya, terus ada di toiletnya pun ada relnya juga. Jadi benar-benar ee Istana Negara ini ramah dias. Terima kasih [bersorak]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

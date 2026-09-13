@@ -1,0 +1,153 @@
+{
+ "id": "2026-03-21-sapa-ribuan-warga-dalam-gelar-griya-1447",
+ "video_id": "NLqVUIwWiGg",
+ "date": "2026-03-21",
+ "date_precise": true,
+ "title": "Presiden Prabowo Sapa Ribuan Warga dalam Gelar Griya 1447 H, 21 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=NLqVUIwWiGg",
+ "duration_s": 171,
+ "duration_hms": "2:51",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 26,
+ "token_count": 206,
+ "unique_word_count": 103,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "NLqVUIwWiGg",
+   "url": "https://www.youtube.com/watch?v=NLqVUIwWiGg",
+   "title": "Presiden Prabowo Sapa Ribuan Warga dalam Gelar Griya 1447 H, 21 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 20.0,
+   "d": 22.0,
+   "text": "[musik] [musik] [musik] Baru kali ini, Pak, saya masuk ke sini."
+  },
+  {
+   "t": 42.0,
+   "d": 7.0,
+   "text": "Ya Allah, saya bahagia banget, Pak, bisa berkunjung dengan presiden, Bapak Presiden kami."
+  },
+  {
+   "t": 49.0,
+   "d": 4.0,
+   "text": "Tadi ceritanya gimana, Bu? Bisa ketemu Bapak Presiden?"
+  },
+  {
+   "t": 53.0,
+   "d": 10.0,
+   "text": "Memang saya sudah ada impian pengin ketemu. Ternyata saya diwujudkan selama di Istikal diwujudkan harus ke sini."
+  },
+  {
+   "t": 63.0,
+   "d": 4.0,
+   "text": "Alhamdulillah saya bahagia, Bu, Pak."
+  },
+  {
+   "t": 67.0,
+   "d": 11.0,
+   "text": "Enggak bisa saya ucapkan lagi. Semoga Bapak Presiden sama wakil-wakilnya panjang umur dimudahkan rezekinya. Ya Allah."
+  },
+  {
+   "t": 78.0,
+   "d": 3.0,
+   "text": "Ya, nikmat Pak. Alhamdulillah."
+  },
+  {
+   "t": 81.0,
+   "d": 8.0,
+   "text": "Nyicipin apa aja, Bu? Tadi saya cuman makan lontong. Oke. Sama sate. Oke. Tujuan utama Ibu di sini apa?"
+  },
+  {
+   "t": 89.0,
+   "d": 9.0,
+   "text": "Saya tujuan pengin ketemu sama Pak Gibran, sama Pak Presiden. Itu tujuan saya. Alhamdulillah saya diwujudkan."
+  },
+  {
+   "t": 98.0,
+   "d": 5.0,
+   "text": "Mungkin Allah merasa sayang sama saya."
+  },
+  {
+   "t": 103.0,
+   "d": 6.0,
+   "text": "[musik] Senang banget."
+  },
+  {
+   "t": 109.0,
+   "d": 6.0,
+   "text": "Bahagia banget. Dia senang banget bisa ketemu."
+  },
+  {
+   "t": 115.0,
+   "d": 7.0,
+   "text": "Ke sini sama siapa? Ayo sama mama. Sama ayah. Ayahnya. Iya."
+  },
+  {
+   "t": 122.0,
+   "d": 3.0,
+   "text": "Bahagia senang pisan."
+  },
+  {
+   "t": 125.0,
+   "d": 4.0,
+   "text": "Terus tadi ngicipin makanan apa aja di istana?"
+  },
+  {
+   "t": 129.0,
+   "d": 11.0,
+   "text": "Banyak. macam-macam kayak ee bakso, mie ayam, sate, pokoknya banyak deh."
+  },
+  {
+   "t": 140.0,
+   "d": 3.0,
+   "text": "Terus hal yang membuat Ayu senang apa?"
+  },
+  {
+   "t": 143.0,
+   "d": 5.0,
+   "text": "Bisa bisa salaman presiden sama Presiden. Heeh."
+  },
+  {
+   "t": 148.0,
+   "d": 6.0,
+   "text": "Mau bilang apa toh, Pak Presiden, Pak Prabowo? Mau bilang apa? Ayo."
+  },
+  {
+   "t": 154.0,
+   "d": 34.0,
+   "text": "Terima kasih. Semoga panjang umur, sehat selalu, rezekinya Bapak Presiden. Semoga rezekinya sehat selalu, rezekinya melimpah."
+  },
+  {
+   "t": 188.0,
+   "d": 3.0,
+   "text": "Pak, maaf batir, Pak. Ad, Pak."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,112 @@
+{
+ "id": "2026-03-05-keterangan-pers-mendiktisaintek-brian-yuliarto-jakarta-5",
+ "video_id": "y_Ev82ef8C4",
+ "date": "2026-03-05",
+ "date_precise": true,
+ "title": "Keterangan Pers Mendiktisaintek Brian Yuliarto, Jakarta, 5 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=y_Ev82ef8C4",
+ "duration_s": 171,
+ "duration_hms": "2:51",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 24,
+ "token_count": 340,
+ "unique_word_count": 162,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "y_Ev82ef8C4",
+   "url": "https://www.youtube.com/watch?v=y_Ev82ef8C4",
+   "title": "Keterangan Pers Mendiktisaintek Brian Yuliarto, Jakarta, 5 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "PLTS / energi surya": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 4.0,
+   "text": "ee terkait energi terbarukan dan bersih."
+  },
+  {
+   "t": 4.0,
+   "d": 39.0,
+   "text": "Jadi kami dari perguruan tinggi riset-riset hasil-hasil penelitian dan juga apa kajian-kajian itu diminta mendukung ee percepatan ee solar cell ya, PLTS terutama untuk mengganti pembangkit-pembangkit yang ee harganya masih mahal yaitu pembangkit-pembangkit yang berasal dari diesel. Itu tadi arahan Presiden. Nanti Pak Menteri SDM yang akan ee menjadi koordinator. Tentu kami dari perguruan tinggi akan m-back up dari sisi penelitian-penelitian maupun kajian-kajiannya. Yang kedua juga adalah bagaimana mempercepat"
+  },
+  {
+   "t": 43.0,
+   "d": 6.0,
+   "text": "ee ee konversi menjadi apa? Electric vehicle ya, kendaraan listrik. Kenapa?"
+  },
+  {
+   "t": 49.0,
+   "d": 11.0,
+   "text": "Karena kedua hal tadi ee pembangkit yang masih diesel maupun ee kendaraan listrik itu kan ee masih tergantung pada BBM ya."
+  },
+  {
+   "t": 60.0,
+   "d": 28.0,
+   "text": "Kita tahu dalam keadaan sekarang harga BBM tinggi sehingga dampaknya sangat besar. Jadi, Pak Presiden meminta ee agar ee tadi beberapa menteri yang terkait untuk mempercepat pelaksanaan ini sehingga ketergantungan kita terhadap impor, ketergantungan kita terhadap harga yang ee mungkin cepat berubah itu bisa dikurangi. Dan yang ketiga juga tadi adalah kita diminta mempercepat juga bagaimana kompor listrik itu bisa ee ber"
+  },
+  {
+   "t": 88.0,
+   "d": 33.0,
+   "text": "apa menggantikan ee kompor dari LPG sehingga nanti ketika harga LPG naik ee ketergantungan kita terhadap LPG subsidi kita bukan subsidi LPG listrik itu intinya harus kita kurangi ee sehingga apa band kita lebih stabil. Jadi itu kita tentu karena Kementerian Dikti Saintech ee sifatnya kita mendukung hasil-hasil kajian kita percepat kajian-kajian penelitian-penelitian terkait tiga hal tadi itu kita akan ee dikoordinasikan oleh Bapak Menteri ST."
+  },
+  {
+   "t": 121.0,
+   "d": 1.0,
+   "text": "Sementara begitu. Terima kasih."
+  },
+  {
+   "t": 122.0,
+   "d": 3.0,
+   "text": "Dikasih pembangkit yang masih mahal ini sudah dipetakan di mana aja Mas?"
+  },
+  {
+   "t": 125.0,
+   "d": 13.0,
+   "text": "Itu ee tadi Pak Nen sudah menyampaikan intinya pembangkit terutama yang masih dari diesel dan solar begitu ya itu harganya masih mahal. Tentu nanti PLN yang akan memiliki data lebih lengkap lagi. Makasih."
+  },
+  {
+   "t": 138.0,
+   "d": 8.0,
+   "text": "Ada permintaan EBT-nya tuh khusus ee jenis apa? Ada eh nanti kita lihat yang sifatnya sudah diinstal sebagainya."
+  },
+  {
+   "t": 146.0,
+   "d": 22.0,
+   "text": "Ada baju lagi eh terutama PLTS ya. Karena PLTSnya kan instalnya cepat. Nah dan dia tidak membutuh bisa diinstal di lokasi sehingga tidak membutuhkan apa ee distribusi begitu. Oke sementara gitu ya. Makasih banyak ya. Terima kasih."
+  },
+  {
+   "t": 168.0,
+   "d": 3.0,
+   "text": "Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

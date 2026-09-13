@@ -1,0 +1,97 @@
+{
+ "id": "2026-08-28-terima-panglima-jilah-istana-merdeka-28-agustus",
+ "video_id": "EAWTKlagU4M",
+ "date": "2026-08-28",
+ "date_precise": true,
+ "title": "Presiden Prabowo Terima Panglima Jilah, Istana Merdeka, 28 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=EAWTKlagU4M",
+ "duration_s": 280,
+ "duration_hms": "4:40",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 35,
+ "token_count": 461,
+ "unique_word_count": 194,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "EAWTKlagU4M",
+   "url": "https://www.youtube.com/watch?v=EAWTKlagU4M",
+   "title": "Presiden Prabowo Terima Panglima Jilah, Istana Merdeka, 28 Agustus 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 20.0,
+   "text": "Ee kita ee membahas tentang Kautlah tadi ee beliau ee membantu kita lewat lewat personil untuk segera dan ini sudah sudah dimulai, Pak. Sudah sekitar 1 minggu sudahlah ya."
+  },
+  {
+   "t": 21.0,
+   "d": 54.0,
+   "text": "Ee Presiden ee banyak membantu kita ee terutama di Kalimantan Barat. itu rumah adat ee sekolah sekolah beasiswa jalan infrastruktur jalan infrastruktur rumah sakit dan termasuk beasiswa dan TNI Polri Pak mungkin terkait sendiri ee apakah ee ada permintaan khusus terkait untuk penambahan penambahan ee untuk menangani buah-bula yang terjadi Iya. Dan beliau bersedia ya ada ada angka empat mungkin ada berapa ada apa yang ya itu wewenang beliau Pak ya."
+  },
+  {
+   "t": 75.0,
+   "d": 46.0,
+   "text": "Ada saran dari Bapak sudah sudah dibuat hujan apa segala sudah penambahan helikopter juga sudah ya Pak harapannya dalam di Kalimantan Barat ya ee di Kalimantan Barat itu kahutlah itu sebenarnya ee sudah sering terjadi tetapi yang menjadi ee yang menjadi pemikiran kita itu ee peladang itu disalahkan salah. Nah, jadi ee ladang itu dengan ee dengan apa dengan perkebunan itu kadang-kadang bersamaan waktunya. Akhirnya peladang yang disalahkan."
+  },
+  {
+   "t": 121.0,
+   "d": 8.0,
+   "text": "Tetapi sebenarnya orang berladang tidak di lahan gambut. Orang berladang itu di lahan mineral. Mineral."
+  },
+  {
+   "t": 129.0,
+   "d": 25.0,
+   "text": "Jadi dengan dengan waktu yang bersamaan akhirnya mungkin orang-orang yang gak tahu tentang bagaimana berladang, bagaimana kehidupan kami di sana, akhirnya menunduh peladang yang menjadi sumber asap, sumber asapnya. Tetapi bukan orang berladang gak akan mungkin mau nanam padinya ke tempat yang gambut. Gambut itu aja logikanya ya, Pak."
+  },
+  {
+   "t": 154.0,
+   "d": 54.0,
+   "text": "Presiden pada saat itu langsung Kalimantan seperti pengan lahan tidak diperbohkan untuk pemaparan secara perkebunan kita sebagai itu khusus untuk perkebunan saja kalau kearipan kalau kifan tidak tidak beliau mendukung masyarakat berladang didukung masyarakat juga akan melakukan mengadakan apa ee ee ee monoring monoring apa pembakar-pembakar e iya kayak kita masyarakat adat itu memang selalu monitoring Pak jadi kalau kita membakar di mana lahan ladang kita"
+  },
+  {
+   "t": 208.0,
+   "d": 29.0,
+   "text": "dibakar di situlah kita yang akan monitoringnya dan itu tidak pernah terjadi namanya ada kebakaran hutan sebelum adanya perkebunan ya ee di Kalimantan itu sudah ada namanya berladang dari zaman dulu ribuan tahun yang lalu bahkan tahun dan tidak pernah kita melihat namanya kejadian-kejadian yang seperti ini karena orang Dayak tidak berladang di lahan gambut rambut gambut itu tebal apa pak gambutnya tebal"
+  },
+  {
+   "t": 237.0,
+   "d": 33.0,
+   "text": "dari peran dari masyarakat Anda sendiri itu mencegah terjadinya banutan yang dan akhirnya melakukan apa sebenarnya apa saja yang sudah dilakukan pencegahan e masyarakat adat masyarakat adat bersosialisasi lewat ee tokoh-tokoh adat agar tidak ee sembarangan membakar hutan karena masyarakat adat itu identik dengan ee dekat dengan alam tentunya tidak ada alam tidak ada masyarakat adat begitu dia kita menjaga dalam hal ini ada yang sudah di ee"
+  },
+  {
+   "t": 270.0,
+   "d": 11.0,
+   "text": "tangkap belum atau yang ee bahwa akan ada jang pembakaran-pembakaran kemungkinan ada tapi kemungkinan salah tangkap mungkin ada yang berladang mungkin dikira dikira berkebun nanti akan kita ee seleksi Pak sudah cukup ya makasih Oke."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

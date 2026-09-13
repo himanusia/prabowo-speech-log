@@ -1,0 +1,98 @@
+{
+ "id": "2025-04-13-keterangan-pers-deputi-bidang-protokol-pers-dan",
+ "video_id": "L0cHNnjQy9M",
+ "date": "2025-04-13",
+ "date_precise": true,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Amman, 13 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=L0cHNnjQy9M",
+ "duration_s": 213,
+ "duration_hms": "3:33",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 27,
+ "token_count": 298,
+ "unique_word_count": 149,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "L0cHNnjQy9M",
+   "url": "https://www.youtube.com/watch?v=L0cHNnjQy9M",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Amman, 13 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 4,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 4.0,
+   "text": "Baik, selamat petang rekan-rekan media."
+  },
+  {
+   "t": 4.0,
+   "d": 21.0,
+   "text": "Alhamdulillah petang tadi Bapak Presiden Republik Indonesia Bapak Prabowo telah tiba di bandara udara militer di Aman Jordania sekitar pukul 17.57. Beliau langsung dari Doha, Qatar menuju ke Aman Jordania."
+  },
+  {
+   "t": 25.0,
+   "d": 15.0,
+   "text": "Ketibaan pesawat Bapak Presiden sebelum mendarat di bandar udara militer Aman Yordan. Pesawat beliau dikawa langsung oleh dua buah pesawat tempur sampai mendarat di bandar udara militer."
+  },
+  {
+   "t": 40.0,
+   "d": 32.0,
+   "text": "Setelah mendarat, Bapak Presiden langsung disambut oleh Raja Jordania Yang Mulia Raja Abdullah I di bawah tangga pesawat. Kemudian setelah itu langsung diselenggarakan upacara penyambutan resmi di Bandar udara Militer. Upacara penyambutan resmi tersebut diawali dengan perkenalan dua pihak delegasi. Delegasi resmi yang dikenalkan kepada kedua pemimpin negara."
+  },
+  {
+   "t": 72.0,
+   "d": 11.0,
+   "text": "Kemudian setelah itu dikumandangkan dua lagu kebangsaan dari masing-masing negara. Kemudian dilanjutkan dengan inspeksi pasukan kehormatan."
+  },
+  {
+   "t": 83.0,
+   "d": 8.0,
+   "text": "Lalu pasukan kehormatan melakukan mini devile di hadapan kedua pemimpin negara."
+  },
+  {
+   "t": 91.0,
+   "d": 13.0,
+   "text": "Setelah itu acara upacara penyambutan resmi selesai ditutup dengan melintasnya dua pesawat tempur di atas tempat lapangan upacara."
+  },
+  {
+   "t": 104.0,
+   "d": 26.0,
+   "text": "Selanjutnya Bapak Presiden menuju ke hotel tempat bermalam dengan diantar langsung oleh Raja Abdullah I. Bahkan beliau yang mengendarai kendaraan kepresidenan membawa atau mengantarkan Bapak Presiden menuju tempat bermalam di kota Aman, Jordania."
+  },
+  {
+   "t": 130.0,
+   "d": 47.0,
+   "text": "Setelah itu malam ini juga Bapak Presiden diundang makan malam pribadi di kediaman Raja Abdullah 2. Hal ini menandakan kedekatan personal kedua pemimpin negara juga melihatkan hubungan hangat antara kedua pemimpin yang memang sudah terjalin sejak beberapa tahun yang lalu. Besok jadwal Bapak Presiden Prabowo sekitar pukul 13.00 beliau akan langsung diterima di Istana Alhusiniah. Ketibaannya disambut langsung oleh Raja Abdullah 2. Kemudian"
+  },
+  {
+   "t": 177.0,
+   "d": 36.0,
+   "text": "kegiatannya adalah yang pertama melakukan pertemuan tetapet dengan Raja Abdullah. Kemudian dilanjutkan pertemuan bilateral meeting. Setelah itu ada beberapa penandatanganan MOU yang langsung akan disaksikan oleh kedua kepala negara. Acara kunjungan resmi di Istana Alhuseniah akan ditutup dengan jamuan santap siang resmi. Sementara itu yang dapat kami sampaikan kepada rekan-rekan media. Terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

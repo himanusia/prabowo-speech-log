@@ -1,0 +1,108 @@
+{
+ "id": "2026-05-27-diaspora-rasakan-kehangatan-iduladha-bersama-paris-27",
+ "video_id": "vQPblz56CpM",
+ "date": "2026-05-27",
+ "date_precise": true,
+ "title": "Diaspora Indonesia Rasakan Kehangatan Iduladha Bersama Presiden Prabowo, Paris, 27 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=vQPblz56CpM",
+ "duration_s": 290,
+ "duration_hms": "4:50",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 51,
+ "token_count": 343,
+ "unique_word_count": 182,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "vQPblz56CpM",
+   "url": "https://www.youtube.com/watch?v=vQPblz56CpM",
+   "title": "Diaspora Indonesia Rasakan Kehangatan Iduladha Bersama Presiden Prabowo, Paris, 27 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 9
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 5.0,
+   "d": 26.0,
+   "text": "[musik] lulus [musik] kita kan kalau saya suami mualaf gitu, anak-anak minoritas muslim gitu jadi memperkenalkan Indonesia juga gitu, memperkenalkan ee budaya apa kultur Islam juga di negeri ee ee bu gitu."
+  },
+  {
+   "t": 31.0,
+   "d": 17.0,
+   "text": "Iya, teman-teman saya pada bilang, \"Oh, Mirna mau sama Pak Prabowo ya, mau barengan ya.\" Itu tuh kayak bercandaan aja ya. Tiba-tiba saya enggak daftar terus tahu-tahu diterima di depan boleh masuk ya. Ini sih alhamdulillah banget sih benar-benar enggak disangka-sangka."
+  },
+  {
+   "t": 48.0,
+   "d": 12.0,
+   "text": "tentunya sangat spesial ya, apalagi pas banget kayak kita lagi di Prancis dan e kebetulan bertemu sama Bapak Presiden and it's such an honor. Jadi sangat-sangat hormat sekali kepada seluruh eh pejabat yang ada di sini."
+  },
+  {
+   "t": 60.0,
+   "d": 2.0,
+   "text": "[musik] Alhamdulillah sangat luar biasa sekali."
+  },
+  {
+   "t": 62.0,
+   "d": 16.0,
+   "text": "tentunya kita kangen banget dengan vi-nya Indonesia ini karena kita ee padahal baru 2 minggu di Prancis ini tapi udah kangen banget sama vies-nya Indonesia ini dan e tentunya sangat berbahagia karena kita diberikan kesempatan untuk bisa salat di Bisma Paris ini."
+  },
+  {
+   "t": 78.0,
+   "d": 14.0,
+   "text": "Pak Brazid ini sangat-sangat ramah ya dan juga ee apalagi kita bisa diberi kesempatan untuk halal bihalal secara langsung. Jadi benar-benar sangat menyenangkan seperti itu."
+  },
+  {
+   "t": 92.0,
+   "d": 2.0,
+   "text": "Iya. Enggak nyangka sih. Tidak mengira ya."
+  },
+  {
+   "t": 94.0,
+   "d": 10.0,
+   "text": "Iya. Mengira sih kita sudah plannya kan dari beberapa seminggu sebelumnya sudah bakal datang ke sini tapi enggak tahu [musik] ada Bapak Presiden. Jadi ini nice surprise lah."
+  },
+  {
+   "t": 104.0,
+   "d": 53.0,
+   "text": "Kita sangat bangga lah bisa benar-benar momen [musik] spesial gitu. Eh, kami ingin menyampaikan semoga Bapak Presiden sukses dengan misinya di Paris dan di secara internasional. Karena kalau [musik] Pak Prabowo sukses artinya bangsa kita juga sukses. Puja bangsa di sana [bernyanyi] tempat lahir dimulai dibesarkan. [bernyanyi] [musik] Maju tak gentar membela yang benar maju serta menikan [musik] serang"
+  },
+  {
+   "t": 157.0,
+   "d": 47.0,
+   "text": "serentar [musik] bangusir menyerang [musik] tentu kita menang [musik] bergerak bergerak serang serang [musik] beratang beratang [bernyanyi] takang tak menyerang menyerang majulah [musik][bernyanyi] majulah menang [musik] [musik] negara kita [bernyanyi] Republik [musik] Indonesia."
+  },
+  {
+   "t": 204.0,
+   "d": 61.0,
+   "text": "Beribu [musik] pulaunya [musik] berjuta rakyatnya [bernyanyi] [musik] satu citanya [musik] di mea tung [bernyanyi] iklan [musik] kita bersama Kita bina [musik] selama persatuan bangsa. [musik] Kesatuan jiwa [musik] Indonesia [bernyanyi] bahagia."
+  },
+  {
+   "t": 265.0,
+   "d": 30.0,
+   "text": "[musik] [musik] [musik] Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

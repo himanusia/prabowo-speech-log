@@ -1,0 +1,73 @@
+{
+ "id": "2025-08-28-buka-apkasi-otonomi-expo-2025-tangerang-28",
+ "video_id": "kLxuTrdr_7g",
+ "date": "2025-08-28",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmi Buka APKASI Otonomi Expo 2025, Tangerang, 28 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=kLxuTrdr_7g",
+ "duration_s": 103,
+ "duration_hms": "1:43",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 181,
+ "unique_word_count": 120,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "kLxuTrdr_7g",
+   "url": "https://www.youtube.com/watch?v=kLxuTrdr_7g",
+   "title": "Presiden Prabowo Resmi Buka APKASI Otonomi Expo 2025, Tangerang, 28 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 5,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 32.0,
+   "text": "[Musik] Terima kasih atas undangan ini menghadiri dan ikut membuka Apkasi otonomi Expo 2025 Trade Tourism Investment and Procurement dengan tema produk Menglobal. Terima kasih atas undangan ini. Ini kehormatan bagi saya dan kesempatan bagi saya untuk ee tatap muka dengan saudara sekalian."
+  },
+  {
+   "t": 32.0,
+   "d": 25.0,
+   "text": "[Musik] Eh kami sangat ee bangga, sangat mengapresiasi bahwa Bapak Presiden sangat ee peduli e bukan hanya untuk ee pelaku usaha berskala besar, tapi juga ee UMKM yang ada di kabupaten kota se-Indonesia gitu."
+  },
+  {
+   "t": 57.0,
+   "d": 13.0,
+   "text": "melihat bahwa aplikasi Autonomi Expo sangat-sangat e bermanfaat. Kami yang dari daerah bisa datang mengintroduce, memperkenalkan produk-produk kami. Bukan cuma sumber daya alam kami, tetapi produk-produk e lokal UMKM yang ada."
+  },
+  {
+   "t": 70.0,
+   "d": 20.0,
+   "text": "Kami bisa perkenalkan begitu, e harapannya paling tidak produk unggulan kabupaten dikenal oleh banyak masyarakat. Kemudian harapan lebih besarnya adalah ketemu potensial buyer ya, Mbak. ketemu potensial buyer bisnis matching dengan para pengusaha supaya ee para pelaku usaha dapat e jalur pemasaran yang lebih lebih luas."
+  },
+  {
+   "t": 90.0,
+   "d": 13.0,
+   "text": "Iya. Harapannya ke depan semoga ee Kabupaten Malinau apalagi kita di perbatasan di pedalaman ee pemerintah yang ada di pusat bisa memperhatikan kami ee lebih lagi seperti ee daerah-daerah yang ada di perkotaan."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

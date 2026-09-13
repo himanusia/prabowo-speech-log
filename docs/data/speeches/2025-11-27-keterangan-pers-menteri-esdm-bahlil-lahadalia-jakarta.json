@@ -1,0 +1,93 @@
+{
+ "id": "2025-11-27-keterangan-pers-menteri-esdm-bahlil-lahadalia-jakarta",
+ "video_id": "YqdQkpUyD5U",
+ "date": "2025-11-27",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 27 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=YqdQkpUyD5U",
+ "duration_s": 118,
+ "duration_hms": "1:58",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 253,
+ "unique_word_count": 114,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "YqdQkpUyD5U",
+   "url": "https://www.youtube.com/watch?v=YqdQkpUyD5U",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 27 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 3,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 32.0,
+   "text": "Izin, Pak. Terkait dengan subsidi LPG tadi, Pak. Kayak sempat dibahas Oh, iya. Ee tadi ee dalam rapat terbatas yang dipimpin oleh Bapak Presiden ee menyangkut dengan ee LPG, kita ada penambahan kuota di mana kuota kita di dalam APBN itu 800 eh Rp8.160.000, kita tambah kurang lebih sekitar 0,35.000 ee P untuk apa? menjaga antisipasi kebutuhan di Natal dan tahun baru sehingga saudara-saudara kita yang"
+  },
+  {
+   "t": 32.0,
+   "d": 9.0,
+   "text": "menjalankan ibadah Natal dan tahun baru untuk kita semua di ee 2025 insyaallah clear menyangkut dengan ee LPJ. Jadi penambahan anggarannya berapa?"
+  },
+  {
+   "t": 41.0,
+   "d": 25.0,
+   "text": "Enggak ada penambahan anggaran. Enggak ada penambahan anggaran karena harga ICP dunia itu ee turun karena alokasi kita di dalam APBN di 2025 itu kan R82 triliun. Sementara realisasi dengan menambah R50.000 1000 ton itu enggak sampai di R triliun, hanya sekitar 7 ee 78 778nya harga gas ya, Pak turun di bawah."
+  },
+  {
+   "t": 66.0,
+   "d": 9.0,
+   "text": "Iya, harga ICP dunia turun ya, Pak. Skema pengetatan distribusi LPG dengan DTS itu jadinya lagi masih dalam pembahasan ya, masih belum final ya."
+  },
+  {
+   "t": 75.0,
+   "d": 4.0,
+   "text": "Jadi nanti yang beli harus eh apa yang boleh beli nanti kita lihat nanti kita lihat ya."
+  },
+  {
+   "t": 79.0,
+   "d": 17.0,
+   "text": "Nah, ini 2025, Pak. 2026 belum 2025 ee ini yang penambahan yang ini untuk 2025. Sementara yang 2026 kan asumsi APBN kan sudah diputuskan. Jadi tetap masih memakai asumsi APBN yang telah diputuskan dalam era PBN 2026."
+  },
+  {
+   "t": 96.0,
+   "d": 3.0,
+   "text": "Tapi kalau misalnya tetap murah ICP-nya bisa jadi ditagal lagi."
+  },
+  {
+   "t": 99.0,
+   "d": 8.0,
+   "text": "Oh, kita lihat kemungkinan-kemungkinan itu ya, Pak Betti. Anggarannya R triliun untuk LVG tadi ya, Pak."
+  },
+  {
+   "t": 107.0,
+   "d": 11.0,
+   "text": "anggarannya anggaran plafon APBN 2025 kan R82 triliun untuk LPG untuk LPG subsidi LPG sementara realisasinya kan ee kurang dari 82 triliun dari 79 Pak dengan Iya kurang kurang lebih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

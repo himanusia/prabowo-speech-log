@@ -1,0 +1,85 @@
+{
+ "id": "2026-01-01-keterangan-pers-mensesneg-prasetyo-hadi-medan-1",
+ "video_id": "hTUVN3Te1dM",
+ "date": "2026-01-01",
+ "date_precise": true,
+ "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Medan, 1 Januari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=hTUVN3Te1dM",
+ "duration_s": 113,
+ "duration_hms": "1:53",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 236,
+ "unique_word_count": 133,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "hTUVN3Te1dM",
+   "url": "https://www.youtube.com/watch?v=hTUVN3Te1dM",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Medan, 1 Januari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 2
+  },
+  "Bencana dan penanganan": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 2.0,
+   "text": "kegiatan kemarin 2 hari."
+  },
+  {
+   "t": 2.0,
+   "d": 32.0,
+   "text": "Ee baik, terima kasih. Ee dua hari ini Bapak Presiden kembali melakukan e lawatan ee kunjungan menjenguk membersamai saudara-saudara kita yang terdampak ee bencana. Kemarin beliau hadir di ee Tapat Selatan sekaligus malamnya ee menghabiskan waktu pergantian tahun bersama dengan ee para ee pengungsi. Kemudian hari ini ee beliau berkesempatan e kembali hadir di Aceh e Tamiang, salah satu daerah atau kabupaten yang paling e terdapat dari"
+  },
+  {
+   "t": 34.0,
+   "d": 33.0,
+   "text": "bencana yang kemarin ee untuk melihat ee menyaksikan e bangunan yang ee huntara yang sudah dibangun oleh Danantara sebanyak 600 dari kurang lebih 15.000 yang rencananya akan dibangun oleh ee Danantara. Ya, selain itu juga beliau berkesempatan tadi melaksanakan rapat koordinasi ya dengan beberapa ee menteri terkait ada Menko Infrastruktur, ada Mendagri, Kepala BNPB, kemudian mendapatkan laporan dan pendengar permohonan dari Gubernur Aceh, kemudian dari Bupati Aceh kami yang intinya"
+  },
+  {
+   "t": 67.0,
+   "d": 27.0,
+   "text": "adalah ee beliau ingin sekali lagi memastikan proses pemulihan dapat dijalankan dengan ecepat cepatnya dan bilamana ada masalah untuk kita jalan keluar. salah satunya adalah ee bagaimana tadi permohonan untuk kita segera menormalisasi sungai-sungai yang ada di wilayah ee berdampak. Sekali lagi ee terima kasih, selamat ee tahun baru wakil pemerintah dan Bapak Presiden kepada seluruh e rakyat Indonesia."
+  },
+  {
+   "t": 94.0,
+   "d": 16.0,
+   "text": "Semoga di tahun yang akan datang kita semua mendapatkan ee kesuksesan, mendapatkan keberkahan dan segala sesuatunya lebih baik terutama di daerah terdampak ee supaya segera pulih kembali ee kehidupan masyarakat kita. Sekali lagi terima kasih. Baik, terima kasih."
+  },
+  {
+   "t": 110.0,
+   "d": 3.0,
+   "text": "Kami izin kembali ke Terima kasih ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

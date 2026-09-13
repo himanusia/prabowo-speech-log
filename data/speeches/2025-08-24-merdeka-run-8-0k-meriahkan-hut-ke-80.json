@@ -1,0 +1,88 @@
+{
+ "id": "2025-08-24-merdeka-run-8-0k-meriahkan-hut-ke-80",
+ "video_id": "Q4bplkag0vg",
+ "date": "2025-08-24",
+ "date_precise": true,
+ "title": "Merdeka Run 8.0K Meriahkan HUT ke-80 Kemerdekaan RI, Jakarta, 24 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Q4bplkag0vg",
+ "duration_s": 146,
+ "duration_hms": "2:26",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 221,
+ "unique_word_count": 144,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Q4bplkag0vg",
+   "url": "https://www.youtube.com/watch?v=Q4bplkag0vg",
+   "title": "Merdeka Run 8.0K Meriahkan HUT ke-80 Kemerdekaan RI, Jakarta, 24 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 62.0,
+   "text": "[Musik] [Tepuk tangan] [Musik] empat 3 du [Musik] [Musik] Pertama-tama tentunya kami atas nama panitia mewakili semua teman-teman panitia sekali lagi menyampaikan terima kasih atas partisipasi masyarakat yang luar luar biasa dalam seluruh rangkaian hari ulang tahun kemerdekaan Republik Indonesia yang ke-80. Hari ini salah satu puncaknya ya kita memperingati dari sisi olahraga. Nah, kita pagi ini berlari ada yang 8 km, ada yang 4,5 km."
+  },
+  {
+   "t": 62.0,
+   "d": 26.0,
+   "text": "Aku tuh baru pertama kali lari biasanya sepeda. Jadi ini seru banget sih. Ee dan ternyata bisa ee 5 kilo tadi ngambil yang 4,5 tapi ternyata lima. Eh, happy banget karena tadi ramai-ramai jadi enggak terlalu kerasa capeknya karena anime masyarakatnya bagus banget dari anak kecil sampai tadi ada orang ee yang sudah berusia juga ikutan dan bisa dan happy."
+  },
+  {
+   "t": 88.0,
+   "d": 9.0,
+   "text": "[Musik] Saya senang karena lari adalah olahraga yang paling murah dan bikin sehat."
+  },
+  {
+   "t": 97.0,
+   "d": 13.0,
+   "text": "Teman-teman jangan lupa mesti bilangin ya, kita harus olahraga minimal 30 menit setiap hari, 5 hari seminggu sampai wafat ya. Itu akan menjaga tekanan darah, gula darah sama lemak darah."
+  },
+  {
+   "t": 110.0,
+   "d": 4.0,
+   "text": "Kolesterol dar kita normal. Insyaallah enggak bakal kena strok, kena jantung."
+  },
+  {
+   "t": 114.0,
+   "d": 6.0,
+   "text": "Jadi, jangan lupa ya hidup sehat-sehat selalu, olahraga, lari murah."
+  },
+  {
+   "t": 120.0,
+   "d": 3.0,
+   "text": "[Musik] Seru banget. Seru banget."
+  },
+  {
+   "t": 123.0,
+   "d": 23.0,
+   "text": "Jarang ada yang kayak gini. Ini baru pertama nih, apalagi momennya tepat 80 tahun. Harapan saya untuk ke depannya bangsa Indonesia selain semakin maju dan juga berdaulat ya seluruh rakyat Indonesia tetap sejahtera. H [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

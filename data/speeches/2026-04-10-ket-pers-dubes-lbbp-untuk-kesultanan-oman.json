@@ -1,0 +1,78 @@
+{
+ "id": "2026-04-10-ket-pers-dubes-lbbp-untuk-kesultanan-oman",
+ "video_id": "x4UA7Rfyn4I",
+ "date": "2026-04-10",
+ "date_precise": true,
+ "title": "Ket Pers Dubes LBBP RI untuk Kesultanan Oman Merangkap Republik Yaman Andi Rahadian, 10 April 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=x4UA7Rfyn4I",
+ "duration_s": 118,
+ "duration_hms": "1:58",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 248,
+ "unique_word_count": 125,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "x4UA7Rfyn4I",
+   "url": "https://www.youtube.com/watch?v=x4UA7Rfyn4I",
+   "title": "Ket Pers Dubes LBBP RI untuk Kesultanan Oman Merangkap Republik Yaman Andi Rahadian, 10 April 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 24.0,
+   "text": "Terima kasih ee teman-teman. Jadi tentunya ee saya mengucapkan syukur alhamdulillah karena akhirnya pada hari ini ee saya telah dilantik oleh Bapak Presiden Pak Prabowo dan akan ditugaskan sebagai duta besar luar biasa dan berkuasa penuh Republik Indonesia untuk Kesultanan Oman merangkap Republik Yaman."
+  },
+  {
+   "t": 25.0,
+   "d": 33.0,
+   "text": "Dan sebagaimana tadi disampaikan dalam ee sumpah pelantikan tadi, insyaallah ee saya akan melaksanakan tugas yang diberikan oleh Bapak Presiden untuk meningkatkan hubungan bilateral secara baik dan positif di bidang politik, ekonomi, sosial, budaya, maupun protokol dan konsuler sesuai dengan kedugasan dari Bapak Presiden. Dan tentunya kami mohon doanya semoga dapat melaksanakan tugas dari Bapak Presiden dengan sebaik-baiknya demi nusa, bangsa dan negara. Mungkin itu aja dari kami."
+  },
+  {
+   "t": 58.0,
+   "d": 12.0,
+   "text": "Soal ketegangan geopolitik juga. Apakah nanti Bapak juga akan bantu untuk negosiasi ee misalnya e apa untuk melancarkan arus kapal melewati selatanus dari Indonesia, Pak?"
+  },
+  {
+   "t": 70.0,
+   "d": 31.0,
+   "text": "Insyaallah tadi sebagaimana disampaikan oleh Bapak Presiden dalam Pikan tadi kami akan melaksanakan semua arahan dari pusat. Semua arahan dan perintah yang diberikan oleh ee pusat kami akan laksanakan dengan sebaik-baiknya ee sesampainya kami dan mulai bertugas sebagai luar biasa Indonesia di ee Muskat. Insyaallah. Pak, ada tugas khususnya pada Presiden mengingat kondisi geopolitik yang lagi panas mungkin perlindungan UN kah atau apakah ada tugas-tugus apa yang disampaikan?"
+  },
+  {
+   "t": 101.0,
+   "d": 15.0,
+   "text": "Iya, kami akan melaksanakan semua tugas-tugas yang diberikan oleh Bapak Presiden ee baik itu ee di bidang peringatan hubungan ekonomi, di bidang sosial budaya, ataupun di bidang perlindungan WNI. Dan tentu kami akan melaksanakan dengan sebaik-baik yang sesuai dengan arahan pusat."
+  },
+  {
+   "t": 116.0,
+   "d": 3.0,
+   "text": "Baik, terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

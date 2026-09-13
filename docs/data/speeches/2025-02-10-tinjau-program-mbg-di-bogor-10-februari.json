@@ -1,0 +1,73 @@
+{
+ "id": "2025-02-10-tinjau-program-mbg-di-bogor-10-februari",
+ "video_id": "lbiVSHXX9vc",
+ "date": "2025-02-10",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tinjau Program MBG di Bogor, 10 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=lbiVSHXX9vc",
+ "duration_s": 298,
+ "duration_hms": "4:58",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 48,
+ "token_count": 264,
+ "unique_word_count": 145,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "lbiVSHXX9vc",
+   "url": "https://www.youtube.com/watch?v=lbiVSHXX9vc",
+   "title": "Presiden Prabowo Tinjau Program MBG di Bogor, 10 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 0,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 137.5,
+   "text": "[Musik] [Musik] [Musik] belajar hari ini [Musik] [Tepuk tangan] [Musik] ga 17 [Tepuk tangan] [Musik] [Tepuk tangan] [Musik] [Tepuk tangan] [Musik] [Musik] [Tepuk tangan] [Musik] sama su 1 bulan bulan [Musik] lebih I bawa bekal Darum ee Saya sangat senang ya alhamdulillah dengan adanya program ini jadi membantu siswa menikmati Apa makanan terutama bagi mereka karena di sini mayoritas e perekonomiannya masih kurang gitu dan mereka juga sangat berterima kasih atas"
+  },
+  {
+   "t": 141.0,
+   "d": 26.0,
+   "text": "kebijakan pemerintah semoga terus Semakin e Bagus ke depannya dan e semakin baik lagi menunya seperti itu eh apa ini sudah jalan Berapa lama Pak sudah kurang lebih sebulan Pak untuk di sekolah kami sudah hampir 1 bulan dan alhamdulillah distribusinya lancar tidak ada kendala dan semuanya pun anak-anak puas dengan menunya seperti itu Pak ada masukan engak Pak mungkin untuk masukannya pengirimannya Pak"
+  },
+  {
+   "t": 167.0,
+   "d": 26.0,
+   "text": "pengirimannya kadang kalau yang siang nih Agak terkendala Pak ya untuk pengiriman tuh jadi agak kadang terlalu sore gitu seperti itu aja sih selebihnya sih alhamdulillah cukup apa Pak yang mau disampaikan Pak Presiden Pak untuk pak presiden kami ucapkan terima kasih banyak atas kunjungannya Semoga sehat selalu dan semoga dalam membangun Indonesia emas lebih hebat lagi dan Semoga semua program pemerintah dapat berjalan dengan baik dan lancar ke depannya amin"
+  },
+  {
+   "t": 193.0,
+   "d": 94.0,
+   "text": "[Musik] [Tepuk tangan] [Musik] [Musik] dibuka sayangya [Musik] [Tepuk tangan] [Musik] sayintum [Musik] [Tepuk tangan] ang gimana makanannya enak makanan Gimana enak lanya apa telur ini Telur jeruk susu sama sayur jagung Alhamdulillah Pak makan jadi saya enggak repot-repot pagi-pagi nyapin makanan ya programnya bagus e udah gitu jadinya ngirit-ngirit biaya ngirit-ngirit biaya Pak ongkos Biasanya r. jadi Rp1.000 iya pak benar pak"
+  },
+  {
+   "t": 286.0,
+   "d": 15.0,
+   "text": "[Musik] [Musik] bagus for"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

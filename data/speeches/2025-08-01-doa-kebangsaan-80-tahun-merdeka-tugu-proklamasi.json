@@ -1,0 +1,73 @@
+{
+ "id": "2025-08-01-doa-kebangsaan-80-tahun-merdeka-tugu-proklamasi",
+ "video_id": "mT7k94ldWP0",
+ "date": "2025-08-01",
+ "date_precise": true,
+ "title": "Doa Kebangsaan 80 Tahun Indonesia Merdeka, Tugu Proklamasi, 1 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=mT7k94ldWP0",
+ "duration_s": 115,
+ "duration_hms": "1:55",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 189,
+ "unique_word_count": 115,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "mT7k94ldWP0",
+   "url": "https://www.youtube.com/watch?v=mT7k94ldWP0",
+   "title": "Doa Kebangsaan 80 Tahun Indonesia Merdeka, Tugu Proklamasi, 1 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 36.0,
+   "text": "[Musik] Penghayatan Ketuhanan Yang Maha Esa Indonesia diwujudkan pada hari ini dengan adanya enam agama yang melakukan doa bersama. Doa lintas kebangsaan ini sebujud bahwa kemerdekaan ini tidak terlepas dari perjuangan para tokoh-tokoh agama di zaman dahulu."
+  },
+  {
+   "t": 39.0,
+   "d": 38.0,
+   "text": "Terus terang ini yang pertama ya. Jadi ee kami sangat senang sekali karena diundang untuk berpartisipasi doa bersama-sama dengan ee Direktorat Jenderal Agama Muslim yang menjadi host atau tuan rumah acara ini. Jadi kami sangat senang karena ini pertama kalinya ini. Kita bukan berbicara mayoritas dan minoritas. Bukan juga ada istilah yang kami dengar di sini ada Islam dan non Islam, tapi kita melihat kebersamaan pada malam hari ini. Dan kebersamaan itu indah"
+  },
+  {
+   "t": 77.0,
+   "d": 21.0,
+   "text": "karena kita manusia adalah ee tentu sangat lemah. Ee segala sesuatunya tidak bisa kita ee jalan sendiri karena harus ee memerlukan pertolongan yang maha kuasa. Oleh karena itulah doa ini kita berharap agar ke depan Indonesia benar-benar ee bisa lebih baik."
+  },
+  {
+   "t": 98.0,
+   "d": 17.0,
+   "text": "Mari kita mengaminkan doa-doa yang dipanjatkan dengan tulus oleh tokoh-tokoh masyarakat kita, tokoh lintas agama pada malam ini sebagai satu bukti bahwa kita semuanya ini adalah punya tekad yang sama untuk mempertahankan kemerdekaan Republik Indonesia tercinta ini."
+  },
+  {
+   "t": 115.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

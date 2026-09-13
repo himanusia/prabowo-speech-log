@@ -1,0 +1,198 @@
+{
+ "id": "2025-01-01-kekuatan-dan-masa-depan-terletak-di-tangan",
+ "video_id": "zDmNmv18Yyw",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo: Kekuatan dan Masa Depan Indonesia Terletak di Tangan Pemuda",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=zDmNmv18Yyw",
+ "duration_s": 317,
+ "duration_hms": "5:17",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 41,
+ "token_count": 401,
+ "unique_word_count": 203,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "zDmNmv18Yyw",
+   "url": "https://www.youtube.com/watch?v=zDmNmv18Yyw",
+   "title": "Presiden Prabowo: Kekuatan dan Masa Depan Indonesia Terletak di Tangan Pemuda",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 39
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 2.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 3.0,
+   "d": 6.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian."
+  },
+  {
+   "t": 9.0,
+   "d": 9.0,
+   "text": "Shalom salve. Om swastiastu. Namo buddhaya. Salam kebajikan rahayu."
+  },
+  {
+   "t": 18.0,
+   "d": 2.0,
+   "text": "Salam pemuda."
+  },
+  {
+   "t": 20.0,
+   "d": 10.0,
+   "text": "Saudara-saudaraku para pemuda dan pemudi seluruh tanah air dan di mana pun kalian berada."
+  },
+  {
+   "t": 30.0,
+   "d": 18.0,
+   "text": "Saya Prabowo Subianto, Presiden Republik Indonesia atas nama pribadi dan atas nama pemerintah mengucapkan selamat Hari Sumpah Pemuda ke-97 tahun 2025."
+  },
+  {
+   "t": 48.0,
+   "d": 33.0,
+   "text": "Hari ini kita memperingati sebuah tonggak sejarah penting saat pemuda Indonesia pada tahun 1928 meneguhkan tekad yang menyatukan bangsa, bertumpah darah satu tanah air Indonesia, berbangsa satu bangsa Indonesia, dan menjunjung bahasa persatuan Bahasa Indonesia."
+  },
+  {
+   "t": 81.0,
+   "d": 12.0,
+   "text": "Mereka yang pada saat itu berusia muda tidak lebih dari 22, 23 24 tahun hanya ingin satu hal."
+  },
+  {
+   "t": 93.0,
+   "d": 9.0,
+   "text": "Indonesia merdeka, Indonesia bersatu, berdaulat, bermartabat."
+  },
+  {
+   "t": 102.0,
+   "d": 13.0,
+   "text": "Dan kini tugas kita adalah melanjutkan perjuangan mereka melalui ilmu, kejujuran, disiplin, dan kerja keras."
+  },
+  {
+   "t": 115.0,
+   "d": 13.0,
+   "text": "Kita harus isi kemerdekaan kita. Kita harus membawa bangsa Indonesia menjadi bangsa yang maju, bangsa yang modern, bangsa yang sejahtera."
+  },
+  {
+   "t": 128.0,
+   "d": 2.0,
+   "text": "Perjuangan ini belum selesai."
+  },
+  {
+   "t": 130.0,
+   "d": 7.0,
+   "text": "Masih terlalu banyak saudara-saudara kita yang hidup dalam kesulitan."
+  },
+  {
+   "t": 137.0,
+   "d": 13.0,
+   "text": "Petani-petani kita di sawah, nelayan-nelayan kita di laut, buruh di pabrik, anak-anak muda yang bekerja keras demi keluarganya."
+  },
+  {
+   "t": 150.0,
+   "d": 9.0,
+   "text": "Kepada mereka kita wajib memastikan bahwa seluruh rakyat Indonesia harus hidup layak."
+  },
+  {
+   "t": 159.0,
+   "d": 8.0,
+   "text": "sejahtera sehingga bangga menjadi bagian dari bangsa besar ini."
+  },
+  {
+   "t": 167.0,
+   "d": 8.0,
+   "text": "Bangsa kita kaya, yang penting sekarang kita pandai menjaga dan mengelola kekayaan kita."
+  },
+  {
+   "t": 175.0,
+   "d": 7.0,
+   "text": "Pemuda dan pemudi kalianlah harapan dan kekuatan bangsa."
+  },
+  {
+   "t": 182.0,
+   "d": 23.0,
+   "text": "Bangsa ini tidak akan maju tanpa semangat kalian, tanpa kerja keras kalian, tanpa cinta tanah air yang menyala di dada kalian, tanpa kepribadian kalian, tanpa keberanian kalian menegakkan kejujuran dan keadilan."
+  },
+  {
+   "t": 205.0,
+   "d": 23.0,
+   "text": "Cinta tanah air bukan hanya diucapkan, tapi harus dibuktikan dengan kerja keras, disiplin, rela berkorban demi negara dan bangsa, keberanian membela, sekali lagi keberanian membela kebenaran dan ketulusan melayani rakyat seluruhnya."
+  },
+  {
+   "t": 228.0,
+   "d": 13.0,
+   "text": "Selama masih ada anak muda Indonesia yang jujur, yang berani, dan setia kepada bangsa dan rakyatnya, Indonesia tidak akan pernah bisa dikalahkan."
+  },
+  {
+   "t": 241.0,
+   "d": 10.0,
+   "text": "Karena itu saya berpesan, \"Hai pemuda, jangan takut bermimpi besar, jangan takut gagal."
+  },
+  {
+   "t": 251.0,
+   "d": 11.0,
+   "text": "Bangsa besar lahir dari pemuda yang berani, yang mencintai bangsanya, yang rela berkorban untuk rakyatnya."
+  },
+  {
+   "t": 262.0,
+   "d": 11.0,
+   "text": "Mari kita kobarkan semangat persatuan, semangat gotongroyong, dan semangat untuk berbuat yang terbaik bagi negeri."
+  },
+  {
+   "t": 273.0,
+   "d": 13.0,
+   "text": "Bersama kita buktikan bahwa Indonesia adalah bangsa yang kuat, yang adil, yang makmur, dan disegani dunia karena rakyatnya sejahtera."
+  },
+  {
+   "t": 286.0,
+   "d": 7.0,
+   "text": "Sekali lagi saya ucapkan selamat Hari Sumpah Pemuda ke-97. tahun 2025."
+  },
+  {
+   "t": 293.0,
+   "d": 4.0,
+   "text": "Pemuda-pemudi bergerak Indonesia bersatu."
+  },
+  {
+   "t": 297.0,
+   "d": 8.0,
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian."
+  },
+  {
+   "t": 305.0,
+   "d": 10.0,
+   "text": "Shalom. Salve. Om santi shanti shanti. Om Namo Buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 315.0,
+   "d": 3.0,
+   "text": "Salam pemuda merdeka."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,128 @@
+{
+ "id": "2025-07-12-tiba-di-brussel-belgia-12-juli-2025",
+ "video_id": "VYYJdOROO9c",
+ "date": "2025-07-12",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Brussel, Belgia, 12 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=VYYJdOROO9c",
+ "duration_s": 174,
+ "duration_hms": "2:54",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 29,
+ "token_count": 189,
+ "unique_word_count": 103,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "VYYJdOROO9c",
+   "url": "https://www.youtube.com/watch?v=VYYJdOROO9c",
+   "title": "Presiden Prabowo Tiba di Brussel, Belgia, 12 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 38.0,
+   "d": 47.0,
+   "text": "[Musik] [Tepuk tangan] [Musik] [Tepuk tangan] [Musik] [Musik] D salam salam sayang masalam pakasih selamat datanguk."
+  },
+  {
+   "t": 85.0,
+   "d": 6.0,
+   "text": "Terima kasih. Kamu siapa namanya?"
+  },
+  {
+   "t": 91.0,
+   "d": 9.0,
+   "text": "Wow. Kamu siapa namanya? Terima kasih. Terima kasih sekali."
+  },
+  {
+   "t": 100.0,
+   "d": 12.0,
+   "text": "Kamu kelas berapa? Kamu kelas berapa? Dua. Dua."
+  },
+  {
+   "t": 112.0,
+   "d": 7.0,
+   "text": "Selamat datang. Selamat datang, Bapak. Bapak mohon izin boleh selfie, Pak."
+  },
+  {
+   "t": 119.0,
+   "d": 4.0,
+   "text": "Ayo, ayo. Boleh selfie tuh."
+  },
+  {
+   "t": 123.0,
+   "d": 10.0,
+   "text": "Halo, siapa nama kamu?"
+  },
+  {
+   "t": 133.0,
+   "d": 9.0,
+   "text": "Selamat datang. Salam sebenarnya Bapak kita nih. Terima kasih. Sehat selalu."
+  },
+  {
+   "t": 142.0,
+   "d": 5.0,
+   "text": "Terima kasih. Sehat-sehat, Pak Presiden. Selamat datang, Pak."
+  },
+  {
+   "t": 147.0,
+   "d": 6.0,
+   "text": "Selamat datang, Pak Presiden. Makasih, Pak. Selamat datang."
+  },
+  {
+   "t": 153.0,
+   "d": 15.0,
+   "text": "Ee kami senang banget, kami bangga banget bisa bertemu dengan Bapak Presiden Republik Indonesia di Belgia dan kami sangat berharap Pak Prabowo bisa dilancarkan segala urusannya di selama berada di Belgia ini. Aduh. Aduh. Saya gemetar ini."
+  },
+  {
+   "t": 168.0,
+   "d": 8.0,
+   "text": "Baru enggak ternyata orangnya sangat sangat sangat humble. Iya, saya sampai gemetar udah pedicure ya for the second hand."
+  },
+  {
+   "t": 176.0,
+   "d": 1.0,
+   "text": "Wah, sangat senang."
+  },
+  {
+   "t": 177.0,
+   "d": 6.0,
+   "text": "Happy banget. Senang. Iya, akhirnya bisa ketemu langsung sama Pak sama Pak Prabowo."
+  },
+  {
+   "t": 183.0,
+   "d": 9.0,
+   "text": "Eh, benar-benar kayak mimpi karena biasanya kan lihat dari televisi, YouTube gitu-gitu kan. Dan sekarang ye ketemu salaman lagi. Hah?"
+  },
+  {
+   "t": 192.0,
+   "d": 20.5,
+   "text": "Udah manikur pedigur [Tepuk tangan] [Musik] [Tepuk tangan] [Musik] [Tepuk tangan] Bapak Pr"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

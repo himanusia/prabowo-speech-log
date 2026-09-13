@@ -1,0 +1,138 @@
+{
+ "id": "2025-01-01-tinjau-langsung-daerah-terdampak-bencana-di-sumatra",
+ "video_id": "-FwHIGfJrTQ",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo Tinjau Langsung Daerah Terdampak Bencana di Sumatra Utara, Aceh, dan Sumatra Barat",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=-FwHIGfJrTQ",
+ "duration_s": 282,
+ "duration_hms": "4:42",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 41,
+ "token_count": 220,
+ "unique_word_count": 120,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "-FwHIGfJrTQ",
+   "url": "https://www.youtube.com/watch?v=-FwHIGfJrTQ",
+   "title": "Presiden Prabowo Tinjau Langsung Daerah Terdampak Bencana di Sumatra Utara, Aceh, dan Sumatra Barat",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 12.0,
+   "d": 27.0,
+   "text": "[musik] [musik] [musik] [musik] Selamat [musik] datang Bapak datang."
+  },
+  {
+   "t": 39.0,
+   "d": 14.0,
+   "text": "Selamat datang kami ucapkan. [musik] Selamat datang Bapak, selamat datang [musik] Ibu selamat datang kami ucapkan."
+  },
+  {
+   "t": 53.0,
+   "d": 16.0,
+   "text": "[musik] I terima kasih semua pihak terutama semua instansi yang [musik] beraksi yang sangat cepat untuk memberi bantuan. Memang kondisi alam memang sangat menantang ya, sangat menimbuh kesulitan."
+  },
+  {
+   "t": 69.0,
+   "d": 34.0,
+   "text": "ee banyak banyak jalur masih terputus tapi kita segera ee melakukan ee segala upaya untuk mengatasi kesulitan-kesulitan [musik] yang dialami sehat [musik] Iya, Pak."
+  },
+  {
+   "t": 103.0,
+   "d": 8.0,
+   "text": "[musik] Sudah berapa hari di sini? Siap. Sudah 7 hari. 7 hari. Siap, Pak."
+  },
+  {
+   "t": 111.0,
+   "d": 14.0,
+   "text": "Pak, dari mana kalian? dari Basana. Siap, Pak."
+  },
+  {
+   "t": 125.0,
+   "d": 40.0,
+   "text": "[musik] jalan kaki dan sepeda motor."
+  },
+  {
+   "t": 165.0,
+   "d": 2.0,
+   "text": "Alhamdulillah, Pak."
+  },
+  {
+   "t": 167.0,
+   "d": 9.0,
+   "text": "Semenjak berapa banyak sudah presiden kita Indonesia ini, Pak? Baru inilah yang pernah kita cari, Pak. Kami mimpi rasanya, Pak."
+  },
+  {
+   "t": 176.0,
+   "d": 13.0,
+   "text": "Bapak kalau Bapak terima kasih Pak Prabowo. Terima kasih."
+  },
+  {
+   "t": 189.0,
+   "d": 9.0,
+   "text": "[musik] Kita segera akan membuka jalan-jalan yang putus."
+  },
+  {
+   "t": 198.0,
+   "d": 8.0,
+   "text": "Jembatan-jembatan yang rusak kita segera perbaiki [musik] ya kan? Alhamdulillah."
+  },
+  {
+   "t": 206.0,
+   "d": 2.0,
+   "text": "kita punya anggarannya."
+  },
+  {
+   "t": 208.0,
+   "d": 25.0,
+   "text": "Kita lakukan [musik] penghematan banyak di pusat supaya sebanyak mungkin [musik] bantuan, sebanyak mungkin kita bisa membantu kepentingan rakyat di paling bawah, desa, kecamatan. Itu sasaran kita."
+  },
+  {
+   "t": 233.0,
+   "d": 23.0,
+   "text": "[musik] [musik] [musik] [musik] Ini musibah."
+  },
+  {
+   "t": 256.0,
+   "d": 18.0,
+   "text": "Saya turut berduka cita dengan keluarga yang kehilangan dan saya berdoa Bapak-bapak, Ibu-ibu akan tabah, segar, percaya. Kita semua satu keluarga besar."
+  },
+  {
+   "t": 274.0,
+   "d": 7.0,
+   "text": "Kita tidak akan membiarkan saudara-saudara sendiri memikul beban."
+  },
+  {
+   "t": 281.0,
+   "d": 13.0,
+   "text": "[musik] [musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

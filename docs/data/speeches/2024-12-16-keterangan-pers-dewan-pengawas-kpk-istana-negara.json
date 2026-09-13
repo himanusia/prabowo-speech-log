@@ -1,0 +1,83 @@
+{
+ "id": "2024-12-16-keterangan-pers-dewan-pengawas-kpk-istana-negara",
+ "video_id": "MKiKzFzn4CE",
+ "date": "2024-12-16",
+ "date_precise": true,
+ "title": "Keterangan Pers Dewan Pengawas KPK, Istana Negara, 16 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=MKiKzFzn4CE",
+ "duration_s": 229,
+ "duration_hms": "3:49",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 30,
+ "token_count": 406,
+ "unique_word_count": 195,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "MKiKzFzn4CE",
+   "url": "https://www.youtube.com/watch?v=MKiKzFzn4CE",
+   "title": "Keterangan Pers Dewan Pengawas KPK, Istana Negara, 16 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 40.0,
+   "text": "bimana tanggapannya Pak setelah dilantik menjadi dewan pengawas apa yang akan menjadi prioritas e pekerjaan dalam mengawasi pimpinan KPK ini dalam bekerja eh sesuai dengan tugas dan tanggung jawab dari dewan pengawas menurut pasal 37 undang-undang Nomor 19 2019 maka dewan pengawas ini melakukan evaluasi dan monitoring terhadap tugas dan tanggung jawab terhadap pimpinan KPK sekaligus akan Menindaklanjuti hasil dari pengaduan masyarakat jika memang hal tersebut ada pengaduan tentu kami akan minta"
+  },
+  {
+   "t": 40.0,
+   "d": 31.0,
+   "text": "klarifikasi jika seandai klarifikasi tersebut memungkinkan terjadi sesuatu tentu kami Melanti dengan persidangan terhadap e kode etik dilakukan pelanggaran oleh pimpinan KPK tersebut atau komisioner KPK tersebut sesuai dengan pasal 37b und-ang 19 Pak tadi Kalau dari Pak tumpak harapannya bisa menjaga integritas pimpinan KPK secara lebih baik lagi Bagaimana kalau sekarang Eh tentu kita Sebelum melakukan tindakan"
+  },
+  {
+   "t": 71.0,
+   "d": 37.0,
+   "text": "eh Represif tentu melakukan tindakan preventif dengan melakukan sosialisasi terhadap e kode etik mengenai Insan KPK tersebut kerjasama dengan Deputi pencegahan dan pendidikan oleh sebab itulah kita lebih dahulu sebelum melakukananan sup sosialisasi mengenai k tersebut jangan sampai terjadi pelanggaran k etik Maun undang-undang terhadap pelaksan tuas dari Insan KPK terseb P Saya ingin menjagauah KPK"
+  },
+  {
+   "t": 108.0,
+   "d": 44.0,
+   "text": "sebetulnya dewas ini kanan KPK juga satu bagian tidak terpisah dengan pan KK benga Pinan Maun Insan kpkerse Pak apak ada geak yang akan dilakan agar membuat KPK periode yang saat ini lebih bertaring tentu masalah tentang keberak-keberakan tentu kita melakukan melihat DU ke dalam langkah-langkah apa yang kita lakukan Jangan sampai terjadi antara ketidakcocokan antara pimpinan KPK dengan Deas seb it k yang per KPK tersebut untuk ikut mengawasi"
+  },
+  {
+   "t": 152.0,
+   "d": 32.0,
+   "text": "pelaksanaan tugas kode etik bukan hanya tugas Dew saja jadi kita kerja sama dengan mereka jangan sampaiadi pelanggaran terhadap kode Eti tersebut Pak kalau soal sikap dari dewas sekarang gimana Pak kami Serahkan semuanya kepada pimpinan KPK sepanjang undang-undang mengatur Mang hal demikian terlaksana ya silakan undang-undang mengatur demikian kami hanya tugas melakukan evaluasi dan monitoring terhadap tugas KPK tersebut yang itu yang kami lakukan terhadap hal ini mungkin dalam undang-undang tersebut"
+  },
+  {
+   "t": 184.0,
+   "d": 33.0,
+   "text": "ee masalah ee evaluasi maupun tugas tanggung jawab dari ee pimpinan KPK itu kan dilakukan sekali setahun tapi asal masalah Monet itu enggak boleh sekali setahun minimal harus minimal sekali 6 bulan atau sekali 3 bulan sebab sekali 3 tahun terjadi Misa pelanggaran kan tahun yang akan datang baru bisa dimonef maka oleh sebab itu jika terjadi satu pelanggar secepatnya kita tindak lanjut jangan sampai pada bulanan tahun akan datang akan terjadi lagi pelanggaran tersebut Naman ajakan Monitoring"
+  },
+  {
+   "t": 217.0,
+   "d": 12.0,
+   "text": "evaluasi terhadap ketidaksesuaian dalam pelaksanaan tugas yang dilakukan oleh pimpinan atau Insan KPK lainnya [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

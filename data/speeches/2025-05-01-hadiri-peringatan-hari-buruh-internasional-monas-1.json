@@ -1,0 +1,83 @@
+{
+ "id": "2025-05-01-hadiri-peringatan-hari-buruh-internasional-monas-1",
+ "video_id": "hE4X-pD2ziI",
+ "date": "2025-05-01",
+ "date_precise": true,
+ "title": "Presiden Prabowo Hadiri Peringatan Hari Buruh Internasional, Monas, 1 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=hE4X-pD2ziI",
+ "duration_s": 105,
+ "duration_hms": "1:45",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 66,
+ "unique_word_count": 41,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "hE4X-pD2ziI",
+   "url": "https://www.youtube.com/watch?v=hE4X-pD2ziI",
+   "title": "Presiden Prabowo Hadiri Peringatan Hari Buruh Internasional, Monas, 1 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 21.0,
+   "text": "[Musik] kita. Saya ingin sampaikan di sini, saya merasa menjadi presidennya buruh."
+  },
+  {
+   "t": 21.0,
+   "d": 15.0,
+   "text": "[Musik] Presidennya petani, presidennya nelayan, presidennya orang yang susah."
+  },
+  {
+   "t": 36.0,
+   "d": 20.0,
+   "text": "[Musik] Selamat hari buruh internasional mede."
+  },
+  {
+   "t": 56.0,
+   "d": 11.0,
+   "text": "Semoga Tuhan maha besar melindungi kita semua. Semoga kita bekerja terus bersama-sama."
+  },
+  {
+   "t": 67.0,
+   "d": 14.0,
+   "text": "Saya minta dukunganmu, saya minta bantuan-Mu. Bersama-sama kita selamatkan kekayaan rakyat, kekayaan negara kita."
+  },
+  {
+   "t": 81.0,
+   "d": 7.0,
+   "text": "Kekayaan rakyat, kekayaan negara harus dinikmati oleh seluruh rakyat Indonesia."
+  },
+  {
+   "t": 88.0,
+   "d": 17.0,
+   "text": "[Musik] [Musik] [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

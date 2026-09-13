@@ -1,0 +1,132 @@
+{
+ "id": "2025-01-01-program-mbg-untuk-anak-anak-pulau-rote",
+ "video_id": "oZrsq1nO5R0",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Program MBG Presiden Prabowo untuk Anak-Anak Pulau Rote",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=oZrsq1nO5R0",
+ "duration_s": 393,
+ "duration_hms": "6:33",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 49,
+ "token_count": 469,
+ "unique_word_count": 256,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "oZrsq1nO5R0",
+   "url": "https://www.youtube.com/watch?v=oZrsq1nO5R0",
+   "title": "Program MBG Presiden Prabowo untuk Anak-Anak Pulau Rote",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 0,
+  "pendidikan": 13,
+  "kesehatan_dan_gizi": 22,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 4
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 22.0,
+   "text": "[Musik] Tuhan Yesus. Tuhan Yesus. Sekarang sekarang kami mau makan. Kami memakan makanan kisah kam. Oke, silakan boleh buka dan makan. Makannya pelan-pelan supaya jangan sumpah ya."
+  },
+  {
+   "t": 23.0,
+   "d": 70.0,
+   "text": "[Musik] Perkenalkan saya Taufik Umar, Kepala SPPG di Kabupaten Rote [Musik] Endau. Ya, untuk menunya per hari itu ada karbohidrat atau nasi, ada sayuran, ada protein hewani yaitu telur, ayam atau daging atau ikan, terus protein nabati, tahu tempe, sama [Musik] buah. Kita selalu menjaga kebersihan, dapur, personil, maupun bahan baku yang datang. Terus sebelum pendistribusian sampel itu dicoba oleh ahli gizi sehingga tetap aman untuk disampaikan ke anak siswa-siswa sekolah."
+  },
+  {
+   "t": 93.0,
+   "d": 26.0,
+   "text": "[Musik] Minang [Tepuk tangan] marangkal."
+  },
+  {
+   "t": 119.0,
+   "d": 25.0,
+   "text": "[Musik] [Musik] Perkenalkan saya Tin Marlin Lucy, Sarjana Pendidikan adalah Kepala UPTD SD Inpres 2 Baa."
+  },
+  {
+   "t": 144.0,
+   "d": 60.0,
+   "text": "[Musik] kami sangat ee berterima kasih karena kami sangat merasakan keuntungan yang pertama untuk siswa. Siswa itu ee sejak hari Senin, Selasa, Rabu, Kamis sampai dengan Jumat itu mereka tidak lagi membawa bekal dari rumah, tapi mereka langsung diberikan ee makanan bergizi gratis setiap jam 09.00 pagi di sekolah. Nah, itu keuntungan yang pertama. Yang kedua, bahwa siswa yang berjumlah 265 orang itu dibiasakan untuk mengkonsumsi makanan gizi berimbang."
+  },
+  {
+   "t": 204.0,
+   "d": 13.0,
+   "text": "Keuntungan yang berikut bahwa anak-anak tidak lagi jajan di sekolah sehingga 5 hari itu uang jajan mereka yang disiapkan oleh orang tua itu bisa dipakai untuk kebutuhan yang lain."
+  },
+  {
+   "t": 217.0,
+   "d": 11.0,
+   "text": "Keuntungan yang berikut lagi, Ibu ee sampah di sekolah yang ada kaitan dengan sampah plastik itu semakin hari semakin berkurang."
+  },
+  {
+   "t": 228.0,
+   "d": 5.0,
+   "text": "Pancasila satu kesetanan yang maha esa."
+  },
+  {
+   "t": 233.0,
+   "d": 19.0,
+   "text": "Dua, kenusiaan berat. Tiga, persatuan Indonesia empat dan kebijaksanaan dalam permusyawaratan berbahagia. Lima keadilan bagi seluruh Indonesia."
+  },
+  {
+   "t": 252.0,
+   "d": 39.0,
+   "text": "[Musik] Gagal gagal [Musik] anak-anak dalam proses pembelajaran itu mereka pas jam 09.00 itu jam istirahat untuk makan mereka senang. Jadi dengan demikian proses pembelajaran di sekolah itu juga berjalan dalam keadaan mereka sehat ee senang, semangat. Jadi akan selesai makan itu nanti sudah tadi makanannya enak. Wih, enak Ibu. Heeh."
+  },
+  {
+   "t": 291.0,
+   "d": 22.0,
+   "text": "Enak, Ibu. Bilang begitu. Jadi kadang kala yang ee izin Ibu saya sampaikan kalau misalnya ada siswa yang sakit dan tidak hadir itu ini kita tawarkan eh ada yang masih mau nambah kok karena menunjuk pas ibu ketemu tambah ya bahasa ketong itu berarti saya. Heeh. Gitu."
+  },
+  {
+   "t": 313.0,
+   "d": 26.0,
+   "text": "Jadi proses pembelajarannya berjalan dengan baik, anak-anak semangat dan untuk ini apa yang sakit-sakit itu 3 bulan eh 2 bulan berjalan ini ibu didaftar absen itu sudah mulai berkurang karena memang mereka ee dengan konsumsi makanan yang sangat baik dari MBG itu merupakan asupan gizi untuk mereka juga."
+  },
+  {
+   "t": 339.0,
+   "d": 19.0,
+   "text": "[Musik] Pertama, bahwa kami punya harapan besar."
+  },
+  {
+   "t": 358.0,
+   "d": 24.0,
+   "text": "Heeh. Program ini diberkati oleh Tuhan lewat kepemimpinan Bapak Presiden dan para menteri. Kalau hari ini kita memberikan mereka makanan bergizi gratis, sehat tubuh jasmani mereka didukung dengan iman dan takwa sesuai dengan keyakinan iman mereka dan juga pendidikan. Saya yakin bahwa mereka akan menjadi generasi unggul di hari esok."
+  },
+  {
+   "t": 382.0,
+   "d": 9.0,
+   "text": "Ya, jadi harapan kami itu program ini berkelanjutan. Terima kasih, Pak Presiden."
+  },
+  {
+   "t": 391.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

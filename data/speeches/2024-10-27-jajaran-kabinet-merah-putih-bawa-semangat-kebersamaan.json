@@ -1,0 +1,78 @@
+{
+ "id": "2024-10-27-jajaran-kabinet-merah-putih-bawa-semangat-kebersamaan",
+ "video_id": "0YoDGPYyuQ4",
+ "date": "2024-10-27",
+ "date_precise": true,
+ "title": "Jajaran Kabinet Merah Putih Bawa Semangat Kebersamaan ke Jakarta, 27 Oktober 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=0YoDGPYyuQ4",
+ "duration_s": 205,
+ "duration_hms": "3:25",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 27,
+ "token_count": 354,
+ "unique_word_count": 178,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "0YoDGPYyuQ4",
+   "url": "https://www.youtube.com/watch?v=0YoDGPYyuQ4",
+   "title": "Jajaran Kabinet Merah Putih Bawa Semangat Kebersamaan ke Jakarta, 27 Oktober 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 53.0,
+   "text": "[Musik] [Tepuk tangan] [Musik] 3 hari sangat refreshing tadi Eh setiap pagi kita olahraga kemudian eh kegiatan baris berbaris dan acara di kelas jadi ee sepanjang hari penuh namun kita semua Bergerak bersama memakai seragam yang sama dan EE setiap kali break untuk makan Siang juga dipimpin oleh pak presiden atau Pak wakil presiden jadi e sangat membuat suasana berbeda dan di lembah Tidar ini udaranya baik sekali"
+  },
+  {
+   "t": 53.0,
+   "d": 40.0,
+   "text": "tentu eh parade senj karena dilakukan bersama dengan eh Akademi dari semua angkatan dan e suasananya hujan jadi salut kepada Pak Presiden Tengah hujan yang luar biasa beliau bersama dengan para Taruna yang paling berkesan di sini banyak hal ya Banyak hal dari kita sarapan pagi bersama-sama Setelah itu kita mendapatkan arahan bersama-sama terus kita juga melakukan aktivitas olahraga bersama sama-sama semua kita lakukan bersama-sama dan juga"
+  },
+  {
+   "t": 93.0,
+   "d": 33.0,
+   "text": "kita diajarin e PBB baris berbaris untuk yang dasarnya dan di sini juga kita bisa melihat Sisi humanisme yang yang Pak prabotu luar biasa sekali gitu Auro beliau saat memimpin beliau tegas tapi saat ke kita di sini seperti anak-anaknya beliau beliau juga bisa menjadi seorang bapak yang luar biasa bisa menjadi sahabat yang luar biasa dan kadang kita bisa ketawa sama beliau Kita juga bisa mendengarkan arahan serius dari Beliau juga kurang tidur tapi semangat Enggak kurang-kurang jadi kita jadwalnya ketat sekali dari"
+  },
+  {
+   "t": 126.0,
+   "d": 30.0,
+   "text": "pagi sampai malam eh giat Terus eh kompak terasa sekali ya karena dari pagi sampai malam sama-sama dan giatnya itu giat kolektif baik dalam ruangan untuk eh penambahan pengetahuan dan juga pendalaman terhadap isu-isu yang EE tentu menjadi tantangan di negara ini tapi juga yang fisik itu juga sangat membentuk kekompakan gitu beliau selalu bilang eh pak presiden selalu menyampaikan bahwa super itu penting untuk keberhasilan jadi saya rasa eh dan"
+  },
+  {
+   "t": 156.0,
+   "d": 31.0,
+   "text": "ditunjukkan langsung bahwa kekompakan itu seperti ini pucuk pimpinan tertinggi Pak Presiden sendiri juga ikut baris berbaris makan semua sama jamnya sehingga beliau ingin menunjukkan rasanya mudah-mudahan yang akan saya terapkan di Kementerian saya nanti bahwa e pemimpin akan sama-sama jadi kita hadapi segala tantangan sama-sama tapi anak buah juga harus ikut sama-sama harus disiplin supaya kita bisa ee mencapai target-target yang kita inginkan di Kementerian kita"
+  },
+  {
+   "t": 187.0,
+   "d": 18.0,
+   "text": "masing-masing [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

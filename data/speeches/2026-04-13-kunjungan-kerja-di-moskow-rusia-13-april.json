@@ -1,0 +1,73 @@
+{
+ "id": "2026-04-13-kunjungan-kerja-di-moskow-rusia-13-april",
+ "video_id": "Nl4I1q7teVE",
+ "date": "2026-04-13",
+ "date_precise": true,
+ "title": "Kunjungan Kerja Presiden Prabowo di Moskow, Rusia, 13 April 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Nl4I1q7teVE",
+ "duration_s": 123,
+ "duration_hms": "2:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 56,
+ "unique_word_count": 33,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Nl4I1q7teVE",
+   "url": "https://www.youtube.com/watch?v=Nl4I1q7teVE",
+   "title": "Kunjungan Kerja Presiden Prabowo di Moskow, Rusia, 13 April 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 6.0,
+   "d": 55.0,
+   "text": "[musik] [musik] [musik] [musik] [musik] Terima kasih kepada Presiden Putin, pemerintah Rusia atas ee dukungan ee Rusia kepada Indonesia. pertama kami ee diterima begitu cepat di Breaks."
+  },
+  {
+   "t": 61.0,
+   "d": 15.0,
+   "text": "Selanjutnya dalam beberapa hal yang sangat penting bagi Indonesia ee Presiden Putin ee mendukung dan ee memberi dukungan kepada keperluan-keperluan Indonesia."
+  },
+  {
+   "t": 76.0,
+   "d": 8.0,
+   "text": "Благодарю вас, уважаемый господин президент, что [musik] ваш визит очень востребован."
+  },
+  {
+   "t": 84.0,
+   "d": 27.0,
+   "text": "и в сфере событий, которые в мире происходят, и [musik] с точки зрения с точки зрения укрепления ификации наших двух [musik] сторонних связи. Ещё раз спасибо большое за то, что вы сегодня здесь в Москве."
+  },
+  {
+   "t": 111.0,
+   "d": 18.0,
+   "text": "[musik] [tepuk tangan] [musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

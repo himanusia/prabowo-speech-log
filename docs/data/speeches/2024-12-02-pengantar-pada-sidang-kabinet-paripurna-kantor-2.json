@@ -1,0 +1,147 @@
+{
+ "id": "2024-12-02-pengantar-pada-sidang-kabinet-paripurna-kantor-2",
+ "video_id": "5xO_JJZXbh0",
+ "date": "2024-12-02",
+ "date_precise": true,
+ "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna, Kantor Presiden, 2 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=5xO_JJZXbh0",
+ "duration_s": 1026,
+ "duration_hms": "17:06",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 130,
+ "token_count": 1195,
+ "unique_word_count": 469,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5xO_JJZXbh0",
+   "url": "https://www.youtube.com/watch?v=5xO_JJZXbh0",
+   "title": "Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna, Kantor Presiden, 2 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 13,
+  "ekonomi": 4,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 13
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 59.0,
+   "d": 64.0,
+   "text": "[Tepuk tangan] Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh Waalaikumsalam selamat sore salam sejahtera bagi kita sekalian Shalom Om Swastiastu namo Budha salam kebajikan yang saya hormati saudara wakil presiden para menteri koordinator para menteri para kepala Badan ketua dewan ekonomi nasional Jaksa Agung kepala BIN Panglima TNI Kapolri dan para wakil menteri kabinet merah putih sekalian yang hadir"
+  },
+  {
+   "t": 123.0,
+   "d": 60.0,
+   "text": "pada sore hari ini saya kumpulkan saudara-saudara dalam sidang kabinet Paripurna pada awal bulan Desember ini 1 setengah bulan sesudah pelantikan kita sekaligus tentunya bertemu kembali secara lengkap setelah saya kembali dari kunjungan kerja saya ke beberapa negara sahabat Minggu lalu walaupun ee Sejak saya kembali saya sudah Ee berjumpa dengan saudara-saudara ee sebagian ya dalam dalam rapat-rapat terbatas dan dalam beberapa kali"
+  },
+  {
+   "t": 183.0,
+   "d": 43.0,
+   "text": "ee laporan tentang beberapa kejadian dan masalah tapi saya kira ini yang pertama kali kita secara lengkap hadir di sini dan Untuk itu saya ucapkan terima kasih kepada saudara-saudara sekalian maksud dan tujuan e daripada sidang paripurna kali ini tentunya akan saya ee memberi penjelasan tentang kunjungan [Musik] saya hal-hal yang EE menjadi hasil daripada kunjuan tersebut dan temuan-temuan yang saya dapatkan"
+  },
+  {
+   "t": 226.0,
+   "d": 50.0,
+   "text": "dari interaksi saya beberapa minggu itu kemudian setelah itu saya ingin menyampaikan berapa hal ee pengarahan saya [Musik] tentang program-program yang kita jalankan tapi yang pertama saya ingin ucapkan terima kasih kepada saudara-saudara [Musik] bahwa selama saya berada di luar negeri saudara-saudara terus bekerja sebagai satu tim Terima kasih wakil presiden Terima kasih para Menko Terima kasih semua menteri Kepala"
+  },
+  {
+   "t": 276.0,
+   "d": 51.0,
+   "text": "Badan Terima kasih semuanya saya monitor terus kejadian ee bencana erupsi gunung Lewo Tobi laki-laki pun saudara telah tangani dengan baik dengan cepat dengan kerja tim terima kasih saya pantau dari luar melalui vicon kelihatan terkendali dan kelihatan kita tanggap TNI Polri juga bertindak dengan Sigap sekali lagi terima kasih kepada saudara-saudara sekalian saya juga menyampikan apresiasi kepada kabinet merah"
+  },
+  {
+   "t": 327.0,
+   "d": 57.0,
+   "text": "putih Saya merasakan ada kerjaasama yang sangat baik Saya merasakan ada teamwork Saya merasakan kita kalau analogi tim sepak bola kelihatan kekompakan kelihatan semuanya kerja sama mungkin ini akibat retreat di Magelang kalau t hari saja begitu hasilnya mungkin kita tambah 5 hari lebih baik lagi ya bagaimana konsensus keputusanak Saya merasakan kemudian saya ingin ucapkan terima kasih saudara-saudara prestasi yang sudah kita"
+  },
+  {
+   "t": 384.0,
+   "d": 45.0,
+   "text": "berikan bisa dikatakan kita baru 1 bulan kita mengambil alih Ya ee administrasi negara ini ambil alih baru 1 bulan tapi kita sudah bisa memberi kepada rakyat hal-hal yang penting pertama penghapusan hutang di bidang UMKM yang sudah cukup lama untuk para petani para nelayan kita Saya kira ini sangat dirasakan ya sehingga mereka sekarang bisa lebih semangat lebih aktif kembali upah minimum juga naik terima kasih pihak-pihak yang bekerja Menteri Tenaga Kerja ya"
+  },
+  {
+   "t": 429.0,
+   "d": 57.0,
+   "text": "Menko PMK dan PM Terima kasih juga peningkatan kesejahteraan Guru Terima kasih terutama terima kasihnya ke Menteri Keuangan ya dan menteri pendidikan dasar dan menengah juga kita mampu menurunkan harga tiket pesawat 10% menjelang akhir tahun biasanya sudah lazim kalau akhir tahun harga tiket pesawat pasti naik terima kasih Menteri Perhubungan dan semua menteri-menteri buemen Terima kasih ini akibat teamwork yang baik di antara kita di antara saudara-saudara"
+  },
+  {
+   "t": 486.0,
+   "d": 47.0,
+   "text": "ya Saya merasakan di mana-mana rakyat merasa bahwa kita eh terus pada komitmen kita untuk selalu berpihak kepada rakyat berpihak kepada kepentingan nasional kita melanjutkan dasar-dasar yang sudah diletakkan oleh Presiden sebelumnya tapi kita bertekad untuk terus memperbaiki semua kebijakan memperbaiki sistem yang Perlu diperbaiki sebagai contoh juga saya juga sampaikan terima kasih kepada tim Menko pangan dan semua"
+  },
+  {
+   "t": 533.0,
+   "d": 58.0,
+   "text": "menteri-menteri yang berurusan dengan pangan kita dalam rapat terbatas terakhir beberapa hari yang lalu saya mendapat paparan yang sangat menggembirakan produksi pangan kita naik cadangan pangan kita mungkin terbesar selama beberapa tahun ini yang ada di gudang kita Saya kira mendekati 2 juta Ton dan sangat besar kemungkinan dan keyakinan saya tahun 225 kita tidak akan impor beras lagi bahkan cadangan kita cukup walaupun ini berita yang sangat"
+  },
+  {
+   "t": 591.0,
+   "d": 65.0,
+   "text": "baik dan ini sekali lagi akibat kerja keras saudara-saudara apresiasi saya juga kepada Menteri Pertanian dan timnya bulok badan pangan nasional Semua unsur menteri bwmn dan bmn yang berada di bawah pengawasan menteri buemen terima kasih langkah-langkah kita di akhir tahun 2024 juga karena dukungan Presiden Joko Widodo sebelumnya kita mampu mengatasi tahun ini yang tidak ringan karena kita hadapi Elnino sekaligus Lanina musim"
+  },
+  {
+   "t": 656.0,
+   "d": 47.0,
+   "text": "kering tapi kita mampu mengatasi mampu menghadapi di tengah memang suasana geopolitik yang tidak ringan masalah geopolitik berpengaruh dengan masalah pangan kalau terjadi suatu ketegangan dan krisis negara-negara yang biasanya ekspor pangan akan menghentikan ekspor mereka ini fenomena yang sudah terjadi berkali-kali karena itu Terima kasih Alhamdulillah kita sekarang berada dalam posisi yang semakin kuat dan semakin ke depan"
+  },
+  {
+   "t": 703.0,
+   "d": 63.0,
+   "text": "kita akan tambah kuat di bidang ini kita tidak Nanti hanya bebas dari impor beras tapi kita harus bebas dari impor semua as pangan saya juga menyampaikan Terima kasih saya apresiasi saya kepada Mendagri yang mengendalikan yang ikut bantu mengendalikan pemantauan inflasi Mendagri di mana mendag Oh ya Terima kasih mag ini mekanisme Saya kira yang dirintis di bawah pemerintah Pak Jokowi jarang dilaksanakan di banyak negara lain ya sebetulnya ini harus kita rahasiakan"
+  },
+  {
+   "t": 766.0,
+   "d": 57.0,
+   "text": "ini cara kita meng coba wartawan agak bisa didelete Enggak Yang tadi itu Terima kasih ini suatu apa ya mungkin enggak diajarkan di Fakultas Ekonomi ya kalau soalnya Bekas mantan presiden kita itu bekas walikota jadi ngerti ngerti Bagaimana mengendalikan inflasi itu dari lapangan saya terima kasih kepada saudara-saudara juga TNI Polri bin KPU sampaikan terima kasih saya ke KPU KPU bawu semua unsur yang telah berhasil melaksanakan Pilkada"
+  },
+  {
+   "t": 823.0,
+   "d": 55.0,
+   "text": "serentak dengan baik ya dengan aman dalam hari yang sama sekian ratus pemilihan berjalan dengan aman tertib dan berhasil bahwa di sana sini akan [Musik] ada ketidakpasan akan ada yang melaksanakan gugatan dan sebagainya itu tidak ada masalah itu bagian dari demokrasi Ya kita harus ingat kita adalah demokrasi Kalau tidak salah ketiga terbesar di dunia nomor India n du eh nomor sat Amerika nomor satu India nomor dua Amerika Serikat nomor tig kita dan kita"
+  },
+  {
+   "t": 878.0,
+   "d": 67.0,
+   "text": "berhasil melaksanakan ratusan Pilkada dengan tertib saya sendiri hadir di bonjong koneng di tempat saya saya lihat eh ceria cerah baik semuanya ya yang nakal wartawan nanya Bapak pilih siapa Ya jelaslah Masa saya mililih ya kan Tapi tetap rahasia walaupun jadi pemilihan itu langsung umum bebas dan rahasia jadi wartawan jangan nanya-nanya saya pilih sapa nyoblah siapa Saya kira saudara-saudara ee persiapan untuk akhir tahun Liburan Natal dan Tahun Baru 2 2025"
+  },
+  {
+   "t": 945.0,
+   "d": 67.0,
+   "text": "Mohon disiapkan dengan sebaik-baiknya ya Sekali lagi lintas Kementerian lintas lembaga bekerja memang di sini ee tentunya Menko infrastruktur Menteri Perhubungan ya Menteri PU Menteri Pariwisata Kapolri TNI yang akan menghadapi ee beban tugas yang meningkat menjelang akhir tahun ini tapi saya yakin dan kita mampu menyelenggarakan semua persiapan dengan sebaik-baiknya kita yakinkan bahwa masyarakat bisa menghadapi tahun baru dengan dengan aman ya dengan tertib dan"
+  },
+  {
+   "t": 1012.0,
+   "d": 53.0,
+   "text": "dengan lancar ini juga manfaat kita momentum kita untuk meningkatkan perekonomian kita kita juga sekali lagi ee mungkin pertama kali dalam berapa tahun ya kita bisa menurunkan harga tiket pesawat biasanya menjelang akhir tahun atau hari libur harga-harga naik kita bisa turunkan sedikit tiket pesawat untuk membantu masyarakat dan rakyat kita tapi kita juga waspada supaya juga penurunan tikat pesawat juga tidak merugikan industri penerbangan saudara-saudara ada beberapa"
+  },
+  {
+   "t": 1065.0,
+   "d": 20.0,
+   "text": "hal yang ingin juga saya sampaikan tetapi mungkin akan saya sampaikan lebih rinci Setelah kawan-kawan dari media bisa meninggalkan tempat Terima kasih saudara-saudara teman-teman dari media"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

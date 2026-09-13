@@ -1,0 +1,88 @@
+{
+ "id": "2025-01-01-highlight-kunjungan-kenegaraan-ke-prancis",
+ "video_id": "Lo02DeFW7OM",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "HIGHLIGHT: Kunjungan Resmi Kenegaraan Presiden Prabowo ke Prancis",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Lo02DeFW7OM",
+ "duration_s": 92,
+ "duration_hms": "1:32",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 107,
+ "unique_word_count": 76,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Lo02DeFW7OM",
+   "url": "https://www.youtube.com/watch?v=Lo02DeFW7OM",
+   "title": "HIGHLIGHT: Kunjungan Resmi Kenegaraan Presiden Prabowo ke Prancis",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 21.0,
+   "d": 9.0,
+   "text": "Pertama-tama saya menyampaikan terima kasih yang sebesar-besarnya, penghargaan yang setinggi-tingginya."
+  },
+  {
+   "t": 30.0,
+   "d": 12.0,
+   "text": "atas penerimaan yang begitu besar, yang begitu baik, penuh kehormatan untuk saya dan delegasi saya."
+  },
+  {
+   "t": 42.0,
+   "d": 11.0,
+   "text": "Hubungan Indonesia dan Prancis berada di tingkat menurut saya yang terbaik selama ini."
+  },
+  {
+   "t": 53.0,
+   "d": 27.0,
+   "text": "Dalam beberapa hal Indonesia dan Prancis memiliki sikap yang sama dan saat ini hubungan bilateral kita sangat baik. ini tidak lain adalah karena dukungan langsung dari Presiden Macron."
+  },
+  {
+   "t": 80.0,
+   "d": 12.0,
+   "text": "Keadaan global yang penuh ketidakpastian, penuh ketegangan, penuh konflik."
+  },
+  {
+   "t": 92.0,
+   "d": 7.0,
+   "text": "Kedua negara kita bisa mainkan suatu peranan yang positif."
+  },
+  {
+   "t": 99.0,
+   "d": 11.0,
+   "text": "Indonesia selalu akan mendorong semua usaha untuk memelihara perdamaian."
+  },
+  {
+   "t": 110.0,
+   "d": 3.0,
+   "text": "Semoga Indonesia dan Prancis terus melangkah maju dengan arah yang jelas, komitmen yang kuat."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

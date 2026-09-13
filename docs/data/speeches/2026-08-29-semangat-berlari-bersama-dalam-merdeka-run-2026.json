@@ -1,0 +1,78 @@
+{
+ "id": "2026-08-29-semangat-berlari-bersama-dalam-merdeka-run-2026",
+ "video_id": "rvojUOnKVXU",
+ "date": "2026-08-29",
+ "date_precise": true,
+ "title": "Semangat Berlari Bersama dalam Merdeka Run 2026, 29 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=rvojUOnKVXU",
+ "duration_s": 115,
+ "duration_hms": "1:55",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 163,
+ "unique_word_count": 100,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "rvojUOnKVXU",
+   "url": "https://www.youtube.com/watch?v=rvojUOnKVXU",
+   "title": "Semangat Berlari Bersama dalam Merdeka Run 2026, 29 Agustus 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 28.0,
+   "text": "[musik] Seru banget karena bangga banget udah 81 tahun Indonesia merdeka. Persiapannya 3 hari mempersiapkannya. Kita full color biar semangatnya full berwarna menyambut kemerdekaan [musik] yang ke-81 dengan gembira."
+  },
+  {
+   "t": 30.0,
+   "d": 32.0,
+   "text": "[musik] [musik] sangat e bangga ya karena ini pengalaman kesekian untuk ikut fan kategori ware dan juga sangat senang sekaliah gitu e untuk event tahun ini ee gokil sih karena ee panitia mengadakan untuk kategori wheelchair."
+  },
+  {
+   "t": 62.0,
+   "d": 2.0,
+   "text": "Jadi event ini lebih inklusif aja gitu."
+  },
+  {
+   "t": 64.0,
+   "d": 33.0,
+   "text": "Semoga ee setiap tahun acara ini sering diselenggarakan dan juga untuk lebih mengajak lebih banyak kawan-kawan di fabel baik itu wheelchair maupun eh diable kategori lainnya gitu ya. ini kan e merdekaan ini kan udah tahun kedua ya, tapi buat aku adalah tahun pertama dan aku senang banget e pagi ini rutenya steril e rutenya cenderung apa ya flat ya kemudian antusias dari masyarakat sangat luar [musik] biasa. Eh harapan saya untuk event Merdekaran semoga ini menjadi event tahunan yang memang ditunggu bukan hanya untuk teman-teman"
+  },
+  {
+   "t": 97.0,
+   "d": 12.0,
+   "text": "pelari yang ada di ibu kota tapi juga di Indonesia."
+  },
+  {
+   "t": 109.0,
+   "d": 8.0,
+   "text": "[musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

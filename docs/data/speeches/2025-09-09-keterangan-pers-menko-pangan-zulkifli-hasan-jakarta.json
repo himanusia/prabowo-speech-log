@@ -1,0 +1,82 @@
+{
+ "id": "2025-09-09-keterangan-pers-menko-pangan-zulkifli-hasan-jakarta",
+ "video_id": "kJW5fZ3UHg8",
+ "date": "2025-09-09",
+ "date_precise": true,
+ "title": "Keterangan Pers Menko Pangan Zulkifli Hasan, Jakarta, 9 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=kJW5fZ3UHg8",
+ "duration_s": 127,
+ "duration_hms": "2:07",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 272,
+ "unique_word_count": 144,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "kJW5fZ3UHg8",
+   "url": "https://www.youtube.com/watch?v=kJW5fZ3UHg8",
+   "title": "Keterangan Pers Menko Pangan Zulkifli Hasan, Jakarta, 9 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 8,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {
+  "Koperasi desa": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 1.0,
+   "text": "I, Pak."
+  },
+  {
+   "t": 1.0,
+   "d": 36.0,
+   "text": "Ya, baru saja selesai kami ee ratas dipimpin Bapak Presiden. Arahan beliau semua program harus ee dipercepat pelaksanaannya. Tidak boleh ada hambatan dengan alasan kertas. Artinya alasan itu aturanlah apa gitu ya. Ee antara lain misalnya pangan. Pangan apapun harus segera dilaksanakan. Nah, kita pangan ada dua. Yang satu optimalisasi kita sudah produksi lebih. Tapi yang kedua kan kita harus membangun lahan yang baru, sawah yang baru seperti di Wanam"
+  },
+  {
+   "t": 37.0,
+   "d": 33.0,
+   "text": "ya, di Sumatera Selatan, di Kalimantan Tengah dan lain-lain. Nah, khusus Wanam tadi sudah dibangun jalan, pelabuhan sudah hampir jadi, tapi kita akan segera menyelesaikan soal tata ruangnya ya kan itu ada kawasan sudah di timd sudah ada tata ruang untuk segera kita akan selesaikan percepatan perubahan fungsinya satu. Nah, kemudian yang kedua, Koperasi Desa Merah Putih juga harus segera agar sampai akhir tahun ini bisa berjalan dengan cepat. Yang ketiga, ee Kampung Nayan atau Desa Nelayan ya."
+  },
+  {
+   "t": 70.0,
+   "d": 24.0,
+   "text": "tahun ini direncanakan 100 desen lain ini diminta percepat juga projek ee bukan project ya apa namanya percepatan percepatan untuk ee tidak hanya pangan dalam artian karbohidrat tapi juga protein. Nah, Menteri Kelautan Perikanan akan membangun 20.000 ee apa namanya?"
+  },
+  {
+   "t": 94.0,
+   "d": 30.0,
+   "text": "tambak itu juga diminta untuk dipercepat tahun ini dan tahun depan harus bisa diselesaikan 20.000 dulu dari target 70.000 hektar. Nah, tadi ada Menteri Keuangan kira-kira itu program itu sehingga ee bisa didengar langsung oleh Kementerian Keuangan sehingga ini bisa sinkron ya ee dan bisa cepat ee dilaksanakan. Itu kira-kira arahan Bapak Presiden tadi ikan ikan ya di Pulau Jawa kan di sini Jawa Barat ya, Pak. Untuk harga berapa, Kak? Masih ada keluhan, Pak."
+  },
+  {
+   "t": 124.0,
+   "d": 3.0,
+   "text": "Itu itu kami enggak bahas yang bahas itu tadi. Makasih ya. Makasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

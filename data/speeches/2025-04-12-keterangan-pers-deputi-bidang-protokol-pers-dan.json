@@ -1,0 +1,63 @@
+{
+ "id": "2025-04-12-keterangan-pers-deputi-bidang-protokol-pers-dan",
+ "video_id": "Bx59-VmSPvY",
+ "date": "2025-04-12",
+ "date_precise": true,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres, Kairo, 12 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Bx59-VmSPvY",
+ "duration_s": 76,
+ "duration_hms": "1:16",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 83,
+ "unique_word_count": 64,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Bx59-VmSPvY",
+   "url": "https://www.youtube.com/watch?v=Bx59-VmSPvY",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres, Kairo, 12 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 21.0,
+   "text": "Baik, Teman-teman. Setelah pertemuan Tet di Istana Al-Ittihadiah, Presiden Prabowo dan Presiden Alisi melakukan penandatanganan pernyataan bersama kemitraan strategis."
+  },
+  {
+   "t": 21.0,
+   "d": 52.0,
+   "text": "Pernyataan kemitraan strategis ini menandai hubungan perjalanan panjang diplomatik antara Indonesia dan Mesir untuk menuju kemitraan bersama yang lebih tinggi lagi. ini merupakan tonggak sejarah bagi Indonesia karena kemitraan strategis Indonesia dengan Mesir dilakukan dan ditandatangani langsung oleh kedua kepala negara. Tentu ini adalah ee hasil yang positif dari kunjungan Bapak Presiden ke Republik Arab Mesir. Sementara itu tambahan dari kami. Terima kasih."
+  },
+  {
+   "t": 73.0,
+   "d": 3.0,
+   "text": "Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,78 @@
+{
+ "id": "2026-01-21-tiba-di-zurich-untuk-hadiri-world-economic",
+ "video_id": "juAwIQrvRMw",
+ "date": "2026-01-21",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Zurich untuk Hadiri World Economic Forum 2026, Swiss, 21 Januari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=juAwIQrvRMw",
+ "duration_s": 151,
+ "duration_hms": "2:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 223,
+ "unique_word_count": 118,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "juAwIQrvRMw",
+   "url": "https://www.youtube.com/watch?v=juAwIQrvRMw",
+   "title": "Presiden Prabowo Tiba di Zurich untuk Hadiri World Economic Forum 2026, Swiss, 21 Januari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 10.0,
+   "d": 14.0,
+   "text": "Okay."
+  },
+  {
+   "t": 24.0,
+   "d": 74.0,
+   "text": "Selamat datang juga sempat beberapa momen ya ee saya memperkenalkan diri dan mengucapkan selamat datang. Saya senang bahwa Pak Prabowo bisa hadir ke Swiss akhirnya ya, karena kita sudah lama dari tahun lalu juga sudah menantikannya. Eh, kami juga satu rombongan ada 12 orang yang datang sengaja untuk menyambut kehadiran Bapak Prabowo di sini. Ya, kami sangat senang sekali ya. Eh, jadi ketika Bapak RI 1"
+  },
+  {
+   "t": 98.0,
+   "d": 24.0,
+   "text": "datang ke saya pasti ada perasaan deg-degan juga. Dan pada saat saya bersalaman dengan Bapak, saya menyampaikan shonen aben karena bahasa Jerman selamat malam karena saya tahu Bapak bisa bahasa Jerman dan juga saya bilang bahwa kita adalah mahasiswa dari yang ada di Swiss dan Listenstein e dan kita ada representasi dari PPI Swiss dan Listenstein. saya juga deg-degan tapi ee Pak Presiden juga merupakan orang yang"
+  },
+  {
+   "t": 122.0,
+   "d": 12.0,
+   "text": "saya hormati sekali sehingga ee saya juga merasa familiaritas dengan beliau dan saya juga ingin berterima kasih kepada beliau atas jasanya kepada negara kami Republik Indonesia."
+  },
+  {
+   "t": 134.0,
+   "d": 24.0,
+   "text": "Ee dengan kehadiran ini ee kita tahu bahwasanya ada agenda e diplomasi dengan negara-negara lain dan juga ada event World Economic Forum. Semoga kita bisa mendapatkan ee investasi yang bagus, investasi yang banyak supaya kita bisa berkembang bersama dalam segi sumber daya manusia dan juga bisa memanfaatkan sumber daya alam dengan lebih sustainable lagi dan lebih baik lagi supaya Indonesia lebih baik lagi ke"
+  },
+  {
+   "t": 158.0,
+   "d": 3.0,
+   "text": "depannya di sisi"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

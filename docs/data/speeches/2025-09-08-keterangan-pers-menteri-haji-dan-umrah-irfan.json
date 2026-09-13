@@ -1,0 +1,117 @@
+{
+ "id": "2025-09-08-keterangan-pers-menteri-haji-dan-umrah-irfan",
+ "video_id": "sHqZZWfRigg",
+ "date": "2025-09-08",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Haji dan Umrah Irfan Yusuf, Jakarta, 8 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=sHqZZWfRigg",
+ "duration_s": 195,
+ "duration_hms": "3:15",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 24,
+ "token_count": 356,
+ "unique_word_count": 179,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "sHqZZWfRigg",
+   "url": "https://www.youtube.com/watch?v=sHqZZWfRigg",
+   "title": "Keterangan Pers Menteri Haji dan Umrah Irfan Yusuf, Jakarta, 8 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 5,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 13.0,
+   "text": "Baik, Teman-teman sekalian, tadi jam saya di kantor, saya ditelepon oleh Light Col Teddy untuk datang ke istana dengan mengenakan seragam jaz lengkap."
+  },
+  {
+   "t": 13.0,
+   "d": 2.0,
+   "text": "Saya tidak tahu apa yang akan dilakukan."
+  },
+  {
+   "t": 15.0,
+   "d": 6.0,
+   "text": "Ternyata tadi saya dilantik menjadi Menteri Haji dan Umrah."
+  },
+  {
+   "t": 21.0,
+   "d": 35.0,
+   "text": "Ee setelah pelantikan kami di undang Presiden ke ruangan beliau berbicara banyak hal dan terkait dengan haji beliau menyampaikan apapun yang perlu dilakukan lakukan untuk memberikan pelayanan terbaik pada jemaah haji kita. Apa yang disampaikan oleh Pak Presiden, penugasan kepada kami sebagai Menteri Haji dan Wakil Menteri Haji untuk Bang Danil merupakan amanah dan tanggung jawab yang berat. Saya katakan berat karena 10 bulan terakhir"
+  },
+  {
+   "t": 56.0,
+   "d": 7.0,
+   "text": "saya tahu persis bagaimana medan haji baik di Indonesia maupun di ee di Saudi."
+  },
+  {
+   "t": 63.0,
+   "d": 15.0,
+   "text": "Karena itu tadi saya sangat bergembira bahwa Presiden menyampaikan lakukan apa yang perlu dilakukan untuk memberikan pelayanan terbaik kepada jemah haji kita. Saya kira itu tapi PR spesifiknya apa?"
+  },
+  {
+   "t": 78.0,
+   "d": 16.0,
+   "text": "harga haji atau banyak hal yang harus kita lakukan termasuk berpikiran atau perupayakan bagaimana biaya haji lebih bersahabat untuk masyarakat Indonesia termasuk itu. Terus kalau ada haji seperti apa?"
+  },
+  {
+   "t": 94.0,
+   "d": 9.0,
+   "text": "Ee besok kami danantara akan ke jedah Makkah sekali lagi untuk memastikan kembali lokasi yang akan kita ambil."
+  },
+  {
+   "t": 103.0,
+   "d": 13.0,
+   "text": "Karena ee bulan kemarin kita sudah melihat beberapa lokasi calon lokasi dan insyaallah besok kita akan putuskan mana yang akan kita ambil."
+  },
+  {
+   "t": 116.0,
+   "d": 18.0,
+   "text": "E ibadah haji tahun ee mungkin ada beberapa tower dan satu dua tower diharapkan tahun 2028 bisa dipakai. yang membedakan ini atau baga ee dari apa yang dibedakan dengan kemarin?"
+  },
+  {
+   "t": 134.0,
+   "d": 17.0,
+   "text": "Ee di sini wewenangnya jauh lebih besar dan wewenang ini tentu juga terkait dengan bagaimana kita berkoordinasi dengan teman-teman Kementerian Haji di Saudi sehingga kita bisa berbicara dengan lebih ee lebih ee apple tole ya."
+  },
+  {
+   "t": 151.0,
+   "d": 41.0,
+   "text": "atau masa di depan akan lebih insyaallah kita mengharapkan dukungan teman-teman media kalau ada suatu yang kurang beres bagi kita tolong kami diingatkan termasuk ada ee haji dan umrah ya haji ya umrah bukan umrah itu wewenangnya dari masing-masing travel ee biro umrah oke anggarannya bagaimana anggaran anggaran tidak ada anggaran baru anggaran kita badan penyaji yang lama ditambah peralihan dari anggaran ee Dirjen PHU yang dialihkan ke Kementerian Haji. Saya kira itu ya. Terima kasih."
+  },
+  {
+   "t": 192.0,
+   "d": 3.0,
+   "text": "Selamat pagi"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

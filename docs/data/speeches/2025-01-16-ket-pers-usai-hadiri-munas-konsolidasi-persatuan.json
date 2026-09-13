@@ -1,0 +1,62 @@
+{
+ "id": "2025-01-16-ket-pers-usai-hadiri-munas-konsolidasi-persatuan",
+ "video_id": "1x-bYjCz_Jk",
+ "date": "2025-01-16",
+ "date_precise": true,
+ "title": "Ket Pers Presiden Prabowo Usai Hadiri Munas Konsolidasi Persatuan Kadin, Jakarta, 16 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=1x-bYjCz_Jk",
+ "duration_s": 79,
+ "duration_hms": "1:19",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 107,
+ "unique_word_count": 80,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "1x-bYjCz_Jk",
+   "url": "https://www.youtube.com/watch?v=1x-bYjCz_Jk",
+   "title": "Ket Pers Presiden Prabowo Usai Hadiri Munas Konsolidasi Persatuan Kadin, Jakarta, 16 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Korupsi dan kebocoran": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 61.0,
+   "text": "izin Pak tadi kan sempat membahas banyak keterlibatan swasta lebih besar gitu di pemerintahan Bapak nah ini seperti apa nanti untuk pembangunan ke depannya terutama di bidang infrastruktur ya kita serahkan ke swasta swasta biar berperanan lebih kita harapkan mereka lebih efisien tepat waktu inovatif dan bisa membawa di manurus zakat itu kira ada pengurusnya tapi yang jelas dari pemintah si semu anak-anakonesiaan kita beranahun Li ini oh untuk efisiensi ee"
+  },
+  {
+   "t": 61.0,
+   "d": 18.0,
+   "text": "kemudian ee dari Pemda juga ingin ikut serta para gubernur para bupati ing ikut serta Monggo kita buka siapapun yang mau ikut serta boleh yang penting efisien yang penting sampai ke sasaran dan tidak ada kebocoran"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

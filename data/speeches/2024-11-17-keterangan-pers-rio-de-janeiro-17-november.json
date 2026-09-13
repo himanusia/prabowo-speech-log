@@ -1,0 +1,83 @@
+{
+ "id": "2024-11-17-keterangan-pers-rio-de-janeiro-17-november",
+ "video_id": "21bu5Og0qXc",
+ "date": "2024-11-17",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Subianto, Rio de Janeiro, 17 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=21bu5Og0qXc",
+ "duration_s": 272,
+ "duration_hms": "4:32",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 35,
+ "token_count": 418,
+ "unique_word_count": 207,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "21bu5Og0qXc",
+   "url": "https://www.youtube.com/watch?v=21bu5Og0qXc",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, Rio de Janeiro, 17 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 3,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 12
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 50.0,
+   "text": "tadi kan memulai lawatan pertam dengan bertemu sekj PBB tadi apa saja sihankan Pak jadi Sekjen PBB sangat menghargai sikap Indonesia dalam berbagai masalah terutama masalahimate climate change Indonesia sangat mendukung upaya-upaya untuk mengil langkah-langkah ya angi eh emisi karbon dan eh Indonesia memang eh kita berniat dan kita punya rencana dan kita punya kemampuan untuk benar-benar e menuju eh energi"
+  },
+  {
+   "t": 50.0,
+   "d": 57.0,
+   "text": "eh terbarukan renewable energ kita sangat sangat punya potensi dan sangat mampu ee E renewable dan eh eh green Green jadi kita nanti dari dari sumber-sumber energi geothermal eh hidro kemudian eh panas matahari dan terutama dari eh tanaman bio bio energy biofuel jadi eh kita sangat mendukung beliau berharap kita terus Indonesia dipandang cukup penting sekarang dan beliau bergharap Indonesia terus mengambil sikap yang proaktif dan"
+  },
+  {
+   "t": 107.0,
+   "d": 46.0,
+   "text": "menduk saya jawab bahwa kita akan mendukung sikap PBB kita akanenduk sik belia PBB punyaik dengan prinsip juga masalah Palestina Beliau juga punya sikap yang yang Tegas ee penuh prinsip mengutamakan ee Apa hukum internasional tadi Bicara soal Palestina juga ya pak e upaya utama untuk mencapai target tersebut itu apa paknya nanti Indonesia melakukan langk Apa masalah apaergi yang terbarukan itu Iya kita kita akan kita menuju bahwa kita nanti eh berharap"
+  },
+  {
+   "t": 153.0,
+   "d": 30.0,
+   "text": "eh net Zero emission kita menuju ke situ ya Pak Prabowo tadi kan eh disebut oleh Pak Serj Antonio bahwa Indonesia ini adalah strategic partner Pak gitu Dan diharapkan eh kehadiran Indonesia Nah apakah Bapak berencana Nanti ke depannya juga bakal Eh istilahnya selalu hadir gitu Pak ya di UN general assembly agar Indonesia lebih hadir gitu ya kita lihat ya perkembangan ya tentunya eh saya fokus sebetulnya ya"
+  },
+  {
+   "t": 183.0,
+   "d": 41.0,
+   "text": "Ee bulan-bulan Pertama tahun-tahun Pertama saya harus fokus untuk memperbaiki eh ekonomi dalam negeri ya domestik eh saya kebetulan begitu saya dilantik ada g20 ada ada apek saya harus datang dan juga karena karena g20 dan apek itu berdekatan dan jauh sekalian saya manfaatkan untuk mampir ke berapa negara Tiongkok Amerika nanti pulang dari sini saya akan ke ke Inggris untuk ketemu bicara masalah ekonomi juga"
+  },
+  {
+   "t": 224.0,
+   "d": 37.0,
+   "text": "Ee kemungkinan-kemungkinan kita bisa narik investasi dan dari situ saya juga berusaha untuk mampir di Timur Tengah ee berapa negara di Timur Tengah hanya kita lihat apakah tanggalnya cocok atau tidak tapi saya ingin segera pulang sebetulnyaendang ya Pak Terima kasih Pak kalau yang g20 sedikit Pak mungkin Apa sikap Indonesia nanti akan disampaikan di G2 besok eh ya kita tetap eh akan menyuarakan bahwa perekonomian dunia sangat"
+  },
+  {
+   "t": 261.0,
+   "d": 11.0,
+   "text": "tergantung stabilitas dan kita mendorong eh stabilitas mendorong perdamaian tapi terutama mendorong eh The rule of Law Ya okey terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

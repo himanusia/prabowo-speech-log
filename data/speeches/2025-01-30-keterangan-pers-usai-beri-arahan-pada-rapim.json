@@ -1,0 +1,68 @@
+{
+ "id": "2025-01-30-keterangan-pers-usai-beri-arahan-pada-rapim",
+ "video_id": "XrWa6uh_J70",
+ "date": "2025-01-30",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Beri Arahan pada Rapim TNI Polri Tahun 2025, 30 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=XrWa6uh_J70",
+ "duration_s": 180,
+ "duration_hms": "3:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 246,
+ "unique_word_count": 135,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "XrWa6uh_J70",
+   "url": "https://www.youtube.com/watch?v=XrWa6uh_J70",
+   "title": "Keterangan Pers Presiden Prabowo Usai Beri Arahan pada Rapim TNI Polri Tahun 2025, 30 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 5,
+  "nasional_dan_identitas": 14
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 5.0,
+   "d": 59.0,
+   "text": "halo Pak haloak Halo Bapak sehat Pakak tadi pesan apa pak yangu disampikan pak di ya Saya kira e tadi saya sampaikan kepada para pimpinan tnil saya sampaikan peran mereka sangat penting mereka penegak kedaulatan mereka penjaga kedaulatan mereka penegak hukum jadi eh saya tekankan mereka harus menjadi pemimpin yang baik saya ingatkan bahwa mereka diharapkan oleh rakyat mereka diberi kepercayaan yang besar oleh rakyat rakyat yang membiayai TNI dan"
+  },
+  {
+   "t": 64.0,
+   "d": 54.0,
+   "text": "Polri TNI dan Polri harus mengayomi rakyat harus melindungi rakyat dan saya tentunya minta tekni dan pori kita semua selalu mawas diri selalu mengoreksi diri selalu menertibkan diri selalu menjaga disiplin dan EE saya tekankan mereka harus selalu di tengah-tengah rakyat harus selalu bersama rakyat membangun jadi TNI dan polilk kita adalah tentara rakyat dan polisi rakyat Saya kira itu papuaak Pak dalam rap secara secara saya bicara secara"
+  },
+  {
+   "t": 118.0,
+   "d": 48.0,
+   "text": "nasional Semua menembalkan Malia Pak I itu sedang kita tentunya Berharap ada investigasi Iya kan Tapi Sekali lagi saya ingatkan bahwa Jangan mau ikut-ikut dalam kegiatan ilegal kalau nyelundup ke negara asing risikonya negara asing akan bertindak siap jadi rakyat kita jangan mau dibohongi oleh sindikat-sindikat yang berjanji ini berjanji itu Ya kita kita waspada kita Ingatkan tapi kita juga ee yakin bahwa pihak Malaysia akan melaksanakan penyelidikan yang terbaik"
+  },
+  {
+   "t": 166.0,
+   "d": 19.0,
+   "text": "soal soal penembakan itu juga disempat dibicarakan dengan paraman K Anwar enggak P itu secara garis besar kita bicarakan wnya akan dipulangkan dipulangkan Iya nanti ada yang ngurus yaak Oke terima kasih kasih pakasih Pak pak presiden Terima kasih pak presiden"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "pidato"
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false
+}

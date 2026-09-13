@@ -1,0 +1,92 @@
+{
+ "id": "2026-08-19-65-ton-logistik-tambahan-dikirim-dari-total",
+ "video_id": "kKcxPvGjzGM",
+ "date": "2026-08-19",
+ "date_precise": true,
+ "title": "65 Ton Logistik Tambahan dikirim dari Total 253 Ton yang sudah di NTT, 19 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=kKcxPvGjzGM",
+ "duration_s": 166,
+ "duration_hms": "2:46",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 281,
+ "unique_word_count": 146,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "kKcxPvGjzGM",
+   "url": "https://www.youtube.com/watch?v=kKcxPvGjzGM",
+   "title": "65 Ton Logistik Tambahan dikirim dari Total 253 Ton yang sudah di NTT, 19 Agustus 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 4,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 10.0,
+   "d": 28.0,
+   "text": "Izin, Pak Menteri Sosial, Pak Wamensos dan Lanut, [musik] kemudian para penerbang. Yang pertama, atas instruksi Bapak Presiden, hari ini hari kelima pasca bencana tanggal 19 Agustus [musik] 2026 jam .00 pagi kembali diberangkatkan lima pesawat menuju NTT. [musik] Hari ini total membawa 65 ton logistik."
+  },
+  {
+   "t": 38.0,
+   "d": 26.0,
+   "text": "Jadi sejak hari pertama 27 ton sampai dengan hari kelima ini [musik] sudah terangkut 253 ton logistik, baik itu makanan, minuman, tenda, perlengkapan kesehatan, dan perlengkapan lainnya yang dibutuhkan oleh warga terdampak di NTT. Itu yang pertama. Kemudian yang [musik] kedua di sana poskonya ada dua."
+  },
+  {
+   "t": 64.0,
+   "d": 40.0,
+   "text": "Pertama di Labuan Bajo, kemudian yang kedua di [musik] Maumere. Di Labuhan Bajo itu logistik yang di sana akan [musik] didorong ke kabupaten lainnya di Manggarai, Manggarai Barat Timur, kemudian [musik] di Ngada ya. Kemudian di Posco 2 di Maumere. [musik] di sana akan didorong ke sika nde kemudian [musik] Nage Keo. Nah, semua logistik tadi itu menggunakan jalur udara lewat helikopter, kemudian pesawat kasa, [musik] pesawat yang lebih"
+  },
+  {
+   "t": 104.0,
+   "d": 9.0,
+   "text": "kecil, kemudian yang kedua lewat laut ada tiga [musik] KRI Tal yang sudah di sana."
+  },
+  {
+   "t": 113.0,
+   "d": 6.0,
+   "text": "Kemudian satu kapal rumah sakit berlabuh di sana. Kemudian juga melalui jalur darat."
+  },
+  {
+   "t": 119.0,
+   "d": 38.0,
+   "text": "Laporan dari Menteri PU, seluruh jalur darat sudah dapat dilewati sejak hari kedua. [musik] Kemudian yang ketiga, pemerintah terus memantau penanganan bencana di sana sehingga diharapkan pelaksanaan [musik] penanganan dapat berjalan cepat. Seluruh logistik dapat [musik] secepat mungkin diterima oleh masyarakat. Demikian dari kami ada tambahan pemesos. [musik] Saya kira itu dari saya. Terima kasih kepada seluruh aparat yang bertugas, [musik] kepada warga, kepada relawan,"
+  },
+  {
+   "t": 157.0,
+   "d": 16.0,
+   "text": "kepada siapapun yang turut membantu penanganan bencana ini sehingga logistik dapat terkirim secepat mungkin dan dapat dirasa manfaatnya secepat mungkin oleh warga yang terdampak. Terima kasih. Mari kita doakan bersama."
+  },
+  {
+   "t": 173.0,
+   "d": 3.5,
+   "text": "[musik] Wasalamualaikum warahmatullahi wabarakatuh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,78 @@
+{
+ "id": "2025-01-01-ucapkan-selamat-hari-pers-nasional-ke-79-tahun",
+ "video_id": "Sw60jVMNOiA",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo Ucapkan Selamat Hari Pers Nasional ke-79 Tahun 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Sw60jVMNOiA",
+ "duration_s": 230,
+ "duration_hms": "3:50",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 29,
+ "token_count": 297,
+ "unique_word_count": 165,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Sw60jVMNOiA",
+   "url": "https://www.youtube.com/watch?v=Sw60jVMNOiA",
+   "title": "Presiden Prabowo Ucapkan Selamat Hari Pers Nasional ke-79 Tahun 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 25
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 47.0,
+   "text": "Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh salam sejahtera bagi kita sekalian Shalom salve Om Swastiastu namo Budha salam kebajikan saudara-saudara sekalian yang saya hormati dan saya banggakan para Insan pers setanah air sayaabanto presidenblik atas nama pemerintah Republik Indonesia dan atas nama pribadi mengucapkan selamat hari pers nasional ke-79 kepada seluruh Insan pers di Indonesia selama 8 dekade ini Pers"
+  },
+  {
+   "t": 49.0,
+   "d": 36.0,
+   "text": "Indonesia telah menjadi pilar penting dalam kehidupan demokrasi menyuarakan kebenaran dan memberikan informasi yang akurat kepada masyarakat Indonesia saya apresiasi kerja keras para jurnalis wartawan dan insan pers dan media yang terus menjalankan pengabdiannya dengan dedikasi tinggi meskipun tantangan yang dihadapi semakin Kompleks saya juga memahami bahwa dunia pers saat ini menghadapi berbagai dinamika baik dari dalam dan luar negeri saudara-saudara"
+  },
+  {
+   "t": 85.0,
+   "d": 47.0,
+   "text": "sekalian pers yang profesional yang punya integritas adalah aset bagi suatu bangsa tetapi perlu saya ingatkan bahwa Pers Indonesia harus selalu mengutamakan kepentingan bangsa negara dan rakyat Indonesia harus waspada terhadap usaha-usaha untuk mengendalikan pemikiran dan mempengaruhi jalannya opini-opini rakyatun modal yang besar ada kecenderungan di dunia ini mereka-mereka yang punya modal besar menguasai media dan ingin"
+  },
+  {
+   "t": 132.0,
+   "d": 46.0,
+   "text": "mempengaruhi masyarakat negara-negara tertentu walaupun kita menjunjung tinggi kebebasan pers kita harus waspada terhadap penyebaran berita-berita yang tidak benar berita-berita hoax penyebaran kebencian penyebaran ketidakpercayaan terhadap sesama warga negara upaya-upaya pecah Bela ini harus selalu Kita waspadai saudara-saudara Pers Indonesia harus selalu menjadi pers yang dinamis pers yang bertanggung jawab pers"
+  },
+  {
+   "t": 178.0,
+   "d": 51.0,
+   "text": "yang juga memiliki suatu pengertian tentang apa yang menjadi kepentingan bangsa dan negara saya percaya Pers Indonesia pada ujungnya akan selalu setia kepada cita-cita pendiri bangsa Indonesia Pers Indonesia harus jadi pers yang Pancasila pers yang terlibat dalam pembangunan bangsa yang komit terhadap negara kesatuan Republik Indonesia terima kasih wassalamualaikum warahmatullahi wabarakatuh salam sejahtera bagi kita sekalian Shalom salve om Santi Santi Santi om"
+  },
+  {
+   "t": 229.0,
+   "d": 3.0,
+   "text": "namo budaya salam kebajikan Terima kasih merdeka"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

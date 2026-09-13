@@ -1,0 +1,83 @@
+{
+ "id": "2024-11-08-keterangan-pers-pangkalan-tni-au-halim-perdanakusuma",
+ "video_id": "YQRNLmSKzHU",
+ "date": "2024-11-08",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo, Pangkalan TNI AU Halim Perdanakusuma, 8 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=YQRNLmSKzHU",
+ "duration_s": 365,
+ "duration_hms": "6:05",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 44,
+ "token_count": 386,
+ "unique_word_count": 195,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "YQRNLmSKzHU",
+   "url": "https://www.youtube.com/watch?v=YQRNLmSKzHU",
+   "title": "Keterangan Pers Presiden Prabowo, Pangkalan TNI AU Halim Perdanakusuma, 8 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 5,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 15
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 47.0,
+   "text": "Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh salam sejahtera kita sekalian Shalom Om Swastiastu namo budhaya saudara-saudara sekalian saudara-saudara sebangsa dan setanah air di manaun anda berada e saudara-saudara rekan-rekan media Pada hari ini saya serta delegasi dari pemerintah Republik Indonesia akan melaksanakan kunjungan ke luar negeri pertama memenuhi undangan dari Presiden Republik Rakyat"
+  },
+  {
+   "t": 50.0,
+   "d": 56.0,
+   "text": "Tiongkok Kemudian dari Beijing saya akan terbang langsung ke Washington dcuh undangan dari Presiden Amerika Serikat dari situ ee saya akan hadiri KTT apek di Peru di lima Peru dan dari Peru hadir KTT g20 di Brazil dan dari Brazil saya akan terbang langsung ee memenuhi undangan dari perdana menteri Kerajaan Inggris dan sesudah itu kemungkinan saya akan mampir di beberapa ee negara Timur Tengah dalam perjalanan kembali ke"
+  },
+  {
+   "t": 106.0,
+   "d": 58.0,
+   "text": "Republik Indonesia ee ini saya kira menunjukkan e bahwa Indonesia sangat dihormati dan Indonesia dirasakan ee perlu untuk diundang dan diadakan pertemuan-pertemuan ee bilateral dan multilateral membicarakan masalah-masalah yang EE sangat penting bagi keadaan tidak hanya ekonomi tapi di suasana geopolitik saat ini yang penuh ketegangan Saya kira peranan Indonesia sikap Indonesia sangat Ditunggu oleh banyak"
+  },
+  {
+   "t": 164.0,
+   "d": 62.0,
+   "text": "pihak Saya kira ini kehormatan bagi kita dan eh ya kita akan memelihara hubungan yang baik dengan semua pihak saya sudah memberi instruksi kepada wakil presiden dan kabinet Merah Putih hal-hal yang di di gunakan sebagai pedoman Saya kira tidak ada yang luar biasa tapi saya juga memberi petunjuk dalam upaya kita minggu-minggu ini satu dua bulan ke depan kita siapkan benar-benar semua persiapan untuk kita mulai bekerja keras tahun 25 untuk memenuhi program-program"
+  },
+  {
+   "t": 226.0,
+   "d": 63.0,
+   "text": "yang sudah kita canangkan khusus dalam upaya besar kita untuk menciptakan pemerintah yang bersih bersih dari penyelewengan bersih dari ketidak efisiensi bersih dari manipulasi bersih dari kongkikong dengan piak-viak lain Saya memberi petunjuk kepada semua pihak dalam pemerintah terutama kabinet merah putih untuk bertindak dengan tegas tapi dengan arif dan tidak boleh ada unsur-unsur politis dalam melaksanakan ee Katakanlah kampanye"
+  },
+  {
+   "t": 289.0,
+   "d": 51.0,
+   "text": "ini harus tegas harus berani tapi juga upayanya harus bersih dari muatan-muatan politis dan dari dendam-dendam politik yang kita ingin ciptakan adalah suasana pemerintah bersih Saya kira itu yang ingin saya sampaikan ee saya mohon dua rustu dan saya percaya wakil presiden dan semua kabinet merah putih akan menjalankan pemerintahan dengan sebaik-baiknya Saya kira itu dari saya terima kasih wasalamualaikum warahmatullahi wabarakatuh Shalom om Santi Santi Santi"
+  },
+  {
+   "t": 340.0,
+   "d": 28.0,
+   "text": "om namo budhaya Terima kasih Selamat pagi terima kasih Terima kasih semuanya Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

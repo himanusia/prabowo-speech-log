@@ -1,0 +1,88 @@
+{
+ "id": "2025-09-02-keterangan-pers-mensesneg-prasetyo-hadi-pangkalan-tni",
+ "video_id": "aefht08o_64",
+ "date": "2025-09-02",
+ "date_precise": true,
+ "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Pangkalan TNI AU Halimperdanakusuma, 2 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=aefht08o_64",
+ "duration_s": 203,
+ "duration_hms": "3:23",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 304,
+ "unique_word_count": 157,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "aefht08o_64",
+   "url": "https://www.youtube.com/watch?v=aefht08o_64",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Pangkalan TNI AU Halimperdanakusuma, 2 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 4,
+  "pertahanan_dan_keamanan": 3,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 35.0,
+   "text": "Ee baik, terima kasih. Ee pada malam hari ini ee Bapak Presiden ee Prabowo Supianto ee bertolak menuju ke ee Beijing, China untuk ee memenuhi undangan dari Presiden Sijin yang sesungguhnya undangan tersebut ee mengharapkan kehadiran Bapak Presiden Prabowo dari tanggal tanggal ee 31."
+  },
+  {
+   "t": 36.0,
+   "d": 13.0,
+   "text": "Namun karena adanya dinamika di dalam negeri, maka kemudian Bapak Presiden ee Prabowo memutuskan untuk menunda keberangkatan."
+  },
+  {
+   "t": 49.0,
+   "d": 35.0,
+   "text": "Dan dalam beberapa hari ee belakangan ini ada permohonan yang sangat dari pemerintah Tiongkok untuk dapatnya Bapak Presiden Prabowo Subianto e menghadiri ee paling tidak di satu hari di acara ee peringatan 80 tahun dan ee di acara Parade ee militer pemerintah e Tiongkok."
+  },
+  {
+   "t": 84.0,
+   "d": 31.0,
+   "text": "Namun demikian ee Bapak Presiden di dalam mengambil keputusan tentu saja tetap mempertimbangkan segala sesuatu yang berkenaan dengan e dinamika beberapa hari di tanah air ya yang beliau menyampaikan ee ucapan terima kasih kepada seluruh masyarakat Indonesia, kepada seluruh jajaran aparat baik aparat kepolisian maupun aparat ee TNI kepada seluruh jajaran pemerintahan baik tingkat pusat, kemudian kepala"
+  },
+  {
+   "t": 115.0,
+   "d": 26.0,
+   "text": "daerah, gubernur, bupati yang ee dengan cepat dapat saling bekerja sama menciptakan ee rasa persatuan, rasa kerukunan, rasa perdamaian di antara sesama anak bangsa sehingga dinamika yang terjadi beberapa hari belakangan ini dapat segera ee pulih dengan ee secepat-cepatnya."
+  },
+  {
+   "t": 141.0,
+   "d": 40.0,
+   "text": "Satu hari ini juga beliau memonitor seluruh keadaan dan mendapatkan laporan dari seluruh ee jajaran terkait bahwa kehidupan masyarakat telah kembali berangsur pulih seperti sediakala. Oleh karena itulah e demi menjaga hubungan baik dengan pemerintah ee Tiongkok, Bapak Presiden memutuskan untuk ee beliau berangkat malam ini dan ee keesokan malam beliau sudah akan kembali ke tanah air. Saya kira demikian ada agenda lain dalam"
+  },
+  {
+   "t": 181.0,
+   "d": 11.0,
+   "text": "ee tentu saja beliau akan ee berjumpa dengan para tokoh-tokoh ee pemimpin dunia terutama presidensi."
+  },
+  {
+   "t": 192.0,
+   "d": 12.0,
+   "text": "Nah, kami berharap, kita semua berharap mungkin di sela-sela ee waktu kunjungan beliau ee tentu ada pembicaraan-pembicaraan yang ee tentu kita berharap membawa kebaikan bagi hubungan Indonesia dan pemerintah Tiongkok."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,88 @@
+{
+ "id": "2025-10-25-keterangan-pers-mensesneg-dan-kapolri-jakarta-25",
+ "video_id": "6Zmdg0j4Eek",
+ "date": "2025-10-25",
+ "date_precise": true,
+ "title": "Keterangan Pers Mensesneg dan Kapolri, Jakarta, 25 Oktober 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=6Zmdg0j4Eek",
+ "duration_s": 125,
+ "duration_hms": "2:05",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 212,
+ "unique_word_count": 116,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "6Zmdg0j4Eek",
+   "url": "https://www.youtube.com/watch?v=6Zmdg0j4Eek",
+   "title": "Keterangan Pers Mensesneg dan Kapolri, Jakarta, 25 Oktober 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 14.0,
+   "text": "Ee baik ee pada sore hari ini Bapak Presiden bertolak ke Kuala Lumpur untuk menghadiri ee KTT ASEAN."
+  },
+  {
+   "t": 14.0,
+   "d": 15.0,
+   "text": "Ee selanjutnya ada agenda untuk KPT Apek tetapi ee mungkin akan menyesuaikan dengan ee agenda yang di Malaysia."
+  },
+  {
+   "t": 29.0,
+   "d": 20.0,
+   "text": "Sore hari ini juga sebelum beliau berangkat ee beliau berkoordinasi dengan ee Pak Kapolri. Nanti Pak Lurata menyampaikan beberapa izin Pak Kin berkenaan dengan ee ada arahan khusus dari Bapak Presiden pertemuan tadi Bapak."
+  },
+  {
+   "t": 49.0,
+   "d": 40.0,
+   "text": "Baik yang jelas yang pertama tentunya ee sebagai kapori saya melaporkan ee situasi terkini khususnya terkait dengan ee situasi keamanan perkembangan KTIMAS yang terjadi di dalam negeri sebelum beliau berangkat. Yang kedua, ada beberapa kebijakan dan program yang tentunya menjadi atensi dari Bapak Presiden dan kami PORI ee mengawal dan melaksanakan kebijakan-kebijakan program yang menjadi ee penekanan-penekanan Bapak Presiden. Saya kira itu kasih."
+  },
+  {
+   "t": 89.0,
+   "d": 27.0,
+   "text": "Ada hal khusus yang disampaikan Bapak Presiden, Pak. Selain itu, Pak? Ya, tentunya ee terkait dengan kegiatan-kegiatan yang sudah kita laksanakan, program-program dan juga hal-hal yang menjadi catatan-catatan dan perhatian ee itu tentunya menjadi ee kegiatan yang terus kita tindak lanjuti."
+  },
+  {
+   "t": 116.0,
+   "d": 3.0,
+   "text": "Terima kasih, Pak Kapi, Pak. Terima kasih semuanya untuk harusnya."
+  },
+  {
+   "t": 119.0,
+   "d": 3.0,
+   "text": "Semoga perjalanan Bapak Presiden lancar. Amin."
+  },
+  {
+   "t": 122.0,
+   "d": 3.0,
+   "text": "Kembali ke tanah air dengan selamat dan membawa berkah bagi kita semua bangsa dan rakyat Indonesia. Terima kasih. Terima kasih, Pak Menteri."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

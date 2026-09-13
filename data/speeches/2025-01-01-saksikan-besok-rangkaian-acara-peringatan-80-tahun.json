@@ -1,0 +1,63 @@
+{
+ "id": "2025-01-01-saksikan-besok-rangkaian-acara-peringatan-80-tahun",
+ "video_id": "0vfRDrI21gA",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Saksikan Besok! Rangkaian Acara Peringatan 80 Tahun Kemerdekaan Republik Indonesia",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=0vfRDrI21gA",
+ "duration_s": 71,
+ "duration_hms": "1:11",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 43,
+ "unique_word_count": 29,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "0vfRDrI21gA",
+   "url": "https://www.youtube.com/watch?v=0vfRDrI21gA",
+   "title": "Saksikan Besok! Rangkaian Acara Peringatan 80 Tahun Kemerdekaan Republik Indonesia",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 5.0,
+   "d": 37.0,
+   "text": "[Musik] [Musik] [Musik] proklamasi kami bangsa Indonesia dengan ini menyatakan kemerdekaan Indonesia."
+  },
+  {
+   "t": 42.0,
+   "d": 31.0,
+   "text": "[Musik] Saksikan rangkaian acara peringatan detik-detik proklamasi kemerdekaan Republik Indonesia pada tanggal 17 Agustus 2025 mulai pukul 7.30 waktu Indonesia Barat. Dan upacara penurunan bendera sang merah putih mulai pukul 15.30 waktu Indonesia Barat."
+  },
+  {
+   "t": 73.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

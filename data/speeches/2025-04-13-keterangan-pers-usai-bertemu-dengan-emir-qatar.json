@@ -1,0 +1,82 @@
+{
+ "id": "2025-04-13-keterangan-pers-usai-bertemu-dengan-emir-qatar",
+ "video_id": "hwW0lHNBJkU",
+ "date": "2025-04-13",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Emir Qatar, Doha, 13 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=hwW0lHNBJkU",
+ "duration_s": 47,
+ "duration_hms": "0:47",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "token_count": 94,
+ "unique_word_count": 54,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "hwW0lHNBJkU",
+   "url": "https://www.youtube.com/watch?v=hwW0lHNBJkU",
+   "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Emir Qatar, Doha, 13 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 5.0,
+   "text": "Perisi, Pak. Door stop, Pak. Izin door stop, Pak."
+  },
+  {
+   "t": 9.0,
+   "d": 10.0,
+   "text": "Izin door stop, Pak. Izin doorstop, Pak. Izin doorstop, Pak. Pakowo dikit, Pak. Pak dikit, Pak, Pak. Dikit, Pak. Izin, Pak."
+  },
+  {
+   "t": 19.0,
+   "d": 3.0,
+   "text": "Step, Pak."
+  },
+  {
+   "t": 22.0,
+   "d": 6.0,
+   "text": "Mengenai kunjungan hari ini kita gimana, Pak? Saya kira pertemuan sangat baik, produktif."
+  },
+  {
+   "t": 28.0,
+   "d": 5.0,
+   "text": "ee kita sepakat untuk segera tingkatkan kerja sama."
+  },
+  {
+   "t": 33.0,
+   "d": 18.0,
+   "text": "Eh beliau akan ee invest invest invest dengan Danantara satu dana bersama beliau komit 2 miliar dolar ya tadi masing-masing dua kita dua dia dua saya kira bagus ini tindak lanjut dan beliau sangat antusias oke terima kasih terima kasih Isih, Pak."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

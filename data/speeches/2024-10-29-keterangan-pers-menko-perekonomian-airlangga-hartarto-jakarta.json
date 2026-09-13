@@ -1,0 +1,68 @@
+{
+ "id": "2024-10-29-keterangan-pers-menko-perekonomian-airlangga-hartarto-jakarta",
+ "video_id": "_kBvSI4wvkg",
+ "date": "2024-10-29",
+ "date_precise": true,
+ "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 29 Oktober 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=_kBvSI4wvkg",
+ "duration_s": 138,
+ "duration_hms": "2:18",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 222,
+ "unique_word_count": 140,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "_kBvSI4wvkg",
+   "url": "https://www.youtube.com/watch?v=_kBvSI4wvkg",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Jakarta, 29 Oktober 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 38.0,
+   "text": "asalamualaikum warahmatullahi wabarakatuh salam sejahtera teman-teman media cetak elektronik ee tadi rapat dengan bapak presiden yang pertama tentu eh beliau ingin update mengenai situasi terkini mengenai eh situasi industri tekstil salah satunya sritek dan arahannya beliau agar ee perusahaan tetap berjalan kemudian nanti dicarikan Jalan teknisnya dicarikan yang kedua tentu dibahas terkait saya laporkan terkait dengan"
+  },
+  {
+   "t": 38.0,
+   "d": 40.0,
+   "text": "perundingan iu sepa di mana Masih ada tiga isu tetapi yang terutama terkait mengenai transmisi elektronik perpajakan transmisi elektronik arahan beliau ini supaya segera diselesaikan supaya ini bisa ditandatangani karena ini sebuah perjanjian yang sudah dibahas selama 7 tahun dan EE ini menjadi PR agar segera kita bisa selesaikan nah kemudian ee yang lain tentu ee ada hal-hal lain yang sifatnya teknis demikian Apakah pemerintah"
+  },
+  {
+   "t": 78.0,
+   "d": 33.0,
+   "text": "diberikan nanti dilihat dulu karena sekarang statusnya kan sudah ada kurator dan EE tentu harus ada pembicaraan dengan kurator kabarnya akan melibatkan LPI juga nah itu nanti tahap berikut tahap sekarang kita monitor dulu yang pertama ee Bea Cukai sudah menyetujui bahwa impor ekspornya bisa terus berjalan dan ini dulu pernah dilakukan di Kawasan Berikat di daerah Jawa Barat jadi akan diberlakukan sama sehingga impor ekspornya terus pergi jalan"
+  },
+  {
+   "t": 111.0,
+   "d": 27.0,
+   "text": "sehingga eh kondisi perusahaan tidak terhenti tapi urgensi untuk penyamatan itu apa sih Pak berikutnya ya terima kasih sekarang kan ee status daripada kreditnya terhenti karena situasi perusahaan eh posisinya pilot terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

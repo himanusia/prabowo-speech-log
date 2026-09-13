@@ -1,0 +1,72 @@
+{
+ "id": "2025-01-01-istana-untuk-anak-sekolah-smpn-15-jakarta",
+ "video_id": "QR1wAxIQoL8",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Istana untuk Anak Sekolah: SMPN 15 Jakarta & SMAN 46 Jakarta",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=QR1wAxIQoL8",
+ "duration_s": 130,
+ "duration_hms": "2:10",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 156,
+ "unique_word_count": 91,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "QR1wAxIQoL8",
+   "url": "https://www.youtube.com/watch?v=QR1wAxIQoL8",
+   "title": "Istana untuk Anak Sekolah: SMPN 15 Jakarta & SMAN 46 Jakarta",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {
+  "Rumah subsidi": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 27.0,
+   "text": "[musik] [musik] [musik] Sangat senang sekali ya karena dalam istana tuh juga bagus interiornya, eksterior juga bagus."
+  },
+  {
+   "t": 30.0,
+   "d": 19.0,
+   "text": "Alhamdulillahnya saya senang banget ya karena ee sebagai kenang-kenangan saya juga e untuk Bapak Presiden, Bapak Prabu Subanto, saya sangat berterima kasih karena kesempatan saya untuk bisa masuk istana."
+  },
+  {
+   "t": 49.0,
+   "d": 31.0,
+   "text": "[musik] Jujur agak meset pasuknya karena keren banget terus kayak mewah banget. Apalagi untuk first time aku. Jadi kayak lebih feelnya tuh lebih dapat. Terus kita juga banyak belajar di sini tentang sejarah gimana [musik] bisa terjadinya atau dibangunnya istana negara gitu. Jadi aku banyak belajar sih datang sini."
+  },
+  {
+   "t": 80.0,
+   "d": 53.0,
+   "text": "[musik] Semoga lebih banyak lagi ee apa sekolah-sekolah yang merasakan seperti saya gitu ya. sehingga anak-anak ee juga oh iya dia tidak hanya melihat dari televisi dia oh iya ini rumah rumah rakyat gitu ya rumah yang [musik] di ini yang buat kerja sementara kan kita oh iya presiden saya skerja ternyata luar biasa Ai [musik] terima kasih Bapak [musik] Presiden [bersorak]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

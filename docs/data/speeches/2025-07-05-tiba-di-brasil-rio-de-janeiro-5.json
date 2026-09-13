@@ -1,0 +1,78 @@
+{
+ "id": "2025-07-05-tiba-di-brasil-rio-de-janeiro-5",
+ "video_id": "zCP4MVAVAMw",
+ "date": "2025-07-05",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Brasil, Rio de Janeiro, 5 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=zCP4MVAVAMw",
+ "duration_s": 184,
+ "duration_hms": "3:04",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 154,
+ "unique_word_count": 92,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "zCP4MVAVAMw",
+   "url": "https://www.youtube.com/watch?v=zCP4MVAVAMw",
+   "title": "Presiden Prabowo Tiba di Brasil, Rio de Janeiro, 5 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 12.0,
+   "d": 101.0,
+   "text": "[Tepuk tangan] [Musik] lebar [Musik] sini [Musik] [Tepuk tangan] kita [Tepuk tangan] selamat kembali ke Pak. Terima kasih. Kamu namanya siapa? E Muhammad."
+  },
+  {
+   "t": 113.0,
+   "d": 24.0,
+   "text": "Kamu umurnya berapa? 12 12. Sekolah di mana? Ee sekolah ee ini ada ee di di Brasil ee Pak Pak Ahmad. Oh."
+  },
+  {
+   "t": 137.0,
+   "d": 7.0,
+   "text": "Saya sebenarnya sudah dua kali ini kedua kali ketemu sama Bapak Presiden ya."
+  },
+  {
+   "t": 144.0,
+   "d": 13.0,
+   "text": "Senang bisa apa namanya? Bisa cerita untuk keluarga yang ada di Indonesia sama di Nganjuk ya. Senang banget ya. I diajak ngobrol enggak?"
+  },
+  {
+   "t": 157.0,
+   "d": 14.0,
+   "text": "salaman bisa salaman selalu selalu sehat mudah-mudahan bisa mendukung rakyat Indonesia ee untuk selalu maju."
+  },
+  {
+   "t": 171.0,
+   "d": 25.0,
+   "text": "Senang sekali kami dapat menyambut kehadiran kedatangan Bapak Presiden Prabowo dan seluruh delegasi. Tadi saya sempat ee menyapa kami diaspora Indonesia di Brazil. jumlahnya tidak terlalu besar, tapi kami sangat senang beberapa hadir di sini untuk menyambut ee beliau. Semoga ee sukses di Brazil dan kami Diaspor Indonesia senantiasa siap untuk menjadi duta Indonesia, membawa nama baik di Indonesia ee di Brazil."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

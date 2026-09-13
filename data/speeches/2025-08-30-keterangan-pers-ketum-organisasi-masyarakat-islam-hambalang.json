@@ -1,0 +1,113 @@
+{
+ "id": "2025-08-30-keterangan-pers-ketum-organisasi-masyarakat-islam-hambalang",
+ "video_id": "ZZofuJHr9SQ",
+ "date": "2025-08-30",
+ "date_precise": true,
+ "title": "Keterangan Pers Ketum Organisasi Masyarakat Islam, Hambalang, 30 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ZZofuJHr9SQ",
+ "duration_s": 234,
+ "duration_hms": "3:54",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 32,
+ "token_count": 302,
+ "unique_word_count": 165,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ZZofuJHr9SQ",
+   "url": "https://www.youtube.com/watch?v=ZZofuJHr9SQ",
+   "title": "Keterangan Pers Ketum Organisasi Masyarakat Islam, Hambalang, 30 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 5.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah."
+  },
+  {
+   "t": 5.0,
+   "d": 14.0,
+   "text": "Alhamdulillah sore ini rombongan 16 organisasi kemasyarakatan Islam diterima oleh Bapak Presiden Prabowo Subianto di Hambalang."
+  },
+  {
+   "t": 19.0,
+   "d": 10.0,
+   "text": "Dari 16 organisasi kemasyarakatan tersebut hadir para ketua umum dan para sekjen."
+  },
+  {
+   "t": 29.0,
+   "d": 42.0,
+   "text": "Dan kami mendapatkan kesempatan untuk berdialog dengan Pak Presiden yang didampingi oleh sejumlah ee Menteri Kabinet, oleh Ketua MPR RI, oleh eh Kepala BIN. kami berdialog dari hati ke hati, memahami secara umum tapi lengkap permasalahan bangsa yang dihadapi khususnya hari-hari ini. Dan kami bersepakat untuk bersama-sama bau membahu berupaya untuk mengatasi keadaan untuk mengajak kepada masyarakat supaya"
+  },
+  {
+   "t": 71.0,
+   "d": 25.0,
+   "text": "lebih tenang dan insyaallah bersama-sama Presiden Prabowo Subianto di bawah pemerintahan Riau dan juga dengan dukungan dari para pemimpin umat insyaallah bersama-sama kita bisa mengatasi apapun tantangan yang kita hadapi."
+  },
+  {
+   "t": 96.0,
+   "d": 48.0,
+   "text": "Dan sesudah ini insyaallah akan kami lanjutkan dan pertemuan lanjutan yang insyaallah akan dilaksanakan di Istana Negara sama antara Bapak Presiden dengan ee ormas-ormas Islam dan mudah-mudahan dari sana nanti akan ada sesuatu yang bisa dinyatakan sebagai tekad bersama, kesepakatan bersama antara Presiden Prabo Suento dengan ormas-ormas Islam sebagai perwakilan dari tubuh umat Islam di Indonesia ini. Terima kasih. Mungkin dari Pak Kiai Haidar Hasir ada yang"
+  },
+  {
+   "t": 144.0,
+   "d": 4.0,
+   "text": "ditambahkan. Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 148.0,
+   "d": 33.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh. kami selama 3 jam tadi dengan berdialog dan kami juga memberi masukan dan pandangan Pak Presiden begitu terbuka dan kami punya pandangan yang sama bahwa kita kekuatan ormas Islam sebagai kekuatan yang punya sejarah yang panjang di republik ini dalam kemerdekaan dan pasca kemerdekaan."
+  },
+  {
+   "t": 181.0,
+   "d": 12.0,
+   "text": "memahami betul, menghayati betul bahwa persatuan, keutuhan dan masa depan bangsa itu perlu kita jaga bersama."
+  },
+  {
+   "t": 193.0,
+   "d": 33.0,
+   "text": "Kami memahami demokrasi dan aspirasi, tetapi hendaknya dan kami yakin seluruh rakyat Indonesia dapat memanfaatkan demokrasi itu dengan penuh pertanggungjawaban, keadaban, dan mewaspadai, tidak terkontaminasi oleh hal-hal yang membawa pada kekerasan dan perbuatan-perbuatan yang meruntuhkan keutuhan. dan kesatuan bangsa Indonesia."
+  },
+  {
+   "t": 226.0,
+   "d": 3.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 229.0,
+   "d": 2.0,
+   "text": "Terima kasih. Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 231.0,
+   "d": 3.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,128 @@
+{
+ "id": "2025-11-11-tiba-di-sydney-untuk-kunjungan-kenegaraan-sydney",
+ "video_id": "-tjXJTkNPm0",
+ "date": "2025-11-11",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Sydney untuk Kunjungan Kenegaraan, Sydney, 11 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=-tjXJTkNPm0",
+ "duration_s": 161,
+ "duration_hms": "2:41",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 294,
+ "unique_word_count": 153,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "-tjXJTkNPm0",
+   "url": "https://www.youtube.com/watch?v=-tjXJTkNPm0",
+   "title": "Presiden Prabowo Tiba di Sydney untuk Kunjungan Kenegaraan, Sydney, 11 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 77.0,
+   "d": 5.0,
+   "text": "Siap-siap, Pak. Ya, siap-siap, Pak."
+  },
+  {
+   "t": 82.0,
+   "d": 6.0,
+   "text": "Ini sudah ini aku, Pak. Apa kabar, Pak?"
+  },
+  {
+   "t": 88.0,
+   "d": 12.0,
+   "text": "Sehat selalu Pak Probo."
+  },
+  {
+   "t": 100.0,
+   "d": 3.0,
+   "text": "Siapa nama kamu?"
+  },
+  {
+   "t": 103.0,
+   "d": 5.0,
+   "text": "Kamu umurmu berapa? Kamu berapa?"
+  },
+  {
+   "t": 108.0,
+   "d": 10.0,
+   "text": "Enam. Sudah sekolah? Sudah. yang rajin ya belajarnya ya. Terima kasih. Selamat datang."
+  },
+  {
+   "t": 118.0,
+   "d": 2.0,
+   "text": "Oh iya."
+  },
+  {
+   "t": 120.0,
+   "d": 29.0,
+   "text": "Ee pertama senang sekali ya karena tentunya penghormatan besar juga untuk bisa menyaksikan ee Bapak Prabowo bisa datang ke sini e untuk berbincang dengan Perdana Menteri dari e dari Austral dan menurut saya it's such a thling experiences juga dan bisa ketemu sama teman-teman dari Indonesia. Banyak yang mahasiswa, banyak yang kerja di sini juga. And I think my horizons and conversation as unites every Indonesian diaspora yang ada di Sydne Australia."
+  },
+  {
+   "t": 149.0,
+   "d": 14.0,
+   "text": "Eh ingin disampaikan ke Bapak Presiden sehat selalu, sukses dan semoga juga segala ee langkah-langkah yang Bapak Presiden laksanakan bisa membawa amanah untuk rakyat Indonesia dan memang tujuan yang terbaik untuk rakyat Indonesia."
+  },
+  {
+   "t": 163.0,
+   "d": 4.0,
+   "text": "Terima kasih, Bapak. Makasih ya. Terima kasih, Pak."
+  },
+  {
+   "t": 167.0,
+   "d": 24.0,
+   "text": "Iya. Kagum juga sama Bapak ya. karena saya belum tahu persis. E tapi bagus-bagusnya ini Bapak karena dia sempat salamin orang satu persatu. Ini termasuk apa? Ee penghargaan atau merasa senang, merak gitu ya. Kelihatannya ee capek tapi ya semangatnya luar biasa."
+  },
+  {
+   "t": 191.0,
+   "d": 3.0,
+   "text": "Benar. Bagus ini, Bapak ini."
+  },
+  {
+   "t": 194.0,
+   "d": 24.0,
+   "text": "Saya harapkan saja mudah-mudahan hubungan Indonesia dengan Australia lebih akrab lagi gitu. Ee baik di bidang ee ekonomi, edukasi ee apa ee masalah visa apa semuanya itu pengaturannya e imigrasi itu maksud saya ya. Insyaallah mudah-mudahan lebih akrab lagi."
+  },
+  {
+   "t": 218.0,
+   "d": 4.0,
+   "text": "Mungkin terakhir Bu, ada yang mau ingin disampaikan ke Bapak Presiden? Oh iya."
+  },
+  {
+   "t": 222.0,
+   "d": 13.0,
+   "text": "Ee sehat selalu ya, Pak ya. Ee saya doa saya mudah-mudahan Bapak Presiden Prabowo dikelilingi dengan orang-orang yang baik, orang-orang yang takwa."
+  },
+  {
+   "t": 235.0,
+   "d": 3.0,
+   "text": "Karena itulah yang paling e orang Indonesia butuhkan. Orang-orang yang takwa, orang-orang yang baik, bisa dipercaya. Itu harapan saya. Tetap sehat ya, Pak ya. Semangat. Semangat loh."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

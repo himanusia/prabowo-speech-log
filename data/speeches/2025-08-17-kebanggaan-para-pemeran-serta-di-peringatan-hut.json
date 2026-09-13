@@ -1,0 +1,103 @@
+{
+ "id": "2025-08-17-kebanggaan-para-pemeran-serta-di-peringatan-hut",
+ "video_id": "yQYBWonMjmo",
+ "date": "2025-08-17",
+ "date_precise": true,
+ "title": "Kebanggaan Para Pemeran Serta di Peringatan HUT ke-80 Kemerdekaan RI, Jakarta, 17 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=yQYBWonMjmo",
+ "duration_s": 193,
+ "duration_hms": "3:13",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 24,
+ "token_count": 297,
+ "unique_word_count": 177,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "yQYBWonMjmo",
+   "url": "https://www.youtube.com/watch?v=yQYBWonMjmo",
+   "title": "Kebanggaan Para Pemeran Serta di Peringatan HUT ke-80 Kemerdekaan RI, Jakarta, 17 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 8
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 18.0,
+   "text": "[Musik] Bendera siap."
+  },
+  {
+   "t": 19.0,
+   "d": 14.0,
+   "text": "Puji Tuhan pastinya e saya senang sekali dan ee bangga dengan teman-teman dan ee beserta dengan pasukan-pasukan yang lain karena kami bisa berhasil mengibarkan bendera. Yang paling berkesan tentunya ee bendera itu dapat berkibar dengan baik, Kak."
+  },
+  {
+   "t": 33.0,
+   "d": 14.0,
+   "text": "Alhamdulillah tadi pas ngikat buka dan nariknya pas ya ee rezeki saya mendapatkan roll di situ. Tapi menurut saya semuanya sama. Mau pembentang pengerek 17 ee sore pagi itu sama."
+  },
+  {
+   "t": 47.0,
+   "d": 22.0,
+   "text": "Karena kita di sini itu untuk naikkan bendera dan turunkan bendera untuk merah putih untuk negara tentunya ee merasa sangat lega dan juga bersyukur sekali karena berhasil menyelesaikan tugas ee dan juga perasaan ini sangat campur aduk. Ada sedih, ada bahagia, ada senang, ada ah campur aduk saya gak bisa mengutarakannya."
+  },
+  {
+   "t": 69.0,
+   "d": 16.0,
+   "text": "Yang berkesan sih karena banyak yang nonton ya dan juga disaksikan oleh pejabat-pejabat terutama Bapak Presiden itu sangat berkesan sekali buat saya dan tidak akan saya lupakan sampai sumur hidup saya nanti ya."
+  },
+  {
+   "t": 85.0,
+   "d": 53.0,
+   "text": "[Musik] ee perasaannya ee sangat-sangat bangga tentunya ee bisa menjadi bagian dari hood kemerdekaan RI kita yang ke-80 yang spesial ini. Ee jadi saya bangga banget sih ada di salah satu bagian dari mereka. Ee kita sebagai wanita ee sangat sangat diberdayakan terlihat emansipasinya untuk saat ini dan semoga ee di kemerdekaan 80 tahun ini ee Indonesia semakin maju dan nanti ee akan menuju 2045 Indonesia emas. Tantangannya adalah pada"
+  },
+  {
+   "t": 138.0,
+   "d": 13.0,
+   "text": "prinsipnya satuan kavaleri berkuda itu bisa berhasil apabila peduli dan sayang terhadap kudanya. Itulah tantangan kami."
+  },
+  {
+   "t": 151.0,
+   "d": 12.0,
+   "text": "[Tepuk tangan] Kakang suka. Dulu ada rambuk kepan sekarang rambut meraki."
+  },
+  {
+   "t": 163.0,
+   "d": 8.0,
+   "text": "Tambah manis pulang tahu dari mana. Aduh jangan terlalu pasang gaya."
+  },
+  {
+   "t": 171.0,
+   "d": 20.0,
+   "text": "E pastinya gugup itu pasti ada. Gugup nervous itu pasti ada. Tapi bagaimana kita mengatasi itu semua terus kita harus memberikan yang terbaik karena inian dari Istana Negara bikin Kak Mete tidur malam bola balik sejak kali."
+  },
+  {
+   "t": 191.0,
+   "d": 3.0,
+   "text": "Aduh Tuhan ampun."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

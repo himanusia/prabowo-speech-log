@@ -1,0 +1,63 @@
+{
+ "id": "2025-04-11-tiba-di-antalya-turkiye-11-april-2025",
+ "video_id": "h0-EfpsjmT4",
+ "date": "2025-04-11",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Antalya, Turkiye, 11 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=h0-EfpsjmT4",
+ "duration_s": 166,
+ "duration_hms": "2:46",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 154,
+ "unique_word_count": 80,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "h0-EfpsjmT4",
+   "url": "https://www.youtube.com/watch?v=h0-EfpsjmT4",
+   "title": "Presiden Prabowo Tiba di Antalya, Turkiye, 11 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 20.0,
+   "d": 100.0,
+   "text": "[Tepuk tangan] [Musik] mobil [Musik] Bapak Ibu Menteri belum ketemu Bapak kerja di sini juga berapa lama? Sudah mau 4 tahun. Oh iya kau dari mana? dari Bandung."
+  },
+  {
+   "t": 120.0,
+   "d": 31.0,
+   "text": "Bandung. Rasanya sih senang banget ya karena kan susah kita kalau di Indonesia mungkin orang biasa enggak enggak bisa ketemu kan. Ini ee bisa beruntung banget bisa ketemu Bapak Presiden. Dia langsung ee bisa ke tempat cyber kerja di sini. Itu rasanya haru. Kalian kerja di sini? Kerja di sini banyak di hotel-hotel. Oh. Oh, Bapak. Selamat datang. Selamat datang, Pak."
+  },
+  {
+   "t": 151.0,
+   "d": 35.0,
+   "text": "Saya sudah 10 tahun di Turki. Baru kali ini saya bisa ketemu Bapak Presiden dan saya sangat senang sekali dan happy dan tadi spontan bisa ketemu dengan Mayor Teddy. Oke. Tadi sempat foto-foto enggak si? Iya, senang sekali Mayor Teddy dengan baiknya dia mau berfoto sama saya. Sudah berapa lama di sini? 5 tahun, Pak. 5 tahun. Saya 10 tahun. 11 tahun. 11 tahun keluarga suami gak suami gak oh selamat [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

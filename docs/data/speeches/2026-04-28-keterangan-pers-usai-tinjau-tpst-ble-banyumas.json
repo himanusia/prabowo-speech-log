@@ -1,0 +1,128 @@
+{
+ "id": "2026-04-28-keterangan-pers-usai-tinjau-tpst-ble-banyumas",
+ "video_id": "CqYfgpyXdQ8",
+ "date": "2026-04-28",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Tinjau TPST BLE, Banyumas, 28 April 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=CqYfgpyXdQ8",
+ "duration_s": 180,
+ "duration_hms": "3:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 28,
+ "token_count": 289,
+ "unique_word_count": 141,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "CqYfgpyXdQ8",
+   "url": "https://www.youtube.com/watch?v=CqYfgpyXdQ8",
+   "title": "Keterangan Pers Presiden Prabowo Usai Tinjau TPST BLE, Banyumas, 28 April 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 7.0,
+   "text": "Izin, Pak. Sedikit, Pak. Sedikit, Pak. Teknologinya, Pak. Eh, terkait dengan tinjauan ini, Pak. Melihat teknologinya seperti apa, Pak?"
+  },
+  {
+   "t": 7.0,
+   "d": 5.0,
+   "text": "Iya, saya sangat terkesan dan saya terima kasih."
+  },
+  {
+   "t": 12.0,
+   "d": 15.0,
+   "text": "Mana Pak Bupati? Bupati, Pakati, Pak Bupati dan Kepala Dinas ya. Ee ini suatu terobosan inisiatif yang sangat baik."
+  },
+  {
+   "t": 27.0,
+   "d": 24.0,
+   "text": "ee kita lakukan ee istilahnya pengolahan sampah dengan menggunakan teknologi yang tidak terlalu canggih tapi efektif sebagian besar produk lokal dan ee dalam dalam suatu rangkaian sistem dari rumah tangga sampai ke kabupaten."
+  },
+  {
+   "t": 51.0,
+   "d": 12.0,
+   "text": "Jadi ini saya kira sangat efektif ya ee menjadi contoh untuk banyak ee provinsi, banyak kabupaten bahkan dari negara lain ada yang ke sini ada."
+  },
+  {
+   "t": 63.0,
+   "d": 10.0,
+   "text": "Jadi ee saya saya juga dapat laporan dari gubernur di Jawa Tengah banyak kabupaten juga sudah ikut 13 kurang lebih 13 ya."
+  },
+  {
+   "t": 73.0,
+   "d": 29.0,
+   "text": "13. Jadi ini nanti ee kita dari pemerintah pusat akan mendorong dan saya akan turunkan ee bantuan langsung untuk kita ee kembangkan ya, perbaiki, kembangkan dan bikin lebih efektif ee janji bupati tahun 2012 asalkan saya dapat 15 TPS akhir akhir 2008. Iya."
+  },
+  {
+   "t": 102.0,
+   "d": 2.0,
+   "text": "Zero sampah."
+  },
+  {
+   "t": 104.0,
+   "d": 8.0,
+   "text": "Zero sampah ya. Zero Jawa Tengah. Jawa Tengah. Sanggup, Pak. Oke. Siap. Deal ya."
+  },
+  {
+   "t": 112.0,
+   "d": 4.0,
+   "text": "Ya."
+  },
+  {
+   "t": 116.0,
+   "d": 17.0,
+   "text": "Pak ya. Semua kita kembangkan sampah apa? Pengolahan sampah sekarang jadi prioritas nasional ya. Dalam 2 3 tahun kita harus kita kendalikan sampah seluruh Indonesia ya. tadi gentengnya gimana, Pak?"
+  },
+  {
+   "t": 133.0,
+   "d": 16.0,
+   "text": "Gentengnya lumayan efektif katanya cukup murah ya. E dan ini mungkin bisa masuk anggaran kita untuk bantuan perbaikan rumah. Anggaran perbaikan rumah sekarang satu rumah R juta."
+  },
+  {
+   "t": 149.0,
+   "d": 1.0,
+   "text": "R juta."
+  },
+  {
+   "t": 150.0,
+   "d": 5.0,
+   "text": "Jadi ini satu rumah kita perhitungkan 45 R5 juta untuk gentengnya."
+  },
+  {
+   "t": 155.0,
+   "d": 5.0,
+   "text": "Kita mau hilangkan penggunaan sank yang berkarat."
+  },
+  {
+   "t": 160.0,
+   "d": 20.0,
+   "text": "berkarat itu nanti ujungnya tidak sehat untuk yang huni ya dan pandangannya juga enggak bagus ya. Kita kita akan kembalikan Indonesia menjadi Indonesia yang benar-benar indah. Jadi pariwisata itu bagus dan kita nyaman tinggalnya ya 28 ya. Siap. Siap. Siap."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

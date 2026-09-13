@@ -1,0 +1,58 @@
+{
+ "id": "2025-11-10-keterangan-pers-menteri-ketenagakerjaan-yassierli-jakarta-10",
+ "video_id": "4YuXyQQRDm0",
+ "date": "2025-11-10",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Ketenagakerjaan Yassierli, Jakarta, 10 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=4YuXyQQRDm0",
+ "duration_s": 37,
+ "duration_hms": "0:37",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "token_count": 68,
+ "unique_word_count": 51,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "4YuXyQQRDm0",
+   "url": "https://www.youtube.com/watch?v=4YuXyQQRDm0",
+   "title": "Keterangan Pers Menteri Ketenagakerjaan Yassierli, Jakarta, 10 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 34.0,
+   "text": "ingin tadi pertemuannya enggak ini mengenalkan ini beliau adalah sekretaris jenderal dari International Trade Union eh Confederation apa tentang eh kondisi ya Indonesia nyata update terkait dengan ketenagakerjaan kemudian beliau juga share terkait dengan internasional ee seperti apa dan kemudian mereka mengapresiasi apa yang sudah dilakukan Indonesia dan juga surga ee menyampaikan beberapa poin ee yang penting harus ee sebagai masuk kita."
+  },
+  {
+   "t": 34.0,
+   "d": 3.0,
+   "text": "Oke, sip. Cukup ya. Makasih ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,73 @@
+{
+ "id": "2026-04-18-kunjungan-kerja-ke-magelang-jawa-tengah-18",
+ "video_id": "TAPirwWpObo",
+ "date": "2026-04-18",
+ "date_precise": true,
+ "title": "Kunjungan Kerja Presiden Prabowo ke Magelang, Jawa Tengah, 18 April 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=TAPirwWpObo",
+ "duration_s": 60,
+ "duration_hms": "1:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "token_count": 100,
+ "unique_word_count": 62,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "TAPirwWpObo",
+   "url": "https://www.youtube.com/watch?v=TAPirwWpObo",
+   "title": "Kunjungan Kerja Presiden Prabowo ke Magelang, Jawa Tengah, 18 April 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 41.0,
+   "d": 14.0,
+   "text": "Setelah saya mengetahui bahwa di sini adalah seluruh ketua DPRD dari seluruh Indonesia, saya anggap penting dan tepat kalau saya hadir langsung."
+  },
+  {
+   "t": 55.0,
+   "d": 8.0,
+   "text": "Hari ini saya ingin bicara sebagai anak bangsa ya. Sama dengan saudara-saudara sekalian."
+  },
+  {
+   "t": 63.0,
+   "d": 29.0,
+   "text": "Sebagai anak bangsa hari ini saya ingin bicara dari hati ke hati. Saya datang ke sini saya jumpa, Saudara-saudara dengan satu peranggapan bahwa kita semua di tenda ini adalah patriot."
+  },
+  {
+   "t": 92.0,
+   "d": 6.0,
+   "text": "Terima kasih atas kehadiran Pak Prabowo atas red anggota DPRD seluruh Indonesia."
+  },
+  {
+   "t": 98.0,
+   "d": 3.0,
+   "text": "Mudah-mudahan ini menjadi motivasi untuk kita semua membangun dari daerah untuk Indonesia. Saya Rimos Ketua DPRD Kabupaten LAN Batu Utara Provinsi Sumatera Utara."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

@@ -1,0 +1,113 @@
+{
+ "id": "2025-04-22-pertemuan-hangat-dan-wakil-pm-malaysia-istana",
+ "video_id": "_RAYcUNIfz8",
+ "date": "2025-04-22",
+ "date_precise": true,
+ "title": "Pertemuan Hangat Presiden Prabowo dan Wakil PM Malaysia, Istana Merdeka, 22 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=_RAYcUNIfz8",
+ "duration_s": 263,
+ "duration_hms": "4:23",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 28,
+ "token_count": 216,
+ "unique_word_count": 126,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "_RAYcUNIfz8",
+   "url": "https://www.youtube.com/watch?v=_RAYcUNIfz8",
+   "title": "Pertemuan Hangat Presiden Prabowo dan Wakil PM Malaysia, Istana Merdeka, 22 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 11.0,
+   "d": 92.0,
+   "text": "Siap terus hormat H korbat B [Musik] Bapak [Musik] [Tepuk tangan] [Musik] Welcome sir. Welcome sir. Kawan mama. Selamat sekali. Selamat datang, Bapak."
+  },
+  {
+   "t": 103.0,
+   "d": 18.0,
+   "text": "Selamat datang dari masa muda."
+  },
+  {
+   "t": 121.0,
+   "d": 15.0,
+   "text": "Mereka puas pers dari Malaysia."
+  },
+  {
+   "t": 136.0,
+   "d": 7.0,
+   "text": "Saya ingin beritahu bahwa Ruki tidak pernah salah halaman."
+  },
+  {
+   "t": 143.0,
+   "d": 8.0,
+   "text": "Sahabat sudah lama ya, Pak? Siapalia."
+  },
+  {
+   "t": 151.0,
+   "d": 8.0,
+   "text": "Terima kasih. Terima kasih Pak. Terima kasih. Terima kasih. Terima kasihih, Pak. Ayo, bimana kabar?"
+  },
+  {
+   "t": 159.0,
+   "d": 16.0,
+   "text": "Alhamdulillah."
+  },
+  {
+   "t": 175.0,
+   "d": 11.0,
+   "text": "Ini kawan lama jumpa jadi ketawanya loh, Pak. Ketaw kedengaran. Iya."
+  },
+  {
+   "t": 186.0,
+   "d": 40.0,
+   "text": "Ini kawan lama Bapak izin ya, Pak. Ngobrolin apa aja seru banget kayaknya, Pak. Tadi enggak ngobrol ketawa kan banyak ketawa kan kedengaran. Kedengaran ya. Jadi saya terima kasih saya dikunjungi ya ee wakil perdana menteri Malaysia kawan saya lama Datuk Seri Zahid Hamidi. Zahid Hamid I must be careful. Jadi Pak Zahid Hamidi eh sahabat lama."
+  },
+  {
+   "t": 226.0,
+   "d": 27.0,
+   "text": "Jadi ee ya ini nostalgialah banyak bicara walaupun kita tukar menukar pandangan terhadap isu-isu global ee isu-isu ekonomi dan kerja sama antara Malaysia sama Indonesia. Intinya itu ya. Oke, Pak. Isu ekonomi membahas soal peneras juga ya. Bagaimana kita enggak bahas ini kan lagi ramai saat dunia lagi bahasang."
+  },
+  {
+   "t": 253.0,
+   "d": 3.0,
+   "text": "Oke. Rekonstruksi Gaza juga dibahas."
+  },
+  {
+   "t": 256.0,
+   "d": 15.0,
+   "text": "Oke. Saya mengesahkan apa yang semua di Bapak ber iya kita bicara Gaza bagaimana kita bisa begitu bagaimanapun rakyat kita kan sebagian besar muslim ya. Oke terima kasih. Terima kasih, Pakih, Pak."
+  },
+  {
+   "t": 271.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

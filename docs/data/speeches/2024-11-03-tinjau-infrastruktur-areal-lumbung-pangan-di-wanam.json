@@ -1,0 +1,58 @@
+{
+ "id": "2024-11-03-tinjau-infrastruktur-areal-lumbung-pangan-di-wanam",
+ "video_id": "DARe0D4zGtM",
+ "date": "2024-11-03",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tinjau Infrastruktur Areal Lumbung Pangan di Wanam, Merauke, 3 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=DARe0D4zGtM",
+ "duration_s": 114,
+ "duration_hms": "1:54",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 121,
+ "unique_word_count": 77,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "DARe0D4zGtM",
+   "url": "https://www.youtube.com/watch?v=DARe0D4zGtM",
+   "title": "Presiden Prabowo Tinjau Infrastruktur Areal Lumbung Pangan di Wanam, Merauke, 3 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 24.0,
+   "d": 61.5,
+   "text": "[Tepuk tangan] [Musik] [Musik] Oh siap yang di wanam itu nanti adalah e program cetak sawah nah kami berlanjut mas Untuk cetak sawah ini juga dilanjutkan diawali juga di meraoke dan di Diot di sekitar kota merauk ada rencananya juga 100.000 hektar kemudian nanti yang kita Start dari wanam sampai ke muting itu sekitar 1 juta hektar Nah itu sebelum dilaksukan cetak sawah sekarang sedang proses pembangunan konstruksi Mas yaitu pembuatan Dermaga wanam kemudian Pembuatan"
+  },
+  {
+   "t": 85.0,
+   "d": 53.0,
+   "text": "jalan dari wanam keting yang rencananya 35 kilo tersebut untuk memberikan akses jalan ke beberapa distrik maupun kampung-kampung sekaligus untuk memobilisasi ataupun sebagai sarana transportasi baik peralatan pertanian maupun nanti sampai dengan hasil pertanian mas Nah itu rencananyaul semuanya se yang baik Terima kasih semuanya Oke terima kasih semuanya [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

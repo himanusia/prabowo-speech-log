@@ -1,0 +1,68 @@
+{
+ "id": "2024-11-27-gunakan-hak-pilih-di-tps-008-desa",
+ "video_id": "mqfTlAVZzMk",
+ "date": "2024-11-27",
+ "date_precise": true,
+ "title": "Presiden Prabowo Gunakan Hak Pilih di TPS 008 Desa Bojongkoneng, Bogor, 27 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=mqfTlAVZzMk",
+ "duration_s": 246,
+ "duration_hms": "4:06",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 32,
+ "token_count": 238,
+ "unique_word_count": 115,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "mqfTlAVZzMk",
+   "url": "https://www.youtube.com/watch?v=mqfTlAVZzMk",
+   "title": "Presiden Prabowo Gunakan Hak Pilih di TPS 008 Desa Bojongkoneng, Bogor, 27 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 69.0,
+   "d": 136.0,
+   "text": "[Musik] k Pak Ki p [Musik] P pagi [Musik] Pak handphone handph Hand Hand Pak presid hand pak presiden [Musik] presiden Oke Pak HP HP turun dikit Oke thank you [Musik] [Musik] ih siapaih siapa rahasia Pak Bapak juga sebagai ketua partai Gerindra gimana nih pakihat ini Bapak juga sebagai ketua partai Gerindra juga seperti apa ya bagus ya baguslah lancar semuanya baik semuanya Ya silakan pemilihan Ya terserah rakyat milih yang baik ya bagus"
+  },
+  {
+   "t": 205.0,
+   "d": 45.0,
+   "text": "semuaang I setiap pemilihan pasti ada yang menang kalah ya harus kerja sama ya Yang yang menang harus ee menjadi pemimpin untuk semua yang kalah harus bekerja sama ya Yang penting melayani rakyat bekerja untuk rakyat Saya kira itu engak Pak enggak nanti Pak nanti nonton quick enggak Pak quick Iya saya mantau masih ada acara-acara lagi tapi Oke mana presiden setelah ini ke mana saya kembali masih ada acara ya Jakarta di Hambalang Jakarta Pak enggak di Hambalang Oke terima kasih semuanya ada"
+  },
+  {
+   "t": 250.0,
+   "d": 48.0,
+   "text": "evak Pak juga byakend ya kita punya sistem yang baik sistem sudah berjalan Kita sudah melaksanakan berkali-kali ya Ini bukan yang bukan yang pertama kali sudah pemilihan berkali-kali Saya kira kita sudah matang diakui pasti ada yang baik ada yang kurang ya kita perbaiki semua okeu [Musik] nangis dihitung Bapak persiapan S du sekali lagi S du Makasih sudahah nyoblos belum belum belum Oh oke baikbaik ya Iya Pak"
+  },
+  {
+   "t": 298.0,
+   "d": 17.0,
+   "text": "berat pak pak pak sini pak iya terima kasih semuanya sini pak terima kasih jalan [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,53 @@
+{
+ "id": "2025-03-26-saat-dan-ke-7-joko-widodo-berbuka-puasa",
+ "video_id": "R54iL8U2f8g",
+ "date": "2025-03-26",
+ "date_precise": true,
+ "title": "Saat Presiden Prabowo dan Presiden ke-7 RI Joko Widodo Berbuka Puasa Bersama, 26 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=R54iL8U2f8g",
+ "duration_s": 55,
+ "duration_hms": "0:55",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 4,
+ "token_count": 26,
+ "unique_word_count": 20,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "R54iL8U2f8g",
+   "url": "https://www.youtube.com/watch?v=R54iL8U2f8g",
+   "title": "Saat Presiden Prabowo dan Presiden ke-7 RI Joko Widodo Berbuka Puasa Bersama, 26 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 14.0,
+   "d": 55.0,
+   "text": "sore SEG Bang SEG B suasana at waktu saya masuk ke suasananya langsung kelihatan I Pak Terima kasih Pak Terima kasih terimaasih terimaasihimaasih Selamat malam Sei terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,78 @@
+{
+ "id": "2025-01-01-istana-untuk-anak-sekolah-sma-taruna-nusantara",
+ "video_id": "_gm-Yn_RJPI",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Istana untuk Anak Sekolah: SMA Taruna Nusantara",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=_gm-Yn_RJPI",
+ "duration_s": 86,
+ "duration_hms": "1:26",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 150,
+ "unique_word_count": 87,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "_gm-Yn_RJPI",
+   "url": "https://www.youtube.com/watch?v=_gm-Yn_RJPI",
+   "title": "Istana untuk Anak Sekolah: SMA Taruna Nusantara",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 8.0,
+   "text": "Oke, Guys. Kali ini kami lagi di Istana Merdeka."
+  },
+  {
+   "t": 8.0,
+   "d": 12.0,
+   "text": "[musik] Bapak Presiden, saya ingin mengucapkan yaibya Lublu yang berarti saya cinta Bapak dalam bahasa Rusia. Terima kasih."
+  },
+  {
+   "t": 20.0,
+   "d": 10.0,
+   "text": "Saya sangat senang sekali dengan kesempatan saya berkunjung ke istana kepresidenan ini. Karena [musik] dari kecil belum ada mimpi saya ke sini."
+  },
+  {
+   "t": 30.0,
+   "d": 7.0,
+   "text": "Tapi alhamdulillah saat ini tersampaikan bahwa saya ada di sini. Terima kasih Bapak Presiden."
+  },
+  {
+   "t": 37.0,
+   "d": 45.0,
+   "text": "[musik] Bisa kita [musik] lihatannya di terutama pada kesempatan kepada anak-anak [musik] di Indonesia. Semoga mereka semua bisa berkunjung ke sini. Karena tidak hanya kami bisa menginjakkan, tapi kami juga [musik] bisa merasakan bahwasanya kami sangat termotivasi dan juga [musik] terinspirasi. Dan mungkin siapa tahu habis dari sini ee sebagian besar dari kami bercita-cita untuk menjadi salah satu ee pendiri bangsa dan juga penerus bangsa [musik] di masa depan."
+  },
+  {
+   "t": 82.0,
+   "d": 4.0,
+   "text": "[musik] Saya menginjakkan kaki di Istana Merdeka dan bisa berkeliling sampai dengan kantor presiden dan juga istana negara."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

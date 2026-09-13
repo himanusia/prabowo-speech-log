@@ -1,0 +1,58 @@
+{
+ "id": "2024-11-09-keterangan-pers-menteri-luar-negeri-sugiono-beijing",
+ "video_id": "ynh26AnhWIY",
+ "date": "2024-11-09",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Beijing, 9 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ynh26AnhWIY",
+ "duration_s": 90,
+ "duration_hms": "1:30",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 130,
+ "unique_word_count": 83,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ynh26AnhWIY",
+   "url": "https://www.youtube.com/watch?v=ynh26AnhWIY",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Beijing, 9 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 43.0,
+   "text": "Selamat pagi rekan-rekan sekalian terima kasih sudah menunggu ee seperti kita ketahui bersama pada pagi hari ini bapak Presiden akan memulai ee rangkaian kunjungan kenegaraan beliau di Beijing hari ini beliau akan mulai dengan pertemuan bilateral dengan pimpinan ee kongres rakyat Tiongkok yang mulia cau Leci yang kemudian nanti akan dilanjutkan juga dengan pertemuan bilateral dengan eh Premier atau perdana menteri"
+  },
+  {
+   "t": 43.0,
+   "d": 47.0,
+   "text": "rrt yang mulia Li Jang setelah itu Eh pak presiden juga akan ke tianamen Square untuk meletakkan karangan bunga di sana dan rencananya Nanti malam akan ada pertemuan bilateral antara bapak Presiden dan Presiden x jining eh yang dilanjutkan dengan cara makan malam kenegaraan Saya kira itu garis besar e acara pada pagi hari ini sesuai dengan eh jadwal yang diberikan kepada pihak kita dalam rangka kunjungan kenegaraan kali ini foreign"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

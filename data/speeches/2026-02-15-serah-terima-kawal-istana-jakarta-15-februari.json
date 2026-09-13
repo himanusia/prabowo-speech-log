@@ -1,0 +1,63 @@
+{
+ "id": "2026-02-15-serah-terima-kawal-istana-jakarta-15-februari",
+ "video_id": "VhrM7rk2vo8",
+ "date": "2026-02-15",
+ "date_precise": true,
+ "title": "Serah Terima Kawal Istana, Jakarta, 15 Februari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=VhrM7rk2vo8",
+ "duration_s": 121,
+ "duration_hms": "2:01",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 138,
+ "unique_word_count": 87,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "VhrM7rk2vo8",
+   "url": "https://www.youtube.com/watch?v=VhrM7rk2vo8",
+   "title": "Serah Terima Kawal Istana, Jakarta, 15 Februari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 84.0,
+   "text": "[musik] [musik] [musik] [musik] [musik] [musik] [musik] Hari ini saya menyaksikan ya dipersilakan akan menyaksikan acara kelas terima tugas ya yang mana ini saya baru pertama kali melihat seperti ini dan itu sangat bagus sekali rasanya inilah ee yang dinamakan tidak membedakan ya di mana masyarakat sendiri itu bisa melihat bagaimana adanya kegiatan atau aktivitas setelah terima tugas di jajaran instasi angkat e istana ini. Oh, cukup cukup bagus juga impresif. Saya senang sekali ngelihatnya"
+  },
+  {
+   "t": 86.0,
+   "d": 25.0,
+   "text": "ya. Apalagi kalau saya enggak tahu nih kira-kira berapa bulan sekali diadakan ya. Oh, seminggu sekali tiap minggu diadakan seperti ini cukup bagus. Jadi makin mendekatkan masyarakat dengan apa ee para apa pembela e negara gitu. I saya harapan walaupun mereka mengamankan tapi dengan masyarakat [musik] tetap dekat gitu loh, Mbak ya kan. Jadi tidak ada jarak antara istana dengan rakyat ya gituah."
+  },
+  {
+   "t": 111.0,
+   "d": 12.0,
+   "text": "[musik] [musik] Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "kunjungan",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

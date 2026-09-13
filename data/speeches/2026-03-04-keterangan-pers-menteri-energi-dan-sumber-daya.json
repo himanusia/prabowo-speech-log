@@ -1,0 +1,108 @@
+{
+ "id": "2026-03-04-keterangan-pers-menteri-energi-dan-sumber-daya",
+ "video_id": "0_HGdy7Aqwk",
+ "date": "2026-03-04",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, Jakarta, 4 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=0_HGdy7Aqwk",
+ "duration_s": 150,
+ "duration_hms": "2:30",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 332,
+ "unique_word_count": 166,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "0_HGdy7Aqwk",
+   "url": "https://www.youtube.com/watch?v=0_HGdy7Aqwk",
+   "title": "Keterangan Pers Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, Jakarta, 4 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 10.0,
+   "text": "tampung BBM kita sudah sejak lama hanya maksimal di 25 hari maksimal."
+  },
+  {
+   "t": 10.0,
+   "d": 31.0,
+   "text": "Sehingga cadangan nasional kita itu minimal 20 sampai 23 hari. Sekarang BBM kita itu sudah 23 hari. Jadi sudah di atas standar minimal cadangan nasional yang sebagaimana kelazimnya. Jadi kita enggak bisa katakanlah teman-teman menganggap harus Pak kita stok 60 hari mau isi taruh di mana stor kita enggak punya storaget. Makanya sekarang arahan Bapak Presiden segera kita membangun store. Jadi bukan kita enggak punya"
+  },
+  {
+   "t": 41.0,
+   "d": 6.0,
+   "text": "cadangan untuk mengisi minyak tapi sekarang mau taruh di mana?"
+  },
+  {
+   "t": 47.0,
+   "d": 15.0,
+   "text": "Inilah kekurangan kita. Tapi tidak usah kita saling menyalahkan siapa-siapa. Ini yang harus kita perbaiki dengan cara apa? Membangun storage agar cadangan kita bisa sampai dengan 3 bulan. Gimana untuk target?"
+  },
+  {
+   "t": 62.0,
+   "d": 1.0,
+   "text": "Gimana, Pak? K rencana bang stor barunya, Pak."
+  },
+  {
+   "t": 63.0,
+   "d": 9.0,
+   "text": "Kemarin saya sudah jelaskan di teman-teman di media waktu di SDM kita rencana salah satu alternatif terbagi di wilayah Sumatera ya."
+  },
+  {
+   "t": 72.0,
+   "d": 1.0,
+   "text": "Baik, makasih."
+  },
+  {
+   "t": 73.0,
+   "d": 3.0,
+   "text": "Kalau tambang martabak jadinya izinnya gimana ya, Pak?"
+  },
+  {
+   "t": 76.0,
+   "d": 23.0,
+   "text": "Oh, ya. Eh, saya nanti cek Dirjen saya ya, karena kemarin kan saya baru pulang dari kunjungan ke luar negeri dan belum saya mengecek ke Dirjen saya. Ya, nanti setelah saya cek dari Dirjen saya baru saya akan menyampaikan kepada teman-teman seberapa besar potensi ini ASIAN ini sudah mulai mengganggu pasukan ee energi masukan BB yang di nasional."
+  },
+  {
+   "t": 99.0,
+   "d": 32.0,
+   "text": "Kalau sampai dengan sekarang pas belum terganggu. Belum terganggu. Tapi ke depan kan pasti kalau perannya lama pasti akan berdampak. itu sudah pasti sampai dengan 1 du bulan ke depan insyaallah kita masih clear insyaallah enggak ada masalah nanti antisipasinya Pak diskusi dengan Bapak kemarin kan di rapat den rapat apa ee perdana denantisipasi bahwa 25% crut kita itu kan kita ambil dari Middle East dari Selat Hormus dan dari 25% itu"
+  },
+  {
+   "t": 131.0,
+   "d": 8.0,
+   "text": "kita sudah mengalihkan antisipasinya ke Amerika atau ke daerah negara-negara yang tidak ada kaitannya dengan Selatus."
+  },
+  {
+   "t": 139.0,
+   "d": 11.0,
+   "text": "Itu aja. Jadi kalau menyangkut LPG enggak ada masalah. Jadi relatif clear lah. Kalau menyangkut BBM yang kita imporkan tinggal bensin dan itu kita belinya di Asia Tenggara tidak ada di Middle East. Jadi relatif insyaallah clear ya. Oke, B"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

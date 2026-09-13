@@ -1,0 +1,105 @@
+{
+ "id": "2025-01-20-keterangan-pers-usai-resmikan-proyek-strategis-ketenagalistrikan",
+ "video_id": "GP1U9lau9hU",
+ "date": "2025-01-20",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Resmikan Proyek Strategis Ketenagalistrikan, 20 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=GP1U9lau9hU",
+ "duration_s": 430,
+ "duration_hms": "7:10",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 55,
+ "token_count": 693,
+ "unique_word_count": 280,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "GP1U9lau9hU",
+   "url": "https://www.youtube.com/watch?v=GP1U9lau9hU",
+   "title": "Keterangan Pers Presiden Prabowo Usai Resmikan Proyek Strategis Ketenagalistrikan, 20 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 0,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 13,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 17
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 4
+  },
+  "Swasembada": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 49.0,
+   "text": "Ya baik jadi hari ini kita sangat bangga ya kita bisa meresmikan 37 proyek 26 pembangkit tenaga listrik di 18 Provinsi yang menghasilkan energi 3,2 gigw lebih kemudian jaringan gardu-gardu ini saya kira cukup ee membanggakan dan EE Untuk itu saya ucapkan selamat dan penghargaan kepada semua unsur yang telah bekerja keras masih ada eh saudara-saudara kita yang belum menikmati listrik Insyaallah kita akan selesaikan dalam 5 tahun akan datang Saya kira sangat mampu kita eh kita sangat optimis melihat"
+  },
+  {
+   "t": 49.0,
+   "d": 48.0,
+   "text": "perkembangan ini mungkin Indonesia yang termasuk salah satu paling maju paling konsekuen dalam menghasilkan transformasi dari eh energi fosil ke energi terbarukan ya Jadi ini sangat eh kita tidak banyak bicara tapi kita lakukan eh kegiatan-kegiatan yang real dan ini yang nanti akan menghemat juga eh impimport energi ujungnya kita harus Swasembada energi ya Saya kira itu dari saya bapak Iz dalam waktu sejelang 100 hari kepemimpinan Bapak kan e 80% kepercayaan dari e masyarakat juga ya Pak kalau"
+  },
+  {
+   "t": 97.0,
+   "d": 41.0,
+   "text": "misal dari tanggapan bapak sendiri untuk pemerintahan Bapak evaluasinya Seperti apa dan tingkat kepuasan dari masyarak saya kira begini ya kita yang penting niat kerja keras dan saya eh sangat e bangga tim saya kabinet Saya bekerja dengan sangat kompak tanpa lelah mereka katakan bahwa dalam kabinet kita itu kalendernya engak ada tanggal merah Anda lihat malam tahun baru tahun baru menteri-menteri semua"
+  },
+  {
+   "t": 138.0,
+   "d": 44.0,
+   "text": "bekerja tidak hanya di kantor Tapi di titik-titik mengawasi Alhamdulillah akhir tahun tahun baru berjalan denganik BM terkendali harga pangan terkendali eh harga-harga pesawat bisa turun pertama kali dalam sejarah Republik kita semua kerja untuk efisiensi ya di semua bidang mungkin pertama kali dalam sejarah Republik juga kita turunkan harga naik haji itu pun saya belum puas saya perintahkan cari lagi kesempatan cari lagi peluang untuk turunkan harga terus efisiiis fisiensi jadi"
+  },
+  {
+   "t": 182.0,
+   "d": 45.0,
+   "text": "ee alhamdulillah tapi kita bekerja bukan untuk cari penilaian baik kita bekerja sungguh-sungguh untuk e memberi yang terbaik untuk rakyat ya kita optimis Saya sudah lihat buktinya saya sudah Saya sudah lihat kemampuan kita yang real e kita akan kita akan melakukan pembangunan transformasi ini sungguh-sungguh dan kita akan bekerja dengan sangat cepat kita akan bekerja dengan sangat luar biasa Jadi saya berterima kasih dengan semua pembantu saya sekarang terjadi suatu"
+  },
+  {
+   "t": 227.0,
+   "d": 45.0,
+   "text": "kesadaran kita harus kerja sama kita harus menjadi satu tim yaitu Tim Merah putihtim Indonesia ya jadi Diana Mas ada hal-hal yang kita kurang puas kita perbaiki ya ada kadang-kadang salah pengertian ya kita selesaikan kita perbaiki niatnya adalah bawa kemajuan kesejahteraan ke rakyat Kita niatnya hilangkan kemiskinan niatnya hilangkan kelaparan niatnya adalah tingkatkan kemakmuran bagi seluruh rakyat Indonesia penghasilan rakyat semuanya harus naik itu niat kita semua"
+  },
+  {
+   "t": 272.0,
+   "d": 48.0,
+   "text": "Oke makan bergizi kan juga e cukup baik ya Pak pelaksanaannya Apakah ada niat untuk begini begini begini begini makan bergizi baru mulai makan bergizi ini secara fisik tidak mudah untuk segera ke seluruh rakyat Untuk itu saya prabanto pres minta maaf kepada semua orang tua kemudian semua anak-anak yang belum menerima tapi saya yakini bahwa tahun 2025 akhir 2025 semua anak Indonesia akan dapat makan bergizi tapi bahwa tidak bisa seketika"
+  },
+  {
+   "t": 320.0,
+   "d": 44.0,
+   "text": "ini e secara fisik tidak mungkin Secara administrasi tidak mungkin ya mengaman supaya uang yang dikirim tidak hilang itu ada proses yang harus kita laksanakan dan untuk itu membutuhkan waktu tapi saya beri penekanan diupayakan cara cari cara yang terbaik tercepat supaya semua anak-anak kita bisa merasakan tapi kalau belum merasakan Saya minta Mai Insyaallah Akir 2025 proyek yang sangat besar tidak ringan fisiknya tidak ringan tapi Saya"
+  },
+  {
+   "t": 364.0,
+   "d": 40.0,
+   "text": "jamin dananya ada ya Saya jamin dananya ada untuk semua anak-anak Indonesia makan dan yang sudah tidak perlu makan ya enggak apa-apa beri jatahnya kepada yang perlu ya itu kemudian itu pertama dan kedua Saya minta semua guru-guru tlung saya sangat menghargai tapi tidak perlu Jangan ucapkan terima kasih kepada Prabowo Jangan ucapkan terima kasih kepada Pak Prabowo ini kewajiban saya sebagai presiden ini kewajiban saya jadi tidak perlu ucapan terima kasih kepada Saya anak-anak diajarkan hormati orang"
+  },
+  {
+   "t": 404.0,
+   "d": 26.0,
+   "text": "tua hormati guru kemudian belajar dengan baik ya kita di sini tidak cari nama yang kita ingin adalah yang terbaik untuk bangsa Indonesia jadi saya tidak perlu lagi saya terima kasih jangan terima kasih kepada prabuo Subianto ini adalah kewajiban kami kami dipilih oleh rakyat Indonesia untuk bekerja demi rakyat Terima kasihim kasih Bapak i terima kasih terima kasih Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

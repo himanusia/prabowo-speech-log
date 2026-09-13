@@ -1,0 +1,78 @@
+{
+ "id": "2025-01-01-prasetya-perwira-tni-dan-polri-tahun-2025",
+ "video_id": "Ir7_6-uk1YE",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Prasetya Perwira TNI dan Polri Tahun 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Ir7_6-uk1YE",
+ "duration_s": 137,
+ "duration_hms": "2:17",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 230,
+ "unique_word_count": 115,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Ir7_6-uk1YE",
+   "url": "https://www.youtube.com/watch?v=Ir7_6-uk1YE",
+   "title": "Prasetya Perwira TNI dan Polri Tahun 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 4,
+  "nasional_dan_identitas": 22
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 42.0,
+   "text": "bahwa saya bahwa saya akan memenuhi kewajiban perwira akan memenuhi kewajiban dengan sebaik-baiknya dengan sebaik-baiknya terhadap bangsa Indonesia terhadap bangsa Indonesia dan negara kesatuan Republik Indonesia dan negara kesatuan Republik Indonesia yang berdasarkan Pancasila yang berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia tahun 1945 dan Undang-Undang Dasar Negara Republik Indonesia tahun 1945."
+  },
+  {
+   "t": 44.0,
+   "d": 19.0,
+   "text": "[Musik] TNI dan Polri adalah tiang tegaknya republik kita. TNI dan Polri adalah benteng-benteng terakhir kemerdekaan dan kedolatan kita. Jadilah tentara rakyat, tentara nasional, tentara pejuang."
+  },
+  {
+   "t": 63.0,
+   "d": 21.0,
+   "text": "Jadilah polisi rakyat, polisi nasional, polisi pejuang. Selalu membela rakyatmu, selalu cintai rakyatmu. Kau adalah anak kandung dari rakyat Indonesia."
+  },
+  {
+   "t": 84.0,
+   "d": 28.0,
+   "text": "Kami sebagai anak dari Bapak Darmawan dan Ibu Fitriari, kami mengucapkan sangat banyak terima kasih kepada orang tua kami atas doa-doanya dan perjuangannya selama ini militi kami dari kami kecil hingga kami dilantik menjadi perwira. Menurut saya yang paling berkesan adalah ketika waktu yang bisa saya habiskan bersama teman-teman saya di mana baik itu dalam kondisi susah, senang, sedih, kami tetap bersama hingga akhirnya kami hari ini dilantik bersama."
+  },
+  {
+   "t": 112.0,
+   "d": 24.0,
+   "text": "Harapan saya tentu agar saya bisa menjadi abdi negara yang baik bagi negara dan juga bangsa. terutama bisa membegangkan kedua orang tua saya, bisa berguna bagi masyarakat di sekitar saya, dapat berguna banyak bagi orang-orang di sekitar saya dan juga bisa mempraktikkan segala pembelajaran yang telah diterapkan kepada saya agar di kehidupan nanti saya bisa menjadi PR yang dapat bermanfaat bagi orang lain."
+  },
+  {
+   "t": 136.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

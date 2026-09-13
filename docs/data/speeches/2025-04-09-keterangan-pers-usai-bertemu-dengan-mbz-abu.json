@@ -1,0 +1,63 @@
+{
+ "id": "2025-04-09-keterangan-pers-usai-bertemu-dengan-mbz-abu",
+ "video_id": "96XOSdQ2Avk",
+ "date": "2025-04-09",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Presiden MBZ, Abu Dhabi, 9 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=96XOSdQ2Avk",
+ "duration_s": 57,
+ "duration_hms": "0:57",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 7,
+ "token_count": 89,
+ "unique_word_count": 56,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "96XOSdQ2Avk",
+   "url": "https://www.youtube.com/watch?v=96XOSdQ2Avk",
+   "title": "Keterangan Pers Presiden Prabowo Usai Bertemu dengan Presiden MBZ, Abu Dhabi, 9 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 10.0,
+   "text": "Pak satu Pak dengan Pak MD. Iya saya konsultasi tentunya dengan berbagai perkembangan geopolitik."
+  },
+  {
+   "t": 13.0,
+   "d": 28.0,
+   "text": "ee kita ingin mendapat masukan pemikiran-pemikiran, pandangan-pandangan para pemimpin di kawasan ini. Tentunya kita semua berpikir bagaimana kita bisa ee membantu ee penyelesaian masalah ee konflik di kawasan ini di Gaza dan sekitarnya."
+  },
+  {
+   "t": 41.0,
+   "d": 19.0,
+   "text": "kita ingin mencari upaya-upaya perdamaian dan untuk itu ya kita harus ee saling konsultasi untuk dapat masukan-masik ya itu Jakarta kenapa beliau Jakarta beliau mengatakan beliau ingin ke Jakarta ya saya bilang setiap saat kita terima dengan baik ya terima kasih Makasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

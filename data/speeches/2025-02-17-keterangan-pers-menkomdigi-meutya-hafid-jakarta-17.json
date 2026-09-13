@@ -1,0 +1,73 @@
+{
+ "id": "2025-02-17-keterangan-pers-menkomdigi-meutya-hafid-jakarta-17",
+ "video_id": "a81h8TkN6vE",
+ "date": "2025-02-17",
+ "date_precise": true,
+ "title": "Keterangan Pers Menkomdigi Meutya Hafid, Jakarta, 17 Februari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=a81h8TkN6vE",
+ "duration_s": 158,
+ "duration_hms": "2:38",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 293,
+ "unique_word_count": 166,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "a81h8TkN6vE",
+   "url": "https://www.youtube.com/watch?v=a81h8TkN6vE",
+   "title": "Keterangan Pers Menkomdigi Meutya Hafid, Jakarta, 17 Februari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 32.0,
+   "text": "ya kalau yang siang ini ini e pertama kalinya dan eh menurut Presiden akan dijadikan tradisi juga untuk makan siang bersama jajaran eh Menko dan menteri-menteri di bawah k Menko sekaligus juga rapat jadi barusan itu eh ratas sekaligus makan siang bersama yang dibahas tentu terkait eh banyak hal saya akan bicara mungkin yang terkait dengan ada hubungannya dengan Kementerian kami yaitu komdigi di antaranya adalah ee"
+  },
+  {
+   "t": 33.0,
+   "d": 38.0,
+   "text": "presiden tadi kembali membahas mengenai perkembangan penanganan jri online dan salah satu langkah yang akan diambil dalam waktu dekat adalah mengeluarkan em aturan kemungkinan bentuknya PP yang memang mengatur eh lebih tegas lagi mengenai eh upaya kita melawan judi online mungkin itu dari kami update eh dari komdigi saat ini kalau upaya blokir sudah dilakukan hampir 1 juta situs Namun demikian sekali lagi bahwa eh mentakeed situs tidak sepenuhnya bisa"
+  },
+  {
+   "t": 71.0,
+   "d": 40.0,
+   "text": "menyelesaikan masalah tanpa eh giat-giat lainnya dianttaranya Tentu komdigi juga telah menerapkan sistem Saman di mana Nanti e para platform diharapkan juga patuh E dan berkolaborasi kalau ada konten yang terkait dengan pornografi anak ataupun e judi online maka mereka diwajibkan untuk melakukan takedown dalam waktu secepatcepatnya itu mungkin dari kami eh tentu kita akan giatkan terus sesuai arahan presiden Bagaimana penanganan judi online ini tidak selesai ya Tapi secara kontinuitas akan terus dilakukan dan tadi tugasnya tidak hanya kepada"
+  },
+  {
+   "t": 111.0,
+   "d": 38.0,
+   "text": "kami juga tentu kepada eh kepolisian ee Kejaksaan dan juga ee apa namanya ee pihak-pihak lainnya demikian makasih tadi Eh Beliau juga minta diupdate mengenai itu mudah-mudahan dalam waktu dekat nanti e beliau sendiri yang akan menyampaikan jadi eh pada dasarnya prinsipnya bahwa sesuai masukan yang luar biasa dari publik pemerintah Tengah menggodok peraturan yang terkait perlindungan anak di ranah digital dan"
+  },
+  {
+   "t": 149.0,
+   "d": 10.0,
+   "text": "berbagai masukan tentu kita tampung saat ini dalam penggodokan akhir nanti pak presiden sendiri yang akan menyampaikan kepada publik terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

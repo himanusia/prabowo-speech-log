@@ -1,0 +1,113 @@
+{
+ "id": "2025-04-23-kunjungan-kerja-ke-sumatra-selatan-23-april",
+ "video_id": "CdREyuYKRkA",
+ "date": "2025-04-23",
+ "date_precise": true,
+ "title": "Kunjungan Kerja Presiden Prabowo Ke Sumatra Selatan, 23 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=CdREyuYKRkA",
+ "duration_s": 264,
+ "duration_hms": "4:24",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 30,
+ "token_count": 275,
+ "unique_word_count": 167,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "CdREyuYKRkA",
+   "url": "https://www.youtube.com/watch?v=CdREyuYKRkA",
+   "title": "Kunjungan Kerja Presiden Prabowo Ke Sumatra Selatan, 23 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 9,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 7,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 53.0,
+   "text": "[Musik] lahan dari yang tadinya rawa dan tidak produktif dan katanya di sini adalah tempat buaya."
+  },
+  {
+   "t": 53.0,
+   "d": 3.0,
+   "text": "Berat bayar."
+  },
+  {
+   "t": 56.0,
+   "d": 17.0,
+   "text": "Sekarang sedang dibangun 105.000 hektar sawah dengan teknik-teknik yang paling modern di dunia."
+  },
+  {
+   "t": 73.0,
+   "d": 29.0,
+   "text": "Tadi saya sendiri ee mencoba kaget juga saya untuk pertama kali mengendalikan drone. Drone itu yang menyebarkan menebarkan ee benih ini ternyata bisa ee 1 hari 25 hektar ini nanti Rp100.000."
+  },
+  {
+   "t": 102.0,
+   "d": 31.0,
+   "text": "[Musik] akan menjadi sawah produktif dan ee dilaporkan ke saya oleh Pak Gubernur dan Pak Menteri Pertanian peningkatannya Sumatera Selatan akan dari 3 juta ton per tahun seluruh Sumatera Selatan akan menjadi 4 juta. Ini luar biasa."
+  },
+  {
+   "t": 133.0,
+   "d": 24.0,
+   "text": "[Musik] ini sangat kami butuhkan, Bu. Iya."
+  },
+  {
+   "t": 157.0,
+   "d": 12.0,
+   "text": "Karena di daerah kami ini belum pernah adanya kegiatan ataupun saran-saran seperti ini. Jadi, maka itu kami butuhkan sekali untuk penduduk warga Pulau Bua ini."
+  },
+  {
+   "t": 169.0,
+   "d": 31.0,
+   "text": "Harapannya selalu maju dan kami selalu ngpot apa yang e menjadi ee kehendak daripada pemerintah. Tanggapan saya sebagai petani bisa memuaskan petani menjadi tangga pada yang positif. Semoga pemerintah bisa membangkitkan suas semada pangan, bisa memprioritaskan petani di pedu ini."
+  },
+  {
+   "t": 200.0,
+   "d": 10.0,
+   "text": "Positiflah berarti kegiatan petani sekarang sudah diekspos oleh pemerintah ya, diayomi oleh pemerintah. Mungkin itu selanjutnya bisa kami harapkan itu ya."
+  },
+  {
+   "t": 210.0,
+   "d": 4.0,
+   "text": "Harapan kami acara ini kalau bisa jangan cukup di sini."
+  },
+  {
+   "t": 214.0,
+   "d": 40.0,
+   "text": "Untuk selanjutnya petahan ini harus diperhatikan bagaimana cara meningkatkan hasil tani yang kami harapkan dengan [Musik] optimal. Ketahanan pangan itu tidak mungkin bisa diwujudkan oleh satu dua pihak. Dalam konteks bernegara tidak akan mudah bila itu hanya dilakukan oleh pemerintah tunggal. mesti ada kebersamaan yang menyatu antara pemerintah dengan rakyat. Oleh karena itu, ketika pemerintah sudah memiliki programnya, sudah memiliki rancang bangun dan visinya, maka dari rakyat"
+  },
+  {
+   "t": 254.0,
+   "d": 7.0,
+   "text": "membersamai sehingga terjadi akselerasi dan membangun kesadaran bahwa ketahanan itu penting."
+  },
+  {
+   "t": 261.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

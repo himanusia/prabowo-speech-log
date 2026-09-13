@@ -1,0 +1,73 @@
+{
+ "id": "2026-05-19-istana-untuk-anak-sekolah-smpn-94-dan",
+ "video_id": "FrEfcNiDYDQ",
+ "date": "2026-05-19",
+ "date_precise": true,
+ "title": "Istana untuk Anak Sekolah: SMPN 94 dan SMPN 4 Jakarta, 19 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=FrEfcNiDYDQ",
+ "duration_s": 77,
+ "duration_hms": "1:17",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 89,
+ "unique_word_count": 68,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "FrEfcNiDYDQ",
+   "url": "https://www.youtube.com/watch?v=FrEfcNiDYDQ",
+   "title": "Istana untuk Anak Sekolah: SMPN 94 dan SMPN 4 Jakarta, 19 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 9.0,
+   "d": 12.0,
+   "text": "Alhamdulillah hari ini kita bisa masuk mengajak anak-anak kami untuk melihat isi dari istana negara."
+  },
+  {
+   "t": 21.0,
+   "d": 14.0,
+   "text": "[musik] Untuk perasaan aku sendiri sih senang ya karena bisa nambah pengalaman dan juga tahu isi dari semua ruangan yang ada di sini."
+  },
+  {
+   "t": 35.0,
+   "d": 17.0,
+   "text": "Dan ini pengalaman yang sangat luar biasa bagi siswa-siswi SMP 94 karena ee mereka bisa mengetahui secara langsung bagaimana lokasi yang selama ini hanya dilihat dari jauh."
+  },
+  {
+   "t": 52.0,
+   "d": 22.0,
+   "text": "Acara ini dapat menumbuhkan wawasan nasional, dapat memberikan pengetahuan juga mengenai ruangan tempat para pemimpin bangsa ini bekerja dan memberi keputusan."
+  },
+  {
+   "t": 74.0,
+   "d": 12.0,
+   "text": "[musik] [berteriak] [bersorak] [berteriak]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

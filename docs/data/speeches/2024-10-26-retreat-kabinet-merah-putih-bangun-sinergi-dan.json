@@ -1,0 +1,83 @@
+{
+ "id": "2024-10-26-retreat-kabinet-merah-putih-bangun-sinergi-dan",
+ "video_id": "ZPpQzb5EgyE",
+ "date": "2024-10-26",
+ "date_precise": true,
+ "title": "Retreat Kabinet Merah Putih Bangun Sinergi dan Disiplin di Akmil Magelang, 26 Oktober 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ZPpQzb5EgyE",
+ "duration_s": 206,
+ "duration_hms": "3:26",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 373,
+ "unique_word_count": 196,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ZPpQzb5EgyE",
+   "url": "https://www.youtube.com/watch?v=ZPpQzb5EgyE",
+   "title": "Retreat Kabinet Merah Putih Bangun Sinergi dan Disiplin di Akmil Magelang, 26 Oktober 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 11
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 42.0,
+   "text": "[Musik] iya alhamdulillah saya kira ini satu kegiatan yang sangat bagus ya untuk merapikan barisan menyamakan kuisi dan memudahkan misi itu terwujud memang kita perlu gerakan-gerakan kebersamaan dimulai dari kerakan fisik kudian kebersamaan dalam jalan pikiran kemudian kebersamaan dalam hati Nur ah itu kesan J bangun paginya itu Agak repot Saya biasanya kan kita tidurnya jam siap bangun jam subuh habis itu tidur"
+  },
+  {
+   "t": 43.0,
+   "d": 5.0,
+   "text": "lagi kan nanti bangun jam . ahah ini enggak ini kita tidur di jam 2 jam 4."
+  },
+  {
+   "t": 48.0,
+   "d": 32.0,
+   "text": "sudah bunyi tapi itu bagus bahwa hidup itu disiplin tanggung jawab negara itu mau 2 jam mau 1 jam tidur begitu panggilan tugas harus siap ya ke sana sangat baik saya rasa ini adalah suatu langkah yang sangat efektif bagaimana kita di kabinet merah putih ini bisa menyamakan langkah dan frekuensi dan ini dibikin kegiatan yang saya rasa hampir mayoritas anggota kabinet tidak terbiasa baik dari tidur di tenda terus jam . pagi langsung kita"
+  },
+  {
+   "t": 80.0,
+   "d": 31.0,
+   "text": "barisbaris dan senamisi juga materi-materi substansi yang sangat penting dalam pengelolaan pemerintahan jadi ini langkah yang di mana hubungan itu sangat penting Dari chemestri dari hati dan juga dari langkah jadi ini mempercepat karena bapak presiden ingin pemerintahan kabinat merah putih bergerak cepat dan bekerja efektif kegiatan du hari ini sungguh luar biasa eh kekompakan dari seluruh anggota kabinet merah putih semangatnya"
+  },
+  {
+   "t": 111.0,
+   "d": 34.0,
+   "text": "eh satu sama lain saling mengingatkan berangkat bersama-sama makan bersama-sama berkegiatan bersama-sama mendengarkan pengaran bersama-sama luar biasa saya melihat eh teman-teman anggota kabinet sangat eh senang sangat gembira banyak mendapatkan ilmu baru dan terutama kekompakan nah saya melihatnya di sini hari pertama memang saling melihat karena belum hafal semua saya pun juga baru ya kan kaget-kaget juga tapi saya terima kasih kepada bapak presiden yang telah mempercayakan saya"
+  },
+  {
+   "t": 145.0,
+   "d": 33.0,
+   "text": "sebagai KSP Saya berharap ada manfaat kami untukemberikan informasi langsung kepada beliaunya untuk menjaga Marwah kabinet Merah Putih yang Insyaallah 5 tahun ke depan kita akan bekerja terus untuk kepentingan bangsa negara eh kesananya sangat semangat dan eh sangat terinspirasi sekali karena eh arahan Pak Presiden memang kita harus Team work dan saya rasa eh kita berolahraga bersama dan bertinggal bersama ini adalah suatu yang sangat efektif untuk kita bisa memulai teamwor termasuk secara"
+  },
+  {
+   "t": 178.0,
+   "d": 29.0,
+   "text": "literally kita baris bersama harus berirama dan itu pasti saya rasa akan ada manfaatnya untuk ke depan bahwa kitaus harus berirama [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

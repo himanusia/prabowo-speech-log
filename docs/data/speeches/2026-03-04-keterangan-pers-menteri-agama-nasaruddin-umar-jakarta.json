@@ -1,0 +1,137 @@
+{
+ "id": "2026-03-04-keterangan-pers-menteri-agama-nasaruddin-umar-jakarta",
+ "video_id": "_77YSgAg-Fo",
+ "date": "2026-03-04",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Agama Nasaruddin Umar, Jakarta, 4 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=_77YSgAg-Fo",
+ "duration_s": 207,
+ "duration_hms": "3:27",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 28,
+ "token_count": 348,
+ "unique_word_count": 178,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "_77YSgAg-Fo",
+   "url": "https://www.youtube.com/watch?v=_77YSgAg-Fo",
+   "title": "Keterangan Pers Menteri Agama Nasaruddin Umar, Jakarta, 4 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {
+  "IKN": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 14.0,
+   "text": "Baik ya, Teman-teman semuanya ya. Ee saya baru saja ada Bapak Presiden untuk membicarakan persiapan ee Nuzulul Quran."
+  },
+  {
+   "t": 14.0,
+   "d": 11.0,
+   "text": "Jadi insyaallah Nuzulul Quran akan datang direncanakan akan dilakukan di Jakarta ya tempatnya di Istana Negara."
+  },
+  {
+   "t": 25.0,
+   "d": 4.0,
+   "text": "Kami bicarakan juga mengenai teknis pelaksanaannya."
+  },
+  {
+   "t": 29.0,
+   "d": 18.0,
+   "text": "Kalau di istana ya karena banyak alternatif, apakah di IKN, apakah di Istiqlal, apakah di istana ee atau di mana dan ee Bapak Presiden ee memberi petunjuk kita lakukan di Istana Negara."
+  },
+  {
+   "t": 47.0,
+   "d": 14.0,
+   "text": "Saya juga melaporkan persiapan ee lebaran akan datang karena beberapa tempat ya tanggal 19 itu kan hari nyepi."
+  },
+  {
+   "t": 61.0,
+   "d": 38.0,
+   "text": "Hari nyepi kita tahu tidak boleh ada suara-suara berisik, tidak boleh ada kenderaan dan sebagainya. Padahal malam itu juga ada teman-teman kita ee takbir. Nah, alhamdulillah kami ee melaporkan kepada Bapak Presiden sudah ada persepakatan kami dengan ee pemerintah setempat dengan tokoh-tokoh masyarakat di Bali bahwa ee takbir itu tidak bertentangan dengan nyepi. cuman syaratnya ya ee nyepinya berjalan tapi takbirnya juga berjalan"
+  },
+  {
+   "t": 99.0,
+   "d": 14.0,
+   "text": "cuma tidak pakai sound system dan dibatasi waktunya juga dari jam .00 sampai ee jam 09.00 dan lebarannya pun juga ya perbedaan itu kita terima sebagai suatu hal yang biasa di Indonesia."
+  },
+  {
+   "t": 113.0,
+   "d": 10.0,
+   "text": "Nanti kita akan lihat ee sidang isbat penentuannya kapan pastinya akan Idil ee Fitri nanti akan datang."
+  },
+  {
+   "t": 123.0,
+   "d": 26.0,
+   "text": "Kami juga bicarakan tentang ee rencana untuk pembayaran zakat seperti hanya tahun-tahun yang lalu ya untuk Bapak Presiden bersama dengan para pejabatnya itu juga kita akan jadwalkan di Istana Negara. Jadi itu yang kami bicarakan di pembicaraan tadi. Saya kira cukup ya."
+  },
+  {
+   "t": 149.0,
+   "d": 13.0,
+   "text": "Ya, belum itu pada umumnya tema sentralnya itu. Oke, makasih lagi, Pak."
+  },
+  {
+   "t": 162.0,
+   "d": 11.0,
+   "text": "Jadi begini ya itu juga kan biasa Bapak Presiden mengundang tokoh-tokoh agama ulama untuk buka puasa ya. Besok itu juga kita bicarakan teknisnya ya."
+  },
+  {
+   "t": 173.0,
+   "d": 5.0,
+   "text": "Alhamdulillah seperti biasa tokoh-tokohnya siapa?"
+  },
+  {
+   "t": 178.0,
+   "d": 15.0,
+   "text": "Iya biasa seperti yang sering diundang itu tokoh-tokoh agama ya yang pionirnya dominannya to ya ee ormas-ormas Islam, pimpinan-pimpinan pondok sesuai dengan kapasitas yang ditampung oleh ee ruangan yang ada."
+  },
+  {
+   "t": 193.0,
+   "d": 4.0,
+   "text": "Berarti ada enggak ee desakan hidur dari BOP?"
+  },
+  {
+   "t": 197.0,
+   "d": 3.0,
+   "text": "kita enggak bicara akan dibahas juga."
+  },
+  {
+   "t": 200.0,
+   "d": 4.0,
+   "text": "Tapi pernah ngobrol enggak sih sama tokoh-tokoh agama tentang e posisi Indonesia di BP?"
+  },
+  {
+   "t": 204.0,
+   "d": 3.0,
+   "text": "Ya, kita enggak bicarakan. Oke deh, makasih ya, Prof."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

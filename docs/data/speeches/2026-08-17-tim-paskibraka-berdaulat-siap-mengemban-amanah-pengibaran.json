@@ -1,0 +1,78 @@
+{
+ "id": "2026-08-17-tim-paskibraka-berdaulat-siap-mengemban-amanah-pengibaran",
+ "video_id": "5mCry8WTE4Q",
+ "date": "2026-08-17",
+ "date_precise": true,
+ "title": "Tim Paskibraka “Indonesia Berdaulat” Siap Mengemban Amanah Pengibaran Sang Merah Putih, 17/8/2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=5mCry8WTE4Q",
+ "duration_s": 114,
+ "duration_hms": "1:54",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 137,
+ "unique_word_count": 83,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5mCry8WTE4Q",
+   "url": "https://www.youtube.com/watch?v=5mCry8WTE4Q",
+   "title": "Tim Paskibraka “Indonesia Berdaulat” Siap Mengemban Amanah Pengibaran Sang Merah Putih, 17/8/2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 16
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 23.0,
+   "text": "Keputusan nomor K 6/8 Romawi G 2026 tentang penunjukan dan penetapan tim pengibar dan penurunan sang merah putih dalam rangka upacara peringatan hari ulang tahun ke-81 Kemerdekaan Republik Indonesia tahun 2026."
+  },
+  {
+   "t": 24.0,
+   "d": 14.0,
+   "text": "Dengan rahmat Tuhan Yang Maha Esa, Kepala Staf Kogartap 1 Jakarta selaku Wakil Ketua Bidang Upacara menimbang dan seterusnya, mengingat dan seterusnya."
+  },
+  {
+   "t": 38.0,
+   "d": 26.0,
+   "text": "memperhatikan dan seterusnya menetapkan memutuskan satu tim A Indonesia berdaulat sebagai tim pasukan pengibar sang merah putih pada upacara peringatan detik-detik proklamasi tanggal 17 Agustus 2026 pukul 10.00 waktu Indonesia Barat di Istana Merdeka."
+  },
+  {
+   "t": 64.0,
+   "d": 31.0,
+   "text": "Dua, tim B Indonesia Adil Makmur sebagai tim pasukan penurunan sang merah putih pada upacara penurunan sang merah putih tanggal 17 Agustus 2026 pukul 17.00 waktu Indonesia Barat di Istana Merdeka."
+  },
+  {
+   "t": 95.0,
+   "d": 17.0,
+   "text": "Kita persembahkan kepada bangsa dan negara yang terbaik pada hari ini dengan baan sore nanti. Saya percaya Tuhan Allah yang maha maha kuasa meredai kita semuanya untuk melaksanakan tugas ini dengan baik."
+  },
+  {
+   "t": 112.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

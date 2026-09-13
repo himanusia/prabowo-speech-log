@@ -1,0 +1,122 @@
+{
+ "id": "2026-03-26-kunjungan-mendadak-di-senen-jakarta-26-maret",
+ "video_id": "5QrdgbOqEdw",
+ "date": "2026-03-26",
+ "date_precise": true,
+ "title": "Kunjungan Mendadak Presiden Prabowo di Senen, Jakarta, 26 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=5QrdgbOqEdw",
+ "duration_s": 167,
+ "duration_hms": "2:47",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 336,
+ "unique_word_count": 153,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5QrdgbOqEdw",
+   "url": "https://www.youtube.com/watch?v=5QrdgbOqEdw",
+   "title": "Kunjungan Mendadak Presiden Prabowo di Senen, Jakarta, 26 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 5,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 8.0,
+   "d": 13.0,
+   "text": "sini bisa nih. Ini siapa?"
+  },
+  {
+   "t": 21.0,
+   "d": 16.0,
+   "text": "Tadi pada bilang saya ke situ aja salaman sama Pak Brow. Pakowo [tertawa] udah dapat cium tangannya. Saya mau minta bantuan PKH PPNT-nya biar keluar lagi. Tadi awalnya Ibu lagi ngapain?"
+  },
+  {
+   "t": 37.0,
+   "d": 32.0,
+   "text": "Lagi lagi masak kita di dapur. Jadi buru-buru keluar kita ada Bapak Presiden. Bapak Presiden, \"Wah, Bapak saya bapak ganteng.\" Saya bilang, \"Saya buru-buru aja ke sana langsung pas keluar cium tangan.\" Dapat cium tangannya Prabowo wangi Bu yang hilang-hilang, Bu. Pak Prabowo biar ee tambah sukses, sehat selalu, sehat biar bisa jangan lupa sama yang di bawah gitu aja saya pesannya. Tetap bantuannya masing jalan terus gitu aja."
+  },
+  {
+   "t": 69.0,
+   "d": 5.0,
+   "text": "Kalau Ibu ada enggak, Bu? Ya, MBG. Heeh."
+  },
+  {
+   "t": 74.0,
+   "d": 27.0,
+   "text": "Pokoknya biar anak sekolah itu bisa ini lagi dah. Nah, karena kita kan orang di sini kan mayoritasnya pada di bawah garis gitu ya, Mbak ya. Kita juga kalau buat sekolah berjalan ya, Mbak biar biar berlanjut teruslah gitu. Kalau menurut ibu rumah tangga nih saya gitu buat anak-anak sekolah gitu."
+  },
+  {
+   "t": 101.0,
+   "d": 2.0,
+   "text": "Iya, ketemu tapi enggak sempat kemari."
+  },
+  {
+   "t": 103.0,
+   "d": 40.0,
+   "text": "doang enggak sempat kemari pengin gitu lu masalah tempat yang siapa sih yang apa namanya namanya orang pertama di Indonesia ya kan yang baru baru kali ini datang ke sini mau apa nginjak di rel gitu loh ya terharuah hampir mau nangis dengarnya orang baru pertama kali ini datang ke sini kayaknya gimana gitu senang hati ya minta tolong apa tempat tinggal bantu tempat tinggal Biar kita layak sekolah sekolah"
+  },
+  {
+   "t": 143.0,
+   "d": 8.0,
+   "text": "salim. Salim terus ee tadi kan ada Pak Prabowo, Pak."
+  },
+  {
+   "t": 151.0,
+   "d": 1.0,
+   "text": "Ke sini, Pak."
+  },
+  {
+   "t": 152.0,
+   "d": 4.0,
+   "text": "Ketemu enggak, Pak? Tadi ketemu. Saya justru yang di depan sendiri kayaknya nih."
+  },
+  {
+   "t": 156.0,
+   "d": 3.0,
+   "text": "Tadi ceritanya gimana, Pak? Lagi ngapain terus? Kaget enggak?"
+  },
+  {
+   "t": 159.0,
+   "d": 12.0,
+   "text": "Ya kaget, Bu. spontanitas kan dari pagi memang ada sih Bulalang yang nyenter ke sono kemari [musik] cuman saya bilang, \"Pak, dalam rangka apa?\" Kata saya enggak ada apa-apa katanya kata penjaga-penjaga."
+  },
+  {
+   "t": 171.0,
+   "d": 1.0,
+   "text": "Terus tadi ngobrol apa, Pak sama Presiden?"
+  },
+  {
+   "t": 172.0,
+   "d": 3.0,
+   "text": "Ya kata Pak Prabowo, \"Mau enggak dibikinin rumah susun?\" Saya bilang, \"Mau, Pak, karena saya enggak punya tempat tinggal. Memang ini adanya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

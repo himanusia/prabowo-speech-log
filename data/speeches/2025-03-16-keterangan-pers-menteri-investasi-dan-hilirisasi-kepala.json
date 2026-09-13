@@ -1,0 +1,80 @@
+{
+ "id": "2025-03-16-keterangan-pers-menteri-investasi-dan-hilirisasi-kepala",
+ "video_id": "3zHuvfAjNts",
+ "date": "2025-03-16",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Bogor, 16 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=3zHuvfAjNts",
+ "duration_s": 147,
+ "duration_hms": "2:27",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 289,
+ "unique_word_count": 142,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "3zHuvfAjNts",
+   "url": "https://www.youtube.com/watch?v=3zHuvfAjNts",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, Bogor, 16 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 7,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 4
+  },
+  "Hilirisasi": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 42.0,
+   "text": "ya tadi kami hari ini bertemu dengan bapak presiden e dari investasi juga danantara lengkap Kami hadir dan juga ada beberapaeri lainnya dan memang kita apainentarisasi beberapa proek hilirisasi baik di dalam mineral batuara dan jugaulture dan juga pertanian perkebunan bersama-ama denganit semua E dan kita prioritaskan proyek-proyek mana saja yang memberikan dampak positif terutama dalam bidang penciptaan lapan pekerjaan itu adalah salah satu parameter utama yang tadi kami lihat dan"
+  },
+  {
+   "t": 42.0,
+   "d": 33.0,
+   "text": "kemudian juga kita melihat yang mempunyai e dampak tentunya tidak hanya dari segi ekonomi tapi itu yang disampaikanan pekerjaan apa penurunan impor dan juga bisa meningkatkan ekspor dan di mana yang kita juga mempunyai daya yang lebih tinggi nah itu yang kita coba analisa dan eh proyek-proyek itu juga kita lihat bagaimana dampaknya dari industrialisasinya jadi memang ada hilirisasi ini yang baru tahap pertama tahap kedua tapi arah bapak Presiden"
+  },
+  {
+   "t": 75.0,
+   "d": 32.0,
+   "text": "adalah yang paling banyak menciptakan eh apa multipelnya sehingga ini bisa menjadi industri industrialisasi karena hilirisasi ini adalah bagian dari ujungnya industrialisasi ini Nah industrialisasinya itu juga kita bisa lihat mana yang kita prioritaskan apa ee dan kalau bisa ini juga melibatkan para ee petani baik itu petani tambak maupun petani dari sektor perkebunan itu sendiri ee Dan juga bagaimana itu bisa menciptakan"
+  },
+  {
+   "t": 107.0,
+   "d": 37.0,
+   "text": "eh peningkatan perekonomian di seluruh masyarakat petani dan juga masyarakat sekitar ee tempat ee usaha itu berada gitu Jadi itu kita bisa semua dan Ee Kita liat kita lihat juga nanti dari dari danantara ini Sisi ee pendanaannya Seperti apa kita akan evaluasi semua dari danantara akan melakukan evaluasi semua ini secara menyeluruh dari proyek-proyek itu yang ada eh kemudian kita akan e lihat mana yang bisa nanti Misalnya berjalan terlebih dahulu tetapi tetap semua ini mengacu kepada kriteria atau parameter"
+  },
+  {
+   "t": 144.0,
+   "d": 3.0,
+   "text": "yang sudah ditentukan oleh danantara seper itu fore"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

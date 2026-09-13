@@ -1,0 +1,83 @@
+{
+ "id": "2025-07-12-keterangan-pers-menteri-perdagangan-budi-santoso-brussel",
+ "video_id": "AbyIcxc9kfE",
+ "date": "2025-07-12",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Perdagangan Budi Santoso, Brussel, 12 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=AbyIcxc9kfE",
+ "duration_s": 121,
+ "duration_hms": "2:01",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 290,
+ "unique_word_count": 138,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "AbyIcxc9kfE",
+   "url": "https://www.youtube.com/watch?v=AbyIcxc9kfE",
+   "title": "Keterangan Pers Menteri Perdagangan Budi Santoso, Brussel, 12 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 26.0,
+   "text": "Pak, soal perdagangan ini kalau misalnya kesepakatannya oke kan sebenarnya ada tujuh permasalahan yang di IUDR itu ya, Pak, yang dipermasalahkan juga kan. Nah, Indonesia kan juga terkena dampaknya ya, Pak. Dari segi perdagangan gimana, antisipasinya seperti apa, kemudian kalau ini udah kesepakatan cepanya udah terjalin, berarti kan yang tujuhnya itu berarti ada keringanan atau seperti apa, Pak? Ya, sebenarnya kan ketika proses"
+  },
+  {
+   "t": 26.0,
+   "d": 6.0,
+   "text": "IUCP ini mau selesai ya, hal-hal seperti UDR dan sebagainya itu mulai melunak ya."
+  },
+  {
+   "t": 32.0,
+   "d": 14.0,
+   "text": "Jadi nanti harapan kita ini kita mulai dulu aja kita menyelesaikan IO cipa dulu yang lain itu sudah semnya sudah mulai soft gitu ya artinya sudah mulai melunaklah karena mereka juga tentu pengin bermitra dengan kita ke depan. Iya."
+  },
+  {
+   "t": 46.0,
+   "d": 16.0,
+   "text": "Kalau dari soal yang IU CPA ini sebenarnya ada yang dipermasalahkan enggak sih Pak? Ini kan soal ekspor ya dari Indonesia ke sini ya. Dari Uni Eropa ada enggak sih satu hal atau dua hal mungkin yang jadi konsern dari mereka sehingga ini cukup lama juga kesepakatan yang terjalin Pak?"
+  },
+  {
+   "t": 62.0,
+   "d": 31.0,
+   "text": "Ya namanya ini ya namanya negosiasi itu kan ee tawar-menawar jual beli sebenarnya sih ee negosiasi itu kan kesepakatan. Jadi untuk mencapai kesepakatan yang saling menguntungkan kan kadang tidak mudah. Tetapi semua sudah selesai. tadi seperti disampaikan Pak Mino, semua sudah selesai secara subtan sudah enggak ada masalah ya sudah jadi besok atau ya besok ya presiden tinggal mengumumkan jadi enggak ada masalah ya dan ini alternatif baru ya buat pasar"
+  },
+  {
+   "t": 93.0,
+   "d": 25.0,
+   "text": "kita ya kan impor IU itu kedunia kan 6,6 triliun US kalau kita bandingkan Amerika kan3 something ya ee triliun ya Jadi kalau kita bisa masuk lebih besar ke IUPA ya ke IU saya pikir ini pasar yang bagus buat kita untuk alternatif pasar-pasar di negara lain ya gitu ya cukup ya."
+  },
+  {
+   "t": 118.0,
+   "d": 3.0,
+   "text": "Makasih ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

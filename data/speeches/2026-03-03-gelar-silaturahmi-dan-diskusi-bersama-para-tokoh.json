@@ -1,0 +1,148 @@
+{
+ "id": "2026-03-03-gelar-silaturahmi-dan-diskusi-bersama-para-tokoh",
+ "video_id": "05xWm3UcqmQ",
+ "date": "2026-03-03",
+ "date_precise": true,
+ "title": "Presiden Prabowo Gelar Silaturahmi dan Diskusi Bersama para Tokoh Bangsa, 3 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=05xWm3UcqmQ",
+ "duration_s": 403,
+ "duration_hms": "6:43",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 31,
+ "token_count": 258,
+ "unique_word_count": 148,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "05xWm3UcqmQ",
+   "url": "https://www.youtube.com/watch?v=05xWm3UcqmQ",
+   "title": "Presiden Prabowo Gelar Silaturahmi dan Diskusi Bersama para Tokoh Bangsa, 3 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 16.0,
+   "d": 10.0,
+   "text": "Bapak tadi malam telepon staf Bapak ya. malam."
+  },
+  {
+   "t": 26.0,
+   "d": 11.0,
+   "text": "Oh iya, Pak. Pertemuan denganus. Iya."
+  },
+  {
+   "t": 37.0,
+   "d": 5.0,
+   "text": "Siap."
+  },
+  {
+   "t": 42.0,
+   "d": 10.0,
+   "text": "Mau menyapa puasa. Selamat berbuka puasa."
+  },
+  {
+   "t": 52.0,
+   "d": 10.0,
+   "text": "Sehat, Abang? Sehat. Apa kabar? Alhamdulill. Alhamdulillah. Alhamdulillah."
+  },
+  {
+   "t": 62.0,
+   "d": 1.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 63.0,
+   "d": 51.0,
+   "text": "Iya. Eh, a sama sejak tadi malam Bapak Presiden mengundang langsung seluruh presiden terdahulu, seluruh seluruh wakil presiden terdahulu, kemudian para menteri luar negeri terdahulu, termasuk juga para ketua umum partai politik yang di parlemen."
+  },
+  {
+   "t": 114.0,
+   "d": 23.0,
+   "text": "Kemudian alhamdulillah hampir sebagian besar hadir tentunya ini nanti malam untuk berdiskusi, bersilaturahmi, saling bertukar pandangan. Bapak Presiden ingin mendengar pandangan dari tokoh-tokoh tersebut. Kira-kira itu kira nanti kita lihat ada has enggak, Mas? Ada hal yang khusus. Siap. Makasih ya, Mas."
+  },
+  {
+   "t": 137.0,
+   "d": 5.0,
+   "text": "Ada poin utama mungkin soal geopolitik, Mas, yang akan dibahas? Semuanya dibahas. Oke."
+  },
+  {
+   "t": 142.0,
+   "d": 3.0,
+   "text": "Apa aja tuh, Mas? Poinnya ya nanti karena belum mulai gitu, Mbak."
+  },
+  {
+   "t": 145.0,
+   "d": 4.0,
+   "text": "Yang masih hadir siapa aja? Terima kasih semuanya sudah kasih hadir."
+  },
+  {
+   "t": 149.0,
+   "d": 17.0,
+   "text": "Pak Presiden Joko Widodo, Pak Presiden Susilo Bambang Yudoyono, kemudian tadi Bapak Wapres Yusuf Kala, kemudian rencananya Pak Wapres Maruf Amin, kemudian Pak Wapres Budono juga hadir."
+  },
+  {
+   "t": 166.0,
+   "d": 3.0,
+   "text": "Begitu Bu Mega Mas konfirmasi hadir enggak, Mas?"
+  },
+  {
+   "t": 169.0,
+   "d": 2.0,
+   "text": "Saya belum cek di protokol nanti kita lihat."
+  },
+  {
+   "t": 171.0,
+   "d": 4.0,
+   "text": "Kalau untuk ketum parpol Mas untuk ketum parpolnya siapa? Koalisi pemerintah aja, Mas ya."
+  },
+  {
+   "t": 175.0,
+   "d": 7.0,
+   "text": "Maksudnya pendukung ini tadi ada delapan partai ya nanti kita lihat. Saya belum cek daftarnya juga. Terima kasih."
+  },
+  {
+   "t": 182.0,
+   "d": 45.0,
+   "text": "Terima kasih ya Masot Rond punya apa? Ada yang di belakang di dalam ada sehat."
+  },
+  {
+   "t": 227.0,
+   "d": 181.0,
+   "text": "Sehat Saya kembali sudah Hasan Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 408.0,
+   "d": 8.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh. Selamat malam. Salam sejahtera kita sekalian."
+  },
+  {
+   "t": 416.0,
+   "d": 3.0,
+   "text": "Shalom. Sve. Om swastiastu. Namo buddhaya. Salam kebajikan."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

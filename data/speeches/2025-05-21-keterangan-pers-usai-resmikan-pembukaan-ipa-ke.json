@@ -1,0 +1,73 @@
+{
+ "id": "2025-05-21-keterangan-pers-usai-resmikan-pembukaan-ipa-ke",
+ "video_id": "BQA3S0SlZLY",
+ "date": "2025-05-21",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo usai Resmikan Pembukaan IPA ke 49, Tangerang, 21 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=BQA3S0SlZLY",
+ "duration_s": 91,
+ "duration_hms": "1:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 143,
+ "unique_word_count": 90,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "BQA3S0SlZLY",
+   "url": "https://www.youtube.com/watch?v=BQA3S0SlZLY",
+   "title": "Keterangan Pers Presiden Prabowo usai Resmikan Pembukaan IPA ke 49, Tangerang, 21 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 5.0,
+   "text": "Pak, itu mau invest di mana aja, Pak? Sehat, Pak."
+  },
+  {
+   "t": 5.0,
+   "d": 22.0,
+   "text": "Tadi eh beliau dari apa? E Dwu Engineering ingin di bidang ee migas, di bidang ee konstruksi. Jadi kita terbuka, kita welcome semua pengusaha yang mau ikut serta dari manaun ya kan."
+  },
+  {
+   "t": 27.0,
+   "d": 10.0,
+   "text": "kita sangat terbuka kepada pihak manaun ee mereka ingin partisipasi. Tadi hari ini juga kita lihat antusiasme dari nasional ada 60 negara ikut di situ ya."
+  },
+  {
+   "t": 37.0,
+   "d": 17.0,
+   "text": "60 Pak 60 iya 60 negara ikut perusan-perusahaan besar zon mobil ee BPI BPI Bapak ya dan besar-besar mereka juga kegiatannya sangat besar di sini."
+  },
+  {
+   "t": 54.0,
+   "d": 37.0,
+   "text": "Mubadala menemukan ee ladang gas salah satu terbesar giant Pak di di e Andaman di Asia Tenggara mungkin e salah satu ladang terbesar selama berapa puluh tahun ya tadi kalau tidak salah mereka laporkan 10 10 TCF luar biasa ya. Jadi ini saya kira 2008 2009 kita akan kita akan ee mencapai target kita ya. Siap. Sasa pada pangan. Terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": true
+}

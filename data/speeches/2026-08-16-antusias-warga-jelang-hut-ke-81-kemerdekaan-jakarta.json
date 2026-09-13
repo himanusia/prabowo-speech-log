@@ -1,0 +1,123 @@
+{
+ "id": "2026-08-16-antusias-warga-jelang-hut-ke-81-kemerdekaan-jakarta",
+ "video_id": "gxzLqk-Q6hM",
+ "date": "2026-08-16",
+ "date_precise": true,
+ "title": "Antusias Warga Jelang HUT ke-81 Kemerdekaan RI, Jakarta, 16 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=gxzLqk-Q6hM",
+ "duration_s": 164,
+ "duration_hms": "2:44",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 358,
+ "unique_word_count": 177,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "gxzLqk-Q6hM",
+   "url": "https://www.youtube.com/watch?v=gxzLqk-Q6hM",
+   "title": "Antusias Warga Jelang HUT ke-81 Kemerdekaan RI, Jakarta, 16 Agustus 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 20.0,
+   "text": "[musik] Ee kalau saya ngeluar dari hari pertama itu kan enggak dapat-dapat ya. Terus saya dapatnya di pas tanggal 11 itu yang terakhir [musik] yang kuota tambahan."
+  },
+  {
+   "t": 24.0,
+   "d": 6.0,
+   "text": "Kalau aku kan dari 5 tanggal 5 udah mantengin tuh di HP. Eh, tapi ternyata nunggu-nunggu mulu kan yang 4 jam itu."
+  },
+  {
+   "t": 30.0,
+   "d": 6.0,
+   "text": "Terus di tanggal 7 aku nyoba buat di e komputer sekolah. Eh, ternyata dapat. Alhamdulillah banget dapatnya."
+  },
+  {
+   "t": 36.0,
+   "d": 9.0,
+   "text": "Terus ada triknya juga katanya kalau mau dapat itu kita nge apa sih? Nunggu web-nya itu dari semalam jadi biar dapat."
+  },
+  {
+   "t": 45.0,
+   "d": 22.0,
+   "text": "Kan ikutnya hari 5 hari awalnya ya. 5 hari awal itu kita udah nyoba-nyoba masih stuck gagal terus. Ya udah mungkin belum rezeki ya. Pas ada info dari Menteri Sekretaris Negara katanya ada tambahan. Jadi stay lagi tuh di hari Selasa tanggal 11 itu alhamdulillah dapat."
+  },
+  {
+   "t": 67.0,
+   "d": 16.0,
+   "text": "Jujur susah banget ini. Benar-benar perjuangan banget. Aku kok aku tuh sebenarnya udah enggak alarm ya cuman ketiduran dan pas hari kedua begitu aku bangun aku langsung ngeluar dan ternyata dapat. Ini gongnya sih guys. Susah banget. Benar-benar susah banget ni warnya."
+  },
+  {
+   "t": 83.0,
+   "d": 21.0,
+   "text": "[musik] Kalau untuk ngantrinya sih alhamdulillah mudah ya. Kita datang langsung tunjukin asal sesuai barcode yang telah di email sama bawa KTP sesuai yang data yang kita daftarkan. Udah nanti dapat antrian cepat sih karena kan loketnya banyak ya."
+  },
+  {
+   "t": 104.0,
+   "d": 18.0,
+   "text": "Ee prosesnya mudah banget sih tadi kita banget coba panggilnya. Iya. Ngambil nomor antrian terus nunggu sebentar doang. Terus juga adem juga kan di atas ya. Aku udah langsung itu nomor antriannya langsung enggak lama sih nunggunya."
+  },
+  {
+   "t": 122.0,
+   "d": 8.0,
+   "text": "Pengibaran bendera dong pastinya. Pas pas kibranya itu ben menurut aku ya itu benar-benar keren banget kayak gagah banget. Apalagi pas ada pasukan kudanya."
+  },
+  {
+   "t": 130.0,
+   "d": 2.0,
+   "text": "Wah, itu benar-benar keren banget sih."
+  },
+  {
+   "t": 132.0,
+   "d": 4.0,
+   "text": "Lebih ke itu sih, atraksi pesawat segala macam."
+  },
+  {
+   "t": 136.0,
+   "d": 10.0,
+   "text": "Karena kan kita biasa lihat di TV ya, sekarang ngelihat langsung lebih ke senang aja gitu. Di atas kepala sendiri tinggal nengok kan."
+  },
+  {
+   "t": 146.0,
+   "d": 9.0,
+   "text": "Ee kalau aku jujur ee pengin dengerin itu mengheningkan apa lagu menghentingkan cipta secara langsung kan kayaknya bikin itu ya merinding ya."
+  },
+  {
+   "t": 155.0,
+   "d": 10.0,
+   "text": "Aku mau ngelihat ini para prajurit-prajurit yang pada pakai seragam. Nah, itu tuh di pas di TV ngelihatnya wah keren banget gitu. Jadi pengin enggak secara langsung sama ngerasain pesta rakyatnya sih."
+  },
+  {
+   "t": 165.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,72 @@
+{
+ "id": "2025-03-10-pimpin-ratas-terkait-percepatan-hilirisasi-istana-merdeka",
+ "video_id": "WTe2KAb2sgg",
+ "date": "2025-03-10",
+ "date_precise": true,
+ "title": "Presiden Prabowo Pimpin Ratas Terkait Percepatan Hilirisasi, Istana Merdeka, 10 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=WTe2KAb2sgg",
+ "duration_s": 157,
+ "duration_hms": "2:37",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "token_count": 261,
+ "unique_word_count": 149,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "WTe2KAb2sgg",
+   "url": "https://www.youtube.com/watch?v=WTe2KAb2sgg",
+   "title": "Presiden Prabowo Pimpin Ratas Terkait Percepatan Hilirisasi, Istana Merdeka, 10 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Hilirisasi": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 39.0,
+   "text": "baik teman-teman media kami baru selesai rapat rapat terbatas terkait dengan hilisasi dan ini merupakan tindak lanjut daripada pertemuan kemarin minggu lalu yang dipimpin oleh Bapak Presiden dan tadi kami melakukan rapat untuk membahas implementasi teknis di mana salah satu diantara yang kamiahokus yang tadinya kita akan bangun kurang lebih sekitar 500.000 barel karena kita impor sekitar 1 juta barel per Day Tadi ada terjadi perubahan akan"
+  },
+  {
+   "t": 39.0,
+   "d": 40.0,
+   "text": "kita bangun nantinya sekitar 1 juta barel dan itu akan kita lakukan di beberapa tempat baik ada di wilayah Kalimantan kemudian ee Jawa Sulawesi dan Maluku Papua sehingga ini menjadi pemerataan Yang kedua kita tetap akan membangun storet yang kapasitas sekitar 1 juta barel perd di samping itu kita juga akan langsung melakukan pembangunan ee dme sebagai substitusi daripada LPG ini juga kita akan lakukan di samping beberapa e hilirisasi di sektor perikanan perkebunan dan Kehutanan"
+  },
+  {
+   "t": 79.0,
+   "d": 43.0,
+   "text": "khusus untuk e mineral batubara selain daripada bokit kita juga akan mendorong untuk persoalan nikel dan Tima dan satu lagi kita akan bangun ee solar panel dan pasir kuarsa ini kita akan tarik menjadi bagian daripada e mineral kritikal yang ini menjadi potensi keunggulan komparatif bagi bangsa kita Saya pikir itu e nanti kita lihat nanti kita lihat tapi itu sudah masuk dalam program ee strategis dan prioritas hurisasi ya P tadi Pak p"
+  },
+  {
+   "t": 122.0,
+   "d": 35.0,
+   "text": "eh Sumatera dan Kalimantan salah satu di antara opsinya seperti itu tapi nanti kalau sudah final saya akan umumkan lagi ya ada dua Amerika dan China masih seperti sebelumnya dan yang yang sudah seperti itu nanti mulai besok minggu besok kita akan maraton rapat-at untuk mengecek teknologinya termasuk dalamnya adalah teknologi refener Ya baik"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,87 @@
+{
+ "id": "2025-01-21-pimpin-ratas-terkait-kebijakan-devisa-hasil-ekspor",
+ "video_id": "1J1IFd_FT2I",
+ "date": "2025-01-21",
+ "date_precise": true,
+ "title": "Presiden Prabowo Pimpin Ratas Terkait Kebijakan Devisa Hasil Ekspor, Istana Merdeka, 21 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=1J1IFd_FT2I",
+ "duration_s": 284,
+ "duration_hms": "4:44",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 37,
+ "token_count": 458,
+ "unique_word_count": 242,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "1J1IFd_FT2I",
+   "url": "https://www.youtube.com/watch?v=1J1IFd_FT2I",
+   "title": "Presiden Prabowo Pimpin Ratas Terkait Kebijakan Devisa Hasil Ekspor, Istana Merdeka, 21 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 11,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 3,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 47.0,
+   "text": "asalamualaikum warahmatullahi wabarakatuh salam sejahtera buat kita semua eh tadi dari rapat terbatas terkait dengan harga gas nanti akan ee dibahas tersendiri masih kita sempurnakan regulasinya namun tadi Eh bapak presiden telah meminta untuk dilakukan eh penjelasan terkait dengan devisa hasil ekspor jadi terkait dengan devisa hasil ekspor itu ee diberlakukan sebesar 100% untuk periode 1 tahun dan untuk itu pemerintah dan Bi mempersiapkan eh"
+  },
+  {
+   "t": 47.0,
+   "d": 40.0,
+   "text": "fasilitas yang berupa tarif PPH 0% atas pendapatan bunga pada instrumen penempatan devisa hasil ekspor kalau reguler biasa kena pajak 20% tapi untuk dhe 0%. kemudian ee atas instrumen penempatan devisa hasil ekspor agunan kredit rupiah kalau mau menggunakan back to back eksportir dapat memanfaatkan instrumen penempatan S eh dhe sebagai agunan back to back kredit Rupiah dari bank maupun LPI untuk kebutuhan"
+  },
+  {
+   "t": 87.0,
+   "d": 44.0,
+   "text": "ee rupiah di dalam negeri kemudian undering transaksi swap antar nasabah dan perbankan eksportir dapat memanfaatkan instrumen swap dengan bank dalam hal memiliki kebutuhan rupiah untuk kegiatan usahanya Kemudian untuk for ex SW antara bank Dan Bi sportir dapat meminta bank untuk mengalihkan D yangmikitirjadi Bi an rupiah untuk kegiatan usaha di dalam negeri nah bagian dari penyediaan dana yang dijamin oleh agunan termasuk agunan berbentuk cash kolateral giro"
+  },
+  {
+   "t": 131.0,
+   "d": 39.0,
+   "text": "deposit tabungan ini memenuhi persyaratan tertentu dikecualikan dari BMK bmpk dari batas maksimal pemberian kredit dengan demikian penyediaan dana yang menggunakan instrumen penempatan devisa hasil ekspor SDA sebagai agunan tidak akan mempengaruhi daripada Giring rasio atau rasio hutang terhadap ekuitas dan perusahaan diharapkan dapat menjaga tingkat utang daripada eksportir nah ini diberikan kepada ee sektor eh mineral batu bara serta ee ee sumber daya alam lain termasuk kelapa"
+  },
+  {
+   "t": 170.0,
+   "d": 39.0,
+   "text": "sawit kemudian ee sektor ee minyak bumi dan gas alam itu tidak ee diikutkan kemudian eh sektor perikanan kehutanan eh seluruhnya diberlakukan dan eh terhadap devisa hasil ekspor dapat dikonversi ke mata uang Rupiah dan ini diperhutingkan sebagai pengurang besaran prentasi kewajiban penempatan devisa hasil ekspor nah konversi ke dalam rupiah dilakukan dalam rangka menambahkan suai dolar tanpa intervensi berlebihan dari Bi dan juga dari suku"
+  },
+  {
+   "t": 209.0,
+   "d": 44.0,
+   "text": "bunga maupun as mengurangi volatilitas rupiah dan membantu kebutuhan operasional perusahaan kemudian penggunaan fas bisa juga menggunakan fas untuk pembayaran pungutan negara pajak royalti dan dividen ini diperhunungkan sebagai pengurang besaran prentasi kewajiban penempatan dhe terhadap kebijakan ini ee pemerintah akan segera merevisi ee ee PP Nomor 36 dan akan diberlakukan per 1 Maret tahun ini dan untuk itu ee baik eh"
+  },
+  {
+   "t": 253.0,
+   "d": 31.0,
+   "text": "Bi OJK perbankan Bea Cukai akan mempersiapkan sistem dan oleh karena itu nanti kami akan juga memberikan eh sosialisasi kepada para stakeholder Demikian Ya jelas terima kasih wasalamualaikum untuk buwmn itu tetap sama Pak atau ada perlakuan khusus enggak Pak kalau untuk buwmn sendiri sama sama su alasan alasan DH tahu itu kenapa I tentu kita e comparable dengan negara lain apakah itu Malaysia ataupun Thailand prram enggak ada hubungan dengan makam bergizi gratis kali ya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

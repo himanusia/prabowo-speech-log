@@ -1,0 +1,73 @@
+{
+ "id": "2026-04-09-resmikan-pabrik-perakitan-kendaraan-komersial-berbasis-listrik",
+ "video_id": "g9IAsgFUrIU",
+ "date": "2026-04-09",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Pabrik Perakitan Kendaraan Komersial Berbasis Listrik, 9 April 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=g9IAsgFUrIU",
+ "duration_s": 77,
+ "duration_hms": "1:17",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 67,
+ "unique_word_count": 52,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "g9IAsgFUrIU",
+   "url": "https://www.youtube.com/watch?v=g9IAsgFUrIU",
+   "title": "Presiden Prabowo Resmikan Pabrik Perakitan Kendaraan Komersial Berbasis Listrik, 9 April 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 2.0,
+   "text": "Kita sangat kuat."
+  },
+  {
+   "t": 3.0,
+   "d": 6.0,
+   "text": "Semakin kuat pertumbuhan kita baik."
+  },
+  {
+   "t": 9.0,
+   "d": 27.0,
+   "text": "Tahun depan kita akan bikin kejutan untuk seluruh dunia. Indonesia sedang bangkit. This is waking up. We will not be anymore the sleeping [musik] giant. We are rising."
+  },
+  {
+   "t": 36.0,
+   "d": 33.0,
+   "text": "[musik] Kalau Jepang punya Isuzu, punya Hino. Kalau Korea punya Hyundai Dawo, saya berharap berapa tahun lagi kita akan menganggap melihat sektor sebagai champion, salah satu champion dari Indonesia."
+  },
+  {
+   "t": 69.0,
+   "d": 9.0,
+   "text": "[musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

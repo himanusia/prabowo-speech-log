@@ -1,0 +1,87 @@
+{
+ "id": "2024-11-11-keterangan-pers-menteri-investasi-dan-hilirisasi-kepala",
+ "video_id": "5ERHhlufGhc",
+ "date": "2024-11-11",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, 11 November 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=5ERHhlufGhc",
+ "duration_s": 241,
+ "duration_hms": "4:01",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 31,
+ "token_count": 463,
+ "unique_word_count": 200,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5ERHhlufGhc",
+   "url": "https://www.youtube.com/watch?v=5ERHhlufGhc",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, 11 November 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 4,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {
+  "Korupsi dan kebocoran": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 40.0,
+   "text": "Pak tadi gimana bahasa P Iya tadi Eh apa E bertemu dengan e 12 e perusahaan e mostly yang sudah invest Indonesia dengan ceo-nya eh dan tadi discusionnya very very productif mereka sangat eh senang mendengar langsung dari bapak presiden Prabowo eh bahwa Indonesia ini ya kita e sangat value investasi yang mereka masukkan ke Indonesia dan kita make sure untuk selalu taking care of bahwa mereka tuh justru sangat penting buat kitaka sudah spending eh S kita juga mengundang"
+  },
+  {
+   "t": 43.0,
+   "d": 41.0,
+   "text": "investor dari dari yang luar ya dan juga menyampaikan eh bahwa priority kita adalah di security dan juga eh apa energ kemudian downaming apa Makan Nut apa Eh makan makan free meals ya Eh tapi tentunya tadi Eh P presiden menyampaikan bahwa pertama yang paling strong disampaikan bahwa eh cororupsi coruption itu Eh pak prabot itu tidak akan ada toleransi sama sekali dan eh tadi sampaikan juga bahwa ya korupsi itu"
+  },
+  {
+   "t": 84.0,
+   "d": 34.0,
+   "text": "adalah Cancer tadi disampaikan salah satu dari dari apa para peserta juga dan bagaimana mereka juga Apa eh tidak hanya di dalam berinvestasi masuk ke Indonesia tapi juga mengenai ISG mengenai e apa invest back to the community itu juga menjadi sangat penting Pak prab juga menyampaikan dan mereka juga merespon sangatsangat positif Karena pak menyampaikan Sangat terbuka sangat Straight forward dan beliau bahkan menyampaikan"
+  },
+  {
+   "t": 118.0,
+   "d": 38.0,
+   "text": "kalau ada yang korupsi atau yang membuat problem menyusahkan Eh kontak langsung ke ke ke Beliau eh dan ini suatu apa message yang sangat positif sangatsangat clear dan mereka responnya sangat-sangat mengappreciate apa very Straight forward penjelasan dari bapak e presiden Prabowo hari ini kalau t pertemuan denganion yang sudah dilakukan kemarin itu disampaikan itu apa saja yang dibahas oh eh dengan Jar kuster itunya Sudah berapa waktu yang lalu ya kebetulan eh di undang Diner Kebetulan saya juga ada"
+  },
+  {
+   "t": 156.0,
+   "d": 36.0,
+   "text": "waktu itu ya membahas waktu itu lebih ke eh hal-hal yang sifatnya juga waktu J mau apa berinvestasi iklim investasi Indonesia lebih ke seitu waktu itu dulu kalau di dalam tadi ada yang menyatakan ingin terlibat program prioritas apa Pak Oh ya tentunya eh mereka juga menyampaikan untuk berinvestasi eh di ral energi di situ ada adaon ada BP eh yang menyampaikan Chevron juga untuk mereka berinvestasi ingin bersama-sama menaikan apa"
+  },
+  {
+   "t": 192.0,
+   "d": 34.0,
+   "text": "e eh peningkatan kapasitas dari dari gas kita kemudian tapi bersamaan juga ada oper lain seperti dengan carbon capturebon storage itu juga mereka menyampaikan adalah untuk Indonesia eh untuk apa eh net Zero e emission jadi e mereka dan geothermal tadi papak presiden menyampaikan spesifik juga geothermal menjadi salah satu ee yang akan didorong secara eh apa secara cepat di Indonesia dan mereka juga merespon"
+  },
+  {
+   "t": 226.0,
+   "d": 18.0,
+   "text": "itu karena mereka juga sudah ada beberapa yang melakukan investasi di geotermal dan akan lebih dipercepat lagi dan yang paling penting eh akan mengurangi birokrasi yang berbelik sehingga investasi masuk ke Indonesia juga membawa kebaikan buat seluruh rakyat Indonesia itu intinya pertemuan besok Pak dengan presidenih ya"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

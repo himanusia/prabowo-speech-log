@@ -1,0 +1,93 @@
+{
+ "id": "2025-05-17-tiba-di-bangkok-thailand-17-mei-2025",
+ "video_id": "D3l3Kby_jn8",
+ "date": "2025-05-17",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Bangkok, Thailand, 17 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=D3l3Kby_jn8",
+ "duration_s": 236,
+ "duration_hms": "3:56",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 138,
+ "unique_word_count": 85,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "D3l3Kby_jn8",
+   "url": "https://www.youtube.com/watch?v=D3l3Kby_jn8",
+   "title": "Presiden Prabowo Tiba di Bangkok, Thailand, 17 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 13.0,
+   "d": 17.0,
+   "text": "[Musik] Oh."
+  },
+  {
+   "t": 30.0,
+   "d": 143.0,
+   "text": "K diot [Musik] Ah. H."
+  },
+  {
+   "t": 173.0,
+   "d": 16.0,
+   "text": "mund Selamat datang. Terima kasih. Terima kasih. Terima kasih. Berapa?"
+  },
+  {
+   "t": 189.0,
+   "d": 14.0,
+   "text": "11. Makasih ya. Awas."
+  },
+  {
+   "t": 203.0,
+   "d": 5.0,
+   "text": "Gimana kesannya kasih langsung bunga ke Pak Presiden? Kalau aku sih senang."
+  },
+  {
+   "t": 208.0,
+   "d": 5.0,
+   "text": "Terus agak deg-degan gitu. Kenapa deg-degan? Takut salah. Takut salah."
+  },
+  {
+   "t": 213.0,
+   "d": 8.0,
+   "text": "Tapi senang. Virus yang gimana? Degdegan banget. Degdegan banget. Masih degdegan enggak sekarang? Lumayan. Lumayan."
+  },
+  {
+   "t": 221.0,
+   "d": 16.0,
+   "text": "Sebagai diaspora juga kita merasa senang gitu kalau misalkan ee Presiden datang ke negara tempat kita saat ini tinggal gitu ya. Karena kan berarti beliau menaruh interest juga gitu dengan negara ini seperti itu. Ada yang pesan enggak atau yang mau disampaikan buat Pak Presiden?"
+  },
+  {
+   "t": 237.0,
+   "d": 12.0,
+   "text": "ee dulu mungkin ya mungkin ee dengan Presiden Prabowo ke sini harapannya diaspora diaspora Indonesia yang ada di Thailand bisa lebih diperhatikan. E hubungan Indonesia dan Thailand bisa lebih pererat dan bisa lebih bermanfaat antara satu dengan yang lainnya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

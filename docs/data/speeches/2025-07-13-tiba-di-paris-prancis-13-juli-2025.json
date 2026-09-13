@@ -1,0 +1,98 @@
+{
+ "id": "2025-07-13-tiba-di-paris-prancis-13-juli-2025",
+ "video_id": "a2efRjsz9B4",
+ "date": "2025-07-13",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Paris, Prancis, 13 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=a2efRjsz9B4",
+ "duration_s": 169,
+ "duration_hms": "2:49",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 132,
+ "unique_word_count": 71,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "a2efRjsz9B4",
+   "url": "https://www.youtube.com/watch?v=a2efRjsz9B4",
+   "title": "Presiden Prabowo Tiba di Paris, Prancis, 13 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 33.0,
+   "d": 97.0,
+   "text": "[Musik] Paris datang datang [Musik] [Musik] [Musik] datang Pak Selamat datang, Pak. Pak, selamat datang, Pak. Selamat datang."
+  },
+  {
+   "t": 130.0,
+   "d": 15.0,
+   "text": "Selamat datang, Pak. Selamat datang, Pak. Ya, Bapak sekali Bapak selamat datang. I selamat datang di Paris."
+  },
+  {
+   "t": 145.0,
+   "d": 3.0,
+   "text": "Horas. Horas. Horas. Horas. Majuja."
+  },
+  {
+   "t": 148.0,
+   "d": 18.0,
+   "text": "Majuas. Maju saya sangat bangga soalnya hal yang pertama kali Pak Prabo lakukan langsung e menjawab saya dengan kata horas. Jadi saya sebagai orang Batak, saya sangat bangga dan terapresiasi. Terkhusus juga untuk e keluarga e Prancis, keluarga Batak di Prancis, Bonapasog di Prancis."
+  },
+  {
+   "t": 166.0,
+   "d": 8.0,
+   "text": "Kita sangat e terbahagialah dengan ked tangan Pak Prabowo dan juga gestornya untuk mengecahkan kata horas."
+  },
+  {
+   "t": 174.0,
+   "d": 2.0,
+   "text": "Kamu namanya siapa?"
+  },
+  {
+   "t": 176.0,
+   "d": 3.0,
+   "text": "Kamu ya?"
+  },
+  {
+   "t": 179.0,
+   "d": 12.0,
+   "text": "Kalau aku sih e nervous banget tapi happy gitu loh. Ini pertama kalinya kita ketemu personal mau sama presiden gitu."
+  },
+  {
+   "t": 191.0,
+   "d": 8.0,
+   "text": "Ya, sama sih, tapi aku lebih nervous daripada dia sih."
+  },
+  {
+   "t": 199.0,
+   "d": 3.0,
+   "text": "kasih dong kab"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

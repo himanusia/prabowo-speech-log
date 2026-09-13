@@ -1,0 +1,117 @@
+{
+ "id": "2025-12-08-pm-dan-pakistan-jemput-langsung-di-bandara",
+ "video_id": "kXV2x_ztjr0",
+ "date": "2025-12-08",
+ "date_precise": true,
+ "title": "PM dan Presiden Pakistan Jemput langsung Presiden Prabowo di bandara Islamabad, 8 Desember 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=kXV2x_ztjr0",
+ "duration_s": 237,
+ "duration_hms": "3:57",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 32,
+ "token_count": 260,
+ "unique_word_count": 144,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "kXV2x_ztjr0",
+   "url": "https://www.youtube.com/watch?v=kXV2x_ztjr0",
+   "title": "PM dan Presiden Pakistan Jemput langsung Presiden Prabowo di bandara Islamabad, 8 Desember 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 68.0,
+   "d": 96.0,
+   "text": "[musik] [musik] [musik] [musik] Selamat datang Presiden Siap yang pilih [musik] [musik] [musik] bos [musik] foreign minister."
+  },
+  {
+   "t": 164.0,
+   "d": 1.0,
+   "text": "Thank you."
+  },
+  {
+   "t": 165.0,
+   "d": 4.0,
+   "text": "Selamat datang, Bapak Jenderal Jenderal eh di Karaci. Karaci."
+  },
+  {
+   "t": 169.0,
+   "d": 9.0,
+   "text": "Oh, thank you. Selamat datang. Masih. Kamu siapa namanya? Kenzy."
+  },
+  {
+   "t": 178.0,
+   "d": 2.0,
+   "text": "Ken?"
+  },
+  {
+   "t": 180.0,
+   "d": 18.0,
+   "text": "Eh, saya sangat ee senang sekali ya ketemu dengan Pak Presiden karena itu kesempatan yang tidak bisa semua orang miliki ya. Dan ee Pak Presiden itu ngomong umur berapa terus kelas berapa."
+  },
+  {
+   "t": 198.0,
+   "d": 10.0,
+   "text": "Ee udah itu aja."
+  },
+  {
+   "t": 208.0,
+   "d": 32.0,
+   "text": "Ee alhamdulillah ya melihat e Bapak yang kemarin sudah hadir juga di apa namanya di ee tengah-tengah korban bencana alam yang ada di Sumatera. dan sekarang menyempatkan juga untuk kunjungan kenegaraan di Pakistan di Islam Abad untuk beberapa hal yang bersimpan dengan kegiatan kenegaraan. Kami sangat antusias dan sangat bangga ee dengan kehadiran dan kedatangannya beliau ee pada hari ini. Ee pesan kami kepada Pak Presiden untuk tetap bisa ee menjalankan"
+  },
+  {
+   "t": 240.0,
+   "d": 18.0,
+   "text": "amanah sebagai Presiden ee dengan sebaik mungkin. tentunya juga memperhatikan ee bagaimana hak-hak perlindungan pelajar ee khususnya para diaspora yang mungkin ee masih banyak belum terserap ee aspirasinya kepada ee negara. Mungkin itu saja, Bu."
+  },
+  {
+   "t": 258.0,
+   "d": 19.0,
+   "text": "Saya di makin maju, makin keren, makin membanggakan, Pak. I di dunia luar. I benar makin keren Indonesia makin keren."
+  },
+  {
+   "t": 277.0,
+   "d": 22.0,
+   "text": "Seru banget kita latihannya cuma 10 hari kurang karena saking semangatnya jadinya semua lagu disulap. Jadi yang penting ibu-ibunya semangat ikut ikut ee apa bersenandung mungkin ya apa namanya. Tapi pokoknya kita ee happy melihat Bapak datang ee menghampiri kita semua."
+  },
+  {
+   "t": 299.0,
+   "d": 3.0,
+   "text": "Bu, satu lagi ada yang mau disampaiin enggak, Bu, ke Pak Presiden, Bu?"
+  },
+  {
+   "t": 302.0,
+   "d": 3.0,
+   "text": "Pak Presiden sehat selalu, semangat karena kita semua semangat."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

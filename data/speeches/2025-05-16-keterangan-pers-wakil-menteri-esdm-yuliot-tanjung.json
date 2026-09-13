@@ -1,0 +1,68 @@
+{
+ "id": "2025-05-16-keterangan-pers-wakil-menteri-esdm-yuliot-tanjung",
+ "video_id": "7OR9kzllLr4",
+ "date": "2025-05-16",
+ "date_precise": true,
+ "title": "Keterangan Pers Wakil Menteri ESDM Yuliot Tanjung, Jakarta, 16 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=7OR9kzllLr4",
+ "duration_s": 77,
+ "duration_hms": "1:17",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 123,
+ "unique_word_count": 73,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "7OR9kzllLr4",
+   "url": "https://www.youtube.com/watch?v=7OR9kzllLr4",
+   "title": "Keterangan Pers Wakil Menteri ESDM Yuliot Tanjung, Jakarta, 16 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 4,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 2.0,
+   "text": "Selamat sore rekan-rekan media."
+  },
+  {
+   "t": 2.0,
+   "d": 24.0,
+   "text": "Alhamdulillah barusan Bapak Presiden sudah meresmikan produksi perdana untuk lapangan Forel dan Terubuk. Untuk ee kegiatan ini akan menghasilkan total produksi sekitar 20.000 barel per hari dan ada tambahan gas sekitar 60 mms CVD per hari."
+  },
+  {
+   "t": 26.0,
+   "d": 15.0,
+   "text": "Tentu dengan adanya ee penambahan produksi ini akan memperkuat ketahanan energi kita dan ee seluruh fasilitas dalam rangka pelaksanaan kegiatan investasi ini dilakukan oleh anak bangsa."
+  },
+  {
+   "t": 41.0,
+   "d": 36.0,
+   "text": "hampir seluruh ee komponen TKDN atau 100% TKDN itu berasal dari dalam negeri. Untuk ee investasi yang ee dilakukan di Forel dan Terubuk dilakukan oleh Medco Epi Natuna Energy. Dengan adanya ee investasi oleh Medco ini total investasi yang dikucurkan itu adalah hampir 10 triliun. Tentu e dengan adanya ee fasilitas ini akan lebih memperkuat ketanan energi kita ke depan. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

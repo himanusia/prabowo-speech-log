@@ -1,0 +1,63 @@
+{
+ "id": "2025-03-21-terima-ustaz-adi-hidayat-kantor-21-maret",
+ "video_id": "u24BNhoLsHc",
+ "date": "2025-03-21",
+ "date_precise": true,
+ "title": "Presiden Prabowo Terima Ustaz Adi Hidayat, Kantor Presiden, 21 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=u24BNhoLsHc",
+ "duration_s": 63,
+ "duration_hms": "1:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "token_count": 84,
+ "unique_word_count": 64,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "u24BNhoLsHc",
+   "url": "https://www.youtube.com/watch?v=u24BNhoLsHc",
+   "title": "Presiden Prabowo Terima Ustaz Adi Hidayat, Kantor Presiden, 21 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 9.0,
+   "text": "Asalamualaikum. Wah, ini teman-teman dari mana nih?"
+  },
+  {
+   "t": 12.0,
+   "d": 51.0,
+   "text": "Syamdhafa alar dan dari Darul Ifta lembaga fatwa abdim dr mamu pak and syekhul dari darulri sudah berapa lama di sini mereka sudah 20 hari Pak 20 hari silakan silakan ada tiga hal yang pertama dengan Bapak iya kami berinisiatif yang itu semuanya kami kan riset bahwa di kita 80% begitu MKP i yang menarik 10 orang Indonesia selama Ramadan bisa mendampingi masjid di pemerintahan nah jadi ini ada yang di Kementerian Pendidikan dan ketika rakyat"
+  },
+  {
+   "t": 63.0,
+   "d": 3.0,
+   "text": "iya kita di luar mana aja"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

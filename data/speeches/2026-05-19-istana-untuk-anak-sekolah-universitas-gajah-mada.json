@@ -1,0 +1,73 @@
+{
+ "id": "2026-05-19-istana-untuk-anak-sekolah-universitas-gajah-mada",
+ "video_id": "4QIU8hU5KCM",
+ "date": "2026-05-19",
+ "date_precise": true,
+ "title": "Istana untuk Anak Sekolah: Universitas Gajah Mada (UGM) & Universitas Budi Luhur (UBL), 19 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=4QIU8hU5KCM",
+ "duration_s": 103,
+ "duration_hms": "1:43",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 152,
+ "unique_word_count": 89,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "4QIU8hU5KCM",
+   "url": "https://www.youtube.com/watch?v=4QIU8hU5KCM",
+   "title": "Istana untuk Anak Sekolah: Universitas Gajah Mada (UGM) & Universitas Budi Luhur (UBL), 19 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 41.0,
+   "text": "He [musik] [musik] selama jalan keliling istana itu senang ya karena kan enggak semua orang bisa masuk sini dan memang ee tempat ini itu adalah tempat yang banyak diimpikan banyak orang dan itu senang menjadi sejarah lah. Awalnya tuh saya ekspektasi tuh hanya di luarnya aja gitu, tetapi ternyata bisa masuk ke dalamnya juga gitu. Yang biasa saya lihat di berita biasanya kan akhirnya saya bisa lihat langsung. [musik]"
+  },
+  {
+   "t": 41.0,
+   "d": 20.0,
+   "text": "Eh harapan saya ee Istana Negara ee dapat menerima mahasiswa maupun siswa dari SD maupun ee hingga SMA untuk berkunjung langsung ke Istana Negara ini. Karena begitu banyak pelajaran yang bisa ee kita ambil."
+  },
+  {
+   "t": 61.0,
+   "d": 32.0,
+   "text": "[musik] [musik] Di sini kita ee belajar untuk bagaimana sekretaris negara ya, sekretaris negara dan juga ee istana itu merawat dan juga melestarikan cagar budaya yang ada di sini. Karena itu sebagai bentuk dari pengelolaan proses pendokumentasian informasi yang ada."
+  },
+  {
+   "t": 93.0,
+   "d": 4.0,
+   "text": "Terima kasih Bapak Presidenanto."
+  },
+  {
+   "t": 97.0,
+   "d": 6.0,
+   "text": "hal [bernyanyi] [musik] [tepuk tangan]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

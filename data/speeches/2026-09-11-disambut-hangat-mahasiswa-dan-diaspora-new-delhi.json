@@ -1,0 +1,108 @@
+{
+ "id": "2026-09-11-disambut-hangat-mahasiswa-dan-diaspora-new-delhi",
+ "video_id": "qlfS2rcWN1E",
+ "date": "2026-09-11",
+ "date_precise": true,
+ "title": "Presiden Prabowo Disambut Hangat Mahasiswa dan Diaspora Indonesia, New Delhi, 11 September 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=qlfS2rcWN1E",
+ "duration_s": 170,
+ "duration_hms": "2:50",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 346,
+ "unique_word_count": 166,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "qlfS2rcWN1E",
+   "url": "https://www.youtube.com/watch?v=qlfS2rcWN1E",
+   "title": "Presiden Prabowo Disambut Hangat Mahasiswa dan Diaspora Indonesia, New Delhi, 11 September 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 4,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 12.0,
+   "d": 6.0,
+   "text": "[musik] senang bertemu dengan Pak Presiden."
+  },
+  {
+   "t": 18.0,
+   "d": 9.0,
+   "text": "Terima kasih Bapak sudah datang ke ke Nul Delhi."
+  },
+  {
+   "t": 27.0,
+   "d": 4.0,
+   "text": "Aduh, pengalaman saya sebetulnya ini sampai sekarang masih gugup ya, Pak ya."
+  },
+  {
+   "t": 31.0,
+   "d": 35.0,
+   "text": "Apalagi tadi saya ada sesi paling lama ditanya-tanya gitu. Jadi secara kesulan, saya senang sekali saya bisa ketemu Pak Presiden secara langsung yang di mana saya cuma bisa e ngomong di e melihat di depan layar. Tapi hari ini saya bisa berjabat tangan, saya senang. Dan tadi sebetulnya kami menunggu dari embesi itu dari jam .00 untuk menyambut Bapak. Rupanya Bapak ee Bapak datangnya jam sekarang dan itu ee gimana ya, Pak?"
+  },
+  {
+   "t": 66.0,
+   "d": 7.0,
+   "text": "Terbayarkan dengan apa yang didapatkan seperti itu, Pak."
+  },
+  {
+   "t": 73.0,
+   "d": 32.0,
+   "text": "Ini pertama kali saya ketemu dengan beliau dan beliau sangat ramah sekali dan menanyakan kepada kami semua ee di sini mahasiswa apakah ee jurusannya apa juga. Terus kami sempat berbincang sebentar Pak Presiden menanyakan ee dari jurusan apa ee jenjangnya apa di kampus mana. Kebetulan karena kampus saya IT beliau menanyakan apakah ee IIT itu ada di Delhi juga karena beliau sudah mengenal nama IIT gitu. Jadi ee saya bilang, \"Iya betul, Pak. E ada di juga gitu.\" dan beliau mengatakan ee selamat"
+  },
+  {
+   "t": 105.0,
+   "d": 6.0,
+   "text": "ya dan selamat ee belajar dengan ee baik gitu sehingga bisa sukses seperti itu."
+  },
+  {
+   "t": 111.0,
+   "d": 34.0,
+   "text": "Kebetulan sudah 3 tahun di sini dan tahun kemarin Bapak Prabowo juga datang cuman sekarang lagi berhalangan jadi ee saya enggak enggak enggak sempat hadir dan kali ini ee kebetulan diundang sama Pak ee Atase Pendidikan untuk menjadi untuk jadi staf bantuan di Hotel Oberoik. Kebetulan kami merasa sangat bersemangat dan sangat senang mengenai hal itu. Kami merasa sangat diapresiasi sebagai studen yang ada di luar negeri karena dapat bertemu langsung dengan salah satu ee orang kebanggaan kita di Indonesia."
+  },
+  {
+   "t": 145.0,
+   "d": 7.5,
+   "text": "E tadi enggak sempat mungkin karena bapaknya ee capek ya di perjalanan [tertawa] jadi enggak enak buat ngobrol banyak."
+  },
+  {
+   "t": 152.0,
+   "d": 9.0,
+   "text": "Jadi cuman kayak perkenalan diri terus welcoming juga sama Pak Prabowonya. Pak Prabowo e semangat terus."
+  },
+  {
+   "t": 161.0,
+   "d": 18.0,
+   "text": "Terus enggak enggak usah denger-dengerin omongan-omongan jelek dari orang-orang di luar. Pokoknya Prabowo, Pak Prabowo eh yang terbaik, Pak. Mohon support e anak-anak bangsa Indonesia untuk terus melanjutkan pendidikan di manaun dan kapanpun."
+  },
+  {
+   "t": 179.0,
+   "d": 3.0,
+   "text": "Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

@@ -1,0 +1,68 @@
+{
+ "id": "2026-05-01-suara-buruh-bergema-di-monas-apresiasi-atas",
+ "video_id": "2O6isRVI4H4",
+ "date": "2026-05-01",
+ "date_precise": true,
+ "title": "Suara Buruh Bergema di Monas, Apresiasi Atas Kehadiran Presiden Prabowo, 1 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=2O6isRVI4H4",
+ "duration_s": 73,
+ "duration_hms": "1:13",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "token_count": 111,
+ "unique_word_count": 78,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "2O6isRVI4H4",
+   "url": "https://www.youtube.com/watch?v=2O6isRVI4H4",
+   "title": "Suara Buruh Bergema di Monas, Apresiasi Atas Kehadiran Presiden Prabowo, 1 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 36.0,
+   "text": "[musik] mempermudah segalanya ya. Dari segi pendidikan kita murah gitu kan. Terus dari bahan pokok juga kita enggak terlalu melecit banget. Ya, intinya semua terjangkau lah buat buruh ya, khususnya kaum rendah gitu, kaum bawah gitu aja."
+  },
+  {
+   "t": 40.0,
+   "d": 25.0,
+   "text": "Luar biasa ya. Terima kasih kepada Bapak Presiden Prabowo Sugianto yang telah ee berkenan mau menghadiri ee perayaan hari Buruh kita dengan ee Maid ini. Semoga ee perjuangan-perjuangan yang selama ini kita gembar-gembarkan, yang kita ee perjuangkan ee bisa terealisasi ee sesuai dengan cita-cita buruh kita semua gitu. Uh, sangat sangat bahagia sekali."
+  },
+  {
+   "t": 65.0,
+   "d": 9.0,
+   "text": "Justru ke sini berbondong-bondong pengin lihat Pak Presiden Prabowo. Saya ingin kinerjanya lebih baik lagi."
+  },
+  {
+   "t": 74.0,
+   "d": 3.0,
+   "text": "Saya bangga dengan Pak Presiden dan"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

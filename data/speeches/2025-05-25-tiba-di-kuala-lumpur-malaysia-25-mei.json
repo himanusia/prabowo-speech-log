@@ -1,0 +1,98 @@
+{
+ "id": "2025-05-25-tiba-di-kuala-lumpur-malaysia-25-mei",
+ "video_id": "Z1BO71-EDwI",
+ "date": "2025-05-25",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Kuala Lumpur, Malaysia, 25 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Z1BO71-EDwI",
+ "duration_s": 169,
+ "duration_hms": "2:49",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 90,
+ "unique_word_count": 53,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Z1BO71-EDwI",
+   "url": "https://www.youtube.com/watch?v=Z1BO71-EDwI",
+   "title": "Presiden Prabowo Tiba di Kuala Lumpur, Malaysia, 25 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 28.0,
+   "d": 75.0,
+   "text": "[Tepuk tangan] Sap [Tepuk tangan] ST ST [Musik] [Tepuk tangan] Selamat datang Bapak. Selamat datang. Selamat datang. Kamu namanya siapa?"
+  },
+  {
+   "t": 103.0,
+   "d": 4.0,
+   "text": "Mundur mundur. W Willy. Kamu SL. Sakla."
+  },
+  {
+   "t": 107.0,
+   "d": 6.0,
+   "text": "Aduh. Terima kasih. Terima kasih. Kamu umurnya berapa?"
+  },
+  {
+   "t": 113.0,
+   "d": 11.0,
+   "text": "Hah? Kalau kamu aduh terima kasih. Terima kasih. E grogi dikit sih."
+  },
+  {
+   "t": 124.0,
+   "d": 5.0,
+   "text": "Grogi. Grogi dikit tapi senang juga."
+  },
+  {
+   "t": 129.0,
+   "d": 17.0,
+   "text": "E pertama kali jumpa Bapak Presiden pas pertama-pertamanya deg-degan tapi lama-lama udah enggak terlalu gitu. Terima kasih."
+  },
+  {
+   "t": 146.0,
+   "d": 10.0,
+   "text": "Semoga sehat selalu di perjalanan baik-baik dan sehat selalu."
+  },
+  {
+   "t": 156.0,
+   "d": 7.0,
+   "text": "Terus, terus semoga panjang umur. Terima kasih semuanya."
+  },
+  {
+   "t": 163.0,
+   "d": 9.0,
+   "text": "Terima kasih semuanya."
+  },
+  {
+   "t": 172.0,
+   "d": 25.0,
+   "text": "[Musik] Oh iya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

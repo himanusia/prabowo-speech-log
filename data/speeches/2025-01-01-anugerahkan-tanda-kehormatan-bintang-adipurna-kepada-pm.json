@@ -1,0 +1,83 @@
+{
+ "id": "2025-01-01-anugerahkan-tanda-kehormatan-bintang-adipurna-kepada-pm",
+ "video_id": "LHbVHK3X4K8",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo Anugerahkan Tanda Kehormatan Bintang Republik Indonesia Adipurna kepada PM Modi",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=LHbVHK3X4K8",
+ "duration_s": 159,
+ "duration_hms": "2:39",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 153,
+ "unique_word_count": 95,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "LHbVHK3X4K8",
+   "url": "https://www.youtube.com/watch?v=LHbVHK3X4K8",
+   "title": "Presiden Prabowo Anugerahkan Tanda Kehormatan Bintang Republik Indonesia Adipurna kepada PM Modi",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 14.0,
+   "d": 10.0,
+   "text": "Saya ingin menyampaikan sekali lagi selamat datang kepada Yang Mulia Perdana Menteri Narendra Mudi di Jakarta."
+  },
+  {
+   "t": 24.0,
+   "d": 19.0,
+   "text": "Ini adalah suatu kehormatan besar bagi saya sebagai Presiden Republik Indonesia untuk menyambut kembali Yang Mulia di Indonesia, negara yang telah lama menjadi sahabat dekat bangsa India."
+  },
+  {
+   "t": 43.0,
+   "d": 10.0,
+   "text": "[musik] Kita memiliki latar belakang budaya dan sejarah yang lama."
+  },
+  {
+   "t": 53.0,
+   "d": 17.0,
+   "text": "Karena itu kunjungan kali ini sekali lagi merupakan tanda betapa kita ingin terus memelihara persahabatan dan kerja sama tersebut."
+  },
+  {
+   "t": 70.0,
+   "d": 39.0,
+   "text": "Hari ini saya sebagai Presiden Republik Indonesia mengucapkan terima kasih kepada Yang Mulia Perdana Menteri Narandra Mudi karena bersedia menerima anugerah tanda kehormatan tertinggi dari negara Republik Indonesia yaitu itu Bintang Republik Indonesia Adipurna."
+  },
+  {
+   "t": 109.0,
+   "d": 48.0,
+   "text": "Kami terima kasih Perdana Menteri MUI bersedia menerima bentuk penghargaan ini adalah atas [mendengus] kepemimpinan beliau dan kontribusi beliau dalam mempererat hubungan Indonesia India hingga mencapai tingkat kemitraan strategis komprehensif dan juga [berdehem] upaya-upaya beliau terus-menerus untuk meningkatkan hubungan kerja sama antara Indonesia dan India."
+  },
+  {
+   "t": 157.0,
+   "d": 16.0,
+   "text": "[musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

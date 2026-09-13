@@ -1,0 +1,88 @@
+{
+ "id": "2025-08-17-pesta-rakyat-di-halaman-istana-rakyat-menyatu",
+ "video_id": "mU9YtIuYsCc",
+ "date": "2025-08-17",
+ "date_precise": true,
+ "title": "Pesta Rakyat di Halaman Istana, Rakyat Menyatu dalam Kemerdekaan, 17 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=mU9YtIuYsCc",
+ "duration_s": 146,
+ "duration_hms": "2:26",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 20,
+ "token_count": 241,
+ "unique_word_count": 155,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "mU9YtIuYsCc",
+   "url": "https://www.youtube.com/watch?v=mU9YtIuYsCc",
+   "title": "Pesta Rakyat di Halaman Istana, Rakyat Menyatu dalam Kemerdekaan, 17 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 11.0,
+   "d": 18.0,
+   "text": "Luar biasa. Luar biasa. Sangat luar biasa. Bahkan sulit untuk diungkapkan ya. Makanya ini mungkin e impian dari banyak warga Indonesia untuk dapat hadir langsung melaksanakan atau terlibat upacara langsung di Istana Merdeka. Bagi saya tu luar biasa dan seperti dream come through begitu, Mbak."
+  },
+  {
+   "t": 29.0,
+   "d": 16.0,
+   "text": "Aku yang hari ketiga baru berhasil ya. Jadi buka opennya jam 103 aku dapat e sebenarnya pengin merasakan bagaimana sih suasana detik-detik proklamasi karena kan kalau kita nonton dari televisi aja tuh merinding ya."
+  },
+  {
+   "t": 45.0,
+   "d": 38.0,
+   "text": "menyaksikan langsung tuh kayak gimana sih dan puji Tuhan juga diberi kesempatan kali ini ikut war dengan penambahan kuota jadi bagian untuk menyaksikan proklamasi dan tentu saja ini salah satu momen nasionalisme kita diuji juga membangkitkan kembali semangat kita sebagai anak muda yang mencintai NKRI R [Musik] yang paling berkesan ketika acara hiburan ya penampilan ee dari kesenian dari ee tadi Winika Tunggal Ika itu itu luar biasa sekali. Bahkan di luar"
+  },
+  {
+   "t": 83.0,
+   "d": 5.0,
+   "text": "ekspektasi kami yang dari luar ee sajian hiburannya akan seperti itu. Luar biasa."
+  },
+  {
+   "t": 88.0,
+   "d": 7.0,
+   "text": "Bahkan sampai masyarakat pun ikut membaur dengan peserta upacara bergoyang bersama menikmati acara yang diasikan oleh panitia."
+  },
+  {
+   "t": 95.0,
+   "d": 29.0,
+   "text": "[Musik] [Musik] Ee harapannya adalah ee Indonesia bersih, adil, makmur, dan sejahtera."
+  },
+  {
+   "t": 124.0,
+   "d": 30.0,
+   "text": "[Tepuk tangan] [Musik] Menurut saya ini sangat bagus ya kita ee melibatkan UMKM maupun pedagang di sekitar istana yang mungkin selama ini belum bisa nih masuk istana tapi kita bisa bersama-sama pejabat dengan rakyat bisa bersama-sama miatu dalam satu acara khusus untuk menikmati hidangan yang telah disajikan oleh e Istana Merdeka Jakarta."
+  },
+  {
+   "t": 154.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

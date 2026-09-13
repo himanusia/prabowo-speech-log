@@ -1,0 +1,138 @@
+{
+ "id": "2025-01-01-tiba-di-tanah-air-usai-hadiri-ktt",
+ "video_id": "QMjBxuI6D-4",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Presiden Prabowo Tiba di Tanah Air Usai Hadiri KTT Perdamaian & Penghentian Perang Gaza, 14 Okt 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=QMjBxuI6D-4",
+ "duration_s": 285,
+ "duration_hms": "4:45",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 30,
+ "token_count": 281,
+ "unique_word_count": 158,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "QMjBxuI6D-4",
+   "url": "https://www.youtube.com/watch?v=QMjBxuI6D-4",
+   "title": "Presiden Prabowo Tiba di Tanah Air Usai Hadiri KTT Perdamaian & Penghentian Perang Gaza, 14 Okt 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 13
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 15.0,
+   "d": 55.0,
+   "text": "H by Baik. Ee terima kasih saudara-saudara."
+  },
+  {
+   "t": 70.0,
+   "d": 8.0,
+   "text": "Saya baru saja tiba dari ee Mesir ya, Sharm Assik."
+  },
+  {
+   "t": 78.0,
+   "d": 36.0,
+   "text": "di situ ee kita kumpul saya kira banyak tokoh dari banyak negara menyaksikan tanda tangan ee pokok-pokok persetujuan e rencana ee gencot senjata yang nantinya mengarah kepada ee ee perdamaian keseluruhan. Jadi ya ini usaha yang besar."
+  },
+  {
+   "t": 114.0,
+   "d": 8.0,
+   "text": "Kita berdoa bahwa ini akan ee sukses. Tapi saya kira ini awalan yang baik."
+  },
+  {
+   "t": 122.0,
+   "d": 14.0,
+   "text": "Ee intinya itu ya. Jadi kita datang untuk menyatakan dukungan dan ee memberi support."
+  },
+  {
+   "t": 136.0,
+   "d": 6.0,
+   "text": "Yang penting ee gencot senjata sudah berjalan."
+  },
+  {
+   "t": 142.0,
+   "d": 25.0,
+   "text": "Kemudian segera pasukan Israel ee akan ditarik tentunya sesuai tahapan-tahapan sandra-sandra sudah dilepas. Masih ada berapa yang mungkin yang jenazahnya yang belum belum ketemu."
+  },
+  {
+   "t": 167.0,
+   "d": 16.0,
+   "text": "Saya kira itu intinya ya. Jadi ya Indonesia tentunya selalu diajak untuk ikut mendukung ee proses besar ini. Dan memang ini tekad kita sebagai bangsa."
+  },
+  {
+   "t": 183.0,
+   "d": 7.0,
+   "text": "Tekad saya. Puluhan tahun saya membela Palestina."
+  },
+  {
+   "t": 190.0,
+   "d": 14.0,
+   "text": "Puluhan tahun sejak saya masih muda, kita terus-menerus mendukung kemerdekaan Palestina, rakyat Palestina."
+  },
+  {
+   "t": 204.0,
+   "d": 6.0,
+   "text": "Dan alhamdulillah ya kita bisa berbuat Indonesia selama ini aktif."
+  },
+  {
+   "t": 210.0,
+   "d": 7.0,
+   "text": "Kita kirim bantuan, kita kirim kapal, kita kirim Hercules berkali-kali."
+  },
+  {
+   "t": 217.0,
+   "d": 10.0,
+   "text": "Ee saya kira rakyat Palestina dan rakyat Timur Tengah melihat bagaimana komitmen Indonesia."
+  },
+  {
+   "t": 227.0,
+   "d": 6.0,
+   "text": "Kita juga kirim bantuan pangan ee cukup besar ya."
+  },
+  {
+   "t": 233.0,
+   "d": 35.0,
+   "text": "ribuan ton beras kita kirim dan kita terus komit untuk mendukung ini. Dan saya ditanya oleh pihak-pihak yang merupakan pihak katakanlah mediator kunci ya Amerika Serikat dengan empat ee dengan Turki, Qatar, Mesir, negara-negara yang langsung berurusan sama Palestina."
+  },
+  {
+   "t": 268.0,
+   "d": 17.0,
+   "text": "Mereka bertanya gimana kesiapan Indonesia? Kami katakan kami siap. Kalau diminta pasukan penjaga perdamaian, pasukan peacekeping Indonesia siap."
+  },
+  {
+   "t": 285.0,
+   "d": 12.0,
+   "text": "Itu sudah saya tegaskan. E kita sekarang akan bicara ee detailnya lah. Ini masih masih rumit, tidak gampang tapi ya kita mulai kerja."
+  },
+  {
+   "t": 297.0,
+   "d": 3.0,
+   "text": "Ya, itu dulu ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

@@ -1,0 +1,83 @@
+{
+ "id": "2026-01-18-tiba-di-london-inggris-18-januari-2026",
+ "video_id": "L0fA0KN4IBg",
+ "date": "2026-01-18",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di London, Inggris, 18 Januari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=L0fA0KN4IBg",
+ "duration_s": 134,
+ "duration_hms": "2:14",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 172,
+ "unique_word_count": 103,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "L0fA0KN4IBg",
+   "url": "https://www.youtube.com/watch?v=L0fA0KN4IBg",
+   "title": "Presiden Prabowo Tiba di London, Inggris, 18 Januari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 4,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 27.0,
+   "d": 13.0,
+   "text": "Kingdom My pleasure. Thank you."
+  },
+  {
+   "t": 40.0,
+   "d": 52.0,
+   "text": "Hai Selamat datang, thank you very much."
+  },
+  {
+   "t": 92.0,
+   "d": 18.0,
+   "text": "Saya sangat bahagia bisa bertemu kembali dengan Bapak Presiden. Terima kasih Bapak Presiden sudah datang mengunjungi kami di Inggris. ee kisahnya sangat sangat ee memberikan ee dukungan kepada kami khususnya mahasiswa. Ee kita sangat merindukan bisa bertemu langsung, bisa berjabat tangan dengan Bapak Presiden."
+  },
+  {
+   "t": 110.0,
+   "d": 8.0,
+   "text": "Wah ee untuk kesempatan kami yang baru pertama kali studi abroad ini pengalaman yang sangat luar biasa sekali."
+  },
+  {
+   "t": 118.0,
+   "d": 14.0,
+   "text": "Pengalaman pertama juga melihat Presiden. Beliau begitu humble kemudian menyapa kami semua. Merasa seperti anak-anak yang bertemu dengan Bapak sendiri. di Tanah Rantau. Saya sangat senang dan terharu."
+  },
+  {
+   "t": 132.0,
+   "d": 10.0,
+   "text": "Bapak sempat bersalman dengan kami kemudian juga bertanya tentang jurusan apa kepada anak-anak yang kuliah di sini. Jadi e menjadi suatu spirit bagi kami juga."
+  },
+  {
+   "t": 142.0,
+   "d": 19.0,
+   "text": "Kita jujur ee bisa dikatakan amazed karena kan beliau sangat humble. Tadi juga beliau menyalami banyak sekali ee masyarakat dari mulai tim KBRI sampai mahasiswa juga ya. kita merasa senang gitu karena kami sudah menyambut beliau dan beliau akhirnya balik menyambut kami dengan baik seperti itu."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

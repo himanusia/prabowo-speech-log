@@ -1,0 +1,67 @@
+{
+ "id": "2025-03-16-minggu-siang-panggil-sejumlah-menteri-untuk-rapat",
+ "video_id": "giLYRuGcrVU",
+ "date": "2025-03-16",
+ "date_precise": true,
+ "title": "Minggu Siang, Presiden Prabowo Panggil Sejumlah Menteri untuk Rapat Terbatas, Bogor, 16 Maret 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=giLYRuGcrVU",
+ "duration_s": 82,
+ "duration_hms": "1:22",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 181,
+ "unique_word_count": 112,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "giLYRuGcrVU",
+   "url": "https://www.youtube.com/watch?v=giLYRuGcrVU",
+   "title": "Minggu Siang, Presiden Prabowo Panggil Sejumlah Menteri untuk Rapat Terbatas, Bogor, 16 Maret 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 8,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "Hilirisasi": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 32.0,
+   "text": "hari ini kami melakukan rapat di hari Minggu Kami harus memberikan aplikasi kepada bapak Presiden hari Minggu aja semua menterinya rapat jadi tidak mengenal waktu libur ini adalah bentuk dari e perhatian keseriusan bapak presiden dalam mengawal mengecek program-program yang sudah diperintahkan kepada menteri-menterinya dan hari ini kami melakukan rapat hilirisasi terhadap e tindak lanjut dari keputusan bapak presiden dahulu tentang 21 projek yang"
+  },
+  {
+   "t": 32.0,
+   "d": 30.0,
+   "text": "akan diimplementasikan Alhamdulillah tadi juga kami sudah melakukan rapat koordinasi dengan semua Kementerian teknis kita akan mempersiapkan di situ bapak presiden mengarahkan untuk memperhatikan jumlah tenaga kerja kemudian harus ada blending dengan padat karya dan memprioritaskan pada industri-industri substitusi impor di samping itu juga bapak presiden mengarahkan kepada kita agar implementasinya harus betul-betul profesional dan mempunyai nilai ekonomi yang tinggi Nah ini mungkin yang perlu"
+  },
+  {
+   "t": 62.0,
+   "d": 20.0,
+   "text": "kami sampaikan dan kami tadi sudah juga disampaikanak presiden menyampaikan kepada kami agar investasi hilirisasi itu tidak boleh hanya fokus satu pulau tapi penyebaran juga di Sumatera di Kalimantan di Sulawesi di Maluku di Papua di Jawa jadi supaya penyebaran ekonominya itu terjadi dan ini Adah bagian daripada instrumen untuk pertumbuhan ekonomi ya terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

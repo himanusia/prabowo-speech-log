@@ -1,0 +1,63 @@
+{
+ "id": "2025-11-26-keterangan-pers-menteri-kelautan-dan-perikanan-sakti",
+ "video_id": "8QwvfafgroE",
+ "date": "2025-11-26",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 26 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=8QwvfafgroE",
+ "duration_s": 23,
+ "duration_hms": "0:23",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 4,
+ "token_count": 47,
+ "unique_word_count": 34,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "8QwvfafgroE",
+   "url": "https://www.youtube.com/watch?v=8QwvfafgroE",
+   "title": "Keterangan Pers Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono, Jakarta, 26 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 11.0,
+   "text": "bahas apa aja di dalam, Pak sama Pak Presiden Mas soal progres Kampung nelayan Kampung nelayan merah putih yang kami laporkan ke Bapak gitu."
+  },
+  {
+   "t": 11.0,
+   "d": 2.0,
+   "text": "Apa aja sekarang?"
+  },
+  {
+   "t": 13.0,
+   "d": 10.0,
+   "text": "Sekarang sudah berapa persen? Sekarang sudah 45% dari 165 sudah dibangun yang sisanya nanti akan dilanjut di per yang akan datang. begitu"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

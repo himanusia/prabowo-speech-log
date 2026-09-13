@@ -1,0 +1,73 @@
+{
+ "id": "2025-01-01-istana-untuk-anak-sekolah-smpn-60-jakarta",
+ "video_id": "FdBLZcFadxU",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Istana untuk Anak Sekolah: SMPN 60 Jakarta",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=FdBLZcFadxU",
+ "duration_s": 88,
+ "duration_hms": "1:28",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 139,
+ "unique_word_count": 91,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "FdBLZcFadxU",
+   "url": "https://www.youtube.com/watch?v=FdBLZcFadxU",
+   "title": "Istana untuk Anak Sekolah: SMPN 60 Jakarta",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 32.0,
+   "text": "[musik] [musik] seru sih kan kita juga jadi tahu ya bagaimana cara kerja yang di dalam istananya terus juga apa sih interior di istananya bagaimana ternyata itu bagus gitu ya enggak kita tuh juga [musik] bisa lihat secara langsung enggak dari sosial media atau televisi saja [musik] terima kasih kasih Bapak Presiden Prabowo [musik] Subianto."
+  },
+  {
+   "t": 36.0,
+   "d": 15.0,
+   "text": "E acara ini sangat menyenangkan ee edukatif dan juga menurut saya sangat seru bagi kami yang kelas 9 terutama untuk refreshing ee karena kami telah melaksanakan ujian yang tka sebelum ini."
+  },
+  {
+   "t": 51.0,
+   "d": 13.0,
+   "text": "Eh dengan ada acara ini kami jadi refreshing e me-refresh otak kita jadi lebih semangat. Kalau mau balik lagi ke sini, bismillah semoga bisa. Ingin menjadi paskaka nasional."
+  },
+  {
+   "t": 64.0,
+   "d": 22.0,
+   "text": "[musik] [bersorak] Semangat ya untuk mencapai masa depan mereka. Jadi ada ee dorongan, semangat, motivasi untuk ee bisa ee kerja di sini ataupun mencapai cita-cita mereka."
+  },
+  {
+   "t": 86.0,
+   "d": 6.0,
+   "text": "Hei [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

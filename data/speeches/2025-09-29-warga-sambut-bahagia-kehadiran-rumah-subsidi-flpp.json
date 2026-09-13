@@ -1,0 +1,78 @@
+{
+ "id": "2025-09-29-warga-sambut-bahagia-kehadiran-rumah-subsidi-flpp",
+ "video_id": "AFYylKSXzrc",
+ "date": "2025-09-29",
+ "date_precise": true,
+ "title": "Warga Sambut Bahagia Kehadiran Rumah Subsidi FLPP, Kabupaten Bogor, 29 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=AFYylKSXzrc",
+ "duration_s": 133,
+ "duration_hms": "2:13",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 188,
+ "unique_word_count": 112,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "AFYylKSXzrc",
+   "url": "https://www.youtube.com/watch?v=AFYylKSXzrc",
+   "title": "Warga Sambut Bahagia Kehadiran Rumah Subsidi FLPP, Kabupaten Bogor, 29 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 7,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 25.0,
+   "text": "[Musik] Uh, sangat luar biasa. Saya sangat senang sekali karena selama ini saya sangat menantikan sebuah rumah. Ternyata sekarang sangat-sangat bersyukur mempunyai rumah."
+  },
+  {
+   "t": 25.0,
+   "d": 42.0,
+   "text": "Sangat membantu ya. sangat membantu sekali karena sekarang 0 DP kalau udah punya rumah kita kerja pun jadi tenang di sana jadi berfokus mencari uang dan buat keluarga dan rumah ya seperti senang sekali sampai senang sekali susah waktu dulu saya aduh sampai ke sana ke sini ngontrak pindah lagi pindah lagi alhamdulillah Saya mempunyai kekreditan ini rumah apaidik buat keluarga sama supaya ana supaya tentram jangan pindah-pindah lagi supaya"
+  },
+  {
+   "t": 67.0,
+   "d": 44.0,
+   "text": "duduk di situ aja tentram senang sama istri dan sama anak sama saya kumpul semua senangsenang banget sangat menyenangkan Pak sangat membantu masyarakat kecil terutama sekali Pak Presiden Prabowo sehat selalu, jaga jaga kesehatan menyala, sukses selalu sangat membantukan terutama ke kita yang orang-orang susah, masyarakat kecil sangat membantu banget. Harapan ke depannya ya bisa mengajak teman-teman juga untuk mengambil perumahan karena suasana enak, pelayanannya enak, e marketingnya baik-baik, dan pelayanannya juga bagus."
+  },
+  {
+   "t": 111.0,
+   "d": 10.0,
+   "text": "Jadi, Saudara-saudara, terima kasih semua pihak bekerja keras sehingga kita mencapai perumahan seperti ini."
+  },
+  {
+   "t": 121.0,
+   "d": 9.0,
+   "text": "Tahun depan saya percaya akan lebih banyak lagi, Saudara-saudara."
+  },
+  {
+   "t": 130.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,68 @@
+{
+ "id": "2025-05-04-keterangan-pers-menteri-koordinator-bidang-perekonomian-airlangga",
+ "video_id": "E6OvXSuerYM",
+ "date": "2025-05-04",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Koordinator Bidang Perekonomian Airlangga Hartarto, Jakarta, 4 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=E6OvXSuerYM",
+ "duration_s": 115,
+ "duration_hms": "1:55",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 211,
+ "unique_word_count": 116,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "E6OvXSuerYM",
+   "url": "https://www.youtube.com/watch?v=E6OvXSuerYM",
+   "title": "Keterangan Pers Menteri Koordinator Bidang Perekonomian Airlangga Hartarto, Jakarta, 4 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 21.0,
+   "text": "Ya, tadi pertemuan dengan eh Pak Kisida yang menjadi special envoy perdana menteri ISIBA khusus untuk ASEAN Zero Emission Community dan eh dalam pertemuan tadi eh disampaikan bahwa akan ada ee projeknya sudah mulai berjalan."
+  },
+  {
+   "t": 25.0,
+   "d": 23.0,
+   "text": "Indonesia punya lebih dari 170 MOU dengan ee Jepang dan besok akan ada penandatanganan ee financial closing terhadap proyek di Muara Laboh Sumatera Barat di mana proyek itu adalah 80 eh megaw geothermal dengan investasi sekitar 500 juta US Do."
+  },
+  {
+   "t": 48.0,
+   "d": 37.0,
+   "text": "ee Bapak Presiden mengapresiasi ee kerja sama Indonesia dengan Jepang dan berharap ini bisa terus ditingkatkan di tengah ketidakpastian akibat ee perang tarif dan ee tadi ee dari ee bekas Perdana Menteri Kisida juga ee menyampaikan ee betapa ee situasi ini menjadi tidak menentu dan dalam situasi seperti ini kerja sama dua negara menjadi sangat penting dan Pak Presiden mengapresiasi kehadiran ee bekas PM"
+  },
+  {
+   "t": 85.0,
+   "d": 34.0,
+   "text": "Kisida beserta rombongannya dan ee tentunya ee Jepang salah satu mitra strategik Indonesia di ee kawasan ee Indo Pasifik ini. Tadi sebagai utusan khusus PM Jepang ada yang disampaikan atau berupa surat? Ya, tentu ee PM, mantan PM Gisida itu menyampaikan surat dari Perdana Menteri Isiba yang ee disampaikan langsung kepada Pak Presiden dan ee tentu salah satu isinya terkait dengan apa ee beliau spesial envoy perdana menteri khusus untuk projek-projek asek ya. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

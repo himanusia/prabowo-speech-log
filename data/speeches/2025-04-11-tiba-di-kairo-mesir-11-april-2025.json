@@ -1,0 +1,73 @@
+{
+ "id": "2025-04-11-tiba-di-kairo-mesir-11-april-2025",
+ "video_id": "Kccsdk3fviU",
+ "date": "2025-04-11",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Kairo, Mesir, 11 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Kccsdk3fviU",
+ "duration_s": 119,
+ "duration_hms": "1:59",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 127,
+ "unique_word_count": 75,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Kccsdk3fviU",
+   "url": "https://www.youtube.com/watch?v=Kccsdk3fviU",
+   "title": "Presiden Prabowo Tiba di Kairo, Mesir, 11 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 12.0,
+   "d": 58.0,
+   "text": "[Musik] Ya Allah, ya Allah, ya Allah, ya Allah. Selamat datang kembali, Pak Presiden. Makasih kamu namanya [Musik] I. Alhamdulillah. Kami enggak nyangka juga kalau Ananda bisa terpilih karena kan banyak juga anak-anak yang lainnya. Senang banget, bangga banget."
+  },
+  {
+   "t": 70.0,
+   "d": 8.0,
+   "text": "Ee apalagi tadi pas Pak Probowo juga nyium anak kami gitu itu terharu banget gitu rasanya."
+  },
+  {
+   "t": 78.0,
+   "d": 7.0,
+   "text": "[Musik] Ayo, ayo mundur dikit, mundur."
+  },
+  {
+   "t": 85.0,
+   "d": 33.0,
+   "text": "[Musik] Senang banget dikunjungi sama Bapak Presiden di sini. Eh, terima kasih banyak Bapak Presiden sudah berkunjung untuk menjenguk dan melihat kita di sini. E, masyaallah senang sekali rasanya bisa ketemu sama Presiden secara langsung. Kami Diaspora Indonesia berharap ee kami bisa mendapat pendidikan yang baik dan kenyamanan di sini."
+  },
+  {
+   "t": 118.0,
+   "d": 13.0,
+   "text": "mengingat di sini banyak sekali mahasiswa yang dari Indonesia belajar di mesin [Musik] Selamat datang Bapak Selamat datang"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

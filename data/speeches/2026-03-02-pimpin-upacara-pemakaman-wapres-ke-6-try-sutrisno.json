@@ -1,0 +1,83 @@
+{
+ "id": "2026-03-02-pimpin-upacara-pemakaman-wapres-ke-6-try-sutrisno",
+ "video_id": "ooZvi-hw-L8",
+ "date": "2026-03-02",
+ "date_precise": true,
+ "title": "Presiden Prabowo Pimpin Upacara Pemakaman Wapres ke-6 RI Try Sutrisno, TMPNU Kalibata, 2 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ooZvi-hw-L8",
+ "duration_s": 95,
+ "duration_hms": "1:35",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 95,
+ "unique_word_count": 74,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ooZvi-hw-L8",
+   "url": "https://www.youtube.com/watch?v=ooZvi-hw-L8",
+   "title": "Presiden Prabowo Pimpin Upacara Pemakaman Wapres ke-6 RI Try Sutrisno, TMPNU Kalibata, 2 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 8
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 18.0,
+   "d": 10.0,
+   "text": "Saya Presiden Republik Indonesia atas nama Negara, Bangsa dan Tentara Nasional Indonesia."
+  },
+  {
+   "t": 28.0,
+   "d": 26.0,
+   "text": "Dengan ini mempersembahkan ke Persada Ibu Perdiwi Jiwa Raga dan jasa-jasa almarhum nama Tri Sutrisno jabatan Wakil Presiden Republik Indonesia keenam periode tahun 1993 1998."
+  },
+  {
+   "t": 54.0,
+   "d": 23.0,
+   "text": "Panglima Abri periode 1988 1993, putra dari Bapak Subandi almarhum yang telah meninggal dunia demi kepentingan serta keluhuran negara dan bangsa."
+  },
+  {
+   "t": 77.0,
+   "d": 12.0,
+   "text": "Pada hari Senin tanggal 2 Maret 2026 pukul 0658 WIB di Jakarta."
+  },
+  {
+   "t": 89.0,
+   "d": 16.0,
+   "text": "Semoga jalan Dharma Bakti yang ditempuhnya dapat menjadi suri teladan bagi kita semua dan arwahnya mendapat tempat yang terbaik di sisi Tuhan yang Maha Besar."
+  },
+  {
+   "t": 105.0,
+   "d": 5.0,
+   "text": "Jakarta, 2 Maret 2026."
+  },
+  {
+   "t": 110.0,
+   "d": 3.0,
+   "text": "Presiden Republik Indonesia Prabowo Subianto."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

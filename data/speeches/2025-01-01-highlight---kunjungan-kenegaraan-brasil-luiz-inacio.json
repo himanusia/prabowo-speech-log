@@ -1,0 +1,68 @@
+{
+ "id": "2025-01-01-highlight---kunjungan-kenegaraan-brasil-luiz-inacio",
+ "video_id": "5wo0lqfmlCU",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "HIGHLIGHT - Kunjungan Kenegaraan Presiden Brasil Luiz Inácio Lula da Silva ke Indonesia",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=5wo0lqfmlCU",
+ "duration_s": 65,
+ "duration_hms": "1:05",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 8,
+ "token_count": 64,
+ "unique_word_count": 46,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5wo0lqfmlCU",
+   "url": "https://www.youtube.com/watch?v=5wo0lqfmlCU",
+   "title": "HIGHLIGHT - Kunjungan Kenegaraan Presiden Brasil Luiz Inácio Lula da Silva ke Indonesia",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 19.0,
+   "d": 18.0,
+   "text": "[musik] Kita telah melaksanakan pertemuan yang intensif dan produktif."
+  },
+  {
+   "t": 37.0,
+   "d": 27.0,
+   "text": "Kita kedua negara adalah dua kekuatan ekonomi baru yang sedang meningkat terus-menerus. [musik] Kita merupakan dua kekuatan global south. Karena itu kerja sama [musik] antara Indonesia dan Brazil memiliki arti strategis dan kami berdua memandang [musik] sangat penting hubungan ini."
+  },
+  {
+   "t": 64.0,
+   "d": 10.0,
+   "text": "Hubungan ini kita bertekad [musik] untuk mempererat dan terus meningkat di segala bidang."
+  },
+  {
+   "t": 74.0,
+   "d": 10.0,
+   "text": "[musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "kunjungan",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

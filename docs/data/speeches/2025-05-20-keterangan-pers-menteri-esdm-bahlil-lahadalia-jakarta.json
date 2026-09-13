@@ -1,0 +1,77 @@
+{
+ "id": "2025-05-20-keterangan-pers-menteri-esdm-bahlil-lahadalia-jakarta",
+ "video_id": "0KubAzr6jGE",
+ "date": "2025-05-20",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 20 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=0KubAzr6jGE",
+ "duration_s": 63,
+ "duration_hms": "1:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 127,
+ "unique_word_count": 81,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "0KubAzr6jGE",
+   "url": "https://www.youtube.com/watch?v=0KubAzr6jGE",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 20 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Hilirisasi": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 4.0,
+   "text": "Eh, Pak Balil tadi soal rapatnya bahasa apa, Pak?"
+  },
+  {
+   "t": 4.0,
+   "d": 19.0,
+   "text": "Aku eh dari tadi bahas tentang besok ada acara IPA, besok itu adalah ada acara besar yang dihadir oleh 46 negara tentang kontraktor K3S dalam rangka meningkatkan lifting itu besok."
+  },
+  {
+   "t": 23.0,
+   "d": 35.0,
+   "text": "Yang kedua, kami juga diskusi tentang bagaimana percepatan hilirisasi dan sekaligus untuk meningkatkan lifting. Nah, dalam kurwaktu dekat nanti setelah kita laporkan kepada Bapak Presiden, Bapak Presiden sudah berencana untuk dari sekian projek hilirisasi itu sudah harus ada yang dilakukan Gombre Breaking untuk diimplementasikan itu ya. Hilisasi apa Pak? Kita akan melakukan hilisasi di bidang nikel ya untuk membangun ekosistem baterai mobil kemudian membangun ee bahan baku baterai mobil."
+  },
+  {
+   "t": 58.0,
+   "d": 2.0,
+   "text": "Selain itu kita akan membangun DME."
+  },
+  {
+   "t": 60.0,
+   "d": 3.0,
+   "text": "Lokasinya di mana, Pak? Kalau untuk yang nanti kita umumkan nanti ya. Jug ngomongin saudara."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,113 @@
+{
+ "id": "2025-07-12-keterangan-pers-menko-perekonomian-airlangga-hartarto-brussel",
+ "video_id": "c3rsoK29nn8",
+ "date": "2025-07-12",
+ "date_precise": true,
+ "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Brussel, 12 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=c3rsoK29nn8",
+ "duration_s": 210,
+ "duration_hms": "3:30",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 29,
+ "token_count": 377,
+ "unique_word_count": 207,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "c3rsoK29nn8",
+   "url": "https://www.youtube.com/watch?v=c3rsoK29nn8",
+   "title": "Keterangan Pers Menko Perekonomian Airlangga Hartarto, Brussel, 12 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 1.0,
+   "text": "kabar baik, Pak."
+  },
+  {
+   "t": 1.0,
+   "d": 48.0,
+   "text": "Jadi ee di sini nanti tentu ee kunjungan Bapak Presiden akan bertemu dengan Presiden Ursula Vonderleyer dan juga eh Presiden daripada eh IU Consel plus berkunjung ke raja. Dan salah satu yang akan ee dibahas itu terkait dengan IUEPA. Nah, Yusepa ini kita sudah berunding masuk ke tahun ke-10 lebih dari 19 putaran. Namun seluruh isunya akan ee selesai dan ee ini tentu merupakan ee sebuah ee milestone baru di tengah situasi ketidakpastian."
+  },
+  {
+   "t": 49.0,
+   "d": 10.0,
+   "text": "Berarti antara Indonesia dan IU itu akan ee produk kita bisa masuk ke Eropa dengan tarif nol."
+  },
+  {
+   "t": 59.0,
+   "d": 3.0,
+   "text": "Apakah ada kabar kapan ratifikasinya?"
+  },
+  {
+   "t": 62.0,
+   "d": 10.0,
+   "text": "Ya tentu ee pertama nanti akan ada penandatanganan di kuartal ketiga e tahun ini dan di Jakarta."
+  },
+  {
+   "t": 72.0,
+   "d": 8.0,
+   "text": "Tapi kita tunggu pengumuman dari Presiden. Jadi kita tidak spill-spill. Iya."
+  },
+  {
+   "t": 80.0,
+   "d": 32.0,
+   "text": "Tapi sejauh ini tadi apa sih, Pak, yang menjadi kendala yang masih susah gitu loh, Pak, untuk sekarang sudah tidak ada kendala lagi, jadi sudah selesai. sebelumnya banyak hal ya, tapi tentu situasi global geopolitik itu semuanya merubah dan juga termasuk ee Indonesia menjadi mitra strategis untuk Eropa karena kita dilihat juga dalam proses masuk menjadi OECD sehingga kita dianggap sudah mulai menjadi like minded countries. Kemudian Indonesia juga ke depan akan menjadi"
+  },
+  {
+   "t": 112.0,
+   "d": 26.0,
+   "text": "negara yang terus meningkat ekonominya dan mereka melihat di berbagai regional ee ASEAN sangat kuat dan anchornya Indonesia. sesudah Indonesia di belakang antri nih. Malaysia ingin, Thailand ingin. Jadi ya Indonesia menjadi ee pelopor lah untuk ee bekerja sama dengan berbagai negara itu."
+  },
+  {
+   "t": 138.0,
+   "d": 15.0,
+   "text": "Kalau misalnya soal kesepakatan kan pasti ada gift and take. Lebih banyak yang kita kasih ataupun juga kita relakan untuk kemudian disepakati atau sama-sama. Namanya kalau ee perjanjian dagang kan harus dua pihak. Jadi kita cari yang win-win."
+  },
+  {
+   "t": 153.0,
+   "d": 1.0,
+   "text": "Iya."
+  },
+  {
+   "t": 154.0,
+   "d": 13.0,
+   "text": "Mau lanjut. Oke, berarti yang selanjutnya adalah soal tarif rampah yang kemarin. Gimana, Pak? Apakah jadi bulan Agustus itu diterapin 32% atau nambah 10% lagi setelah Indonesia ke Breaks."
+  },
+  {
+   "t": 167.0,
+   "d": 40.0,
+   "text": "Jadi, pertama ee tambahan itu tidak ada ya. Yang kedua ee waktunya adalah kita sebut pos. Jadi ee penundaan penerapan untuk menyelesaikan perundingan yang sudah ada. Jadi kemarin dalam pertemuan di Amerika dengan ee sekretari Lutnik maupun eh ambasador GRE dari USDR itu menyepakati bahwa apa yang diusulkan oleh Indonesia berproses lanjutan. Jadi 3 minggu ini diharapkan finalisasi daripada fine tuning daripada proposal dan fine tuning"
+  },
+  {
+   "t": 207.0,
+   "d": 3.0,
+   "text": "daripada ee apa yang sudah dipertukarkan."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

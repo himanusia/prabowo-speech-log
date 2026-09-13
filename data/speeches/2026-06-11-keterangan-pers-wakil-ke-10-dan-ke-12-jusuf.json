@@ -1,0 +1,103 @@
+{
+ "id": "2026-06-11-keterangan-pers-wakil-ke-10-dan-ke-12-jusuf",
+ "video_id": "2i10txapRYU",
+ "date": "2026-06-11",
+ "date_precise": true,
+ "title": "Keterangan Pers Wakil Presiden ke-10 dan ke-12 RI Jusuf Kalla, Istana Merdeka, 11 Juni 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=2i10txapRYU",
+ "duration_s": 179,
+ "duration_hms": "2:59",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 261,
+ "unique_word_count": 122,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "2i10txapRYU",
+   "url": "https://www.youtube.com/watch?v=2i10txapRYU",
+   "title": "Keterangan Pers Wakil Presiden ke-10 dan ke-12 RI Jusuf Kalla, Istana Merdeka, 11 Juni 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 7,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 2.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 3.0,
+   "d": 22.0,
+   "text": "kami dengan Sorihin baru saya berbicara lama dengan Bapak Presiden didampingi juga oleh Pak Seknek dengan Pak Sekap untuk meningkatkan energi kemampuan energi di Indonesia yang kita kenal itu suasembad energi."
+  },
+  {
+   "t": 25.0,
+   "d": 15.0,
+   "text": "kita siap untuk kita sudah membangun 1500 mega PLTA ini kita siap membangun lagi 2.000 ee ee Mega termasuk juga PLTG."
+  },
+  {
+   "t": 40.0,
+   "d": 40.0,
+   "text": "Jadi karena kita melihat bahwa untuk pertumbuhan ke negara 56% 8 sampai 8% itu butuh energi luar biasa banyaknya. Karena itu tanpa energi itu kita akan sulit untuk ee meningkatkan itu. Karena itu bahwa saya setuju untuk segera kita bangun ee energi nasional khususnya green energy untuk menjadi bahagian daripada pembangunan nasional untuk mendukung pertumbuhan ekonomi yang sampai presiden sampai 8% yang sekarang 56."
+  },
+  {
+   "t": 80.0,
+   "d": 29.0,
+   "text": "karena itu butuh energi yang kuat seperti itu. Nah, itulah yang kita sampaikan di samping juga membicarakan perdamaian apa yang terjadi di negara-negara kayak ee di ee apa tuh Thailand dan di Afghanistan dengan itu yang kita bicarakan tadi juga seperti itu."
+  },
+  {
+   "t": 109.0,
+   "d": 7.0,
+   "text": "Bagaimana dengan bisnis atau ada bisnis atau dengan yang lain?"
+  },
+  {
+   "t": 116.0,
+   "d": 32.0,
+   "text": "Oh ya, tentu ini hubungannya pembangunan. Pembangunan itu mesti harus ada aspek bisnisnya karena investasi investasi yang besar. Jadi kita bicara tentang investasi kira-kira 60 70 triliun dan kita sanggup melaksanakan itu. Desain sudah ada, tempat sudah ada tinggal ee pembicaraan dengan e teknisnya dan beliau ee Bapak Presiden setuju untuk segera kita realisir seperti itu. Memang bisnisnya karena investasi"
+  },
+  {
+   "t": 148.0,
+   "d": 8.0,
+   "text": "ya itu ya itu untuk yang pertama apa?"
+  },
+  {
+   "t": 156.0,
+   "d": 2.0,
+   "text": "perdamaian diskusi tentang apa?"
+  },
+  {
+   "t": 158.0,
+   "d": 19.0,
+   "text": "Perdamai ah perdamaian tentang bagaimana ee Thailand Selatan itu ya ee dan bagaimana ee tentang ee Pakistan, Afghanistan kita lagi anu bicarakan Bapak."
+  },
+  {
+   "t": 177.0,
+   "d": 3.0,
+   "text": "Baik sudah ya. Terima kasih Pak."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

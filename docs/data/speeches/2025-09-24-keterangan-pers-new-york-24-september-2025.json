@@ -1,0 +1,88 @@
+{
+ "id": "2025-09-24-keterangan-pers-new-york-24-september-2025",
+ "video_id": "gBzZ2gLSDKg",
+ "date": "2025-09-24",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Subianto, New York, 24 September 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=gBzZ2gLSDKg",
+ "duration_s": 123,
+ "duration_hms": "2:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 193,
+ "unique_word_count": 117,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "gBzZ2gLSDKg",
+   "url": "https://www.youtube.com/watch?v=gBzZ2gLSDKg",
+   "title": "Keterangan Pers Presiden Prabowo Subianto, New York, 24 September 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 2.0,
+   "text": "ee berpatuhan di panggung PBB, Pak."
+  },
+  {
+   "t": 2.0,
+   "d": 4.0,
+   "text": "Untuk pertama kalinya Bapak memaknanya seperti apa, Pak? 10."
+  },
+  {
+   "t": 6.0,
+   "d": 44.0,
+   "text": "Iya, saya kira ini ee suatu kehormatan ee saya bisa bicara termasuk dikasih urutan yang terhormat ya. Habis Brazil yang selalu nomor satu, Amerika yang selalu nomor dua. Baru kasih kesempatan kepada Indonesia. Saking menghormati Indonesia, menghargai Indonesia. Ya, alhamdulillah saya menggunakan panggung itu untuk menyampaikan ee sikap kita, sikap Indonesia, terutama mendorong ee penyelesaian konflik di semua tempat."
+  },
+  {
+   "t": 50.0,
+   "d": 47.0,
+   "text": "Tapi yang paling utama bagi kita tentunya kita sangat sangat merasa ee jeritan penderitaan rakyat Gaza berakhir saya kira itu bagaimana tanggapan reaksi dari negara-negara pemimpin karir hadir Pak banyak sekali yang positif ya karena juga kita dianggap realistis kita dianggap ee seimbang saya juga terang-terangan mengatakan perdamaian hanya bisa datang kalau ee semua orang mengakui ee menghormati dan menjamin ee keamanannya Israel. Israel pun harus dijamin"
+  },
+  {
+   "t": 97.0,
+   "d": 14.0,
+   "text": "keamanannya baru kita bisa dapat perdamaian. Ya, kemarin Trump sempat sempat menguji pidato Bapak, Pak. Pak tanggapan ya. Beliau beliau kan beliau kan humoris ya."
+  },
+  {
+   "t": 111.0,
+   "d": 1.0,
+   "text": "Ya. Oke, terima kasih Bapak."
+  },
+  {
+   "t": 112.0,
+   "d": 8.0,
+   "text": "Saya saya sebetulnya enggak terlalu sadar bahwa saya itu ya mungkin itu sedikit apa ya gaya saya aja itu ya. K, Pak."
+  },
+  {
+   "t": 120.0,
+   "d": 3.0,
+   "text": "Terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

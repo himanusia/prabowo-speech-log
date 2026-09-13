@@ -1,0 +1,68 @@
+{
+ "id": "2025-05-29-dan-macron-kunjungi-candi-borobudur-29-mei",
+ "video_id": "-lOEMlzcUZ0",
+ "date": "2025-05-29",
+ "date_precise": true,
+ "title": "Presiden Prabowo dan Presiden Macron Kunjungi Candi Borobudur, 29 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=-lOEMlzcUZ0",
+ "duration_s": 190,
+ "duration_hms": "3:10",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 141,
+ "unique_word_count": 93,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "-lOEMlzcUZ0",
+   "url": "https://www.youtube.com/watch?v=-lOEMlzcUZ0",
+   "title": "Presiden Prabowo dan Presiden Macron Kunjungi Candi Borobudur, 29 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 133.0,
+   "text": "[Musik] [Musik] Nam [Tepuk tangan] môagayan ewang sujaya mangkale apara Ini adalah suatu kehormatan besar kami menerima kunjungan yang mulia di situs bersejarah ini yang merupakan maha karya peradaban dan oleh UNESCO ditetapkan sebagai warisan budaya dunia yang kaya akan sejarah dan makna spiritual. Indonesia dan Prancis adalah dua bangsa yang besar yang memiliki sejarah yang panjang, budaya yang mengakar"
+  },
+  {
+   "t": 137.0,
+   "d": 6.0,
+   "text": "kuat dan peradaban juga yang panjang."
+  },
+  {
+   "t": 143.0,
+   "d": 26.0,
+   "text": "Kami juga memiliki semangat yang sama, nilai-nilai kemanusiaan yang sama, toleransi, menghormati warisan budaya, menghormati semua agama kepercayaan, semua ras, semua kelompok etnis. Kita ingin memelihara kehidupan yang harmonis, perdamaian yang baik."
+  },
+  {
+   "t": 169.0,
+   "d": 25.0,
+   "text": "Kami hanya kami percaya hanya dengan persahabatan, kekeluargaan, dan kolaborasi kita semua bisa mendapat kehidupan yang lebih baik. Saya percaya dan optimis bahwa kemitraan kita akan berlanjut dan menjadi jembatan bagi budayawan, seniman, pelaku industri kreatif dan semua tokoh-tokoh masyarakat kedua negara kita."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

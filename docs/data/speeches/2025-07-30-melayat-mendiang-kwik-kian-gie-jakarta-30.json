@@ -1,0 +1,78 @@
+{
+ "id": "2025-07-30-melayat-mendiang-kwik-kian-gie-jakarta-30",
+ "video_id": "eW9XzFJ0bgE",
+ "date": "2025-07-30",
+ "date_precise": true,
+ "title": "Presiden Prabowo Melayat Mendiang Kwik Kian Gie, Jakarta, 30 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=eW9XzFJ0bgE",
+ "duration_s": 57,
+ "duration_hms": "0:57",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 75,
+ "unique_word_count": 52,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "eW9XzFJ0bgE",
+   "url": "https://www.youtube.com/watch?v=eW9XzFJ0bgE",
+   "title": "Presiden Prabowo Melayat Mendiang Kwik Kian Gie, Jakarta, 30 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 21.0,
+   "d": 13.0,
+   "text": "Ya, saya datang hanya untuk menghormati saudara Sukwa ya, Pak Kik seorang tokoh bangsa yang sangat ee berjasa."
+  },
+  {
+   "t": 34.0,
+   "d": 24.0,
+   "text": "Pemikiran-pemikiran beliau, beliau sangat ee mempertahankan ekonomi Pancasila, ekonomi pasal 33. Ee beliau seorang tokoh yang luar biasa. Ee saya merasa dekat sama beliau. Beliau banyak kasih nasihat ke saya."
+  },
+  {
+   "t": 58.0,
+   "d": 5.0,
+   "text": "Bahkan berapa hari yang lalu pun mengirim WA ya."
+  },
+  {
+   "t": 63.0,
+   "d": 5.0,
+   "text": "I memberi saran-saran. Beliau masih terus memberi WA. Saya kira itu yang bisa sampaikan ya."
+  },
+  {
+   "t": 68.0,
+   "d": 7.0,
+   "text": "Kita Indonesia putra terbaik."
+  },
+  {
+   "t": 75.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

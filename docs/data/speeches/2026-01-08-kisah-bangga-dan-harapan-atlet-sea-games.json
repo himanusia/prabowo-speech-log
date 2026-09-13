@@ -1,0 +1,93 @@
+{
+ "id": "2026-01-08-kisah-bangga-dan-harapan-atlet-sea-games",
+ "video_id": "pd1cyim2t-g",
+ "date": "2026-01-08",
+ "date_precise": true,
+ "title": "Kisah Bangga dan Harapan Atlet SEA Games saat Terima Apresiasi Presiden Prabowo, 8 Januari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=pd1cyim2t-g",
+ "duration_s": 156,
+ "duration_hms": "2:36",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 337,
+ "unique_word_count": 183,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "pd1cyim2t-g",
+   "url": "https://www.youtube.com/watch?v=pd1cyim2t-g",
+   "title": "Kisah Bangga dan Harapan Atlet SEA Games saat Terima Apresiasi Presiden Prabowo, 8 Januari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 3,
+  "nasional_dan_identitas": 11
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 8.0,
+   "text": "Saudara-saudara, saya bangga dengan kalian. Saya hormat kalian dari hati saya yang paling dalam atas nama seluruh rakyat Indonesia."
+  },
+  {
+   "t": 11.0,
+   "d": 11.0,
+   "text": "Ee kami beruntung punya putra-putri yang begitu semangat. Kita berharap muncul di Asian Games dengan terhormat, muncul di Olympic Games dengan terhormat."
+  },
+  {
+   "t": 22.0,
+   "d": 13.0,
+   "text": "Indonesia negara besar, Indonesia negara kuat. Indonesia negara yang akan bangkit, Saudara-saudara. lambang kebangkitan bangsa Indonesia."
+  },
+  {
+   "t": 35.0,
+   "d": 32.0,
+   "text": "Saya mengembus napas dalam-dalam karena memang ini suatu kebanggaan dan suatu kehormatan ini adalah ee apa ya pemberian apresiasi yang sangat-sangat luar biasa untuk saya pribadi dan teman-teman teman-teman lain juga yang memang berada di TNI dan saya juga sangat apa ya senang banget terharu tadi dengarnya hampir nangis karena memang Bapak tiba-tiba menyampaikan sesuatu seperti itu bahwasan saya sebelumnya memang belum tahu karena memang Memang saya sebelumnya di TNI dan memang kan sudah dilantik waktu 27"
+  },
+  {
+   "t": 67.0,
+   "d": 19.0,
+   "text": "November ee tahun sil ee tahun silam dan alhamdulillah memang saya sekarang dipindahkan untuk di TN katanya. Ini adalah tantangan juga bagi saya, ini adalah jalan berat juga bagi saya. Ke depannya saya harus membawa terus nama Indonesia, TNI dan nama baik Bapak Presiden maupun serta jaj jajarannya."
+  },
+  {
+   "t": 86.0,
+   "d": 7.0,
+   "text": "angkat besi juga yang saya e pasti selalu saya bawa dan ya ini perjuangan lagi ke depannya buat saya."
+  },
+  {
+   "t": 93.0,
+   "d": 6.0,
+   "text": "Eh kemarin di S Games dapat total tujuh medali ee lima emas dan dua perak ya."
+  },
+  {
+   "t": 99.0,
+   "d": 33.0,
+   "text": "Alhamdulillah senang banget bisa jadi perwakilan yang diberi penghargaan langsung oleh Pak Prabowo dan ini adalah hari ulang tahun saya hari ini. Jadi kerasa makin spesial hari ini. Ee alhamdulillah senang. Tapi sebelumnya karena udah apa ya? ini kan secara simbolisnya ee sebetulnya udah dari ee beberapa hari yang lalu sudah diumumkan ee yang sekolah-sekolah itu siapa-siapa aja dan kami yang anggota ini sudah"
+  },
+  {
+   "t": 132.0,
+   "d": 27.0,
+   "text": "masuk ke sepa buat ee sekolah perwira terus udah ee setelah ini kami kembali lagi ke Secapa. harapan ke depannya ee biar e apa namanya bisa meningkatkan apa namanya prestasi lagi di ASEAN Games e Olimpik sampai ya pokoknya tertinggi Olympics tuh eh setelah lahiran ini rest dulu mungkin sebentar habis itu kalau bisa dikasih kesempatan buat ASEAN Game ya ASEAN"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

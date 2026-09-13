@@ -1,0 +1,113 @@
+{
+ "id": "2026-01-20-keterangan-pers-london-20-januari-2026",
+ "video_id": "ziV6tfvrQf0",
+ "date": "2026-01-20",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo, London, 20 Januari 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ziV6tfvrQf0",
+ "duration_s": 183,
+ "duration_hms": "3:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 309,
+ "unique_word_count": 136,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ziV6tfvrQf0",
+   "url": "https://www.youtube.com/watch?v=ziV6tfvrQf0",
+   "title": "Keterangan Pers Presiden Prabowo, London, 20 Januari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 3,
+  "ekonomi": 5,
+  "pendidikan": 5,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 12.0,
+   "text": "Izin Bapak, tadi Bapak sempat melakukan pertemuan dengan Perdana Menteri Inggris. Kami ingin tahu tadi sempat membahas tentang e new strategic partnership antara Indonesia dan juga Inggris. Ini seperti apa, Bapak?"
+  },
+  {
+   "t": 12.0,
+   "d": 22.0,
+   "text": "ya kita ee memandang ee ee UK ya ee Inggris ee sebagai sesuatu ee partner yang nanti bisa juga sangat ee berpartisipasi dalam ekonomi kita."
+  },
+  {
+   "t": 34.0,
+   "d": 9.0,
+   "text": "ee mereka punya teknologi, mereka punya ee ee keuangan finance yang sangat kuat."
+  },
+  {
+   "t": 43.0,
+   "d": 21.0,
+   "text": "Mereka berminat untuk investasi di Indonesia dan ee kita merasa dan kita bisa mendapat manfaat dari ee teknologi mereka, dari ee kemampuan keuangan mereka."
+  },
+  {
+   "t": 64.0,
+   "d": 6.0,
+   "text": "Jadi saya kira ini partnership ini ee akan sangat menguntungkan kedua belah pihak ya."
+  },
+  {
+   "t": 70.0,
+   "d": 2.0,
+   "text": "Kalau di bidang maritim sendiri, Pak seperti apa?"
+  },
+  {
+   "t": 72.0,
+   "d": 21.0,
+   "text": "Di bidang maritim ee mereka akan dukung rencana kita untuk membangun ee ee pertama 1500 kapal ikan. Karena kita mau besar-besaran investasi itu. Kita mau perbaiki ee desa-dosa nelayan kita."
+  },
+  {
+   "t": 93.0,
+   "d": 16.0,
+   "text": "kita ingin ee meningkatkan kualitas hidup para nelayan kita. Kita ingin meningkatkan ee konsumsi protein rakyat kita. Jadi ini ee sangat strategis bagi kita ya."
+  },
+  {
+   "t": 109.0,
+   "d": 14.0,
+   "text": "Ini sangat ee akan mempercepat ee pertumbuhan dan kemajuan ekonomi kita khususnya di bidang maritim. Dan saya ingatkan 3/4 tanah air kita itu adalah laut."
+  },
+  {
+   "t": 123.0,
+   "d": 11.0,
+   "text": "ya. Dan konsumsi protein kita oleh raya kita masih masih terlalu rendah. Kita ingin tingkatkan untuk lebih ee lebih baik lagi."
+  },
+  {
+   "t": 134.0,
+   "d": 6.0,
+   "text": "Pak, tadi saya ketemu juga dengan ee di bidang pendidikan itu, Pak ya, dengan apa Universitas terkemuka di Inggris."
+  },
+  {
+   "t": 140.0,
+   "d": 40.0,
+   "text": "mungkinnya seperti apa, Pak? Untuk ya kita ingin mengajak kerja sama nanti ee di mereka sudah banyak kerja sama dengan UI, Gajah Mada, dengan banyak universitas. Mereka juga sudah punya kampus di kita ada di Singosari, ada di Bandung ee di bidang bidang yang kita butuh, bidang digital, bidang teknologi ya. Jadi ya kita ingin ee mempercepat, kita ingin mengejar, kita harus punya tingkat pendidikan yang se tinggi-tingginya, sederajat dengan ee"
+  },
+  {
+   "t": 180.0,
+   "d": 3.0,
+   "text": "yang terbaik di dunia. Oke, Bapak."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

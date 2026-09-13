@@ -1,0 +1,68 @@
+{
+ "id": "2025-05-28-antusiasme-siswa-sambut-kunjungan-kenegaraan-prancis-jakarta",
+ "video_id": "W5jwNEGAfgs",
+ "date": "2025-05-28",
+ "date_precise": true,
+ "title": "Antusiasme Siswa Sambut Kunjungan Kenegaraan Presiden Prancis, Jakarta, 28 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=W5jwNEGAfgs",
+ "duration_s": 87,
+ "duration_hms": "1:27",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 99,
+ "unique_word_count": 64,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "W5jwNEGAfgs",
+   "url": "https://www.youtube.com/watch?v=W5jwNEGAfgs",
+   "title": "Antusiasme Siswa Sambut Kunjungan Kenegaraan Presiden Prancis, Jakarta, 28 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 34.0,
+   "text": "[Musik] Kita mau sambut Presiden Prancis keren banget. Gagah-gagah banget. Terus prepare banget ya. Seru. Terus bagus kuda-kudanya juga tuh. Pasukan kudanya bagus-bagus semua. Bagus. Iya. Happy katanya lihat kuda. Kudanya juga bagus-bagus. Terus ada motor-motor juga tadi gitu. Jadi kita kayak menghargai banget sambutan buat mereka gitu lah."
+  },
+  {
+   "t": 34.0,
+   "d": 7.0,
+   "text": "Iya betul."
+  },
+  {
+   "t": 41.0,
+   "d": 24.0,
+   "text": "[Musik] Kita mau menyambut Presiden Prancis. Experience-nya menyenangkanlah."
+  },
+  {
+   "t": 65.0,
+   "d": 22.0,
+   "text": "Ramai-ramai gitu. seru bisa ketemu sama sekolah-sekolah lain. Bagus sih apa dari Presiden Prancis juga tahu penyambutan yang kita punya tuh gimana kayak tahu nih ada oh di Indonesia tuh ada kuda yang begini-gini nyamp terus anak-anak siswa Pak [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "kunjungan",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

@@ -1,0 +1,83 @@
+{
+ "id": "2025-08-09-tiba-di-singapura-untuk-hadiri-parade-hari",
+ "video_id": "gZFyA9zWoBk",
+ "date": "2025-08-09",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Singapura untuk Hadiri Parade Hari Nasional, Singapura, 9 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=gZFyA9zWoBk",
+ "duration_s": 185,
+ "duration_hms": "3:05",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 160,
+ "unique_word_count": 92,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "gZFyA9zWoBk",
+   "url": "https://www.youtube.com/watch?v=gZFyA9zWoBk",
+   "title": "Presiden Prabowo Tiba di Singapura untuk Hadiri Parade Hari Nasional, Singapura, 9 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 11.0,
+   "d": 105.0,
+   "text": "[Tepuk tangan] [Musik] Tapi aman aman dong. Kak Riha [Tepuk tangan] [Musik] [Musik] Pak boleh pakotak boleh ya Pak foto ya Pak. Izin."
+  },
+  {
+   "t": 116.0,
+   "d": 6.0,
+   "text": "Hai semangat senang degdekan antusias."
+  },
+  {
+   "t": 122.0,
+   "d": 21.0,
+   "text": "[Musik] [Tepuk tangan] Iya, Pak. Iya, Pak. Saya naikin Bapak suka anak saya, Pak."
+  },
+  {
+   "t": 143.0,
+   "d": 33.0,
+   "text": "Oh, bahagia sekali karena anak saya bisa bertemu dengan Bapak Presidennya untuk pertama kali dan saya juga berjumpa dengan Pak Presiden pertama kali. serasa kita serasa homi banget ya di sini karena disambu didatangi seperti dijenguk seperti itu berasa soal di setiap distrik ada di DSBT di sini ada paradenya di event di Marina Basse di daerah setiap distrik di Singapura dia kan ada 20 lebih distrik di setiap distrik pasti ada paradanya masing-masing jadi warga masyarakat Singapura menikmati di setiap"
+  },
+  {
+   "t": 176.0,
+   "d": 3.0,
+   "text": "ee tempat untuk ee merayakan Singapura 60 tahun."
+  },
+  {
+   "t": 179.0,
+   "d": 7.0,
+   "text": "Iya. ee kampus, Pak. Kuliah kuliah Pak, Pak."
+  },
+  {
+   "t": 186.0,
+   "d": 10.0,
+   "text": "Jadi mahasiswa tentu kami senang, kami bisa dan bangga karena kita menyambut langsung Presiden Republik Indonesia apalagi di negara orang gitu. kita sambung"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

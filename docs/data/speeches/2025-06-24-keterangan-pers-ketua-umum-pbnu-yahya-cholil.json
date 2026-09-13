@@ -1,0 +1,67 @@
+{
+ "id": "2025-06-24-keterangan-pers-ketua-umum-pbnu-yahya-cholil",
+ "video_id": "qSNk0ORsaGk",
+ "date": "2025-06-24",
+ "date_precise": true,
+ "title": "Keterangan Pers Ketua Umum PBNU Yahya Cholil Staquf, Jakarta, 24 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=qSNk0ORsaGk",
+ "duration_s": 69,
+ "duration_hms": "1:09",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 154,
+ "unique_word_count": 93,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "qSNk0ORsaGk",
+   "url": "https://www.youtube.com/watch?v=qSNk0ORsaGk",
+   "title": "Keterangan Pers Ketua Umum PBNU Yahya Cholil Staquf, Jakarta, 24 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 4,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 32.0,
+   "text": "ahmi bahas program-program PNU yang selama ini memang dikerjakan dengan ada ee MOU MOU dengan berbagai kementerian dan badan pemerintah itu yang kami laporkan soal MBG ee kami sudah jalan di jumlah titik dan sekarang sedang sedang sangat ee ee progresif untuk akselerasi untuk ee pengembangannya. Mudah-mudahan bisa berjalan lebih lancar karena kami diberi target oleh PGN misalnya harus bisa ee mengelola 1000 titik misalnya"
+  },
+  {
+   "t": 32.0,
+   "d": 34.0,
+   "text": "seperti itu. Ini pekerjaan besar sekali buat NU sehingga kami perlu koordinasi yang lebih intensif ya kolaborasi lebih intensif. Ada banyak hal yang lain yang juga merupakan kerja sama NU dengan pemerintah seperti untuk gerakan keluarga maslahat NU yang kami mengerjakan jumlah program dari berbagai macam kementerian tadi juga iya kami laporkan dan Pak Presiden mendukung penuh Pak mendukung penuh ya beliau sangat bahkan mendorong supaya NU lebih kuat ee dalam mempererat kerja sama"
+  },
+  {
+   "t": 66.0,
+   "d": 3.0,
+   "text": "dengan pemerintah dan dalam melaksanakan berbagai macam ee program strategis dari pemerintah ngomongin suaris Israel enggak?"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

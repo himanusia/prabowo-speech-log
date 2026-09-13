@@ -1,0 +1,83 @@
+{
+ "id": "2025-07-01-upacara-peringatan-ke-79-hari-bhayangkara-monas-1",
+ "video_id": "LcgyMQSpYDc",
+ "date": "2025-07-01",
+ "date_precise": true,
+ "title": "Upacara Peringatan ke-79 Hari Bhayangkara, Monas, 1 Juli 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=LcgyMQSpYDc",
+ "duration_s": 131,
+ "duration_hms": "2:11",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 98,
+ "unique_word_count": 63,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "LcgyMQSpYDc",
+   "url": "https://www.youtube.com/watch?v=LcgyMQSpYDc",
+   "title": "Upacara Peringatan ke-79 Hari Bhayangkara, Monas, 1 Juli 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 13
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 52.0,
+   "text": "[Musik] Cita-cita kemerdekaan adalah untuk Indonesia tidak sekedar merdeka, tapi Indonesia menjadi negara yang berdaulat di segala bidang dan terutama menjadi negara yang makmur di tengah keadilan [Musik] [Musik] bangsa kita berada sekali lagi dari ambang kebangkitan."
+  },
+  {
+   "t": 52.0,
+   "d": 16.0,
+   "text": "Kita harus mengelola dan menjaga kekayaan bangsa kita. Dan kepolisian adalah ujung tombak dalam menjaga kekayaan bangsa dan rakyat kita."
+  },
+  {
+   "t": 68.0,
+   "d": 12.0,
+   "text": "Jaga kepercayaan rakyat. selalu mengutamakan kepentingan rakyat di atas kepentingan yang lain."
+  },
+  {
+   "t": 80.0,
+   "d": 19.0,
+   "text": "[Musik] [Musik] Jangan sekali-sekali mengecewakan rakyat kita."
+  },
+  {
+   "t": 99.0,
+   "d": 4.0,
+   "text": "Selamat hari bayangkara ke-79."
+  },
+  {
+   "t": 103.0,
+   "d": 18.0,
+   "text": "Jadilah insan bayangkara yang rastra sewa kota. Polisi yang mengabdikan dirinya untuk kejayaan nusa dan bangsa."
+  },
+  {
+   "t": 121.0,
+   "d": 10.0,
+   "text": "[Musik] [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

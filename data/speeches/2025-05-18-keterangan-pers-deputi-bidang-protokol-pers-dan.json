@@ -1,0 +1,88 @@
+{
+ "id": "2025-05-18-keterangan-pers-deputi-bidang-protokol-pers-dan",
+ "video_id": "128p8-aEs08",
+ "date": "2025-05-18",
+ "date_precise": true,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers dan Media Yusuf Permana, Bangkok, 18 Mei 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=128p8-aEs08",
+ "duration_s": 139,
+ "duration_hms": "2:19",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 17,
+ "token_count": 199,
+ "unique_word_count": 115,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "128p8-aEs08",
+   "url": "https://www.youtube.com/watch?v=128p8-aEs08",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers dan Media Yusuf Permana, Bangkok, 18 Mei 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 27.0,
+   "text": "Selamat sore, Teman-teman media. Bersama ini dapat kami sampaikan bahwa dalam rangka kunjungan resmi Presiden Republik Indonesia Bapak Prabowo Subianto ke Thailand, beliau akan melakukan serangkaian agenda penting dalam rangka meningkatkan hubungan bilateral antara Indonesia dengan Thailand."
+  },
+  {
+   "t": 27.0,
+   "d": 20.0,
+   "text": "Besok pagi sekitar pukul 09.30 dijadwalkan Bapak Presiden Prabowo akan melakukan pertemuan audiensi resmi dengan Raja Thailand yang mulia Maha Fajra Longkorn di Ampom Royal Pelace."
+  },
+  {
+   "t": 47.0,
+   "d": 6.0,
+   "text": "Pertemuan tersebut merupakan bagian dari kunjungan resmi beliau di Thailand."
+  },
+  {
+   "t": 53.0,
+   "d": 18.0,
+   "text": "Setelah pertemuan dengan Raja Thailand, beliau akan melakukan perjalanan menuju ke Government House untuk menerima upacara penyambutan resmi oleh Perdana Menteri Thailand, Payet Hongtam Sinawatra."
+  },
+  {
+   "t": 71.0,
+   "d": 10.0,
+   "text": "Upacara penyambutan resmi akan diawali dengan dikumandangkannya dua buah lagu kebangsaan dari masing-masing negara."
+  },
+  {
+   "t": 81.0,
+   "d": 37.0,
+   "text": "Kemudian inspeksi pasukan jajar kehormatan. Kemudian diakhiri dengan perkenalan dari dua delegasi masing-masing negara. Setelah itu akan dilakukan pertemuan bilateral antara pemerintah Indonesia dengan pemerintah Thailand. Bapak Presiden akan didampingi oleh Menteri Koordinator Bidang Perekonomian, Menteri Luar Negeri, dan juga Sekretaris Kabinet serta Duta Besar RI di Bangkok. Setelah pertemuan bilateral rencananya akan ada MOU."
+  },
+  {
+   "t": 118.0,
+   "d": 18.0,
+   "text": "Acara kunjungan resmi ini akan ditutup dengan jamuan santap siang resmi di Government House. Sementara itu, Teman-teman media yang dapat kami sampaikan tentang agenda kunjungan resmi Bapak Presiden Prabowo di Thailand."
+  },
+  {
+   "t": 136.0,
+   "d": 3.0,
+   "text": "Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

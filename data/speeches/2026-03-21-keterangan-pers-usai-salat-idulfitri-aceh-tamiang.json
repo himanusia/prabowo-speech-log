@@ -1,0 +1,97 @@
+{
+ "id": "2026-03-21-keterangan-pers-usai-salat-idulfitri-aceh-tamiang",
+ "video_id": "StcmycI_PPM",
+ "date": "2026-03-21",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo usai Salat Idulfitri, Aceh Tamiang, 21 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=StcmycI_PPM",
+ "duration_s": 90,
+ "duration_hms": "1:30",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 160,
+ "unique_word_count": 93,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "StcmycI_PPM",
+   "url": "https://www.youtube.com/watch?v=StcmycI_PPM",
+   "title": "Keterangan Pers Presiden Prabowo usai Salat Idulfitri, Aceh Tamiang, 21 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 16.0,
+   "text": "Ya, alhamdulillah ya kita sampai ke hari Idul Fitri ini saya mohon maaf dan batin izin. Mudah-mudahan tahun akan datang tahun yang baik untuk kita semua. Terima kasih. Pesan buat masyarakat Aceh Tamiang, Pak."
+  },
+  {
+   "t": 16.0,
+   "d": 3.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 19.0,
+   "d": 8.0,
+   "text": "Kebaikannya pemulihannya sangat cepat. Alhamdulillah hampir 100% ya. Tidak ada lagi yang ditenda."
+  },
+  {
+   "t": 27.0,
+   "d": 20.0,
+   "text": "Ee di tenda sudah enggak ada lagi 100% semua sudah keluar dari tenda masuk ke hunian-hunian sementara ataupun hunian tetap sudah mulai. Alhamdulillah ya situasinya baik. Distrik hampir semuanya sudah jalan hampir 100% lah. Hanya berapa? Lima desa, Pak."
+  },
+  {
+   "t": 47.0,
+   "d": 13.0,
+   "text": "Hanya lima desa dari tengah dari seluruh Aceh. Hanya lima desa yang sulit sudah bantuan-bangga sudah ters ya. Bantuan semua sudah turun ke layar semua. Alhamdulillah ya. Langsung Pak."
+  },
+  {
+   "t": 60.0,
+   "d": 14.0,
+   "text": "Saya sangat ee bangga. Terima kasih kepada semua petugas semua aparat dari TNI, Polri, dari BNPB, PU, Pemda, semua KL yang kerja luar biasa ya."
+  },
+  {
+   "t": 74.0,
+   "d": 10.0,
+   "text": "Mereka kerja luar biasa. membantu rakyat di Aceh, Sumatera Utara, dan Sumatera Barat dan di provinsi-provinsi lain."
+  },
+  {
+   "t": 84.0,
+   "d": 3.0,
+   "text": "Baik, terima kasih."
+  },
+  {
+   "t": 87.0,
+   "d": 3.0,
+   "text": "Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

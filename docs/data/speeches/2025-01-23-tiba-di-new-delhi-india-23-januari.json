@@ -1,0 +1,63 @@
+{
+ "id": "2025-01-23-tiba-di-new-delhi-india-23-januari",
+ "video_id": "8vdz1JCTPQA",
+ "date": "2025-01-23",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di New Delhi, India, 23 Januari 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=8vdz1JCTPQA",
+ "duration_s": 297,
+ "duration_hms": "4:57",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 142,
+ "unique_word_count": 90,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "8vdz1JCTPQA",
+   "url": "https://www.youtube.com/watch?v=8vdz1JCTPQA",
+   "title": "Presiden Prabowo Tiba di New Delhi, India, 23 Januari 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 261.0,
+   "text": "[Musik] [Musik] [Musik] [Musik] mobil majuin gua ma [Musik] [Tepuk tangan] [Musik] PPI India Pak 170 Pak dari Bali Pak dari Bali Iya dari Bali Iya dari mana Saya dari Manado itu Manado siap mana di Manado siap siap belajar apa di sini siap di sini baru duk SMA eh rencana 2025 Akademi Militer itu Oh iya siap [Musik] bagus hasir ke pulang kampung pulang kampung Iya saya pulang kampung ngomongin kita di sini Ngapain aja tujuannya apa dan ya jurusan apa ya segala"
+  },
+  {
+   "t": 263.0,
+   "d": 33.0,
+   "text": "macam juga Apakah ditanya mahasiswa kita studen dari Indonesia Jadi sangat senang ketika ketemu langsung melihat beliau langsung mendengar suaranya langsung sangat luar biasa kami pastinya berharap agar semua rangkaian acara yang sudah dipersiapkan dari jauh-jauh hari bisa berjalan dengan lancar kami juga berharap bapak bisa merasa nyaman selama di ini sampai nanti bisa mungkin kembali lagi ke Jakarta"
+  },
+  {
+   "t": 296.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

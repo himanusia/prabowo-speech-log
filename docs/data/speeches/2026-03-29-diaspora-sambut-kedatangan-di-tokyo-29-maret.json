@@ -1,0 +1,88 @@
+{
+ "id": "2026-03-29-diaspora-sambut-kedatangan-di-tokyo-29-maret",
+ "video_id": "Erc8sAPMr8E",
+ "date": "2026-03-29",
+ "date_precise": true,
+ "title": "Diaspora Indonesia Sambut Kedatangan Presiden Prabowo di Tokyo, 29 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Erc8sAPMr8E",
+ "duration_s": 143,
+ "duration_hms": "2:23",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 243,
+ "unique_word_count": 119,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Erc8sAPMr8E",
+   "url": "https://www.youtube.com/watch?v=Erc8sAPMr8E",
+   "title": "Diaspora Indonesia Sambut Kedatangan Presiden Prabowo di Tokyo, 29 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 3,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 11.0,
+   "d": 9.0,
+   "text": "Bapak selamat datang. Selamat Bapak datang. Selamat datang Pak. Oke terima kasih."
+  },
+  {
+   "t": 20.0,
+   "d": 6.0,
+   "text": "Kamu kamu namanya siapa? Siapa? Oh kamu siapa namanya?"
+  },
+  {
+   "t": 26.0,
+   "d": 28.0,
+   "text": "Oh, [musik] [musik] apa kabar?"
+  },
+  {
+   "t": 54.0,
+   "d": 35.0,
+   "text": "[musik] sebenarnya deg-degan [tertawa] ya. Ya, di luar ini sih spektaksi bisa bertemu dan mungkin kan ini juga kesempatan untuk diaspora di Jepang ya bisa ketemu dan alhamdulillah juga bisa bergabung organisasi dan ini juga kesempatan besar rasanya luar biasa ya. Jadi kenapa luar biasanya? karena dari 280 290 juta orang ee kita bisa punya kesempatan bertemu langsung dengan Presiden RI kita gitu ya. Jadi ini luar biasa sekali, sangat bahagia gitu ya. Dan juga tentunya akan menjadi core memori tersendiri untuk saya. Dari saya sendiri, saya berharap"
+  },
+  {
+   "t": 89.0,
+   "d": 33.0,
+   "text": "dengan adanya ee hubungan diplomatik yang bagus antara Jepang dan Indonesia ini akan membuka berbagai macam kesempatan untuk diaspora di Indonesia dan juga ee dari yang ada di Indonesia untuk bisa datang ke Jepang atau Jepang ke Indonesia baik dalam hal transfer knowledge, investasi dan ekonomi ini menjadi lebih bagus. Untuk perasaan kami sangat bangga dan senang sekali bisa bertemu dengan Bapak Presiden. Ini suatu hal yang langkah bagi kami dan suatu kehormatan bagi kami."
+  },
+  {
+   "t": 122.0,
+   "d": 17.0,
+   "text": "Untuk Bapak Presiden, kami ingin berterima kasih atas ee usaha Bapak kami bisa terus berlanjut untuk beasiswa NDA ini untuk ke depannya semoga program ini bisa terus berlanjut sampai ke adik-adik. Kami terima kasih ya, Kang."
+  },
+  {
+   "t": 139.0,
+   "d": 12.0,
+   "text": "Harapan dari saya, apapun yang saya pelajari di sini bisa saya aplikasikan di Indonesia untuk memajukan bangsa dan negara."
+  },
+  {
+   "t": 151.0,
+   "d": 3.0,
+   "text": "Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

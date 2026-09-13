@@ -1,0 +1,58 @@
+{
+ "id": "2024-12-17-tiba-di-kairo-mesir-17-desember-2024",
+ "video_id": "MqUtILjOSuw",
+ "date": "2024-12-17",
+ "date_precise": true,
+ "title": "Presiden Prabowo Tiba di Kairo, Mesir, 17 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=MqUtILjOSuw",
+ "duration_s": 74,
+ "duration_hms": "1:14",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "token_count": 88,
+ "unique_word_count": 59,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "MqUtILjOSuw",
+   "url": "https://www.youtube.com/watch?v=MqUtILjOSuw",
+   "title": "Presiden Prabowo Tiba di Kairo, Mesir, 17 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 22.0,
+   "d": 61.0,
+   "text": "Pak [Musik] presiden sat datang di Kairo kami siswa sekolah Indonesia kiro saya keisan sayaa umur-umur berapa 11 tahun Kamu 10 tahun terima kasih terima kas terima kasih terima kasih senang karena seumur-umur hidup presiden ini suatu kesempatan yang luar biasa buat kita sebagai mahasiswa yang ada di Alazar ini luar biasa degdegan parah serius apalagi dari kemarin kita ya Dari kemarin salah satu yang saya bisa ambil dari beliau adalah ketekunan"
+  },
+  {
+   "t": 83.0,
+   "d": 13.0,
+   "text": "beliau Kemudian beliau adalah seorang pejuang yang luar biasa itu menjadi seorang buat kita juga salah satatunya [Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

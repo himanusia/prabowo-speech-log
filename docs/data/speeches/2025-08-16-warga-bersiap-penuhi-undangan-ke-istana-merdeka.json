@@ -1,0 +1,103 @@
+{
+ "id": "2025-08-16-warga-bersiap-penuhi-undangan-ke-istana-merdeka",
+ "video_id": "9YT-4ajKe5M",
+ "date": "2025-08-16",
+ "date_precise": true,
+ "title": "Warga Bersiap Penuhi Undangan Presiden ke Istana Merdeka, 16 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=9YT-4ajKe5M",
+ "duration_s": 222,
+ "duration_hms": "3:42",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 28,
+ "token_count": 338,
+ "unique_word_count": 163,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "9YT-4ajKe5M",
+   "url": "https://www.youtube.com/watch?v=9YT-4ajKe5M",
+   "title": "Warga Bersiap Penuhi Undangan Presiden ke Istana Merdeka, 16 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 8,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 6
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 32.0,
+   "text": "Eh, jujur saya enggak enggak mengira sama sekali akan mendapatkan undangan ini dari istana. Jujur saya ke istana cuma di luar doang ya. Mohon maaf karena saya pekerja atau buruh. Cuman biasanya demo-demo aja wujud ya. Mudah-mudahan dengan 17 Agustus Hood ke-80 RI ini saya bisa langsung ketemu langsung ya. Harapannya bisa salaman langsung dengan ee beliau ya. pastinya saya ee mungkin yang udah-udah kalau di rumah kan saya makai ee"
+  },
+  {
+   "t": 32.0,
+   "d": 11.0,
+   "text": "merah putih di kepala ya. Kalau emang diizinkan oleh istana saya akan ee pakai ee selembang merah putih di kepala."
+  },
+  {
+   "t": 43.0,
+   "d": 19.0,
+   "text": "[Musik] Kalau dari saya, nelayan sangat gembira dengan adanya ini. Artinya nelayan ini sampai bisa diundang sampai ke istana."
+  },
+  {
+   "t": 62.0,
+   "d": 11.0,
+   "text": "Alhamdulillah banget untuk Bapak Presiden mungkin semuanya di sini saya bersyukur baru kali ini nelayan bisa diundang sampai ke istana."
+  },
+  {
+   "t": 73.0,
+   "d": 2.0,
+   "text": "Ya, sangat senang ketemu presiden."
+  },
+  {
+   "t": 75.0,
+   "d": 31.0,
+   "text": "Artinya jarang-jarang walaupun kita sering lihat di TV kan jaranglah ketemu gitu kan. Itu kalau kita ketemu melihat langsung kan udah kayaknya ya sebagai kita anak artinya ketemu orang tua kan ya gembiralah gitu. Itu sangat ya terutama kita merasa bersyukurlah bisa mendapat undangan ini dari Bapak Presiden langsung gitu. Apalagi undangannya langsung disampaikan ke nelayan memang langsung ke lapangan benar-benar nyata bukti"
+  },
+  {
+   "t": 106.0,
+   "d": 37.0,
+   "text": "[Musik] boleh [Tepuk tangan] merasa bahagia telah diundang oleh Bapak Presiden Republik Indonesia. Ee jujur baru kali ini saya mendapatkan undangan seperti ini ya. Saya mengucapkan terima kasih kepada Pak Presiden yang berapa puluh tahun ya baru kali ini kita sebagai guru diundang ee untuk mengikuti acara upacara di Istana Merdeka. Saya sangat berterima kasih sekali."
+  },
+  {
+   "t": 143.0,
+   "d": 27.0,
+   "text": "[Musik] Alhamdulillah sangat bangka, sangat senang berhasil bagaikan mimpi dapat undangan dari kepresidenan."
+  },
+  {
+   "t": 170.0,
+   "d": 11.0,
+   "text": "Ya, mudah-mudahan untuk suasembah dapangan agar bisa berjalan lancar, sukses, dan ee berkesinambungan."
+  },
+  {
+   "t": 181.0,
+   "d": 38.0,
+   "text": "[Musik] Alhamdulillah kayaknya membagaikan mimpi mendapatkan apa ya? Udah enggak kebayanglah ya. Semoga Indonesia ke depan lebih maju lagi, terutama untuk pertanian ini ee biar para petani lebih apa lebih sukses dan lebih mendapatkan yang lebih untung lagiah gitu ya. Untuk Bapak Presiden mungkin pertanian ini perlu benar-benar didukung karena untuk apa? E suas sembada pangan itu sendiri ya."
+  },
+  {
+   "t": 219.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,93 @@
+{
+ "id": "2025-06-10-instruksikan-akselerasi-penanganan-sampah-lewat-skema-hulu",
+ "video_id": "j4c2-MA4_NY",
+ "date": "2025-06-10",
+ "date_precise": true,
+ "title": "Presiden Prabowo Instruksikan Akselerasi Penanganan Sampah Lewat Skema Hulu Hilir, 10 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=j4c2-MA4_NY",
+ "duration_s": 169,
+ "duration_hms": "2:49",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 391,
+ "unique_word_count": 184,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "j4c2-MA4_NY",
+   "url": "https://www.youtube.com/watch?v=j4c2-MA4_NY",
+   "title": "Presiden Prabowo Instruksikan Akselerasi Penanganan Sampah Lewat Skema Hulu Hilir, 10 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 34.0,
+   "text": "Jadi kami dengan Pak Bapak Mendak diduhi diminta Bapak Presiden untuk kemudian konsen terkait dengan sampah dengan Pak Rosan. Jadi Bapak ee sudah menargetkan di dalam RPJM-nya beliau 202 mestinya sampah selesai sehingga segala ee strategi ee di telah kita susun bersama melalui beberapa pendekatan mulai dari pendekatan hulu TPS 3R, TPST dan pendekatan hilir Westo Energi maupun RDF. Jadi ini sedang kita susun bersama-sama. Bapak Presiden minta dalam waktu segera segera kita berakselerasi"
+  },
+  {
+   "t": 34.0,
+   "d": 21.0,
+   "text": "ee dengan pemerintah daerah karena tanggung jawab e sampah ini sesuai dengan Undang-Undang Nomor 18 Tahun 2008 itu Pemerintah Daerah. Sehingga nanti kami dengan Pak Mendag akan bersama-sama sesuai arahan Pak Presiden ee mengelit untuk kemudian diskusi ee langkah-langkah penyelesaian lebih lanjut. Saya rasa itu ya, Pak. Sudah, Bang. Masih ya. Nanti perandantara akan seperti apa, Pak? E ini Pak Rusan ya"
+  },
+  {
+   "t": 55.0,
+   "d": 34.0,
+   "text": "memang ee tadi peradanan tentunya kita untuk dalam rangka ee mempercepat waste to energy ini ee berkompeksi dengan daerah dan ee apa dan antara tentunya dalam kita berprestasi kan kita juga mempunyai kriteria dari segi return, dari segi apa yield-nya dan itu juga tetap kita e ikuti dan alhamdulillah tadi pembicaran juga sangat baik ee dan ee selama itu memang masuk ke dalam perhitungan kriteria kami ya kami berprestasi dan kami juga tidak bervasi sendiri. Kami juga akan mengajak ee dunia swasta ee untuk berinvestasi"
+  },
+  {
+   "t": 89.0,
+   "d": 31.0,
+   "text": "bersama dengan dan tentara di West West to Energy ini. Gitu. Intinya seperti itu. Berarti ke proyek, Pak? Ee investasi yang nanti dari tentara. Iya, ke proyek. Ke proek mungkin gambarannya, Pak proyeknya ya ini tadi jadi Bapak Presiden, Bapak Presiden sangat peduli sekali mengenai masalah sampah ya. ya karena kita tahu ini juga problem lingkungan dan ee tadi ada mekanisme hulu dan hilir. Jadi di daerah-daerah itu sudah ada yang mengerjakan dari hulu melibatkan masyarakat, ada juga yang"
+  },
+  {
+   "t": 120.0,
+   "d": 16.0,
+   "text": "berorientasi hilir. Nah, yang hilir ini kan menumpuk tempat sampah di TPA diidentifikasi oleh ee Pak Menteri Kaila ada 33 titik. Nah, itulah yang akan digunakan mekanisme namanya waste to energy. Merubah sampah menjadi energi."
+  },
+  {
+   "t": 136.0,
+   "d": 3.0,
+   "text": "Nanti Darantara berperan di sana."
+  },
+  {
+   "t": 139.0,
+   "d": 5.0,
+   "text": "Sementara 33 nanti kita hari Selasa rencana akan kita undang pada daerahnya."
+  },
+  {
+   "t": 144.0,
+   "d": 16.0,
+   "text": "Kemudian ada juga pada daerah yang baru yang mungkin belum tahu. Nah, kemudian yang untuk yang mekanisme hulu tetap kita dorong yang melibatkan masyarakat sejak awal dalam rangka apa? Reduce, recycle ee apa tadi?"
+  },
+  {
+   "t": 160.0,
+   "d": 9.0,
+   "text": "reus reus recycle sehingga ketika sudah diulu ditangani di pembuangan airnya kurang berkurang jauh"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

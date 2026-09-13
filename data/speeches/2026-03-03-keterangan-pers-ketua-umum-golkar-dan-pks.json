@@ -1,0 +1,103 @@
+{
+ "id": "2026-03-03-keterangan-pers-ketua-umum-golkar-dan-pks",
+ "video_id": "4VZy-HBdfp4",
+ "date": "2026-03-03",
+ "date_precise": true,
+ "title": "Keterangan Pers Ketua Umum Golkar dan Presiden PKS, Jakarta, 3 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=4VZy-HBdfp4",
+ "duration_s": 173,
+ "duration_hms": "2:53",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 347,
+ "unique_word_count": 174,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "4VZy-HBdfp4",
+   "url": "https://www.youtube.com/watch?v=4VZy-HBdfp4",
+   "title": "Keterangan Pers Ketua Umum Golkar dan Presiden PKS, Jakarta, 3 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 34.0,
+   "text": "Baik e teman-teman media eh selamat malam. Asalamualaikum warahmatull wabarakatuh. Saya bersama Pak H Ketum Demokrat, kemudian Pak Zul Ketumpan dan Presiden PKS Bapak Muzamil. Mohon maaf ini nama harus benar semua. Kami baru selesai melakukan pertemuan dengan Bapak Presiden. Bapak Presiden menjelaskan berbagai hal terkait dengan perkembangan geopolitik dan kesiapan Indonesia dalam menghadapi semua dinamika global khususnya dalam konteks energi dan"
+  },
+  {
+   "t": 34.0,
+   "d": 28.0,
+   "text": "beberapa persoalan lain. Prinsipnya adalah kami dari partai politik sangat memahami posisi yang dilakukan oleh Bapak Presiden dan juga adalah kesiapan-kesiapan, langkah-langkah untuk mengantisipasi ini. Semuanya ini kita lakukan dalam rangka bagaimana mendorong agar kejadian di global bisa kita antisipasi untuk mengamankan negara kita. Saya pikir itu. Kalau ada pertanyaan silakan. Kalau tidak ada jawab lebih baik."
+  },
+  {
+   "t": 62.0,
+   "d": 1.0,
+   "text": "Cukup ya. Cukup cukup."
+  },
+  {
+   "t": 63.0,
+   "d": 5.0,
+   "text": "Cukup ya. Makasih ya. untuk Makasih, makasih makasih. Seperti apa, Pak?"
+  },
+  {
+   "t": 68.0,
+   "d": 5.0,
+   "text": "Dari PKI seperti apa? Penilai dari PKI seperti apa, Pak? Penilai ee dinamika ini, Pak?"
+  },
+  {
+   "t": 73.0,
+   "d": 6.0,
+   "text": "Iya. Pak karena ee senangan dari eh dari Amerika Serikat kepada kita seperti apa, Pak?"
+  },
+  {
+   "t": 79.0,
+   "d": 11.0,
+   "text": "Dari pertama pertemuan ini Pak Prabowo menjelaskan tentang bop dan juga tentang perkembangan eran."
+  },
+  {
+   "t": 90.0,
+   "d": 25.0,
+   "text": "dari penjelasan Pak Prabowo tentang bopalah penjelasan yang mungkin sudah Pak Prabowo sampaikan kepada MUI dan Ormas Islam ya. Ee penjelasan yang ee apa menurut saya ee beliau menjelaskan pilihan yang memang terberat dari yang ada, yang paling mungkin dari yang ada bukan pilihan-pilihan ideal."
+  },
+  {
+   "t": 115.0,
+   "d": 32.0,
+   "text": "Beliau menjelaskan itu, mungkin juga sudah beliau jelaskan pada waktu di MUI dan ee ormasan Islam. Ee lalu beliau juga menjelaskan tentang perkembangan di tentang Iran ee Israel hari ini. Intinya pada pertahanan kita, pada kesiapan kita menghadapi krisis itu. Ee beliau menjelaskan tentang persiagaan pangan kita, kesegaan energi kita, dan dialog elit kita. Beliau mengundang para tokoh-tokoh ini untuk menyatukan ilit dan beliau sendiri insyaallah akan"
+  },
+  {
+   "t": 147.0,
+   "d": 16.0,
+   "text": "menyampaikan kepada publik mungkin ya sikap-sikap resmi beliau gitu. Saya kira ee saya tidak ingin apa memperpanjang karena itu saya kira Pak Prabo akan bisa sangat ee sempurna menjelaskannya. Tapi poin pembicaraan kita seputar itu ya."
+  },
+  {
+   "t": 163.0,
+   "d": 10.0,
+   "text": "bop dan kesiagaan kesiapan Indonesia untuk ee menghadapi situasi politik dunia yang kita tahu sekarang ini sedang memanas. Oke, cukup ya. Makasih ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

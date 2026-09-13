@@ -1,0 +1,63 @@
+{
+ "id": "2025-08-17-tim-berdaulat-siap-kibarkan-sang-merah-putih",
+ "video_id": "C-pCMMlg5zk",
+ "date": "2025-08-17",
+ "date_precise": true,
+ "title": "Tim Indonesia Berdaulat Siap Kibarkan Sang Merah Putih, 17 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=C-pCMMlg5zk",
+ "duration_s": 85,
+ "duration_hms": "1:25",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 135,
+ "unique_word_count": 84,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "C-pCMMlg5zk",
+   "url": "https://www.youtube.com/watch?v=C-pCMMlg5zk",
+   "title": "Tim Indonesia Berdaulat Siap Kibarkan Sang Merah Putih, 17 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 10
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 41.0,
+   "text": "Dengan rahmat Tuhan yang maha esa, Kepala Staf Komando Garsun Tetap 1 Jakarta selaku koordinator tata upacara menimbang dan seterusnya, mengingat dan seterusnya, memperhatikan dan seterusnya. memutuskan menetapkan satu tim B atau Indonesia berdaulat sebagai tim pasukan pengibar sang merah putih pada upacara peringatan detik-detik proklamasi tanggal 17 Agustus 2025 pukul 10 WIB di Istana Merdeka 2. Tim A Indonesia Bersatu sebagai tim pasukan penurunan sang Merah"
+  },
+  {
+   "t": 41.0,
+   "d": 17.0,
+   "text": "Putih pada upacara penurunan Sang Merah Putih tanggal 17 Agustus 2025 pukul 17.00 WIB di Istana Merdeka ditetapkan di Jakarta pada tanggal 16 Agustus 2025."
+  },
+  {
+   "t": 58.0,
+   "d": 27.0,
+   "text": "Ya Allah Tuhan yang maha kuat, berikanlah kepada tim paskrat, komandan pasibrat, pemandan upacara, perwira upacara, dan seluruh personil yang mendukung serta terlibat dalam rangkaian kegiatan upacara peringatan hari ulang tahun kemerdekaan Republik Indonesia yang ke-80 tahun 2025. kesehatan, keselamatan serta kekuatan lahir batin sehingga dapat melakukan tugas dengan sempurna dan upacara dapat berjalan dengan lancar."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

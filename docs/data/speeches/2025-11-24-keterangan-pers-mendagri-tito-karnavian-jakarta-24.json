@@ -1,0 +1,181 @@
+{
+ "id": "2025-11-24-keterangan-pers-mendagri-tito-karnavian-jakarta-24",
+ "video_id": "whMHi_M8EOQ",
+ "date": "2025-11-24",
+ "date_precise": true,
+ "title": "Keterangan Pers Mendagri Tito Karnavian, Jakarta, 24 November 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=whMHi_M8EOQ",
+ "duration_s": 588,
+ "duration_hms": "9:48",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 78,
+ "token_count": 1090,
+ "unique_word_count": 435,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "whMHi_M8EOQ",
+   "url": "https://www.youtube.com/watch?v=whMHi_M8EOQ",
+   "title": "Keterangan Pers Mendagri Tito Karnavian, Jakarta, 24 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 9,
+  "ekonomi": 9,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 12,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 2
+  },
+  "Koperasi desa": {
+   "count": 1
+  },
+  "Freeport": {
+   "count": 1
+  },
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 4.0,
+   "text": "Pak di podium, Pak. Magrib. Oh, siap, Pak. Siap. Tadi bahas apa, Pak? Sama."
+  },
+  {
+   "t": 4.0,
+   "d": 7.0,
+   "text": "Oh, iya. Iya. Saya cukup lama ya, mungkin tadi hampir lebih kurang 2 jam lebih ya."
+  },
+  {
+   "t": 11.0,
+   "d": 37.0,
+   "text": "Ya, intinya saya melapor kepada beliau mengenai masalah yang memang saya dikasih tugas yang rutin oleh beliau untuk ee menjaga inflasi di daerah. Dan saya melaporkan bahwa inflasi kita di angka year on year-nya 2,86% tapi year to date-nya 2,1% artinya cukup terkendali baik ya terutama sektor pangan juga malah menjadi penyeimbang deflasi. Kemudian ee beras khususnya dari rapat kita minggu lalu baru kali"
+  },
+  {
+   "t": 48.0,
+   "d": 35.0,
+   "text": "ini beras itu keluar dari ee apa ee urutan daftar pangan yang biasanya bermasalah beras sangat bagus ini ya apa ee daerah-daerah yang mengalami perundunan makin banyak yang mengalami kenaikan hanya sedikit sekali dan itu sudah dicover dengan baik saya kira oleh ee Menteri Pertanian Pak Amran sekaligus Kepala Badan Pangan Nasional. Kemudian juga Bulok ya bekerja sama dengan teman-teman pemda ya. Kemudian yang"
+  },
+  {
+   "t": 83.0,
+   "d": 14.0,
+   "text": "memang agak sedikit naik adalah bawang merah, cabe, kemudian sedikit telur ayam beras ya. Nah, ini yang perlu untuk men-suplai terutama program MBG."
+  },
+  {
+   "t": 97.0,
+   "d": 15.0,
+   "text": "Kemudian ee ada pendorong lain kenaikan itu di antaranya adalah salah harga emas yang karena memang harga emas dunia naik ya. Ada situasi ee geopolitik ya, ada fenomena dedolarisasi misalnya ya."
+  },
+  {
+   "t": 112.0,
+   "d": 31.0,
+   "text": "Kemudian ee saya juga melaporkan kepada beliau mengenai masalah pertumbuhan ekonomi daerah. Karena saya juga diberikan tugas kalau inflasi seminggu sekali, sebulan sekali pertemuan ekonomi daerah kita bahas ya di mana yang tertinggi misalnya Maluku Utara ada yang minus yaitu Papua Tengah. Saya sampaikan tanya beliau kenapa penyebabnya di antaranya karena adanya ee ekspor ee dari Freeport yang bertahan adanya smelter yang pernah"
+  },
+  {
+   "t": 143.0,
+   "d": 18.0,
+   "text": "terbakar kemudian ada longsor ya membuat produksinya mereka menjadi tertahan. itu mengakibatkan peruntungan ekonomi Papua Tengah Timika itu mengalami kontraksi ee minus 8% tapi ada daerah lain yang tinggi. Jadi saya sampaikan ada pembalance-nya."
+  },
+  {
+   "t": 161.0,
+   "d": 40.0,
+   "text": "Kemudian ee saya juga melaporkan kepada beliau mengenai masalah realisasi pendapatan belanja. Ini kan sudah tanggal 24 November ya. Saya melapor data yang kemarin 23 November. Daerah-daerah ini pendapatannya sudah mencapai 8 total semua 552 daerah provinsi kabupaten kota 38 provinsi 98 kota 416 kabupaten itu rata-rata di angka ee 8283% targetnya di angka di atas 90% pendapatan kemudian belanjanya ee diangka lebih kurang 68%"
+  },
+  {
+   "t": 201.0,
+   "d": 45.0,
+   "text": "kita mendorong tentunya belanjanya ya di atas 75% 80% gitu supaya ee kalau beliau tanya kenapa masih apa ada daerah-daerah yang ada sim nih Bang ada totalnya lebih kurang 200 ee tiga kalau salah R3 triliun dari seluruh gabungan provinsi kabupaten kota tapi ini ee terjadi karena satu ya kepala-keperah ini banyak yang dilantiknya kan Februari 20 Februari 2025 mereka lagi nyusun apa ee dalam tanda petik kabinetnya lah kepala dinas sekda dan lain-lain. Nah, itu membuat"
+  },
+  {
+   "t": 246.0,
+   "d": 23.0,
+   "text": "perlambatan. Lelang juga terjadi pelaktu lambat. Kemudian ee daerah-daerah juga mempersiapkan anggaran untuk membayar kontrak akhir tahun yang memang kalau selesai pekerjaan baru dibayar di akhir tahun misalnya. Setelah itu mereka juga harus persiapan anggaran untuk membayar gaji dan bi operasional di bulan Januari."
+  },
+  {
+   "t": 269.0,
+   "d": 33.0,
+   "text": "Beda dengan pemerintah pusat KL. Kalau kita kan ee dibayar oleh Kementerian Keuangan, kalau daerah tidak. Dia akan membayar sendiri gitu ya. Memang ada dana transfer pusat tapi juga dia harus persiapan. Kalau dana transfer pusat ee terlambat datang maka dia bisa cover gaji kan enggak boleh ditunda gitu. Nah, itu apa di samping itu saya juga menyampaikan mengenai progres dukungan Kemendakri dalam MBG di daerah-daerah terpencil khususnya. Kemudian koperasi"
+  },
+  {
+   "t": 302.0,
+   "d": 41.0,
+   "text": "daerah Merah Putih. Koperasi Desa Merah Putih yang sedang tahap sekarang ee apa membangun ya membangun mendata lahan bersama-sama dengan kita dengan Kementerian apa koperasi, kemudian Kementerian Desa ee ATRBPN dari ee Mabes TNTNI dan Agrinas. Nah, kemudian saya juga menyampaikan ke kepada ee beliau mengenai apa situasi-situasi yang lainlah ya ee mengenai misalnya Komite Percepatan Pembangunan Papua yang sudah saya briefing tiga kali dan"
+  },
+  {
+   "t": 343.0,
+   "d": 35.0,
+   "text": "saya minta ee kepada Bapak Presiden berkenan untuk menerima mereka sekaligus memberikan arahan kalau bisa serempak dengan para kepala daerah se Papua dalam rangka perc kecepatan pembangunan itu supaya komite ini memiliki mandat, memiliki power bersama juga dengan KL, Kementerian Lembaga yang memiliki program di Papua mendapat arahan dari Bapak Presiden sehingga Papua ini betul-betul dapat dipercepat, kita dorong percepat ee apa pembangunannya. Saya kira itu, Pak. Tadi kan sama KemenQ juga, Pak."
+  },
+  {
+   "t": 378.0,
+   "d": 32.0,
+   "text": "sama Brin juga sama kita sama komend brin umum umum di beliau menyampaikan bagaimana ee tadi enggak ditanyakan langsung ke brin ya intinya kalau yang tadi ya yang saya dengar beliau ingin brin ini betul-betul bergerak di bidang riset dan teknologi mulai dari di bidang ee pertanian perikanan kemudian di bidang manufacture ee kendaraan nasional dan lain banyak sekali ya."
+  },
+  {
+   "t": 410.0,
+   "d": 33.0,
+   "text": "dengan Kementerian Keuangan ya. di antaranya kita membahas mengenai satu yang saya minta ya, yaitu mengenai ee adik-adik kita yang dari Papua yang sekarang mereka kok kuliah di luar negeri kalau enggak salah jumlahnya 300 lebih itu ada di Amerika, di Australia dan lain-lain. Data kami adalah 56 orang yang ee belum selesai, belum dibayar dan saling terlambat dibayar dari pemda."
+  },
+  {
+   "t": 443.0,
+   "d": 33.0,
+   "text": "Totalnya 37 miliar sebetulnya pemda Papua dan Papua pegunungan itu terutama. Nah, saya melihat daripada kompleks lamban, kasihan itu enggak bisa ditunda. Saran saya agar pembiayaannya di tak diambil alih oleh Menteri Keuangan melalui LPDP. Perintah Presiden setuju yang 37 ini akan diambil alih oleh LPDP. Saya segera menyerahkan datanya kepada Menteri Keuangan dan ee Menteri Luar Negeri. Tadi Pak Menu juga ada Pak soal polemik pelayanan kesehatan di Papua itu dibahas enggak, Pak?"
+  },
+  {
+   "t": 476.0,
+   "d": 2.0,
+   "text": "Iya. Iya. Itu seperti apa, Pak?"
+  },
+  {
+   "t": 478.0,
+   "d": 31.0,
+   "text": "Saya melapor pada beliau. Jadi antaranya itu perintah beliau untuk segera lakukan apa? perbaikan audit dan saya sudah nyampaikan, saya sudah ee komunikasi dengan gubernur sudah saya minta gubernur begitu saya dapat informasi gubernur Pak Matisakiri sesegera mungkin ke rumah korban keluarga korban semua dibantu. Yang kedua melakukan audit internal masalahnya di mana ya ee dikumpulkan rumah sakit-rumah sakit itu"
+  },
+  {
+   "t": 509.0,
+   "d": 35.0,
+   "text": "termasuk juga pejabat-pejabat yang apa di Dinas Kesehatan dan lain-laik provinsi, kabupaten dan juga yang swasta. Kemudian Menkes dan saya sudah komunikasi Pak Menkes hari ini dan dari Kemendagri hari ini juga turun ke ee Jayapura h untuk melakukan audit. Kalau kami nanti dari Kemendagrim audit tentang aturan-aturan yang ada termasuk peraturan kepala daerah, peraturan bupati itu kan melibatkan rumah sakit ee Kabupaten Jayapura ya. Kemudian juga ee"
+  },
+  {
+   "t": 544.0,
+   "d": 29.0,
+   "text": "aturan dari peraturan gubernur karena yang terakhir kan di Rumah Sakit Umum Provinsi namanya RSUD Dok 2. Kemudian ee Menkes mengiringkan tim khusus juga untuk melakukan audit tennis mengenai masalah layanan kesehatan. kita enggak ingin terulang lagi. Sama tadi pesan dari Pak Presiden, jangan sampai terulang lagi. Hal yang sama, segera lakukan ee audit untuk mengetahui perbebab masalahnya dan lakukan"
+  },
+  {
+   "t": 573.0,
+   "d": 11.0,
+   "text": "perbaikan. Apakah fasilitasnya ataukah tata kelolanya ataukah orangnya ataukah aturannya. Ini yang kami tunggu nanti malam ini semuanya berangkat ke sana."
+  },
+  {
+   "t": 584.0,
+   "d": 1.0,
+   "text": "Makasih."
+  },
+  {
+   "t": 585.0,
+   "d": 3.0,
+   "text": "Berarti belum"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

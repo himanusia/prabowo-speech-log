@@ -1,0 +1,97 @@
+{
+ "id": "2025-04-28-hadiri-town-hall-danantara-jcc-28-april",
+ "video_id": "YsLQOdhVXwU",
+ "date": "2025-04-28",
+ "date_precise": true,
+ "title": "Presiden Prabowo Hadiri Town Hall Danantara Indonesia, JCC, 28 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=YsLQOdhVXwU",
+ "duration_s": 248,
+ "duration_hms": "4:08",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 26,
+ "token_count": 264,
+ "unique_word_count": 154,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "YsLQOdhVXwU",
+   "url": "https://www.youtube.com/watch?v=YsLQOdhVXwU",
+   "title": "Presiden Prabowo Hadiri Town Hall Danantara Indonesia, JCC, 28 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 3,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 12
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 61.0,
+   "text": "[Musik] Ini adalah untuk kepentingan rakyat, untuk kepentingan anak cucu kita sehingga membutuhkan semua lapisan dari negara, dari dunia usaha, dari koperasi bersama-sama untuk kepentingan yang lebih besar agar bangsa kita menjadi bangsa yang mandiri."
+  },
+  {
+   "t": 61.0,
+   "d": 29.0,
+   "text": "arahannya apa aja Bapak tadi berlangsung Pak I jadi tadi saya menyampaikan bahwa Danantara ini adalah kekayaan bangsa Indonesia."
+  },
+  {
+   "t": 90.0,
+   "d": 28.0,
+   "text": "harus dikelola dengan sebaik-baiknya, dijaga, dirawat dengan sistem yang transparan dan sangat ketat. Karena ini adalah kekayaan yang luar biasa dan bisa mendorong kebangkitan kita. Kita kelola dengan baik."
+  },
+  {
+   "t": 118.0,
+   "d": 49.0,
+   "text": "Kita hitung aset-aset kita. Ternyata kita kaya. Mungkin sebentar lagi kekayaan Danantara akan tembus 1 triliun US Do. Dan kalau dikelola dengan baik ini bisa menghasilkan ee dana yang besar untuk bangsa kita. Itu pendekatan saya seperti itu. Saya minta atas nama bangsa dan rakyat, saya minta semua direksi berbuat yang terbaik. Tinggalkan praktik-praktik zaman dulu mungkin yang kurang efisien atau ada praktik-praktik yang enggak benar harus ditinggalkan."
+  },
+  {
+   "t": 167.0,
+   "d": 40.0,
+   "text": "Dan saya serahkan kepada manajemen untuk mengevaluasi semua direksi, dievaluasi kinerjanya dan wataknya, akhlaknya, dan prestasinya. Kalau dia tidak berprestasi, kalau dia malas-malesan, kalau dia lakukan praktik-praktik yang enggak benar, menyalahgunakan wewenang, menyalahgunakan fasilitas, saya minta diganti. Yang baik dari bawah, dari dalam, kalau bisa dipromosikan. Kalau tidak cari ahli yang baik, tapi tidak"
+  },
+  {
+   "t": 207.0,
+   "d": 10.0,
+   "text": "boleh yang tidak profesional. Ya, saya bilang jangan memilih atas dasar suku."
+  },
+  {
+   "t": 217.0,
+   "d": 26.0,
+   "text": "agama, ras, latar belakang atau atas dasar partai politik. Tidak. Ini harus anak-anak Indonesia yang bekerja sebesar-besarnya untuk rakyat Indonesia. Saya kira itu pesan saya tadi ya. Siap. Ya, Pak. I ya tertutup karena saya banyak negur juga direksi-direksi gitu."
+  },
+  {
+   "t": 243.0,
+   "d": 2.0,
+   "text": "Enggak enak kan ditegur di depan kalian."
+  },
+  {
+   "t": 245.0,
+   "d": 3.0,
+   "text": "Oke, terima kasih"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

@@ -1,0 +1,82 @@
+{
+ "id": "2026-01-01-pastikan-kesiapan-program-gizi-nasional-tinjau-sppg",
+ "video_id": "RsdRm47eOAI",
+ "date": "2026-01-01",
+ "date_precise": false,
+ "title": "Pastikan Kesiapan Program Gizi Nasional, Presiden Prabowo Tinjau SPPG Polri Palmerah, 13 Feb 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=RsdRm47eOAI",
+ "duration_s": 126,
+ "duration_hms": "2:06",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 90,
+ "unique_word_count": 66,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "RsdRm47eOAI",
+   "url": "https://www.youtube.com/watch?v=RsdRm47eOAI",
+   "title": "Pastikan Kesiapan Program Gizi Nasional, Presiden Prabowo Tinjau SPPG Polri Palmerah, 13 Feb 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 13
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 16.0,
+   "d": 9.0,
+   "text": "Saya hari ini sungguh-sungguh merasa bahagia. Saya merasa gembira."
+  },
+  {
+   "t": 25.0,
+   "d": 45.0,
+   "text": "Saya merasa puas hati karena saya melihat salah satu institusi yang sangat penting bagi negara dan bangsa kita, yaitu kepolisian negara Republik Indonesia mengambil inisiatif mungkin di suatu bidang yang seolah-olah tidak merupakan tugas pokoknya, tetapi pimpinan Kebisan negara telah menangkap masalah yang krusial bagi keselamatan suatu bangsa."
+  },
+  {
+   "t": 70.0,
+   "d": 8.0,
+   "text": "Program semacam ini sesungguhnya bukan pertama kali dilaksanakan di Indonesia."
+  },
+  {
+   "t": 78.0,
+   "d": 4.0,
+   "text": "Sudah puluhan negara lain melaksanakan."
+  },
+  {
+   "t": 82.0,
+   "d": 57.0,
+   "text": "Puluhan negara lain dan negara-negara yang maju, negara-negara yang demokratis pasti punya program makan bergizi gratis untuk rakyatnya."
+  },
+  {
+   "t": 139.0,
+   "d": 3.0,
+   "text": "e"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": true
+}

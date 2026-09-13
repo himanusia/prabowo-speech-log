@@ -1,0 +1,73 @@
+{
+ "id": "2025-01-01-75-tahun-indonesia-prancis-kunjungan-emmanuel-macron-di",
+ "video_id": "J-00qCrN14A",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "75 Tahun Indonesia-Prancis, Kunjungan Presiden Emmanuel Macron di Indonesia",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=J-00qCrN14A",
+ "duration_s": 143,
+ "duration_hms": "2:23",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 166,
+ "unique_word_count": 125,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "J-00qCrN14A",
+   "url": "https://www.youtube.com/watch?v=J-00qCrN14A",
+   "title": "75 Tahun Indonesia-Prancis, Kunjungan Presiden Emmanuel Macron di Indonesia",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 18.0,
+   "text": "adalah sebuah kehormatan yang besar. Saya sebagai Presiden Republik Indonesia menyambut kunjungan daripada Presiden Republik Prancis, Saudara Emmanuel Macron, sahabat baik saya."
+  },
+  {
+   "t": 21.0,
+   "d": 23.0,
+   "text": "[Musik] Kunjungan kenegaraan ini juga memiliki suatu makna khusus karena ini tepat dengan 75 tahun hubungan diplomatik antara Indonesia Prancis."
+  },
+  {
+   "t": 44.0,
+   "d": 26.0,
+   "text": "[Musik] Kami sepakat untuk melangkah lebih jauh lagi dengan mengadopsi Deklarasi Visi Bersama Menuju 100 tahun Hubungan Indonesia Prancis tahun 2050."
+  },
+  {
+   "t": 70.0,
+   "d": 19.0,
+   "text": "C'est pour mon épouse, ma délégation et moi-même un immense honneur d'être reçu en visite d'État dans votre pays. Et si 12000 km séparent les rivages de nos deux métropoles, nous n'en sommes pas moins liés par le vent de l'histoire et le souffle de nos destins communs."
+  },
+  {
+   "t": 89.0,
+   "d": 57.0,
+   "text": "lama menjadit ditu avec le temps devient colline et peu à peu d'année en année oui notre amitié a atteint des hauteurs de plus en plus [Musik] élevé ini juga menunjukkan komitmen kita untuk meningkatkan kerja sama kita di bidang strategis [Musik] Saya harus menyampaikan bahwa keadaan hubungan antara Prancis dan Indonesia berada dalam tingkat yang sangat baik."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "kunjungan",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

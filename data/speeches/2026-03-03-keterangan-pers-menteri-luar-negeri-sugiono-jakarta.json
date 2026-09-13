@@ -1,0 +1,108 @@
+{
+ "id": "2026-03-03-keterangan-pers-menteri-luar-negeri-sugiono-jakarta",
+ "video_id": "kiJo0cN4_f4",
+ "date": "2026-03-03",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Jakarta, 3 Maret 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=kiJo0cN4_f4",
+ "duration_s": 243,
+ "duration_hms": "4:03",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 31,
+ "token_count": 407,
+ "unique_word_count": 181,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "kiJo0cN4_f4",
+   "url": "https://www.youtube.com/watch?v=kiJo0cN4_f4",
+   "title": "Keterangan Pers Menteri Luar Negeri Sugiono, Jakarta, 3 Maret 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 5.0,
+   "text": "Eh, baik, terima kasih teman-teman sekalian."
+  },
+  {
+   "t": 5.0,
+   "d": 25.0,
+   "text": "Tadi ee seperti yang sudah juga disampaikan Bapak Presiden menyampaikan beberapa hal terkait perkembangan situasi baik global maupun domestik selama beberapa ee waktu belakangan ini. Ee termasuk juga situasi terakhir yang kita ketahui bersama sedang berkembang di e Timur Tengah."
+  },
+  {
+   "t": 30.0,
+   "d": 29.0,
+   "text": "Dan khusus untuk masalah Timur Tengah ini saya juga ingin menyampaikan kepada rekan-rekan sekalian bahwa ee di tengah eskalasi yang semakin meningkat, tadi siang juga saya sudah memerintahkan kepada ee Dubes kita di Tehran untuk mengambil langkah-langkah ee evakuasi yang segera jika memang ada masyarakat Indonesia menginginkan untuk dievakuasi."
+  },
+  {
+   "t": 59.0,
+   "d": 25.0,
+   "text": "Karena perlu diketahui dari semua WNI yang ada di wilayah-wilayah terdampak tidak ee semuanya kemudian menyampaikan keinginan untuk dievakuasi. Tapi tadi disampaikan ada beberapa yang bersedia untuk dievakuasi dari wilayah Iran dan saya perintahkan untuk ee melaksanakan evakuasi bertahap tersebut."
+  },
+  {
+   "t": 84.0,
+   "d": 34.0,
+   "text": "Saya kira ee situasi ke depan masih akan terus berkembang. Kita akan melihat ee apa yang akan terjadi. Tapi tadi juga disampaikan oleh Bapak Presiden bahwa apapun yang ee akan terjadi kita harus siap untuk ee menghadapi segala kemungkinan. Saya kira itu saja yang ingin saya sampaikan ee pada kesempatan malam. Terima kasih, Pak. sudah ada komunikasi dengan sebagai mediator, Pak. Kenapa sebagai mediator apa tidak?"
+  },
+  {
+   "t": 118.0,
+   "d": 8.0,
+   "text": "Itu juga disampaikan dan tadi ditanya ya, saya juga sudah berkomunikasi dengan Menteri Luar Negeri Iran kemarin."
+  },
+  {
+   "t": 126.0,
+   "d": 22.0,
+   "text": "Ee beliau menelepon saya kemudian menjelaskan posisi ee Iran. Tentu saja kami menyampaikan juga sikap Indonesia bahwa ee kita menyesalkan rundingan yang terjadi kemudian gagal yang berakibat pada terjadinya eskalasi."
+  },
+  {
+   "t": 148.0,
+   "d": 11.0,
+   "text": "Kemudian kita juga menekankan lagi prinsip-prinsip penghormatan kita terhadap integritas wilayah, terhadap ee kedaulatan wilayah suatu negara."
+  },
+  {
+   "t": 159.0,
+   "d": 27.0,
+   "text": "Kemudian kita juga menekankan kembali pentingnya untuk kembali ke meja rundingan dan juga yang pasti kami menyampaikan lagi keinginan dari ee Bapak Presiden untuk menjadi mediator dalam upaya mendinginkan dan menurunkan eskalasi di wilayah tersebut. Dan ini merupakan pandangan-pandangan yang juga beliau terima."
+  },
+  {
+   "t": 186.0,
+   "d": 26.0,
+   "text": "Eh, saya juga menyampaikan konsern dari rekan-rekan kita yang ada di negara-negara Teluk terhadap ee serangan yang mereka dapatkan di wilayah-wilayah mereka. Saya kira itu saja, Pak. Ini kan kemarin menyampaikan tidak ada lagi negosiasi dengan Amerika. Itu seperti apa, Pak dengan e rencana Presiden Negosi?"
+  },
+  {
+   "t": 212.0,
+   "d": 28.0,
+   "text": "ya ee seperti yang disampaikan bahwa jika kedua belah pihak berkeinginan ya kita Pak Presiden bersedia untuk menjadi mediator. Tetapi kalau misalnya ada pandangan seperti itu ya kita kembalikan kepada mereka. Yang pasti Indonesia ingin ee ada dalam posisi bahwa bagaimana kita bisa menjadi jembatan dari perbedaan menawarkan kesiapan kita, menuarkan diri kita."
+  },
+  {
+   "t": 240.0,
+   "d": 3.0,
+   "text": "itu aja"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

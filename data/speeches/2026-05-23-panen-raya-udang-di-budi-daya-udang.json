@@ -1,0 +1,68 @@
+{
+ "id": "2026-05-23-panen-raya-udang-di-budi-daya-udang",
+ "video_id": "s1cM9185FmQ",
+ "date": "2026-05-23",
+ "date_precise": true,
+ "title": "Presiden Prabowo Panen Raya Udang di Budi Daya Udang Berbasis Kawasan, Kebumen, 23 Mei 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=s1cM9185FmQ",
+ "duration_s": 91,
+ "duration_hms": "1:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 141,
+ "unique_word_count": 82,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "s1cM9185FmQ",
+   "url": "https://www.youtube.com/watch?v=s1cM9185FmQ",
+   "title": "Presiden Prabowo Panen Raya Udang di Budi Daya Udang Berbasis Kawasan, Kebumen, 23 Mei 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 5,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 21.0,
+   "d": 18.0,
+   "text": "Hari ini saya hadir ee menyaksikan panen raya udang ya di proyek ini. ini sudah 3 tahun ee hasilnya sudah tingkat tertinggi, tingkat dunia."
+  },
+  {
+   "t": 39.0,
+   "d": 22.0,
+   "text": "Jadi ee sangat menjanjikan tadi saya diberi laporan 1 hektar bisa menghasilkan 40 ton dan harganya sangat bagus Rp70.000 R000 per kilo berarti per ton R 70 juta. Jadi ini ee sangat bagus, sangat produktif."
+  },
+  {
+   "t": 61.0,
+   "d": 8.0,
+   "text": "Delapan kerja yang bisa diserap. Berapa orang yang kerja sekarang? 650. 650. Iya, Pak."
+  },
+  {
+   "t": 69.0,
+   "d": 43.0,
+   "text": "Orang-orang setempat 650 orang bekerja dan kita sedang bangun di Waingapu 2000 hektar. Dan kita juga akan bangun sedang dibangun di Gorontalo 200 hektar dan kita sedang bangun di Jawa Barat di Pantura 14.000 hektar. Hanya di sana ikan, di sini udang. Kita sekarang sudah suasembada pangan, sudah suasembada beras, jagung, kemudian protein kita ya, telur, ayam, daging kita masih belum. Ini sedang kita kerjakan mungkin kita 4 tahun lagi, 5 tahun lagi kita sas sembad daging. Ee pangan relatif kita aman."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

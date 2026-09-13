@@ -1,0 +1,108 @@
+{
+ "id": "2025-08-25-keterangan-pers-menteri-esdm-bahlil-lahadalia-jakarta",
+ "video_id": "6PZayyDann8",
+ "date": "2025-08-25",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 25 Agustus 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=6PZayyDann8",
+ "duration_s": 112,
+ "duration_hms": "1:52",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 16,
+ "token_count": 233,
+ "unique_word_count": 130,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "6PZayyDann8",
+   "url": "https://www.youtube.com/watch?v=6PZayyDann8",
+   "title": "Keterangan Pers Menteri ESDM Bahlil Lahadalia, Jakarta, 25 Agustus 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 6,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 12.0,
+   "text": "ya bahas tentang ee ekonomi ya. Kita bahas tentang ekonomi, terus program-program 2025 yang masih pending yang harus segera diselesaikan."
+  },
+  {
+   "t": 13.0,
+   "d": 6.0,
+   "text": "Terus kita juga berbicara tentang prospek program 2026 dalam rangka pertumbuhan ekonomi ya."
+  },
+  {
+   "t": 19.0,
+   "d": 18.0,
+   "text": "Dari sisi energi dong, Pak. Dari sisi energi kita akan mencoba untuk membangun 5.700 desa ee yang belum teradi listrik dan 4.400 dusun. Jadi kita akan selesaikan sampai dengan 2029-2030."
+  },
+  {
+   "t": 37.0,
+   "d": 2.0,
+   "text": "Targetnya itu semua harus selesai."
+  },
+  {
+   "t": 39.0,
+   "d": 30.0,
+   "text": "Anggarannya Pak berapa, Pak? anggarannya kurang lebih sekitar lagi dihitung ya lagi dihitung tapi mulai 2025 di perubahan anggaran dan 2026 sudah dimasukkan anggarannya dari APBN Pak APBN karena itu kan untuk pelayanan masyarakat karena apa ee tadi kami melapor kepada Pak Presiden, Bapak Presiden ini urusan rakyat kecil di bawah ini enggak bisa kita menghitung secara ekonomi. Jadi dibutuhkan kehadiran negara dan Bapak Presiden memerintahkan langsung menganggarkan ya."
+  },
+  {
+   "t": 69.0,
+   "d": 5.0,
+   "text": "Pak, kalau subsidi tempat sasaran Pak ini kan di era PBN ee tahun 2026 masih pakai subsidi komoditas."
+  },
+  {
+   "t": 74.0,
+   "d": 9.0,
+   "text": "Kita nanti iya kita nanti ee berbasis komoditas tapi dieselnya dieselnya sampai dengan diesel 7 atau diesel 8 ya."
+  },
+  {
+   "t": 83.0,
+   "d": 11.0,
+   "text": "Jadi nanti kita akan kontrol dari kuotanya dan nanti datanya data tunggal dari BPS. Nanti teknisnya akan kita rapatkan setelah pengesahan APBN."
+  },
+  {
+   "t": 94.0,
+   "d": 3.0,
+   "text": "LPG 3 kilo bakal berdasarkan NIK, Pak, atau tahun depan?"
+  },
+  {
+   "t": 97.0,
+   "d": 7.0,
+   "text": "Tahun depan ya. Dia akan jadi yang kaya enggak usah pakai LPJ 3 kilo lah ya."
+  },
+  {
+   "t": 104.0,
+   "d": 6.0,
+   "text": "Diesel 8, 9, 10. Saya pikir mereka dengan kesadaranlah."
+  },
+  {
+   "t": 110.0,
+   "d": 3.0,
+   "text": "Jadi kalau mau beli harus pakai KTP, Pak. Beli teknisnya lagi diatur. Teknisnya lagi diatur ya sedikit."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "pejabat_lain",
+ "worklist_kind": "ambigu",
+ "is_fragment": false
+}

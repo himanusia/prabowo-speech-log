@@ -1,0 +1,73 @@
+{
+ "id": "2025-06-29-resmikan-proyek-baterai-terbesar-di-asia-tenggara",
+ "video_id": "RI4tUWQY_Mk",
+ "date": "2025-06-29",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Proyek Baterai Terbesar di Asia Tenggara, Karawang, 29 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=RI4tUWQY_Mk",
+ "duration_s": 76,
+ "duration_hms": "1:16",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 91,
+ "unique_word_count": 77,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "RI4tUWQY_Mk",
+   "url": "https://www.youtube.com/watch?v=RI4tUWQY_Mk",
+   "title": "Presiden Prabowo Resmikan Proyek Baterai Terbesar di Asia Tenggara, Karawang, 29 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 5.0,
+   "d": 22.0,
+   "text": "Ee kunci daripada pembangunan suatu bangsa adalah kemampuan bangsa itu mengolah sumber alam menjadi bahan yang bermanfaat dan punya nilai tambah yang tinggi sehingga bisa mendorong kemakmuran dan kesejahteraan."
+  },
+  {
+   "t": 27.0,
+   "d": 9.0,
+   "text": "Dari sini kita bisa menghasilkan energi terbarukan dan ramah lingkungan yang dicita-citakan seluruh dunia."
+  },
+  {
+   "t": 36.0,
+   "d": 13.0,
+   "text": "[Musik] Hidrisasi akan jalan terus. Momentum akan kita percepat. Kita mau bergerak cepat. Rakyat menuntut mengharapkan kemajuan cepat."
+  },
+  {
+   "t": 49.0,
+   "d": 29.0,
+   "text": "[Musik] Saya Prabowo Subianto, Presiden Republik Indonesia dengan penuh kebanggaan meresmikan ground breaking ekosistem industri baterai kendaraan listrik terintegrasi konsorsium Antam Indonesia Battery Corporation dan CBL Contemporary Brun Legend."
+  },
+  {
+   "t": 78.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

@@ -1,0 +1,83 @@
+{
+ "id": "2025-06-15-tiba-di-singapura-disambut-langsung-oleh-pm",
+ "video_id": "DWUlJKnk7iw",
+ "date": "2025-06-15",
+ "date_precise": true,
+ "title": "Tiba di Singapura, Presiden Prabowo Disambut Langsung oleh PM Lawrence Wong, 15 Juni 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=DWUlJKnk7iw",
+ "duration_s": 207,
+ "duration_hms": "3:27",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 18,
+ "token_count": 155,
+ "unique_word_count": 94,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "DWUlJKnk7iw",
+   "url": "https://www.youtube.com/watch?v=DWUlJKnk7iw",
+   "title": "Tiba di Singapura, Presiden Prabowo Disambut Langsung oleh PM Lawrence Wong, 15 Juni 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 62.0,
+   "text": "[Musik] lagi Terima kasih datang."
+  },
+  {
+   "t": 64.0,
+   "d": 22.0,
+   "text": "Welcome tomorrow Thank you very much. Oke, I see you. See you. Thank you. Thank you."
+  },
+  {
+   "t": 86.0,
+   "d": 19.0,
+   "text": "Thank you. Thank you."
+  },
+  {
+   "t": 105.0,
+   "d": 25.0,
+   "text": "Tadi sempat ketemu kita kebetulan di baris paling ujung bareng-bareng. Jadi begitu bapaknya buka kaca, kita lihat langsung dan happy banget karena mungkin kalau di Indonesia kita enggak punya kesempatan untuk ketemu secara langsung sama Bapak. Sempat ditanya kira-kira kuliahnya jurusan apa gitu. Perasaannya pasti happy banget karena ini kesempatan yang enggak semua orang bisa dapat. Jadi kita dari PPI merasa sangat leverage banget dengan kesempatan ini untuk berjumpa langsung dengan Bapak Presiden Prabowo Sugianto. Eh, ke sini ya buat"
+  },
+  {
+   "t": 130.0,
+   "d": 23.0,
+   "text": "ketemu Pak Prabowo sih. E berhasil banget e salaman gitu-gitu sih. Ee kayak senang aja sih deg-degan. Baru pertama kali ketemu kan presiden lagi langsung lagi. Kasih kamu namanya siapa?"
+  },
+  {
+   "t": 153.0,
+   "d": 53.0,
+   "text": "di sini dipap [Musik] lagi selamat datang Bapak, selamat datang Bapak selamat datang Bapak Presiden umurnya berdiri [Musik] dan selamat datang."
+  },
+  {
+   "t": 206.0,
+   "d": 3.0,
+   "text": "Selamat datang"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "kunjungan",
+ "is_fragment": false
+}

@@ -1,0 +1,58 @@
+{
+ "id": "2024-12-25-ucapkan-selamat-natal-dan-tahun-baru-25",
+ "video_id": "EB4W4Y3MAqk",
+ "date": "2024-12-25",
+ "date_precise": true,
+ "title": "Presiden Prabowo Ucapkan Selamat Natal dan Tahun Baru, 25 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=EB4W4Y3MAqk",
+ "duration_s": 86,
+ "duration_hms": "1:26",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 106,
+ "unique_word_count": 66,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "EB4W4Y3MAqk",
+   "url": "https://www.youtube.com/watch?v=EB4W4Y3MAqk",
+   "title": "Presiden Prabowo Ucapkan Selamat Natal dan Tahun Baru, 25 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 48.0,
+   "text": "Bismillahirrahmanirrahim asalamualaikum warahmatullahi wabarakatuh salam sejahtera bagi kita sekalian Shalom salve Om Swastiastu namo budhaya salam kebajikan Saya Prabowo Subianto Presiden Republik Indonesia atas nama pemerintah Republik Indonesia dan atas nama pribadi mengucapkan selamat hari raya Natal untuk semua saudara-saudara sebangsa dan setanah air yang beragama Kristiani semoga hari raya Natal dinikmati oleh"
+  },
+  {
+   "t": 49.0,
+   "d": 38.0,
+   "text": "seluruh umat Kristiani dalam keadaan damai dan menerima berkah dan kebaikan dari yang maha kuasa saya juga mengucapkan selamat tahun baru 2025 semoga tahun baru membawa perdamaian kebaikan dan berkah bagi kita semua terima kasih wasalamualaikum warahmatullahi wabarakatuh salam sejahtera B kita sekalian Shalom salve om Santi Santi Santi om namo Budha salam kebajikan foreign"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

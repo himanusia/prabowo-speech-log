@@ -1,0 +1,88 @@
+{
+ "id": "2025-10-30-hangatnya-diaspora-untuk-di-gyeongju-30-oktober",
+ "video_id": "yeZcpieTLY8",
+ "date": "2025-10-30",
+ "date_precise": true,
+ "title": "Hangatnya Sambutan Diaspora Indonesia untuk Presiden Prabowo di Gyeongju, 30 Oktober 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=yeZcpieTLY8",
+ "duration_s": 120,
+ "duration_hms": "2:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 249,
+ "unique_word_count": 140,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "yeZcpieTLY8",
+   "url": "https://www.youtube.com/watch?v=yeZcpieTLY8",
+   "title": "Hangatnya Sambutan Diaspora Indonesia untuk Presiden Prabowo di Gyeongju, 30 Oktober 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 11
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 13.0,
+   "d": 22.0,
+   "text": "Eh, jujur senang banget karena ini kan Apek jadi momen dari para pemimpin negara untuk bertemu ya. Bahkan enggak hanya pemimpin negara tapi juga para pebisnis-pebisnis dari dunia ee dari seluruh dunia gitu. Dan aku harap sih ini bisa membuka hal baru bagi Indonesia. Entah itu kerja sama bilateral yang bisa menguntungkan Indonesia ataupun membuka peluang-peluang pasar baru. Jadi menurutku biar Indonesia bisa lebih go"
+  },
+  {
+   "t": 35.0,
+   "d": 8.0,
+   "text": "internasional gitu. Ee kalau untuk aku sih berharapnya Pak Prabowo bisa membawa Indonesia lagi untuk maju lagi ya."
+  },
+  {
+   "t": 43.0,
+   "d": 7.0,
+   "text": "Semoga harapannya dengan 4 tahun lagi Pak Prabowo memimpin Indonesia ini bisa membuat masyarakat lebih sejahtera."
+  },
+  {
+   "t": 50.0,
+   "d": 35.0,
+   "text": "Oh iya. pertama saya dapat kabar juga sangat speechless ya karena salah satu dari sekian banyak warga negara di Indonesia saya termasuk yang dipercaya untuk mewakili teman-teman dari PMI maupun dari para pengusaha di sini sungguh sangat kaget dan sangat senang sekali tentunya saya apresiasi dengan kinerja presiden yang sekarang ini karena beliau banyak sekali membantu masyarakat bagi terutama bagi TKI TKI yang ada di Korea. juga dengan peraturan-peraturan yang sudah banyak perubahan tentunya dan sangat"
+  },
+  {
+   "t": 85.0,
+   "d": 9.0,
+   "text": "mempermudah PMI. pesannya ya tetap semangat, tetap kerja keras, jangan patah menyerah, tetap bangga menjadi bahasa Indonesia walaupun di luar negeri."
+  },
+  {
+   "t": 94.0,
+   "d": 17.0,
+   "text": "Tentu saja kami khususnya sebagai siswa TNI di sini, mewakili siswa TNI yang ada di sini, kami merasa senang dan bangga dapat ee bertatap muka dan bertemu langsung dengan Bapak Presiden, Bapak Prabowo Subianto."
+  },
+  {
+   "t": 111.0,
+   "d": 19.0,
+   "text": "Harapannya semoga hubungan kerja sama Indonesia dengan Korea yang sudah terjadi dengan baik akan dapat dipertahankan dan dapat ditingkatkan."
+  },
+  {
+   "t": 130.0,
+   "d": 3.0,
+   "text": "Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "pidato"
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false
+}

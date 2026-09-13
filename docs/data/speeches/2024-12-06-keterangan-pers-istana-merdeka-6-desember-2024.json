@@ -1,0 +1,68 @@
+{
+ "id": "2024-12-06-keterangan-pers-istana-merdeka-6-desember-2024",
+ "video_id": "PtDQNiMPcGE",
+ "date": "2024-12-06",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo, Istana Merdeka, 6 Desember 2024",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=PtDQNiMPcGE",
+ "duration_s": 181,
+ "duration_hms": "3:01",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 267,
+ "unique_word_count": 134,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "PtDQNiMPcGE",
+   "url": "https://www.youtube.com/watch?v=PtDQNiMPcGE",
+   "title": "Keterangan Pers Presiden Prabowo, Istana Merdeka, 6 Desember 2024",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 58.0,
+   "text": "Iya tadi eh e saya sendiri belum lihat langsung tapi di laporan beliau sudah mengunduhkan diri ee komentar saya Saya kira itu adalah tindakan bertanggung jawab tindakan Kesatria ya beliau sadar beliau salah salah ucap beliau bertanggung jawab dan beliau mengundurkan diri saya kira kita hargai eh sikap Kesatria itu e Saya kenal beliau ya mungkin karena beliau memang bergaul dan EE sering berceramah di kalangan"
+  },
+  {
+   "t": 58.0,
+   "d": 37.0,
+   "text": "bawah mungkin bahasa beliau niatnya bukan niat jahat bukan niat menghina tapi terlepas mungkin ya Salahlah salah ucap beliau sadar beliau salah beliau bertanggung jawab beliau mengunduhkan diri saya kira itu Ya jelas saya kira di Indonesia juga jarang orang merasa salah bertanggung jawab dan mundur sendiri ya Jadi kita hargai yang itu tapi ya beliau sendiri sadar bahwa beliau salah akan disiapkan penggantinya engak Pak ada penggan nanti kita kita cari ya nanti"
+  },
+  {
+   "t": 95.0,
+   "d": 51.0,
+   "text": "kita cari Oke Pak banyak pejabat yang belum menyerahkan LH KPN Pak ada Iya nanti akan dilengkapi ada DPR Mas ini kan DPR kan mengusulkan untuk sertifikasi juru dakwah ya Pak ya Ini dari pemerintah sendiri bagaimana Pakak Iya nanti kita lihat eh kalangan yang apa yang mengerti masalah ini semua nanti mungkin mereka akan kasih masukan ya Majelis Ulama kalangan-kalangan dari ormas-ormas keagamaan dan sebagainya nanti kita Minta pendapat mereka per"
+  },
+  {
+   "t": 146.0,
+   "d": 35.0,
+   "text": "seperti sudah diberjelan penjelasan PPN adalah undang-undang yang kita akan laksanakan tapi selektif hanya untuk barang mewah untuk rakyat yang lain kita tetap lindungi sudah sejak akhir 23 pemerintah tidak memungut yang seharusnya dipungut untuk membela membantu rakyat kecil ya jadi kalaupun naik itu hanya untuk barang mewah ya berarti barang minggu depan ya Pak ya makasih Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}

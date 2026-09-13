@@ -1,0 +1,63 @@
+{
+ "id": "2026-08-26-di-tengah-pengungsi-nagekeo-menyapa-mendengar-dan",
+ "video_id": "6wP_ckneI2o",
+ "date": "2026-08-26",
+ "date_precise": true,
+ "title": "Presiden Prabowo di Tengah Pengungsi Nagekeo: Menyapa, Mendengar, dan Menguatkan, 26 Agustus 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=6wP_ckneI2o",
+ "duration_s": 173,
+ "duration_hms": "2:53",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 23,
+ "token_count": 32,
+ "unique_word_count": 9,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "6wP_ckneI2o",
+   "url": "https://www.youtube.com/watch?v=6wP_ckneI2o",
+   "title": "Presiden Prabowo di Tengah Pengungsi Nagekeo: Menyapa, Mendengar, dan Menguatkan, 26 Agustus 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 24.0,
+   "text": "[musik][bersorak] [bersorak] [musik] [musik] [bersorak] [berteriak] Terima [musik] kasih Bapak. Terima kasih Bapak."
+  },
+  {
+   "t": 25.0,
+   "d": 141.0,
+   "text": "Sifat presidenasi [musik] [musik] [bersorak] [musik] [musik] [musik] [musik] [musik] [musik] [bersorak] [berteriak] Ayo, ayo."
+  },
+  {
+   "t": 166.0,
+   "d": 8.0,
+   "text": "[musik] [berteriak] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "ambigu",
+ "is_fragment": true
+}

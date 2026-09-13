@@ -1,0 +1,83 @@
+{
+ "id": "2025-10-31-keterangan-pers-usai-pertemuan-bilateral-dengan-pm",
+ "video_id": "BTnIHAb0ytI",
+ "date": "2025-10-31",
+ "date_precise": true,
+ "title": "Keterangan Pers Presiden Prabowo Usai Pertemuan Bilateral dengan PM Luxon, Gyeongju, 31 Oktober 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=BTnIHAb0ytI",
+ "duration_s": 142,
+ "duration_hms": "2:22",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 230,
+ "unique_word_count": 128,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "BTnIHAb0ytI",
+   "url": "https://www.youtube.com/watch?v=BTnIHAb0ytI",
+   "title": "Keterangan Pers Presiden Prabowo Usai Pertemuan Bilateral dengan PM Luxon, Gyeongju, 31 Oktober 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 1,
+  "pendidikan": 4,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 22.0,
+   "text": "Eh ya kita tukar-menukar pengalaman karena juga saya ketemu beliau 1 tahun yang lalu aptek di Peru dan banyak kemajuan di antara kita. Jadi saya kira itu yang ingin saya sampaikan ya. mau kerja sama di bidang ee pertanian pendidikan."
+  },
+  {
+   "t": 22.0,
+   "d": 42.0,
+   "text": "Ee kita ingin ee juga kir lebih banyak mahasiswa untuk belajar kedokteran dan kedokteran gigi. Kita sangat butuh dokter dan dokter gigi. Dan saya juga ee minta ee kalau ada guru-guru dari Sand Baru yang bisa bantu kita, kita mau nambah ee ee sekolah atau kursus-kursus bahasa Inggris untuk pekerja-pekerja kita yang mau ke luar negeri. Saya kira bahasa sangat penting ee dan ini sedang kita bahas. Oke. Kalau"
+  },
+  {
+   "t": 64.0,
+   "d": 14.0,
+   "text": "pertemuan di Apek tadi pembahasannya seperti apa sih, Pak? Khususnya ee pembahasan ya masing-masing menyampaikan kan sekarang situasi dunia penuh ketidakpastian."
+  },
+  {
+   "t": 78.0,
+   "d": 14.0,
+   "text": "Kemudian ee seolah-olah ada perang tarif, kemudian geopolitik juga sangat ee masih sangat rawan, banyak sekali konflik."
+  },
+  {
+   "t": 92.0,
+   "d": 7.0,
+   "text": "ee kita berusaha untuk menurunkan suhu meredakan."
+  },
+  {
+   "t": 99.0,
+   "d": 10.0,
+   "text": "Alhamdulillah ee ketemu ya Presiden Trump dari Amerika jumpa dengan Presiden Zidin Peng."
+  },
+  {
+   "t": 109.0,
+   "d": 33.0,
+   "text": "Saya dengar juga suasananya ee positiflah dan ya ini yang kita harapkan karena ini akan sangat mempengaruhi ketenangan dunia dan ee ekonomi dunia sangat tergantung ketenangan. Saya kira itu ya on the whole suasananya bagus pertemuan apek tadi. Terima kasih dari Arif dengan Amerika. Ada negosiasi lagi, Pak, ke depannya, Pak. Iya, masih terus negosiasi ya, khususnya komoditas-komunitas khusus kita ya, Pak. Iya. Oke."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "keterangan_pers"
+ },
+ "speaker_kind": "prabowo_bicara",
+ "worklist_kind": "keterangan_pers",
+ "is_fragment": false
+}
