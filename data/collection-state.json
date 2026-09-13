@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T11:46:58+07:00",
+ "generated_at": "2026-09-13T11:55:11+07:00",
  "channel_total": 4878,
  "era_total": 894,
  "worklist_total": 818,
@@ -29,7 +29,8 @@
    "ada_di_arsip": 7
   }
  },
- "remaining": 5,
+ "remaining": 3,
+ "perlu_impor": 2,
  "blocked_suspected": false,
  "block_tail": [
   "no_indonesian_track",

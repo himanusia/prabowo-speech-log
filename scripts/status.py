@@ -102,8 +102,13 @@ def main() -> int:
     bad_tail = sum(1 for s in tail if s in ("no_panel", "empty_panel", "error"))
     blocked = bad_tail >= BLOCK_THRESHOLD
 
+    # `ok_belum_masuk_arsip` BUKAN sisa yang bisa ditarik: transkripnya sudah
+    # ada, cuma belum masuk arsip. Dulu ikut dihitung sebagai sisa, akibatnya
+    # run_collection.sh berputar 1.300 kali mengejar angka yang tidak akan
+    # pernah turun lewat penarikan.
     remaining = [r for r in rows if r["state"] in
-                 ("menunggu", "tanpa_panel", "panel_kosong", "error", "ok_belum_masuk_arsip")]
+                 ("menunggu", "tanpa_panel", "panel_kosong", "error")]
+    perlu_impor = [r for r in rows if r["state"] == "ok_belum_masuk_arsip"]
 
     state = {
         "generated_at": datetime.now(WIB).isoformat(timespec="seconds"),
@@ -113,6 +118,7 @@ def main() -> int:
         "counts": dict(c),
         "by_kind": {k: dict(v) for k, v in by_kind.items()},
         "remaining": len(remaining),
+        "perlu_impor": len(perlu_impor),
         "blocked_suspected": blocked,
         "block_tail": tail,
     }
@@ -190,6 +196,9 @@ def main() -> int:
     print(f"  masuk daftar kerja      : {len(todo):,}")
     for k, n in c.most_common():
         print(f"    {k:22} {n:>4}")
+    if perlu_impor:
+        print(f"  PERLU DIIMPOR           : {len(perlu_impor):,}"
+              f"   <- jalankan scripts/import_panels.py")
     print(f"  SISA BISA DITARIK       : {len(remaining):,}")
     print(f"  dugaan kena batas       : {'YA' if blocked else 'tidak'}")
     print(f"\n  STATUS.md + data/collection-state.json ditulis")

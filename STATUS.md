@@ -1,6 +1,6 @@
 # Status pengumpulan
 
-Diperbarui: 2026-09-13T11:46:58+07:00
+Diperbarui: 2026-09-13T11:55:11+07:00
 
 ## Ringkasan
 
@@ -11,7 +11,7 @@ Diperbarui: 2026-09-13T11:46:58+07:00
 | panel_kosong | 3 |
 | tanpa_track | 291 |
 
-**Sisa yang masih bisa ditarik: 5** dari 818 video era presiden.
+**Sisa yang masih bisa ditarik: 3** dari 818 video era presiden.
 
 ## Per jenis
 
@@ -24,12 +24,10 @@ Diperbarui: 2026-09-13T11:46:58+07:00
 
 ## Yang belum ditarik
 
-### ambigu — 5 video
+### ambigu — 3 video
 
 - `K` 2026-08-03 `oxNjh6fAs0E` Presiden Prabowo Terima Pimpinan MPR RI, Jakarta, 3 Agustus 2026
 - `K` 2025-06-02 `S90lKlT8FSc` Presiden Prabowo Pimpin Ratas Terkait Stimulus Ekonomi, Istana Merdeka, 2 Juni
-- `A` 2025-04-12 `_uezr-fAhnk` Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana,
-- `A` 2025-04-12 `QnBLUESJgUA` Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana,
 - `K` 2025-01-02 `vB-a0Y-RDRo` Presiden Prabowo Terima IHPS I Tahun 2024 dari BPK, Istana Merdeka, 2 Januari 
 
 ## Arti tanda
