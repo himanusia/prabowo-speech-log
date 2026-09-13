@@ -101,7 +101,7 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
 <meta property="og:description" content="{e(desc or SITE_TAGLINE)}">
 <meta property="og:url" content="{e(SITE_BASE + canonical)}">
 <meta name="twitter:card" content="summary">
-<link rel="stylesheet" href="{rel_root}theme.css?v={ASSET_V['css']}">
+<link rel="stylesheet" href="{rel_root}theme.{ASSET_V['css']}.css">
 <link rel="alternate" type="application/json" href="{rel_root}data/index.json" title="Indeks JSON">
 <script type="application/ld+json">{jsonld}</script>
 </head>
@@ -128,9 +128,9 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
   <p>{e(SITE_NAME)} &middot; <a href="{rel_root}data/index.json">data JSON</a></p>
   <p class="hint">Transkrip dari caption YouTube (auto-generated). Periksa video aslinya sebelum mengutip.</p>
 </footer>
-<script src="{rel_root}vendor/echarts.min.js?v={ASSET_V['vendor']}" defer></script>
-<script src="{rel_root}charts.js?v={ASSET_V['charts']}" defer></script>
-<script src="{rel_root}app.js?v={ASSET_V['js']}" defer></script>
+<script src="{rel_root}vendor/echarts.{ASSET_V['vendor']}.min.js" defer></script>
+<script src="{rel_root}charts.{ASSET_V['charts']}.js" defer></script>
+<script src="{rel_root}app.{ASSET_V['js']}.js" defer></script>
 </body>
 </html>
 """
@@ -945,6 +945,7 @@ def main() -> int:
     ASSET_V["js"] = hashlib.sha256(APP_JS.encode("utf-8")).hexdigest()[:10]
     ASSET_V["vendor"] = asset_version(WEB / "vendor" / "echarts.min.js")
     ASSET_V["charts"] = asset_version(WEB / "charts.js")
+    ASSET_V["figure"] = asset_version(WEB / "prabowo.png")
     print(f"versi aset: css={ASSET_V['css']} js={ASSET_V['js']}")
 
     # Bersihkan keluaran lama supaya tidak ada sisa halaman yatim.
@@ -967,12 +968,23 @@ def main() -> int:
             render_speech(s, prev, nxt), encoding="utf-8")
 
     # aset
-    shutil.copy2(WEB / "theme.css", DOCS / "theme.css")
-    (DOCS / "app.js").write_text(APP_JS, encoding="utf-8")
-    shutil.copy2(WEB / "charts.js", DOCS / "charts.js")
-    shutil.copy2(WEB / "prabowo.png", DOCS / "prabowo.png")
+    # Versi di NAMA BERKAS, bukan di query string.
+    # Cloudflare Pages men-cache berdasarkan path dan MENGABAIKAN query,
+    # jadi theme.css?v=baru tetap menyajikan theme.css lama — inilah sebab
+    # perubahan tidak pernah terlihat di browser. Dengan nama berversi,
+    # path-nya benar-benar berubah sehingga cache tidak bisa menyajikan
+    # berkas lama.
+    # CSS ditulis, bukan disalin: rujukan gambar latar diganti ke nama
+    # berversi, supaya gambarnya juga tidak bisa tersangkut di cache.
+    css = (WEB / "theme.css").read_text(encoding="utf-8")
+    css = css.replace('url("prabowo.png")', f'url("prabowo.{ASSET_V["figure"]}.png")')
+    (DOCS / f"theme.{ASSET_V['css']}.css").write_text(css, encoding="utf-8")
+    (DOCS / f"app.{ASSET_V['js']}.js").write_text(APP_JS, encoding="utf-8")
+    shutil.copy2(WEB / "charts.js", DOCS / f"charts.{ASSET_V['charts']}.js")
+    shutil.copy2(WEB / "prabowo.png", DOCS / f"prabowo.{ASSET_V['figure']}.png")
     (DOCS / "vendor").mkdir(exist_ok=True)
-    shutil.copy2(WEB / "vendor" / "echarts.min.js", DOCS / "vendor" / "echarts.min.js")
+    shutil.copy2(WEB / "vendor" / "echarts.min.js",
+                 DOCS / "vendor" / f"echarts.{ASSET_V['vendor']}.min.js")
 
     # data mesin
     for name in ("index.json", "coverage.json", "meta.json"):
@@ -1010,26 +1022,22 @@ def main() -> int:
     # Aset boleh di-cache lama karena URL-nya sudah berversi hash;
     # HTML harus selalu diperiksa ulang supaya perubahan langsung terlihat.
     (DOCS / "_headers").write_text(
+        # Aset sudah berversi DI NAMA BERKAS, jadi aman di-cache selamanya:
+        # kalau isinya berubah, namanya ikut berubah dan browser mengambil
+        # URL yang benar-benar baru. HTML sebaliknya: harus selalu
+        # divalidasi ulang, kalau tidak perubahan tidak akan pernah terlihat.
         "/*\n"
         "  X-Content-Type-Options: nosniff\n"
+        "  Cache-Control: public, max-age=0, must-revalidate\n"
         "\n"
-        "/theme.css\n"
+        "/*.css\n"
         "  Cache-Control: public, max-age=31536000, immutable\n"
         "\n"
-        "/app.js\n"
+        "/*.js\n"
         "  Cache-Control: public, max-age=31536000, immutable\n"
         "\n"
-        "/index.html\n"
-        "  Cache-Control: public, max-age=0, must-revalidate\n"
-        "\n"
-        "/cakupan.html\n"
-        "  Cache-Control: public, max-age=0, must-revalidate\n"
-        "\n"
-        "/tentang.html\n"
-        "  Cache-Control: public, max-age=0, must-revalidate\n"
-        "\n"
-        "/pidato/*\n"
-        "  Cache-Control: public, max-age=300\n"
+        "/*.png\n"
+        "  Cache-Control: public, max-age=31536000, immutable\n"
         "\n"
         "/data/*\n"
         "  Cache-Control: public, max-age=3600\n",

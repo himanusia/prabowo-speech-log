@@ -142,10 +142,13 @@ code, .mono, kbd, samp { font-family: var(--font-mono); font-variant-numeric: ta
 .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 var(--sp-4); }
 
 .top {
-  position: sticky; top: 0; z-index: 30;
-  background: color-mix(in srgb, var(--bg) 88%, transparent);
-  backdrop-filter: blur(10px);
-  border-bottom: var(--rule);
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  border-bottom: 1px solid var(--border);
+  background: color-mix(in srgb, var(--bg) 76%, transparent);
+  -webkit-backdrop-filter: blur(3px) saturate(120%);
+  backdrop-filter: blur(3px) saturate(120%);
 }
 
 .top__row {
@@ -236,7 +239,7 @@ h3 { font-size: var(--step-1); }
 
 .stat-row {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
   border: var(--rule);
   border-radius: var(--radius);
   overflow: hidden;
@@ -308,33 +311,43 @@ body {
   background-repeat: repeat;
 }
 
-/* ---- Sorotan Prabowo: satu warna, meniru Backdrop Hermes Desktop ----
-   Resep asli Hermes (apps/desktop/src/components/Backdrop.tsx):
-     opacity 0.025 + mix-blend-difference + invert(var(--backdrop-invert-mul))
-     tinggi 160dvh, object-cover, gambar dua-nada gaya cukilan kayu.
-   Kuncinya BUKAN opacity, tapi `difference`: foto/gambar apa pun di-blend
-   difference pada opacity sangat kecil akan runtuh jadi SATU nada rata.
-   Sebelumnya di sini dipakai opacity 0,075-0,11 dengan blend normal —
-   hasilnya foto abu-abu yang jelas dan terlihat seperti tempelan. */
+/* ---- Gambar Prabowo di latar ----
+   Asetnya TOPENG (alpha saja), bukan gambar berwarna. Warnanya datang dari
+   token tema, jadi terang/gelap otomatis ikut dan otomatis TERBALIK:
+   tema terang memakai tinta gelap, tema gelap memakai tinta terang.
+   Satu berkas melayani dua tema; tidak perlu dua gambar.
+
+   Ini menggantikan pendekatan sebelumnya (gambar berwarna + mix-blend-mode
+   difference + filter invert). Dengan topeng, hasilnya satu warna rata yang
+   bisa dikendalikan persis, tanpa bergantung pada cara browser mencampur. */
+:root {
+  --figure-ink: var(--primary);
+  --figure-op: 0.20;
+  --figure-h: 155vh;
+}
+
+:root[data-theme='dark'] { --figure-op: 0.25; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) { --figure-op: 0.25; }
+}
+
 body::after {
   content: "";
   position: fixed;
   inset: 0;
   z-index: 0;
   pointer-events: none;
-  opacity: 0.03;
-  mix-blend-mode: difference;
-  background-image: url("prabowo.png");
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  background-size: auto 150vh;
-  filter: invert(1);
-}
-
-:root[data-theme='dark'] body::after { filter: none; }
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme='light']) body::after { filter: none; }
+  background-color: var(--figure-ink);
+  opacity: var(--figure-op);
+  -webkit-mask-image: url("prabowo.png");
+  mask-image: url("prabowo.png");
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: right 30%;
+  mask-position: right 30%;
+  -webkit-mask-size: auto var(--figure-h);
+  mask-size: auto var(--figure-h);
 }
 
 /* Isi harus di atas tekstur & sorotan. */
@@ -363,18 +376,20 @@ body::after {
 .dash {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  gap: var(--sp-3);
+  gap: var(--sp-4);
 }
 
 .card {
   grid-column: span 12;
-  /* tanpa ini, isi yang lebar (awan kata) melebarkan track grid 1fr
-     sampai seluruh halaman meluber horizontal */
-  min-width: 0;
-  background: var(--card);
+  /* tembus pandang: gambar Prabowo di latar ikut terlihat menembus kartu.
+     Opasitas tetap tinggi + blur supaya teks tidak kehilangan keterbacaan. */
+  background: color-mix(in srgb, var(--card) 60%, transparent);
+  -webkit-backdrop-filter: blur(3px) saturate(115%);
+  backdrop-filter: blur(3px) saturate(115%);
   border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: var(--sp-4) var(--sp-4) calc(var(--sp-4) + 0.15rem);
+  border-radius: 14px;
+  min-width: 0;
+  padding: var(--sp-5) var(--sp-5) calc(var(--sp-5) + 0.2rem);
 }
 
 .card__h {
@@ -415,16 +430,22 @@ body::after {
 
 .hero {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
-  gap: 0.6rem;
+  grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr));
+  gap: var(--sp-3);
+  align-items: stretch;
 }
 
 .hero__i {
-  padding: 1rem 1.15rem;
+  padding: var(--sp-4) var(--sp-4) calc(var(--sp-4) - 0.1rem);
   border: 1px solid var(--border);
-  border-radius: 10px;
-  background: var(--card);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--card) 72%, transparent);
+  -webkit-backdrop-filter: blur(3px) saturate(115%);
+  backdrop-filter: blur(3px) saturate(115%);
   min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 
@@ -432,7 +453,7 @@ body::after {
 .hero__n {
   display: block;
   font-family: var(--font-mono);
-  font-size: clamp(1.4rem, 2.35vw, 2.15rem);
+  font-size: clamp(1.25rem, 2.0vw, 1.9rem);
   font-weight: 800;
   line-height: 0.95;
   letter-spacing: -0.05em;
@@ -1012,7 +1033,7 @@ footer {
 .chart {
   width: 100%;
   min-width: 0;
-  margin-top: var(--sp-2);
+  margin-top: var(--sp-3);
 }
 .chart[data-chart-error] {
   display: flex;
@@ -1050,7 +1071,7 @@ footer {
   gap: var(--sp-3);
   flex-wrap: wrap;
   padding-bottom: var(--sp-2);
-  margin-bottom: var(--sp-3);
+  margin-bottom: var(--sp-4);
   border-bottom: var(--rule);
 }
 

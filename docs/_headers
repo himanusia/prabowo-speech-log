@@ -1,23 +1,15 @@
 /*
   X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=0, must-revalidate
 
-/theme.css
+/*.css
   Cache-Control: public, max-age=31536000, immutable
 
-/app.js
+/*.js
   Cache-Control: public, max-age=31536000, immutable
 
-/index.html
-  Cache-Control: public, max-age=0, must-revalidate
-
-/cakupan.html
-  Cache-Control: public, max-age=0, must-revalidate
-
-/tentang.html
-  Cache-Control: public, max-age=0, must-revalidate
-
-/pidato/*
-  Cache-Control: public, max-age=300
+/*.png
+  Cache-Control: public, max-age=31536000, immutable
 
 /data/*
   Cache-Control: public, max-age=3600

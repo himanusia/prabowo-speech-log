@@ -89,7 +89,7 @@
   function kata(t) {
     var d = D.words.slice(0, 14).reverse();
     return Object.assign(base(t), {
-      grid: { left: 8, right: 62, top: 8, bottom: 8, containLabel: true },
+      grid: { left: 10, right: 74, top: 14, bottom: 14, containLabel: true },
       tooltip: Object.assign(base(t).tooltip, {
         trigger: 'axis', axisPointer: { type: 'shadow' },
         formatter: function (p) { return p[0].name + ': <b>' + nf(p[0].value) + '</b> kemunculan'; }
@@ -164,7 +164,7 @@
   function topik(t) {
     var d = D.topics.slice().reverse();
     return Object.assign(base(t), {
-      grid: { left: 8, right: 62, top: 8, bottom: 8, containLabel: true },
+      grid: { left: 10, right: 74, top: 14, bottom: 14, containLabel: true },
       tooltip: Object.assign(base(t).tooltip, {
         trigger: 'axis', axisPointer: { type: 'shadow' },
         formatter: function (p) { return p[0].name + ': <b>' + p[0].value + '</b> per 1.000 token'; }
@@ -191,7 +191,7 @@
   function sapa(t) {
     var d = D.framing;
     return Object.assign(base(t), {
-      grid: { left: 0, right: 0, top: 26, bottom: 0, containLabel: true },
+      grid: { left: 0, right: 0, top: 34, bottom: 6, containLabel: true },
       tooltip: Object.assign(base(t).tooltip, {
         trigger: 'axis', axisPointer: { type: 'shadow' },
         formatter: function (p) { return p[0].name + ': <b>' + p[0].value + '</b> per 1.000 token'; }
@@ -229,7 +229,7 @@
       }),
       legend: {
         type: 'scroll', orient: 'vertical', right: 0, top: 'center',
-        itemWidth: 10, itemHeight: 10, itemGap: 14,
+        itemWidth: 10, itemHeight: 10, itemGap: 18,
         textStyle: { color: t.fg, fontSize: 12, fontFamily: t.font },
         formatter: function (name) {
           var f = D.concepts.filter(function (x) { return x.name === name; })[0];
@@ -252,7 +252,7 @@
   /* ------------------------------------------------ 6. panjang pidato */
   function panjang(t) {
     return Object.assign(base(t), {
-      grid: { left: 0, right: 0, top: 28, bottom: 0, containLabel: true },
+      grid: { left: 0, right: 0, top: 36, bottom: 6, containLabel: true },
       tooltip: Object.assign(base(t).tooltip, {
         trigger: 'axis', axisPointer: { type: 'shadow' },
         formatter: function (p) {
@@ -279,7 +279,7 @@
   function volume(t) {
     var m = D.months;
     return Object.assign(base(t), {
-      grid: { left: 0, right: 8, top: 20, bottom: 0, containLabel: true },
+      grid: { left: 0, right: 14, top: 28, bottom: 6, containLabel: true },
       tooltip: Object.assign(base(t).tooltip, {
         trigger: 'axis',
         formatter: function (p) {
@@ -321,7 +321,7 @@
   function waktu(t) {
     var d = D.timeline;
     return Object.assign(base(t), {
-      grid: { left: 0, right: 8, top: 16, bottom: 0, containLabel: true },
+      grid: { left: 0, right: 14, top: 26, bottom: 6, containLabel: true },
       tooltip: Object.assign(base(t).tooltip, {
         trigger: 'item',
         formatter: function (p) {
