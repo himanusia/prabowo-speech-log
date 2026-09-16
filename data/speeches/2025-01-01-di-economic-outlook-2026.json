@@ -1,0 +1,1084 @@
+{
+ "id": "2025-01-01-di-economic-outlook-2026",
+ "video_id": "5WWGecHqPzQ",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "[FULL] PIDATO PRESIDEN PRABOWO DI INDONESIA ECONOMIC OUTLOOK 2026",
+ "channel": "METRO TV",
+ "youtube_url": "https://www.youtube.com/watch?v=5WWGecHqPzQ",
+ "duration_s": 2914,
+ "duration_hms": "48:34",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 368,
+ "token_count": 3493,
+ "unique_word_count": 1042,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5WWGecHqPzQ",
+   "url": "https://www.youtube.com/watch?v=5WWGecHqPzQ",
+   "title": "[FULL] PIDATO PRESIDEN PRABOWO DI INDONESIA ECONOMIC OUTLOOK 2026",
+   "channel": "METRO TV",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 18,
+  "ekonomi": 43,
+  "pendidikan": 4,
+  "kesehatan_dan_gizi": 15,
+  "tata_kelola": 33,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 82
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 9
+  },
+  "Danantara": {
+   "count": 2
+  },
+  "Hilirisasi": {
+   "count": 1
+  },
+  "Koperasi desa": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 10
+  },
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 3.0,
+   "text": "Bapak, Ibu yang kami hormati."
+  },
+  {
+   "t": 4.0,
+   "d": 10.0,
+   "text": "Selanjutnya marilah kita simak bersama sambutan Presiden Republik Indonesia, Bapak Prabowo Subianto. No."
+  },
+  {
+   "t": 14.0,
+   "d": 35.0,
+   "text": "[tepuk tangan] Asalamualaikum warahmatullahi wabarakatuh. Selamat siang. Salam sejahtera bagi kita sekalian."
+  },
+  {
+   "t": 49.0,
+   "d": 7.0,
+   "text": "Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 56.0,
+   "d": 15.0,
+   "text": "Yang saya hormati Menteri Koordinator Perekonomian sebagai penyelenggara, Saudara Erlangga Hartarto beserta seluruh jajaran yang hadir."
+  },
+  {
+   "t": 71.0,
+   "d": 21.0,
+   "text": "Kepala Badan Pengelola Investasi dan Antara yang sekaligus adalah Menteri Investasi dan Hilirisasi dan juga Kepala Badan Koordinasi Penanaman Modal, Saudara Rozan Perkasa Roslani."
+  },
+  {
+   "t": 92.0,
+   "d": 14.0,
+   "text": "Kepala Badan Pengelola Badan Usaha Milik Negara, Saudara Doni Oskaria yang juga adalah CEOO daripada Danantara."
+  },
+  {
+   "t": 106.0,
+   "d": 16.0,
+   "text": "Para menteri koordinator, para menteri, para kepala badan, para wakil menteri, dan seluruh anggota kabinet merah putih yang tidak saya sebut namanya satu persatu tanpa mengurangi rasa hormat saya."
+  },
+  {
+   "t": 122.0,
+   "d": 9.0,
+   "text": "Ketua Dewan Ekonomi Nasional Jenderal TNI Pagirawan Luhud Binsar Penjahitan."
+  },
+  {
+   "t": 131.0,
+   "d": 5.0,
+   "text": "Para duta besar negara sahabat yang hadir. Yang saya hormati."
+  },
+  {
+   "t": 136.0,
+   "d": 12.0,
+   "text": "Terima kasih atas kehadiran saudara-saudara para pimpinan ee bank milik negara."
+  },
+  {
+   "t": 148.0,
+   "d": 3.0,
+   "text": "Hadir Bank Mandiri."
+  },
+  {
+   "t": 151.0,
+   "d": 8.0,
+   "text": "BNI, BRI, BTN, dan BSI dan juga bank swasta yang hadir."
+  },
+  {
+   "t": 159.0,
+   "d": 7.0,
+   "text": "Para pimpinan Asosiasi Dunia Usaha yang hadir di sini."
+  },
+  {
+   "t": 166.0,
+   "d": 12.0,
+   "text": "Di antaranya hadir Ketua Umum Kamar Dagang Indonesia, Saudara Anindia Novian Bakri."
+  },
+  {
+   "t": 178.0,
+   "d": 20.0,
+   "text": "Hadir juga Ketua Umum Asosiasi Pengusaha Indonesia Apindo, Saudari Sinta Wijaya Dani dan juga Ketua Umum Himpunan Pengusaha Muda Indonesia, Saudara Akbar Himawan Bukhori."
+  },
+  {
+   "t": 198.0,
+   "d": 43.0,
+   "text": "Yang saya hormati juga para pimpinan perusahaan-perusahaan perbankan yang hadir, para pimpinan lembaga jasa keuangan, para pimpinan perusahaan BUMN dan swasta, para pimpinan lembaga ekonomi dan lembaga riset nasional, para pimpinan lembaga riset, para rektor, para ahli bidang ekonomi, saudara-saudara sekalian, hadirin yang saya hormati dan para rekan rekan kanpers dan media yang hadir tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya"
+  },
+  {
+   "t": 241.0,
+   "d": 26.0,
+   "text": "memanjatkan puji syukur kehadirat Tuhan Maha Kuasa, Tuhan maha besar bagi umat Islam Allah Subhanahu wa taala yang memiliki sekalian alam atas segala karunia atas segala berkah kesehatan dan kedamaian yang masih diberikan kepada kita."
+  },
+  {
+   "t": 267.0,
+   "d": 24.0,
+   "text": "Kita bersyukur terus selagi kita juga selalu berdoa agar saudara-saudara kita yang mengalami kesulitan akibat berbagai musibah bencana di berbagai daerah senantiasa diberi kekuatan dan senantiasa diberi kebaikan oleh yang maha kuasa."
+  },
+  {
+   "t": 291.0,
+   "d": 6.0,
+   "text": "Segera dipulihkan kehidupannya menjadi normal kembali."
+  },
+  {
+   "t": 297.0,
+   "d": 11.0,
+   "text": "Saudara-saudara sekalian, adalah suatu kehormatan dan kebanggaan bagi saya untuk bisa hadir dalam acara ini."
+  },
+  {
+   "t": 308.0,
+   "d": 23.0,
+   "text": "Saya menyambut baik inisiatif Menteri Koordinator Perekonomian dengan semua timnya dan menteri-menteri lain yang terkait yang telah bekerja keras dalam tahun pertama pemerintahan kita."
+  },
+  {
+   "t": 331.0,
+   "d": 51.0,
+   "text": "Baru 1 tahun lebih kita bekerja, tapi kita merasakan sebenarnya banyak sekali yang sudah kita capai, Saudara-saudara sekalian, dalam sebuah perjalanan panjang yang bisa kita katakan perjalanan pembangunan suatu bangsa dibutuhkan stamina ketahanan, dibutuhkan kesabaran, dibutuhkan keteguhan hati, dibutuhkan semangat, tidak menyerah, dan juga dibutuhkan keberanian."
+  },
+  {
+   "t": 382.0,
+   "d": 10.0,
+   "text": "Saudara-saudara sekalian, dibutuhkan keberanian untuk mencari akar masalah."
+  },
+  {
+   "t": 392.0,
+   "d": 9.0,
+   "text": "Dibutuhkan keberanian untuk melihat kenyataan real."
+  },
+  {
+   "t": 401.0,
+   "d": 9.0,
+   "text": "Bukan bukan keadaan yang kita harapkan, tapi keadaan yang nyata."
+  },
+  {
+   "t": 410.0,
+   "d": 19.0,
+   "text": "Setelah kita mengerti keadaan yang nyata, dibutuhkan lagi keberanian untuk mengakui kesulitan-kesulitan kita, mengakui kelemahan-kelemahan kita dalam pembangunan suatu bangsa."
+  },
+  {
+   "t": 429.0,
+   "d": 11.0,
+   "text": "Kita ibaratkan sebuah perjalanan jauh, sebuah long march."
+  },
+  {
+   "t": 440.0,
+   "d": 9.0,
+   "text": "Dan kita tahu bahwa perjalanan jauh selalu dimulai dengan satu langkah."
+  },
+  {
+   "t": 449.0,
+   "d": 7.0,
+   "text": "Kita bersyukur bahwa kita sudah melakukan banyak langkah."
+  },
+  {
+   "t": 456.0,
+   "d": 11.0,
+   "text": "Kita bersyukur semua pendiri bangsa telah meletakkan dasar yang luar biasa bagi kita."
+  },
+  {
+   "t": 467.0,
+   "d": 21.0,
+   "text": "Kita bersyukur pendiri-pendiri bangsa kita, pejuang-pejuang bangsa kita mewariskan kepada kita satu nusa, satu bahasa, satu kebangsaan. Kita bersyukur bahwa kita majemuk."
+  },
+  {
+   "t": 488.0,
+   "d": 11.0,
+   "text": "Kita terdiri dari berbagai ratusan kelompok etnis. Kita terdiri dari ras-ras yang berbeda."
+  },
+  {
+   "t": 499.0,
+   "d": 8.0,
+   "text": "Kita terdiri dari penduduk yang punya agama-agama besar yang berbeda."
+  },
+  {
+   "t": 507.0,
+   "d": 20.0,
+   "text": "Tapi kita bisa bersatu. kita bisa bersatu dalam usaha bersama mencari kehidupan yang lebih baik. Saya ingatkan bahwa tugas kita bernegara adalah mencari kehidupan yang lebih baik untuk rakyat kita."
+  },
+  {
+   "t": 527.0,
+   "d": 22.0,
+   "text": "Tugas dan tanggung jawab setiap pemerintah di setiap negara di seluruh dunia adalah untuk bekerja, berjuang untuk memberi kehidupan yang layak bagi rakyatnya."
+  },
+  {
+   "t": 549.0,
+   "d": 5.0,
+   "text": "Saudara-saudara sekalian, saya mengajak kita untuk realistis."
+  },
+  {
+   "t": 554.0,
+   "d": 34.0,
+   "text": "Kita selalu mengatakan kita ingin jadi negara yang maju. Benar, kita ingin menjadi negara maju. Tapi jangan kita berpretensi kita mau mencapai tingkatan yang sama dengan negara-negara yang sudah ratusan tahun sebelum kita mencapai tingkat teknologi dan industri yang sangat maju."
+  },
+  {
+   "t": 588.0,
+   "d": 36.0,
+   "text": "Kita punya cita-cita tinggi, tapi kita punya sikap yang realistis. Yang penting bagi kita adalah kita harus menjaga dan mengelola seluruh kekayaan negara, seluruh sumber daya alam kita dan kita kelola, kita jaga, dan kita pergunakan sebesar-besarnya untuk kepentingan seluruh rakyat."
+  },
+  {
+   "t": 624.0,
+   "d": 19.0,
+   "text": "Indonesia itu kita [tepuk tangan] dan itu yang saya sebagai kepala pemerintah, sebagai kepala negara, saya bertekad untuk melaksanakan."
+  },
+  {
+   "t": 643.0,
+   "d": 8.0,
+   "text": "Kita harus berani saya katakan tadi mengakui kesulitan-kesulitan kita dan kelemahan-kelemahan kita."
+  },
+  {
+   "t": 651.0,
+   "d": 21.0,
+   "text": "Kita bersyukur dengan apa yang kita telah capai dan untuk itu saya ucapkan terima kasih kepada tim saya, kepada para menteri saya, kepada kepala badan, semua tim saya."
+  },
+  {
+   "t": 672.0,
+   "d": 10.0,
+   "text": "Ee saya merasa bangga dengan prestasi saudara-saudara, dengan kerja keras saudara-saudara."
+  },
+  {
+   "t": 682.0,
+   "d": 7.0,
+   "text": "Saya yang tahu saudara, saya yang lihat saudara dari hari ke hari."
+  },
+  {
+   "t": 689.0,
+   "d": 34.0,
+   "text": "Semua pencapaian kita yang kita harus bangga adalah hasil kerja keras seluruh tim yang saya pimpin. Jadi, Saudara-saudara di hadapan seluruh rakyat Indonesia saya katakan memang tim saya adalah menurut pendapat saya, menurut keyakinan saya, karena saya pengguna, saya melihat langsung dari dekat mereka sungguh-sungguh adalah putra-putri terbaik bangsa Indonesia. Terima kasih."
+  },
+  {
+   "t": 723.0,
+   "d": 15.0,
+   "text": "Terima kasih pekerjaanmu dan saya percaya kita akan mencapai prestasi yang lebih baik lagi. Saudara-saudara sekalian, para pakar silakan menilai."
+  },
+  {
+   "t": 738.0,
+   "d": 7.0,
+   "text": "Saya percaya bahwa kita akan membuat kejutan demi kejutan."
+  },
+  {
+   "t": 745.0,
+   "d": 35.0,
+   "text": "Kita akan buktikan ke seluruh dunia bahwa bangsa Indonesia sekarang, bangsa Indonesia hari ini adalah bangsa Indonesia yang percaya diri, bangsa Indonesia yang paham, bangsa Indonesia yang bertekad untuk berdiri di atas kaki kita sendiri dan kita tidak mau dan tidak akan lagi selalu didikte oleh bangsa lain atau dipermainkan oleh siapapun lagi."
+  },
+  {
+   "t": 780.0,
+   "d": 8.0,
+   "text": "Saudara-saudara sekalian, kita harus berani mengakui kelemahan-kelemahan kita."
+  },
+  {
+   "t": 788.0,
+   "d": 16.0,
+   "text": "Tapi, Saudara-saudara, setelah kita bekerja 1 tahun, mulai berapa hari ini, berapa minggu ini, saya dapat laporan dari kepala-kepala daerah, beberapa gubernur, beberapa bupati."
+  },
+  {
+   "t": 804.0,
+   "d": 10.0,
+   "text": "Sekarang mereka baru melihat hasil real, dampak real dari berbagai kebijakan kita."
+  },
+  {
+   "t": 814.0,
+   "d": 21.0,
+   "text": "Mereka mengatakan di tingkat mereka bahwa konsumsi rumah tangga meningkat. Tadi dibenarkan saya berapa hari yang lalu ketemu pemimpin-pemimpin industri dan perdagangan."
+  },
+  {
+   "t": 835.0,
+   "d": 7.0,
+   "text": "Rombongan Apindu datang ke saya dipimpin oleh ketua umumnya."
+  },
+  {
+   "t": 842.0,
+   "d": 50.0,
+   "text": "datang ke saya 23 orang mereka laporan ke saya bulan Januari ini konsumsi rumah tangga meningkat dan mereka katakan yang mengatakan mereka pelaku bisnis mereka mengatakan bahwa mereka merasakan bahwa MBG makan bergizi gratis telah mendorong peningkat konsumsi rumah tangga ini dan mendorong pertumbuhan di desa-desa, di kecamatan-kecamatan, di lapisan yang paling bawah dari ekonomi kita. Dan di sinilah, dari sinilah, dari lapisan paling bawah"
+  },
+  {
+   "t": 892.0,
+   "d": 6.0,
+   "text": "Indonesia akan bangkit menjadi ekonomi yang dinamis."
+  },
+  {
+   "t": 898.0,
+   "d": 36.0,
+   "text": "Kalau saya percaya bahwa ekonomi kita akan sangat baik, tahun ini kita selalu menghadapi mereka-mereka yang selalu memandang rendah bangsa kita itu tidak menjadi apa-apa. Itu bagi kita adalah cambuk untuk kita bekerja lebih baik lagi. Kita bekerja untuk rakyat kita. Kita bukan bekerja untuk menyenangkan orang lain. Kita bekerja untuk rakyat kita. Itu yang saya tekankan, Saudara-saudara sekalian."
+  },
+  {
+   "t": 934.0,
+   "d": 17.0,
+   "text": "Saudara-saudara sekalian, para kepala daerah melaporkan di daerah-daerah mereka sudah melihat kemiskinan menurun. Mereka sudah merasakan pengangguran terbuka menurun."
+  },
+  {
+   "t": 951.0,
+   "d": 6.0,
+   "text": "Mereka juga melihat tren bahwa jumlah orang bekerja meningkat."
+  },
+  {
+   "t": 957.0,
+   "d": 5.0,
+   "text": "Mereka juga menghitung rasio gini dalam tren menurun."
+  },
+  {
+   "t": 962.0,
+   "d": 32.0,
+   "text": "Saudara-saudara sekalian, dari makan bergizi gratis program kita saja hari ini kita telah mencapai 60 juta 200.000 Ibu penerima manfaat, anak-anak Indonesia, ibu-ibu hamil, dan orang tua lansia yang hidup sendiri dan tidak ada yang membantu."
+  },
+  {
+   "t": 994.0,
+   "d": 7.0,
+   "text": "60.A200.000 tiap hari kita beri makan."
+  },
+  {
+   "t": 1001.0,
+   "d": 29.0,
+   "text": "Kalau dihitung berarti kita memberi makan penduduk sebesar Afrika Selatan. Tiap hari untuk ibu-ibu hamil kita memberi diantar ke rumah untuk orang tua lansia diantar ke rumah. Saya kira di dunia ini adalah suatu prestasi yang membanggakan."
+  },
+  {
+   "t": 1030.0,
+   "d": 11.0,
+   "text": "dari segi management, dari segi logistics, dari segi pengendalian."
+  },
+  {
+   "t": 1041.0,
+   "d": 11.0,
+   "text": "Saya kira ini sesuatu yang mungkin harus dicatat sebagai prestasi yang membanggang kita, Saudara-saudara."
+  },
+  {
+   "t": 1052.0,
+   "d": 45.0,
+   "text": "Dari 60A200.000 rib tersebut kalau dijumlahkan selama ini kita sudah memproduksi dan mendistribusi 4,5 miliar porsi makanan 4,5 miliar dan kita mengakui terdapat 28.000 Ibu ee katakanlah penerimaan manfaat yang mengalami gangguan dari makanan itu dengan berbagai sebab."
+  },
+  {
+   "t": 1097.0,
+   "d": 13.0,
+   "text": "28.000 ini sebagian besar tidak perlu dirawat, hanya sebagian kecil dan 28.000 ini dibandingkan dengan 4,5 miliar."
+  },
+  {
+   "t": 1110.0,
+   "d": 15.0,
+   "text": "statistiknya adalah kalau tidak salah 0 kom 00 6."
+  },
+  {
+   "t": 1125.0,
+   "d": 15.0,
+   "text": "Saya ulangi karena mungkin matematik saya kurang ya. 0,00 lagi. 40 luar biasa."
+  },
+  {
+   "t": 1140.0,
+   "d": 48.0,
+   "text": "0,00 6 berarti ini adalah 99 ya, kom 999 94 mereka yang pintar-pintar. Makanya saya presiden kalau menteri saya gitu [tepuk tangan] yang pintar mereka. Jadi kalau enggak pintar enggak duduk di situ merekaitu berarti kalau in reality ini harus dikatakan suatu usaha yang berhasil."
+  },
+  {
+   "t": 1188.0,
+   "d": 21.0,
+   "text": "Iya kan? Kita ingin zero error itu harus kita capai. Tadi pagi saya baru resmikan ee SPPG polisi nanti yang nanti begitu selesai jumlahnya akan lebih dari 1100."
+  },
+  {
+   "t": 1209.0,
+   "d": 14.0,
+   "text": "Saya lihat dan saya kagum dengan kualitasnya dan saya percaya saya dapat laporan dari Kepala BGN di tempat-tempat lain juga sudah sudah seperti itu ya."
+  },
+  {
+   "t": 1223.0,
+   "d": 26.0,
+   "text": "Alat-alat yang kita produksi dari dalam negeri juga sudah cukup canggih untuk ee menjamin kebersihan air, menjamin ee kebersihan ee food dan selanjutnya juga mengatur limbah daripada MBG ini."
+  },
+  {
+   "t": 1249.0,
+   "d": 16.0,
+   "text": "Jadi, Saudara-saudara, MBG ini hari ini sudah mencapai ee 23.000 lebih dapur. 23.000 lebih dapur SPPG."
+  },
+  {
+   "t": 1265.0,
+   "d": 15.0,
+   "text": "Pada puncaknya ini akan sampai 82 juta lebih penerimaan manfaat."
+  },
+  {
+   "t": 1280.0,
+   "d": 12.0,
+   "text": "pada ujungnya akan mencapai lebih dari 30.000 dapur dan tiap dapur mempekerjakan 50 orang."
+  },
+  {
+   "t": 1292.0,
+   "d": 8.0,
+   "text": "Dari MBG saja sekarang sudah lebih dari 1 juta orang bekerja."
+  },
+  {
+   "t": 1300.0,
+   "d": 6.0,
+   "text": "Di ujungnya akan 1,5 juta orang bekerja tiap hari."
+  },
+  {
+   "t": 1306.0,
+   "d": 12.0,
+   "text": "Tapi tiap dapur akan menimbulkan dan sudah menimbulkan 5 sampai 10 pemasok supplier."
+  },
+  {
+   "t": 1318.0,
+   "d": 7.0,
+   "text": "Masing-masing pemasok punya 3 4 l petani yang bekerja."
+  },
+  {
+   "t": 1325.0,
+   "d": 3.0,
+   "text": "Ekonomi di desa hidup."
+  },
+  {
+   "t": 1328.0,
+   "d": 10.0,
+   "text": "Petani sayur, petani ikan, peternak ayam, peternak kambing, peternak susu."
+  },
+  {
+   "t": 1338.0,
+   "d": 17.0,
+   "text": "Semua yakin bahwa hasilnya langsung dibeli dan tidak jauh. Karena di tiap kampung mereka bisa punya pasar tetap, pasar terjamin."
+  },
+  {
+   "t": 1355.0,
+   "d": 5.0,
+   "text": "Ini menimbulkan ekonomi dari bawah."
+  },
+  {
+   "t": 1360.0,
+   "d": 23.0,
+   "text": "Para kepala daerah melaporkan bahwa mereka merasakan dinamisme dari bawah. Saudara-saudara, ini hanya salah satu bukti awal dari 1 tahun kita bekerja dan ini akan terus kita buktikan dengan hasil nyata, Saudara-saudara."
+  },
+  {
+   "t": 1383.0,
+   "d": 8.0,
+   "text": "Kita juga sudah mulai membangun desa-desa nelayan."
+  },
+  {
+   "t": 1391.0,
+   "d": 9.0,
+   "text": "Desa Nelayan tahun 2026 ini akan mencapai 1000 desa nelayan."
+  },
+  {
+   "t": 1400.0,
+   "d": 20.0,
+   "text": "Tiap desa nelayan terdiri dari sekian ratus, ada yang 300, 500, ada yang sampai 2.000 nelayan yang selama Republik Indonesia berdiri belum pernah disentuh oleh pemerintah Republik Indonesia."
+  },
+  {
+   "t": 1420.0,
+   "d": 4.0,
+   "text": "Nelaian-nelaian kita belum pernah dapat perhatian."
+  },
+  {
+   "t": 1424.0,
+   "d": 9.0,
+   "text": "Mereka kadang-kadang belum tidak bisa punya es. Tidak ada pabrik es di desa mereka."
+  },
+  {
+   "t": 1433.0,
+   "d": 5.0,
+   "text": "Mereka sulit dapat solar."
+  },
+  {
+   "t": 1438.0,
+   "d": 27.0,
+   "text": "Mereka sulit untuk dapat akses ke pasar ini. Kita rubah kita totalnya dalam 4 tahun mendatang kita akan membangun 5.000 desa nelayan. Tiap desa nelayan kita akan bangun public, kita akan bikin cold storage, kita akan bikin dermaga, kita akan bagikan kapal-kapal."
+  },
+  {
+   "t": 1465.0,
+   "d": 25.0,
+   "text": "Kita akan siapkan kendaraan, Saudara-saudara. Dan ini semua bukan hand out, bukan kita bagi-bagi ini. Kita organisir dalam koperasi semua pengeluaran mereka akan bayar kembali ke bank-bank dan ke pemerintah."
+  },
+  {
+   "t": 1490.0,
+   "d": 6.0,
+   "text": "Saudara-saudara, ekonomi yang kita jalankan bukan ekonomi handout."
+  },
+  {
+   "t": 1496.0,
+   "d": 12.0,
+   "text": "M ee yang kita akan bangun ini semua sudah ada dalam anggaran kita sudah bertahun-tahun."
+  },
+  {
+   "t": 1508.0,
+   "d": 6.0,
+   "text": "Jadi, Saudara-saudara, nanti desa-desa itu kita beri kebebasan."
+  },
+  {
+   "t": 1514.0,
+   "d": 10.0,
+   "text": "Kalau dia mampu, kita akan permudah akses kepada ekspor. Dia bisa ekspor langsung."
+  },
+  {
+   "t": 1524.0,
+   "d": 27.0,
+   "text": "Kita akan buka ee pelabuhan-pelabuhan, lapangan-lapangan terbang boleh ekspor langsung. Saudara-saudara, kita akan permudah regulasi supaya mereka bisa menumbuhkan kegiatan ekonomi yang mendasar dan mereka akan menghasilkan protein dalam kondisi yang tidak terlalu mahal untuk seluruh rakyat Indonesia."
+  },
+  {
+   "t": 1551.0,
+   "d": 42.0,
+   "text": "Demikian juga, Saudara-saudara. ini sudah ee hampir 100 sudah jadi ee di berbagai titik dan ee target kita 2026 ini akan sampai 1.000 dan selanjutnya ee total sampai 202 target kita adalah 5.000 desa nelayan yang nanti mereka akan kembalikan investasi itu. Tapi kita kasih kelonggaran mengembalikannya supaya tidak terlalu berat. untuk mereka. Kita beri kelonggaran pengembaliannya bisa di atas 10 tahun, 11 sampai 12 tahun yang tidak ada"
+  },
+  {
+   "t": 1593.0,
+   "d": 12.0,
+   "text": "masalah karena para pengusaha-pengusaha besar juga kadang-kadang minta kredit juga belasan tahun."
+  },
+  {
+   "t": 1605.0,
+   "d": 10.0,
+   "text": "Itu pun itu pun sering minta restrukturisasi."
+  },
+  {
+   "t": 1615.0,
+   "d": 13.0,
+   "text": "Iya kan? Saya ini sudah lama jadi orang Indonesia dan saya pernah jadi pengusaha juga. Ya, saya pun pernah minta restruktur restrukturisasi."
+  },
+  {
+   "t": 1628.0,
+   "d": 11.0,
+   "text": "Alas ee dengan kata lain lebih sederhana minta belas kasihan perpanjangan untuk kembali. Benar atau tidak?"
+  },
+  {
+   "t": 1639.0,
+   "d": 6.0,
+   "text": "Mana menteri-menteri pengusaha saudara-saudara?"
+  },
+  {
+   "t": 1645.0,
+   "d": 6.0,
+   "text": "Kalau pengusaha besar boleh dikasih apa itu haircut?"
+  },
+  {
+   "t": 1651.0,
+   "d": 19.0,
+   "text": "Apalagi haircut lagi enaknya sendiri haircut. Herkut masa nelayan-nelaian kita enggak kita berdayakan. Belum pernah mereka dapat kesempatan ini. Banyak yang nangis di pulau-pulau terpencil."
+  },
+  {
+   "t": 1670.0,
+   "d": 25.0,
+   "text": "Sekarang kita hadir, kita memberi harapan ke depan. Sama juga dengan Koperasi Merah Putih yang akan kita bangun dan sudah mulai sebentar lagi. Kemungkinan saya dapat laporan mungkin dalam 1 2 bulan ini sudah akan beroperasi beberapa ratus koperasi."
+  },
+  {
+   "t": 1695.0,
+   "d": 10.0,
+   "text": "Yang koperasinya sudah hampir berdiri adalah 30.000 koperasi."
+  },
+  {
+   "t": 1705.0,
+   "d": 2.0,
+   "text": "30.000 gudang."
+  },
+  {
+   "t": 1707.0,
+   "d": 7.0,
+   "text": "Tiap koperasi punya gudang, punya cold storage, punya geray-gerei."
+  },
+  {
+   "t": 1714.0,
+   "d": 24.0,
+   "text": "Di situ akan ada farmasi desa murah, obat generik akan sampai. Akan ada klinik desa, akan ada geray untuk super micro financing untuk membantu menghilangkan peran daripada rentenir."
+  },
+  {
+   "t": 1738.0,
+   "d": 12.0,
+   "text": "Kita akan beri bunga yang sangat sangat mudah, sangat ringan untuk mereka-mereka."
+  },
+  {
+   "t": 1750.0,
+   "d": 11.0,
+   "text": "Semua barang subsidi akan punya akses, rakyat akan punya akses langsung sehingga tidak ada penyelewengan, tidak ada kebocoran."
+  },
+  {
+   "t": 1761.0,
+   "d": 16.0,
+   "text": "Dan ini semua anggarannya dari mana anggarannya sudah ada. Karena 10 tahun kita sudah beri dana desa kepada desa-desa kita. 10 tahun sudah kita berikan."
+  },
+  {
+   "t": 1777.0,
+   "d": 17.0,
+   "text": "Dan sekarang kita akan mengarahkan selama ini 10 tahun kita harus akui banyak dana tersebut tidak sampai ke rakyat."
+  },
+  {
+   "t": 1794.0,
+   "d": 18.0,
+   "text": "Ini dibuktikan dengan banyak sekali kepala desa yang terpaksa berhadapan dengan hukum karena tidak dapat pertanggungjawabkan dengan baik penggunaan dana tersebut."
+  },
+  {
+   "t": 1812.0,
+   "d": 20.0,
+   "text": "Saudara-saudara sekalian, dari ini semua, Saudara-saudara, kita akan buktikan bahwa pertumbuhan ekonomi kita real, nyata, dan akan di atas sasaran yang kita tetapkan."
+  },
+  {
+   "t": 1832.0,
+   "d": 12.0,
+   "text": "Saudara-saudara sekalian, kita juga buktikan bahwa kita sekarang sudah suasembada beras. Kita menuju suasembada pangan."
+  },
+  {
+   "t": 1844.0,
+   "d": 17.0,
+   "text": "Saudara-saudara, produksi beras kita tahun 2025 adalah 34,7 juta ton, naik 13% dari 2024."
+  },
+  {
+   "t": 1861.0,
+   "d": 14.0,
+   "text": "Sekarang cadangan beras di Bulok bulan Juli ee bulan Juli 2025 adalah 4,2 juta ton adalah tertinggi sepanjang sejarah bangsa kita."
+  },
+  {
+   "t": 1875.0,
+   "d": 6.0,
+   "text": "Dan sampai sekarang pun cadangan yang sudah ada masih sangat tinggi."
+  },
+  {
+   "t": 1881.0,
+   "d": 17.0,
+   "text": "Saudara-saudara sekalian, dalam kebijakan fiskal saya sudah buktikan bahwa kita bisa melaksanakan efisiensi penghematan yang sangat besar."
+  },
+  {
+   "t": 1898.0,
+   "d": 13.0,
+   "text": "Di tahun pertama pemerintahan kita, kita telah menghemat ee uang dari anggaran kita sendiri sangat besar."
+  },
+  {
+   "t": 1911.0,
+   "d": 4.0,
+   "text": "300 triliun lebih penghematan kita."
+  },
+  {
+   "t": 1915.0,
+   "d": 10.0,
+   "text": "Di akhir tahun 2025 pun kita lakukan dan kita melihat hasil dari penghematan tersebut."
+  },
+  {
+   "t": 1925.0,
+   "d": 9.0,
+   "text": "Uang inilah uang penghematan inilah yang kita pakai untuk program MBG dan sebagainya."
+  },
+  {
+   "t": 1934.0,
+   "d": 9.0,
+   "text": "Uang yang pasti akan habis untuk hal-hal yang tidak produktif. Kita alihkan ke hal-hal yang produktif."
+  },
+  {
+   "t": 1943.0,
+   "d": 22.0,
+   "text": "kita mengeluarkan semua yang bersifat tidak produktif, perjalanan luar negeri, seremoni-seremoni yang tidak perlu, rapat seminar, FGD dan sebagainya sebagainya."
+  },
+  {
+   "t": 1965.0,
+   "d": 10.0,
+   "text": "kajian-kajian, analisa-analisa sudah tidak perlu terlalu banyak kajian dan analisa. Kita sudah tahu masalahnya."
+  },
+  {
+   "t": 1975.0,
+   "d": 9.0,
+   "text": "Kekurangan infrastruktur lakukan. Desa perlu jembatan buat."
+  },
+  {
+   "t": 1984.0,
+   "d": 10.0,
+   "text": "Rakyat lapar cari pangan. Enggak usah terlalu banyak analisa ya. Ini kita sudah hemat sangat luar biasa."
+  },
+  {
+   "t": 1994.0,
+   "d": 13.0,
+   "text": "Di tahun pertama R8T triliun kita sudah hemat. Ini berapa miliar dolar ini? 308T berapa?"
+  },
+  {
+   "t": 2007.0,
+   "d": 13.0,
+   "text": "18 miliar dolar. 18 miliar dolar. Dan kita bisa lakukan lebih besar lagi ya. Kebocoran harus kita tutup, harus kita kurangi."
+  },
+  {
+   "t": 2020.0,
+   "d": 4.0,
+   "text": "Saudara-saudara sekalian."
+  },
+  {
+   "t": 2024.0,
+   "d": 30.0,
+   "text": "Saya masih melihat ee kebocoran-kebocoran besar, tapi saya terima kasih dan antara dalam 1 tahun Anda bekerja mungkin kurang dari 1 tahun kita bentuk saudara baru Februari 2000 25 Februari ya 3 4 5 bulan pendirian kan belum 1 tahun."
+  },
+  {
+   "t": 2054.0,
+   "d": 31.0,
+   "text": "Tapi saudara sudah saya dapat laporan sementara ya hasil daripada ee efisiensi saudara, reformasi saudara sudah melahirkan ee hasil empat kali lipat daripada tahun 2024. Ini luar biasa. Tapi harus terus dikejar."
+  },
+  {
+   "t": 2085.0,
+   "d": 13.0,
+   "text": "Saya menuntut return on asset ya 7% lah."
+  },
+  {
+   "t": 2098.0,
+   "d": 4.0,
+   "text": "Kenapa senyum?"
+  },
+  {
+   "t": 2102.0,
+   "d": 8.0,
+   "text": "Kepala danantara bisa siap kok. Siapnya kurang tegas itu ya. Siap."
+  },
+  {
+   "t": 2110.0,
+   "d": 3.0,
+   "text": "Siap gitu loh. Siap. Siap."
+  },
+  {
+   "t": 2113.0,
+   "d": 9.0,
+   "text": "Ah, itu dalam siap. Tidak usah khawatir ya."
+  },
+  {
+   "t": 2122.0,
+   "d": 4.0,
+   "text": "Saya ingat selalu apa yang dikatakan Bung Karno."
+  },
+  {
+   "t": 2126.0,
+   "d": 5.0,
+   "text": "Gantungkanlah cita-citamu setinggi langit."
+  },
+  {
+   "t": 2131.0,
+   "d": 6.0,
+   "text": "Kalau kau tidak sampai, minimal kau jatuh di antara bintang-bintang. Kan begitu."
+  },
+  {
+   "t": 2137.0,
+   "d": 15.0,
+   "text": "[tepuk tangan] Siap dulu. I kan kami dulu di pasukan khusus tentara moto kami dulu siapa berani menang."
+  },
+  {
+   "t": 2152.0,
+   "d": 8.0,
+   "text": "Berani dulu ya kan patok 7%."
+  },
+  {
+   "t": 2160.0,
+   "d": 10.0,
+   "text": "Kau akan kaget ya kan kalau kau patok 5% Pak nanti 3%."
+  },
+  {
+   "t": 2170.0,
+   "d": 50.0,
+   "text": "Kok patok. 7% 8 saya patok 8% sekarang saya tingkatkan harus bisa lebih dari 8% menteri-menteri bisa siap siap gitu loh percaya sama saya kalian sendiri akan kaget ya kalian sendiri akan kaget benar enggak angka-angka saya banyak tapi saya enggak mau bicara terlalu panjang Karena inti yang saya sampaikan sudah saya sampaikan, Saudara-saudara. Efensiasi dan tidak ada masalah banyak kawan-kawan di luar negeri. Kita tidak perlu malu kalau kita punya kekurangan. Korupsi masih terlalu banyak."
+  },
+  {
+   "t": 2220.0,
+   "d": 45.0,
+   "text": "Kita harus habiskan korupsi dari bumi Indonesia. ya [tepuk tangan] segala kebocoran, segala penyelewengan segala manipulasi ya semua semua tingkatan saya kumpulkan pengusaha-pengusaha yang sebagian besar adalah kawan saya sendiri saya sampaikan, \"Sudahlah kalian sudah besar, sudah A ya patuhi peraturan kalian. Pintar-pintar."
+  },
+  {
+   "t": 2265.0,
+   "d": 14.0,
+   "text": "Tapi di Indonesia ini orang pintar itu pintarnya pintar mencari peluang mengatasi peraturan."
+  },
+  {
+   "t": 2279.0,
+   "d": 14.0,
+   "text": "Benar ini dari dari sekolah kita belajar. Iya kan? Ini hilangkan budaya itu ya."
+  },
+  {
+   "t": 2293.0,
+   "d": 5.0,
+   "text": "Tapi masalahnya pemerintah birokrasi juga harus benar."
+  },
+  {
+   "t": 2298.0,
+   "d": 8.0,
+   "text": "Kadang-kadang birokrasi yang tidak benar. Iya kan?"
+  },
+  {
+   "t": 2306.0,
+   "d": 31.0,
+   "text": "Ada yang sampaikan kepada saya bahwa Winston Churchill pernah mengatakan, \"I am more afraid of my birocrats than I'm afraid of Adolf Hitler.\" Katanya, kita enggak tahu apa benar atau tidak dia mengatakan begitu. Tapi kira-kira semangatnya seperti itulah ya."
+  },
+  {
+   "t": 2337.0,
+   "d": 7.0,
+   "text": "Ya, saya juga begitu. Mungkin dirobah deh aku yang ngomong ya."
+  },
+  {
+   "t": 2344.0,
+   "d": 14.0,
+   "text": "I'm more afraid of my own burucrats than I'm afraid of siapalah kuntilanak atau apa gitu."
+  },
+  {
+   "t": 2358.0,
+   "d": 8.0,
+   "text": "So, kita harus bersihkan ya. Kita harus ada the new Indonesia."
+  },
+  {
+   "t": 2366.0,
+   "d": 8.0,
+   "text": "The new Indonesia harus tidak boleh. Tidak boleh ada korupsi."
+  },
+  {
+   "t": 2374.0,
+   "d": 15.0,
+   "text": "Untung kita masih negara apa tuh? Kita masih kita negara demokrasi kan. Benar ya? Demokrasi apa? Agak demokrasiah agak ya lumayanlah demokrasi kita kan."
+  },
+  {
+   "t": 2389.0,
+   "d": 3.0,
+   "text": "Kalau enggak ada demokrasi gua enggak jadi presiden loh saudara."
+  },
+  {
+   "t": 2392.0,
+   "d": 4.5,
+   "text": "[tertawa] Iya kan? Benar enggak?"
+  },
+  {
+   "t": 2396.0,
+   "d": 26.0,
+   "text": "Jadi jangan ini loh ada apa tuh kelompok-kelompok yang selalu mengeluh Indonesia beginilah Prabowo otoriter lah. Benar enggak? Tapi kalau ditanya rakyat jangan-jangan perlu juga sedikit-sedikit otoriter jangan-jangan untuk melawan koruptor-koruptor itu. Tapi kita demokratis jadi kita masih moderat ya."
+  },
+  {
+   "t": 2422.0,
+   "d": 8.0,
+   "text": "Banyak negara lain enggak tahu dah hari ini ada, besoknya enggak ada. Iya kan? Jangan-jangan efektif yang itu."
+  },
+  {
+   "t": 2430.0,
+   "d": 7.0,
+   "text": "Jangan-jangan. Waduh ini ada banyak wartawan ni."
+  },
+  {
+   "t": 2437.0,
+   "d": 8.0,
+   "text": "Waduh ada lagi banyak da besar ini. [tertawa] Negara barat lagi. Waduh."
+  },
+  {
+   "t": 2445.0,
+   "d": 6.0,
+   "text": "I am completely democraticely. Saudara-saudara."
+  },
+  {
+   "t": 2451.0,
+   "d": 11.0,
+   "text": "Jadi kita bertekad ya, saya bertekad patuhi hukum tidak ada kompromi."
+  },
+  {
+   "t": 2462.0,
+   "d": 3.0,
+   "text": "Kita harus tegakkan hukum dengan baik."
+  },
+  {
+   "t": 2465.0,
+   "d": 12.0,
+   "text": "Tapi tidak boleh ada miscourage of justice. Tidak boleh hukum dipakai alat untuk mengerjain lawan politik."
+  },
+  {
+   "t": 2477.0,
+   "d": 4.0,
+   "text": "Tidak boleh. Dan saya tidak mau. Dan saya sudah buktikan."
+  },
+  {
+   "t": 2481.0,
+   "d": 10.0,
+   "text": "Ya, saya buktikan saya berani abolisi, saya berani amnesti kalau saya merasa ada sesuatu."
+  },
+  {
+   "t": 2491.0,
+   "d": 7.0,
+   "text": "Jadi, pengadilan kita harus memberi keputusan yang adil."
+  },
+  {
+   "t": 2498.0,
+   "d": 3.0,
+   "text": "Beyond a reasonable doubt."
+  },
+  {
+   "t": 2501.0,
+   "d": 9.0,
+   "text": "Keputusan itu harus beyond a reasonable doubt. Harus tidak boleh ada keragu-raguan sedikit pun."
+  },
+  {
+   "t": 2510.0,
+   "d": 21.0,
+   "text": "Kalau ada kemungkinan bahwa terdakwa itu mungkin tidak bersalah, kita tidak boleh memberi putusan yang final kepada mereka itu."
+  },
+  {
+   "t": 2531.0,
+   "d": 6.0,
+   "text": "Dan saya sebagai pemegang mandat dari rakyat, saya bertanggung jawab."
+  },
+  {
+   "t": 2537.0,
+   "d": 4.0,
+   "text": "Saya ingin ada rule of law di Indonesia."
+  },
+  {
+   "t": 2541.0,
+   "d": 28.0,
+   "text": "Saya ingin ada kepastian hukum. Hanya dengan kepastian hukum kita bisa menjamin stabilitas dan ketenangan bagi rakyat kita. Rakyat kita harus merasa hidup dalam masyarakat di mana pemerintahnya bersih dan adil. Ini syarat dari keberhasilan suatu negara."
+  },
+  {
+   "t": 2569.0,
+   "d": 18.0,
+   "text": "Saya pelajari sejarah, tidak ada negara berhasil tanpa pemerintah yang bersih dan adil. Dan saya bertekad dengan tim saya. Kita membangun pemerintah yang bersih dan adil. Dan birokrat-birokrat yang tidak mau menyesuaikan."
+  },
+  {
+   "t": 2587.0,
+   "d": 5.0,
+   "text": "Kita akan mengadakan regenerasi."
+  },
+  {
+   "t": 2592.0,
+   "d": 6.0,
+   "text": "Saya sudah siapkan institusi-institusi pendidikan."
+  },
+  {
+   "t": 2598.0,
+   "d": 4.0,
+   "text": "Tahun ini kita akan mulai membangun 10 universitas baru."
+  },
+  {
+   "t": 2602.0,
+   "d": 10.0,
+   "text": "Satu lembaga khusus untuk administrasi pemerintahan."
+  },
+  {
+   "t": 2612.0,
+   "d": 13.0,
+   "text": "putra-putri Indonesia yang terbaik akan kita pilih, akan kita godok, kita siapkan untuk mengambil alih kepimpinan semua lembaga yang baik."
+  },
+  {
+   "t": 2625.0,
+   "d": 4.0,
+   "text": "There is nobody that cannot be replaced."
+  },
+  {
+   "t": 2629.0,
+   "d": 26.0,
+   "text": "Saya perintahkan kepada dan antara BPBUMN Menpan RB semua Menteri KL beri wewenang penuh untuk mengganti semua pejabat-pejabat yang tidak perform dengan baik atau yang melanggar."
+  },
+  {
+   "t": 2655.0,
+   "d": 28.0,
+   "text": "Saya terima kasih kepada semua penegak hukum yang telah bekerja keras. Saudara sekalian, Indonesia harus berani memperbaiki semua bidang, semua sektor, termasuk kebersihan setiap desa, kecamatan, kota, kabupaten, ibu kota provinsi, dan ibu kota negara."
+  },
+  {
+   "t": 2683.0,
+   "d": 8.0,
+   "text": "Saya minta dalam waktu sesingkat-singkatnya kita akan buktikan. Saya minta kebersihan sampah."
+  },
+  {
+   "t": 2691.0,
+   "d": 22.0,
+   "text": "Saya terima kasih beberapa lembaga pendidikan kita telah mengembangkan alat-alat recycling, alat-alat ee pemusnah sampah yang ramah lingkungan, tidak merusak, tidak melingun bau, yang cukup dalam skala-skala kecil."
+  },
+  {
+   "t": 2713.0,
+   "d": 14.0,
+   "text": "Kita berharap ada alat-alat itu di setiap kelurahan kita, di setiap kecamatan kita. Sehingga tidak perlu jauh-jauh ke TPA."
+  },
+  {
+   "t": 2727.0,
+   "d": 23.0,
+   "text": "Sampah diselesaikan di tingkat yang terendah. Ini kita akan laksanakan tahun ini juga yang besar-besar ya. Kita terpaksa cari teknologi yang terbaik dan kita sudah mulai. Saudara-saudara sekalian, saya minta Indonesia asri, aman, sehat, Risik, dan indah."
+  },
+  {
+   "t": 2750.0,
+   "d": 23.0,
+   "text": "Ini sudah mulai bekerja. Saya juga berharap kita akan lakukan gentengisasi seluruh desa, kecamatan, kabupaten, dan seluruh kota-kota besar Indonesia. Saya kira itu yang saya ingin sampaikan."
+  },
+  {
+   "t": 2773.0,
+   "d": 12.0,
+   "text": "Saya percaya stabilitas politik di Indonesia bisa kita jaga dengan baik, tegas kita jaga keamanan untuk semua."
+  },
+  {
+   "t": 2785.0,
+   "d": 13.0,
+   "text": "Kita hormati semua perjanjian yang dibangun oleh Indonesia sebagai pemerintah. Kita punya track record yang sangat besar."
+  },
+  {
+   "t": 2798.0,
+   "d": 4.0,
+   "text": "Indonesia belum pernah defult dalam sejarah kita."
+  },
+  {
+   "t": 2802.0,
+   "d": 6.0,
+   "text": "Kita selalu hormati semua perjanjian pemerintah-pemerintah pendahulu."
+  },
+  {
+   "t": 2808.0,
+   "d": 16.0,
+   "text": "Kita terbuka untuk investasi dari manaun dan kita yakin bahwa kita akan bangkit dengan sangat meyakinkan."
+  },
+  {
+   "t": 2824.0,
+   "d": 7.0,
+   "text": "Saya namakan, saya punya strategi adalah Indonesia Incorporated."
+  },
+  {
+   "t": 2831.0,
+   "d": 29.0,
+   "text": "yang besar, yang kuat, yang menengah, yang kecil, yang kurang semua bekerja sama. Yang besar maju, tarik, yang kurang kuat, yang kuat tarik, yang lemah pemerintah yang bersih dan adil bantu yang paling lemah dan paling miskin. Kita bangkit bersama."
+  },
+  {
+   "t": 2860.0,
+   "d": 22.0,
+   "text": "Indonesia insyaallah nanti bukan saja raksasa yang tertidur, tapi kita harus bangkit menjadi raksasa yang mampu berdiri dan membangun kehidupan yang lebih baik bagi rakyatnya. Terima kasih."
+  },
+  {
+   "t": 2882.0,
+   "d": 4.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 2886.0,
+   "d": 4.0,
+   "text": "[tepuk tangan] Salam sejahtera bagi kita sekalian."
+  },
+  {
+   "t": 2890.0,
+   "d": 7.0,
+   "text": "Shalom shi om santi santi om namo buddhaya. Salam kebajikan terima kasih."
+  },
+  {
+   "t": 2897.0,
+   "d": 7.0,
+   "text": "Selamat melaksanakan ee sarasihan ini. Terima kasih."
+  },
+  {
+   "t": 2904.0,
+   "d": 11.0,
+   "text": "[tepuk tangan] Jelajahi cara baru mendapatkan informasi. Download Metro TV Extend sekarang."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ }
+}

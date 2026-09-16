@@ -1,0 +1,319 @@
+{
+ "id": "2025-01-01-di-peresmian-lrt-jalur-kelapa-gading-manggarai-breaking",
+ "video_id": "KHIIlTGSM4Q",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "[FULL] Pidato Prabowo di Peresmian LRT Jalur Kelapa Gading-Manggarai | BREAKING NEWS",
+ "channel": "Official iNews",
+ "youtube_url": "https://www.youtube.com/watch?v=KHIIlTGSM4Q",
+ "duration_s": 917,
+ "duration_hms": "15:17",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 120,
+ "token_count": 1093,
+ "unique_word_count": 472,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "KHIIlTGSM4Q",
+   "url": "https://www.youtube.com/watch?v=KHIIlTGSM4Q",
+   "title": "[FULL] Pidato Prabowo di Peresmian LRT Jalur Kelapa Gading-Manggarai | BREAKING NEWS",
+   "channel": "Official iNews",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 5,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 38
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 14.0,
+   "text": "Penandatanganan prasasti sebagai tanda peresmian stasiun LRT Jakarta jalur Kelapa Gading Manggarai."
+  },
+  {
+   "t": 14.0,
+   "d": 2.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 16.0,
+   "d": 4.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam."
+  },
+  {
+   "t": 20.0,
+   "d": 10.0,
+   "text": "Selamat siang. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu. Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 30.0,
+   "d": 16.0,
+   "text": "Yang saya hormati Gubernur DKI Jakarta sebagai penyelenggara ya, Saudara Pramono Anung Wibowo. Ada wibowonya ya?"
+  },
+  {
+   "t": 46.0,
+   "d": 8.0,
+   "text": "Ada bowonya itu orang baik. [tertawa] Ada prahya juga."
+  },
+  {
+   "t": 54.0,
+   "d": 30.0,
+   "text": "Pramono pra [tepuk tangan] yang saya hormati Wakil Gubernur DKI Jakarta, Saudara Rano Karno, Sidul, Anda lebih dikenal Sidul ya kan?"
+  },
+  {
+   "t": 84.0,
+   "d": 4.0,
+   "text": "Para menteri dan anggota kabinet merah putih yang hadir."
+  },
+  {
+   "t": 88.0,
+   "d": 45.0,
+   "text": "Menteri Perhubungan, Saudara Dudi Purwa Gandhi, Menteri Sekretaris Negara, Saudara Prasetyo Hadi, Kepala Staf Kepresidenan Jenderal TNI Penangrawan Dudung Abdurrahman, Sekretaris Kabinat Republik Indonesia Let Tedi Indrawijaya, Ketua DPRD Provinsi DKI Jakarta, Saudara Suhud Alyudin yang saya hormati, Dirut PT Jakpro, Saudara Iwan Takwin, Dirut PTLTI Jakarta, Saudara Adityya ke semua negara. Terima kasih."
+  },
+  {
+   "t": 133.0,
+   "d": 18.0,
+   "text": "Yang saya hormati pegawai kereta light rail transit, para petugas stasiun masinis, dan seluruh staf pegawai LRT, para tamu undangan dan rekan-rekan pers media yang hadir yang saya hormati."
+  },
+  {
+   "t": 151.0,
+   "d": 26.0,
+   "text": "tentunya sebagai insan yang bertakwa tidak henti-hentinya kita panjatkan puji syukur kehadirat Tuhan maha kuasa, Tuhan maha besar bagi umat Islam Allah Subhanahu wa taala yang memiliki sekalian alam. Hanya kepadalah kita berdoa dan hanya kepadalah kita meminta pertolongan."
+  },
+  {
+   "t": 177.0,
+   "d": 33.0,
+   "text": "Kita bersyukur atas segala karunia, atas kesehatan, atas kedamaian yang masih diberikan kepada kita sehingga pada hari ini kita dapat berkumpul bersama dalam suatu acara yang sangat membanggakan yaitu peresmian LRT Jakarta Rute Kelapa Ganding Manggarai."
+  },
+  {
+   "t": 210.0,
+   "d": 11.0,
+   "text": "Dalam kesempatan ini tentunya kita ee selalu ingat saudara-saudara kita yang mengalami musibah ya."
+  },
+  {
+   "t": 221.0,
+   "d": 13.0,
+   "text": "Yang terakhir eh kapal Virgo di Banjarmasin ya."
+  },
+  {
+   "t": 234.0,
+   "d": 41.0,
+   "text": "ee dan kita selalu berdoa agar ee keluarga yang ditinggal diberi ketabahan, keteguhan dan kita terus akan melakukan investigasi menyelidiki apa sebab dan ee kejadian tersebut supaya di masa depan kita lebih ee bisa mitigasi dan bisa mengambil langkah-langkah yang terbaik juga masih banyak saudara-saudara kita di berbagai tempat yang mengalami ee kesulitan akibat ee bencana alam yang dihadapi."
+  },
+  {
+   "t": 275.0,
+   "d": 19.0,
+   "text": "Tetapi seluruh pemerintah, pusat, daerah, provinsi, kabupaten, semua instansi terbukti bekerja sama dengan baik untuk menghadapi semua tantangan dan kesulitan."
+  },
+  {
+   "t": 294.0,
+   "d": 9.0,
+   "text": "Saya kira ini adalah contoh ee bernegara secara Indonesia."
+  },
+  {
+   "t": 303.0,
+   "d": 17.0,
+   "text": "Dan hari ini saya lihat ini juga suatu contoh ee bagaimana Indonesia bernegara."
+  },
+  {
+   "t": 320.0,
+   "d": 10.0,
+   "text": "Kita menyaksikan langkah penting dalam rencana pembangunan bangsa, transformasi bangsa."
+  },
+  {
+   "t": 330.0,
+   "d": 68.0,
+   "text": "bahwa Jakarta Raya ya Jabo di Tabek sebetulnya sekarang sudah menjadi mungkin ee metropolitan terbesar di dunia 42 juta Malaysia bahwa kita bisa mengelola suatu aglomerasi suatu metropolitan sebesar ini 42 juta mungkin ee lebih besar dari banyak negara di dunia ya kita bisa mengelola dengan aman dalam suasana demokratis tapi tertib."
+  },
+  {
+   "t": 398.0,
+   "d": 8.0,
+   "text": "Contoh yang paling baik daripada bernegara secara Indonesia."
+  },
+  {
+   "t": 406.0,
+   "d": 16.0,
+   "text": "Saya Presiden Republik Indonesia memimpin pemerintah pusat, Saudara Praman Anung, Gubernur DKI. memimpin pemerintah daerah Jakarta."
+  },
+  {
+   "t": 422.0,
+   "d": 8.0,
+   "text": "Kita datang dari partai yang berbeda."
+  },
+  {
+   "t": 430.0,
+   "d": 15.0,
+   "text": "Kita bersaing dalam pemilihan umum, tapi kita bisa bekerja sama, kita bisa saling menghormati."
+  },
+  {
+   "t": 445.0,
+   "d": 13.0,
+   "text": "Karena [tepuk tangan] karena kita sadar di dalam hati sanubari kita bahwa kita dipilih oleh rakyat."
+  },
+  {
+   "t": 458.0,
+   "d": 32.0,
+   "text": "kita di sini, saya di sini sebagai presiden, Saudara Pram Anung sebagai gubernur, Saudara Ranokano sebagai gubernur, kita pelayan rakyat, kita petugasnya rakyat, pikiran kita, tenaga kita, upaya kita, semuanya untuk rakyat Indonesia. Dan kalau kita tidak kuat dan kita tidak sanggup, ya kita harus ke satria, kita harus kita harus pinggir."
+  },
+  {
+   "t": 490.0,
+   "d": 20.0,
+   "text": "Selama kita mau nerima mandat ini, selama kita mau menerima kehormatan melayani rakyat Indonesia, [berdehem] selama itu kita harus bekerja hanya untuk kepentingan yang besar, kepentingan bangsa, kepentingan rakyat."
+  },
+  {
+   "t": 510.0,
+   "d": 8.0,
+   "text": "Karena itu hari ini adalah hari yang sangat membahagiakan saya."
+  },
+  {
+   "t": 518.0,
+   "d": 22.0,
+   "text": "Hari ini adalah hari yang membanggakan bahwa bangsa kita terus teratur, mungkin tidak fantastis tapi kita maju setapak demi setapak demi setapak."
+  },
+  {
+   "t": 540.0,
+   "d": 43.0,
+   "text": "tadi dikatakan 56 tahun yang lalu atau 10 tahun yang lalu, siapa mengira kita bisa punya sistem transportasi seperti sekarang ini? di Manggarai ada LRT, ada KRL, ada Trans Jakarta, ada Trans Jabuitabek ya kan kereta ke bandara ini menjadi ee transport hub dan ini nanti akan dibangun menara-menara perumahan untuk rakyat yang berpenghasilan rendah."
+  },
+  {
+   "t": 583.0,
+   "d": 16.0,
+   "text": "Tadi oleh Gubernur pertumbuhan DKI meningkat, perusahaan-perusahaan yang tadi agak lusuh sekarang bangkit ya, investasi naik luar biasa ya."
+  },
+  {
+   "t": 599.0,
+   "d": 28.0,
+   "text": "Jadi, Saudara-saudara, ini ee menunjukkan bila [berdehem] pemimpin-pemimpin bisa kerja sama, bisa gotong-royong dan harus gotong-royong, tapi bisa dan mau gotong-royong, mau kerja sama, bangsa ini akan bangkit menjadi bangsa yang luar biasa. [tepuk tangan] Saya yakin itu."
+  },
+  {
+   "t": 627.0,
+   "d": 11.0,
+   "text": "Sebentar lagi Indonesia dengan segala masalahnya kita akan bangkit dan kita akan menuju cita-cita pendiri-pendiri bangsa kita."
+  },
+  {
+   "t": 638.0,
+   "d": 37.0,
+   "text": "Ee saya ucapkan terima kasih dan saya menyampaikan penghargaan kepada semua pihak yang membuat ini berhasil dan tadi ada sedikit harapan ya dari gubernur dan antara untuk ikut membantu saya kira dan antara wajib membantu [tepuk tangan] Karena DKI bukan hanya milik orang yang tinggal di DKI. DKI milik seluruh bangsa."
+  },
+  {
+   "t": 675.0,
+   "d": 19.0,
+   "text": "Ya, [tepuk tangan] tadi benar saya sampaikan sesudah ini mungkin satu du minggu saya akan gelar rapat Gubernur Bupati seluruh Indonesia dengan DPRD seluruh Indonesia untuk saya launching ee gerakan Indonesia ASR."
+  },
+  {
+   "t": 694.0,
+   "d": 11.0,
+   "text": "Indonesia ASRI artinya Indonesia aman, sehat, resik, dan indah ya."
+  },
+  {
+   "t": 705.0,
+   "d": 4.0,
+   "text": "ini harus kita wujudkan."
+  },
+  {
+   "t": 709.0,
+   "d": 19.0,
+   "text": "Jadi saya tadi menyampaikan kalau bisa mulai dari Jakarta, Jakarta harus jadi kota hijau, kota taman. The garden city, the green city."
+  },
+  {
+   "t": 728.0,
+   "d": 15.0,
+   "text": "Semua gedung-gedung besar kalau bisa vertical garden ya. Dan kalau bisa inisiatif dari pemilik gedung, kalau mereka kesulitan pemda akan turun tangan."
+  },
+  {
+   "t": 743.0,
+   "d": 25.0,
+   "text": "Pemerintah daerah merasa perlu, pemerintah pusat akan turun tangan. ya [tepuk tangan] ibu kota DKI tapi nanti semua ibu kota provinsi, semua ibu kota kabupaten harus kita rubah. Indonesia harus transformasi."
+  },
+  {
+   "t": 768.0,
+   "d": 13.0,
+   "text": "hilangkan sampah, bersihkan kali-kali ya dengan teknologi dan sebagainya."
+  },
+  {
+   "t": 781.0,
+   "d": 30.0,
+   "text": "Tadi gubernur sudah melaporkan banyak ee kolam-kolam air sudah bersih sekarang ya. Dan rencana beliau akan membikin jogging TRK taman-taman dan selanjutnya saya sangat mendukung. Saya kira itu dari saya ya. Ee jangan lama-lama ya kalau pidato sekarang."
+  },
+  {
+   "t": 811.0,
+   "d": 3.0,
+   "text": "Intinya selamat. Terima kasih gubernur."
+  },
+  {
+   "t": 814.0,
+   "d": 25.0,
+   "text": "Ya, [tepuk tangan] saya harus akui kalau ada gubernur yang hebat ya saya akui dia hebat wakil gubernur walaupun walaupun bukan dari partai saya [tepuk tangan] tapi [bersorak] ini harus mendorong partai-partai lain ya kan ya. Kerja yang benar dong."
+  },
+  {
+   "t": 839.0,
+   "d": 9.0,
+   "text": "Terima kasih. Selamat, Pak Pramono. Selamat, Dul."
+  },
+  {
+   "t": 848.0,
+   "d": 3.0,
+   "text": "Tapi sekarang sudah enggak anak jalanan, ya."
+  },
+  {
+   "t": 851.0,
+   "d": 8.0,
+   "text": "Selamat, saya sangat bahagia hari ini, ya. Enak naik LRT ya. Luar biasa."
+  },
+  {
+   "t": 859.0,
+   "d": 15.0,
+   "text": "[tepuk tangan] Baik, dengan demikian ee kita Oh, Tapi ini saya mau baca dulu pantun."
+  },
+  {
+   "t": 874.0,
+   "d": 7.0,
+   "text": "Naik LRT menuju Manggarai, singgah sebentar di Kelapa Gading. Amin."
+  },
+  {
+   "t": 881.0,
+   "d": 5.0,
+   "text": "Transportasi maju, Kota Jakarta semakin ramai."
+  },
+  {
+   "t": 886.0,
+   "d": 15.0,
+   "text": "Konektivitas kuat, Indonesia semakin bersaing. [tepuk tangan] Pagi hari melihat matahari, naik LRT menuju kota."
+  },
+  {
+   "t": 901.0,
+   "d": 7.0,
+   "text": "Transportasi maju, rakyat berseri. Indonesia maju untuk kita semua."
+  },
+  {
+   "t": 908.0,
+   "d": 6.0,
+   "text": "[tepuk tangan] Selanjutnya prosesi penarikan Tuas."
+  },
+  {
+   "t": 914.0,
+   "d": 3.0,
+   "text": "mohon berkenan mendampingi di atas panggung Menteri Perhubungan dan Gubernur DKI Jakarta serta"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ }
+}

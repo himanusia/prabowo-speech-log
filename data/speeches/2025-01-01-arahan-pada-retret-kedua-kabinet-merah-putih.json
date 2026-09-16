@@ -1,0 +1,570 @@
+{
+ "id": "2025-01-01-arahan-pada-retret-kedua-kabinet-merah-putih",
+ "video_id": "qJS5c-0ZYmA",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "[FULL] Arahan Presiden Prabowo pada Retret Kedua Kabinet Merah Putih #beritasatu",
+ "channel": "BeritaSatu",
+ "youtube_url": "https://www.youtube.com/watch?v=qJS5c-0ZYmA",
+ "duration_s": 1575,
+ "duration_hms": "26:15",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 196,
+ "token_count": 1520,
+ "unique_word_count": 571,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "qJS5c-0ZYmA",
+   "url": "https://www.youtube.com/watch?v=qJS5c-0ZYmA",
+   "title": "[FULL] Arahan Presiden Prabowo pada Retret Kedua Kabinet Merah Putih #beritasatu",
+   "channel": "BeritaSatu",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 18,
+  "ekonomi": 3,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 21,
+  "tata_kelola": 8,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 46
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 7
+  },
+  "Korupsi dan kebocoran": {
+   "count": 2
+  },
+  "Bencana dan penanganan": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 11.0,
+   "d": 3.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 14.0,
+   "d": 4.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam."
+  },
+  {
+   "t": 18.0,
+   "d": 9.0,
+   "text": "Selamat siang. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu."
+  },
+  {
+   "t": 27.0,
+   "d": 6.0,
+   "text": "Namo buddhaya. Salam kebajikan. Rahayu-rahayu."
+  },
+  {
+   "t": 33.0,
+   "d": 55.0,
+   "text": "Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka, para menteri koordinator, para menteri, para kepala badan, ketua Dewan Ekonomi Nasional, para penasihat khusus Presiden Jaksa Agung, Kepala BIN Kapolri, Panglima TNI dan seluruh kepala staf angkatan, para wakil menteri, dan seluruh anggota kabinet merah putih yang saya banggakan."
+  },
+  {
+   "t": 88.0,
+   "d": 44.0,
+   "text": "Pertama-tama tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Besar, bagi umat Islam Allah Subhanahu wa taala atas segala karunia kesehatan, kebaikan yang masih diberikan kepada kita sehingga kita dapat berkumpul di siang hari ini di Hambalang, Jawa Barat."
+  },
+  {
+   "t": 132.0,
+   "d": 32.0,
+   "text": "Hari ini saya sengaja mengundang saudara saudara ee berkumpul di Hambalang di padepokan Garuda Yaksa untuk memberi taklimat awal tahun 2026."
+  },
+  {
+   "t": 164.0,
+   "d": 19.0,
+   "text": "Pertimbangan saya kumpulkan adalah pertama untuk kita evaluasi kerja kita tahun lalu."
+  },
+  {
+   "t": 183.0,
+   "d": 15.0,
+   "text": "Selanjutnya kita memahami kondisi bangsa kita di tengah dinamika dan gejolak dunia."
+  },
+  {
+   "t": 198.0,
+   "d": 15.0,
+   "text": "Dan selanjutnya kita melihat ke depan tahun ini langkah-langkah apa yang harus kita laksanakan."
+  },
+  {
+   "t": 213.0,
+   "d": 5.0,
+   "text": "sasaran-sasaran apa yang harus kita capai."
+  },
+  {
+   "t": 218.0,
+   "d": 22.0,
+   "text": "Saudara-saudara sekalian, ee kita memahami bahwa kondisi bangsa kita penuh dengan tantangan dan cobaan."
+  },
+  {
+   "t": 240.0,
+   "d": 45.0,
+   "text": "Yang terakhir tentunya kita memahami benar ee bencana-bencana yang terjadi di tiga provinsi di Aceh, tapi juga di beberapa tempat-tempat lain ya, di Jawa Barat juga di Jawa Timur, Jawa Tengah, di beberapa tempat di lain. Jadi, Saudara-saudara, kita hadapi itu dan dengan kita hadapi itu kita memahami benar bahwa ternyata negara kita sesungguhnya memiliki kekuatan."
+  },
+  {
+   "t": 285.0,
+   "d": 23.0,
+   "text": "negara kita telah mampu dan terus-menerus membuktikan kepada rakyat kita dan sesungguhnya kepada diri kita sendiri, kepada elit kita bahwa negara kesatuan Republik Indonesia punya kekuatan."
+  },
+  {
+   "t": 308.0,
+   "d": 17.0,
+   "text": "kita memahami itu dan kita terus telah membuktikan itu di tahun 2025 dan akan kita buktikan di tahun 2026 ini."
+  },
+  {
+   "t": 325.0,
+   "d": 25.0,
+   "text": "Saudara-saudara sekalian, dengan ini semua, saya ingin menggunakan kesempatan pertama di awal taklimat saya untuk menyampaikan terima kasih saya yang sedalam-dalamnya dari hati saya."
+  },
+  {
+   "t": 350.0,
+   "d": 27.0,
+   "text": "Terima kasih saya sebagai presiden, sebagai pemimpin, sebagai penerima mandat dari rakyat Indonesia sebagai boleh dikatakan nahqoda."
+  },
+  {
+   "t": 377.0,
+   "d": 30.0,
+   "text": "Saya ingin menyampaikan terima kasih kepada pembantu-pembantu saya yang paling inti, Saudara-saudara, para Menko, para menteri, para kepala badan, wakil kepala badan, pejabat-pejabat, lembaga-lembaga tinggi negara yang sangat penting."
+  },
+  {
+   "t": 407.0,
+   "d": 43.0,
+   "text": "Panglima TNI, Kapolri, Jaksa Agung Kepala BINTIAN dan fakta facts on the ground yang bisa diukur, bisa dipegang, bisa dilihat."
+  },
+  {
+   "t": 450.0,
+   "d": 20.0,
+   "text": "Dengan demikian saya menyampaikan penghargaan kepada Saudara-saudara sekalian. Tidak mungkin saya sebagai presiden bisa melaporkan hal ini kepada bangsa tanpa kerja keras."
+  },
+  {
+   "t": 470.0,
+   "d": 14.0,
+   "text": "Saudara-saudara semuanya, Saudara-saudara, walaupun mungkin tidak terlalu sering saya kumpulkan, Saudara-saudara."
+  },
+  {
+   "t": 484.0,
+   "d": 25.0,
+   "text": "Saudara-saudara telah bekerja dengan penuh inisiatif, dengan penuh pemahaman keberanian. Karena saudara-saudara, mengambil keputusan, mengambil inisiatif itu membutuhkan keberanian."
+  },
+  {
+   "t": 509.0,
+   "d": 12.0,
+   "text": "yang paling aman, paling gampang tidak berbuat apa-apa atau menunggu petunjuk."
+  },
+  {
+   "t": 521.0,
+   "d": 39.0,
+   "text": "Tetapi pemimpin sejati, pemimpin sebenarnya adalah mereka yang memahami strategi besar, memahami tujuan, memahami direktif pemimpin sehingga juga yang dipahami adalah arah besar, adalah petunjuk umum."
+  },
+  {
+   "t": 560.0,
+   "d": 7.0,
+   "text": "Bukan tiap keputusan harus menunggu petunjuk atasan."
+  },
+  {
+   "t": 567.0,
+   "d": 12.0,
+   "text": "Jadi, Saudara-saudara, apa yang kita telah capai menurut saya sangat membanggakan."
+  },
+  {
+   "t": 579.0,
+   "d": 16.0,
+   "text": "Salah satu landasan pertama dari strategi transformasi bangsa yang saya canangkan, yang saya tawarkan kepada rakyat."
+  },
+  {
+   "t": 595.0,
+   "d": 16.0,
+   "text": "Sewaktu saya dan saudara Gibran mencalonkan diri sebagai Presiden dan Wakil Presiden, kita maju ke hadapan rakyat dengan sesuatu strategi."
+  },
+  {
+   "t": 611.0,
+   "d": 12.0,
+   "text": "Strategi tertulis, strategi terukur, strategi melalui kajian puluhan tahun."
+  },
+  {
+   "t": 623.0,
+   "d": 18.0,
+   "text": "strategi yang kita yakini yang kita sebut strategi transformasi bangsa di mana esensi-esensinya adalah yang pertama bangsa Indonesia harus mandiri."
+  },
+  {
+   "t": 641.0,
+   "d": 16.0,
+   "text": "Bangsa Indonesia harus berdiri di atas kaki kita sendiri. Dan di situ elemen utamanya adalah sua sembada pangan."
+  },
+  {
+   "t": 657.0,
+   "d": 12.0,
+   "text": "Tidak ada bangsa yang merdeka bilamana bangsa itu tidak bisa menjamin makan untuk rakyatnya."
+  },
+  {
+   "t": 669.0,
+   "d": 10.0,
+   "text": "Dan awalnya adalah suasembada beras. Karena beras adalah makanan pokok kita."
+  },
+  {
+   "t": 679.0,
+   "d": 18.0,
+   "text": "Tapi yang dikatakan sasembada pangan adalah tidak hanya beras, beras, jagung, singkong dan yang lain-lain."
+  },
+  {
+   "t": 697.0,
+   "d": 7.0,
+   "text": "Swasemada pangan artinya adalah karbohidrat dan protein."
+  },
+  {
+   "t": 704.0,
+   "d": 20.0,
+   "text": "kita harus swasbada protein dan juga selain swasbada pangan, dasar selanjutnya adalah swas sembada energi."
+  },
+  {
+   "t": 724.0,
+   "d": 10.0,
+   "text": "Kalau kita tergantung dengan bangsa lain untuk energi kita, tidak mungkin kita makmur."
+  },
+  {
+   "t": 734.0,
+   "d": 6.0,
+   "text": "Tidak mungkin kita lepas dari kemiskinan."
+  },
+  {
+   "t": 740.0,
+   "d": 15.0,
+   "text": "Saudara-saudara, strategi ini ternyata dibenarkan oleh dinamika dunia."
+  },
+  {
+   "t": 755.0,
+   "d": 20.0,
+   "text": "Kita bisa bayangkan kalau kita tidak sasembada beras di tengah konflik di mana-mana, di tengah perang di mana-mana, sumber impor beras kita tadinya adalah Thailand dan Kamboja dan Vietnam."
+  },
+  {
+   "t": 775.0,
+   "d": 7.0,
+   "text": "Sekarang Thailand sama Kamboja perang terus."
+  },
+  {
+   "t": 782.0,
+   "d": 9.0,
+   "text": "Setelah perang, negosiasi, gencatan senjata damai meletus lagi."
+  },
+  {
+   "t": 791.0,
+   "d": 15.0,
+   "text": "Meletus lagi. Dalam keadaan seperti itu, bayangkan amankah kita tergantung impor dari negara yang konflik."
+  },
+  {
+   "t": 806.0,
+   "d": 8.0,
+   "text": "Salah satu sumber makanan kita juga dari India. India perang sama Pakistan."
+  },
+  {
+   "t": 814.0,
+   "d": 10.0,
+   "text": "Saudara-saudara, kita juga pernah mengalami COVID. Semua negara pengekspor makanan menutup."
+  },
+  {
+   "t": 824.0,
+   "d": 11.0,
+   "text": "Kita tidak bisa impor walaupun kita punya uang. Dan impor berarti devisa kita keluar."
+  },
+  {
+   "t": 835.0,
+   "d": 8.0,
+   "text": "Jadi, Saudara-saudara, pangan dan energi harus kita mandiri."
+  },
+  {
+   "t": 843.0,
+   "d": 2.0,
+   "text": "Harus kita mandiri."
+  },
+  {
+   "t": 845.0,
+   "d": 18.0,
+   "text": "Alhamdulillah target yang saya berikan kepada tim pangan kita saya berikan target waktu awal pemerintahan yang saya pimpin adalah 4 tahun untuk sembada pangan."
+  },
+  {
+   "t": 863.0,
+   "d": 55.0,
+   "text": "Alhamdulillah Desember 31 tahun 2025 waktu 2400 bisa kita dengan resmi mengatakan di tahun 2025 Republik Indonesia swaembada beras [tepuk tangan] Dan saya juga cukup merasa besar hati, bangga bahwa hari ini cadangan beras kita di gudang-gudang pemerintah Indonesia adalah yang tertinggi."
+  },
+  {
+   "t": 918.0,
+   "d": 6.0,
+   "text": "Selama sejarah berdirinya Republik Indonesia."
+  },
+  {
+   "t": 924.0,
+   "d": 22.0,
+   "text": "[tepuk tangan] Pernah di pemerintahan Presiden Soeharto kita di puncaknya pernah punya cadangan beras di gudang pemerintah 2 juta ton."
+  },
+  {
+   "t": 946.0,
+   "d": 31.0,
+   "text": "Hari ini cadangan beras kita di gudang pemerintah lebih dari 3 juta ton tertinggi sepanjang sejarah Republik Indonesia. Ini saya kira adalah akibat kerja keras semua unsur, Saudara-saudara sekalian."
+  },
+  {
+   "t": 977.0,
+   "d": 12.0,
+   "text": "Kita juga mencanangkan di awal pemerintahan program makan bergizi gratis."
+  },
+  {
+   "t": 989.0,
+   "d": 17.0,
+   "text": "Pertimbangannya sangat sederhana bahwa dari semua kajian rata-rata satu dari lima anak Indonesia kekurangan gizi 20%."
+  },
+  {
+   "t": 1006.0,
+   "d": 7.0,
+   "text": "Di beberapa daerah sampai 30% lebih."
+  },
+  {
+   "t": 1013.0,
+   "d": 9.0,
+   "text": "Itu yang jelas dikatakan mal nutrisi, stunting."
+  },
+  {
+   "t": 1022.0,
+   "d": 10.0,
+   "text": "Badannya sangat lemah, pertumbuhannya tidak normal."
+  },
+  {
+   "t": 1032.0,
+   "d": 16.0,
+   "text": "Kemudian ternyata puluhan juta anak-anak Indonesia berangkat sekolah tanpa makan pagi."
+  },
+  {
+   "t": 1048.0,
+   "d": 6.0,
+   "text": "Banyak juga makan mereka hanya nasi dengan daun-daun."
+  },
+  {
+   "t": 1054.0,
+   "d": 23.0,
+   "text": "Untuk itu kita telah melihat contoh-contoh banyak negara dan kita canangkan makan bergizi ini kita mulai dengan 6 pada tanggal 6 Januari 2000 25."
+  },
+  {
+   "t": 1077.0,
+   "d": 19.0,
+   "text": "Hari ini adalah 6 Januari 2026 dan kita sudah mencapai hari ini dilaporkan kepada saya 55 juta penerima manfaat. 55 juta."
+  },
+  {
+   "t": 1096.0,
+   "d": 15.0,
+   "text": "55 juta anak-anak Indonesia menerima makan tiap hari dan termasuk ibu-ibu hamil."
+  },
+  {
+   "t": 1111.0,
+   "d": 25.0,
+   "text": "Ini sesuatu yang membanggakan juga karena negara negara yang kita ketahui, contoh Brazil, Presiden Brazil menyampaikan kepada saya, mereka butuh 11 tahun untuk mencapai 40 juta penerima manfaat kita 1 tahun mencapai 55 juta."
+  },
+  {
+   "t": 1136.0,
+   "d": 13.0,
+   "text": "Manfaat penerima manfaat. [tepuk tangan] Apakah ada kekurangan? Ada."
+  },
+  {
+   "t": 1149.0,
+   "d": 7.0,
+   "text": "Dalam usaha manusia sebesar ini pasti ada kekurangan."
+  },
+  {
+   "t": 1156.0,
+   "d": 10.0,
+   "text": "Apakah ada penyimpangan pasti dalam usaha manusia sebesar ini?"
+  },
+  {
+   "t": 1166.0,
+   "d": 3.0,
+   "text": "pasti ada kekurangan dan penyimpangan."
+  },
+  {
+   "t": 1169.0,
+   "d": 21.0,
+   "text": "Tapi kita bersyukur bahwa kalau kita pelajari dengan objektif statistik boleh dikatakan bahwa kita 99,99% berhasil."
+  },
+  {
+   "t": 1190.0,
+   "d": 9.0,
+   "text": "Jadi, Saudara-saudara tentunya kita harapkan zero defect itu yang harus kita capai."
+  },
+  {
+   "t": 1199.0,
+   "d": 11.0,
+   "text": "Tidak kita puas dengan kekurangan 0,00 sekian. Itu pun bagi kita sesuatu yang harus kita atasi."
+  },
+  {
+   "t": 1210.0,
+   "d": 7.0,
+   "text": "Dan alhamdulillah kita sudah mengatasi dan kita sedang atasi terus."
+  },
+  {
+   "t": 1217.0,
+   "d": 15.0,
+   "text": "langkah demi langkah, pengawasan demi pengawasan, langkah-langkah pengamanan terus kita lakukan. Tapi intinya adalah bahwa kita intervensi."
+  },
+  {
+   "t": 1232.0,
+   "d": 6.0,
+   "text": "Saya ingat kata-kata pendahulu-pendahulu kita."
+  },
+  {
+   "t": 1238.0,
+   "d": 11.0,
+   "text": "Salah satu ucapan Bung Karno, The Hungry. Stamak cannot wait."
+  },
+  {
+   "t": 1249.0,
+   "d": 5.0,
+   "text": "Perut yang lapar tidak bisa tunggu."
+  },
+  {
+   "t": 1254.0,
+   "d": 20.0,
+   "text": "Pemimpin yang bertanggung jawab, pemimpin yang punya hati, pemimpin yang punya kepedulian harus bekerja keras untuk menghilangkan kelaparan dan kemiskinan."
+  },
+  {
+   "t": 1274.0,
+   "d": 7.0,
+   "text": "Ini tugas yang kita emban. Tugas mulia dan alhamdulillah kita penuh keyakinan."
+  },
+  {
+   "t": 1281.0,
+   "d": 2.0,
+   "text": "Kita buktikan."
+  },
+  {
+   "t": 1283.0,
+   "d": 17.0,
+   "text": "Saya sangat yakin walaupun begitu banyak pakar yang mengejek saya dan tim saya menyinir, mereka katakan MBG pasti gagal."
+  },
+  {
+   "t": 1300.0,
+   "d": 14.0,
+   "text": "Tapi kita buktikan kepada mereka MBG berhasil. MBG di nantikan oleh semua rakyat."
+  },
+  {
+   "t": 1314.0,
+   "d": 15.0,
+   "text": "Bahkan sekarang saya repot, saya sedih kalau saya ke daerah-daerah anak-anak panggil saya, teriak saya, \"Pak, kapan kami terima MBG?"
+  },
+  {
+   "t": 1329.0,
+   "d": 14.0,
+   "text": "Dan kita lihat video klip bagaimana kendaraan MBG datang rakyat menunggu menyambung."
+  },
+  {
+   "t": 1343.0,
+   "d": 17.0,
+   "text": "Ya Allah sudah ditangganti anak ini ya Allah."
+  },
+  {
+   "t": 1360.0,
+   "d": 4.0,
+   "text": "Ya Allah sedihnya ya Allah."
+  },
+  {
+   "t": 1364.0,
+   "d": 17.0,
+   "text": "Oh ya Allah. Ya Allah [musik] manusia macam mana? Mantapowo apa nak? Mantapowo."
+  },
+  {
+   "t": 1381.0,
+   "d": 9.0,
+   "text": "Enak enak enak enak. Dilan dilan."
+  },
+  {
+   "t": 1390.0,
+   "d": 11.0,
+   "text": "Terima kasih enak banget. Iya. Terima kasih."
+  },
+  {
+   "t": 1401.0,
+   "d": 17.0,
+   "text": "[tepuk tangan] Saya tidak paham manusia macam mana yang tidak tergerak hatinya melihat anak-anak seperti itu. Saya tidak paham."
+  },
+  {
+   "t": 1418.0,
+   "d": 7.0,
+   "text": "Hai orang-orang pintar, hai orang-orang pintar yang ngejek."
+  },
+  {
+   "t": 1425.0,
+   "d": 12.0,
+   "text": "Lihatlah dengan mata dan hatimu, rakyat kita, anak-anak itu, Saudara-saudara percaya kita berada di jalan yang benar."
+  },
+  {
+   "t": 1437.0,
+   "d": 15.0,
+   "text": "Di jalan membela keadilan, di jalan memberantas kemiskinan, di jalan menghilangkan kelaparan. Kita berada di jalan yang bersih, yang suci."
+  },
+  {
+   "t": 1452.0,
+   "d": 5.0,
+   "text": "Kita berada di jalan yang diridai oleh Tuhan Maha Kuasa."
+  },
+  {
+   "t": 1457.0,
+   "d": 8.0,
+   "text": "[tepuk tangan] Jangan ragu-ragu, Saudara-saudara. Kita buktikan."
+  },
+  {
+   "t": 1465.0,
+   "d": 22.0,
+   "text": "Kalau niat kita bersih, niat kita tidak mencuri uang rakyat, kita berbuat untuk kepentingan rakyat, kepentingan bangsa kita, keselamatan bangsa kita, kita tidak perlu ragu-ragu. Kita tidak perlu sedikit pun gentar."
+  },
+  {
+   "t": 1487.0,
+   "d": 6.0,
+   "text": "Dan saudara-saudara, kita pasti dimaki, kita pasti difitnah."
+  },
+  {
+   "t": 1493.0,
+   "d": 19.0,
+   "text": "Karena banyak kekuatan, tidak hanya di negara kita, banyak kekuatan memang berada di pihak yang senang di alam penuh korupsi, penuh penyelewengan, penuh penipuan."
+  },
+  {
+   "t": 1512.0,
+   "d": 14.0,
+   "text": "Mereka ingin kaya di atas penderitaan rakyat kecil. Jadi kita harus siap kalau kita dihantem, kita difitnah, kita diejek, terima itu sebagai kebanggaan."
+  },
+  {
+   "t": 1526.0,
+   "d": 7.0,
+   "text": "Kalau orang jahat mengejek kita, berarti kita benar dan kita harus terus melaksanakan dan membela kebenaran."
+  },
+  {
+   "t": 1533.0,
+   "d": 22.0,
+   "text": "[tepuk tangan] Saudara-saudara, banyak sekali yang kita akan review, tapi saya kira taklimat yang selanjutnya sebaiknya kawan-kawan media kita istirahat dulu."
+  },
+  {
+   "t": 1555.0,
+   "d": 14.0,
+   "text": "Kalau perlu mungkin ee makan dan minum kopi sambil saya memberi ee petunjuk-petunjuk yang lebih rinci."
+  },
+  {
+   "t": 1569.0,
+   "d": 12.0,
+   "text": "Jadi, ada hal-hal yang boleh terbuka, tapi ada hal-hal yang sebaiknya kita simpan dulu, Saudara-saudara."
+  },
+  {
+   "t": 1581.0,
+   "d": 5.0,
+   "text": "[tepuk tangan] Bagaimana?"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ }
+}

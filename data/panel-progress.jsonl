@@ -820,3 +820,32 @@
 {"id": "EpzTest", "status": "no_indonesian_track", "title": "", "tracks": [], "index": 1, "kind": "manual"}
 {"id": "GiMflAR6EQU", "status": "ok", "segments": 287, "chars": 14675, "duration": 2348, "is_generated": true, "title": "[FULL] Pidato Prabowo Subianto dalam Gerakan Solidaritas Nasional", "channel": "Kompas.com", "index": 1, "kind": "manual"}
 {"id": "qJlVD4IRe6E", "status": "ok", "segments": 442, "chars": 23985, "duration": 3526, "is_generated": true, "title": "[FULL] Pidato Presiden Prabowo Subianto di HUT ke-17 Partai Gerindra", "channel": "KOMPASTV GORONTALO", "index": 2, "kind": "manual"}
+{"id": "oG3unK8Gc_w", "status": "ok", "segments": 318, "chars": 16971, "duration": 2635, "is_generated": true, "title": "(FULL) Pidato Prabowo Dalam Penutupan Kongres VI Partai Demokrat | Ber", "channel": "BeritaSatu", "index": 3, "kind": "manual"}
+{"id": "BYTxQH_Q-d0", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 4, "kind": "manual"}
+{"id": "3B6xnlqilUg", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 5, "kind": "manual"}
+{"id": "qJS5c-0ZYmA", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 6, "kind": "manual"}
+{"id": "hIYZYWevhU0", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 7, "kind": "manual"}
+{"id": "MbXnE5xSMOI", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 8, "kind": "manual"}
+{"id": "5WWGecHqPzQ", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 9, "kind": "manual"}
+{"id": "dJ5CNS2bLio", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 10, "kind": "manual"}
+{"id": "vldOOnmHTpM", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 11, "kind": "manual"}
+{"id": "0OyzGkZaIk4", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 12, "kind": "manual"}
+{"id": "EpcOrAUKXsY", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 13, "kind": "manual"}
+{"id": "fscoceWY504", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 14, "kind": "manual"}
+{"id": "KHIIlTGSM4Q", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 15, "kind": "manual"}
+{"id": "6Mvi8vaetGM", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 16, "kind": "manual"}
+{"id": "HWuINKwr8BE", "status": "error", "error": "BrokenPipeError: [Errno 32] Broken pipe", "index": 17, "kind": "manual"}
+{"id": "BYTxQH_Q-d0", "status": "ok", "segments": 302, "chars": 19037, "duration": 2617, "is_generated": true, "title": "[FULL] Pidato Presiden Prabowo di HUT ke-61 Partai Golkar", "channel": "KOMPASTV GORONTALO", "index": 1, "kind": "manual"}
+{"id": "3B6xnlqilUg", "status": "ok", "segments": 175, "chars": 12211, "duration": 1420, "is_generated": true, "title": "[FULL] Pidato Pembuka Presiden Prabowo di Sidang Kabinet Paripurna", "channel": "BeritaSatu", "index": 2, "kind": "manual"}
+{"id": "qJS5c-0ZYmA", "status": "ok", "segments": 196, "chars": 10776, "duration": 1585, "is_generated": true, "title": "[FULL] Arahan Presiden Prabowo pada Retret Kedua Kabinet Merah Putih #", "channel": "BeritaSatu", "index": 3, "kind": "manual"}
+{"id": "hIYZYWevhU0", "status": "ok", "segments": 159, "chars": 10314, "duration": 1290, "is_generated": true, "title": "[FULL] Pidato Presiden Prabowo di Istiqlal, Singgung Kelompok Garong I", "channel": "KOMPASTV", "index": 4, "kind": "manual"}
+{"id": "MbXnE5xSMOI", "status": "ok", "segments": 236, "chars": 14340, "duration": 1997, "is_generated": true, "title": "FULL-Pidato Berapi-api Presiden Prabowo di Harlah 1 Abad NU", "channel": "KOMPAS TV MALANG", "index": 5, "kind": "manual"}
+{"id": "5WWGecHqPzQ", "status": "ok", "segments": 368, "chars": 24380, "duration": 2924, "is_generated": true, "title": "[FULL] PIDATO PRESIDEN PRABOWO DI INDONESIA ECONOMIC OUTLOOK 2026", "channel": "METRO TV", "index": 6, "kind": "manual"}
+{"id": "dJ5CNS2bLio", "status": "no_indonesian_track", "title": "[FULL] Pidato Prabowo di Forum Kerja Sama Jepang-Indonesia, Dorong Iklim Investasi Kompetitif", "tracks": [{"code": "en", "name": "English (auto-generated)", "generated": true}], "index": 7, "kind": "manual"}
+{"id": "vldOOnmHTpM", "status": "ok", "segments": 414, "chars": 25557, "duration": 3346, "is_generated": true, "title": "[FULL] PRESIDEN PRABOWO BERI ARAHAN RAKER PEMERINTAH, SINGGUNG SIFAT K", "channel": "METRO TV", "index": 8, "kind": "manual"}
+{"id": "0OyzGkZaIk4", "status": "ok", "segments": 347, "chars": 18848, "duration": 2828, "is_generated": true, "title": "[FULL] PIDATO PRABOWO DI HARLAH KE-28 PKB, SINGGUNG KEBOCORAN NEGARA 3", "channel": "METRO TV", "index": 9, "kind": "manual"}
+{"id": "EpcOrAUKXsY", "status": "no_indonesian_track", "title": "[FULL] Pidato Prabowo di Sesi Terbuka KTT BRICS 2026 India: Singgung Cincin Api & Tatanan Global", "tracks": [{"code": "en", "name": "English (auto-generated)", "generated": true}], "index": 10, "kind": "manual"}
+{"id": "fscoceWY504", "status": "no_indonesian_track", "title": "[FULL] Pernyataan Presiden Prabowo dalam Sesi Terbatas KTT BRICS", "tracks": [{"code": "en", "name": "English (auto-generated)", "generated": true}], "index": 11, "kind": "manual"}
+{"id": "KHIIlTGSM4Q", "status": "ok", "segments": 120, "chars": 7432, "duration": 920, "is_generated": true, "title": "[FULL] Pidato Prabowo di Peresmian LRT Jalur Kelapa Gading-Manggarai |", "channel": "Official iNews", "index": 12, "kind": "manual"}
+{"id": "6Mvi8vaetGM", "status": "ok", "segments": 747, "chars": 43699, "duration": 6043, "is_generated": true, "title": "🔴FULL Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna Perdan", "channel": "Tribun Jateng", "index": 13, "kind": "manual"}
+{"id": "HWuINKwr8BE", "status": "ok", "segments": 195, "chars": 11892, "duration": 1685, "is_generated": true, "title": "[FULL] Pidato Presiden Prabowo Buka Mukhtamar ke-35 Nahdlatul Ulama, J", "channel": "METRO TV", "index": 14, "kind": "manual"}

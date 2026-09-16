@@ -1,0 +1,487 @@
+{
+ "id": "2025-01-01-pembuka-di-sidang-kabinet-paripurna",
+ "video_id": "3B6xnlqilUg",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "[FULL] Pidato Pembuka Presiden Prabowo di Sidang Kabinet Paripurna",
+ "channel": "BeritaSatu",
+ "youtube_url": "https://www.youtube.com/watch?v=3B6xnlqilUg",
+ "duration_s": 1406,
+ "duration_hms": "23:26",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 175,
+ "token_count": 1813,
+ "unique_word_count": 615,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "3B6xnlqilUg",
+   "url": "https://www.youtube.com/watch?v=3B6xnlqilUg",
+   "title": "[FULL] Pidato Pembuka Presiden Prabowo di Sidang Kabinet Paripurna",
+   "channel": "BeritaSatu",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 5,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 7,
+  "tata_kelola": 21,
+  "pertahanan_dan_keamanan": 9,
+  "nasional_dan_identitas": 27
+ },
+ "policy_signals": {
+  "Korupsi dan kebocoran": {
+   "count": 2
+  },
+  "Bencana dan penanganan": {
+   "count": 16
+  }
+ },
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 1.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 5.0,
+   "d": 4.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 9.0,
+   "d": 8.0,
+   "text": "Selamat sore. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu."
+  },
+  {
+   "t": 17.0,
+   "d": 3.0,
+   "text": "Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 20.0,
+   "d": 52.0,
+   "text": "Yang saya hormati dan yang saya banggakan Wakil Presiden, Saudara Gibran Rakabumi Ngeraka, para Menteri Koordinator, para menteri, para kepala badan, ketua Dewan Ekonomi Nasional, para penasihat khusus Presiden, Jaksa Agung, Kepala BIN Kapolri, Panglima TNI dan semua kepala staf yang saya hormati, para staf angkatan, para wakil menteri yang hadir, wakil kepala badan dan seluruh anggota kabinet merah putih yang saya hormati."
+  },
+  {
+   "t": 72.0,
+   "d": 48.0,
+   "text": "tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Besar, bagi umat Islam, Allah Subhanahu wa taala yang memiliki sekalian alam atas segala karunia, atas segala kesehatan, kedamaian yang masih diberikan kepada kita sehingga kita dapat berkumpul pada sore hari ini melaksanakan ee sidang kabinet paripurna menghadapi pengujung tahun 2025 ini."
+  },
+  {
+   "t": 120.0,
+   "d": 28.0,
+   "text": "Kita tentunya selalu sadar dan ingat saudara-saudara kita di beberapa daerah di Aceh, Sumatera Utara terutama dan Sumatera Barat ya baru saja mengalami bencana banjir dan tanah longsor dan sebelumnya juga ada beapa daerah."
+  },
+  {
+   "t": 148.0,
+   "d": 24.0,
+   "text": "Kita berdoa saudara-saudara kita segera bisa pulih dan ee kita bekerja keras untuk ee memulihkan keadaan sehingga rekonstruksi dan rehabilitasi bisa segera dimulai."
+  },
+  {
+   "t": 172.0,
+   "d": 69.0,
+   "text": "Saudara-saudara sekalian, ee keadaan bencana ini saya kira sekarang merupakan suatu keadaan yang harus kita hadapi dengan penuh kewaspadaan. Karena memang masalah perubahan cuaca, climate change yang mempengaruhi lingkungan hidup kita menjadi masalah global, masalah planet sehingga membuat kita harus semakin kuat, semakin tegar, semakin waspada menghadapi keadaan bencana yang baru saja terjadi dan yang sedang kita atasi bersama."
+  },
+  {
+   "t": 241.0,
+   "d": 45.0,
+   "text": "Pertama-tama tentunya saya sudah menyampaikan ke rakyat yang terdampak. Saya sudah ke sana beberapa kali ke Aceh saya sudah tiga kali ke Sumatera Utara dua kali ke Sumatera Barat kali. Ee rencananya saya akan segera ke sana lagi. Ee saya merencanakan ee minimal seminggu sekali akan saya lihat daerah itu untuk ee memantau perkembangan."
+  },
+  {
+   "t": 286.0,
+   "d": 32.0,
+   "text": "ee tadi ee video tadi memang saya minta ditayangkan, tapi saya ee tadi saya tidak mengerti bahwa terlalu banyak yang ucapkan terima kasih kepada saya. Saya kira ee tolong disampaikan bahwa itu sesungguhnya bukan hasil saya. Itu adalah hasil kerja sama kita semua, terutama mereka-mereka yang di lapangan, mereka yang bekerja keras berminggu-minggu. mereka yang juga mempertaruhkan nyawa."
+  },
+  {
+   "t": 318.0,
+   "d": 41.0,
+   "text": "Ada juga ee anggota kita yang kehilangan nyawa dalam rangka membantu rakyat yang terdampak. Jadi saya kira nanti mohon disampaikan ya, saya juga akan sampaikan langsung ee ya rakyat kita sederhana ya kan kalau pemerintah pusat sudah hadir atau ee elemen dari pemerintah pusat hadir pasti mereka tahunya ini ee Bapak Prabowo, Bapak Presiden. Saya kira ya itu wajar rakyat berpikir seperti itu."
+  },
+  {
+   "t": 359.0,
+   "d": 33.0,
+   "text": "Sebaliknya kalau enggak ada yang beres ya Bapak Presiden juga yang tanggung jawab. Jadi ya itu risiko seorang pemimpin. Terima kasih. Jadi saya bersyukur saya punya saudara-saudara yang telah bekerja keras sehingga rakyat berterima kasih kepada saya. Tapi saya anggap terima kasihnya ke saya itu adalah terima kasih kepada kita semua tim kita, pemerintah pusat, pemerintah daerah, semua pemerintah."
+  },
+  {
+   "t": 392.0,
+   "d": 18.0,
+   "text": "Kecuali ya di sana sini ada bupati-bupati mungkin ya satu orang ya yang ya menurut saya kurang kurang loyal kepada rakyatlah di saat kritis ninggalin tempat."
+  },
+  {
+   "t": 410.0,
+   "d": 8.0,
+   "text": "dengan segala alasannya ya."
+  },
+  {
+   "t": 418.0,
+   "d": 6.0,
+   "text": "Ee tapi yang lain saya lihat tegar tabah."
+  },
+  {
+   "t": 424.0,
+   "d": 16.0,
+   "text": "Jadi saya ingin ucapkan terima kasih kepada semua petugas di lapangan ya. semua lapisan. Saya lihat dari yang tertinggi, para menteri, para wakil menteri, para kepala badan."
+  },
+  {
+   "t": 440.0,
+   "d": 10.0,
+   "text": "Saya lihat di lapangan, saya lihat di rout-dirut perusahaan-perusahaan yang penting ada di lapangan."
+  },
+  {
+   "t": 450.0,
+   "d": 12.0,
+   "text": "Dirut Pertamina, Dirut PLN, PU ada kerja keras, kesehatan, semua saya lihat hampir semua."
+  },
+  {
+   "t": 462.0,
+   "d": 4.0,
+   "text": "KL hadir di situ. Terima kasih."
+  },
+  {
+   "t": 466.0,
+   "d": 22.0,
+   "text": "Sebaliknya juga saya mohon jangan pejabat-pejabat, tokoh-tokoh datang ke daerah bencana hanya untuk ee foto-foto dan untuk dianggap ee hadir. Ya, mohon sebaliknya. Kita tidak mau ada budaya wisata bencana."
+  },
+  {
+   "t": 488.0,
+   "d": 16.0,
+   "text": "Jangan. Kalau datang benar-benar harus ada tujuan untuk membantu mengatasi masalah. Saya kira kalau unsur pimpinan datang yang punya tugas dan portofolio ke situ."
+  },
+  {
+   "t": 504.0,
+   "d": 14.0,
+   "text": "Mohon ini saya lihat ada kecenderungan ee wisata bencana ini tidak bagus ya. Rakyat di situ jangan dijadikan objek."
+  },
+  {
+   "t": 518.0,
+   "d": 8.0,
+   "text": "Kita datang ke situ untuk benar-benar ingin mencari masalah, melihat kesulitan dan bertindak."
+  },
+  {
+   "t": 526.0,
+   "d": 7.0,
+   "text": "Kita lihat di sini kurang air bersih apa tindakannya?"
+  },
+  {
+   "t": 533.0,
+   "d": 12.0,
+   "text": "Di situ kurang BBM masih terisolasi bagaimana tindakannya dan sebagainya."
+  },
+  {
+   "t": 545.0,
+   "d": 27.0,
+   "text": "Saya lihat terutama TNI, Polri, BNPB, Basarnas, Tim SAR gabungan. Ya, tadi saya sudah sebut saya lihat pegawai Pertamina, PLN di mana-mana, PU di mana-mana di tempat yang sulit."
+  },
+  {
+   "t": 572.0,
+   "d": 12.0,
+   "text": "relawan warga masyarakat bahu-membahu membantu proses evakuasi penyaluran bantuan dan pemulihan akses di sana."
+  },
+  {
+   "t": 584.0,
+   "d": 36.0,
+   "text": "kita semua satu tim dan saya terima kasih dalam keadaan yang sulit ada kecenderungan manusia dan juga bangsa kita ini saya lihat ya terutama sebagian elit-elit kita ada kecenderungan mau ee cari kambing hitam, mau cari kesalahan. Ini bukan saat untuk kita cari kesalahan. ini untuk kita bekerja keras bahu-membahu mengatasi masalah di lapangan."
+  },
+  {
+   "t": 620.0,
+   "d": 19.0,
+   "text": "Saya setelah beberapa kali ke situ saya melihat ee saya sudah sangat terima kasih. Saya melihat kita bekerja sebagai satu tim di awal-awal saya merasa saudara-saudara bertindak dengan benar, dengan cepat."
+  },
+  {
+   "t": 639.0,
+   "d": 5.0,
+   "text": "Saya tidak perlu kasih pengarahan detail. Saudara sudah bergerak."
+  },
+  {
+   "t": 644.0,
+   "d": 5.0,
+   "text": "Saya senang di eslon pelaksana."
+  },
+  {
+   "t": 649.0,
+   "d": 9.0,
+   "text": "Saya dengar juga di TNI sudah berjalan cukup lama bahwa bencana itu perintah operasi."
+  },
+  {
+   "t": 658.0,
+   "d": 10.0,
+   "text": "Jadi tidak usah tunggu terlalu banyak petunjuk di saat-saat pertama. Jadi bencana kejadian itu sudah perintah operasi."
+  },
+  {
+   "t": 668.0,
+   "d": 3.0,
+   "text": "Tidak perlu tunggu radiogram."
+  },
+  {
+   "t": 671.0,
+   "d": 9.0,
+   "text": "tidak perlu tunggu terlalu banyak berinisi dan ini saya lihat sudah dilaksanakan oleh semua lembaga. Saya terima kasih."
+  },
+  {
+   "t": 680.0,
+   "d": 5.0,
+   "text": "Saya terima kasih sama saudara-saudara dari semua pihak."
+  },
+  {
+   "t": 685.0,
+   "d": 45.0,
+   "text": "Sekali lagi saya minta kita waspada ke depan karena justru ee di saat ini ada kecenderungan segelintir ee masyarakat terutama mungkin yang punya motivasi politik atau bahkan saya terusang aja melihat ada mungkin pihak-pihak kekuatan-kekuatan luar yang dari dulu selalu ee saya tidak mengerti, tidak suka sama Indonesia, tidak suka Indonesia kuat, Indonesia mantap gitu."
+  },
+  {
+   "t": 730.0,
+   "d": 22.0,
+   "text": "ee dalam rangka ini di tengah bencana, di tingjolkan adalah kebohongan, ketidakbenaran."
+  },
+  {
+   "t": 752.0,
+   "d": 17.0,
+   "text": "dikatakan pemerintah tidak hadir puluhan ribu dalam dalam saat-saat yang pertama sudah dikerahkan ke situ. Kita lihat buktinya."
+  },
+  {
+   "t": 769.0,
+   "d": 15.0,
+   "text": "Saya lihat sekarang ini mungkin ada pihak yang khawatir karena rakyat baru baru sekarang lihat pemerintah Indonesia ini ternyata kuat."
+  },
+  {
+   "t": 784.0,
+   "d": 16.0,
+   "text": "TNI kuat Polri kuat BNPB kuat Basaras kuat mampu kita kerahkan puluhan helikopter dalam waktu singkat. belasan pesawat terbang."
+  },
+  {
+   "t": 800.0,
+   "d": 7.0,
+   "text": "Ada tempat-tempat yang tiap hari BBM diantar dengan pesawat terbang dengan Herkules."
+  },
+  {
+   "t": 807.0,
+   "d": 4.0,
+   "text": "Ini hanya bisa oleh negara yang kuat."
+  },
+  {
+   "t": 811.0,
+   "d": 27.0,
+   "text": "Ada desa-desa yang tiap hari yang sekarang masih belum tembus. Saya kira nanti mungkin ada laporan dari BNP bilang ee tiap hari didatangi oleh helikopter di tengah cuaca yang di gunung-gunung itu ya masih ee penuh kabut, hujan juga masih sering turun cepat. Saya baru dari situ, saya dari Takengon."
+  },
+  {
+   "t": 838.0,
+   "d": 9.0,
+   "text": "Saya dari benar meriah, saya lihat kondisinya tidak gampang ya kan?"
+  },
+  {
+   "t": 847.0,
+   "d": 23.0,
+   "text": "Ketinggian 1800, ketinggian 2.000 kabut itu jadi penerbang-penerbang kita terbang tiap hari ini adalah suatu ee suatu hal yang perlu kita ee banggakan."
+  },
+  {
+   "t": 870.0,
+   "d": 19.0,
+   "text": "Saya terus sengaja saya sebagai presiden di Indonesia saya bangga lihat aparat-aparat kita di setiap tingkatan berada di tengah rakyat."
+  },
+  {
+   "t": 889.0,
+   "d": 11.0,
+   "text": "Ya, jadi semua mengerahkan tanpa terlalu banyak minta perintah dari saya berinisiatif."
+  },
+  {
+   "t": 900.0,
+   "d": 18.0,
+   "text": "Saya terima kasih para pimpinan Panglima TNI, Kapoli, para kepala staf, semua yang hadir dan mengambil tindakan atas inisiatif sendiri."
+  },
+  {
+   "t": 918.0,
+   "d": 23.0,
+   "text": "Sehingga saya ditelepon, banyak pimpinan kepala negara ingin kirim bantuan. Saya bilang terima kasih konsern Anda. Kami mampu, Indonesia mampu mengatasi ini. Ya, ada yang teriak-teriak ingin ini dinyatakan bencana nasional."
+  },
+  {
+   "t": 941.0,
+   "d": 6.0,
+   "text": "Kita sudah kerahkan ini tiga provinsi dari 38 provinsi."
+  },
+  {
+   "t": 947.0,
+   "d": 7.0,
+   "text": "Jadi ee situasi terkendali, saya monitor terus ya."
+  },
+  {
+   "t": 954.0,
+   "d": 17.0,
+   "text": "ee dan kita sudah merencanakan segera akan kita bentuk apakah kita namakan badan atau satgas rehabilitasi dan rekonstruksi."
+  },
+  {
+   "t": 971.0,
+   "d": 7.0,
+   "text": "Segera kita akan bangun hunian-hunian sementara dan hunian-hunian tetap."
+  },
+  {
+   "t": 978.0,
+   "d": 14.0,
+   "text": "Ee bahkan mungkin ee saya dapat laporan dari Menteri Perumahan ya, mungkin mulai hari Minggu ini kita sudah mulai membangun 2000 rumah."
+  },
+  {
+   "t": 992.0,
+   "d": 11.0,
+   "text": "Kemungkinan rumah ini bisa langsung aja jadi rumah tetap ya. Ee jadi semua unsur juga nanti bekerja sama ya. Ee jangan ada alasan cari lahan dan sebagainya."
+  },
+  {
+   "t": 1003.0,
+   "d": 6.0,
+   "text": "Pakai lahan milik negara yang ada."
+  },
+  {
+   "t": 1009.0,
+   "d": 11.0,
+   "text": "Kalau perlu PTPN, kalau perlu konsesi-konsesi hutan itu kita pakai semua."
+  },
+  {
+   "t": 1020.0,
+   "d": 12.0,
+   "text": "Jadi sekarang ini saatnya terus kita ee ee bekerja sangat keras."
+  },
+  {
+   "t": 1032.0,
+   "d": 5.0,
+   "text": "Anggaran APBN sudah kita siapkan."
+  },
+  {
+   "t": 1037.0,
+   "d": 28.0,
+   "text": "Dan saya katakan bahwa ee anggaran ini kita siapkan karena memang uangnya ada dan uangnya ada karena justru pemerintah kita yang saya pimpin di awal pemerintah kita, kita menghemat ratusan triliun yang saya diserang, saya dimaki-maki bahwa efisiensi ini salah."
+  },
+  {
+   "t": 1065.0,
+   "d": 6.0,
+   "text": "Baru ada di dunia ini ada demonstrasi menentang efisiensi."
+  },
+  {
+   "t": 1071.0,
+   "d": 11.0,
+   "text": "Padahal efisiensi itu ada di pasal 33 Undang-Undang Dasar 45, Saudara-saudara. Ayat 4."
+  },
+  {
+   "t": 1082.0,
+   "d": 12.0,
+   "text": "Ya, justru karena kita laksanakan efisiensi, kita kurangi semua kemungkinan korupsi, kebocoran. Kita punya uang sekarang."
+  },
+  {
+   "t": 1094.0,
+   "d": 22.0,
+   "text": "di akhir minggu-minggu terakhir bulan ee tahun ini kita punya uang itu. Coba perekonomian nasional diselenggarakan berdasar atas azas demokrasi ekonomi dengan prinsip kebersamaan efisiensi berkeadilan."
+  },
+  {
+   "t": 1116.0,
+   "d": 11.0,
+   "text": "Tapi ada yang menggerakkan menentang efisiensi. dengan efisiensi kita punya kemampuan, kita punya kekuatan sekarang."
+  },
+  {
+   "t": 1127.0,
+   "d": 7.0,
+   "text": "Jadi, Saudara-saudara kita sudah siap. Terima kasih kita sudah siapkan."
+  },
+  {
+   "t": 1134.0,
+   "d": 31.0,
+   "text": "Kemudian semua gubernur yang berdampak langsung saya perintahkan mengirim dana operasional taktis 20 miliar. semua bupati walikota di 52 kabupaten kota yang terdampak langsung saya kirim Rp4 miliar dan ini sudah langsung dan sudah diterima di luar anggaran pemulihan."
+  },
+  {
+   "t": 1165.0,
+   "d": 7.0,
+   "text": "3 hari setelah instruksi saya, uang sudah sampai di semua kabupaten. Mendagri apa benar begitu?"
+  },
+  {
+   "t": 1172.0,
+   "d": 5.0,
+   "text": "Betul. Iya. Sudah sampai semua."
+  },
+  {
+   "t": 1177.0,
+   "d": 8.0,
+   "text": "Ini sangat penting karena bupati-bupati bisa mengambil tindakan segera."
+  },
+  {
+   "t": 1185.0,
+   "d": 9.0,
+   "text": "Kita sudah mengerahkan lebih dari 50.000 TNI dan Polri."
+  },
+  {
+   "t": 1194.0,
+   "d": 2.0,
+   "text": "50.000."
+  },
+  {
+   "t": 1196.0,
+   "d": 10.0,
+   "text": "Itu setingkat 50 batalyon sudah dikerahkan di di daerah berdampak. Kalau dibilang negara tidak hadir, hah yah."
+  },
+  {
+   "t": 1206.0,
+   "d": 31.0,
+   "text": "kita waspada saja ya unsur-unsur yang memang ya punya agenda-agenda lain. Kita sudah kerahkan sekarang lebih dari 60 helikopter dan belasan pesawat yang terbang tiap hari Medan ke lokasi-lokasi Halim ke provinsi-provesi tersebut."
+  },
+  {
+   "t": 1237.0,
+   "d": 14.0,
+   "text": "Saya sudah perintahkan Menteri Perumahan dan Kawasan Pemikuman bersama Menteri PU pembangunan hunian segera dilakukan dan dua 2000 rumah segera akan mulai dibangun."
+  },
+  {
+   "t": 1251.0,
+   "d": 8.0,
+   "text": "1000 alat berat sudah dikirim antara lain truk ekskavator, tangki air bersih dan minum."
+  },
+  {
+   "t": 1259.0,
+   "d": 11.0,
+   "text": "Kemarin kita juga tambahkan lagi alat berat, truk air minum, persediaan air bersih, serta toilet-toilet portable."
+  },
+  {
+   "t": 1270.0,
+   "d": 8.0,
+   "text": "50 jembatan sedang kita kerjakan. Tujuh tadi sudah jadi."
+  },
+  {
+   "t": 1278.0,
+   "d": 11.0,
+   "text": "Akses jalan darat sebagian besar telah pulih. Memang ada wilayah-wilayah tertentu yang masih terisolasi."
+  },
+  {
+   "t": 1289.0,
+   "d": 7.0,
+   "text": "Ini masalah alam dan fisika."
+  },
+  {
+   "t": 1296.0,
+   "d": 8.0,
+   "text": "Saya telah minta maaf. Saya tidak punya tongkat Nabi Musa. Kita tidak bisa selesaikan dalam 3 hari, 4 hari, 5 hari."
+  },
+  {
+   "t": 1304.0,
+   "d": 43.0,
+   "text": "Mungkin mungkin 2 3 bulan aktivitas akan benar-benar normal. Tapi syukur alhamdulillah ee sebagian sudah ee masalah listrik sebagian besar sudah menyala. Masih ada beberapa yang harus kita percepat. Masih ada beberapa yang berbahaya karena kabel-kabel kalau liwat air yang masih banjir itu berbahaya. ini bisa mengakibatkan korban nyawa kalau tidak hati-hati. Jadi, PU itu PLN bekerja dengan sangat sangat ee"
+  },
+  {
+   "t": 1347.0,
+   "d": 12.0,
+   "text": "menghadapi kondisi yang sangat menantang dan mereka sudah di situ sudah belasan hari."
+  },
+  {
+   "t": 1359.0,
+   "d": 7.0,
+   "text": "tadi Menteri Kesehatan nanti juga bisa laporan pihak Menteri, Saudara-saudara."
+  },
+  {
+   "t": 1366.0,
+   "d": 44.0,
+   "text": "Ee sementara itu sekarang saya persilakan para menteri untuk ee menyampaikan laporan masing-masing. Tentunya nanti Kepala BMKG juga akan menyampaikan bahwa ee sudah banyak warning juga dari PBB. beberapa daerah di ee kawasan kita memang ee menghadapi beberapa kondisi perubahan cuaca yang ee yang harus kita waspadai. Ee silakan saya persilakan sekretaris kabinet untuk mempersilakan para menteri yang ingin menyampaikan laporan."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ }
+}

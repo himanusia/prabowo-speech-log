@@ -1,0 +1,1095 @@
+{
+ "id": "2025-01-01-di-hut-ke-61-partai-golkar",
+ "video_id": "BYTxQH_Q-d0",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "[FULL] Pidato Presiden Prabowo di HUT ke-61 Partai Golkar",
+ "channel": "KOMPASTV GORONTALO",
+ "youtube_url": "https://www.youtube.com/watch?v=BYTxQH_Q-d0",
+ "duration_s": 2596,
+ "duration_hms": "43:16",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 302,
+ "token_count": 2812,
+ "unique_word_count": 893,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "BYTxQH_Q-d0",
+   "url": "https://www.youtube.com/watch?v=BYTxQH_Q-d0",
+   "title": "[FULL] Pidato Presiden Prabowo di HUT ke-61 Partai Golkar",
+   "channel": "KOMPASTV GORONTALO",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 1,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 10,
+  "tata_kelola": 10,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 85
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 1
+  },
+  "Bencana dan penanganan": {
+   "count": 7
+  }
+ },
+ "transcript": [
+  {
+   "t": 12.0,
+   "d": 2.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 14.0,
+   "d": 3.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 17.0,
+   "d": 6.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 23.0,
+   "d": 8.0,
+   "text": "Selamat malam. Salam sejahtera bagi kita sekalian. Shalom. Salve om swastiastu."
+  },
+  {
+   "t": 31.0,
+   "d": 12.0,
+   "text": "Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 43.0,
+   "d": 19.0,
+   "text": "Yang saya hormati dan saya banggakan Wakil Presiden Republik Indonesia, Saudara Gibran Rakaboming Raka."
+  },
+  {
+   "t": 62.0,
+   "d": 13.0,
+   "text": "Ketua Majelis Permusatan Rakyat di Buk Indonesia, Saudara Ahmad Muzani beserta wakil ketua MPRI yang hadir."
+  },
+  {
+   "t": 75.0,
+   "d": 13.0,
+   "text": "Yang saya hormati, saya banggakan Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudara Puan Maharani beserta Wakil Ketua MPRI yang hadir."
+  },
+  {
+   "t": 88.0,
+   "d": 50.0,
+   "text": "Yang saya hormati Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Najudin beserta para wakil ketua DPD RI yang hadir, tentunya tuan rumah, Ketua Umum Partai Golongan Karya, Saudara Bahlil Lahad Dalia beserta seluruh jajaran pimpinan DPP Partai Gulkar DPD di satu Partai Golkar DPD2 Partai Golkar di mana pun Saudara-saudara berada yang hadir di sini maupun yang hadir melalui Zoom."
+  },
+  {
+   "t": 138.0,
+   "d": 15.0,
+   "text": "Para Menteri, koordinator, para Menteri, Kepala Badan, para wakil menteri, serta seluruh anggota kabinet merah putih yang hadir."
+  },
+  {
+   "t": 153.0,
+   "d": 12.0,
+   "text": "daftar terlampir."
+  },
+  {
+   "t": 165.0,
+   "d": 4.0,
+   "text": "Sambil absen saya sebut satu-satu."
+  },
+  {
+   "t": 169.0,
+   "d": 12.0,
+   "text": "Menko Politik Keamanan Jenderal TNI Purnirwan Jamari Caniago, Menteri Sekretaris Negara, Saudara Prasetio Hadi."
+  },
+  {
+   "t": 181.0,
+   "d": 13.0,
+   "text": "Menteri Dalam Negeri Jenderal Polisi Peniran Tito Karnavian saya kira berada di posco bencana."
+  },
+  {
+   "t": 194.0,
+   "d": 22.0,
+   "text": "Menteri Luar Negeri, Saudara Sugiono, Menteri Hukum, Saudara Supratman Andi Atgas, Menteri Hak Azazi Manusia atau enggak usah sebut ya, nanti ketahuan yang enggak hadir ini."
+  },
+  {
+   "t": 216.0,
+   "d": 6.0,
+   "text": "Ya sudah."
+  },
+  {
+   "t": 222.0,
+   "d": 9.0,
+   "text": "Tapi tadi yang baca doa saya sangat terkesan."
+  },
+  {
+   "t": 231.0,
+   "d": 8.0,
+   "text": "Saudara Nusron Wahid, Menteri Agraria dan Tata Ruang."
+  },
+  {
+   "t": 239.0,
+   "d": 9.0,
+   "text": "Hebat kali kau baca doa itu."
+  },
+  {
+   "t": 248.0,
+   "d": 18.0,
+   "text": "Mungkin salah jabatan kali ya, mungkin di apa pindah menteri agama gitu kan."
+  },
+  {
+   "t": 266.0,
+   "d": 8.0,
+   "text": "Ketua Majelis Ulama Indonesia yang saya hormati, saya banggakan, Bapak K. H. Anwar Iskandar."
+  },
+  {
+   "t": 274.0,
+   "d": 10.0,
+   "text": "Kemudian para ketua umum partai politik yang hadir malam hari ini."
+  },
+  {
+   "t": 284.0,
+   "d": 18.0,
+   "text": "Yang dan yang mewakili ada Partai PDIP, PAN Demokrat, Nasdem, Partai Gerakan Indonesia Raya, Gerindra banyak yang hadir di sini."
+  },
+  {
+   "t": 302.0,
+   "d": 8.0,
+   "text": "Banyak alumni Golkar juga soalnya."
+  },
+  {
+   "t": 310.0,
+   "d": 15.0,
+   "text": "Ketua Partai Keadilan Sejahtera, Ketua Umum Saudara Almuzamil Yusuf. Yang saya hormati Ketua Partai Solidaritas Indonesia, Saudara Kaisang Pangarep."
+  },
+  {
+   "t": 325.0,
+   "d": 12.0,
+   "text": "yang saya hormati."
+  },
+  {
+   "t": 337.0,
+   "d": 9.0,
+   "text": "Kok lebih ramai dari abangnya ini ya?"
+  },
+  {
+   "t": 346.0,
+   "d": 11.0,
+   "text": "Mungkin badannya lebih besar."
+  },
+  {
+   "t": 357.0,
+   "d": 12.0,
+   "text": "Ganteng lagi. He ini emak-emak senangnya ganteng-ganteng."
+  },
+  {
+   "t": 369.0,
+   "d": 10.0,
+   "text": "Nanti saya saya sebut saya skap teriak lagi saudara-saudara."
+  },
+  {
+   "t": 379.0,
+   "d": 39.0,
+   "text": "Ketua Umum Partai Persatuan Pembangunan, Saudara Mardiono. Yang saya hormati, Saudara-saudara sekalian, saya tidak sebut satu-satu tanpa mengurangi rasa hormat saya. Ya, Saudara-saudara sekalian, sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Kuasa, maha besar bagi umat Islam, Allah Subhanahu wa taala."
+  },
+  {
+   "t": 418.0,
+   "d": 6.0,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita meminta pertolongan."
+  },
+  {
+   "t": 424.0,
+   "d": 4.0,
+   "text": "Kita bersyukur atas segala karunia yang diberikan."
+  },
+  {
+   "t": 428.0,
+   "d": 29.0,
+   "text": "atas rezeki dan kesehatan yang masih kita alami sehingga kita dapat berkumpul malam hari ini di acara doa untuk bangsa dalam rangka puncak hari ulang tahun ke-61 Partai Golongan Karya dengan tema merajut kebersamaan membangun Indonesia maju."
+  },
+  {
+   "t": 457.0,
+   "d": 23.0,
+   "text": "Saya kira acara ini sangat baik, dilaksanakan dengan sederhana tapi dengan penuh hikmat di tempat yang bersejarah ini."
+  },
+  {
+   "t": 480.0,
+   "d": 6.0,
+   "text": "Saudara-saudara sekalian."
+  },
+  {
+   "t": 486.0,
+   "d": 15.0,
+   "text": "Kita berkumpul di saat ee sebagian saudara-saudara kita di Aceh, Sumatera Utara, dan Sumatera Barat sedang mengalami musibah."
+  },
+  {
+   "t": 501.0,
+   "d": 22.0,
+   "text": "Saudara-saudara sekalian, musibah ini sesuatu yang memang kita rasakan penderitaan, kesulitan, tantangan daripada saudara-saudara kita di situ."
+  },
+  {
+   "t": 523.0,
+   "d": 17.0,
+   "text": "Namun di lain pihak kita juga menyadari bahwa bangsa kita, negara kita ternyata adalah negara yang besar dan yang kuat."
+  },
+  {
+   "t": 540.0,
+   "d": 11.0,
+   "text": "Kita mengalami cobaan-cobaan, kita mengalami badai, kita mengalami bencana dari bangsa kita."
+  },
+  {
+   "t": 551.0,
+   "d": 9.0,
+   "text": "kuat utuh dan bangsa kita mampu mengatasi semua cobaan yang kita hadapi."
+  },
+  {
+   "t": 560.0,
+   "d": 18.0,
+   "text": "Kita buktikan rakyat melihat reaksi pemerintah cepat, reaksi pemerintah mengatasi masalah."
+  },
+  {
+   "t": 578.0,
+   "d": 18.0,
+   "text": "Kita sudah buktikan sekarang rakyat melihat ada musibah di bagian dari wilayah tanah air kita, tapi alat-alat negara segera hadir."
+  },
+  {
+   "t": 596.0,
+   "d": 26.0,
+   "text": "mungkin beberapa bulan, berapa tahun yang lalu tidak ada yang bisa memperkirakan bahwa negara kita mampu mengerahkan 50 helikopter. 50 helikopter sekarang sedang sedang bergerak di daerah musibah."
+  },
+  {
+   "t": 622.0,
+   "d": 11.0,
+   "text": "Minggu ini helikopter baru datang, lima buah helikopter minggu ini dan terus berdatangan."
+  },
+  {
+   "t": 633.0,
+   "d": 17.0,
+   "text": "Dan saya sudah perintahkan mulai Januari tahun depan dan seterusnya kita akan datangkan 200 helikopter di Republik Indonesia ini."
+  },
+  {
+   "t": 650.0,
+   "d": 8.0,
+   "text": "Beberapa bulan yang lalu kita datangkan lima Hercules terbaru C130J."
+  },
+  {
+   "t": 658.0,
+   "d": 6.0,
+   "text": "Berapa minggu lalu kita datangkan Airbas A400?"
+  },
+  {
+   "t": 664.0,
+   "d": 34.0,
+   "text": "Ada ada memang bagian dari rakyat kita, terutama dari elit kita yang pintar-pintar dan merasa sangat pintar, selalu nyinyir, selalu suka dengan menimbulkan ejekan-ejekan terhadap pemerintahnya sendiri. terhadap pemimpin-pemimpinnya sendiri. Untuk apa Prabowo beli alut sista banyak-banyak?"
+  },
+  {
+   "t": 698.0,
+   "d": 5.0,
+   "text": "Untuk apa, Saudara-saudara?"
+  },
+  {
+   "t": 703.0,
+   "d": 39.0,
+   "text": "Bangsa kita berada dalam sesuatu yang disebut lingkaran api. The ring of fire. Bencana alam adalah bagian yang kita harus hadapi, tantangan. Untuk itu kita harus siap menghadapi yang paling jelek pun keadaan harus kita siap. Kita tidak bisa kalau ada bencana, kalau ada musibah, kalau ada perang sekalipun kita tidak bisa datang ke suatu toko beli helikopter. Tidak ada."
+  },
+  {
+   "t": 742.0,
+   "d": 4.0,
+   "text": "Pemimpin harus berpikir ke depan."
+  },
+  {
+   "t": 746.0,
+   "d": 14.0,
+   "text": "pemimpin tugasnya adalah untuk berpikir, menghitung, merencanakan. itu tugas pemimpin."
+  },
+  {
+   "t": 760.0,
+   "d": 20.0,
+   "text": "Saya dalam hati di tengah tentunya kita prihatin. Saya merasa bangga dengan aparat yang saya pimpin, dengan pemerintah yang saya pimpin sekarang, dengan tim kerja sama kita."
+  },
+  {
+   "t": 780.0,
+   "d": 10.0,
+   "text": "Kita buktikan kepada rakyat. Kita adalah pemerintah yang bekerja untuk rakyat."
+  },
+  {
+   "t": 790.0,
+   "d": 4.0,
+   "text": "Kita berpikir untuk rakyat."
+  },
+  {
+   "t": 794.0,
+   "d": 7.0,
+   "text": "Kita berhitung untuk rakyat. Kita merencanakan untuk rakyat."
+  },
+  {
+   "t": 801.0,
+   "d": 14.0,
+   "text": "Dan kita berani mengambil keputusan untuk kepentingan rakyat kita."
+  },
+  {
+   "t": 815.0,
+   "d": 33.0,
+   "text": "Orang-orang pintar yang bisa bicara bicara bicara ngejek-ngejek mencari kesalahan terus mencari kesalahan tidak bisa membuat jembatan, tidak bisa menciptakan lapan kerja tidak bisa menjamin berat ada tidak bisa menjamin LPJ, ada tidak bisa menjamin BB BBM ada tidak bisa menjamin apa-apa."
+  },
+  {
+   "t": 848.0,
+   "d": 14.0,
+   "text": "Saya kadang-kadang prihatin, saya sedih selalu menimbulkan rasa tidak percaya, Saudara-saudara."
+  },
+  {
+   "t": 862.0,
+   "d": 5.0,
+   "text": "Tapi tidak ada masalah."
+  },
+  {
+   "t": 867.0,
+   "d": 18.0,
+   "text": "Biarlah ini demokrasi. Silakan. Yang penting saya terima kasih. Malam hari ini saya diundang oleh partai golongan karya dalam acara saudara-saudara. Terima kasih saya diundang."
+  },
+  {
+   "t": 885.0,
+   "d": 14.0,
+   "text": "Dalam hal ini saya mengatakan terima kasih kesetiaan Partai Golkar kepada koalisi yang saya pimpin."
+  },
+  {
+   "t": 899.0,
+   "d": 35.0,
+   "text": "Saudara-saudara sekalian, pada kesempatan ini saya ingin sampaikan ya pertama ya saya ucapkan penghargaan kepada Ketua Umum Pak Bahlil ya kan Pak Bahlil ini memang harus saya akui orang yang sangat cerdas."
+  },
+  {
+   "t": 934.0,
+   "d": 17.0,
+   "text": "Kalau ini benar-benar loh saya sangat cerdas ya. Semua, semua acara sangat detail dan beliau turun ke lapangan ke Sumatera juga benar-benar turun ke lapangan."
+  },
+  {
+   "t": 951.0,
+   "d": 7.0,
+   "text": "Mungkin karena beliau relatif masih muda ya."
+  },
+  {
+   "t": 958.0,
+   "d": 9.0,
+   "text": "masih fit, apalagi orang dari Indonesia Timur."
+  },
+  {
+   "t": 967.0,
+   "d": 9.0,
+   "text": "Ciri khas orang Indonesia Timur ada ciri khasnya. Anda mau tahu ciri khas Indonesia Timur?"
+  },
+  {
+   "t": 976.0,
+   "d": 7.0,
+   "text": "Orang Indonesia Timur itu ee suka berkelai."
+  },
+  {
+   "t": 983.0,
+   "d": 6.0,
+   "text": "Benar ya? Coba mana orang Indonesia Timur angkat tangan. Nah."
+  },
+  {
+   "t": 989.0,
+   "d": 9.0,
+   "text": "suka berkelai, cepat naik benar tapi cepat turun."
+  },
+  {
+   "t": 998.0,
+   "d": 23.0,
+   "text": "Dan orang Indonesia Timur itu memang sifatnya itu setia, keras keras. Tapi kalau sudah menetapkan hatinya, dia setia sampai mati."
+  },
+  {
+   "t": 1021.0,
+   "d": 7.0,
+   "text": "Ini ciri khas orang Indonesia Timur."
+  },
+  {
+   "t": 1028.0,
+   "d": 8.0,
+   "text": "Orang Indonesia Timur juga memang suka bapesta."
+  },
+  {
+   "t": 1036.0,
+   "d": 2.0,
+   "text": "Benar ya."
+  },
+  {
+   "t": 1038.0,
+   "d": 28.0,
+   "text": "Untung beliau juga sadar negarawan, \"Oh, ini ulang tahun tapi saudara kita sedang susah. Tidak boleh malam ini bapesta, malam ini harus berdoa.\" Ah, ini luar biasa ketua umum dan beliau juga satu. Ciri khas Indonesia Timur ada lagi satu."
+  },
+  {
+   "t": 1066.0,
+   "d": 8.0,
+   "text": "Kalau makan banyak sekali. Benar."
+  },
+  {
+   "t": 1074.0,
+   "d": 4.0,
+   "text": "Benar enggak? Benar ya."
+  },
+  {
+   "t": 1078.0,
+   "d": 7.0,
+   "text": "Emak-emak yang punya suami dari Indonesia Timur. Nah, itu repot saudara ya."
+  },
+  {
+   "t": 1085.0,
+   "d": 14.0,
+   "text": "Belanjanya selalu meningkat. Saya punya anak buah banyak dari Jawa Timur selalu masalah ransum yang untuk 10 hari mereka habis 5 hari gitu."
+  },
+  {
+   "t": 1099.0,
+   "d": 17.0,
+   "text": "Ini ciri khas Indonesia Timur. Jadi ee terima kasih undangan ini ya. Saya terima kasih karena memang saya belajar politik di partai Golkar."
+  },
+  {
+   "t": 1116.0,
+   "d": 4.0,
+   "text": "Beliau memang pintar menarik hati ya."
+  },
+  {
+   "t": 1120.0,
+   "d": 9.0,
+   "text": "Video yang dikasih lihat video AK aku pakai jaket kuning."
+  },
+  {
+   "t": 1129.0,
+   "d": 5.0,
+   "text": "Taruh lagi fotonya almarhum Bapak saya. Waduh."
+  },
+  {
+   "t": 1134.0,
+   "d": 5.0,
+   "text": "tambah jatuh hati. Kau memang pintar sekali."
+  },
+  {
+   "t": 1139.0,
+   "d": 11.0,
+   "text": "Tapi tidak, saya terus terang aja. Saya merasa ee nyaman di sini."
+  },
+  {
+   "t": 1150.0,
+   "d": 7.0,
+   "text": "Dari aku masuk aku lihat muka-muka kawan saya semua di sini. Kawan dan senior semua di sini."
+  },
+  {
+   "t": 1157.0,
+   "d": 6.0,
+   "text": "Bagaimana? Iya kan? Iya kan?"
+  },
+  {
+   "t": 1163.0,
+   "d": 31.0,
+   "text": "Ada Mukhtar ngabalin ya kan katanya nama. Kalau siang Mukhtar ngabalin, kalau malam Denny katanya saya tidak tahu. Saya tidak tahu maksudnya apa. Gu jadi saudara-saudara, golongan karya, golongan yang partai yang punya sejarah ya. Ee terima kasih saudara-saudara."
+  },
+  {
+   "t": 1194.0,
+   "d": 13.0,
+   "text": "Saya merasa diperkuat di sini karena kader-kader yang kau berikan kepada aku mereka bekerja dengan sangat baik."
+  },
+  {
+   "t": 1207.0,
+   "d": 3.0,
+   "text": "Kita punya teamwork yang baik."
+  },
+  {
+   "t": 1210.0,
+   "d": 29.0,
+   "text": "Kadang-kadang ibarat tim sepak bola ya. Saya sebagai katakanlah manajer ya, manajer coach aku belum ngomong si tim sudah ngerti maksudnya itu aku lihat ke kiri mereka sudah ke kiri. Jadi saya merasa sangat terbantu. Ini bukan ngarang-ngarang, saya terbantu."
+  },
+  {
+   "t": 1239.0,
+   "d": 14.0,
+   "text": "Satu hal yang sekarang mendasar adalah kita semua sekarang sadar dan mengerti apa itu sebenarnya."
+  },
+  {
+   "t": 1253.0,
+   "d": 27.0,
+   "text": "Pesan dari Undang-Undang Dasar 1945. Kita sadar dan saya berterima kasih semua tim saya mengerti, menyadari dan kita sekarang tidak mau Undang-Undang Dasar 45 hanya menjadi mantra di mulut, tapi tidak mau dilaksanakan."
+  },
+  {
+   "t": 1280.0,
+   "d": 6.0,
+   "text": "Saya terima kasih para ulama, para kiai."
+  },
+  {
+   "t": 1286.0,
+   "d": 4.0,
+   "text": "Mungkin mereka lebih berani dari para politisi."
+  },
+  {
+   "t": 1290.0,
+   "d": 13.0,
+   "text": "Mereka yang minta saya setia laksanakan Undang-Undang Dasar 45 murni dan konsekuen."
+  },
+  {
+   "t": 1303.0,
+   "d": 6.0,
+   "text": "Murni dan konsekuen, Saudara-saudara."
+  },
+  {
+   "t": 1309.0,
+   "d": 10.0,
+   "text": "Untuk melaksanakan itu perlu persatuan dan kesatuan dan perlu keberanian."
+  },
+  {
+   "t": 1319.0,
+   "d": 7.0,
+   "text": "Sebenarnya apa yang ada di pas di Undang-Undang 45 itu sangat sederhana."
+  },
+  {
+   "t": 1326.0,
+   "d": 8.0,
+   "text": "Bahasa Indonesianya tidak perlu ditafsirkan kembali. Semua jelas ada di situ."
+  },
+  {
+   "t": 1334.0,
+   "d": 7.0,
+   "text": "Tinggal kita mau atau tidak laksanakan itu."
+  },
+  {
+   "t": 1341.0,
+   "d": 11.0,
+   "text": "Kalau saya punya keyakinan kalau kita laksanakan pasal 33, kita laksanakan semua pasal di Undang-Undang Das 45, pasti kita berhasil."
+  },
+  {
+   "t": 1352.0,
+   "d": 11.0,
+   "text": "Dan saya sudah buktikan, Saudara-saudara. Maaf, maaf saya bicara di sini. Saya sudah 1 tahun memimpin pemerintahan."
+  },
+  {
+   "t": 1363.0,
+   "d": 10.0,
+   "text": "Saya berdiri di sini di depan rakyat semuanya, di depan saudara-saudara elit politik. Saya berdiri di sini."
+  },
+  {
+   "t": 1373.0,
+   "d": 19.0,
+   "text": "Saya sudah buktikan dalam 1 tahun kita telah mencapai dan kita telah mempersembahkan hasil-hasil nyata untuk rakyat kita."
+  },
+  {
+   "t": 1392.0,
+   "d": 13.0,
+   "text": "Ada profesor-profesor, ada orang-orang Piter yang mengatakan dalam siaran-siaran mereka, MBG pasti gagal."
+  },
+  {
+   "t": 1405.0,
+   "d": 16.0,
+   "text": "Saudara-saudara, hari ini sudah 49 juta makanan tiap hari mulut 49 juta penerimaan manfaat tiap hari."
+  },
+  {
+   "t": 1421.0,
+   "d": 6.0,
+   "text": "Lebih dari tujuh kali Singapura kita kasih makan tiap hari, Saudara-saudara."
+  },
+  {
+   "t": 1427.0,
+   "d": 9.0,
+   "text": "Dan sampai di pelosok-pelosok, di tempat-tempat terpencil kita berhasil untuk masuk."
+  },
+  {
+   "t": 1436.0,
+   "d": 8.0,
+   "text": "Ini bukan kegiatan main-main. Ini bukan kegiatan yang gampang."
+  },
+  {
+   "t": 1444.0,
+   "d": 13.0,
+   "text": "Ini prestasi logistik mungkin terbesar di dunia selama berapa tahun ini."
+  },
+  {
+   "t": 1457.0,
+   "d": 11.0,
+   "text": "Brazil berhasil berhasil mencapai 40 juta penerimaan manfaat dalam 11 tahun."
+  },
+  {
+   "t": 1468.0,
+   "d": 21.0,
+   "text": "kita mencapai dalam 12 bulan tidak sampai 49 juta. Bukan kita bangga hanya dengan angka, tapi maksudnya apa? Kita bisa lihat, Saudara-saudara, lihat wajah-wajah anak-anak."
+  },
+  {
+   "t": 1489.0,
+   "d": 13.0,
+   "text": "Mereka yang mungkin tidak pernah makan dengan baik, sekarang mereka menyambut kedatangan MPG dengan riang gembira."
+  },
+  {
+   "t": 1502.0,
+   "d": 10.0,
+   "text": "Bagi orang yang tidak pernah melihat anak-anak lapar, dia tidak merasakan."
+  },
+  {
+   "t": 1512.0,
+   "d": 25.0,
+   "text": "Dan orang-orang yang selalu berpikir, selalu berpikir keuntungan politik, keuntungan politik, keuntungan politik. Padahal politik sebenarnya adalah kehendak memperbaiki kehidupan rakyat yang susah. Itu arti politik yang sebenarnya."
+  },
+  {
+   "t": 1537.0,
+   "d": 12.0,
+   "text": "Saya ingin ucapkan terima kasih sekali lagi kepada kader-kader yang diberikan Golkar kepada saya membantu saya. Saya merasa sangat terbantu."
+  },
+  {
+   "t": 1549.0,
+   "d": 8.0,
+   "text": "Saya merasa semangat merah putih, semangat Undang-Undang Das 45 ada."
+  },
+  {
+   "t": 1557.0,
+   "d": 3.0,
+   "text": "Sehingga kita tidak ragu-ragu."
+  },
+  {
+   "t": 1560.0,
+   "d": 18.0,
+   "text": "Mungkin mungkin suatu saat kita harus bertindak dengan tegas dan mungkin yang kita tindak mungkin kawan-kawan kita sendiri."
+  },
+  {
+   "t": 1578.0,
+   "d": 36.0,
+   "text": "Tapi saya katakan bagi saya sebagai mandataris rakyat, sebagai yang disumpah di hadapan rakyat, saya dengan tim saya, dengan mereka-mereka yang memutuskan bergabung sama saya, bagi kita satu-satunya masalah adalah apakah ini menguntungkan rakyat atau tidak?"
+  },
+  {
+   "t": 1614.0,
+   "d": 16.0,
+   "text": "Kepada sahabat-sahabat, kawan-kawan, kawan-kawan yang berkecimpung di ekonomi."
+  },
+  {
+   "t": 1630.0,
+   "d": 9.0,
+   "text": "Patuhilah hukummu, bayarlah pajakmu."
+  },
+  {
+   "t": 1639.0,
+   "d": 15.0,
+   "text": "Patuhi semua ketentuan rakyat kita sudah tidak mau dipermainkan lagi. Mereka pintar-pintar. Mereka mengerti."
+  },
+  {
+   "t": 1654.0,
+   "d": 15.0,
+   "text": "Kalau saya bicara sering saya diejek, \"Ah, Prabowo itu Remo di podium. Apa itu?\" I kan hanya berani di podium."
+  },
+  {
+   "t": 1669.0,
+   "d": 14.0,
+   "text": "Tapi begitu nanti Jaksa Agung KPK bertindak, ah Prabowo bertindak semena-mena."
+  },
+  {
+   "t": 1683.0,
+   "d": 28.0,
+   "text": "Tidak. Saya berkata, \"Siapa yang melanggar hukum kembalilah ke jalan yang benar.\" Kalau kau tobat yang kau hutang kepada negara ya kau bayar."
+  },
+  {
+   "t": 1711.0,
+   "d": 9.0,
+   "text": "Emang bikin jembatan pakai apa? Rakyat kita susah."
+  },
+  {
+   "t": 1720.0,
+   "d": 7.0,
+   "text": "Rakyat kita perlu rumah, perlu sekolah yang baik."
+  },
+  {
+   "t": 1727.0,
+   "d": 10.0,
+   "text": "Enggak bisa bangun sekolah hanya dengan omon-omon."
+  },
+  {
+   "t": 1737.0,
+   "d": 8.0,
+   "text": "Ada yang suka ribut aja, gaduh aja. Iya kan?"
+  },
+  {
+   "t": 1745.0,
+   "d": 20.0,
+   "text": "Ya, tapi kalau dia mau gaduh silakan aja. Tapi saya percaya rakyat kita mengerti siapa yang bekerja dan siapa yang hanya bisa omon-omonomon aja."
+  },
+  {
+   "t": 1765.0,
+   "d": 38.0,
+   "text": "Saudara-saudara, saya tidak mau menguraikan ya semua apa yang kita telah capai bersama. Saya kira saudara-saudara sudah tahu dan saya terima kasih para menteri saya, para pembantu saya sekarang turun ke rakyat, sampaikan ke rakyat kondisi sebenarnya kondisi bangsa, kondisi dunia tidak sedang baik-baik."
+  },
+  {
+   "t": 1803.0,
+   "d": 3.0,
+   "text": "Di mana-mana ada perang."
+  },
+  {
+   "t": 1806.0,
+   "d": 8.0,
+   "text": "Kalau terjadi perang berlanjut di Eropa dampaknya ke kita."
+  },
+  {
+   "t": 1814.0,
+   "d": 11.0,
+   "text": "Makanya dari awal saya katakan kita harus suasembada pangan, kita harus suasembada energi BBM."
+  },
+  {
+   "t": 1825.0,
+   "d": 11.0,
+   "text": "Saudara-saudara, perang lanjut di Eropa bisa-bisa kita tidak bisa impor BBM dari manaun."
+  },
+  {
+   "t": 1836.0,
+   "d": 7.0,
+   "text": "Kita mau impor pun nanti tidak bisa."
+  },
+  {
+   "t": 1843.0,
+   "d": 6.0,
+   "text": "Selat di Laut Merah di depan Yaman kan terhenti."
+  },
+  {
+   "t": 1849.0,
+   "d": 4.0,
+   "text": "Nanti Hormus bisa terhenti, Saudara-saudara."
+  },
+  {
+   "t": 1853.0,
+   "d": 10.0,
+   "text": "Kalau kita tergantung impor, kita enggak mampu bayar nanti harga BBM."
+  },
+  {
+   "t": 1863.0,
+   "d": 6.0,
+   "text": "Tapi kita diberi karunia oleh yang maha kuasa. Kita punya kelapa sawit."
+  },
+  {
+   "t": 1869.0,
+   "d": 11.0,
+   "text": "Kelapa sawit bisa jadi BBM, bisa jadi solar, bisa jadi bensin juga. Kita punya teknologinya."
+  },
+  {
+   "t": 1880.0,
+   "d": 15.0,
+   "text": "Tiap kali saya kasih instruksi B atau B60 ee nanti ada pakar-pakar upah keekonomian harganya begini, harganya begitu."
+  },
+  {
+   "t": 1895.0,
+   "d": 14.0,
+   "text": "Tapi kalau kita tidak hati-hati, kalau kita tidak punya teknologi, kalau pabrik-pabrik pengolahan tidak siap, kalau terjadi apa-apa, baru kita nanti merasakan sekarang dengan bencana di Sumatera saja."
+  },
+  {
+   "t": 1909.0,
+   "d": 9.0,
+   "text": "Bagaimana repotnya kita mengantar BBM ke daerah-daerah bencana?"
+  },
+  {
+   "t": 1918.0,
+   "d": 9.0,
+   "text": "Jembatan putus ya. BBM harus kita naikin pesawat."
+  },
+  {
+   "t": 1927.0,
+   "d": 3.0,
+   "text": "Sebagian lewat kapal."
+  },
+  {
+   "t": 1930.0,
+   "d": 12.0,
+   "text": "Jadi, Saudara-saudara, ini bencana ini sekali lagi ya musibah, tapi di sisi lain menguji kita."
+  },
+  {
+   "t": 1942.0,
+   "d": 3.0,
+   "text": "Menguji kita."
+  },
+  {
+   "t": 1945.0,
+   "d": 12.0,
+   "text": "Dan alhamdulillah kita kuat kita mengatasi masalah dengan kita sendiri."
+  },
+  {
+   "t": 1957.0,
+   "d": 14.0,
+   "text": "Tapi tentunya sekali lagi paradigma baru sekarang politik kita sekarang harus politik yang khas Indonesia."
+  },
+  {
+   "t": 1971.0,
+   "d": 6.0,
+   "text": "Kita tidak bisa ikut politik-politik negara lain."
+  },
+  {
+   "t": 1977.0,
+   "d": 10.0,
+   "text": "Belum tentu demokrasi di Barat cocok sama kita. Dia ngajarin demokrasi ke kita."
+  },
+  {
+   "t": 1987.0,
+   "d": 11.0,
+   "text": "Padahal dia yang menjajah kita ratusan tahun. Dia ajarin HAM ke kita. Dia yang melanggar HAM."
+  },
+  {
+   "t": 1998.0,
+   "d": 8.0,
+   "text": "Jadi ya rupanya demokrasi HAM itu sesuai selera."
+  },
+  {
+   "t": 2006.0,
+   "d": 18.0,
+   "text": "Kalau cocok sama selera mereka baru diributkan. Jadi kembali saudara-saudara, kita harus percaya kepada kekuatan kita sendiri. Kita harus percaya kepada jati diri kita sendiri."
+  },
+  {
+   "t": 2024.0,
+   "d": 6.0,
+   "text": "Kita harus bangga dengan sejarah perjuangan bangsa kita sendiri."
+  },
+  {
+   "t": 2030.0,
+   "d": 20.0,
+   "text": "Kita harus selalu percaya pada diri kita sendiri dan kita harus mencari solusi kita sendiri. Tidak bisa kita terlalu terlalu terlalu didikte atau diatur oleh bangsa lain."
+  },
+  {
+   "t": 2050.0,
+   "d": 12.0,
+   "text": "Demokrasi kita pun harus kita cari jalan terbaik sendiri yang disampaikan Partai Gokar berkali-kali harus kita pertimbangkan yang baik-baik."
+  },
+  {
+   "t": 2062.0,
+   "d": 9.0,
+   "text": "Demokrasi harus mengurangi terlalu banyak permainan uang."
+  },
+  {
+   "t": 2071.0,
+   "d": 18.0,
+   "text": "Demokrasi harus kita bikin minimal ongkos politik supaya nanti politik kita jangan ditentukan. Hanya orang-orang berduit."
+  },
+  {
+   "t": 2089.0,
+   "d": 13.0,
+   "text": "politik yang mahal ini, politik yang mau niru-niru negara lain, ini saya kira sumber korupsi yang sangat besar."
+  },
+  {
+   "t": 2102.0,
+   "d": 14.0,
+   "text": "Jadi saya sendiri condong, saya akan mengajak kekuatan politik. Ayo, marilah kita berani. Berani memberi solusi kepada rakyat kita demokratis."
+  },
+  {
+   "t": 2116.0,
+   "d": 5.0,
+   "text": "Tapi jangan buang-buang uang."
+  },
+  {
+   "t": 2121.0,
+   "d": 13.0,
+   "text": "Kalau sudah sekali memilih DPRD kabupaten, DPRD Provinsi, ya kenapa enggak langsung aja pilih gubernurnya dan bupatinya. Selesai."
+  },
+  {
+   "t": 2134.0,
+   "d": 24.0,
+   "text": "Itu dilaksanakan oleh Malaysia, itu dilaksanakan oleh India, itu dilaksanakan oleh banyak negara Inggris. Kanada, Australia, negara terkaya di dunia pakai sistem politik yang murah."
+  },
+  {
+   "t": 2158.0,
+   "d": 11.0,
+   "text": "Jadi ini saya kira pemikiran-pemikiran Golkar, ketua umum Golkar harus kita pertimbangkan dengan baik. Marilah kita berani."
+  },
+  {
+   "t": 2169.0,
+   "d": 9.0,
+   "text": "Ya, sekali lagi saya sampaikan keyakinan saya politik demokrasi Indonesia harus bercirikan."
+  },
+  {
+   "t": 2178.0,
+   "d": 14.0,
+   "text": "Persaingan pada saat bersaing begitu selesai bersaing bersatu, kompak, gotongroyong, kerja sama."
+  },
+  {
+   "t": 2192.0,
+   "d": 8.0,
+   "text": "Dan sekarang saya kembali ingatkan, marilah kita lihat ke depan."
+  },
+  {
+   "t": 2200.0,
+   "d": 9.0,
+   "text": "Marilah kita lihat hari ini kesulitan rakyat hari ini dan ke depan. Jangan lihat ke belakang."
+  },
+  {
+   "t": 2209.0,
+   "d": 6.0,
+   "text": "Enggak usah sakit hati ke belakang. Iya kan?"
+  },
+  {
+   "t": 2215.0,
+   "d": 23.0,
+   "text": "Kalau kita lihat ke belakang ya, kita pasti pasti kita enggak tenang. Kita ingat terus. I kan kalau aku ke belakang gimana coba? Lima kali ikut pemilu, empat kali kalah."
+  },
+  {
+   "t": 2238.0,
+   "d": 32.0,
+   "text": "ngabalin ketawa lagi l ya sudah menang kalah maju terus berbuat yang baik terus mengabdi terus benar enggak Bang Ical I kan kita berapa kali kali mengalami kekalahan."
+  },
+  {
+   "t": 2270.0,
+   "d": 15.0,
+   "text": "Ya sudahlah, tidak ada gunanya lihat ke belakang. Tidak ada jembatan bisa dibangun dengan hanya ngomel dan ngenyek. Enggak ada. Enggak ada."
+  },
+  {
+   "t": 2285.0,
+   "d": 3.0,
+   "text": "Jembatan akan dibangun."
+  },
+  {
+   "t": 2288.0,
+   "d": 14.0,
+   "text": "Ya, jembatan akan dibangun oleh baja, oleh kawat, oleh kayu, oleh batu, oleh semen dengan uang."
+  },
+  {
+   "t": 2302.0,
+   "d": 20.0,
+   "text": "Enggak bisa rakyat punya lapangan kerja dengan teori ini harus kita bersatu, harus kompak. Cari solusi, cari solusi. Cari solusi."
+  },
+  {
+   "t": 2322.0,
+   "d": 5.0,
+   "text": "Jadi itu yang saya selalu ajak."
+  },
+  {
+   "t": 2327.0,
+   "d": 11.0,
+   "text": "Kritik bagus, kritik harus, tapi yang baik, yang positif."
+  },
+  {
+   "t": 2338.0,
+   "d": 14.0,
+   "text": "Saya kira itu yang ingin saya sampaikan ya. Ee terima kasih komitmen Goldcar kepada bangsa dan negara."
+  },
+  {
+   "t": 2352.0,
+   "d": 5.0,
+   "text": "Semoga kita kokoh terus."
+  },
+  {
+   "t": 2357.0,
+   "d": 8.0,
+   "text": "kita atasi semua masalah bangsa bersama ya."
+  },
+  {
+   "t": 2365.0,
+   "d": 10.0,
+   "text": "Kita maju ke rakyat. Silakan rakyat yang memilih. Tahun 2029 nanti ada persaingan lagi. Monggo. Terserah."
+  },
+  {
+   "t": 2375.0,
+   "d": 8.0,
+   "text": "Siapapun pemenang, siapapun pemenang kita harus loyal. Kita harus bekerja sama."
+  },
+  {
+   "t": 2383.0,
+   "d": 3.0,
+   "text": "Itu keyakinan saya."
+  },
+  {
+   "t": 2386.0,
+   "d": 19.0,
+   "text": "[tepuk tangan] Jadi, Saudara-saudara, saya mau tutup ee pidato saya sekarang ya, karena memang waktunya ya sudah lumayan. Saya masih ada acara lagi."
+  },
+  {
+   "t": 2405.0,
+   "d": 8.0,
+   "text": "Saya mau tutup dengan pantun."
+  },
+  {
+   "t": 2413.0,
+   "d": 10.0,
+   "text": "Pohon beringin tegak berjaga. Daunnya rindang penuduh kita."
+  },
+  {
+   "t": 2423.0,
+   "d": 15.0,
+   "text": "Selamat ulang tahun Partai Golkar. Selamat ulang tahun almamater saya."
+  },
+  {
+   "t": 2438.0,
+   "d": 16.0,
+   "text": "terus bersatu, bahu-membahu membantu rakyat Indonesia."
+  },
+  {
+   "t": 2454.0,
+   "d": 14.0,
+   "text": "Pantun kedua. Enggak mau kalah saya sama Bahlil."
+  },
+  {
+   "t": 2468.0,
+   "d": 6.0,
+   "text": "Beringin tumbuh akarnya kuat."
+  },
+  {
+   "t": 2474.0,
+   "d": 10.0,
+   "text": "Tahan badai tak mudah goyah. Melihat Golkar hari ini penuh semangat."
+  },
+  {
+   "t": 2484.0,
+   "d": 8.0,
+   "text": "Terus teruslah berkarya untuk Indonesia Raya."
+  },
+  {
+   "t": 2492.0,
+   "d": 22.0,
+   "text": "[tepuk tangan] Pantun ketiga Partai Golkar berlambang pohon beringin."
+  },
+  {
+   "t": 2514.0,
+   "d": 28.0,
+   "text": "Ketua umumnya pemuda dari Timur Bahlil Hadilia namanya kulitnya hitam giginya putih kalau ketawa manis sekali."
+  },
+  {
+   "t": 2542.0,
+   "d": 7.0,
+   "text": "Kalau bekerja semangatnya tak pernah luntur."
+  },
+  {
+   "t": 2549.0,
+   "d": 6.0,
+   "text": "Terima kasih. Selamat berjuang, Partai Golong Karya. Selamat berjuang."
+  },
+  {
+   "t": 2555.0,
+   "d": 4.0,
+   "text": "Bela negaramu, bela tanah air kita."
+  },
+  {
+   "t": 2559.0,
+   "d": 9.0,
+   "text": "Mari kita berbuat yang terbaik untuk rakyat kita. Wasalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam."
+  },
+  {
+   "t": 2568.0,
+   "d": 8.0,
+   "text": "Salam sejahtera bagi kita sekalian. Shalom. Om santi santi santi om. Namo budaya."
+  },
+  {
+   "t": 2576.0,
+   "d": 2.0,
+   "text": "Salam kebajikan."
+  },
+  {
+   "t": 2578.0,
+   "d": 18.0,
+   "text": "Merdeka merdeka merdeka."
+  },
+  {
+   "t": 2596.0,
+   "d": 9.0,
+   "text": "Saya datang ke sini, saya pengin dengar Mars Golkar itu dulu aku hafal."
+  },
+  {
+   "t": 2605.0,
+   "d": 3.0,
+   "text": "ada nanti"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ }
+}

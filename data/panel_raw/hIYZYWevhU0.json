@@ -1,0 +1,821 @@
+{
+ "id": "hIYZYWevhU0",
+ "url": "https://www.youtube.com/watch?v=hIYZYWevhU0",
+ "title": "[FULL] Pidato Presiden Prabowo di Istiqlal, Singgung Kelompok Garong Ingin Buat Rusuh di Indonesia",
+ "channel": "KOMPASTV",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 159,
+ "raw_snippets": [
+  {
+   "text": "kita masih menghadapi tantangan dan kesulitan.",
+   "start": 0.0,
+   "duration": 7
+  },
+  {
+   "text": "Kita memohon kepada yang maha kuasa, saudara-saudara kita yang dalam keadaan",
+   "start": 7.0,
+   "duration": 9
+  },
+  {
+   "text": "menerima musibah, selalu diberi",
+   "start": 16.0,
+   "duration": 8
+  },
+  {
+   "text": "kekuatan, ketegaran, dan dapat segera pulih hidup dalam keadaan baik.",
+   "start": 24.0,
+   "duration": 12
+  },
+  {
+   "text": "juga selawat dan salam kita haturkan",
+   "start": 36.0,
+   "duration": 8
+  },
+  {
+   "text": "kehadirat junjungan kita Nabi Besar Muhammad Rasulullah sallallahu alaihi wasallam yang telah",
+   "start": 44.0,
+   "duration": 8
+  },
+  {
+   "text": "memberi kepada kita agama dan peradaban hingga akhir zaman.",
+   "start": 52.0,
+   "duration": 6
+  },
+  {
+   "text": "Saudara-saudara sekalian yang saya hormati dan yang saya banggakan, saya muliakan.",
+   "start": 58.0,
+   "duration": 7
+  },
+  {
+   "text": "Ketua Umum Majelis Ulama Indonesia K. H.",
+   "start": 65.0,
+   "duration": 4
+  },
+  {
+   "text": "Muhammad Anwar Iskandar beserta pimpinan dan pengurus MUI seluruhnya.",
+   "start": 69.0,
+   "duration": 8
+  },
+  {
+   "text": "Menteri Agraria dan Tata Ruang, Saudara Haji Nusron Wahid sebagai ketua panitia.",
+   "start": 77.0,
+   "duration": 11
+  },
+  {
+   "text": "Menteri Agama Prof.",
+   "start": 88.0,
+   "duration": 6
+  },
+  {
+   "text": "Dr. K. H. Nasruddin Umar sekaligus Wakil Ketua Dewan Pertimbangan,",
+   "start": 94.0,
+   "duration": 11
+  },
+  {
+   "text": "Imam Besar Masjid Istiqlal beserta seluruh jajaran Dewan Pertimbangan MUI.",
+   "start": 105.0,
+   "duration": 10
+  },
+  {
+   "text": "Ketua Majelis Perpwustan Rakyat Republik Indonesia, Saudara Ahmad Muzani.",
+   "start": 115.0,
+   "duration": 6
+  },
+  {
+   "text": "Yang saya hormati dan saya muliakan Wakil Presiden Republik Indonesia ke-10",
+   "start": 121.0,
+   "duration": 6
+  },
+  {
+   "text": "dan ke-12, Bapak H. Muhammad Yusuf Kala yang juga",
+   "start": 127.0,
+   "duration": 8
+  },
+  {
+   "text": "sebagai Ketua Umum Dewan Masjid Indonesia.",
+   "start": 135.0,
+   "duration": 6
+  },
+  {
+   "text": "Para menteri, koordinator, para menteri, para kepala badan",
+   "start": 141.0,
+   "duration": 7
+  },
+  {
+   "text": "jaksa Agung, Panglima TNI, Kepala Kepolisian Republik Indonesia,",
+   "start": 148.0,
+   "duration": 7
+  },
+  {
+   "text": "serta seluruh anggota Kabinet Merah Putih yang hadir.",
+   "start": 155.0,
+   "duration": 21
+  },
+  {
+   "text": "Ada 46 pejabat yang hadir.",
+   "start": 176.0,
+   "duration": 5
+  },
+  {
+   "text": "Saya mohon izin mungkin tidak saya sebut satu-satu tanpa mengurangi rasa hormat.",
+   "start": 181.0,
+   "duration": 7
+  },
+  {
+   "text": "supaya hadirin ini tidak terlalu lama menghadiri acara ini.",
+   "start": 188.0,
+   "duration": 13
+  },
+  {
+   "text": "[tepuk tangan]",
+   "start": 201.0,
+   "duration": 4
+  },
+  {
+   "text": "Bapak-bapak, Ibu-ibu, hadirin sekalian yang saya hormati.",
+   "start": 205.0,
+   "duration": 6
+  },
+  {
+   "text": "Saya ingin menyampaikan ucapan terima kasih yang",
+   "start": 211.0,
+   "duration": 8
+  },
+  {
+   "text": "sebesar-besarnya atas kehormatan yang diberikan kepada saya diundang hari ini untuk menghadiri",
+   "start": 219.0,
+   "duration": 9
+  },
+  {
+   "text": "acara pengukuhan dan taaruf pengurus",
+   "start": 228.0,
+   "duration": 7
+  },
+  {
+   "text": "Majelis Ulama Indonesia untuk Bak bakti 2025-2030.",
+   "start": 235.0,
+   "duration": 11
+  },
+  {
+   "text": "Ini adalah acara istimewa acara",
+   "start": 246.0,
+   "duration": 7
+  },
+  {
+   "text": "di Masjid Istiqlal yang merupakan masjid kebesaran umat Islam Indonesia yang",
+   "start": 253.0,
+   "duration": 8
+  },
+  {
+   "text": "merupakan lambang persatuan bangsa, lambang semangat",
+   "start": 261.0,
+   "duration": 9
+  },
+  {
+   "text": "bangsa untuk menjadi bangsa yang merdeka.",
+   "start": 270.0,
+   "duration": 5
+  },
+  {
+   "text": "Bangsa yang berdaulat, bangsa yang penuh kehormatan, bangsa yang ingin berdiri di",
+   "start": 275.0,
+   "duration": 7
+  },
+  {
+   "text": "atas kaki kita sendiri, bangsa yang ingin berdiri sejajar dengan bangsa-bangsa lain di dunia.",
+   "start": 282.0,
+   "duration": 11
+  },
+  {
+   "text": "Masjid ini adalah lambang daripada semangat bangsa Indonesia untuk menjadi",
+   "start": 293.0,
+   "duration": 7
+  },
+  {
+   "text": "bangsa yang bisa melindungi segenap rakyatnya, segenap tumpah darah bangsa",
+   "start": 300.0,
+   "duration": 6
+  },
+  {
+   "text": "Indonesia. Sekali lagi terima kasih. Hari ini saya",
+   "start": 306.0,
+   "duration": 7
+  },
+  {
+   "text": "sungguh merasa bahagia, sungguh merasa",
+   "start": 313.0,
+   "duration": 5
+  },
+  {
+   "text": "besar hati. Hari ini adalah lambang dari",
+   "start": 318.0,
+   "duration": 7
+  },
+  {
+   "text": "bersatunya ulama dengan umarah. Kalau",
+   "start": 325.0,
+   "duration": 7
+  },
+  {
+   "text": "ulama dan umarah bersatu, insyaallah",
+   "start": 332.0,
+   "duration": 6
+  },
+  {
+   "text": "bangsa kita akan menjadi bangsa yang besar, bangsa yang makmur.",
+   "start": 338.0,
+   "duration": 8
+  },
+  {
+   "text": "Karena syarat syarat bangsa itu berhasil sepanjang sejarah peradaban manusia,",
+   "start": 346.0,
+   "duration": 9
+  },
+  {
+   "text": "syarat bangsa yang berhasil, bangsa yang makmur adalah perdamaian.",
+   "start": 355.0,
+   "duration": 8
+  },
+  {
+   "text": "Perdamaian hanya bisa dicapai dengan bersatunya ulama dengan umarah.",
+   "start": 363.0,
+   "duration": 8
+  },
+  {
+   "text": "Dan alhamdulillah hari ini saya bangga menjadi presiden Republik Indonesia.",
+   "start": 371.0,
+   "duration": 7
+  },
+  {
+   "text": "Hari ini saya merasa besar hati. Hari ini terima kasih Majelis Ulama",
+   "start": 378.0,
+   "duration": 9
+  },
+  {
+   "text": "Indonesia. Terima kasih apa yang kau berikan kepada saya, yaitu kau telah",
+   "start": 387.0,
+   "duration": 9
+  },
+  {
+   "text": "memberi kepada saya keberanian untuk menjalankan tugas sebagai Presiden",
+   "start": 396.0,
+   "duration": 7
+  },
+  {
+   "text": "Republik Indonesia, mandataris rakyat Indonesia yang diangkat, dipilih, disumpah untuk",
+   "start": 403.0,
+   "duration": 10
+  },
+  {
+   "text": "membela kepentingan seluruh rakyat Indonesia. Terima kasih.",
+   "start": 413.0,
+   "duration": 10
+  },
+  {
+   "text": "Saudara-saudara, selama ini Majelis Ulama Indonesia selalu mengambil peran yang sangat besar",
+   "start": 423.0,
+   "duration": 8
+  },
+  {
+   "text": "dan menentukan dalam kehidupan bangsa dan negara.",
+   "start": 431.0,
+   "duration": 5
+  },
+  {
+   "text": "MUI selalu menjadi pilar stabilitas, pilar ketenangan.",
+   "start": 436.0,
+   "duration": 11
+  },
+  {
+   "text": "pilar keseujukan, pilar toleransi antara seluruh umat dan seluruh agama.",
+   "start": 447.0,
+   "duration": 9
+  },
+  {
+   "text": "MUI tidak pernah tidak hadir. Setiap bangsa mengalami kesulitan.",
+   "start": 456.0,
+   "duration": 9
+  },
+  {
+   "text": "Baru-baru saja kita melihat MUI tampil dari sejak hari-hari pertama.",
+   "start": 465.0,
+   "duration": 9
+  },
+  {
+   "text": "bencana yang berada di beberapa daerah kita di Aceh, Sumatera Barat,",
+   "start": 474.0,
+   "duration": 8
+  },
+  {
+   "text": "Sumatera Utara dan juga di beberapa provinsi lain.",
+   "start": 482.0,
+   "duration": 6
+  },
+  {
+   "text": "MUI tidak pernah absen dari saat-saat negara sulit.",
+   "start": 488.0,
+   "duration": 11
+  },
+  {
+   "text": "Saudara-saudara sekalian, saya sangat memberi penghargaan saya,",
+   "start": 499.0,
+   "duration": 8
+  },
+  {
+   "text": "salut saya kepada peran dan rasa tanggung jawab Majelis Ulama Indonesia.",
+   "start": 507.0,
+   "duration": 11
+  },
+  {
+   "text": "Semoga Majelis Ulama Indonesia yang baru terpilih akan meneruskan",
+   "start": 518.0,
+   "duration": 9
+  },
+  {
+   "text": "pengabdian kepada umat. dan kepada seluruh bangsa Indonesia. Sekali lagi hari ini",
+   "start": 527.0,
+   "duration": 7
+  },
+  {
+   "text": "lambang bersatunya ulama dan umarah di Republik Indonesia.",
+   "start": 534.0,
+   "duration": 9
+  },
+  {
+   "text": "Dan ini adalah jaminan kebangkitan bangsa Indonesia.",
+   "start": 543.0,
+   "duration": 7
+  },
+  {
+   "text": "Saudara-saudara sekalian, bangsa kita masih menghadapi tantangan.",
+   "start": 550.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita akui kita harus bersama-sama berani",
+   "start": 556.0,
+   "duration": 9
+  },
+  {
+   "text": "bertekad untuk menghilangkan kemiskinan dari bumi Indonesia.",
+   "start": 565.0,
+   "duration": 10
+  },
+  {
+   "text": "Kita tidak boleh takut, kita tidak boleh gentar, kita tidak boleh rendah hati.",
+   "start": 575.0,
+   "duration": 13
+  },
+  {
+   "text": "Kita berani dan kita bersama-sama kita akan berhasil menghilangkan kemiskinan dari bumi Indonesia.",
+   "start": 588.0,
+   "duration": 12
+  },
+  {
+   "text": "Yang maha kuasa telah memberi kepada bangsa Indonesia kekayaan yang luar biasa.",
+   "start": 600.0,
+   "duration": 8
+  },
+  {
+   "text": "Setelah saya dilantik jadi presiden, saya mempelajari data-data, fakta-fakta.",
+   "start": 608.0,
+   "duration": 9
+  },
+  {
+   "text": "Luar biasa kekayaan kita.",
+   "start": 617.0,
+   "duration": 3
+  },
+  {
+   "text": "Kekayaan kita luar biasa. Yang maha kuasa telah memberi kepada kita karunia yang luar biasa.",
+   "start": 620.0,
+   "duration": 8
+  },
+  {
+   "text": "Tapi ada tapinya.",
+   "start": 628.0,
+   "duration": 4
+  },
+  {
+   "text": "Tapi masalahnya adalah apakah kita mampu",
+   "start": 632.0,
+   "duration": 7
+  },
+  {
+   "text": "menjaga dan mengelola kekayaan tersebut?",
+   "start": 639.0,
+   "duration": 5
+  },
+  {
+   "text": "Apakah kita mampu? Apakah kita berani menjaga kekayaan itu?",
+   "start": 644.0,
+   "duration": 7
+  },
+  {
+   "text": "Apa kita berani menghadapi kesulitan?",
+   "start": 651.0,
+   "duration": 4
+  },
+  {
+   "text": "Apakah kita berani mengakui bahwa bangsa ini masih banyak kesulitan dan kelemahan? Saudara-saudara,",
+   "start": 655.0,
+   "duration": 9
+  },
+  {
+   "text": "di mana-mana saya mengajak seluruh bangsa, seluruh rakyat, terutama unsur pimpinannya.",
+   "start": 664.0,
+   "duration": 8
+  },
+  {
+   "text": "Dan sekarang di hadapan Majelis Ulama Indonesia, di hadapan saudara-saudara semua, sekali",
+   "start": 672.0,
+   "duration": 9
+  },
+  {
+   "text": "lagi saya menggugah, sekali lagi saya memohon, marilah kita bersatu. Kita",
+   "start": 681.0,
+   "duration": 7
+  },
+  {
+   "text": "harus menjaga republik ini. Kita harus menjaga kekayaan bangsa kita. Kita harus",
+   "start": 688.0,
+   "duration": 7
+  },
+  {
+   "text": "berani memberantas korupsi dari bumi Indonesia.",
+   "start": 695.0,
+   "duration": 15
+  },
+  {
+   "text": "ini tidak ringan. Tiap kali kita mau berantas, tiap kali kita mau mendegakkan",
+   "start": 710.0,
+   "duration": 7
+  },
+  {
+   "text": "hukuman, kita mau mendakkan keadilan, kita mau menegakkan hukum. Tiap kali",
+   "start": 717.0,
+   "duration": 7
+  },
+  {
+   "text": "kelompok koruptor, kelompok perampok-perampok ini, kelompok garong-garong ini menyerang balik.",
+   "start": 724.0,
+   "duration": 11
+  },
+  {
+   "text": "Mereka selalu ingin bikin kerusuhan, selalu ingin adu domba di antara kita.",
+   "start": 735.0,
+   "duration": 8
+  },
+  {
+   "text": "Kenapa? Karena mereka tidak ingin ada pemerintah yang bersih di bumi Republik Indonesia ini.",
+   "start": 743.0,
+   "duration": 15
+  },
+  {
+   "text": "Tetapi saya telah disumpah di hadapan rakyat.",
+   "start": 758.0,
+   "duration": 7
+  },
+  {
+   "text": "Saya disumpah untuk menegakkan hukum, untuk menegakkan Undang-Undang Dasar kita, untuk menegakkan segala",
+   "start": 765.0,
+   "duration": 9
+  },
+  {
+   "text": "perundang-undangan. Karena itu saya tidak akan ragu-ragu, saya tidak akan mundur setapun.",
+   "start": 774.0,
+   "duration": 12
+  },
+  {
+   "text": "Dan hari ini terima kasih.",
+   "start": 786.0,
+   "duration": 4
+  },
+  {
+   "text": "Terima kasih Majelis Ulama Indonesia telah memberi kepada saya",
+   "start": 790.0,
+   "duration": 7
+  },
+  {
+   "text": "suntikan keberanian. Saya menjadi lebih berani, lebih yakin bahwa ulama umarah",
+   "start": 797.0,
+   "duration": 7
+  },
+  {
+   "text": "bersatu kita akan menegakkan keadilan di bumi Indonesia ini.",
+   "start": 804.0,
+   "duration": 13
+  },
+  {
+   "text": "Saudara-saudara sekalian, kita ingat",
+   "start": 817.0,
+   "duration": 8
+  },
+  {
+   "text": "dengan surah Ar-Ra'ad ayat 11.",
+   "start": 825.0,
+   "duration": 6
+  },
+  {
+   "text": "Allah Subhanahu wa taala tidak akan mengubah nasib suatu kaum kecuali kaum tersebut mengubah keadaan diri mereka sendiri, Saudara-saudara.",
+   "start": 831.0,
+   "duration": 13
+  },
+  {
+   "text": "Karena itu hari ini ulama umarah menyatakan bersatu",
+   "start": 844.0,
+   "duration": 8
+  },
+  {
+   "text": "dengan tema yang dikumandangkan hari ini. Bersatu dalam munajat untuk keselamatan bangsa. Saudara-saudara",
+   "start": 852.0,
+   "duration": 8
+  },
+  {
+   "text": "sekalian, tema ini sangat tepat.",
+   "start": 860.0,
+   "duration": 6
+  },
+  {
+   "text": "Tema ini menjawab masalah yang kita hadapi.",
+   "start": 866.0,
+   "duration": 6
+  },
+  {
+   "text": "Keselamatan bangsa hanya bisa kita hasilkan kalau kita bersatu. Kita hilangkan curiga di antara",
+   "start": 872.0,
+   "duration": 9
+  },
+  {
+   "text": "kita, kita hilangkan perbedaan masa lalu. Kita hilangkan rasa benci.",
+   "start": 881.0,
+   "duration": 11
+  },
+  {
+   "text": "Perbedaan adalah baik.",
+   "start": 892.0,
+   "duration": 3
+  },
+  {
+   "text": "Persaingan adalah baik. Tapi setelah bersaing, mari kita bersatu. Bersatu.",
+   "start": 895.0,
+   "duration": 8
+  },
+  {
+   "text": "Bersatu dalam munajat. Bersatu untuk keselamatan bangsa.",
+   "start": 903.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita hormati semua. Hormati semua umat, hormati semua kaum. Itulah",
+   "start": 911.0,
+   "duration": 8
+  },
+  {
+   "text": "contoh yang diberi oleh ulama-ulama Indonesia.",
+   "start": 919.0,
+   "duration": 4
+  },
+  {
+   "text": "Saudara-saudara sekalian, kita sekarang menjadi contoh bagi seluruh dunia.",
+   "start": 923.0,
+   "duration": 9
+  },
+  {
+   "text": "Umat Islam yang sejuk, umat Islam yang tidak mengujar kebencian.",
+   "start": 932.0,
+   "duration": 8
+  },
+  {
+   "text": "Umat Islam yang mengutamakan perdamaian.",
+   "start": 940.0,
+   "duration": 5
+  },
+  {
+   "text": "Umat Islam yang tidak takut dengan menegakkan keadilan. Saya kira",
+   "start": 945.0,
+   "duration": 6
+  },
+  {
+   "text": "saudara-saudara cukup sambutan saya pada kesempatan hari ini.",
+   "start": 951.0,
+   "duration": 8
+  },
+  {
+   "text": "Selamat Majelis Ulama Indonesia yang baru dibentuk.",
+   "start": 959.0,
+   "duration": 7
+  },
+  {
+   "text": "Seluruh umat Indonesia, seluruh rakyat Indonesia menanti pengabdianMu.",
+   "start": 966.0,
+   "duration": 7
+  },
+  {
+   "text": "Berharap MUI terus tegas. Dan hari ini saya bisa sampaikan bahwa saya sebagai Presiden",
+   "start": 973.0,
+   "duration": 9
+  },
+  {
+   "text": "Republik Indonesia, saya telah menyediakan lahan",
+   "start": 982.0,
+   "duration": 8
+  },
+  {
+   "text": "di depan bunderan HI sebesar",
+   "start": 990.0,
+   "duration": 6
+  },
+  {
+   "text": "kurang lebih 4.000 m untuk gedung bagi MUI.",
+   "start": 996.0,
+   "duration": 16
+  },
+  {
+   "text": "dan bagi badan-badan umat Islam",
+   "start": 1012.0,
+   "duration": 8
+  },
+  {
+   "text": "seperti Badan Zakat Nasional dan lembaga-lembaga lain termasuk",
+   "start": 1020.0,
+   "duration": 10
+  },
+  {
+   "text": "ormas-ormas Islam yang membutuhkan ruangan. Kita akan bangun gedung.",
+   "start": 1030.0,
+   "duration": 9
+  },
+  {
+   "text": "Terserah Menteri Agama berapa? Berapa puluh lantai. Gimana?",
+   "start": 1039.0,
+   "duration": 9
+  },
+  {
+   "text": "Rencananya berapa? 40 lantai.",
+   "start": 1048.0,
+   "duration": 9
+  },
+  {
+   "text": "Ini permintaan Imam Besar Istiqlal, Profor Nazaruddin kepada saya berapa bulan yang lalu.",
+   "start": 1057.0,
+   "duration": 9
+  },
+  {
+   "text": "Permintaan beliau juga sebagai Menteri Agama menyampaikan, \"Pak, kantor MUI",
+   "start": 1066.0,
+   "duration": 6
+  },
+  {
+   "text": "sekarang enggak jelas di mana.\" Saya pun maaf tidak tahu persis di mana kantor MUI.",
+   "start": 1072.0,
+   "duration": 14
+  },
+  {
+   "text": "Tapi nanti kantor institusi-institusi Islam akan berada di",
+   "start": 1086.0,
+   "duration": 8
+  },
+  {
+   "text": "jantungnya Ibu Jakarta ini.",
+   "start": 1094.0,
+   "duration": 7
+  },
+  {
+   "text": "di Bunderan, Hi.",
+   "start": 1101.0,
+   "duration": 4
+  },
+  {
+   "text": "Jangan hanya ada hotel mewah, jangan hanya ada mall, nanti ada gedung",
+   "start": 1105.0,
+   "duration": 9
+  },
+  {
+   "text": "yang akan diperuntukkan untuk lembaga-lembaga umat Islam. Kalau tidak",
+   "start": 1114.0,
+   "duration": 8
+  },
+  {
+   "text": "salah nanti akan dibentuk lembaga pengelolaan dana umat.",
+   "start": 1122.0,
+   "duration": 8
+  },
+  {
+   "text": "Saya diberi laporan oleh Menteri Agama kalau dana umat semua",
+   "start": 1130.0,
+   "duration": 8
+  },
+  {
+   "text": "dikelola dengan baik itu bisa jumlahnya itu minimal R00 triliun 1 tahun.",
+   "start": 1138.0,
+   "duration": 9
+  },
+  {
+   "text": "Masyaallah.",
+   "start": 1147.0,
+   "duration": 4
+  },
+  {
+   "text": "Ulama umarah bersatu, kita akan melihat kebangkitan bangsa Indonesia. Terima kasih.",
+   "start": 1151.0,
+   "duration": 9
+  },
+  {
+   "text": "Dan bagi kita sekalian, kita juga ingat bahwa sebentar lagi kita akan masuk bulan suci Ramadan.",
+   "start": 1160.0,
+   "duration": 9
+  },
+  {
+   "text": "Mari kita terus bersatu, mari kita bertekad, kita berdoa selalu",
+   "start": 1169.0,
+   "duration": 9
+  },
+  {
+   "text": "bangsa kita berada dalam lindungan Allah Subhanahu wa taala. Bangsa Indonesia dijauhkan dari perpecahan dan bencana.",
+   "start": 1178.0,
+   "duration": 8
+  },
+  {
+   "text": "Kita selesaikan semua perbedaan. dengan baik dengan musyawarah mufakat.",
+   "start": 1186.0,
+   "duration": 7
+  },
+  {
+   "text": "Saudara-saudara, sekali lagi terima kasih atas terselenggaranya acara",
+   "start": 1193.0,
+   "duration": 7
+  },
+  {
+   "text": "yang mulia ini dan semoga Allah Subhanahu wa taala senantiasa memberi rahmat dan ridanya bagi bangsa kita dan bagi seluruh rakyat Indonesia.",
+   "start": 1200.0,
+   "duration": 12
+  },
+  {
+   "text": "Dan terakhir saya ucapkan selamat bekerja Majelis Ulama Indonesia. Selamat",
+   "start": 1212.0,
+   "duration": 7
+  },
+  {
+   "text": "berkhidmat untuk bangsa, umat dan seluruh rakyat Indonesia.",
+   "start": 1219.0,
+   "duration": 6
+  },
+  {
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh.",
+   "start": 1225.0,
+   "duration": 4
+  },
+  {
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh. Terima kasih. Shallu ala Nabi Muhammad.",
+   "start": 1229.0,
+   "duration": 9
+  },
+  {
+   "text": "Hadirin sekalian, tanpa terasa kita sampai di pengujung acara pengukuhan serta taaruf pengurus Majelis Ulama Indonesia masa khidmat 2025-2030",
+   "start": 1238.0,
+   "duration": 8
+  },
+  {
+   "text": "dengan tema Bersatu dalam munajat untuk keselamatan Bangsa. Terima kasih kita ucapkan kepada Presiden Republik Indonesia yang telah berkenan hadir",
+   "start": 1246.0,
+   "duration": 9
+  },
+  {
+   "text": "dalam acara pengukuhan dan taaruf pengurus Majelis Ulama Indonesia. Kita doakan semoga Presiden senantiasa dalam lindungan, diberikan kesehatan,",
+   "start": 1255.0,
+   "duration": 8
+  },
+  {
+   "text": "keberkahan dan dengan demikian pemirsa, dengan demikian semoga perentikan acara ini dapat memberikan manfaat bagi umat dan bangsa Indonesia. Mohon maaf jika",
+   "start": 1263.0,
+   "duration": 8
+  },
+  {
+   "text": "ada kesalahan dan kekurangan selama acara berlangsung. Saya David undur diriquum.",
+   "start": 1271.0,
+   "duration": 10
+  },
+  {
+   "text": "Wabillahi walidahikum warahmatullahi wabarakatuh.",
+   "start": 1281.0,
+   "duration": 3
+  }
+ ]
+}
