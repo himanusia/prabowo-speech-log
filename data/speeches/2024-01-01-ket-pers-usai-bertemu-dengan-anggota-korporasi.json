@@ -1,7 +1,7 @@
 {
  "id": "2024-01-01-ket-pers-usai-bertemu-dengan-anggota-korporasi",
  "video_id": "mlY9ljeckaQ",
- "date": "2024-01-01",
+ "date": "2024-11-12",
  "date_precise": false,
  "title": "Ket Pers Presiden Prabowo Usai Bertemu dengan Anggota Korporasi USINDO,Washington DC, 11 Nov 2024",
  "channel": "Sekretariat Presiden",
@@ -58,5 +58,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

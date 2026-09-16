@@ -1,8 +1,8 @@
 {
  "id": "2025-01-01-pengantar-pada-sidang-kabinet-paripurna-perdan",
  "video_id": "6Mvi8vaetGM",
- "date": "2025-01-01",
- "date_precise": false,
+ "date": "2024-10-24",
+ "date_precise": true,
  "title": "🔴FULL Pengantar Presiden Prabowo pada Sidang Kabinet Paripurna Perdan",
  "channel": "Tribun Jateng",
  "youtube_url": "https://www.youtube.com/watch?v=6Mvi8vaetGM",
@@ -564,5 +564,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_fixed_note": "tanggal 2025-01-01 adalah nilai default; diperbaiki dari tanggal unggah/judul"
 }

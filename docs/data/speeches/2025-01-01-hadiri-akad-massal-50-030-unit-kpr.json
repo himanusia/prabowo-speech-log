@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-hadiri-akad-massal-50-030-unit-kpr",
  "video_id": "Gxka7SXu3bg",
- "date": "2025-01-01",
+ "date": "2025-12-20",
  "date_precise": false,
  "title": "Presiden Prabowo Hadiri Akad Massal 50.030 Unit KPR FLPP dan Serah Terima Kunci, Serang, 20 Des 2025",
  "channel": "Sekretariat Presiden",
@@ -74,5 +74,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "kunjungan",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

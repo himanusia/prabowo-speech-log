@@ -361,16 +361,20 @@ def _cov_cells(coverage: dict) -> str:
 def _entries(speeches: list[dict]) -> str:
     rows = []
     for s in speeches:
+        unggah = s.get("upload_count") or len(s.get("uploads") or []) or 1
+        # Entri berbahasa Inggris ditandai supaya jelas transkripnya bukan
+        # bahasa Indonesia (dan tidak ikut statistik kata).
+        en = ' <span class="chip">EN</span>' if s.get("transcript_language") == "en" else ""
         rows.append(f"""      <li>
         <a class="entry" href="pidato/{e(s['id'])}.html">
           <span class="entry__date">{e(s['date'])}</span>
-          <span class="entry__title">{e(s['title'])}
+          <span class="entry__title">{e(s['title'])}{en}
             <span class="entry__meta" style="display:block;font-size:var(--step--1)">
-              {e(s['channel'])} &middot; {e(s['duration_hms'] or '—')} &middot;
-              {fmt_int(s['token_count'])} token &middot; {s['upload_count']} unggahan
+              {e(s.get('channel') or '—')} &middot; {e(s.get('duration_hms') or '—')} &middot;
+              {fmt_int(s.get('token_count', 0))} token &middot; {unggah} unggahan
             </span>
           </span>
-          <span class="entry__meta">{e(s['source_tier'] or '')}</span>
+          <span class="entry__meta">{e(s.get('source_tier') or '')}</span>
         </a>
       </li>""")
     return chr(10).join(rows)
@@ -379,7 +383,7 @@ def _entries(speeches: list[dict]) -> str:
 def render_daftar(speeches: list[dict], meta: dict, coverage: dict) -> str:
     """Halaman daftar. Dipisah dari beranda: beranda untuk analisis, bukan indeks."""
     body = f"""  <h1>Semua pidato</h1>
-  <p class="lede">{len(speeches)} pidato terverifikasi, {fmt_int(sum(s['upload_count'] for s in speeches))} unggahan.
+  <p class="lede">{len(speeches)} pidato, {fmt_int(sum((s.get('upload_count') or len(s.get('uploads') or []) or 1) for s in speeches))} unggahan.
   Satu baris = satu acara, bukan satu video.</p>
 
   <div class="searchbar">
@@ -977,6 +981,9 @@ def main() -> int:
         if k is None:
             return True                      # 67 entri awal, sudah terkurasi
         return k in ("pidato_prabowo", "prabowo_bicara")
+    # Catatan: entri berbahasa Inggris IKUT diterbitkan (arsipnya harus utuh)
+    # tapi ditandai `transcript_language` supaya pembaca tahu transkripnya
+    # bukan bahasa Indonesia dan tidak ikut statistik kata.
     speeches = [d for d in semua if terbit(d)]
     disaring = len(semua) - len(speeches)
     index = json.loads((DATA / "index.json").read_text(encoding="utf-8"))
@@ -1011,7 +1018,11 @@ def main() -> int:
 
     (DOCS / "index.html").write_text(
         render_index(index, meta, coverage, home), encoding="utf-8")
-    (DOCS / "daftar.html").write_text(render_daftar(index, meta, coverage), encoding="utf-8")
+    # PENTING: daftar memakai ARSIP lengkap, bukan index.json. index.json
+    # berasal dari korpus engine dan hanya memuat 67 acara; memakainya membuat
+    # halaman "semua pidato" menampilkan 67 dari 329 tanpa penjelasan.
+    urut = sorted(speeches, key=lambda d: (d.get("date") or "", d.get("id") or ""))
+    (DOCS / "daftar.html").write_text(render_daftar(urut, meta, coverage), encoding="utf-8")
     (DOCS / "cakupan.html").write_text(render_coverage(coverage, meta, speeches), encoding="utf-8")
     (DOCS / "tentang.html").write_text(render_about(meta, coverage), encoding="utf-8")
     (DOCS / "404.html").write_text(render_404(), encoding="utf-8")

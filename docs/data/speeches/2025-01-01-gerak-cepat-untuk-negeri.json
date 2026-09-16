@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-gerak-cepat-untuk-negeri",
  "video_id": "JrFZJkcM5r4",
- "date": "2025-01-01",
+ "date": "2026-03-13",
  "date_precise": false,
  "title": "Presiden Prabowo, Gerak Cepat Untuk Negeri",
  "channel": "Sekretariat Presiden",
@@ -79,5 +79,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

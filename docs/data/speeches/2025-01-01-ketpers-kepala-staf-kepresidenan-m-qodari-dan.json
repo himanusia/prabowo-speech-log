@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-ketpers-kepala-staf-kepresidenan-m-qodari-dan",
  "video_id": "lxVuL4HBvag",
- "date": "2025-01-01",
+ "date": "2025-12-30",
  "date_precise": false,
  "title": "Ketpers Kepala Staf Kepresidenan M. Qodari dan Wamen Perumahan dan Kawasan Permukiman Fahri Hamzah",
  "channel": "Sekretariat Presiden",
@@ -205,5 +205,6 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

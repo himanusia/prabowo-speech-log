@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-istana-untuk-anak-sekolah-pondok-pesantren-qurrotu",
  "video_id": "IMT06KAREq4",
- "date": "2025-01-01",
+ "date": "2026-06-25",
  "date_precise": false,
  "title": "Istana untuk Anak Sekolah: Pondok Pesantren Qurrotu Nafsin",
  "channel": "Sekretariat Presiden",
@@ -64,5 +64,6 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

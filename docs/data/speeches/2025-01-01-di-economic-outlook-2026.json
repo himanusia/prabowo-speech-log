@@ -1,8 +1,8 @@
 {
  "id": "2025-01-01-di-economic-outlook-2026",
  "video_id": "5WWGecHqPzQ",
- "date": "2025-01-01",
- "date_precise": false,
+ "date": "2026-02-13",
+ "date_precise": true,
  "title": "[FULL] PIDATO PRESIDEN PRABOWO DI INDONESIA ECONOMIC OUTLOOK 2026",
  "channel": "METRO TV",
  "youtube_url": "https://www.youtube.com/watch?v=5WWGecHqPzQ",
@@ -1080,5 +1080,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_fixed_note": "tanggal 2025-01-01 adalah nilai default; diperbaiki dari tanggal unggah/judul"
 }

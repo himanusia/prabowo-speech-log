@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-perintahkan-pengiriman-bantuan-cepat-ke-tiga-provinsi",
  "video_id": "Xo0vFyS7iDE",
- "date": "2025-01-01",
+ "date": "2025-11-28",
  "date_precise": false,
  "title": "Presiden Prabowo Perintahkan Pengiriman Bantuan Cepat ke Tiga Provinsi Terdampak Bencana,28 Nov 2025",
  "channel": "Sekretariat Presiden",
@@ -103,5 +103,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

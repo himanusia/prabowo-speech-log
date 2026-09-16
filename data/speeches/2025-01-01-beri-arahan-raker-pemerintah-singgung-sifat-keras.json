@@ -1,8 +1,8 @@
 {
  "id": "2025-01-01-beri-arahan-raker-pemerintah-singgung-sifat-keras",
  "video_id": "vldOOnmHTpM",
- "date": "2025-01-01",
- "date_precise": false,
+ "date": "2026-04-08",
+ "date_precise": true,
  "title": "[FULL] PRESIDEN PRABOWO BERI ARAHAN RAKER PEMERINTAH, SINGGUNG SIFAT KERAS KEPALA",
  "channel": "METRO TV",
  "youtube_url": "https://www.youtube.com/watch?v=vldOOnmHTpM",
@@ -1246,5 +1246,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_fixed_note": "tanggal 2025-01-01 adalah nilai default; diperbaiki dari tanggal unggah/judul"
 }

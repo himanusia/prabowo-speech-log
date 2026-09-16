@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-prajurit-tni-bangga-tampil-di-hadapan-dan",
  "video_id": "pK_jxcmfttc",
- "date": "2025-01-01",
+ "date": "2025-11-15",
  "date_precise": false,
  "title": "Prajurit TNI Bangga Tampil di Hadapan Presiden Prabowo dan Raja Abdullah II ibn Al Hussein, 15/11/25",
  "channel": "Sekretariat Presiden",
@@ -69,5 +69,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

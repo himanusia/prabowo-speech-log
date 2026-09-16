@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-panggil-menteri-esdm-bahlil-lahadalia-terkait-reformasi",
  "video_id": "pkqLWT8m1iI",
- "date": "2025-01-01",
+ "date": "2025-02-04",
  "date_precise": false,
  "title": "Presiden Prabowo Panggil Menteri ESDM Bahlil Lahadalia Terkait Reformasi Subsidi LPG, 4 Feb 2025",
  "channel": "Sekretariat Presiden",
@@ -104,5 +104,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

@@ -1,8 +1,8 @@
 {
  "id": "2025-01-01-arahan-pada-retret-kedua-kabinet-merah-putih",
  "video_id": "qJS5c-0ZYmA",
- "date": "2025-01-01",
- "date_precise": false,
+ "date": "2026-01-06",
+ "date_precise": true,
  "title": "[FULL] Arahan Presiden Prabowo pada Retret Kedua Kabinet Merah Putih #beritasatu",
  "channel": "BeritaSatu",
  "youtube_url": "https://www.youtube.com/watch?v=qJS5c-0ZYmA",
@@ -566,5 +566,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_fixed_note": "tanggal 2025-01-01 adalah nilai default; diperbaiki dari tanggal unggah/judul"
 }

@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-ucapkan-selamat-hari-pers-nasional-ke-79-tahun",
  "video_id": "Sw60jVMNOiA",
- "date": "2025-01-01",
+ "date": "2025-02-09",
  "date_precise": false,
  "title": "Presiden Prabowo Ucapkan Selamat Hari Pers Nasional ke-79 Tahun 2025",
  "channel": "Sekretariat Presiden",
@@ -74,5 +74,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

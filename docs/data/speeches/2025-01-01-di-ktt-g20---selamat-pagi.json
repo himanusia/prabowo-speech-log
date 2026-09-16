@@ -1,0 +1,64 @@
+{
+ "id": "2025-01-01-di-ktt-g20---selamat-pagi",
+ "video_id": "aqEuc5EZY40",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Pidato Presiden Prabowo Subianto di KTT G20 - [Selamat Pagi Indonesia]",
+ "channel": "METRO TV",
+ "youtube_url": "https://www.youtube.com/watch?v=aqEuc5EZY40",
+ "duration_s": 111,
+ "duration_hms": "1:51",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 157,
+ "unique_word_count": 118,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "aqEuc5EZY40",
+   "url": "https://www.youtube.com/watch?v=aqEuc5EZY40",
+   "title": "Pidato Presiden Prabowo Subianto di KTT G20 - [Selamat Pagi Indonesia]",
+   "channel": "METRO TV",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 1,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 5
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 30.0,
+   "text": "pemirsa Anda masih bersama kami di Selamat pagi Indonesia kali ini saya mau hadirkan informasi seputar lawatan presiden Prabowo subyanto ke sejumlah negara nah salah satunya pemirsa presiden Prabowo Subianto menghadiri pembukaan KTT g20 di Brazil dan dalam pidatonya pemirsa presiden Prabowo Subianto menyampaikan kebijakan anggarannya yang mengalokasikan sangat besar untuk sektor pendidikan demi masyarakat bisa keluar dari kemiskinan ya presiden mengaku senang"
+  },
+  {
+   "t": 30.0,
+   "d": 31.0,
+   "text": "Indonesia dapat bergabung dengan kttg 20 tahun ini lantaran isu yang diusung dekat dengan isu sehari-hari di masyarakat Indonesia menurut presiden persoalan kemiskinan dan kelaparan untuk Indonesia ini adalah soal kepentingan nasional yang vital karena selain anggaran besar untuk pendidikan presiden juga menekankan makan bergizi gratis sebagai strategi yang paling penting untuk mengurangi kemiskinan dan juga kidaetah kriusi dengan aliansi Global"
+  },
+  {
+   "t": 61.0,
+   "d": 50.0,
+   "text": "melawan kelaparan dan kemiskinan G matter of Val National Interest in my budget I spend very high percentage for education because i believe that education will BR us jelajahi cara baru mendapatkan informasi download Metro TV extn sekarang"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ }
+}

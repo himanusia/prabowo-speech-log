@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-80-tahun-merdeka-bersatu-berdaulat-rakyat-sejahtera",
  "video_id": "px1vtrT6jGQ",
- "date": "2025-01-01",
+ "date": "2025-08-19",
  "date_precise": false,
  "title": "80 Tahun Indonesia Merdeka. Bersatu Berdaulat, Rakyat Sejahtera, Indonesia Maju",
  "channel": "Sekretariat Presiden",
@@ -64,5 +64,6 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

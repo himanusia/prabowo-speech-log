@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-saksikan-besok-rangkaian-acara-peringatan-80-tahun",
  "video_id": "0vfRDrI21gA",
- "date": "2025-01-01",
+ "date": "2025-08-16",
  "date_precise": false,
  "title": "Saksikan Besok! Rangkaian Acara Peringatan 80 Tahun Kemerdekaan Republik Indonesia",
  "channel": "Sekretariat Presiden",
@@ -59,5 +59,6 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

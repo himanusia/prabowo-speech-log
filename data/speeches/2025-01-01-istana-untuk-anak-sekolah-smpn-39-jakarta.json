@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-istana-untuk-anak-sekolah-smpn-39-jakarta",
  "video_id": "_Nk4pAl8C-w",
- "date": "2025-01-01",
+ "date": "2026-04-16",
  "date_precise": false,
  "title": "Istana untuk Anak Sekolah: SMPN 39 Jakarta",
  "channel": "Sekretariat Presiden",
@@ -74,5 +74,6 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

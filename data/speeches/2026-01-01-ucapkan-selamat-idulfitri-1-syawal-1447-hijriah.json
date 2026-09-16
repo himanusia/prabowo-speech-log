@@ -1,7 +1,7 @@
 {
  "id": "2026-01-01-ucapkan-selamat-idulfitri-1-syawal-1447-hijriah",
  "video_id": "yju7lC1JBmg",
- "date": "2026-01-01",
+ "date": "2026-03-20",
  "date_precise": false,
  "title": "Presiden Prabowo Ucapkan Selamat Idulfitri 1 Syawal 1447 Hijriah, 20 Maret 2026",
  "channel": "Sekretariat Presiden",
@@ -74,5 +74,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

@@ -1,0 +1,898 @@
+{
+ "id": "2025-01-01-arahan-penanganan-pascagempa-ntt",
+ "video_id": "iN5vRmRfaIE",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "[FULL] ARAHAN PRESIDEN PRABOWO PENANGANAN PASCAGEMPA NTT",
+ "channel": "METRO TV",
+ "youtube_url": "https://www.youtube.com/watch?v=iN5vRmRfaIE",
+ "duration_s": 2049,
+ "duration_hms": "34:09",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 289,
+ "token_count": 3082,
+ "unique_word_count": 837,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "iN5vRmRfaIE",
+   "url": "https://www.youtube.com/watch?v=iN5vRmRfaIE",
+   "title": "[FULL] ARAHAN PRESIDEN PRABOWO PENANGANAN PASCAGEMPA NTT",
+   "channel": "METRO TV",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 12,
+  "ekonomi": 8,
+  "pendidikan": 22,
+  "kesehatan_dan_gizi": 20,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 38
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 2
+  },
+  "Koperasi desa": {
+   "count": 1
+  },
+  "PLTS / energi surya": {
+   "count": 5
+  },
+  "Bencana dan penanganan": {
+   "count": 6
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 4.0,
+   "text": "Baik, ada lagi?"
+  },
+  {
+   "t": 5.0,
+   "d": 16.0,
+   "text": "Baik. Ee saya saya rangkum dan saya memberi komentar-komentar saya. Yang pertama saya ucapkan terima kasih."
+  },
+  {
+   "t": 21.0,
+   "d": 52.0,
+   "text": "Penghargaan saya kepada seluruh instansi ya terkait. Terima kasih BNPB Nasional, terima kasih ee kementerian-kementerian terkait TNI Polri. Terima kasih. saya panglima TNI, Kapolri, semua kepala staf pangdam Kapolda ya Basarnas Badan Penanggulangan Bencana Daerah ya."
+  },
+  {
+   "t": 73.0,
+   "d": 15.0,
+   "text": "sampaikan ee terima kasih saya atas nama pemerintah pusat kepada saudara-saudara sekalian semuanya yang telah ee bekerja sangat keras, reaksi cepat."
+  },
+  {
+   "t": 88.0,
+   "d": 14.0,
+   "text": "ee memang sengaja saya di awal-awal saya tidak mau datang karena saya mau beri kesempatan semua instansi untuk melayani rakyat langsung."
+  },
+  {
+   "t": 102.0,
+   "d": 7.0,
+   "text": "Kadang-kadang kalau terlalu banyak pejabat pusat datang terpecah konsentrasi."
+  },
+  {
+   "t": 109.0,
+   "d": 30.0,
+   "text": "Jadi ee pejabat daerah harus menjemput dan sebagainya itu kadang-kadang ee ada kecenderungan ee akhirnya bisa menjadi mengalihkan fokus pertama. Tetapi kita terus memonitor dan kita yang paling penting dari pusat adalah mengerahkan ee pelayanan dan bantuan."
+  },
+  {
+   "t": 139.0,
+   "d": 3.0,
+   "text": "Itu yang paling penting ya."
+  },
+  {
+   "t": 142.0,
+   "d": 15.0,
+   "text": "Kalau kita datang habis itu hanya lihat ee bencana tadi gak bisa mengatasi, gak bisa kirim bantuan e ya itu akhirnya kurang efektif."
+  },
+  {
+   "t": 157.0,
+   "d": 21.0,
+   "text": "Jadi ee setelah saya dapat laporan saudara-saudara, saya mantau ee kita sudah berbuat maksimal tentunya kita ingin berbuat lebih ya. Ee terima kasih tadi ee laporan dari Gubernur dan Bupati."
+  },
+  {
+   "t": 178.0,
+   "d": 6.0,
+   "text": "Saya terima kasih ya. Ini bupati pemimpin yang paling dekat sama rakyat."
+  },
+  {
+   "t": 184.0,
+   "d": 14.0,
+   "text": "Jadi Anda yang merasakan mungkin ee manfaat juga dari MBG ya."
+  },
+  {
+   "t": 198.0,
+   "d": 51.0,
+   "text": "Kalau saya punya keyakinan, hanya beberapa elit politik ya dengan kepentingan politik tidak memahami tapi pada ujungnya mereka akan memahami ya. Kalau untuk orang yang mampu satu porsi makanan itu tidak ada artinya. Tapi untuk mereka yang dalam keadaan susah dan susahnya juga berhari-hari banyak yang cerita kepada saya mereka-mereka yang sebetulnya sudah sudah jadi orang mereka ingat waktu saya kecil Pak saya berangkat sekolah lapar saya pulang sekolah lapar"
+  },
+  {
+   "t": 249.0,
+   "d": 10.0,
+   "text": "syukur dia sudah lolos. Tapi sekarang yang kita mikir adalah ibu-ibu dan anak-anak ya."
+  },
+  {
+   "t": 259.0,
+   "d": 4.0,
+   "text": "Jadi MBG ee berperan."
+  },
+  {
+   "t": 263.0,
+   "d": 18.0,
+   "text": "Kemudian ee saya yakin dengan nanti koperasi merah putih dan desa-desa nelayan kalau sudah berfungsi ee benar dan sudah ee optimal berfungsi, saya kira juga akan sangat membantu."
+  },
+  {
+   "t": 281.0,
+   "d": 11.0,
+   "text": "Saya catat tadi eh [batuk] saran dari bupati ya. Saya kira ini bagus sekali."
+  },
+  {
+   "t": 292.0,
+   "d": 12.0,
+   "text": "ee kita akan dukung ya. Jadi ee yang tadi Anda siapkan lahan 8.000 hektar ya."
+  },
+  {
+   "t": 304.0,
+   "d": 20.0,
+   "text": "Nanti nanti dicari dicari sumber air yang benar ya. sumber airnya ee kalau tidak kita bisa bor atau kita bikin desalinasi."
+  },
+  {
+   "t": 324.0,
+   "d": 12.0,
+   "text": "Saya minta ee Brin ee Brin mungkin dengan Unhan ya, TNI dan ee fakultas-fakultas teknik."
+  },
+  {
+   "t": 336.0,
+   "d": 41.0,
+   "text": "ee saya minta teknologi desalinasi ee untuk yang kita mampu bangun sendiri segera dikirim ke daerah-daerah yang sangat membutuhkan tadi terutama Pulau Palu Palue ya segera dikirim ke pulau-pulau tersebut atau ke daerah-daerah yang membutuhkan di pinggir di pantai-pantai ya. Kemudian apakah yang 8.000 hektar ini ee dekat dengan pantai?"
+  },
+  {
+   "t": 377.0,
+   "d": 20.0,
+   "text": "Dia sebetulnya terpusat di EMP sini Bapak tapi sebagian sebetulnya terpusat dimbai Bapak kalau jalan dari sini ke lapangan Berdikari nanti Bapak itu sepanjang mata memandang itu masih sawah. Inilah itu itu dekat dengan pantai atau tidak?"
+  },
+  {
+   "t": 397.0,
+   "d": 2.0,
+   "text": "Ada yang dekat, ada yang tidak, Bapak."
+  },
+  {
+   "t": 399.0,
+   "d": 6.0,
+   "text": "Heeh. Kalau bagian selatan dari 8.000 hektar berapa ribu yang dekat dengan pantai?"
+  },
+  {
+   "t": 405.0,
+   "d": 4.0,
+   "text": "Saya kira enggak lebih dari 10.000, Bapak."
+  },
+  {
+   "t": 409.0,
+   "d": 9.0,
+   "text": "Dari 8000 ee dari 8.000 enggak lebih dari 100 hektar. Kalau bagian pantai sedikit sekali. Ini bagian utara Bapak dengan BA."
+  },
+  {
+   "t": 418.0,
+   "d": 2.0,
+   "text": "Oke. Eh, itu jauh dari pantai."
+  },
+  {
+   "t": 420.0,
+   "d": 6.0,
+   "text": "Menurut Anda, Pak Bupati, sumber air dari mana?"
+  },
+  {
+   "t": 426.0,
+   "d": 13.0,
+   "text": "Kami punya proyek nas ee PSN di Nagekeo, Bapak. Ini proyek ee Bahaduk Lambo ini kalau Iya. Itu bendungan. Ah, Pak. Bendungan."
+  },
+  {
+   "t": 439.0,
+   "d": 3.0,
+   "text": "Iya. Iya, Bapak. Ah, jadi ada sungai besar."
+  },
+  {
+   "t": 442.0,
+   "d": 15.0,
+   "text": "Ada di sini, Pak. Di sini ada bendungan Lambo sudah hampir 100% dikerjain sama yang bertugas itu sampai 45 juta ee kubik di atas kalau sudah di ada ada bendungannya ya. Ada, ada, ada berapa? Sudah 90%."
+  },
+  {
+   "t": 457.0,
+   "d": 2.0,
+   "text": "Sudah 90 hampir jadi. Hampir jadi, Pak."
+  },
+  {
+   "t": 459.0,
+   "d": 6.0,
+   "text": "Berapa bulan lagi? Jadinya saya 2 3 bulan selesai."
+  },
+  {
+   "t": 465.0,
+   "d": 3.0,
+   "text": "Setelah 3 bulan berarti sumber air cukup ya? Cukup, Pak."
+  },
+  {
+   "t": 468.0,
+   "d": 14.0,
+   "text": "Tinggal ee irigasi ya, irigasi sekunder dan terti sampai ke Baik. Kalau asal asal ee irigasinya sudah siap ya. Iya."
+  },
+  {
+   "t": 482.0,
+   "d": 6.0,
+   "text": "Kita kita dukung proyek ini. Siap. 8.000 hektar ya. Iya."
+  },
+  {
+   "t": 488.0,
+   "d": 10.0,
+   "text": "8.000 hektar. Mungkin yang 100 hektar dekat pantai kita bikin ee budidaya ikan."
+  },
+  {
+   "t": 498.0,
+   "d": 13.0,
+   "text": "Dan yang pantai kita juga bikin ee budidaya ikan juga. Ada yang langsung di pantai, ada yang masuk sedikit ke pantai. Gak apa-apa 100 hektar itu cukup besar. Iya."
+  },
+  {
+   "t": 511.0,
+   "d": 8.0,
+   "text": "Untuk budidaya ikan ya untuk ee 8.000 hektar untuk pertanian."
+  },
+  {
+   "t": 519.0,
+   "d": 26.0,
+   "text": "Kemudian yang nanti Pak Bupati, Pak Gubernur ya dan nanti kita di pusat ini ee saya cukup mengertilah daerah-daerah sini ya. Ee [tertawa] masalah di sini adalah masalah bahwa pohon-pohon banyak berkurang ya."
+  },
+  {
+   "t": 545.0,
+   "d": 11.0,
+   "text": "Ee kalau tidak salah juga dari dulu ya rakyat di sini juga banyak bakar hutan ya. Benar kan?"
+  },
+  {
+   "t": 556.0,
+   "d": 35.0,
+   "text": "Benar. Saya hafal, saya tahu saya saya waktu muda juga lama di daerah-daerah sini ya. Masalahnya itu jadi rakyat kita harus dikasih pendidikan ya buka lahan tidak boleh dengan bakar-bakar. Tapi okelah itu memang masalah. Jadi di sini dulu daerahnya ini lebat. Kalau kita pikir 100 tahun yang lalu, 200 tahun yang lalu ya. Portugis, Spanyol datang ke sini mencari kayu untuk angkatan laut mereka."
+  },
+  {
+   "t": 591.0,
+   "d": 3.0,
+   "text": "Makanya mereka menjajah timur-timur."
+  },
+  {
+   "t": 594.0,
+   "d": 22.0,
+   "text": "Mereka masuk ke masuk ke timur barat, masuk ke nyari kayu kita untuk angkatan laut mereka. Jadi super power itu dulu super power kekuatan militernya di angkatan laut. angkatan lautnya dari kayu."
+  },
+  {
+   "t": 616.0,
+   "d": 58.0,
+   "text": "Jadi kita ingatkan oke itu sudah sejarah. Nah, sekarang ya provinsi kemudian ee kabupaten nanti dibantu pusat dibantu dengan ee perguruan-program tinggi koordinir oleh Dikti sama Brin ya. ee harus punya ee tim ya nanti diambil dari kabupaten dan ee provinsi ee perguruan-perguruan tinggi mungkin ada politik ambil beberapa personil termasuk juga mungkin dari pemda ini saya minta di tatar oleh Dikti oleh Unhan dan Brin. Saya telah membentuk waktu itu Unhan,"
+  },
+  {
+   "t": 674.0,
+   "d": 12.0,
+   "text": "Dikti sama Brin untuk keliling berapa negara belajar bagaimana mempercepat penghijauan."
+  },
+  {
+   "t": 686.0,
+   "d": 26.0,
+   "text": "[berdehem][batuk] Mempercepat penghijauan. Jadi nanti ee dibantu oleh pusat kita bangun nursery perbenihan ya di provinsi dan di tiap kabupaten perbenihan untuk disemaikan benih-benih pohon yang produktif ya. Pohon dan tanaman produktif."
+  },
+  {
+   "t": 712.0,
+   "d": 12.0,
+   "text": "semua lahan yang terbuka kita tanam pohon yang produktif dan pohon-pohon untuk mengamankan air."
+  },
+  {
+   "t": 724.0,
+   "d": 30.0,
+   "text": "Kemudian gunung-gunung kita lakukan ee apa yang disebut perma culture. perma culture ini ee memang tidak bisa langsung 1 du tahun hasilnya, tapi kalau dilakukan dengan teliti dalam 4 5 6 tahun itu ee bisa [berdehem] menampung dan menambah air di dalam bumi."
+  },
+  {
+   "t": 754.0,
+   "d": 12.0,
+   "text": "Ini sangat penting ya. Jadi ini saya saya yakin dengan permaculture [berdehem] daerah-daerah Gundul ini dalam 10 tahun bisa hijau kembali ya."
+  },
+  {
+   "t": 766.0,
+   "d": 17.0,
+   "text": "Jadi nanti ee provinsi dan kabupaten selain pertanian tapi juga ee penghijauan kembali menanam pohon dalam jumlah yang sangat banyak ya."
+  },
+  {
+   "t": 783.0,
+   "d": 30.0,
+   "text": "ya dengan pendidikan mulai dari anak-anak muda lah anak-anak sekolah ya bahwa tidak lagi boleh bakar atau tebang pohon seenaknya ya. Pohon adalah sumber kehidupan ya. Pohon adalah sumber kehidupan nutri."
+  },
+  {
+   "t": 813.0,
+   "d": 9.0,
+   "text": "No forest, no forest, no water. No water, no life."
+  },
+  {
+   "t": 822.0,
+   "d": 6.0,
+   "text": "Ingat ya. No tree, no forest."
+  },
+  {
+   "t": 828.0,
+   "d": 7.0,
+   "text": "No forest, no water. No water, no life."
+  },
+  {
+   "t": 835.0,
+   "d": 2.0,
+   "text": "Ya, masalah air ini jadi sangat penting."
+  },
+  {
+   "t": 837.0,
+   "d": 32.0,
+   "text": "Ya, kita pakai teknologi disalinasi ya. desinasi yang kita kembangkan ee oleh lembaga pendidikan kita sendiri sudah ada, tapi teknologi dari luar negeri juga harganya sudah menurun. Ini nanti kita integrasikan ya, kita bantu ke semua ee kabupaten, kecamatan desa yang membutuhkan air bersih. Tapi kita harus edukasi rakyat kita ya."
+  },
+  {
+   "t": 869.0,
+   "d": 32.0,
+   "text": "Jadi saya ee saya dukung ya 8.000 hektar kalau 3 bulan lagi menurut Menteri PU Irigasi jalan kita mulai. Setelah itu ee 8.000 hektar itu menjadi lumbung pangan ya. Nanti kita lihat kabupaten-kabupaten lain juga ya, NTT kita rubah untuk jadi hijau semua ya. Gubernur terima kasih."
+  },
+  {
+   "t": 901.0,
+   "d": 3.0,
+   "text": "Bisa jangan terima kasih. Bisa enggak kau? Bisa Pak. Benar."
+  },
+  {
+   "t": 904.0,
+   "d": 7.0,
+   "text": "Bisa karena kami tahun dari lima besar nasional Pak untuk pertanian."
+  },
+  {
+   "t": 911.0,
+   "d": 7.0,
+   "text": "Bagus. Iya. Peternakan kalian juga sebetulnya potensi sekali ya."
+  },
+  {
+   "t": 918.0,
+   "d": 3.0,
+   "text": "Bagus. Jangan kau kuningkan, hijaukan."
+  },
+  {
+   "t": 921.0,
+   "d": 8.0,
+   "text": "Siap. Siap. Siap. [tertawa] Terjemahkan lain bahaya. Siap. Siap."
+  },
+  {
+   "t": 929.0,
+   "d": 5.0,
+   "text": "Warna kita hanya merah putih. Siap."
+  },
+  {
+   "t": 934.0,
+   "d": 7.0,
+   "text": "Desalenasi mereka minta menambah tenda untuk sekolah ya."
+  },
+  {
+   "t": 941.0,
+   "d": 11.0,
+   "text": "Iya Bapak ya. Coba diperhitungkan ya dan pikirkan tenda macam apa ini tenda militer untuk ruang kelas mungkin ini izin lapor Bapak I."
+  },
+  {
+   "t": 952.0,
+   "d": 6.0,
+   "text": "Jadi Kementerian Dikdasmen juga sudah menyiapkan tenda-tenda sekolah. Oke. Sekarang dalam proses pengiriman Bapak. Oke."
+  },
+  {
+   "t": 958.0,
+   "d": 5.0,
+   "text": "Untuk sementara pakai tenda-tenda pengungsi yang orange juga kami dukung lebih tinggi."
+  },
+  {
+   "t": 963.0,
+   "d": 6.0,
+   "text": "Siap untuk sekolah sementara lebih luas ya. Siap. Luas. Lebih luas. Lebih tinggi. Siap."
+  },
+  {
+   "t": 969.0,
+   "d": 5.0,
+   "text": "Kalau terpaksa ini ini sampingnya dibuka kali ya. Iya. Ya."
+  },
+  {
+   "t": 974.0,
+   "d": 8.0,
+   "text": "Ada tenda kami nanti ke Pak ini bisa berapa orang ya? Bisa berapa anak ini? Siap satu peron 30 orang. Kalau tenda BNB bisa 4050 orang."
+  },
+  {
+   "t": 982.0,
+   "d": 2.0,
+   "text": "4. Oke. Oke."
+  },
+  {
+   "t": 984.0,
+   "d": 17.0,
+   "text": "Ya sudah. Sementara sekolah enggak boleh berhenti ya. Jadi siap tambah tenda mau tembak tambah oranya mau mau hijau, mau siap putih ya."
+  },
+  {
+   "t": 1001.0,
+   "d": 21.0,
+   "text": "Oke. Ee air air sangat penting. Saya sudah sebut ya. air sangat penting. Jadi, selain langkah jangka pendek, kita harus berpikir ee melakukan upaya-upaya jangka menengah dan jangka panjang."
+  },
+  {
+   "t": 1022.0,
+   "d": 9.0,
+   "text": "Permaculture membutuh 5 tahun itu kesabaran, ketekunan ya, ketabahan, gotong-royong."
+  },
+  {
+   "t": 1031.0,
+   "d": 3.0,
+   "text": "Jadi semua rakyat harus mengerti."
+  },
+  {
+   "t": 1034.0,
+   "d": 27.0,
+   "text": "Makanya kita nanti edukasi ya. Jadi eh Brain ee Dikti mengedukasi tidak hanya NTT, semua kabupaten, seluruh Indonesia harus diedukasi masalah ee menjaga menjaga hutan yang sudah gundul kita ijaukan kembali ya."
+  },
+  {
+   "t": 1061.0,
+   "d": 7.0,
+   "text": "Nanti Panglima TNI, Kapolri, semua kesatuan juga ambil peranan yang penting."
+  },
+  {
+   "t": 1068.0,
+   "d": 31.0,
+   "text": "Saya terima kasih Bupati ya. Saya besar hati ya ada kelompok kecil tapi mereka mungkin ee pakai teknik propaganda, pakai sosm dan sebagainya ya. mungkin enggak pernah enggak pernah lihat anak-anak lapar gitu mungkin ya atau saya tidak tahu banyak yang sudahlah itu kita hormati kritik tapi kita kerja keras untuk rakyat kita ya."
+  },
+  {
+   "t": 1099.0,
+   "d": 24.0,
+   "text": "Kemudian ee tadi ya masalah itu sama saya kira kita ya saya mengajak selalu kalau saya memimpin saya itu punya moto untuk diri saya dan untuk yang saya pimpin."
+  },
+  {
+   "t": 1123.0,
+   "d": 7.0,
+   "text": "Siapa berani menang? Berani itu harus berani."
+  },
+  {
+   "t": 1130.0,
+   "d": 19.0,
+   "text": "Berani berpikir, berani bertanya, berani mendengar, berani mencari tahu yang benar-benar dirasakan."
+  },
+  {
+   "t": 1149.0,
+   "d": 8.0,
+   "text": "orang yang paling jauh, paling susah, paling miskin, paling tidak berdaya."
+  },
+  {
+   "t": 1157.0,
+   "d": 17.0,
+   "text": "Dan untuk itu ya pemimpin-pemimpin rakyat, saya selalu katakan gubernur, bupati, camat, kepala desa itu pemimpin rakyat yang paling dekat. Jadi, terima kasih masukan saudara ya."
+  },
+  {
+   "t": 1174.0,
+   "d": 42.0,
+   "text": "Ee sebaliknya saya juga menyampaikan karena yang tadi saya bilang itu saya juga tahu ya kan budaya-budaya daerah sini ya kan buka lahan bakar kadang-kadang berburu iya bakar benarkah iya iya betul betulkah betul ah betul daerah sini tadinya penuh dengan rusak iya benar benar rusak semua Indonesia Timur ee mungkin nenek moyang mereka itu karena dulu lebat hutan ya dan juduk nah oke kita enggak apa-apa ini kita rubah"
+  },
+  {
+   "t": 1216.0,
+   "d": 39.0,
+   "text": "ya [mendengus][berdehem] kita harus berani mendiriska ini daerah yang paling terkenal cendana dari daerah siniendana benar ya benar seluruh dunia nyari cendana makanya mereka cari sampai ke sini E ada apa Portugal ke sini zaman sekian ratus tahun 500 tahun yang lalu mereka ke sini untuk apa? Kalau bukan mencari sesuatu yang sangat berharga. Ya, ini daerah sangat potensial, daerah-daerah Indonesia sangat potensial. Kita harus bertekad. Jadi, kita berani berpikir dan berpikir itu harus berpikir besar."
+  },
+  {
+   "t": 1255.0,
+   "d": 15.0,
+   "text": "Berani berpikir besar ya. berani punya target yang tinggi itu baru berhasil."
+  },
+  {
+   "t": 1270.0,
+   "d": 7.0,
+   "text": "Apakah pribadi yang berhasil? Apa kelompok yang berhasil? Apakah desa yang berhasil?"
+  },
+  {
+   "t": 1277.0,
+   "d": 7.0,
+   "text": "Apakah kabupaten yang berhasil? Apakah provinsi yang berhasil? Apakah negara yang berhasil?"
+  },
+  {
+   "t": 1284.0,
+   "d": 12.0,
+   "text": "Mereka yang berani, berani berpikir, berani mencari tahu, berani belajar, berani mencari ilmu, berani berbuat."
+  },
+  {
+   "t": 1296.0,
+   "d": 5.0,
+   "text": "Saya senang dengar bupati seperti kau. Saya punya lahan 8.000."
+  },
+  {
+   "t": 1301.0,
+   "d": 5.0,
+   "text": "Kalau punya lahan R.000, ah, itu lebih bagus lagi."
+  },
+  {
+   "t": 1306.0,
+   "d": 9.0,
+   "text": "Tapi 8.000 Ibu dan Anda bertekad untuk jadikan lumbung pangan ini. Anda pemimpin yang benar."
+  },
+  {
+   "t": 1315.0,
+   "d": 11.0,
+   "text": "Saya terima kasih punya pemimpin seperti kalian ya. Rakyatmu. Saya kira bersyukur ada gubernur bupati seperti kalian."
+  },
+  {
+   "t": 1326.0,
+   "d": 6.0,
+   "text": "Satu lagi pelajaran dari yang saya dapat dari guru-guru saya."
+  },
+  {
+   "t": 1332.0,
+   "d": 9.0,
+   "text": "Kalau dalam keadaan susah, selalu berpihak kepada rakyatmu."
+  },
+  {
+   "t": 1341.0,
+   "d": 7.0,
+   "text": "Kalau kau berbuat untuk rakyatmu, tidak akan salah."
+  },
+  {
+   "t": 1348.0,
+   "d": 4.0,
+   "text": "Rakyatmu sedang susah, sedang lapar."
+  },
+  {
+   "t": 1352.0,
+   "d": 5.0,
+   "text": "Bagaimana caranya kau bisa bikin dia tidak lapar?"
+  },
+  {
+   "t": 1357.0,
+   "d": 14.0,
+   "text": "Jadi nanti kita rubah lahan yang belum berproduktif jadi produktif ya. Kabupaten yang hijau, provinsimu jadi provinsi yang hijau."
+  },
+  {
+   "t": 1371.0,
+   "d": 9.0,
+   "text": "Indonesia bangkit dan Indonesia kuat. Ya, sekali lagi berani."
+  },
+  {
+   "t": 1380.0,
+   "d": 3.0,
+   "text": "Dunia ini milik orang yang berani."
+  },
+  {
+   "t": 1383.0,
+   "d": 6.0,
+   "text": "Berani, berani bermimpi. Bermimpi pun berani."
+  },
+  {
+   "t": 1389.0,
+   "d": 16.0,
+   "text": "Jangan menyerah. Jangan pernah menyerah. Jangan apalagi apa itu istilahnya layu sebelum berkembang. Berkembang. Menyerah sebelum bertarung."
+  },
+  {
+   "t": 1405.0,
+   "d": 29.0,
+   "text": "Ya, tapi saya juga paham juga ini rakyat Indonesia Timur mereka itu sebetulnya ditantang mereka berani-berani. Ya, Good. Terima kasih saudara-saudara. Ya, saya sampaikan penghargaan kepada Saudara-saudara. Sekali lagi saudara-saudara periksa. Cek anak buahmu yang kerja keras catat."
+  },
+  {
+   "t": 1434.0,
+   "d": 46.0,
+   "text": "rakyat kita, anak buahmu semua yang kerja keras, yang kerja benar, yang berkorban. Tadi ada yang menyampaikan ya, bupati menyampaikan jam 12.00 semalam gubernur menykerja keras itu ini dicatat siapa yang bekerja keras siapa yang berkorban dan itu dicatat dan itu kita harus memberi penghargaan dan penghargaan itu kita berikan dalam bentuk yang bisa dirasakan kadang-kadang jangan cukup hanya dengan terima kasih ya itu tidak itu oke daripada enggak terima kasih Tapi harus ada wujud nyata."
+  },
+  {
+   "t": 1480.0,
+   "d": 7.0,
+   "text": "Iya kan? Pemimpin itu jangan hanya datang terima kasih kunjungan-kunjungan. Ya, apa kau butuh?"
+  },
+  {
+   "t": 1487.0,
+   "d": 6.0,
+   "text": "Nah, sekarang saya tanya Gubernur, Bupati, Pangdam, Kapolda."
+  },
+  {
+   "t": 1493.0,
+   "d": 9.0,
+   "text": "BP, B BPD, BPD, BP, PD."
+  },
+  {
+   "t": 1502.0,
+   "d": 5.0,
+   "text": "Masih kau butuh apa dari pusat? Tenda kau minta. Iya kan? Iya."
+  },
+  {
+   "t": 1507.0,
+   "d": 5.0,
+   "text": "Bupati tambahan tenda untuk sekolah-sekolah. Siap. Oke. Apalagi? Siap."
+  },
+  {
+   "t": 1512.0,
+   "d": 33.0,
+   "text": "I izin Bapak melaporkan untuk kondisi wilayah Bali Nusra Mudayana dan kepulauan untuk mencapai mobilitas supaya lancar dalam pendistribusian pasukan maupun logistik untuk pecahan alam. Kami mohon dukungan kapal angkut jenis untuk pengantaran pasukan penyeberangan. Demikian ya kapal angkut apa itu LCM?"
+  },
+  {
+   "t": 1545.0,
+   "d": 15.0,
+   "text": "Siap sejelas ee LC. He ya pokoknya yang bisa langsung ke pantai gitu ya. Siap. Betul. Yang dikelola langsung program melalui PK. Oke. Baik. Kita catat."
+  },
+  {
+   "t": 1560.0,
+   "d": 4.0,
+   "text": "Berapa kau butuh? Siap. Dua Bapak. Dua. Siap."
+  },
+  {
+   "t": 1564.0,
+   "d": 7.0,
+   "text": "Baik. Bagus. Ini enggak minta banyak-banyak, Pak."
+  },
+  {
+   "t": 1571.0,
+   "d": 2.0,
+   "text": "Iya. Pak Kapolda apa?"
+  },
+  {
+   "t": 1573.0,
+   "d": 10.0,
+   "text": "Siap. Memizin Pak Presen. Jadi untuk mendukung operasional anggota kami di lapangan, Pak. Babin Kimas ini banyak yang belum memiliki motor, Pak."
+  },
+  {
+   "t": 1583.0,
+   "d": 8.0,
+   "text": "Kendaraan jadi Medan ini memang harus mereka menggunakan motor tril, Pak. Berapa botol tril kau butuh? Siap. Kalau bisa 100, Pak."
+  },
+  {
+   "t": 1591.0,
+   "d": 3.0,
+   "text": "100. Siap. Siap. Catat."
+  },
+  {
+   "t": 1594.0,
+   "d": 8.0,
+   "text": "Serta double cabin, Pak. Karena belum semua juga memiliki mobil patroli, Pak. Berapa Polresiko punya?"
+  },
+  {
+   "t": 1602.0,
+   "d": 8.0,
+   "text": "Polres ada 22, Pak. 22. Double cabin. Siap."
+  },
+  {
+   "t": 1610.0,
+   "d": 4.0,
+   "text": "Oke, terima kasih, Pak Gubernur."
+  },
+  {
+   "t": 1614.0,
+   "d": 7.0,
+   "text": "Siap, Pak Presiden. Untuk kebutuhan pendidikan kami punya SMA itu ada 1000 CNT."
+  },
+  {
+   "t": 1621.0,
+   "d": 13.0,
+   "text": "1000 1000 Flores itu mungkin kami butuh yang khusus Flores Pak Presiden ee biar bisa digelar segera pendidikan di tenda kami mungkin butuh kira-kira sekitar 500 tenda untuk biar bisa digelar pendidikan."
+  },
+  {
+   "t": 1634.0,
+   "d": 10.0,
+   "text": "untuk yang tadi untuk satu 30 orang sampai 50 orang untuk bisa mulai pendidikan karena kalau pendidikan sudah mulai jalan biar mulai mengurangi traumatis anak-anak."
+  },
+  {
+   "t": 1644.0,
+   "d": 17.0,
+   "text": "Yang kedua juga izin Pak Presiden ini selalu kejadian dari 92 ke sini itu jalur utara kami ini jadi penentu pergerakan ee apa bantuan dan kalau tidak bisa digerakin berarti udara ataupun laut. Kalau boleh izin Pak Presiden ini sejak zaman Pak Benbo dulu menjadi mimpinya kalau bisa utara kita buka, Pak."
+  },
+  {
+   "t": 1661.0,
+   "d": 30.0,
+   "text": "Kalau utara dibuka itu sektor produksi, pariwisata, ekonomi kita tuh di utara terbuka relatif Flores bisa lebih berkemanduka pakai apa di jalan utaranya dibuka Prof. Izin jalan utara lintitas utara Bapak izin direncanakan Menteri kita mulai Pak kita mulai sama izin Paknya tambahan untuk khusus yang untuk pendidikan anak-anak ee yang kuliah ee kalau boleh seperti di Jogja itu kan diuskan oleh Pak Sultan kalau boleh kita dibantu untuk anak-anak yang"
+  },
+  {
+   "t": 1691.0,
+   "d": 11.0,
+   "text": "memang korban dari bencana SD, SMP, SMA sampai kuliah itu kita mungkin berapa bulan ini kita mudahkan pembiayaan untuk yang anak-anak kuliah. Dan terakhir izin untuk ekonomi nih, Pak."
+  },
+  {
+   "t": 1702.0,
+   "d": 6.0,
+   "text": "Izin ini banyak sekali di NPT ini orang-orang pinjamnya itu selain perbankan juga di koperasi-koperasi."
+  },
+  {
+   "t": 1708.0,
+   "d": 9.0,
+   "text": "Ini saya dapat kabar itu ada beberapa koperasi harian yang sudah ngejar para korban ini suruh bayar. Nah, ini kan banyak juga kan koperasian itu kan memang berentir."
+  },
+  {
+   "t": 1717.0,
+   "d": 3.0,
+   "text": "Iya. Nanti nanti dia suruh menghadap saya mintanya."
+  },
+  {
+   "t": 1720.0,
+   "d": 4.0,
+   "text": "Siap [tertawa] itu rentrent suruh mengadap aku."
+  },
+  {
+   "t": 1724.0,
+   "d": 6.0,
+   "text": "Nanti aku yang siap siap siap. Jadi sebelum menghadap saya menghadap Kapolda dan Tandam ya."
+  },
+  {
+   "t": 1730.0,
+   "d": 3.0,
+   "text": "Siap siap [tertawa] siap."
+  },
+  {
+   "t": 1733.0,
+   "d": 15.0,
+   "text": "Jadi itu ada ada apa ada tapi ada nanti saya tunggu media keluar dulu baru saya Oh siap siap. Oke good terima kasih."
+  },
+  {
+   "t": 1748.0,
+   "d": 10.0,
+   "text": "Kapori masih ada engak Pak? tadi menjelaskan aja, Pak, kapalnya yang tadi Bapak tanyakannya A3, B1, C1, dan C2."
+  },
+  {
+   "t": 1758.0,
+   "d": 9.0,
+   "text": "Pak, kalau Bapak mau tambahkan lagi juga, Pak."
+  },
+  {
+   "t": 1767.0,
+   "d": 15.0,
+   "text": "Ini sebenarnya kalau saya minta apa pengajuan harusnya menghadap sendiri-sendiri ya. [tertawa] Akhirnya kalau kalau kalau kalau Pangda minta waduh Kapolda sudah nyatat semua."
+  },
+  {
+   "t": 1782.0,
+   "d": 5.0,
+   "text": "[tertawa] Baik terima kasih Menteri PU."
+  },
+  {
+   "t": 1787.0,
+   "d": 12.0,
+   "text": "Iya Pak saya cuman menjawab tadi yang dari Pak Gubernur. Kita yang jalur hutar sudah kita bawai Pak per 10 kilo 20 kilo. Jadi target kita pertama 200 kil itu dari Bajo sampai laboro, Pak."
+  },
+  {
+   "t": 1799.0,
+   "d": 0.5,
+   "text": "Oke."
+  },
+  {
+   "t": 1799.0,
+   "d": 8.0,
+   "text": "Itu dulu Pak. Nanti bertahap sampai dengan ke sika, Pak. Mau eh sampai sika berapa kilometer semuanya?"
+  },
+  {
+   "t": 1807.0,
+   "d": 2.0,
+   "text": "Eh total menit 600an."
+  },
+  {
+   "t": 1809.0,
+   "d": 2.0,
+   "text": "Iya sekitar 600-an kilo, Pak. 600."
+  },
+  {
+   "t": 1811.0,
+   "d": 5.0,
+   "text": "Nanti nanti kami pikirkan Pak caranya, Pak. Nanti kita kerjakan di Kalimata, Pak."
+  },
+  {
+   "t": 1816.0,
+   "d": 4.0,
+   "text": "Oke, terima kasih, Pak. Baik. Iya, silakan."
+  },
+  {
+   "t": 1820.0,
+   "d": 9.0,
+   "text": "Selamat siang, Pak Presiden. Saya dari Kabupaten kami minta tambah tangki 5 unit yang 5.000 lit, Pak."
+  },
+  {
+   "t": 1829.0,
+   "d": 3.0,
+   "text": "E truk tangki itu kami aja, Pak. Kalau tangki a."
+  },
+  {
+   "t": 1832.0,
+   "d": 6.0,
+   "text": "Oke. Iya. Itu itu itu BNPB aja, Pak. Siap. Terima kasih. Kalau bendungan minta ke Presiden, ya."
+  },
+  {
+   "t": 1838.0,
+   "d": 8.0,
+   "text": "[tertawa] Ya, tangki itu urusanB BNB, Pak. Siap."
+  },
+  {
+   "t": 1846.0,
+   "d": 44.0,
+   "text": "Baik, terima kasih ya. ee ini kadang-kadang ya perlu ada suatu tantangan, perlu ada ya kata musibah, bencana itu memicu kita untuk berpikir lebih kreatif. Ya, dengan ini kita sadar bahwa untuk daerah sini ca penghijauan ya, penghijauan dan air ini kita sekarang sudah ada teknologi, sains dan teknologi sudah membuat banyak teknologi jadi makin murah."
+  },
+  {
+   "t": 1890.0,
+   "d": 4.0,
+   "text": "disalinasi 30 tahun yang lalu tidak terjangkau."
+  },
+  {
+   "t": 1894.0,
+   "d": 11.0,
+   "text": "Tidak terjangkau. Hanya bangsa yang kaya yang bisa disalinas. Sekarang kita bisa bikin desainasi untuk tingkat desa."
+  },
+  {
+   "t": 1905.0,
+   "d": 14.0,
+   "text": "Ya, banyak sekarang teknologi yang bisa cocok untuk di sini dan energi ya. Nanti energi kita ini teknologi dari tenaga surya."
+  },
+  {
+   "t": 1919.0,
+   "d": 22.0,
+   "text": "Di sini juga kalau perlu mungkin ya gunung-gunung yang belum produktif kita bikin PLTS. PLTS PLTS berapa gigawt PLTS di sini untuk ee sumber energi untuk proyek-proyek ekonomi yang bisa produktif."
+  },
+  {
+   "t": 1941.0,
+   "d": 9.0,
+   "text": "Saya optimis daerah sini nanti bisa jadi sumber pangan bangsa dan dunia. Amin."
+  },
+  {
+   "t": 1950.0,
+   "d": 6.0,
+   "text": "Ya, perikanan sangat potensial daerah sini."
+  },
+  {
+   "t": 1956.0,
+   "d": 10.0,
+   "text": "Kalau dari atas pesawat itu lautnya itu biru dalam, belum tercemar."
+  },
+  {
+   "t": 1966.0,
+   "d": 21.0,
+   "text": "Ya, ini nanti perikanan rumput laut kalian kembangkan di sini. Makanya tadi saya tanya pantainya dan sebagainya ya. Indonesia punya ee panjang pantai mungkin ketiga terbesar di dunia. Nomor dua."
+  },
+  {
+   "t": 1987.0,
+   "d": 9.0,
+   "text": "Setelah Kanada sudah nomor dua kita. Nomor dua Kanada baru kita ya. kita lebih panjang dari Rusia."
+  },
+  {
+   "t": 1996.0,
+   "d": 1.0,
+   "text": "Dari Rusia lebih panjang ya."
+  },
+  {
+   "t": 1997.0,
+   "d": 7.0,
+   "text": "Lebih panjang dan Rusia kena S dia 6 bulan ya kan kita 1 tahun."
+  },
+  {
+   "t": 2004.0,
+   "d": 9.0,
+   "text": "Jadi ini semua potensi ikan rumput laut industri dari laut ya."
+  },
+  {
+   "t": 2013.0,
+   "d": 6.0,
+   "text": "Baik saya kira itu dari saya ya. Ee selamat bekerja. Terima kasih."
+  },
+  {
+   "t": 2019.0,
+   "d": 5.0,
+   "text": "Terima kasih ee jeripaya saudara-saudara ya."
+  },
+  {
+   "t": 2024.0,
+   "d": 18.0,
+   "text": "Baik, saya tutup rapat koordinasi ini dengan mengucapkan puji syukur kehadirat Tuhan Maha Besar dan dengan selalu memohon pertolongan yang maha kuasa kita selalu diberi perlindungan dan kebaikan."
+  },
+  {
+   "t": 2042.0,
+   "d": 4.0,
+   "text": "Terima kasih. Selesai."
+  },
+  {
+   "t": 2046.0,
+   "d": 4.0,
+   "text": "[tepuk tangan] Jelajahi cara baru mendapatkan informasi. Download Metro TV Extend sekarang. Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ }
+}

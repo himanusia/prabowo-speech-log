@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-program-mbg-untuk-anak-anak-pulau-rote",
  "video_id": "oZrsq1nO5R0",
- "date": "2025-01-01",
+ "date": "2025-05-23",
  "date_precise": false,
  "title": "Program MBG Presiden Prabowo untuk Anak-Anak Pulau Rote",
  "channel": "Sekretariat Presiden",
@@ -128,5 +128,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

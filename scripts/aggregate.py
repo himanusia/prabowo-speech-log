@@ -32,7 +32,10 @@ def load_speeches() -> list[dict]:
     def terbit(d):
         k = d.get("speaker_kind")
         return True if k is None else k in ("pidato_prabowo", "prabowo_bicara")
-    return [d for d in rows if terbit(d)]
+    # Pidato yang transkrip aslinya bahasa Inggris tetap ada di arsip dan di
+    # daftar, tapi TIDAK ikut hitungan kata: seluruh analisis di sini berbasis
+    # kosakata Indonesia, jadi mencampurnya akan merusak angkanya.
+    return [d for d in rows if terbit(d) and d.get("transcript_language") != "en"]
 
 
 def text_of(s: dict) -> str:

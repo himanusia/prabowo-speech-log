@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-pertemuan-hangat-dan-pm-anwar-di-menara",
  "video_id": "___zQVTDZ98",
- "date": "2025-01-01",
+ "date": "2025-01-28",
  "date_precise": false,
  "title": "Pertemuan Hangat Presiden Prabowo dan PM Anwar di Menara Kembar Petronas, Kuala Lumpur, 27 Jan 2025",
  "channel": "Sekretariat Presiden",
@@ -124,5 +124,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

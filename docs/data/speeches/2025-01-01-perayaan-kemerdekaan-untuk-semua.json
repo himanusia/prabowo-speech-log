@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-perayaan-kemerdekaan-untuk-semua",
  "video_id": "YfThNWTDsX0",
- "date": "2025-01-01",
+ "date": "2026-08-15",
  "date_precise": false,
  "title": "Perayaan Kemerdekaan untuk Semua",
  "channel": "Sekretariat Presiden",
@@ -114,5 +114,6 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

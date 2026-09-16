@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-75-tahun-indonesia-prancis-kunjungan-emmanuel-macron-di",
  "video_id": "J-00qCrN14A",
- "date": "2025-01-01",
+ "date": "2025-06-01",
  "date_precise": false,
  "title": "75 Tahun Indonesia-Prancis, Kunjungan Presiden Emmanuel Macron di Indonesia",
  "channel": "Sekretariat Presiden",
@@ -69,5 +69,6 @@
  },
  "speaker_kind": "kunjungan",
  "worklist_kind": "kunjungan",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

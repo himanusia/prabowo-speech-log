@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-ckg-di-rote-program-sentuh-pulau-terluar",
  "video_id": "aGdHmLKqu8E",
- "date": "2025-01-01",
+ "date": "2025-05-23",
  "date_precise": false,
  "title": "CKG di Rote, Program Presiden Prabowo Sentuh Pulau Terluar Indonesia",
  "channel": "Sekretariat Presiden",
@@ -119,5 +119,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

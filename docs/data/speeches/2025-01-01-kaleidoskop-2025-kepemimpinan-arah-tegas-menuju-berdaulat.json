@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-kaleidoskop-2025-kepemimpinan-arah-tegas-menuju-berdaulat",
  "video_id": "P-qC_SuFM7g",
- "date": "2025-01-01",
+ "date": "2026-01-01",
  "date_precise": false,
  "title": "Kaleidoskop 2025: Kepemimpinan Presiden Prabowo, Arah Tegas Menuju Indonesia Berdaulat",
  "channel": "Sekretariat Presiden",
@@ -509,5 +509,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

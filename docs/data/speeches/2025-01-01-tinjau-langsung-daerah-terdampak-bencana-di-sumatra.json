@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-tinjau-langsung-daerah-terdampak-bencana-di-sumatra",
  "video_id": "-FwHIGfJrTQ",
- "date": "2025-01-01",
+ "date": "2025-12-01",
  "date_precise": false,
  "title": "Presiden Prabowo Tinjau Langsung Daerah Terdampak Bencana di Sumatra Utara, Aceh, dan Sumatra Barat",
  "channel": "Sekretariat Presiden",
@@ -134,5 +134,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "kunjungan",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

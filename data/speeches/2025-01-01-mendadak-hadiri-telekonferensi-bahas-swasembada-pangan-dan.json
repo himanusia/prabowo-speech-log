@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-mendadak-hadiri-telekonferensi-bahas-swasembada-pangan-dan",
  "video_id": "KgSCkkTX2IU",
- "date": "2025-01-01",
+ "date": "2025-02-03",
  "date_precise": false,
  "title": "Mendadak, Presiden Prabowo Hadiri Telekonferensi Bahas Swasembada Pangan dan Harga Gabah, 3 Feb 2025",
  "channel": "Sekretariat Presiden",
@@ -73,5 +73,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

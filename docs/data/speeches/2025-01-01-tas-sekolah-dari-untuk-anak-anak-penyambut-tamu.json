@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-tas-sekolah-dari-untuk-anak-anak-penyambut-tamu",
  "video_id": "2WL4XExTxag",
- "date": "2025-01-01",
+ "date": "2025-01-20",
  "date_precise": false,
  "title": "Tas Sekolah dari Presiden Prabowo untuk Anak-Anak Penyambut Tamu Negara",
  "channel": "Sekretariat Presiden",
@@ -99,5 +99,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

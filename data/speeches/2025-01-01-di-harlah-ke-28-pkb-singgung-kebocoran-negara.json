@@ -1,8 +1,8 @@
 {
  "id": "2025-01-01-di-harlah-ke-28-pkb-singgung-kebocoran-negara",
  "video_id": "0OyzGkZaIk4",
- "date": "2025-01-01",
- "date_precise": false,
+ "date": "2026-07-23",
+ "date_precise": true,
  "title": "[FULL] PIDATO PRABOWO DI HARLAH KE-28 PKB, SINGGUNG KEBOCORAN NEGARA 30 PERSEN HINGGA 'LONDO IRENG'",
  "channel": "METRO TV",
  "youtube_url": "https://www.youtube.com/watch?v=0OyzGkZaIk4",
@@ -1071,5 +1071,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_fixed_note": "tanggal 2025-01-01 adalah nilai default; diperbaiki dari tanggal unggah/judul"
 }

@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-ket-pers-usai-hadiri-sidang-senat-terbuka",
  "video_id": "Djc-ebYxyBY",
- "date": "2025-01-01",
+ "date": "2025-10-18",
  "date_precise": false,
  "title": "Ket Pers Presiden Prabowo usai Hadiri Sidang Senat Terbuka dan Dies Natalis UKRI,Bandung,18 Okt 2025",
  "channel": "Sekretariat Presiden",
@@ -74,5 +74,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "keterangan_pers",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

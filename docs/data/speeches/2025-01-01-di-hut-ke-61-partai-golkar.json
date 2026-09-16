@@ -1,8 +1,8 @@
 {
  "id": "2025-01-01-di-hut-ke-61-partai-golkar",
  "video_id": "BYTxQH_Q-d0",
- "date": "2025-01-01",
- "date_precise": false,
+ "date": "2025-12-06",
+ "date_precise": true,
  "title": "[FULL] Pidato Presiden Prabowo di HUT ke-61 Partai Golkar",
  "channel": "KOMPASTV GORONTALO",
  "youtube_url": "https://www.youtube.com/watch?v=BYTxQH_Q-d0",
@@ -1091,5 +1091,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_fixed_note": "tanggal 2025-01-01 adalah nilai default; diperbaiki dari tanggal unggah/judul"
 }

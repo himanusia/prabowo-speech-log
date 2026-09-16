@@ -1,7 +1,7 @@
 {
  "id": "2024-01-01-keterangan-pers-menteri-energi-dan-sumber-daya",
  "video_id": "YBXZXpn60xU",
- "date": "2024-01-01",
+ "date": "2024-10-31",
  "date_precise": false,
  "title": "Keterangan Pers Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, Jakarta, 31 Okt 2024",
  "channel": "Sekretariat Presiden",
@@ -69,5 +69,6 @@
  },
  "speaker_kind": "pejabat_lain",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

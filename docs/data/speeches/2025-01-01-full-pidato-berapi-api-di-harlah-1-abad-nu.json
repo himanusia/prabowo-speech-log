@@ -1,8 +1,8 @@
 {
  "id": "2025-01-01-full-pidato-berapi-api-di-harlah-1-abad-nu",
  "video_id": "MbXnE5xSMOI",
- "date": "2025-01-01",
- "date_precise": false,
+ "date": "2026-02-08",
+ "date_precise": true,
  "title": "FULL-Pidato Berapi-api Presiden Prabowo di Harlah 1 Abad NU",
  "channel": "KOMPAS TV MALANG",
  "youtube_url": "https://www.youtube.com/watch?v=MbXnE5xSMOI",
@@ -723,5 +723,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_fixed_note": "tanggal 2025-01-01 adalah nilai default; diperbaiki dari tanggal unggah/judul"
 }

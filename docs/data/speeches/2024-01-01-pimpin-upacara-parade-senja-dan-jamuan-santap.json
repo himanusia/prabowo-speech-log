@@ -1,7 +1,7 @@
 {
  "id": "2024-01-01-pimpin-upacara-parade-senja-dan-jamuan-santap",
  "video_id": "xT_hpnEXd1g",
- "date": "2024-01-01",
+ "date": "2024-10-25",
  "date_precise": false,
  "title": "Presiden Prabowo Pimpin Upacara Parade Senja dan Jamuan Santap Malam, Magelang, 25 Okt 2024",
  "channel": "Sekretariat Presiden",
@@ -109,5 +109,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

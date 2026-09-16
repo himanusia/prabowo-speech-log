@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-tiba-di-tanah-air-usai-hadiri-ktt",
  "video_id": "QMjBxuI6D-4",
- "date": "2025-01-01",
+ "date": "2025-10-14",
  "date_precise": false,
  "title": "Presiden Prabowo Tiba di Tanah Air Usai Hadiri KTT Perdamaian & Penghentian Perang Gaza, 14 Okt 2025",
  "channel": "Sekretariat Presiden",
@@ -134,5 +134,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "kunjungan",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

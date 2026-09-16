@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-istana-untuk-anak-sekolah-smpn-60-jakarta",
  "video_id": "FdBLZcFadxU",
- "date": "2025-01-01",
+ "date": "2026-04-22",
  "date_precise": false,
  "title": "Istana untuk Anak Sekolah: SMPN 60 Jakarta",
  "channel": "Sekretariat Presiden",
@@ -69,5 +69,6 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

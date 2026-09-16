@@ -1,7 +1,7 @@
 {
  "id": "2024-01-01-rapat-terbatas-terkait-erupsi-gunung-lewotobi-laki",
  "video_id": "iWv_f7TR4jk",
- "date": "2024-01-01",
+ "date": "2024-11-12",
  "date_precise": false,
  "title": "Rapat Terbatas Terkait Erupsi Gunung Lewotobi Laki Laki di Flores Timur, Washington DC, 12 Nov 2024",
  "channel": "Sekretariat Presiden",
@@ -63,5 +63,6 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

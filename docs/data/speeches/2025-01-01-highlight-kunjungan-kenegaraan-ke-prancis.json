@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-highlight-kunjungan-kenegaraan-ke-prancis",
  "video_id": "Lo02DeFW7OM",
- "date": "2025-01-01",
+ "date": "2026-05-30",
  "date_precise": false,
  "title": "HIGHLIGHT: Kunjungan Resmi Kenegaraan Presiden Prabowo ke Prancis",
  "channel": "Sekretariat Presiden",
@@ -84,5 +84,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "kunjungan",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-hadiri-sidang-senat-terbuka-dan-dies-natalis",
  "video_id": "MCe-bClNGhU",
- "date": "2025-01-01",
+ "date": "2025-10-19",
  "date_precise": false,
  "title": "Presiden Prabowo Hadiri Sidang Senat Terbuka dan Dies Natalis UKRI Tahun 2025, Bandung, 18 Okt 2025",
  "channel": "Sekretariat Presiden",
@@ -84,5 +84,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": true
+ "is_fragment": true,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

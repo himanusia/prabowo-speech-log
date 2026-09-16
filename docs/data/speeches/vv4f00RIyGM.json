@@ -1,0 +1,46 @@
+{
+ "id": "2025-10-31-pidato-presiden-prabowo-pada-ktt-apec-2025-sesi-pertama-gyeongju",
+ "video_id": "vv4f00RIyGM",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=vv4f00RIyGM",
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "media",
+ "fetch_method": "auto_caption_en_orig",
+ "canonical_overridden": false,
+ "canonical_note": "Diarsipkan oleh import_english.py dari track en-orig (bahasa asli pidato).",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "vv4f00RIyGM",
+   "url": "https://www.youtube.com/watch?v=vv4f00RIyGM",
+   "title": "Pidato Presiden Prabowo pada KTT APEC 2025 Sesi Pertama, Gyeongju, 31 Oktober 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {},
+ "policy_signals": {},
+ "provenance": {
+  "source": "youtube auto-caption en-orig via yt-dlp",
+  "note": "Transkrip bahasa Inggris; TIDAK dihitung dalam statistik kata Indonesia."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false,
+ "title": "Pidato Presiden Prabowo pada KTT APEC 2025 Sesi Pertama, Gyeongju, 31 Oktober 2025",
+ "date": "2025-10-31",
+ "date_precise": true,
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "Your Excellency President Lee Jae-myung Excellencies, leaders of APEC communities First, allow me to thank President Lee and the government of the Republic of Korea for his leadership of APEC in convening this economic leaders meeting in Gyeongju and for its excellent arrangements. We meet today at a time of global uncertainty. Tensions rising distrust is endangering the stability of the global economy and deepening divisions amongst us. We appreciate the assessment given by the IMF of the global economy. It shows our resilience and our success but it also shows the challenges and the dangers that we face. This uncertainty may well be the new normal that we have to navigate. However I believe that Asia-Pacific must not accept division as its destiny. We must rise above suspicion, fear and we must rebuild trust amongst ourselves and amongst the global economy. APEC was founded on a shared belief in inclusive economic growth and cooperation. APEC's role and core mission is to facilitate free trade investment in a multilateral cooperation amongst a sense of community across our region. This belief must endure. We cannot allow fragmentation to undermine the stability that has long sustained our growth. It is time to renew our commitment to an open, fair inclusive multilateral economic cooperation. Indonesia is committed to a rules-based multilateral trade system with the WT WTO as its core and to ensure that everyone competes on a level playing field. Excellencies growth that excludes is growth that divides. Division causes instability and instability will not be conducive to peace and prosperity. Inclusivity should therefore guide us. Sustainability must also always be our guiding compass for a safe future for the world. APEC must ensure that the benefits of trade and investment reach everyone so that no economy is left behind. Our public-private collaboration needs to be oriented towards the people-centered cooperation and economy. Empowering small small businesses through digital and financial access is crucial to help integrate into a global value chain. In Indonesia, we are translating this principle to action through our national program which empowers the small businesses and cooperatives to realize their potential foster prosperity and contribute to a more sustainable future. We have great challenges facing us facing Indonesia the challenges of corruption the challenges of smuggling the challenges of fraud and we need cooperation amongst the APEC communities because smuggling amongst our countries will not benefit our economies. The narcotics danger, the drugs also is a danger to our stability and to our future. This is very serious because this is also transnational. We must cooperate multilaterally. We cannot overcome these dangers alone. Smuggling, fraud money laundering people trafficking and drugs is a real and present danger for the future of the economies of our countries. Indonesia we are empowering our MSMEs we are building thousands of cooperatives and we are allowing our communities to take greater ownership in the economy. We are fighting corruption, fighting fraud and fighting the greed economies that are holding back real growth. This experience positions Indonesia perhaps as a bridge builder ready to connect advanced and developing economies for the challenges ahead. Excellencies let us work together to continue to build APEC and pursue cooperation through multilateralism in order to ensure that APEC continues to deliver real benefits. Let us work together towards this end. Thank you."
+  }
+ ],
+ "token_count": 543,
+ "unique_word_count": 255,
+ "snippet_count": 1,
+ "transcript_language": "en",
+ "source": "auto-caption en-orig (bahasa asli pidato)"
+}

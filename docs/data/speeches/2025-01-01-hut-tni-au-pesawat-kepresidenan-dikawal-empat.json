@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-hut-tni-au-pesawat-kepresidenan-dikawal-empat",
  "video_id": "b3GiJwhwsxY",
- "date": "2025-01-01",
+ "date": "2026-04-10",
  "date_precise": false,
  "title": "HUT TNI AU, Pesawat Kepresidenan Presiden Prabowo Dikawal Empat F-16 dan Dua T50 Golden Eagle",
  "channel": "Sekretariat Presiden",
@@ -114,5 +114,6 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

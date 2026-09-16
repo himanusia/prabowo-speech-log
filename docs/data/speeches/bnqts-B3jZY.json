@@ -1,0 +1,46 @@
+{
+ "id": "2024-11-18-pernyataan-presiden-prabowo-pada-sesi-pertama-ktt-g20-brasil-18-",
+ "video_id": "bnqts-B3jZY",
+ "channel": "(kanal tidak tercatat)",
+ "youtube_url": "https://www.youtube.com/watch?v=bnqts-B3jZY",
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "media",
+ "fetch_method": "auto_caption_en_orig",
+ "canonical_overridden": false,
+ "canonical_note": "Diarsipkan oleh import_english.py dari track en-orig (bahasa asli pidato).",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "bnqts-B3jZY",
+   "url": "https://www.youtube.com/watch?v=bnqts-B3jZY",
+   "title": "Pernyataan Presiden Prabowo pada Sesi Pertama KTT G20 Brasil, 18 November 2024",
+   "channel": "(kanal tidak tercatat)",
+   "canonical": true
+  }
+ ],
+ "topics": {},
+ "policy_signals": {},
+ "provenance": {
+  "source": "youtube auto-caption en-orig via yt-dlp",
+  "note": "Transkrip bahasa Inggris; TIDAK dihitung dalam statistik kata Indonesia."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false,
+ "title": "Pernyataan Presiden Prabowo pada Sesi Pertama KTT G20 Brasil, 18 November 2024",
+ "date": "2024-11-18",
+ "date_precise": true,
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "thank you very much it is my great honor today to address this uh G20 Summit this my first summit your Excellency president of the federative Republic of Brazil Mr Luis inazio Lula D Silva esteemed leaders of the G20 heads of international organizations distinguished invitees I would like to express our sincere gratitude and highest appreciation to president Lula for his leadership and his guidance in advancing the aspirations of the global South at the G20 this year I would like also to emphasize and to commend president Lula for put for putting poverty and hunger as the focal point point of this G20 session I myself have just been elected president of the fourth largest country in the world with we have the fourth largest population therefore hunger and poverty is for us a real issue a day-to-day matter we have still sizable percentage of our people below the poverty line we also have 25% of our children going hungry every day I was elected on the issue of poverty and hunger therefore I'm very happy to be involved in this G20 Summit for countries like Indonesia to overcome poverty and hunger is a matter of vital National interest therefore in my budget I spend very high percentage for Education because I believe that education will bring us out of poverty uh education can bring better life for our people free meals for our children is a vital part of our strategy this is also part of empowering our young to be able to grasp the benefits of Education hunger we are very optimistic that we can overcome hunger Indonesia I plan to overcome food shortage in 3 years we will be self-sufficient in four years and in 5 years we are confident we can contribute to the Global Alliance against poverty and hunger distinguished guest economic issues cannot be separated from geopolitical Affairs and geopolitical issues we have discussed the role of conflict in the present International landscape Indonesia supports the global South and we also urge all countries of the G20 to address the issue of conflict we urge urgently immediate ceasefire in Ukraine and in Gaza let us not hesitate to go forward and urge the participants in the region to achieve this ceasefire for us this is vital for the achievement of peace and stability only by peace and stability we can overcome poverty and hunger we also urge countries of the G20 to use their Collective strengths to strengthen multilateral efforts on this issue thank you [Applause]"
+  }
+ ],
+ "token_count": 402,
+ "unique_word_count": 184,
+ "snippet_count": 1,
+ "transcript_language": "en",
+ "source": "auto-caption en-orig (bahasa asli pidato)"
+}

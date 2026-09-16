@@ -1,0 +1,90 @@
+{
+ "id": "2025-01-01-rekap-lawatan-di-g20-brasil-bertemu-sekjen",
+ "video_id": "h4s66WRpm4U",
+ "date": "2025-01-01",
+ "date_precise": false,
+ "title": "Rekap Lawatan Prabowo di G20 Brasil: Bertemu Sekjen PBB hingga Akrab dengan Presiden Turki Erdogan",
+ "channel": "Tribunnews",
+ "youtube_url": "https://www.youtube.com/watch?v=h4s66WRpm4U",
+ "duration_s": 703,
+ "duration_hms": "11:43",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 58,
+ "token_count": 523,
+ "unique_word_count": 300,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "h4s66WRpm4U",
+   "url": "https://www.youtube.com/watch?v=h4s66WRpm4U",
+   "title": "Rekap Lawatan Prabowo di G20 Brasil: Bertemu Sekjen PBB hingga Akrab dengan Presiden Turki Erdogan",
+   "channel": "Tribunnews",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 2,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 8
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 47.0,
+   "text": "presiden Prabowo Subianto rampung mengikuti sejumlah rangkaian Konferensi Tingkat Tinggi g20 di Brazil pada Selasa 19 November selama 3 hari di Rio de Janeiro presiden Prabowo melakukan sejumlah pertemuan bilateral dengan kepala negara anggota g20 Prabowo tiba di Brazil untuk KTT g20 pada 16 November 2024 Kemudian pada hari selanjutnya 17 November meng peruan bilateral PBB Peru tersebutowyit sepenuhnyaendukuruhay PBB berbagai isu global kemudian di hari yang"
+  },
+  {
+   "t": 47.0,
+   "d": 46.0,
+   "text": "sabow Mak peruan bilateral dengan Presiden Tanzania ankan bahwa Indonesia berupaya menciptakan iklim bisnis yang positif guna keberlangsungan pertumbuhan ekonomi Kemudian pada 18 November dilakukan pertemuan bilateral dengan perdana menteri India Narendra Modi dalam pertemuan itu Prabowo ingin Meningkatkan kerja sama dengan India di bidang kesehatan dan pendidikan kesehatan kemudian di hari yang sama pertemuan"
+  },
+  {
+   "t": 93.0,
+   "d": 32.0,
+   "text": "dengan para pemimpin mikta pertemuan mikta di KTT g20 Brazil menegaskan kembali peran forum ini di sebagai wadah konsultasi untuk mendorong kerja sama yang inklusif dan responsif terhadap isu-isu Global salah satu momen yang menarik perhatian adalah saat Prabowo duduk berdampingan dengan Presiden Turki rejab Tayib Erdogan bahkan tangan kanan Prabowo juga sempat digenggam oleh Erdogan yang menunjukkan keakraban dan"
+  },
+  {
+   "t": 125.0,
+   "d": 45.0,
+   "text": "penghormatan di antara kedua pemimpin presiden menegaskan pentingnya kolaborasi Global di dalam ketika menghadiri KTT g20 Brazil 2024 pada 18 November Prabowo juga menegaskan pentingnya kolaborasi global untuk mengatasi tantangan kemiskinan kelaparan dan perubahan iklim serta tujuan pembangunan berkelanjutan dan transisi energi hijau Kemudian pada tanggal 19 november presiden Prabowo bertemu atau mengadakan"
+  },
+  {
+   "t": 170.0,
+   "d": 92.0,
+   "text": "pertemuan bilateral dengan Presiden Prancis Emmanuel makron dalam pertemuan itu kedua kepala negara membahas berbagai isu strategis yang menjadi prioritas bersama Indonesia Prancis kemudian yang terakhir presiden Prabowo juga bertemu dengan Perdana Menteri Singapura lawence wong sebelumnya Perdana Menteri Singapura ini sempat berkunjung ke Indonesia dan bertemu dengan Presiden Prabowo tak lama setelah ia dilantik sebagai presiden Indonesia"
+  },
+  {
+   "t": 262.0,
+   "d": 127.0,
+   "text": "an akan Selamat datang Pak siap [Musik] first of all your excellency secretary general of the United Nations his excellency Mr Antonio guterrez Thank you very much for meeting with us today in the middle of your very busy schedule I understand you flew 20 hours from baku So I really I Really appreciate this meeting we Really appreciate respect and support your consistent stand to uphold International peace International Justice"
+  },
+  {
+   "t": 389.0,
+   "d": 80.0,
+   "text": "apa and without further Ado I invite presid to deliver value investment So it is our we are dedicated we are determined to create a positive business environment We want to send a team to study this the Brazilian meal program for the school children you much know we are opening up our health Sector we we are opening up even foreign hospitals can open local local branches and operate Indonesia we are already opening special Economic zones Also for in the"
+  },
+  {
+   "t": 469.0,
+   "d": 168.0,
+   "text": "field of Education excellency We hope we can increase the number of Indonesian students going to your institutes In India and also to invite Indian professors Indian teachers to to teach in our because we have a we have a vacum we have [Musik] [Tepuk tangan] dolayısıyla hepinizi De kore'de misafir etmek isterimşkan [Musik] see you in mexo gracias wa a minutebl for his remarks we now invite the president of the federative Republic of Brazil lu inci la"
+  },
+  {
+   "t": 637.0,
+   "d": 66.0,
+   "text": "Silva natur como J De Thank you for Thank you so much thank you download Tribun X sekarang menghadirkan lokal menjadi Indonesia"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ }
+}

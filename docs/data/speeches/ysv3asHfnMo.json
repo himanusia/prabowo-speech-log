@@ -1,0 +1,46 @@
+{
+ "id": "2025-11-01-pidato-presiden-prabowo-pada-ktt-apec-2025-sesi-kedua-gyeongju-1",
+ "video_id": "ysv3asHfnMo",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ysv3asHfnMo",
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "media",
+ "fetch_method": "auto_caption_en_orig",
+ "canonical_overridden": false,
+ "canonical_note": "Diarsipkan oleh import_english.py dari track en-orig (bahasa asli pidato).",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ysv3asHfnMo",
+   "url": "https://www.youtube.com/watch?v=ysv3asHfnMo",
+   "title": "Pidato Presiden Prabowo pada KTT APEC 2025 Sesi Kedua, Gyeongju, 1 November 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {},
+ "policy_signals": {},
+ "provenance": {
+  "source": "youtube auto-caption en-orig via yt-dlp",
+  "note": "Transkrip bahasa Inggris; TIDAK dihitung dalam statistik kata Indonesia."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false,
+ "title": "Pidato Presiden Prabowo pada KTT APEC 2025 Sesi Kedua, Gyeongju, 1 November 2025",
+ "date": "2025-11-01",
+ "date_precise": true,
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "Your Excellency President Lee Jay Mung, excellencies, leaders of AEC economies, once again I would like to commend President President Li Jay Moonong and his government for uh organizing this uh summit in such an efficient and uh great way. As we know uh we are entering a new era defined by the rise of technology, high-tech and especially artificial intelligence. We also understand uh shifting demographics In the case of Indonesia, we must admit that Indonesia is uh behind many of the other economies of the Apac. uh we have still uh massive poverty. or a lot of our people also uh experience hunger and uh that is why uh the urgency of Indonesia uh this we are telling our partners of the APEC economies uh the urgency of us is to uh overcome the problems of uh poverty and hunger uh immediately and as soon as possible. we are concentrating all our efforts and that's why uh we are uh feeling that we can benefit from AI. We are using AI in uh agriculture uh to have a precise and modern agriculture techniques and this uh has uh uh made us self-sufficient in uh rice and corn production in one year. Our uh target was four years self-sufficiency but the use of high-tech uh precision farming and AI has uh enabled us to uh increase our production to the highest level in the history of independent Indonesia. So uh we see the great benefits of AI and high technology especially a smart technology. Uh however uh we also uh see that we need uh cooperation on transnational uh crime because we are suffering a lot uh for from this from uh uh illegal smuggling from corruption from uh narcotics uh smuggling. This is uh endangering our uh our use and also uh online gambling is very very serious. We are losing it's calculated that we're losing about $8 billion a year just by the outflow from online gambling. Uh so uh we support uh APEC cooperation uh to enhance digital skills also in the field of education. We feel Indonesia is uh behind the rest of the APEC economies in the field of education. uh this is uh very objective and uh I believe that uh Indonesia must face up to our uh shortcomings and that's why uh my government feels the urgency to uh catch up with the other economies in the field of education and that's why we would like to uh uh take part in all the APEC uh enhancement of capacity in the field of technology and also uh we would like to empower our small uh businesses uh and also uh to improve our health system in the anticipation of the shiftive in democracy demog demography. I think uh this is uh the way to go. We must uh secure our control of technology and I think with cooperation within APEC we can get this control. Thank you very much."
+  }
+ ],
+ "token_count": 486,
+ "unique_word_count": 192,
+ "snippet_count": 1,
+ "transcript_language": "en",
+ "source": "auto-caption en-orig (bahasa asli pidato)"
+}
