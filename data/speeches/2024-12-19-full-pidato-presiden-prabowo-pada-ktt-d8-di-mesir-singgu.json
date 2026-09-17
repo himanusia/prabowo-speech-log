@@ -1,0 +1,53 @@
+{
+ "id": "2024-12-19-full-pidato-presiden-prabowo-pada-ktt-d8-di-mesir-singgu",
+ "video_id": "-gunMGZN0eI",
+ "date": "2024-12-19",
+ "date_precise": false,
+ "title": "[FULL] Pidato Presiden Prabowo pada KTT D8 di Mesir, Singgung Suara Negara Muslim Tak Dihormati",
+ "channel": "Kompas.com",
+ "youtube_url": "https://www.youtube.com/watch?v=-gunMGZN0eI",
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "media",
+ "fetch_method": "tidak_ada_caption",
+ "canonical_overridden": false,
+ "canonical_note": "Tidak ada track caption, baik Indonesia maupun Inggris.",
+ "duplicate_count": 2,
+ "uploads": [
+  {
+   "video_id": "-gunMGZN0eI",
+   "url": "https://www.youtube.com/watch?v=-gunMGZN0eI",
+   "title": "[FULL] Pidato Presiden Prabowo pada KTT D8 di Mesir, Singgung Suara Negara Muslim Tak Dihormati",
+   "channel": "Kompas.com",
+   "canonical": true
+  },
+  {
+   "video_id": "9VcEleVBWVI",
+   "url": "https://www.youtube.com/watch?v=9VcEleVBWVI",
+   "title": "[FULL] Pidato Presiden Prabowo pada KTT D8 di Mesir, Singgung Suara Negara Muslim Tak Dihormati",
+   "channel": "Liputan6",
+   "canonical": false
+  },
+  {
+   "video_id": "wGe791FHDto",
+   "url": "https://www.youtube.com/watch?v=wGe791FHDto",
+   "title": "[FULL] Pidato Presiden Prabowo pada KTT D8 di Mesir, Singgung Suara Negara Muslim Tak Dihormati",
+   "channel": "Kompas TV Medan",
+   "canonical": false
+  }
+ ],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [],
+ "token_count": 0,
+ "unique_word_count": 0,
+ "snippet_count": 0,
+ "provenance": {
+  "source": "daftar kerja + pemindaian kanal media",
+  "note": "Pidato terkonfirmasi ada, transkrip tidak tersedia. Tidak dihitung dalam statistik kata."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false,
+ "tanpa_transkrip": true
+}

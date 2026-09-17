@@ -1,0 +1,39 @@
+{
+ "id": "0000-00-00-pidato-presiden-prabowo-di-hut-ke-80-tni",
+ "video_id": "5jBQTD0IEEU",
+ "date": "2025-10-05",
+ "date_precise": true,
+ "title": "Pidato Presiden Prabowo di HUT ke-80 TNI",
+ "channel": "(kanal tidak tercatat)",
+ "youtube_url": "https://www.youtube.com/watch?v=5jBQTD0IEEU",
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "media",
+ "fetch_method": "tidak_ada_caption",
+ "canonical_overridden": false,
+ "canonical_note": "Tidak ada track caption, baik Indonesia maupun Inggris.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "5jBQTD0IEEU",
+   "url": "https://www.youtube.com/watch?v=5jBQTD0IEEU",
+   "title": "Pidato Presiden Prabowo di HUT ke-80 TNI",
+   "channel": "",
+   "canonical": true
+  }
+ ],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [],
+ "token_count": 0,
+ "unique_word_count": 0,
+ "snippet_count": 0,
+ "provenance": {
+  "source": "daftar kerja + pemindaian kanal media",
+  "note": "Pidato terkonfirmasi ada, transkrip tidak tersedia. Tidak dihitung dalam statistik kata."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false,
+ "tanpa_transkrip": true
+}

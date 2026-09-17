@@ -1,0 +1,46 @@
+{
+ "id": "0000-00-00-pidato-presiden-prabowo-di-forum-ekonomi-rusia",
+ "video_id": "NNEJ5gKErV8",
+ "date": "2026-09-03",
+ "date_precise": true,
+ "title": "Pidato Presiden Prabowo di Forum Ekonomi Rusia",
+ "channel": "(kanal tidak tercatat)",
+ "youtube_url": "https://www.youtube.com/watch?v=NNEJ5gKErV8",
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "media",
+ "fetch_method": "tidak_ada_caption",
+ "canonical_overridden": false,
+ "canonical_note": "Tidak ada track caption, baik Indonesia maupun Inggris.",
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "NNEJ5gKErV8",
+   "url": "https://www.youtube.com/watch?v=NNEJ5gKErV8",
+   "title": "Pidato Presiden Prabowo di Forum Ekonomi Rusia",
+   "channel": "",
+   "canonical": true
+  },
+  {
+   "video_id": "QtoEsbNb4CY",
+   "url": "https://www.youtube.com/watch?v=QtoEsbNb4CY",
+   "title": "Pidato Presiden Prabowo di Forum Ekonomi Rusia",
+   "channel": "Tribun Bengkulu",
+   "canonical": false
+  }
+ ],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [],
+ "token_count": 0,
+ "unique_word_count": 0,
+ "snippet_count": 0,
+ "provenance": {
+  "source": "daftar kerja + pemindaian kanal media",
+  "note": "Pidato terkonfirmasi ada, transkrip tidak tersedia. Tidak dihitung dalam statistik kata."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false,
+ "tanpa_transkrip": true
+}

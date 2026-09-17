@@ -35,7 +35,13 @@ def load_speeches() -> list[dict]:
     # Pidato yang transkrip aslinya bahasa Inggris tetap ada di arsip dan di
     # daftar, tapi TIDAK ikut hitungan kata: seluruh analisis di sini berbasis
     # kosakata Indonesia, jadi mencampurnya akan merusak angkanya.
-    return [d for d in rows if terbit(d) and d.get("transcript_language") != "en"]
+    return [d for d in rows
+            if terbit(d)
+            and d.get("transcript_language") != "en"
+            # entri yang memang tidak punya transkrip tetap ada di database dan
+            # muncul di daftar, tapi tidak boleh masuk hitungan kata: tokennya nol
+            # dan bukan karena pidatonya kosong.
+            and not d.get("tanpa_transkrip")]
 
 
 def text_of(s: dict) -> str:

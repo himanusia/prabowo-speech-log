@@ -17,6 +17,41 @@
    "title": "Pidato Presiden Prabowo pada KTT BRICS 2026 Sesi Terbuka, India, 13 September 2026",
    "channel": "KOMPASTV",
    "canonical": true
+  },
+  {
+   "video_id": "D_LRijPlMRA",
+   "url": "https://www.youtube.com/watch?v=D_LRijPlMRA",
+   "title": "[HEADLINE NEWS, 12/9] Pidato Prabowo di KTT BRICS ke-18 Bahas Masa Depan Global",
+   "channel": "METRO TV ",
+   "canonical": false
+  },
+  {
+   "video_id": "OuARtgV2zU0",
+   "url": "https://www.youtube.com/watch?v=OuARtgV2zU0",
+   "title": "KETENANGAN Presiden Prabowo Pidato Dalam Bahasa Inggris pada KTT BRICS India 2026 Bahas Sejumlah Isu",
+   "channel": "Tribun MedanTV",
+   "canonical": false
+  },
+  {
+   "video_id": "ctPQBZ0LhFA",
+   "url": "https://www.youtube.com/watch?v=ctPQBZ0LhFA",
+   "title": "[FULL] Pidato Prabowo di Hadapan Pemimpin BRICS di India: Bersatu Kita Teguh, Terpecah Kita Runtuh",
+   "channel": "Tribunnews",
+   "canonical": false
+  },
+  {
+   "video_id": "F70FUJv9Rx0",
+   "url": "https://www.youtube.com/watch?v=F70FUJv9Rx0",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "fscocewY504",
+   "url": "https://www.youtube.com/watch?v=fscocewY504",
+   "title": "",
+   "channel": "",
+   "canonical": false
   }
  ],
  "topics": {},
@@ -42,5 +77,27 @@
  "unique_word_count": 308,
  "snippet_count": 1,
  "transcript_language": "en",
- "source": "auto-caption en-orig (bahasa asli pidato)"
+ "source": "auto-caption en-orig (bahasa asli pidato)",
+ "kanal_terkait": [
+  {
+   "video_id": "D_LRijPlMRA",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "OuARtgV2zU0",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "ctPQBZ0LhFA",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "F70FUJv9Rx0",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "fscocewY504",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  }
+ ]
 }

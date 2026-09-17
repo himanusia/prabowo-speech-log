@@ -23,6 +23,55 @@
    "title": "LIVE - Pertemuan Prabowo dan Kaisar Naruhito di Forum Bisnis Jepang  | Metro Hari Ini",
    "channel": "METRO TV",
    "canonical": true
+  },
+  {
+   "video_id": "dJ5CNS2bLio",
+   "url": "https://www.youtube.com/watch?v=dJ5CNS2bLio",
+   "title": "[FULL] Pidato Prabowo di Forum Kerja Sama Jepang-Indonesia, Dorong Iklim Investasi Kompetitif",
+   "channel": "KOMPASTV",
+   "canonical": false
+  },
+  {
+   "video_id": "H-S3gABohvI",
+   "url": "https://www.youtube.com/watch?v=H-S3gABohvI",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "RSLEjCIoBqE",
+   "url": "https://www.youtube.com/watch?v=RSLEjCIoBqE",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "TvkozWGzbY4",
+   "url": "https://www.youtube.com/watch?v=TvkozWGzbY4",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "ZvZUNWKqyiQ",
+   "url": "https://www.youtube.com/watch?v=ZvZUNWKqyiQ",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "fqfiMGD69uM",
+   "url": "https://www.youtube.com/watch?v=fqfiMGD69uM",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "vzHhVCszI3I",
+   "url": "https://www.youtube.com/watch?v=vzHhVCszI3I",
+   "title": "",
+   "channel": "",
+   "canonical": false
   }
  ],
  "topics": {
@@ -161,5 +210,35 @@
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
  },
- "date_source": "tanggal unggah YouTube (perkiraan)"
+ "date_source": "tanggal unggah YouTube (perkiraan)",
+ "kanal_terkait": [
+  {
+   "video_id": "dJ5CNS2bLio",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "H-S3gABohvI",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "RSLEjCIoBqE",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "TvkozWGzbY4",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "ZvZUNWKqyiQ",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "fqfiMGD69uM",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "vzHhVCszI3I",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  }
+ ]
 }

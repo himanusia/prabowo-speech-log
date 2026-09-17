@@ -23,6 +23,62 @@
    "title": "Pidato Presiden Prabowo di Sidang Umum PBB Ke-80 Pukau Dunia | tvOne",
    "channel": "tvOneNews",
    "canonical": true
+  },
+  {
+   "video_id": "1HKjQsVFslw",
+   "url": "https://www.youtube.com/watch?v=1HKjQsVFslw",
+   "title": "Dari Osaka, Presiden Prabowo Bertolak ke New York Sampaikan Pidato di Sidang Umum PBB, 20 Sep 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": false
+  },
+  {
+   "video_id": "VBvv8Hcqlwc",
+   "url": "https://www.youtube.com/watch?v=VBvv8Hcqlwc",
+   "title": "[FULL] Pidato Bahasa Inggris Prabowo di KTT PBB New York, Bahas Solusi 2 Negara Damaikan Palestina",
+   "channel": "Tribunnews",
+   "canonical": false
+  },
+  {
+   "video_id": "WkIsxyCuBSc",
+   "url": "https://www.youtube.com/watch?v=WkIsxyCuBSc",
+   "title": "🔴 FULL - Pidato Presiden Prabowo pada Sidang Umum ke-80 PBB di New York-Amerika Serikat (23/9/2025)",
+   "channel": "Tribun Cirebon",
+   "canonical": false
+  },
+  {
+   "video_id": "-izEir9r1B4",
+   "url": "https://www.youtube.com/watch?v=-izEir9r1B4",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "Ca7lKO0f_6Y",
+   "url": "https://www.youtube.com/watch?v=Ca7lKO0f_6Y",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "G_5ZJDQoTAQ",
+   "url": "https://www.youtube.com/watch?v=G_5ZJDQoTAQ",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "d5N1eqXc7fQ",
+   "url": "https://www.youtube.com/watch?v=d5N1eqXc7fQ",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "v_W55fis-N0",
+   "url": "https://www.youtube.com/watch?v=v_W55fis-N0",
+   "title": "🔴 FULL - Pidato Presiden Prabowo pada Sidang Umum ke-80 PBB di New York-Amerika Serikat (23/9/2025)",
+   "channel": "Bankom Semarang TV",
+   "canonical": false
   }
  ],
  "topics": {
@@ -162,5 +218,39 @@
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
  },
- "date_source": "tanggal unggah YouTube (perkiraan)"
+ "date_source": "tanggal unggah YouTube (perkiraan)",
+ "kanal_terkait": [
+  {
+   "video_id": "1HKjQsVFslw",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "VBvv8Hcqlwc",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "WkIsxyCuBSc",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "-izEir9r1B4",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "Ca7lKO0f_6Y",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "G_5ZJDQoTAQ",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "d5N1eqXc7fQ",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "v_W55fis-N0",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  }
+ ]
 }

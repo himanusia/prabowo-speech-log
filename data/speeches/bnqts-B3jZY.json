@@ -17,6 +17,41 @@
    "title": "Pernyataan Presiden Prabowo pada Sesi Pertama KTT G20 Brasil, 18 November 2024",
    "channel": "(kanal tidak tercatat)",
    "canonical": true
+  },
+  {
+   "video_id": "NTbuu104qaM",
+   "url": "https://www.youtube.com/watch?v=NTbuu104qaM",
+   "title": "[FULL] Pidato Prabowo di KTT G20 Brasil, Janji Atasi Kekurangan Pangan dan Bicara Gaza",
+   "channel": "Kompas.com",
+   "canonical": false
+  },
+  {
+   "video_id": "3x4uoOihP_4",
+   "url": "https://www.youtube.com/watch?v=3x4uoOihP_4",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "HFsbBjpTia0",
+   "url": "https://www.youtube.com/watch?v=HFsbBjpTia0",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "qu6lNgVQOns",
+   "url": "https://www.youtube.com/watch?v=qu6lNgVQOns",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "upjeBhV5Tj4",
+   "url": "https://www.youtube.com/watch?v=upjeBhV5Tj4",
+   "title": "",
+   "channel": "",
+   "canonical": false
   }
  ],
  "topics": {},
@@ -42,5 +77,27 @@
  "unique_word_count": 184,
  "snippet_count": 1,
  "transcript_language": "en",
- "source": "auto-caption en-orig (bahasa asli pidato)"
+ "source": "auto-caption en-orig (bahasa asli pidato)",
+ "kanal_terkait": [
+  {
+   "video_id": "NTbuu104qaM",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "3x4uoOihP_4",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "HFsbBjpTia0",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "qu6lNgVQOns",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "upjeBhV5Tj4",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  }
+ ]
 }

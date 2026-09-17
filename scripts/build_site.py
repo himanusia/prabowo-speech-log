@@ -365,6 +365,8 @@ def _entries(speeches: list[dict]) -> str:
         # Entri berbahasa Inggris ditandai supaya jelas transkripnya bukan
         # bahasa Indonesia (dan tidak ikut statistik kata).
         en = ' <span class="chip">EN</span>' if s.get("transcript_language") == "en" else ""
+        # NT = tanpa transkrip. Pidatonya terkonfirmasi ada, teksnya tidak.
+        en += ' <span class="chip">NT</span>' if s.get("tanpa_transkrip") else ""
         rows.append(f"""      <li>
         <a class="entry" href="pidato/{e(s['id'])}.html">
           <span class="entry__date">{e(s['date'])}</span>

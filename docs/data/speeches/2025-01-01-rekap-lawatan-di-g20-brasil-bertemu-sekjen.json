@@ -23,6 +23,27 @@
    "title": "Rekap Lawatan Prabowo di G20 Brasil: Bertemu Sekjen PBB hingga Akrab dengan Presiden Turki Erdogan",
    "channel": "Tribunnews",
    "canonical": true
+  },
+  {
+   "video_id": "585TcicET8M",
+   "url": "https://www.youtube.com/watch?v=585TcicET8M",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "1Pdx9IBy3dg",
+   "url": "https://www.youtube.com/watch?v=1Pdx9IBy3dg",
+   "title": "",
+   "channel": "",
+   "canonical": false
+  },
+  {
+   "video_id": "fRqxhw4k3WA",
+   "url": "https://www.youtube.com/watch?v=fRqxhw4k3WA",
+   "title": "",
+   "channel": "",
+   "canonical": false
   }
  ],
  "topics": {
@@ -87,5 +108,19 @@
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
  },
- "date_source": "tanggal unggah YouTube (perkiraan)"
+ "date_source": "tanggal unggah YouTube (perkiraan)",
+ "kanal_terkait": [
+  {
+   "video_id": "585TcicET8M",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "1Pdx9IBy3dg",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "fRqxhw4k3WA",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  }
+ ]
 }

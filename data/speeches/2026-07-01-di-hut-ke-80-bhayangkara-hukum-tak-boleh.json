@@ -97,6 +97,13 @@
    ],
    "selection_reason": "media_full_speech_candidate",
    "canonical": false
+  },
+  {
+   "video_id": "5jBQTD0IEEU",
+   "url": "https://www.youtube.com/watch?v=5jBQTD0IEEU",
+   "title": "",
+   "channel": "",
+   "canonical": false
   }
  ],
  "topics": {
@@ -354,5 +361,11 @@
   "is_generated": true,
   "fetched_via": "caption_api",
   "source_of_truth": "engine/data/prabowo/raw/MExLyHOhkkE.json"
- }
+ },
+ "kanal_terkait": [
+  {
+   "video_id": "5jBQTD0IEEU",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  }
+ ]
 }

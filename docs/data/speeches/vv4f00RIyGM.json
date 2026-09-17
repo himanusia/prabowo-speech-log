@@ -17,6 +17,20 @@
    "title": "Pidato Presiden Prabowo pada KTT APEC 2025 Sesi Pertama, Gyeongju, 31 Oktober 2025",
    "channel": "Sekretariat Presiden",
    "canonical": true
+  },
+  {
+   "video_id": "fVAXolxz_sI",
+   "url": "https://www.youtube.com/watch?v=fVAXolxz_sI",
+   "title": "[TERJEMAHAN] Pidato Presiden Prabowo di KTT APEC 2025: Serakahnomics",
+   "channel": "tribuntimur com",
+   "canonical": false
+  },
+  {
+   "video_id": "vv4f00RIyGM_dummy",
+   "url": "https://www.youtube.com/watch?v=vv4f00RIyGM_dummy",
+   "title": "",
+   "channel": "",
+   "canonical": false
   }
  ],
  "topics": {},
@@ -42,5 +56,15 @@
  "unique_word_count": 255,
  "snippet_count": 1,
  "transcript_language": "en",
- "source": "auto-caption en-orig (bahasa asli pidato)"
+ "source": "auto-caption en-orig (bahasa asli pidato)",
+ "kanal_terkait": [
+  {
+   "video_id": "fVAXolxz_sI",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  },
+  {
+   "video_id": "vv4f00RIyGM_dummy",
+   "catatan": "dicoba, hasil: tanpa caption (acara sudah terwakili entri ini)"
+  }
+ ]
 }
