@@ -1254,3 +1254,27 @@ footer {
 .lebih:hover { background: var(--accent); border-color: var(--primary); }
 .lebih[aria-expanded='true'] { background: var(--primary); color: var(--primary-fg); border-color: var(--primary); }
 .lebih[hidden] { display: none; }
+
+
+/* ---- panel temuan: baris pembanding dengan penyebut ---- */
+.pair{display:flex;flex-direction:column;gap:calc(var(--sp-2) * .75);margin-block:var(--sp-3)}
+.pair__row{display:grid;grid-template-columns:minmax(9rem,14rem) 1fr auto;
+  align-items:center;gap:var(--sp-2)}
+.pair__lab{font-size:var(--step--1);color:var(--muted-foreground);
+  text-align:right;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pair__bar{display:flex;height:.9rem;background:color-mix(in srgb,var(--foreground) 8%,transparent);
+  border-radius:999px;overflow:hidden}
+.pair__bar i{display:block;height:100%;background:var(--primary);border-radius:999px;
+  min-width:2px;transition:width .5s ease}
+.pair__val{font-size:var(--step--1);font-variant-numeric:tabular-nums;
+  color:var(--foreground);min-width:9.5rem}
+.pair__val em{font-style:normal;color:var(--muted-foreground);margin-left:.4em}
+.blok__d{font-size:var(--step--1);color:var(--muted-foreground);
+  margin-block:calc(var(--sp-1) * -1) var(--sp-2)}
+.blok__t{font-size:var(--step-0);margin-block:var(--sp-3) 0;
+  padding-top:var(--sp-2);border-top:1px solid var(--border)}
+@media (max-width:640px){
+  .pair__row{grid-template-columns:1fr;gap:.35rem}
+  .pair__lab{text-align:left}
+  .pair__val{min-width:0}
+}

@@ -211,7 +211,10 @@ def page_target() -> tuple[str, str]:
     for t in tabs:
         if t.get("type") == "page":
             return t["id"], t["webSocketDebuggerUrl"]
-    with urllib.request.urlopen(f"http://127.0.0.1:{PORT}/json/new?about:blank", timeout=5) as r:
+    # Chrome 111+ menolak GET /json/new (HTTP 405) dan mewajibkan PUT.
+    req = urllib.request.Request(f"http://127.0.0.1:{PORT}/json/new?about:blank",
+                                 method="PUT")
+    with urllib.request.urlopen(req, timeout=5) as r:
         t = json.loads(r.read().decode())
     return t["id"], t["webSocketDebuggerUrl"]
 

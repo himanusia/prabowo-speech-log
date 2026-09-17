@@ -1,0 +1,549 @@
+{
+ "korpus": {
+  "pidato": 387,
+  "token": 403919,
+  "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
+ },
+ "istilah": {
+  "korupsi": {
+   "kemunculan": 383,
+   "pidato": 88,
+   "persen_pidato": 22.7,
+   "per_1000": 0.95
+  },
+  "mbg": {
+   "kemunculan": 332,
+   "pidato": 79,
+   "persen_pidato": 20.4,
+   "per_1000": 0.82
+  },
+  "bencana": {
+   "kemunculan": 166,
+   "pidato": 57,
+   "persen_pidato": 14.7,
+   "per_1000": 0.41
+  },
+  "danantara": {
+   "kemunculan": 130,
+   "pidato": 43,
+   "persen_pidato": 11.1,
+   "per_1000": 0.32
+  },
+  "swasembada": {
+   "kemunculan": 128,
+   "pidato": 37,
+   "persen_pidato": 9.6,
+   "per_1000": 0.32
+  },
+  "hilirisasi": {
+   "kemunculan": 108,
+   "pidato": 47,
+   "persen_pidato": 12.1,
+   "per_1000": 0.27
+  },
+  "sawit": {
+   "kemunculan": 163,
+   "pidato": 40,
+   "persen_pidato": 10.3,
+   "per_1000": 0.4
+  },
+  "karhutla": {
+   "kemunculan": 1,
+   "pidato": 1,
+   "persen_pidato": 0.3,
+   "per_1000": 0.0
+  }
+ },
+ "seri_kuartal": [
+  {
+   "kuartal": "2024-Q4",
+   "n": 69,
+   "korupsi": {
+    "pidato": 13,
+    "persen": 18.8
+   },
+   "mbg": {
+    "pidato": 11,
+    "persen": 15.9
+   },
+   "bencana": {
+    "pidato": 5,
+    "persen": 7.2
+   },
+   "danantara": {
+    "pidato": 1,
+    "persen": 1.4
+   },
+   "swasembada": {
+    "pidato": 11,
+    "persen": 15.9
+   },
+   "hilirisasi": {
+    "pidato": 8,
+    "persen": 11.6
+   },
+   "sawit": {
+    "pidato": 7,
+    "persen": 10.1
+   },
+   "karhutla": {
+    "pidato": 0,
+    "persen": 0.0
+   }
+  },
+  {
+   "kuartal": "2025-Q1",
+   "n": 56,
+   "korupsi": {
+    "pidato": 8,
+    "persen": 14.3
+   },
+   "mbg": {
+    "pidato": 11,
+    "persen": 19.6
+   },
+   "bencana": {
+    "pidato": 3,
+    "persen": 5.4
+   },
+   "danantara": {
+    "pidato": 5,
+    "persen": 8.9
+   },
+   "swasembada": {
+    "pidato": 7,
+    "persen": 12.5
+   },
+   "hilirisasi": {
+    "pidato": 6,
+    "persen": 10.7
+   },
+   "sawit": {
+    "pidato": 2,
+    "persen": 3.6
+   },
+   "karhutla": {
+    "pidato": 0,
+    "persen": 0.0
+   }
+  },
+  {
+   "kuartal": "2025-Q2",
+   "n": 52,
+   "korupsi": {
+    "pidato": 4,
+    "persen": 7.7
+   },
+   "mbg": {
+    "pidato": 3,
+    "persen": 5.8
+   },
+   "bencana": {
+    "pidato": 1,
+    "persen": 1.9
+   },
+   "danantara": {
+    "pidato": 3,
+    "persen": 5.8
+   },
+   "swasembada": {
+    "pidato": 2,
+    "persen": 3.8
+   },
+   "hilirisasi": {
+    "pidato": 0,
+    "persen": 0.0
+   },
+   "sawit": {
+    "pidato": 0,
+    "persen": 0.0
+   },
+   "karhutla": {
+    "pidato": 0,
+    "persen": 0.0
+   }
+  },
+  {
+   "kuartal": "2025-Q3",
+   "n": 40,
+   "korupsi": {
+    "pidato": 8,
+    "persen": 20.0
+   },
+   "mbg": {
+    "pidato": 7,
+    "persen": 17.5
+   },
+   "bencana": {
+    "pidato": 5,
+    "persen": 12.5
+   },
+   "danantara": {
+    "pidato": 5,
+    "persen": 12.5
+   },
+   "swasembada": {
+    "pidato": 4,
+    "persen": 10.0
+   },
+   "hilirisasi": {
+    "pidato": 6,
+    "persen": 15.0
+   },
+   "sawit": {
+    "pidato": 4,
+    "persen": 10.0
+   },
+   "karhutla": {
+    "pidato": 0,
+    "persen": 0.0
+   }
+  },
+  {
+   "kuartal": "2025-Q4",
+   "n": 44,
+   "korupsi": {
+    "pidato": 12,
+    "persen": 27.3
+   },
+   "mbg": {
+    "pidato": 8,
+    "persen": 18.2
+   },
+   "bencana": {
+    "pidato": 13,
+    "persen": 29.5
+   },
+   "danantara": {
+    "pidato": 4,
+    "persen": 9.1
+   },
+   "swasembada": {
+    "pidato": 0,
+    "persen": 0.0
+   },
+   "hilirisasi": {
+    "pidato": 0,
+    "persen": 0.0
+   },
+   "sawit": {
+    "pidato": 3,
+    "persen": 6.8
+   },
+   "karhutla": {
+    "pidato": 0,
+    "persen": 0.0
+   }
+  },
+  {
+   "kuartal": "2026-Q1",
+   "n": 48,
+   "korupsi": {
+    "pidato": 18,
+    "persen": 37.5
+   },
+   "mbg": {
+    "pidato": 16,
+    "persen": 33.3
+   },
+   "bencana": {
+    "pidato": 18,
+    "persen": 37.5
+   },
+   "danantara": {
+    "pidato": 10,
+    "persen": 20.8
+   },
+   "swasembada": {
+    "pidato": 6,
+    "persen": 12.5
+   },
+   "hilirisasi": {
+    "pidato": 11,
+    "persen": 22.9
+   },
+   "sawit": {
+    "pidato": 8,
+    "persen": 16.7
+   },
+   "karhutla": {
+    "pidato": 0,
+    "persen": 0.0
+   }
+  },
+  {
+   "kuartal": "2026-Q2",
+   "n": 44,
+   "korupsi": {
+    "pidato": 11,
+    "persen": 25.0
+   },
+   "mbg": {
+    "pidato": 11,
+    "persen": 25.0
+   },
+   "bencana": {
+    "pidato": 2,
+    "persen": 4.5
+   },
+   "danantara": {
+    "pidato": 6,
+    "persen": 13.6
+   },
+   "swasembada": {
+    "pidato": 6,
+    "persen": 13.6
+   },
+   "hilirisasi": {
+    "pidato": 8,
+    "persen": 18.2
+   },
+   "sawit": {
+    "pidato": 9,
+    "persen": 20.5
+   },
+   "karhutla": {
+    "pidato": 1,
+    "persen": 2.3
+   }
+  },
+  {
+   "kuartal": "2026-Q3",
+   "n": 34,
+   "korupsi": {
+    "pidato": 14,
+    "persen": 41.2
+   },
+   "mbg": {
+    "pidato": 12,
+    "persen": 35.3
+   },
+   "bencana": {
+    "pidato": 10,
+    "persen": 29.4
+   },
+   "danantara": {
+    "pidato": 9,
+    "persen": 26.5
+   },
+   "swasembada": {
+    "pidato": 1,
+    "persen": 2.9
+   },
+   "hilirisasi": {
+    "pidato": 8,
+    "persen": 23.5
+   },
+   "sawit": {
+    "pidato": 7,
+    "persen": 20.6
+   },
+   "karhutla": {
+    "pidato": 0,
+    "persen": 0.0
+   }
+  }
+ ],
+ "ganti": {
+  "saya": {
+   "kemunculan": 10020,
+   "pidato": 335,
+   "persen_pidato": 86.6,
+   "per_1000": 24.81
+  },
+  "kita": {
+   "kemunculan": 14730,
+   "pidato": 337,
+   "persen_pidato": 87.1,
+   "per_1000": 36.47
+  },
+  "kami": {
+   "kemunculan": 1214,
+   "pidato": 183,
+   "persen_pidato": 47.3,
+   "per_1000": 3.01
+  },
+  "rakyat": {
+   "kemunculan": 2282,
+   "pidato": 199,
+   "persen_pidato": 51.4,
+   "per_1000": 5.65
+  },
+  "pemerintah": {
+   "kemunculan": 738,
+   "pidato": 178,
+   "persen_pidato": 46.0,
+   "per_1000": 1.83
+  },
+  "bangsa": {
+   "kemunculan": 2135,
+   "pidato": 191,
+   "persen_pidato": 49.4,
+   "per_1000": 5.29
+  },
+  "negara": {
+   "kemunculan": 2155,
+   "pidato": 233,
+   "persen_pidato": 60.2,
+   "per_1000": 5.34
+  }
+ },
+ "seri_ganti": [
+  {
+   "periode": "2024-S2",
+   "n": 69,
+   "saya": 22.31,
+   "kita": 34.87,
+   "kami": 2.09,
+   "rakyat": 5.31,
+   "pemerintah": 2.26,
+   "bangsa": 4.85,
+   "negara": 5.15
+  },
+  {
+   "periode": "2025-S1",
+   "n": 108,
+   "saya": 24.24,
+   "kita": 30.85,
+   "kami": 4.92,
+   "rakyat": 4.55,
+   "pemerintah": 1.57,
+   "bangsa": 4.27,
+   "negara": 5.45
+  },
+  {
+   "periode": "2025-S2",
+   "n": 84,
+   "saya": 21.95,
+   "kita": 34.32,
+   "kami": 4.9,
+   "rakyat": 5.5,
+   "pemerintah": 1.82,
+   "bangsa": 3.86,
+   "negara": 5.24
+  },
+  {
+   "periode": "2026-S1",
+   "n": 92,
+   "saya": 29.34,
+   "kita": 39.74,
+   "kami": 2.02,
+   "rakyat": 5.46,
+   "pemerintah": 1.75,
+   "bangsa": 6.76,
+   "negara": 5.32
+  },
+  {
+   "periode": "2026-S2",
+   "n": 34,
+   "saya": 23.11,
+   "kita": 39.23,
+   "kami": 1.47,
+   "rakyat": 7.36,
+   "pemerintah": 1.8,
+   "bangsa": 5.75,
+   "negara": 5.58
+  }
+ ],
+ "seri_bahasa": [
+  {
+   "kuartal": "2024-Q4",
+   "n": 73,
+   "inggris": 26,
+   "persen": 35.6
+  },
+  {
+   "kuartal": "2025-Q1",
+   "n": 57,
+   "inggris": 2,
+   "persen": 3.5
+  },
+  {
+   "kuartal": "2025-Q2",
+   "n": 52,
+   "inggris": 0,
+   "persen": 0.0
+  },
+  {
+   "kuartal": "2025-Q3",
+   "n": 40,
+   "inggris": 0,
+   "persen": 0.0
+  },
+  {
+   "kuartal": "2025-Q4",
+   "n": 47,
+   "inggris": 4,
+   "persen": 8.5
+  },
+  {
+   "kuartal": "2026-Q1",
+   "n": 51,
+   "inggris": 3,
+   "persen": 5.9
+  },
+  {
+   "kuartal": "2026-Q2",
+   "n": 44,
+   "inggris": 0,
+   "persen": 0.0
+  },
+  {
+   "kuartal": "2026-Q3",
+   "n": 35,
+   "inggris": 1,
+   "persen": 2.9
+  }
+ ],
+ "panjang": [
+  {
+   "jenis": "kenegaraan",
+   "n": 19,
+   "median": 3452,
+   "maks": 7900,
+   "rata2": 3437
+  },
+  {
+   "jenis": "sidang kabinet",
+   "n": 14,
+   "median": 954,
+   "maks": 6710,
+   "rata2": 2124
+  },
+  {
+   "jenis": "partai / ormas",
+   "n": 25,
+   "median": 1990,
+   "maks": 5204,
+   "rata2": 2076
+  },
+  {
+   "jenis": "hari besar",
+   "n": 23,
+   "median": 246,
+   "maks": 3715,
+   "rata2": 1055
+  },
+  {
+   "jenis": "lain-lain",
+   "n": 237,
+   "median": 318,
+   "maks": 9836,
+   "rata2": 803
+  },
+  {
+   "jenis": "peresmian",
+   "n": 34,
+   "median": 216,
+   "maks": 3552,
+   "rata2": 700
+  },
+  {
+   "jenis": "luar negeri",
+   "n": 35,
+   "median": 321,
+   "maks": 2412,
+   "rata2": 390
+  }
+ ]
+}

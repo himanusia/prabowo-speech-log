@@ -29,8 +29,8 @@
  "worklist_kind": "pidato",
  "is_fragment": false,
  "title": "President Prabowo's Speech at the World Governments Summit, February 13, 2025",
- "date": "1970-01-01",
- "date_precise": false,
+ "date": "2025-02-13",
+ "date_precise": true,
  "transcript": [
   {
    "t": 0.0,

@@ -91,7 +91,8 @@
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": "ambigu"
  },
- "speaker_kind": "prabowo_bicara",
+ "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": false
+ "is_fragment": false,
+ "catatan_speaker": "Bukan pidato Prabowo. Ini Panglima Jilah (tokoh Dayak) yang berbicara kepada wartawan usai diterima Presiden di Istana Merdeka. Terdeteksi salah klasifikasi lewat pembacaan transkrip: penutur memakai 'beliau' dan 'Presiden' untuk merujuk Prabowo."
 }

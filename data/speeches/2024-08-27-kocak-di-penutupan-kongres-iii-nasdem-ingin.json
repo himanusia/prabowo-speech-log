@@ -169,5 +169,7 @@
   "is_generated": true,
   "fetched_via": "transcript_panel",
   "source_of_truth": "engine/data/prabowo/raw/R-b9-w6QrWg.json"
- }
+ },
+ "pra_era": true,
+ "catatan_era": "Disampaikan sebelum 20 Okt 2024 (belum menjabat presiden). Tidak dihitung dalam analisis era presiden."
 }

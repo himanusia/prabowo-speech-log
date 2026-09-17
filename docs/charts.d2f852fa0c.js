@@ -444,8 +444,46 @@
     ['chart-program', program], ['chart-kata', kata], ['chart-topik', topik],
     ['chart-sapa', sapa], ['chart-masalah', masalah], ['chart-panjang', panjang],
     ['chart-volume', volume], ['chart-tahun', tahun], ['chart-waktu', waktu],
-    ['chart-kelengkapan', kelengkapan]
+    ['chart-kelengkapan', kelengkapan],
+    ['chart-siklus', siklus]
   ];
+
+
+  /* Perhatian program per kuartal. Yang digambar adalah PORSI PIDATO yang
+     membahas, bukan jumlah kata: program yang kebetulan disebut di satu pidato
+     panjang tidak boleh tampak lebih penting daripada yang dibahas di banyak
+     pidato pendek. Tooltip selalu menyertakan penyebutnya (n dari N). */
+  function siklus(t) {
+    var K = [['korupsi', 'Korupsi'], ['mbg', 'MBG'], ['bencana', 'Bencana']];
+    var q = D.insight ? D.insight.seri_kuartal : [];
+    return Object.assign(base(t), {
+      grid: { left: 4, right: 12, top: 40, bottom: 4, containLabel: true },
+      legend: { top: 0, left: 0, itemWidth: 12, itemHeight: 8,
+                textStyle: { color: t.muted, fontSize: 12, fontFamily: t.font } },
+      tooltip: Object.assign(base(t).tooltip, {
+        trigger: 'axis',
+        formatter: function (ps) {
+          var row = q.find(function (x) { return x.kuartal === ps[0].axisValue; }) || {};
+          return kepala(ps[0].axisValue) + fakta(ps.map(function (p) {
+            var d = row[p.seriesName.toLowerCase()] || {};
+            return [p.seriesName, p.value + '%  (' + (d.pidato || 0) + '/' + row.n + ' pidato)'];
+          }));
+        }
+      }),
+      xAxis: { type: 'category', data: q.map(function (x) { return x.kuartal; }),
+               axisLabel: axisLabel(t), axisTick: { show: false },
+               axisLine: { lineStyle: { color: t.border } } },
+      yAxis: { type: 'value', max: 50, splitLine: split(t),
+               axisLabel: Object.assign(axisLabel(t), { formatter: '{value}%' }) },
+      series: K.map(function (p, i) {
+        return { name: p[1], type: 'line', smooth: true, symbolSize: 7,
+                 data: q.map(function (x) { return (x[p[0]] || {}).persen || 0; }),
+                 lineStyle: { width: 2.5 },
+                 areaStyle: i === 0 ? { opacity: 0.12 } : null };
+      }),
+      color: [t.primary, '#c98a3f', '#5b8c6a']
+    });
+  }
 
   function draw() {
     var t = theme();
