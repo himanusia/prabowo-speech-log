@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-di-sidang-umum-pbb-ke-80-pukau-dunia",
  "video_id": "c_M3ysRfw_k",
- "date": "2025-01-01",
+ "date": "2025-09-26",
  "date_precise": false,
  "title": "Pidato Presiden Prabowo di Sidang Umum PBB Ke-80 Pukau Dunia | tvOne",
  "channel": "tvOneNews",
@@ -161,5 +161,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

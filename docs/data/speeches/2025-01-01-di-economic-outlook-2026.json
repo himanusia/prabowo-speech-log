@@ -14,8 +14,8 @@
  "token_count": 3493,
  "unique_word_count": 1042,
  "canonical_overridden": false,
- "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
- "duplicate_count": 0,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip. Digabung dari 3 unggahan acara yang sama.",
+ "duplicate_count": 2,
  "uploads": [
   {
    "video_id": "5WWGecHqPzQ",
@@ -23,6 +23,20 @@
    "title": "[FULL] PIDATO PRESIDEN PRABOWO DI INDONESIA ECONOMIC OUTLOOK 2026",
    "channel": "METRO TV",
    "canonical": true
+  },
+  {
+   "video_id": "aN_c0dtE07g",
+   "url": "https://www.youtube.com/watch?v=aN_c0dtE07g",
+   "title": "[FULL] Pidato Menggelegar Prabowo depan Pengusaha: Kita Tak Akan Didikte Bangsa Lain!",
+   "channel": "MerdekaDotCom",
+   "canonical": false
+  },
+  {
+   "video_id": "4Ud38xndEbE",
+   "url": "https://www.youtube.com/watch?v=4Ud38xndEbE",
+   "title": "[Full] Pidato Presiden Prabowo di Indonesia Economic Outlook 2026, Komitmen Basmi Korupsi",
+   "channel": "KOMPASTV",
+   "canonical": false
   }
  ],
  "topics": {

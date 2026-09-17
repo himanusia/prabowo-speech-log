@@ -1,0 +1,953 @@
+{
+ "id": "2025-01-01-di-puncak-peringatan-hari-guru-nasional-beritasatu",
+ "video_id": "8AZV8Woqv5E",
+ "date": "2025-11-28",
+ "date_precise": false,
+ "title": "[FULL] Pidato Prabowo Di Puncak Peringatan Hari Guru Nasional #beritasatu",
+ "channel": "BeritaSatu",
+ "youtube_url": "https://www.youtube.com/watch?v=8AZV8Woqv5E",
+ "duration_s": 2351,
+ "duration_hms": "39:11",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 261,
+ "token_count": 2279,
+ "unique_word_count": 773,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip. Digabung dari 2 unggahan acara yang sama.",
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "8AZV8Woqv5E",
+   "url": "https://www.youtube.com/watch?v=8AZV8Woqv5E",
+   "title": "[FULL] Pidato Prabowo Di Puncak Peringatan Hari Guru Nasional #beritasatu",
+   "channel": "BeritaSatu",
+   "canonical": true
+  },
+  {
+   "video_id": "_Aer99PNOA8",
+   "url": "https://www.youtube.com/watch?v=_Aer99PNOA8",
+   "title": "[FULL] Pidato Presiden Prabowo di Peringatan Hari Guru Nasional 2025: Bantu Saya Berantas Korupsi!",
+   "channel": "KOMPASTV",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 22,
+  "pendidikan": 92,
+  "kesehatan_dan_gizi": 24,
+  "tata_kelola": 12,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 46
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 7
+  },
+  "Bencana dan penanganan": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 3.0,
+   "d": 2.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 5.0,
+   "d": 4.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam."
+  },
+  {
+   "t": 9.0,
+   "d": 9.0,
+   "text": "Selamat sore. Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu."
+  },
+  {
+   "t": 18.0,
+   "d": 6.0,
+   "text": "Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 24.0,
+   "d": 21.0,
+   "text": "Yang saya hormati Menteri Pendidikan Dasar dan Menengah sebagai penyelenggara acara ini, Prof. Abdul Muti beserta seluruh jajaran Kementerian Pendidikan Dasar Menengah."
+  },
+  {
+   "t": 45.0,
+   "d": 10.0,
+   "text": "Iya, tadi sudah saya sudah dikenalkan semua menteri-menteri yang hadir."
+  },
+  {
+   "t": 55.0,
+   "d": 6.0,
+   "text": "Perlu diulangi lagi? Hah?"
+  },
+  {
+   "t": 61.0,
+   "d": 17.0,
+   "text": "Perlu sudah ya, para menteri sudah dikenalkan sekali cukup ya."
+  },
+  {
+   "t": 78.0,
+   "d": 1.0,
+   "text": "Tapi enggak apa-apa dikenalin lagi."
+  },
+  {
+   "t": 79.0,
+   "d": 16.0,
+   "text": "Enggak sudah aja ya kan. Efisiensi."
+  },
+  {
+   "t": 95.0,
+   "d": 9.0,
+   "text": "Saya langsung aja lah ke pantun."
+  },
+  {
+   "t": 104.0,
+   "d": 7.0,
+   "text": "Pagi cerah, langitnya pekat."
+  },
+  {
+   "t": 111.0,
+   "d": 6.0,
+   "text": "Ilmu ditanam menjadi manfaat."
+  },
+  {
+   "t": 117.0,
+   "d": 6.0,
+   "text": "Guru hebat, Indonesia kuat."
+  },
+  {
+   "t": 123.0,
+   "d": 9.0,
+   "text": "Generasi muda maju, bangsa kita bermartabat."
+  },
+  {
+   "t": 132.0,
+   "d": 9.0,
+   "text": "Jalan-jalan ke Pasar Baru, singgah sebentar membeli buku."
+  },
+  {
+   "t": 141.0,
+   "d": 5.0,
+   "text": "Saya ucapkan selamat hari guru."
+  },
+  {
+   "t": 146.0,
+   "d": 10.0,
+   "text": "Terima kasih. Semoga pendidikan Indonesia semakin maju."
+  },
+  {
+   "t": 156.0,
+   "d": 4.0,
+   "text": "Saudara-saudara sekalian, terima kasih."
+  },
+  {
+   "t": 160.0,
+   "d": 12.0,
+   "text": "atas kehormatan saya diundang pada acara ini yaitu puncak peringatan Hari Guru Nasional tahun 2025."
+  },
+  {
+   "t": 172.0,
+   "d": 13.0,
+   "text": "Tentunya sebagai insan yang bertakwa marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Allah Subhanahu wa taala, Tuhan maha besar, Tuhan maha kuasa."
+  },
+  {
+   "t": 185.0,
+   "d": 6.0,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita meminta pertolongan."
+  },
+  {
+   "t": 191.0,
+   "d": 31.0,
+   "text": "Saudara-saudara sekalian, pada saat sekarang kita merasakan bahwa ada saudara-saudara kita yang mengalami duka, musibah akibat bencana alam yang terjadi di beberapa tempat di Nusantara kita ini. Yang terakhir di Aceh, Sumatera Utara, dan Sumatera Barat."
+  },
+  {
+   "t": 222.0,
+   "d": 15.0,
+   "text": "tentunya kita berdoa agar mereka senantiasa dilindungi oleh yang maha kuasa, diringankan duka dan penderitaan mereka."
+  },
+  {
+   "t": 237.0,
+   "d": 3.0,
+   "text": "Ee pemerintah bergerak cepat."
+  },
+  {
+   "t": 240.0,
+   "d": 14.0,
+   "text": "kita dari hari-hari pertama ee sudah bereaksi, sudah mengirim bantuan dan reaksi melalui jalur darat dan udara."
+  },
+  {
+   "t": 254.0,
+   "d": 9.0,
+   "text": "Tetapi memang ee kondisinya ee sangat berat, banyak yang terputus, cuaca juga masih tidak memungkinkan."
+  },
+  {
+   "t": 263.0,
+   "d": 6.0,
+   "text": "Ee kadang-kadang juga helikopter dan pesawat kita sulit untuk mendarat."
+  },
+  {
+   "t": 269.0,
+   "d": 11.0,
+   "text": "Tadi pagi kita telah berangkatkan tiga pesawat Hercules C130 dan satu pesawat A400."
+  },
+  {
+   "t": 280.0,
+   "d": 50.0,
+   "text": "Ee untuk kesekian kalinya kita kirim bantuan dan terus-menerus kebutuhan mereka di lapangan kita dukung, Saudara-saudara. ee ini juga mengingatkan kita bahwa ee dunia penuh dengan tantangan, perubahan iklim, pemanasan global, kerusakan lingkungan ini menjadi tantangan yang harus kita hadapi. ini juga saya kira mungkin para guru-guru di seluruh Indonesia yang sudah bisa mulai."
+  },
+  {
+   "t": 330.0,
+   "d": 31.0,
+   "text": "saya yakin sudah mulai, tapi mungkin perlu kita tambah dalam silabus, dalam mata pelajaran juga ee kesadaran akan sangat pentingnya kita menjaga lingkungan alam kita, menjaga hutan-hutan kita."
+  },
+  {
+   "t": 361.0,
+   "d": 9.0,
+   "text": "benar-benar mencegah pembabatan pohon-pohon, perusakan hutan-hutan."
+  },
+  {
+   "t": 370.0,
+   "d": 26.0,
+   "text": "Benar-benar juga sungai-sungai harus kita jaga agar bersih sehingga dapat menyalurkan ee air yang bisa tiba-tiba datang, Saudara-saudara. ini nanti usaha bersama kita. Tiap rumah ikut berperan secara keseluruhan keseluruhan, Saudara-saudara sekalian."
+  },
+  {
+   "t": 396.0,
+   "d": 30.0,
+   "text": "Ee terima kasih sekali lagi undangan ini memang ee pembangunan suatu bangsa, kebangkitan suatu bangsa, keberhasilan suatu bangsa akan ditentukan oleh kualitas pendidikan yang ada di bangsa itu."
+  },
+  {
+   "t": 426.0,
+   "d": 17.0,
+   "text": "Karena itu setiap negara yang berhasil harus investasi besar-besaran dalam bidang pendidikan."
+  },
+  {
+   "t": 443.0,
+   "d": 18.0,
+   "text": "Dan sesungguhnya elit politik bangsa Indonesia sudah sudah mengambil keputusan politik untuk investasi besar-besaran di bidang pendidikan."
+  },
+  {
+   "t": 461.0,
+   "d": 14.0,
+   "text": "Bidang pendidikan adalah ee mata anggaran yang terbesar dalam anggaran nasional kita, dalam APBN kita."
+  },
+  {
+   "t": 475.0,
+   "d": 8.0,
+   "text": "Mata anggaran yang terbesar adalah pendidikan."
+  },
+  {
+   "t": 483.0,
+   "d": 14.0,
+   "text": "oleh undang-undang ee bagian pendidikan mata anggar pendidikan harus memenuhi minimal 20%."
+  },
+  {
+   "t": 497.0,
+   "d": 6.0,
+   "text": "Kalau tidak salah APBN kita sudah lebih dari 20%."
+  },
+  {
+   "t": 503.0,
+   "d": 7.0,
+   "text": "Total semua yang akan kita kerahkan, Saudara-saudara."
+  },
+  {
+   "t": 510.0,
+   "d": 45.0,
+   "text": "anggaran yang demikian besar kita harus pastikan, harus yakinkan sampai benar-benar ke ujung sasaran kita, yaitu para guru, para siswa, dan sekolah-sekolah sarana gedung-gedung, buku-buku, semua yang dibutuhkan untuk kualitas pendidikan yang terbaik kita harus yakini sungguh-sungguh sampai."
+  },
+  {
+   "t": 555.0,
+   "d": 8.0,
+   "text": "Saudara-saudara sekalian, bagian dari APBN kita sudah sangat besar."
+  },
+  {
+   "t": 563.0,
+   "d": 7.0,
+   "text": "Banyak negara lain tidak menempatkan pendidikan paling atas."
+  },
+  {
+   "t": 570.0,
+   "d": 8.0,
+   "text": "Negara-negara tertentu menempatkan pertahanan yang paling atas."
+  },
+  {
+   "t": 578.0,
+   "d": 14.0,
+   "text": "Ini bisa diperiksa anggaran India, anggaran Pakistan, bahkan anggaran Singapura."
+  },
+  {
+   "t": 592.0,
+   "d": 13.0,
+   "text": "anggaran apalagi anggaran negara-negara lain Amerika Serikat di banyak negara itu anggaran pertahanan yang paling di atas."
+  },
+  {
+   "t": 605.0,
+   "d": 13.0,
+   "text": "Kalau tidak salah di India pertahanan paling atas nomor dua adalah makan bergizi gratis. nomor dua di India."
+  },
+  {
+   "t": 618.0,
+   "d": 12.0,
+   "text": "Pendidikan mungkin bagian dari itu, tapi di Indonesia pendidikan mata anggaran yang paling besar."
+  },
+  {
+   "t": 630.0,
+   "d": 24.0,
+   "text": "Tapi yang ingin saya ingatkan untuk semua aparat dari pusat sampai provinsi sampai kabupaten, kepala kepala dinas, para gubernur, para bupati."
+  },
+  {
+   "t": 654.0,
+   "d": 15.0,
+   "text": "Pastikan anggaran pendidikan sampai ke tujuan yang kita tujukan."
+  },
+  {
+   "t": 669.0,
+   "d": 19.0,
+   "text": "Jangan sampai anggaran pendidikan yang begitu penting bagi kebangkitan bangsa kita. Jangan sampai anggaran pendidikan diselewengkan."
+  },
+  {
+   "t": 688.0,
+   "d": 8.0,
+   "text": "Jangan sampai anggaran pendidikan dikorupsi."
+  },
+  {
+   "t": 696.0,
+   "d": 6.0,
+   "text": "Siapa itu?"
+  },
+  {
+   "t": 702.0,
+   "d": 6.0,
+   "text": "Maaf ini harus saya sampaikan."
+  },
+  {
+   "t": 708.0,
+   "d": 21.0,
+   "text": "Saudara-saudara, pendidikan hanya melalui pendidikan kita bisa benar-benar menjadi negara merdeka."
+  },
+  {
+   "t": 729.0,
+   "d": 8.0,
+   "text": "Karena itu ee hari guru nasional ini kesempatan sekali lagi saya ucapkan penghargaan."
+  },
+  {
+   "t": 737.0,
+   "d": 6.0,
+   "text": "Terima kasih saya atas nama bangsa dan rakyat Indonesia."
+  },
+  {
+   "t": 743.0,
+   "d": 13.0,
+   "text": "Terima kasih saya kepada semua guru yang ada di Indonesia, semua guru dari semua tingkatan."
+  },
+  {
+   "t": 756.0,
+   "d": 37.0,
+   "text": "Saudara-saudara sekalian, saya sangat merasa demikian pentingnya pendidikan sehingga uang-uang yang kita hemat, uang-uang yang berhasil akibat efisiensi kita kita realokasikan, kita utamakan kependidikan."
+  },
+  {
+   "t": 793.0,
+   "d": 20.0,
+   "text": "Tahun ini kita baru mampu memperbaiki 16.000 Ibu sekolah baru mampu."
+  },
+  {
+   "t": 813.0,
+   "d": 12.0,
+   "text": "Saya minta maaf sebagai Presiden Anda, saya baru mampu mengalokasikan 16.000 sekolah."
+  },
+  {
+   "t": 825.0,
+   "d": 16.0,
+   "text": "Tapi tahun depan saya bertekad untuk melipat gandakan itu."
+  },
+  {
+   "t": 841.0,
+   "d": 18.0,
+   "text": "Berapa kita bisa main seknek main seknek kau yang aku tanya jangan kau lihat kiri kanan jangan kau lihat menteri keuangan. Kau yang aku tanya berapa yang kita rencanakan tahun depan?"
+  },
+  {
+   "t": 859.0,
+   "d": 10.0,
+   "text": "Berapa? Minimal 60.000."
+  },
+  {
+   "t": 869.0,
+   "d": 16.0,
+   "text": "60.000 pun saya tidak puas. Menteri Keuangan bisa kita tambah."
+  },
+  {
+   "t": 885.0,
+   "d": 3.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 888.0,
+   "d": 12.0,
+   "text": "Kalau kalau kau bisa tambah kau tambah lagi disorain semua itu."
+  },
+  {
+   "t": 900.0,
+   "d": 21.0,
+   "text": "Saya kira cukup ya. Cukup intinya itu kan saudara-saudara ini pidato bagus sudah disiapkan ini."
+  },
+  {
+   "t": 921.0,
+   "d": 4.0,
+   "text": "Saya bacakan ya."
+  },
+  {
+   "t": 925.0,
+   "d": 35.0,
+   "text": "percepatan penyelesaian pendidikan profesi guru yang berikan meningkatkan kesatan menyediakan penyediaan lunjangan guru bosan enggak kau dengar kayak gitu? bosan. Jangankan kau, aku pun bosan."
+  },
+  {
+   "t": 960.0,
+   "d": 18.0,
+   "text": "Intinya para guru, intinya adalah saudara-saudara adalah tonggak yang paling penting dalam pembangunan bangsa Indonesia."
+  },
+  {
+   "t": 978.0,
+   "d": 18.0,
+   "text": "Kita semua yang duduk di depan ini, para profesor, para menteri, Menko, Jenderal, kita tidak bisa di sini. Saya tidak bisa di sini kalau tidak ada guru-guru yang baik mendidik kita."
+  },
+  {
+   "t": 996.0,
+   "d": 10.0,
+   "text": "Dan guru-guru, guru-guru yang baik kadang-kadang harus tegas."
+  },
+  {
+   "t": 1006.0,
+   "d": 12.0,
+   "text": "Karena anak-anak kita ya memang namanya anak-anak ada yang nakal, ada yang malas."
+  },
+  {
+   "t": 1018.0,
+   "d": 10.0,
+   "text": "Benar. Saya boleh kasih satu pengakuan?"
+  },
+  {
+   "t": 1028.0,
+   "d": 11.0,
+   "text": "Aku aku kasih pengakuan ya. Aku termasuk yang nakal dulu."
+  },
+  {
+   "t": 1039.0,
+   "d": 3.0,
+   "text": "Untung udah jadi presiden."
+  },
+  {
+   "t": 1042.0,
+   "d": 13.0,
+   "text": "Tapi memang kalau guru-guru saya dulu enggak tegas, enggak keras sama saya, saya enggak bisa berdiri di sini."
+  },
+  {
+   "t": 1055.0,
+   "d": 6.0,
+   "text": "Jadi, hai orang tua di mana-mana."
+  },
+  {
+   "t": 1061.0,
+   "d": 10.0,
+   "text": "Kalau guru itu keras, jangan-jangan anakmu yang nakal."
+  },
+  {
+   "t": 1071.0,
+   "d": 6.0,
+   "text": "Benar."
+  },
+  {
+   "t": 1077.0,
+   "d": 11.0,
+   "text": "Kalau anak nakal terus dibiarkan nakal, dia enggak bisa jadi orang baik."
+  },
+  {
+   "t": 1088.0,
+   "d": 13.0,
+   "text": "Dan dan ini ada fenomena kadang-kadang justru yang kalau nakal itu okelah ya nakal itu. Tapi kalau kurang ajar nah ini enggak beres ini."
+  },
+  {
+   "t": 1101.0,
+   "d": 3.0,
+   "text": "Kurang ajar ini ya."
+  },
+  {
+   "t": 1104.0,
+   "d": 10.0,
+   "text": "Kadang-kadang ada murid yang kurang ajar iya kan. ditegur oleh guru, dia balas gitu loh."
+  },
+  {
+   "t": 1114.0,
+   "d": 5.0,
+   "text": "Merasa dirinya jagoan."
+  },
+  {
+   "t": 1119.0,
+   "d": 19.0,
+   "text": "Ada di waktu saya Menteri Pertahanan, ada sekolah yang di bawah Kementerian Pertahanan ada dapat laporan murid-murid yang apa itu jawab enggak sopan ke gurunya."
+  },
+  {
+   "t": 1138.0,
+   "d": 12.0,
+   "text": "Ada yang banting pintu langsung kepala sekolah memberhentikan anak itu."
+  },
+  {
+   "t": 1150.0,
+   "d": 16.0,
+   "text": "Tahu-tahu kepala sekolahnya agak grogi karena yang diberhentikan itu anak jenderal."
+  },
+  {
+   "t": 1166.0,
+   "d": 15.0,
+   "text": "Kepala sekolahnya telepon saya. Saya bilang, \"Enggak usah ragu-ragu. Mana jenderal itu? Suruh menghadap saya.\" Aku tunggu-tunggu enggak datang-datang juga. Itu jenderal itu."
+  },
+  {
+   "t": 1181.0,
+   "d": 12.0,
+   "text": "Kalau bapaknya orang besar, anaknya harus lebih sopan, lebih baik. Jangan kurang ajar."
+  },
+  {
+   "t": 1193.0,
+   "d": 12.0,
+   "text": "Kalau bapaknya tokoh, bapaknya jenderal, bapak pemimpin, anaknya harus lebih sopan, lebih baik, lebih tertib."
+  },
+  {
+   "t": 1205.0,
+   "d": 5.0,
+   "text": "Menteri Pendidikan ya enggak usah ragu-ragu."
+  },
+  {
+   "t": 1210.0,
+   "d": 9.0,
+   "text": "Guru-guru harus kita dukung. Guru-guru adalah masa depan Indonesia."
+  },
+  {
+   "t": 1219.0,
+   "d": 13.0,
+   "text": "Makanya semua anak Indonesia saya selalu minta cintai orang tua, hormati guru, Saudara-saudara sekalian."
+  },
+  {
+   "t": 1232.0,
+   "d": 11.0,
+   "text": "Jadi pendidikan akan kita benahi, akan kita perbaiki secara besar-besaran."
+  },
+  {
+   "t": 1243.0,
+   "d": 3.0,
+   "text": "secara besar-besaran."
+  },
+  {
+   "t": 1246.0,
+   "d": 7.0,
+   "text": "Kita negara besar, persoalan kita besar."
+  },
+  {
+   "t": 1253.0,
+   "d": 6.0,
+   "text": "Kita mengejar negara-negara lain yang begitu cepat perkembangannya."
+  },
+  {
+   "t": 1259.0,
+   "d": 8.0,
+   "text": "Kita tidak boleh kalah. Kita ingin mengejar mereka. Untuk itu, kita harus langkah kita harus mengambil langkah-langkah yang berani."
+  },
+  {
+   "t": 1267.0,
+   "d": 3.0,
+   "text": "Saudara-saudara sekalian."
+  },
+  {
+   "t": 1270.0,
+   "d": 20.0,
+   "text": "Langkah-langkah yang saya ambil antara lain adalah memilih teknologi dengan digital digitalisasi."
+  },
+  {
+   "t": 1290.0,
+   "d": 23.0,
+   "text": "Presiden aja enggak bisa ucap apalagi kalau digitalisasi pembelajaran, digitalisasi pembelajaran kita menggunakan teknologi untuk melompat."
+  },
+  {
+   "t": 1313.0,
+   "d": 15.0,
+   "text": "Saya mengirim layar interaktif ke semua sekolah di Republik Indonesia."
+  },
+  {
+   "t": 1328.0,
+   "d": 17.0,
+   "text": "Saudara-saudara sekalian, saya dapat laporan sampai tadi malam sudah sampai lebih dari 200 R000 layar."
+  },
+  {
+   "t": 1345.0,
+   "d": 25.0,
+   "text": "mungkin sudah mendekati 200 15.000 mungkin saya tidak tahu Menteri Pendidikan ya. Tapi insyaallah akhir Desember atau awal Januari akan sampai ke seluruh 288.000 ibu sekolah di seluruh Indonesia."
+  },
+  {
+   "t": 1370.0,
+   "d": 27.0,
+   "text": "Masalahnya adalah cuaca yang sangat ee menantang sehingga kemungkinan pengiriman ke daerah-daerah yang susah itu agak lambat. Saya sekali lagi saya mohon pengertian. Tetapi ee saya bangga bahwa kita berusaha sampai ke pelosok-pelosok."
+  },
+  {
+   "t": 1397.0,
+   "d": 23.0,
+   "text": "Bisa ada video klip enggak ya? Ee pengiriman itu layar-layar. Mana tim? Ah ini nih. Buka itu sungai."
+  },
+  {
+   "t": 1420.0,
+   "d": 6.0,
+   "text": "pengiriman. Iya. Ini yang berhasil ya."
+  },
+  {
+   "t": 1426.0,
+   "d": 17.0,
+   "text": "Ini yang sudah sampai. Ada yang pengiriman enggak?"
+  },
+  {
+   "t": 1443.0,
+   "d": 14.0,
+   "text": "Bayangkan sampai rakyat mengangkat daerah-daerah paling terpencil kita kirim."
+  },
+  {
+   "t": 1457.0,
+   "d": 19.0,
+   "text": "Demikian pentingnya kita menganggap setiap sekolah, setiap ruang kelas tidak boleh ada satu desa yang tertinggal, Saudara-saudara."
+  },
+  {
+   "t": 1476.0,
+   "d": 12.0,
+   "text": "Dan ee tahun depan rencana kita tambah tiap sekolah tiga layar."
+  },
+  {
+   "t": 1488.0,
+   "d": 25.0,
+   "text": "dan tahun depannya lagi dua layar. Jadi tiap kelas harus punya layar-layar interaktif itu dan akan ada konten-konten yang sangat besar jumlahnya."
+  },
+  {
+   "t": 1513.0,
+   "d": 10.0,
+   "text": "Hampir semua pelajaran dari semua tingkatan akan bisa diakses oleh layar tersebut."
+  },
+  {
+   "t": 1523.0,
+   "d": 6.0,
+   "text": "Dan juga rencana kita akan kita lakukan dari studio terpusat."
+  },
+  {
+   "t": 1529.0,
+   "d": 10.0,
+   "text": "Kita akan siarkan pelajaran-pelajaran dari guru-guru yang terbaik di Indonesia."
+  },
+  {
+   "t": 1539.0,
+   "d": 6.0,
+   "text": "Kalau perlu kita datangkan dari luar negeri juga."
+  },
+  {
+   "t": 1545.0,
+   "d": 13.0,
+   "text": "Jadi semua sekolah di pelosok mana pun bisa belajar bahasa Inggris dari guru asli dari Inggris."
+  },
+  {
+   "t": 1558.0,
+   "d": 4.0,
+   "text": "Bahasa Mandarin, guru asli Mandarin."
+  },
+  {
+   "t": 1562.0,
+   "d": 7.0,
+   "text": "Bahasa Prancis, bahasa Jerman. Bahasa Korea, bahasa Jepang."
+  },
+  {
+   "t": 1569.0,
+   "d": 15.0,
+   "text": "Bahasa Portugis. kita ajarkan di semua sekolah kita supaya nanti anak-anak kita begitu lulus dia bisa bekerja di manaun di bumi ini, Saudara-saudara sekalian."
+  },
+  {
+   "t": 1584.0,
+   "d": 5.0,
+   "text": "Dia bisa bersaing dengan siapapun."
+  },
+  {
+   "t": 1589.0,
+   "d": 15.0,
+   "text": "Saudara-saudara, tadi sudah disebut kita tambahkan program-program supaya guru-guru kita bisa naik kelas, bisa punya gelar ee S1."
+  },
+  {
+   "t": 1604.0,
+   "d": 15.0,
+   "text": "Tapi yang penting jangan hanya kejar gelar, tapi benar-benar ilmunya, pengetahuannya itu yang harus dikuasai."
+  },
+  {
+   "t": 1619.0,
+   "d": 65.0,
+   "text": "pelatihan-pelatihan terima kasih yang sudah dirintis oleh Kementerian Dikdasmen apa enggak dengar Saya kalau semua teriak kayak gini saya enggak dengar Pak apa iya bagaimana itu menteri dikdustmen iya yang enggak terima kasih Bapak Presiden."
+  },
+  {
+   "t": 1684.0,
+   "d": 12.0,
+   "text": "Jadi untuk guru sesuai dengan kebijakan Bapak Presiden, kita ada wajib belajar 13 tahun dimulai dari taman kanak-kanak."
+  },
+  {
+   "t": 1696.0,
+   "d": 14.0,
+   "text": "Guru-guru TK itu sudah termasuk mendapatkan sertifikasi. Yang belum adalah guru untuk kelompok bermain dan tempat penitipan anak. Mereka belum bisa mendapatkan tunjangan sertifikasi."
+  },
+  {
+   "t": 1710.0,
+   "d": 5.0,
+   "text": "Itu kira-kira aspirasinya begitu, Bapak Presiden."
+  },
+  {
+   "t": 1715.0,
+   "d": 17.0,
+   "text": "Dan untuk murid-murid TK tahun ini akan mendapatkan PIP. Tahun ini murid-murid TK akan mendapatkan PIP R50.000 per tahun untuk 888.000 murid TK seluruh Indonesia."
+  },
+  {
+   "t": 1732.0,
+   "d": 7.0,
+   "text": "Ee guru maksud kalau gurunya memang kalau guru TK itu sudah bisa mendapatkan tunjangan sertifikasi. Oke."
+  },
+  {
+   "t": 1739.0,
+   "d": 7.0,
+   "text": "Yang belum adalah guru kelompok bermain dan guru penitipan anak."
+  },
+  {
+   "t": 1746.0,
+   "d": 14.0,
+   "text": "Baik. Ee saya kira begini tentunya kita ingin memperhatikan semua aspirasi dan semua kepentingan, tapi tentunya itu membutuhkan dana yang tidak sedikit."
+  },
+  {
+   "t": 1760.0,
+   "d": 7.0,
+   "text": "Anggaran pendidikan kita sudah yang terbesar alokasinya."
+  },
+  {
+   "t": 1767.0,
+   "d": 10.0,
+   "text": "kita akan tambahkan bila perlu dan bila mampu. Ya, masalahnya adalah saya mohon dukungan saudara-saudara."
+  },
+  {
+   "t": 1777.0,
+   "d": 20.0,
+   "text": "Kita harus memberantas korupsi dari Indonesia ini."
+  },
+  {
+   "t": 1797.0,
+   "d": 6.0,
+   "text": "Saya bertekad untuk memberantas korupsi dari Indonesia."
+  },
+  {
+   "t": 1803.0,
+   "d": 18.0,
+   "text": "Memang saya minta pengertian masalahnya sudah sangat berat. Tidak bisa dalam sat du hari saya tidak punya tongkat Nabi Musa. Saya tidak punya dan kita punya sistem."
+  },
+  {
+   "t": 1821.0,
+   "d": 9.0,
+   "text": "Ya memang ini masalahnya anggaran di rongrong, markap di mana-mana."
+  },
+  {
+   "t": 1830.0,
+   "d": 10.0,
+   "text": "Saya minta menteri-menteri awasi anak buahmu, awasi pejabat-pejabatmu."
+  },
+  {
+   "t": 1840.0,
+   "d": 15.0,
+   "text": "Dan saya kasih peringatan ya, para birokrat kalau masih ngotot mau mempermainkan anggaran mengira bahwa kita bodoh semua."
+  },
+  {
+   "t": 1855.0,
+   "d": 16.0,
+   "text": "Mark upk up barang harganya R10 juta, dinaikin 150 kali."
+  },
+  {
+   "t": 1871.0,
+   "d": 7.0,
+   "text": "Jangan kira saya tidak tahu."
+  },
+  {
+   "t": 1878.0,
+   "d": 14.0,
+   "text": "Saya kasih peringatan. Para menteri, para kepala badan, pejabat, bersihkan aparatmu semuanya itu."
+  },
+  {
+   "t": 1892.0,
+   "d": 21.0,
+   "text": "Kita butuh setiap rupiah untuk kepentingan rakyat, untuk kepentingan guru-guru, untuk kepentingan perbaikan sekolah. Kita butuh itu semua. Jangan mencuri uang rakyat."
+  },
+  {
+   "t": 1913.0,
+   "d": 10.0,
+   "text": "Terima kasih Menteri Pendidikan."
+  },
+  {
+   "t": 1923.0,
+   "d": 6.0,
+   "text": "Waspadai ya. Ini banyak menteri di sini."
+  },
+  {
+   "t": 1929.0,
+   "d": 4.0,
+   "text": "Sekarang ada digital."
+  },
+  {
+   "t": 1933.0,
+   "d": 11.0,
+   "text": "Rakyat, anak-anak di desa mana pun bisa langsung hubungan sama saya. Yang capek aku."
+  },
+  {
+   "t": 1944.0,
+   "d": 8.0,
+   "text": "Coba itu anak-anak yang ke sekolah harus nyeberang sungai tiap hari. tayangkan itu."
+  },
+  {
+   "t": 1952.0,
+   "d": 7.0,
+   "text": "Nah, ini kami tersiksa kalau ada hutan."
+  },
+  {
+   "t": 1959.0,
+   "d": 6.0,
+   "text": "Mohon untuk dibangun kembali agar warga masyarakat bisa melewati jembatan ini."
+  },
+  {
+   "t": 1965.0,
+   "d": 59.0,
+   "text": "Termasuk anak-anak semua. Ini koruptor-koruptor lihat ini lebih baik jalan sungai daripada harus muter ke sana buat nger sekolah apa ya mengejar impian kadang-kadang sekolah mereka basah pulang basah kan khawatir ya orang tuanya nya kami keseringan dihambat ee banjir ee di saat kami ee pergi ke sekolah dan kami mohon kepada Bapa untuk membangun jalan kami ini karena kami tersiksa kalau kami pergi ke sekolah, Saudara-saudara."
+  },
+  {
+   "t": 2024.0,
+   "d": 19.0,
+   "text": "Akibat itu video-video yang dikirim langsung ke saya, saya sudah bentuk satuan tugas khusus darurat untuk jembatan."
+  },
+  {
+   "t": 2043.0,
+   "d": 9.0,
+   "text": "Kita butuh membangun 300.000 R jembatan di seluruh pelosok-pelosok yang terpencil. 300.000 jembatan."
+  },
+  {
+   "t": 2052.0,
+   "d": 5.0,
+   "text": "Ada yang kecil, ada yang penyeberangan. Ini sedang kita rancang."
+  },
+  {
+   "t": 2057.0,
+   "d": 6.0,
+   "text": "Anak-anakku, sabar. Saya sedang bekerja."
+  },
+  {
+   "t": 2063.0,
+   "d": 10.0,
+   "text": "Mudah-mudahan tahun depan semua jembatan bisa berdiri."
+  },
+  {
+   "t": 2073.0,
+   "d": 20.0,
+   "text": "Terpaksa saya minta Menteri Dikti untuk kerahkan semua potensinya. Mungkin semua mahasiswa di Fakultas Teknik Sipil akan saya minta terjun ke desa-desa itu untuk membangun jembatan."
+  },
+  {
+   "t": 2093.0,
+   "d": 10.0,
+   "text": "Saya juga minta TNI kerahkan batalan-betalan pembangunanmu untuk bantu membangun jembatan-jembatan."
+  },
+  {
+   "t": 2103.0,
+   "d": 6.0,
+   "text": "Kerahkan batalan-batalan zenimu untuk bantu."
+  },
+  {
+   "t": 2109.0,
+   "d": 15.0,
+   "text": "Saya juga minta polisi juga turun. Saya minta itu kompi-kompi Brimok terjunkan bantu rakyat di desa desa untuk atasi ini."
+  },
+  {
+   "t": 2124.0,
+   "d": 16.0,
+   "text": "Masalah jembatan ini menjadi prioritas karena saya tidak rela anak-anak seperti itu tiap hari mempertaruhkan nyawanya untuk ke sekolah."
+  },
+  {
+   "t": 2140.0,
+   "d": 9.0,
+   "text": "Jadi, hei elit-elit di Jakarta, hei kelompok orang pintar, lihat rakyatmu."
+  },
+  {
+   "t": 2149.0,
+   "d": 42.0,
+   "text": "Kita atasi itu tidak dengan wacana, tidak dengan teori, tidak dengan gagasan, tidak dengan tidak dengan hardik-menghardik, tidak dengan maki-memaki, tidak ngenyek. Kita harus atasi jembatan itu dengan kerja nyata, pikiran nyata dan tiap jembatan bagaimanapun butuh sumber daya, butuh uang. Ini sedang tambah lagi pusing Purbaya."
+  },
+  {
+   "t": 2191.0,
+   "d": 8.0,
+   "text": "Enggak apa-apa Purbaya, pusingmu mulia untuk rakyat."
+  },
+  {
+   "t": 2199.0,
+   "d": 8.0,
+   "text": "Aku lihat kau belum botak jadi masih kuat kau."
+  },
+  {
+   "t": 2207.0,
+   "d": 8.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 2215.0,
+   "d": 7.0,
+   "text": "Salam sejahtera bagi kita sekalian. Selamat berjuang. Terima kasih."
+  },
+  {
+   "t": 2222.0,
+   "d": 14.0,
+   "text": "Terima kasih pekerjaan kalian. Terima kasih pengorbanan kalian. Bersama-sama kita bangun bangsa kita."
+  },
+  {
+   "t": 2236.0,
+   "d": 10.0,
+   "text": "Saya minta dukunganmu. Saya minta doamu. Saya minta doamu."
+  },
+  {
+   "t": 2246.0,
+   "d": 15.0,
+   "text": "Saya minta dukunganmu. Bantu saya berantas korupsi."
+  },
+  {
+   "t": 2261.0,
+   "d": 14.0,
+   "text": "Terima kasih. Selesai."
+  },
+  {
+   "t": 2275.0,
+   "d": 16.0,
+   "text": "Terima kasih. Terima kasih B. Terima kasih."
+  },
+  {
+   "t": 2291.0,
+   "d": 40.0,
+   "text": "Demikianlah rangkaian acara puncak peringatan Hari Guru Nasional 2025 kami ucapkan kepada yang terhormat Presiden Republik Indonesia serta seluruh hadirin yang telah hadir sore hari ini. Terima kasih banyak."
+  },
+  {
+   "t": 2331.0,
+   "d": 20.0,
+   "text": "dari mana?"
+  },
+  {
+   "t": 2351.0,
+   "d": 3.0,
+   "text": "Bayi ada Bu"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
+}

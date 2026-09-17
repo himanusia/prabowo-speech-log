@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01---pertemuan-dan-kaisar-naruhito-di-forum",
  "video_id": "p4ZSMswEDLs",
- "date": "2025-01-01",
+ "date": "2026-03-30",
  "date_precise": false,
  "title": "LIVE - Pertemuan Prabowo dan Kaisar Naruhito di Forum Bisnis Jepang  | Metro Hari Ini",
  "channel": "METRO TV",
@@ -160,5 +160,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

@@ -13,8 +13,8 @@
  "token_count": 1708,
  "unique_word_count": 581,
  "canonical_overridden": false,
- "canonical_note": null,
- "duplicate_count": 0,
+ "canonical_note": " Digabung dari 2 unggahan acara yang sama.",
+ "duplicate_count": 1,
  "uploads": [
   {
    "video_id": "KNeFsu2UbDQ",
@@ -35,6 +35,13 @@
    ],
    "selection_reason": "early_speech_candidate",
    "canonical": true
+  },
+  {
+   "video_id": "m2Oe4eHUeFM",
+   "url": "https://www.youtube.com/watch?v=m2Oe4eHUeFM",
+   "title": "[FULL] Pidato Prabowo Pidato Singgung Takut dengan Jokowi Saat Resmikan Pabrik di Cilegon | Liputan6",
+   "channel": "Liputan6",
+   "canonical": false
   }
  ],
  "topics": {

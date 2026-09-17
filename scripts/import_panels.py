@@ -39,6 +39,15 @@ PROFILE = ROOT / "profiles" / "prabowo.json"
 BULAN = {b: i for i, b in enumerate(
     ["januari", "februari", "maret", "april", "mei", "juni", "juli",
      "agustus", "september", "oktober", "november", "desember"], start=1)}
+# Judul kanal resmi sering menyingkat bulan ("3 Mar 2026", "29 Okt 2024").
+# Tanpa singkatan ini, tanggal tidak terbaca dan entri jatuh ke tanggal default.
+BULAN.update({
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "mei": 5, "jun": 6, "jul": 7,
+    "agu": 8, "ags": 8, "aug": 8, "sep": 9, "sept": 9, "okt": 10, "oct": 10,
+    "nov": 11, "des": 12, "dec": 12,
+    "january": 1, "february": 2, "march": 3, "april": 4, "june": 6, "july": 7,
+    "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
+})
 
 
 def norm(text: str) -> str:
@@ -184,8 +193,14 @@ def main() -> int:
                 th = re.match(r"(\d{4})", t.get("date") or judul or "")
                 tanggal = f"{th.group(1)}-01-01" if th and th.group(1) != "0000" else None
         if not re.match(r"^\d{4}-\d{2}-\d{2}$", tanggal or ""):
+            # JANGAN mengarang tanggal. Dulu di sini diisi "2025-01-01",
+            # akibatnya puluhan entri menumpuk di Januari 2025 dan grafik
+            # garis waktu menunjukkan lonjakan yang tidak pernah terjadi.
+            # Tanggal kosong lebih jujur: entri tetap ada, tapi tidak
+            # ditempatkan di bulan yang salah. Isi belakangan lewat
+            # scripts/perbaiki_tanggal.py yang mengambil tanggal unggah.
             presisi = False
-            tanggal = "2025-01-01"      # tidak diketahui: bukan karangan, tapi ditandai
+            tanggal = None
 
         blok = paragraf(utama.get("raw_snippets", []))
         if not blok:

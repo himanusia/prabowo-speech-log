@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-rekap-lawatan-di-g20-brasil-bertemu-sekjen",
  "video_id": "h4s66WRpm4U",
- "date": "2025-01-01",
+ "date": "2024-11-20",
  "date_precise": false,
  "title": "Rekap Lawatan Prabowo di G20 Brasil: Bertemu Sekjen PBB hingga Akrab dengan Presiden Turki Erdogan",
  "channel": "Tribunnews",
@@ -86,5 +86,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

@@ -1,7 +1,7 @@
 {
  "id": "2025-01-01-arahan-penanganan-pascagempa-ntt",
  "video_id": "iN5vRmRfaIE",
- "date": "2025-01-01",
+ "date": "2026-08-26",
  "date_precise": false,
  "title": "[FULL] ARAHAN PRESIDEN PRABOWO PENANGANAN PASCAGEMPA NTT",
  "channel": "METRO TV",
@@ -894,5 +894,6 @@
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
- }
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

@@ -1,0 +1,710 @@
+{
+ "id": "2025-01-01-breaking-news---saat-luncurkan-digitalisasi-pembelajaran",
+ "video_id": "S8_s8fJ6LFs",
+ "date": "2025-11-17",
+ "date_precise": false,
+ "title": "BREAKING NEWS - [FULL] Pidato Prabowo Saat Luncurkan Digitalisasi Pembelajaran: Hentikan Korupsi",
+ "channel": "METRO TV",
+ "youtube_url": "https://www.youtube.com/watch?v=S8_s8fJ6LFs",
+ "duration_s": 1878,
+ "duration_hms": "31:18",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 239,
+ "token_count": 1985,
+ "unique_word_count": 715,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip. Digabung dari 2 unggahan acara yang sama.",
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "S8_s8fJ6LFs",
+   "url": "https://www.youtube.com/watch?v=S8_s8fJ6LFs",
+   "title": "BREAKING NEWS - [FULL] Pidato Prabowo Saat Luncurkan Digitalisasi Pembelajaran: Hentikan Korupsi",
+   "channel": "METRO TV",
+   "canonical": true
+  },
+  {
+   "video_id": "snifLHcuBBo",
+   "url": "https://www.youtube.com/watch?v=snifLHcuBBo",
+   "title": "[FULL] Prabowo Pidato Tegaskan Ogah Omon-Omon Depan Depan Dedi Mulyadi & Ribuan Siswa | Liputan6",
+   "channel": "Liputan6",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 5,
+  "pendidikan": 53,
+  "kesehatan_dan_gizi": 26,
+  "tata_kelola": 7,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 67
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 3
+  },
+  "Korupsi dan kebocoran": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 36.0,
+   "text": "Selanjutnya hadirin yang berbahagia, marilah kita simak bersama sambutan Presiden Republik Indonesia. Dilanjutkan penekanan tombol sebagai tanda peluncuran program digitalisasi pembelajaran untuk Indonesia Cerdas."
+  },
+  {
+   "t": 36.0,
+   "d": 3.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 39.0,
+   "d": 3.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 42.0,
+   "d": 8.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh. Selamat siang."
+  },
+  {
+   "t": 50.0,
+   "d": 5.0,
+   "text": "Salam sejahtera bagi kita sekalian."
+  },
+  {
+   "t": 55.0,
+   "d": 7.0,
+   "text": "Shalom, salve, om swastiastu. Namo budaya, salam kebajikan rahayu-rahayu."
+  },
+  {
+   "t": 62.0,
+   "d": 18.0,
+   "text": "Yang saya hormati dan saya banggakan Menteri Pendidikan Dasar dan Menengah sebagai penyelenggara beserta seluruh jajarannya, Menteri Pendidikan Dasar dan Menengah Prof. Abdul Muti."
+  },
+  {
+   "t": 80.0,
+   "d": 9.0,
+   "text": "Para apa? Menko yang hadir ya, Menko PMK."
+  },
+  {
+   "t": 89.0,
+   "d": 18.0,
+   "text": "Prof. Pratekno, Menteri Dalam Negeri Jenderal Polisi Purnawirawan Tito Karnavian, Menteri Komunikasi dan Digitalisasi, Saudari Mutia Ziyada Hafid."
+  },
+  {
+   "t": 107.0,
+   "d": 61.0,
+   "text": "Menteri Sekretaris Negara, Saudara Prasetyo Hadi, Kepala Badan Komunikasi Pemerintah, Saudara Anggaraka Prabowo, Kepala Staf Kepresidenan, Saudara Muhammad Qodari, Wakil Menteri Pendidikan Dasar dan Menengah, Saudara Fajar Riza Ulhaq, Ketua Komisi 10 DPRRI, Saudari Hatifah Syfudian, Wakil Ketua Komisi 10 DPR, Saudari Estijanti, Saudari Himatul Aliah, Gubernur Jawa Barat, Saudara Dedi Mulyadi, [tepuk tangan]"
+  },
+  {
+   "t": 168.0,
+   "d": 10.0,
+   "text": "Wakil Walikota Bekasi, Saudara Abdul Haris Bobiho."
+  },
+  {
+   "t": 178.0,
+   "d": 32.0,
+   "text": "Yang saya hormati para petugas, para pejabat, para guru yang hadir, para tenaga pengajar yang hadir atau yang mengikuti melalui ee video conference dan terutama yang saya banggakan anak-anakku siswa-siswi dari seluruh Indonesia yang saya cintai."
+  },
+  {
+   "t": 210.0,
+   "d": 14.0,
+   "text": "Rekan-rekan pers dan media yang hadir, yang saya hormati dan saya banggakan dan yang juga saya cintai."
+  },
+  {
+   "t": 224.0,
+   "d": 11.0,
+   "text": "Kadang-kadang enggak, enggak enggak itu joke gitu."
+  },
+  {
+   "t": 235.0,
+   "d": 25.0,
+   "text": "Pertama-tama tentunya selalu sebagai insan yang bertakwa tidak henti-hentinya kita panjatkan puji syukur kehadirat Allah Subhanahu wa taala bagi umat Islam. Tuhan maha kuasa, Tuhan maha besar yang memiliki sekalian alam."
+  },
+  {
+   "t": 260.0,
+   "d": 6.0,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyalah kita meminta pertolongan."
+  },
+  {
+   "t": 266.0,
+   "d": 32.0,
+   "text": "Kita bersyukur atas segala karunia, kebaikan, kedamaian, kerukunan dan kesehatan yang diberikan kepada kita sehingga kita bisa hadir dalam acara yang baik ini, yaitu peluncuran program digitalisasi pembelajaran."
+  },
+  {
+   "t": 298.0,
+   "d": 8.0,
+   "text": "Yang benar yang mana? Pembelajaran digitalisasi atau digitalisasi pembelajaran? Menteri Pendidikan. Hah?"
+  },
+  {
+   "t": 306.0,
+   "d": 7.0,
+   "text": "Pembelajaran. Oke. Ah, ini ini siapa bikin pidato saya nih?"
+  },
+  {
+   "t": 313.0,
+   "d": 17.0,
+   "text": "pembelajaran digitalisasi yang baru saja kita ee saksikan."
+  },
+  {
+   "t": 330.0,
+   "d": 17.0,
+   "text": "Ini adalah program kita sebagai usaha kita, upaya kita untuk mempercepat transformasi pendidikan nasional kita."
+  },
+  {
+   "t": 347.0,
+   "d": 10.0,
+   "text": "Kita tidak perlu malu-malu, kita tidak perlu takut untuk mengakui kekurangan-kekurangan kita."
+  },
+  {
+   "t": 357.0,
+   "d": 15.0,
+   "text": "Saya selalu mengajak semua pihak, janganlah kita takut melihat kekurangan kita. Dengan kita lihat kekurangan, kita ketahui kekurangan, kita mengerti apa yang sudah dibuat."
+  },
+  {
+   "t": 372.0,
+   "d": 13.0,
+   "text": "Pendidikan adalah kunci dari suatu kebangkitan bangsa."
+  },
+  {
+   "t": 385.0,
+   "d": 6.0,
+   "text": "Hanya melalui pendidikan kita bisa jadi negara yang berhasil."
+  },
+  {
+   "t": 391.0,
+   "d": 6.0,
+   "text": "Melalui pendidikan kita bisa merdeka."
+  },
+  {
+   "t": 397.0,
+   "d": 35.0,
+   "text": "Kemerdekaan kita proklamasikan 17 Agustus tahun 45. Tetapi sebelumnya tokoh-tokoh pendidikan sudah melalui melalui pesantren-pesantren, melalui sekolah-sekolah, melalui taman siswa, tumbuh kemampuan rakyat."
+  },
+  {
+   "t": 432.0,
+   "d": 23.0,
+   "text": "Kita memahami bahwa pendidikan dan teknologi, sains, ilmu pengetahuan adalah kunci keberhasilan, adalah kunci kemakmuran."
+  },
+  {
+   "t": 455.0,
+   "d": 8.0,
+   "text": "Tidak ada kemakmuran kalau kita tidak bisa menguasai sains dan teknologi."
+  },
+  {
+   "t": 463.0,
+   "d": 28.0,
+   "text": "Saudara-saudara sekalian, negara kita, Nusantara kita ini, negara gugusan kepulauan terbesar di dunia ternyata adalah gugusan yang sangat kaya, sangat sangat sangat kaya."
+  },
+  {
+   "t": 491.0,
+   "d": 22.0,
+   "text": "Tetapi kita harus akui karena kita sebagai bangsa terutama para pemimpin-pemimpinnya kurang pandai untuk menjaga dan mengelola kekayaan tersebut."
+  },
+  {
+   "t": 513.0,
+   "d": 12.0,
+   "text": "Maka ratusan tahun kekayaan kita diambil, diambil, diambil oleh bangsa lain."
+  },
+  {
+   "t": 525.0,
+   "d": 31.0,
+   "text": "Sekarang kita para pemimpin dari semua pihak, dari semua sektor, pemimpin agama, pemimpin buruh, pemimpin cendekiawan, pemimpin politik, pemimpin pengusaha."
+  },
+  {
+   "t": 556.0,
+   "d": 30.0,
+   "text": "pemimpin tentara, pemimpin polisi, pemimpin budayawan, pemimpin wartawan harus mulai sadar apa itu berbangsa dan bernegara."
+  },
+  {
+   "t": 586.0,
+   "d": 17.0,
+   "text": "Tujuan berbangsa dan bernegara adalah untuk memberi kualitas hidup yang layak bagi seluruh rakyat bangsa itu."
+  },
+  {
+   "t": 603.0,
+   "d": 4.0,
+   "text": "Itu tujuan utama suatu negara."
+  },
+  {
+   "t": 607.0,
+   "d": 29.0,
+   "text": "Tidak bisa negara itu yang makmur hanya segelintir orang di atas tidak bisa. Itu bukan negara merdeka dan itu negara pasti gagal. Dan Indonesia tidak mau gagal. Karena itu Indonesia tidak boleh mempertahankan keadaan di mana yang menikmati kekayaan Indonesia hanya segelintir orang."
+  },
+  {
+   "t": 636.0,
+   "d": 29.0,
+   "text": "[tepuk tangan] Apalagi bila orang-orang tersebut tidak cinta sama tanah air. Apalagi kalau orang-orang tersebut tega membawa lari kekayaan Indonesia keluar dari Indonesia. Ini harus kita hentikan."
+  },
+  {
+   "t": 665.0,
+   "d": 43.0,
+   "text": "Dan saudara-saudara, [tepuk tangan] salah satu bidang yang sangat penting dalam kebangkitan suatu bangsa, saya sudah katakan adalah pendidikan. Karena itu pemerintah yang saya pimpin memang memiliki tantangan dan tugas yang sangat berat karena tidak bisa kita fokus di satu sektor perbaiki, habis itu di satu sektor perbaiki, di satu sektor perbaiki. Tidak bisa kita ketinggalan."
+  },
+  {
+   "t": 708.0,
+   "d": 6.0,
+   "text": "Tempo pembangunan dunia ini sangat cepat."
+  },
+  {
+   "t": 714.0,
+   "d": 6.0,
+   "text": "Bangsa-bangsa lain bergerak sama sangat cepat."
+  },
+  {
+   "t": 720.0,
+   "d": 5.0,
+   "text": "Kita terpaksa kita harus kejar."
+  },
+  {
+   "t": 725.0,
+   "d": 8.0,
+   "text": "Harus kita kerja keras di semua bidang. Bidang pemerintahan."
+  },
+  {
+   "t": 733.0,
+   "d": 5.0,
+   "text": "Perbaiki birokrasi. Hentikan korupsi."
+  },
+  {
+   "t": 738.0,
+   "d": 9.0,
+   "text": "Hentikan kebocoran bidang BUMN. Perbaiki BUMN."
+  },
+  {
+   "t": 747.0,
+   "d": 24.0,
+   "text": "Hentikan penyelewengan kebocoran di bidang penegakan hukum. Perbaiki di bidang ekonomi makro. perbaiki di bidang kesehatan, perbaiki di bidang pendidikan upaya yang sangat besar."
+  },
+  {
+   "t": 771.0,
+   "d": 35.0,
+   "text": "Kita butuh dokter yang banyak, dokter gigi yang banyak, insinyur-insinyur yang banyak, ilmuwan-ilmuwan yang banyak supaya kita bisa kelola kekayaan kita, supaya kekayaan kita, supaya kekayaan kita ini yang bisa kita gelontorkan sehingga semua rakyat merasakan di Republik Indonesia yang merdeka di abad abad ke-21. Tidak boleh ada orang yang lapar di negara ini."
+  },
+  {
+   "t": 806.0,
+   "d": 23.0,
+   "text": "[tepuk tangan] Saya dari waktu usia muda saya telah bersumpah jiwa raga saya untuk bangsa dan rakyat Indonesia."
+  },
+  {
+   "t": 829.0,
+   "d": 19.0,
+   "text": "Dan saya tidak rela di abad ke-21 ini masih ada rakyat kita yang hidupnya sangat sulit, anak-anak yang sekolah tidak makan."
+  },
+  {
+   "t": 848.0,
+   "d": 14.0,
+   "text": "Karena itu kita sekarang saya mengajak semua unsur. Ayo mari kita bersatu."
+  },
+  {
+   "t": 862.0,
+   "d": 13.0,
+   "text": "Kita bersatu semua unsur untuk membawa negara kita menuju negara yang sejahtera untuk seluruh rakyat Indonesia."
+  },
+  {
+   "t": 875.0,
+   "d": 17.0,
+   "text": "[tepuk tangan] Tidak ada gunanya saling membenci, tidak ada gunanya saling dendam, tidak ada gunanya saling curiga."
+  },
+  {
+   "t": 892.0,
+   "d": 2.0,
+   "text": "Gak ada gunanya."
+  },
+  {
+   "t": 894.0,
+   "d": 7.0,
+   "text": "Rakyat membutuhkan hasil yang cepat."
+  },
+  {
+   "t": 901.0,
+   "d": 11.0,
+   "text": "Tidak boleh terlalu banyak omon-omonomon pintar ngomong. Tidak."
+  },
+  {
+   "t": 912.0,
+   "d": 23.0,
+   "text": "Kita harus membawa hasil yang cepat kepada rakyat kita. Dan saya terima kasih dari Kementerian Pendidikan Dasar dan Menengah dengan seluruh jajarannya telah berhasil dengan program ini. Luar biasa."
+  },
+  {
+   "t": 935.0,
+   "d": 12.0,
+   "text": "Saya saya berpikir program ini mungkin butuh mungkin 1 tahun lebih."
+  },
+  {
+   "t": 947.0,
+   "d": 47.0,
+   "text": "Tapi ternyata sejak kita canangkan waktu bulan apa ya kita canangkan ya eh Menko sama Mend Mei Mei yang mulai ratas itu Mei Jun, Juli, Agustus, September, Oktober November ini sudah tadi dilaporkan 100 73.000 R panel ter pasang. [tepuk tangan] Kalau di dipelajari, dicek mungkin di dunia ini salah satu program yang terbesar dan tercepat."
+  },
+  {
+   "t": 994.0,
+   "d": 15.0,
+   "text": "Saudara-saudara sekalian, ee digitalisasi ini adalah upaya kita untuk lompat."
+  },
+  {
+   "t": 1009.0,
+   "d": 9.0,
+   "text": "Kita tahu kekurangan-kekurangan ini. Kita tahu guru ee perlu ditatar."
+  },
+  {
+   "t": 1018.0,
+   "d": 5.0,
+   "text": "Dan kita tahu ada berapa mata pelajaran di mana guru guru-guru kita kurang."
+  },
+  {
+   "t": 1023.0,
+   "d": 29.0,
+   "text": "ee kurang kompetensinya tidak salah seperti bahasa Inggris, bahasa asing, matematik, i biologi, kimia, fisika, mungkin susah di daerah-daerah laboratorium sulit dan sebagainya. Ini salah satu cara untuk lompat dan mempercepat."
+  },
+  {
+   "t": 1052.0,
+   "d": 13.0,
+   "text": "Tapi walaupun kita lompat, kita kejar lagi bahwa kita ingin saya katakan tadi memperbaiki semua sekolah yang ada di Indonesia."
+  },
+  {
+   "t": 1065.0,
+   "d": 5.0,
+   "text": "Dan kita ingin konsolidasi sekolah-sekolah itu."
+  },
+  {
+   "t": 1070.0,
+   "d": 8.0,
+   "text": "Kalau sekolah-sekolah itu muridnya sudah kurang, kita konsolidasikan dan kita bikin sekolah-sekolah yang bagus."
+  },
+  {
+   "t": 1078.0,
+   "d": 18.0,
+   "text": "Rencana saya kita akan mulai bikin sekolah terintegrasi dengan fasilitas modern sama dengan sekolah yang ada di negara-negara maju."
+  },
+  {
+   "t": 1096.0,
+   "d": 16.0,
+   "text": "[tepuk tangan] Saya memang begitu. Canangkan, candangkan nanti kita akan menuju tercapai."
+  },
+  {
+   "t": 1112.0,
+   "d": 9.0,
+   "text": "Tapi kita kalau ragu-ragu, ragu-ragu enggak akan ada apa-apa."
+  },
+  {
+   "t": 1121.0,
+   "d": 19.0,
+   "text": "Saudara-saudara, program ini sudah melihat, sudah kelihatan tanda-tanda potensi keberhasilan. Ya, kita tidak puas, jangan cepat puas."
+  },
+  {
+   "t": 1140.0,
+   "d": 7.0,
+   "text": "Konten harus tambah dan kita harus berjiwa besar."
+  },
+  {
+   "t": 1147.0,
+   "d": 6.0,
+   "text": "Kita harus terbuka cari konten terbaik dari mana pun di dunia."
+  },
+  {
+   "t": 1153.0,
+   "d": 5.0,
+   "text": "Belajar dari siapapun yang terbaik."
+  },
+  {
+   "t": 1158.0,
+   "d": 47.0,
+   "text": "Ya. Jadi ee alhamdulillah sekarang kita punya sumber-sumber konten dari mana-mana. Nanti saya minta Dikdasmen bikin tim mengkaji dan membuat penyesuaian bahan-bahan konten animasi dari manaun disesuaikan supaya bisa diterima oleh anak-anak kita di seluruh Indonesia ya. Dan alhamdulillah akhir Desember Menteri Dikdas Dasmen menyampaikan insyaallah akan tercapai semua sekolah 288.000 sekian ratus."
+  },
+  {
+   "t": 1205.0,
+   "d": 3.0,
+   "text": "Bagus."
+  },
+  {
+   "t": 1208.0,
+   "d": 11.0,
+   "text": "[tepuk tangan] Tahun depan kita punya sasaran yang lebih besar lagi."
+  },
+  {
+   "t": 1219.0,
+   "d": 17.0,
+   "text": "Tahun depan sasaran kita adalah menambah tiga panel berarti tiga kelas lagi untuk semua sekolah di Indonesia."
+  },
+  {
+   "t": 1236.0,
+   "d": 14.0,
+   "text": "[tepuk tangan] Berarti tahun depan kita akan pasang insyaallah 1 juta panel kira-kira."
+  },
+  {
+   "t": 1250.0,
+   "d": 14.0,
+   "text": "[tepuk tangan] Nanti pasti ada orang pintar. Apa bisa? Enggak mungkin."
+  },
+  {
+   "t": 1264.0,
+   "d": 16.0,
+   "text": "Ini program gila Prabowo ya kan? MBG enggak mungkin ya. Alhamdulillah makan bergizi gratis hari ini sudah mencapai 44 juta."
+  },
+  {
+   "t": 1280.0,
+   "d": 11.0,
+   "text": "[tepuk tangan] Salah satu prestasi tercepat terbesar di dunia. Presiden Brazil menyampaikan ke saya."
+  },
+  {
+   "t": 1291.0,
+   "d": 8.0,
+   "text": "Brazil memerlukan 11 tahun untuk mencapai 40 juta."
+  },
+  {
+   "t": 1299.0,
+   "d": 11.0,
+   "text": "Kita belum sampai 12 bulan sudah mencapai 44 juta."
+  },
+  {
+   "t": 1310.0,
+   "d": 19.0,
+   "text": "Tapi kita tahu kita tidak puas karena sasaran kita adalah 82,9 juta. Waktu saya datang ke sini, rakyat banyak sekali di jalan."
+  },
+  {
+   "t": 1329.0,
+   "d": 14.0,
+   "text": "Dan ada anak-anak yang teriak ke saya, \"Pak, Pak, kami belum terima MBG.\" Ya, saya jawab, \"Sabar, sabar.\" Ya."
+  },
+  {
+   "t": 1343.0,
+   "d": 26.0,
+   "text": "Jadi, Saudara-saudara, 44 juta kita bersyukur masih ada 40 juta anak dan ibu-ibu hamil yang belum terima. Tapi saya minta kesabaran ini adalah yang paling cepat yang kita mampu karena ini adalah uang rakyat harus disiapkan dengan baik."
+  },
+  {
+   "t": 1369.0,
+   "d": 6.0,
+   "text": "Persiapannya harus matang. supaya tidak terjadi penyimpangan."
+  },
+  {
+   "t": 1375.0,
+   "d": 5.0,
+   "text": "Dari sekian juta ada kekurangan."
+  },
+  {
+   "t": 1380.0,
+   "d": 9.0,
+   "text": "Ada yang mereka bilang keracunan. Ya namanya sakit perut biasa sebetulnya ya."
+  },
+  {
+   "t": 1389.0,
+   "d": 10.0,
+   "text": "Makan di warung sering. Saya makan di rumah aja juga sering salah makan ya kadang-kadang kurang cuci tangan."
+  },
+  {
+   "t": 1399.0,
+   "d": 3.0,
+   "text": "Tapi kita ambil alih tanggung jawab."
+  },
+  {
+   "t": 1402.0,
+   "d": 4.0,
+   "text": "Tidak boleh ada sedikit pun penyimpangan."
+  },
+  {
+   "t": 1406.0,
+   "d": 7.0,
+   "text": "Karena itu sekarang persiapan lebih ketat, pemantauan lebih keras."
+  },
+  {
+   "t": 1413.0,
+   "d": 9.0,
+   "text": "Kita minta semua prosedur yang perlu diambil harus diambil."
+  },
+  {
+   "t": 1422.0,
+   "d": 11.0,
+   "text": "alat pembersih ompreng, alat filtrasi air dan sebagainya dan sebagainya."
+  },
+  {
+   "t": 1433.0,
+   "d": 10.0,
+   "text": "Tapi apapun ternyata rakyat merasakan manfaatnya."
+  },
+  {
+   "t": 1443.0,
+   "d": 13.0,
+   "text": "Kalaupun ada beberapa orang yang tidak setuju, itu saya kira wajar ya."
+  },
+  {
+   "t": 1456.0,
+   "d": 12.0,
+   "text": "Tetapi secara garis besar sebagian besar setuju, sebagian besar merasakan manfaatnya dan kita akan merasakan manfaatnya."
+  },
+  {
+   "t": 1468.0,
+   "d": 20.0,
+   "text": "Tanya guru-guru, anak-anak itu merasa manfaat atau tidak dapat makanan sekali makan di sekolah. Saya hakul yakin mereka merasakan manfaatnya."
+  },
+  {
+   "t": 1488.0,
+   "d": 3.0,
+   "text": "Mereka akan jadi lebih kuat."
+  },
+  {
+   "t": 1491.0,
+   "d": 10.0,
+   "text": "Dia akan makan protein, dia akan jadi lebih tinggi, ototnya lebih baik, tulangnya lebih kuat, sel otaknya lebih cerdas."
+  },
+  {
+   "t": 1501.0,
+   "d": 22.0,
+   "text": "Saudara-saudara, [tepuk tangan] Saudara-saudara, sekali lagi program ini sangat strategis."
+  },
+  {
+   "t": 1523.0,
+   "d": 26.0,
+   "text": "Saya juga terima kasih mitra kita yang membantu mempercepat ini. Ee kelompok yang dipimpin saudara Istiakan ya sangat membantu saya sebagai penasihat saya dan mengorganisir ee distribusi ke mana-mana. Ini prestasi yang luar biasa."
+  },
+  {
+   "t": 1549.0,
+   "d": 53.0,
+   "text": "Suatu saat orang akan mengenang bagaimana 288.000 Ibu alat ini bisa didistribusikan ke semua sekolah di Indonesia termasuk yang di 3T di tempat yang paling terpencil, yang paling terluar, dan di daerah yang paling tertinggal kita kirim ke situ. Bahkan itu prioritas pertama yang kita kirim. Alhamdulillah sebagian sudah sampai. Hanya saya dapat laporan ada 140 sekolah yang ada di pegunungan-pegunungan yang susah. Tapi insyaallah kita pun akan sampai ke situ"
+  },
+  {
+   "t": 1602.0,
+   "d": 13.0,
+   "text": "dan kita akan dibantu oleh TNI dan Polri supaya semua sekolah akan mendapat kesempatan yang sama."
+  },
+  {
+   "t": 1615.0,
+   "d": 11.0,
+   "text": "Saudara-saudara sekalian, ini baru awal kita akan terus tingkatkan."
+  },
+  {
+   "t": 1626.0,
+   "d": 4.0,
+   "text": "Kita akan segera buka studio di Jakarta."
+  },
+  {
+   "t": 1630.0,
+   "d": 9.0,
+   "text": "Guru-guru akan memberi pelajaran ke semua sekolah di Indonesia."
+  },
+  {
+   "t": 1639.0,
+   "d": 8.0,
+   "text": "Guru-guru di daerah yang merasa perlu perkuatan, dia bisa buka."
+  },
+  {
+   "t": 1647.0,
+   "d": 31.0,
+   "text": "Dan semua modul ini nanti boleh diakses ee gratis. oleh siapapun. Jadi kalau anak-anak atau orang tua di rumah punya gadget, ingin menatar, ingin memberi les, anaknya dia bisa buka dan memberi pelajaran di rumah. Semua ini akan tersedia untuk seluruh bangsa Indonesia. Saya kira itu dari saya."
+  },
+  {
+   "t": 1678.0,
+   "d": 11.0,
+   "text": "Sekali lagi ee selamat bekerja dan semua anak-anak sekolah di Indonesia belajar yang baik."
+  },
+  {
+   "t": 1689.0,
+   "d": 2.0,
+   "text": "Masa depanmu cerah."
+  },
+  {
+   "t": 1691.0,
+   "d": 7.0,
+   "text": "Indonesia nanti insyaallah akan jadi negara yang hebat."
+  },
+  {
+   "t": 1698.0,
+   "d": 12.0,
+   "text": "Ya, kita akan punya mobil buatan Indonesia sendiri."
+  },
+  {
+   "t": 1710.0,
+   "d": 18.0,
+   "text": "motor buatan Indonesia sendiri ya. Saya sudah siapkan nanti semua becak di seluruh Indonesia harus becak pakai motor listrik."
+  },
+  {
+   "t": 1728.0,
+   "d": 17.0,
+   "text": "Enggak boleh lagi ada pengemudi becak usianya di atas 70 tahun. Ya, nanti tolong para menteri pikirkan rencana bagaimana ya."
+  },
+  {
+   "t": 1745.0,
+   "d": 9.0,
+   "text": "Pokoknya Indonesia akan bangkit bersama-sama kita menuju Indonesia yang hebat, Indonesia."
+  },
+  {
+   "t": 1754.0,
+   "d": 4.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 1758.0,
+   "d": 11.0,
+   "text": "[tepuk tangan] Salam sejahtera kita sekalian. Shalom. Om santi santi santi om. Namo buddhaya."
+  },
+  {
+   "t": 1769.0,
+   "d": 13.0,
+   "text": "Selamat berjuang. Selamat bekerja anak-anak. Belajar yang baik. Belajar yang baik. Tekun. Hormati gurumu. Cintai orang tuamu. Ya."
+  },
+  {
+   "t": 1782.0,
+   "d": 7.0,
+   "text": "Semangat cinta tanah air. Merdeka. Merdeka. Terima kasih."
+  },
+  {
+   "t": 1789.0,
+   "d": 8.0,
+   "text": "Mohon berkenan Bapak Presiden untuk tetap berada di atas panggung untuk prosesi peluncuran. Ini ketinggalan."
+  },
+  {
+   "t": 1797.0,
+   "d": 6.0,
+   "text": "Ini salah satu yang paling penting. Pantun."
+  },
+  {
+   "t": 1803.0,
+   "d": 12.0,
+   "text": "Saya enggak mau kalah sama Menteri Pendidikan dan ke pasar pagi membeli pepaya."
+  },
+  {
+   "t": 1815.0,
+   "d": 6.0,
+   "text": "pulangnya singgah di taman kota."
+  },
+  {
+   "t": 1821.0,
+   "d": 11.0,
+   "text": "Digitalisasi pembelajaran kian berjaya meningkatkan mutu pendidikan bangsa kita."
+  },
+  {
+   "t": 1832.0,
+   "d": 9.0,
+   "text": "[tepuk tangan] Air mengalir di lereng perbukitan."
+  },
+  {
+   "t": 1841.0,
+   "d": 5.0,
+   "text": "Jernih memancar, cahaya mentari."
+  },
+  {
+   "t": 1846.0,
+   "d": 12.0,
+   "text": "Pendidikan dengan digitalisasi pembelajaran, inovasi, dan kreasi akan melahirkan generasi cerdas."
+  },
+  {
+   "t": 1858.0,
+   "d": 17.0,
+   "text": "[tepuk tangan] Dan selanjutnya untuk prosesi peluncuran berkenan untuk mendampingi Menko PMK, Mendik Dasmen, dan perwakilan siswa dan siswi SMPN 4 Kota Bekasi."
+  },
+  {
+   "t": 1875.0,
+   "d": 3.0,
+   "text": "Jelajahi cara baru mendapatkan informasi. Download Metro TV Extend sekarang."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
+}

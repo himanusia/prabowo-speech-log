@@ -2,7 +2,7 @@
  "id": "2026-01-01-keterangan-pers-mensesneg-prasetyo-hadi-medan-1",
  "video_id": "hTUVN3Te1dM",
  "date": "2026-01-01",
- "date_precise": false,
+ "date_precise": true,
  "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Medan, 1 Januari 2026",
  "channel": "Sekretariat Presiden",
  "youtube_url": "https://www.youtube.com/watch?v=hTUVN3Te1dM",
@@ -81,6 +81,5 @@
  },
  "speaker_kind": "lain",
  "worklist_kind": "ambigu",
- "is_fragment": false,
- "date_source": "tanggal unggah YouTube (perkiraan)"
+ "is_fragment": false
 }

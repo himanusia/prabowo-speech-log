@@ -1,0 +1,2854 @@
+{
+ "id": "2025-01-01-tegaskan-sinergi-pusat-daerah-untuk-lompatan-pembangunan-2026",
+ "video_id": "jcaiaUnlnfU",
+ "date": "2026-02-03",
+ "date_precise": false,
+ "title": "[FULL] PIDATO PRESIDEN PRABOWO: TEGASKAN SINERGI PUSAT-DAERAH UNTUK LOMPATAN PEMBANGUNAN 2026",
+ "channel": "Kabar Indonesia Network",
+ "youtube_url": "https://www.youtube.com/watch?v=jcaiaUnlnfU",
+ "duration_s": 7187,
+ "duration_hms": "1:59:47",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 910,
+ "token_count": 8341,
+ "unique_word_count": 2061,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "jcaiaUnlnfU",
+   "url": "https://www.youtube.com/watch?v=jcaiaUnlnfU",
+   "title": "[FULL] PIDATO PRESIDEN PRABOWO: TEGASKAN SINERGI PUSAT-DAERAH UNTUK LOMPATAN PEMBANGUNAN 2026",
+   "channel": "Kabar Indonesia Network",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 31,
+  "ekonomi": 52,
+  "pendidikan": 24,
+  "kesehatan_dan_gizi": 51,
+  "tata_kelola": 29,
+  "pertahanan_dan_keamanan": 24,
+  "nasional_dan_identitas": 227
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 17
+  },
+  "Danantara": {
+   "count": 2
+  },
+  "Hilirisasi": {
+   "count": 3
+  },
+  "Koperasi desa": {
+   "count": 5
+  },
+  "Sekolah Rakyat": {
+   "count": 2
+  },
+  "B50 / biodiesel": {
+   "count": 1
+  },
+  "3 juta rumah": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 4
+  },
+  "Bencana dan penanganan": {
+   "count": 4
+  }
+ },
+ "transcript": [
+  {
+   "t": 225.0,
+   "d": 13.0,
+   "text": "Menyanyikan bersama lagu kebangsaan Indonesia Raya diiringi oleh Paduan Suara Gita Pujawiata Institut Pemerintahan Dalam Negeri."
+  },
+  {
+   "t": 238.0,
+   "d": 13.0,
+   "text": "[musik] Indonesia [musik] tanah airku, tanah tumpah [musik] darahku."
+  },
+  {
+   "t": 251.0,
+   "d": 20.0,
+   "text": "Di sanalah aku berdiri [musik] jadi pandu ibuku [musik] Indonesia kebangsaan. Bangsa dan [musik] tanah air."
+  },
+  {
+   "t": 271.0,
+   "d": 10.0,
+   "text": "Marilah [musik] kita berseru Indonesia [musik] bersatu."
+  },
+  {
+   "t": 281.0,
+   "d": 10.0,
+   "text": "Hiduplah tanahku, [musik] hiduplah negeriku, bangsaku, rakyatku semuanya."
+  },
+  {
+   "t": 291.0,
+   "d": 10.5,
+   "text": "[musik] Bangunlah jiwanya, bangunlah badannya untuk Indonesia [musik] Raya."
+  },
+  {
+   "t": 301.0,
+   "d": 10.0,
+   "text": "Indonesia Raya merdeka merdeka tanahku negeriku [musik] yang kucinta."
+  },
+  {
+   "t": 311.0,
+   "d": 11.0,
+   "text": "Indonesia Raya merdeka, merdeka [musik] hiduplah Indonesia Raya."
+  },
+  {
+   "t": 322.0,
+   "d": 34.0,
+   "text": "Indonesia Raya merdeka merdeka [musik] tanahku negeriku yang ku [musik] Indonesia Raya merdeka merdeka hiduplah [musik] Indonesia Raya hadirin disilakan duduk kembali Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 356.0,
+   "d": 4.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 360.0,
+   "d": 7.0,
+   "text": "Salam sejahtera bagi kita semua. Om swastiastu. Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 367.0,
+   "d": 18.0,
+   "text": "Yang terhormat Presiden Republik Indonesia Bapak Prabowo Subianto, [tepuk tangan] Wakil Presiden Republik Indonesia, Bapak Gibran Rakabumi."
+  },
+  {
+   "t": 385.0,
+   "d": 13.0,
+   "text": "[tepuk tangan] Yang kami hormati para menteri dan wakil menteri kabinet Merah Putih serta Menteri Dalam Negeri selaku penyelenggara."
+  },
+  {
+   "t": 398.0,
+   "d": 10.0,
+   "text": "Para kepala daerah dan wakil kepala daerah serta jajaran Forkopimda se-Indonesia, serta hadirin tamu undangan yang kami muliakan."
+  },
+  {
+   "t": 408.0,
+   "d": 30.0,
+   "text": "Selamat datang di Sentul International Convention Center Bogor dalam acara Taklimat Presiden Republik Indonesia pada rapat koordinasi nasional pemerintah pusat dan daerah tahun 2026 yang mengusung tema Sinergi Pusat dan Daerah dalam Implementasi Program Strategis Presiden menuju Indonesia Emas tahun 2045."
+  },
+  {
+   "t": 438.0,
+   "d": 23.0,
+   "text": "[musik] [musik] Hadirin yang kami muliakan, mengawali acara marilah kita memanjatkan doa bersama yang akan dipimpin oleh Menteri Agama. Kepada Bapak Nasaruddin Umar kami persilakan."
+  },
+  {
+   "t": 461.0,
+   "d": 15.0,
+   "text": "[musik] Bismillahirrahmanirrahim. Alhamdulillahi rabbil alamin. Hamdas syakirin."
+  },
+  {
+   "t": 476.0,
+   "d": 6.0,
+   "text": "Hamdan naimin. Hamd yuwafi niamahu waukafi mazidah."
+  },
+  {
+   "t": 482.0,
+   "d": 8.0,
+   "text": "Allahumma ya rabbana lakal hamd kama yambagjalali wajhikal karimanik."
+  },
+  {
+   "t": 490.0,
+   "d": 4.0,
+   "text": "Allahumma sholli wasallim alaih."
+  },
+  {
+   "t": 494.0,
+   "d": 5.0,
+   "text": "Ya Allah, ya Hamid, Ya Syakur."
+  },
+  {
+   "t": 499.0,
+   "d": 23.0,
+   "text": "Puji syukur kami panjatkan kehadirat-Mu karena pagi hari ini bersama Presiden dan Wakil Presiden kami dapat menghadiri taklimat presiden pada rapat koordinasi nasional, pemerintah pusat dan pemerintah daerah. tahun 2026."
+  },
+  {
+   "t": 522.0,
+   "d": 14.0,
+   "text": "Tiada lain harapan kami kecuali memohon berkah dan petunjuk-Mu agar rapat koordinasi ini berlangsung dengan lancar, efektif, dan produktif."
+  },
+  {
+   "t": 536.0,
+   "d": 16.0,
+   "text": "Kiranya rapat koordinasi ini juga bisa melahirkan pikiran-pikiran cerdas, kreatif, dan sekaligus menjadi direction terbaik di dalam menjalankan tugas-tugas kenegaraan kami."
+  },
+  {
+   "t": 552.0,
+   "d": 24.0,
+   "text": "Ya Allah, ya Aziz, ya Fattah, bukakanlah pintu hati dan kesedaran kepada segenap warga bangsa kami untuk mau mengakui dan mensyukuri nikmat dan karunia yang telah diupayakan bersama oleh anak-anak bangsanya sendiri."
+  },
+  {
+   "t": 576.0,
+   "d": 28.0,
+   "text": "Kami betul-betul memohon kepada-Mu ya Allah, sinergikanlah hati dan pikiran kami untuk bisa terus-menerus berikhtiar mengangkat citra dan martabat positif bangsa kami menjadi sebuah negeri yang baldatun thayibah warabun gfur, negeri gemah ripa, loh jinawi, tata tentrem kerta raharja."
+  },
+  {
+   "t": 604.0,
+   "d": 3.0,
+   "text": "Ya Allah."
+  },
+  {
+   "t": 607.0,
+   "d": 6.0,
+   "text": "Engkau pernah menjanjikan kepada kami asajibakum."
+  },
+  {
+   "t": 613.0,
+   "d": 9.0,
+   "text": "Berdoalah kepadaku niscaya kami akan kabulkan. Saat ini kami memohon kepada-Mu."
+  },
+  {
+   "t": 622.0,
+   "d": 9.0,
+   "text": "Berikanlah kekuatan kepada kami untuk mengemban warisan amanah dan cita-cita luhur para pendiri bangsa kami."
+  },
+  {
+   "t": 631.0,
+   "d": 3.0,
+   "text": "Jauhkan kami dari berbagai fitnah."
+  },
+  {
+   "t": 634.0,
+   "d": 9.0,
+   "text": "bencana dan perpecahan yang dapat melemahkan sendi-sendi kekuatan bangsa kami."
+  },
+  {
+   "t": 643.0,
+   "d": 12.0,
+   "text": "Ya Allah, ya Gfur, ampunilah dosa-dosa kami, bimbinglah kami dan tak tampakkanlah kebenaran itu benar dan berikan kekuatan untuk menjalaninya."
+  },
+  {
+   "t": 655.0,
+   "d": 8.0,
+   "text": "Tunjukkanlah yang batil itu batil dan berikan kekuatan untuk menghindarinya."
+  },
+  {
+   "t": 663.0,
+   "d": 2.0,
+   "text": "Ya Allah kabulkanlah permohonan kami."
+  },
+  {
+   "t": 665.0,
+   "d": 10.0,
+   "text": "Karena hanya padaulah kami menyembah dan memohon pertolongan. Rabbana atina fid dunya hasanah wafil akhirati hasanaqinaabanar."
+  },
+  {
+   "t": 675.0,
+   "d": 10.0,
+   "text": "Walhamdulillahiabbil alamin."
+  },
+  {
+   "t": 685.0,
+   "d": 14.0,
+   "text": "Hadirin yang kami hormati, selanjutnya marilah kita dengarkan laporan Menteri Dalam Negeri Republik Indonesia, Bapak Muhammad Tito Kanavian. Kami persilakan."
+  },
+  {
+   "t": 699.0,
+   "d": 8.0,
+   "text": "[musik] Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 707.0,
+   "d": 5.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 712.0,
+   "d": 7.0,
+   "text": "Selamat pagi, salam sejahtera untuk kita semua. Shalom. Om swastiastu."
+  },
+  {
+   "t": 719.0,
+   "d": 3.0,
+   "text": "Namo buddhaya. Salve. Salam kebajikan."
+  },
+  {
+   "t": 722.0,
+   "d": 6.0,
+   "text": "Yang kami hormati dan kami muliakan Bapak Presiden Republik Indonesia."
+  },
+  {
+   "t": 728.0,
+   "d": 24.0,
+   "text": "Yang kami hormati Bapak Wakil Presiden Republik Indonesia, para Menteri Koordinator Kabinet Merah Putih. Para menteri, Ketua Dewan Ekonomi Nasional, Penasihat Khusus dan Utusan Khusus Presiden, Pimpinan Lembaga Pemerintah nonkementerian, serta wakil menteri pada kabinet merah putih."
+  },
+  {
+   "t": 752.0,
+   "d": 18.0,
+   "text": "Yang kami hormati panglima TNI, Kapori, Jaksa Agung, dan Kepala BIN, para pejabat eselon 1 Kementerian Lembaga, rekan-rekan gubernur dan wakil gubernur, bupati, Wakil Bupati, Walikota dan Wakil Walikota."
+  },
+  {
+   "t": 770.0,
+   "d": 16.0,
+   "text": "Ini yang pertama kali wakil kepala daerah hadir atas perintah dari bawa Presiden [tepuk tangan] pada rapat-rapor sebelumnya hanya kepala daerah."
+  },
+  {
+   "t": 786.0,
+   "d": 38.0,
+   "text": "Kemudian yang kami hormati Ketua DPRD Provinsi, Ketua DPR Aceh, Ketua DPR Papua, serta Ketua DPRD Kabupaten Kota dan Ketua DPR Kabupaten Porkom PINDA dan instansi vertikal Provinsi dan kabupaten kota. Hadirin undangan yang berbahagia, pertama-tama tentunya kita dengan tiantinya memanjat puji syukur ke Allah Subhanahu wa taala Tuhan yang maha kuasa karena pada hari ini Senin tanggal 2 Februari 26 kita dapat hadir pada acara rapat koordinasi nasional atau Rakornas"
+  },
+  {
+   "t": 824.0,
+   "d": 5.0,
+   "text": "Pemerintah pusat dan daerah tahun 2026 dalam keadaan sehat walafiat."
+  },
+  {
+   "t": 829.0,
+   "d": 19.0,
+   "text": "Pada kesempatan yang berbahagia ini, izinkan kami menyampaikan ucapan terima kasih dan penghargaan yang setinggi-tingginya kepada Bapak Presiden Republik Indonesia yang telah berkenan meluangkan waktu untuk hadir serta memberikan arahan strategis kepada jajaran pemerintah baik pusat maupun daerah."
+  },
+  {
+   "t": 848.0,
+   "d": 5.0,
+   "text": "Bapak Presiden yang kami hormati, izinkan kami menyampaikan beberapa hal."
+  },
+  {
+   "t": 853.0,
+   "d": 14.0,
+   "text": "Yang pertama, penyelenggaraan Rakornas Pemerintah pusat dan daerah tahun 2026 ini merupakan arahan Bapak Presiden kepada Mendagri yang semula akan dilaksanakan pada awal Januari tahun 2006."
+  },
+  {
+   "t": 867.0,
+   "d": 13.0,
+   "text": "Namun dikarenakan adanya berbagai agenda penting kenegaraan sehingga Rakornas ini baru dapat terlaksana pada hari ini, Senin tanggal 2 Februari tahun 2026."
+  },
+  {
+   "t": 880.0,
+   "d": 27.0,
+   "text": "Tahun 2026 ini juga merupakan tahun kedua pelaksanaan RPJMN 2025-2029 yang merupakan penjabaran dari visi asta cita Bapak Presiden dalam masa 1 tahun pertama yang lalu. Telah banyak keberhasilan yang dicapai sebagaimana telah kita saksikan dan dipublikasikan di publik maupun media."
+  },
+  {
+   "t": 907.0,
+   "d": 25.0,
+   "text": "Keberhasilan akan dapat dioptimalkan di tahun 2026 dengan kesamaan gerak langkah pusat dan daerah. Untuk menciptakan kesamaan tersebut maka diselenggarakan acara Rakor nasional ini dengan tema Sinergi Pusat dan Daerah dalam Implementasi Program Prioritas Presiden menuju Indonesia Emas tahun 2045."
+  },
+  {
+   "t": 932.0,
+   "d": 14.0,
+   "text": "Rekornes ini dilaksanakan dengan diawali oleh pengaran Bapak Presiden yang kemudian akan dilanjutkan dengan penjelasan program strategis Bapak Presiden oleh sejumlah narasumber."
+  },
+  {
+   "t": 946.0,
+   "d": 6.0,
+   "text": "Ada tiga sesi. Sesi pertama adalah Menko bidang Perekonomian."
+  },
+  {
+   "t": 952.0,
+   "d": 6.0,
+   "text": "Kemudian Menteri Investasi dan Hilirisasi Kepala BKPM Kepala Danantara."
+  },
+  {
+   "t": 958.0,
+   "d": 8.0,
+   "text": "Topik program presiden dalam bidang kebijakan ekonomi, investasi dan energi."
+  },
+  {
+   "t": 966.0,
+   "d": 28.0,
+   "text": "Kemudian sesi kedua, Menko bidang pangan yang juga diisi oleh Menteri Pertanian sebagai Kepala Bappenas, BAPAN, Menteri Kelautan Peringanan, Kepala Badan Gizi Nasional dengan topik program strategis Presiden Koperasi Desa Kelurahan Merah Putih, SUAS Sembada Pangan, Kampung Nelayan Merah Putih dan program makan bergizi gratis."
+  },
+  {
+   "t": 994.0,
+   "d": 22.0,
+   "text": "Selanjutnya sesi terakhir atau sesi ketiga tentang penegakan hukum diisi oleh Bapak Kapori Jaksa Agung Panglima TNI Ketua KPK dengan topik Peran PORI Kejaksaan Agung TNI dan KPK dalam mengawal program strategis presiden."
+  },
+  {
+   "t": 1016.0,
+   "d": 34.0,
+   "text": "Selanjutnya di ruangan yang megah ini Bapak Presiden yang kami muliakan telah hadir peserta Rakornas sebanyak 4.011 orang yang terdiri dari tingkat pusat sebanyak 525 orang, yaitu para menteri koordinator, menteri, ketua dewan ekonasional, Panglima TNI, Kapoli, Jaksa Agung, Kepala BIN, Pimpinan Ban Lembaga, Peraset Khusus Presiden, Utusan Khusus Presiden, Wakil Menko, Wakil Menteri, dan Wakil Pimpinan lembaga sebanyak 170 orang."
+  },
+  {
+   "t": 1050.0,
+   "d": 18.0,
+   "text": "Kemudian juga sesuai arahan Bapak Presiden, pejabat eselon 1 Kementerian Lembaga dan perwakilan pejabat utama pada Mabes TNI, Mabes PORI, Mabes AD, Mabes AL, dan Mabes AU sebanyak 355 orang."
+  },
+  {
+   "t": 1068.0,
+   "d": 26.0,
+   "text": "Kemudian tingkat provinsi kabupaten kota sebanyak 3.486 orang yang nanti akan kami sebutkan mohon berkenan untuk berdiri yaitu gubernur, Wakil Gubernur, Bupati, Wakil Bupati, Walikota, Wakil Walikota sebanyak 1300 orang."
+  },
+  {
+   "t": 1094.0,
+   "d": 7.0,
+   "text": "Indonesia silakan duduk."
+  },
+  {
+   "t": 1101.0,
+   "d": 22.0,
+   "text": "Kemudian Ketua DPRD Provinsi, Ketua DPR Aceh, Ketua DPR Papua, dan Ketua DPRD, DPRK Kabupaten Kota sebanyak 464 orang."
+  },
+  {
+   "t": 1123.0,
+   "d": 4.0,
+   "text": "Mohon maaf, Pak. Agak kurang keras, Pak."
+  },
+  {
+   "t": 1127.0,
+   "d": 4.0,
+   "text": "Karena enggak ada seragamnya mereka, Pak. Pakaian seragamnya."
+  },
+  {
+   "t": 1131.0,
+   "d": 11.0,
+   "text": "Kemudian, e ketua DPRD, Pak. Terlalu banyak aspirasi katanya."
+  },
+  {
+   "t": 1142.0,
+   "d": 4.0,
+   "text": "E boleh banyak pokok pikiran."
+  },
+  {
+   "t": 1146.0,
+   "d": 19.0,
+   "text": "Kemudian jajaran TNI yaitu Pangdam dan rem dan kodaal dan Lantamal dan Lanut Pangko angkatan udara dandim dan lanal sebanyak 486 orang."
+  },
+  {
+   "t": 1165.0,
+   "d": 10.0,
+   "text": "Priauar ya. Kata Pak Balil, TNI paling keras, Pak."
+  },
+  {
+   "t": 1175.0,
+   "d": 4.0,
+   "text": "Jelas, paling jelas."
+  },
+  {
+   "t": 1179.0,
+   "d": 11.0,
+   "text": "Kemudian jajaran PORI, Kapolda, Kapores sebanyak 480 orang."
+  },
+  {
+   "t": 1190.0,
+   "d": 20.0,
+   "text": "I [tepuk tangan] semboyannya presisi, Pak. Arahannya Bapak Kapolri, Pak. [tertawa] Kemudian jajaran Kejaksaan Republik Indonesia, Kajati dan Kajari sebanyak 425 orang."
+  },
+  {
+   "t": 1210.0,
+   "d": 10.0,
+   "text": "Makasih [tepuk tangan] 425 orang tapi keras, Pak. Ah, ini agak slow dikit, Pak."
+  },
+  {
+   "t": 1220.0,
+   "d": 3.0,
+   "text": "Anak anak buahnya satu liting saya, Pak."
+  },
+  {
+   "t": 1223.0,
+   "d": 9.0,
+   "text": "Kepala bin, Pak. Kabinda sebanyak 36 orang."
+  },
+  {
+   "t": 1232.0,
+   "d": 5.0,
+   "text": "[tepuk tangan] Binaannya kepala BIN, Pak."
+  },
+  {
+   "t": 1237.0,
+   "d": 9.0,
+   "text": "Kemudian Kepala Perwakilan BI sebanyak 34 orang."
+  },
+  {
+   "t": 1246.0,
+   "d": 2.0,
+   "text": "Makasih."
+  },
+  {
+   "t": 1248.0,
+   "d": 8.0,
+   "text": "Mohon izin Bapak Gubernur BI. Izin Bapak karena ada kemalangan keluarga beliau yang wafat Pak."
+  },
+  {
+   "t": 1256.0,
+   "d": 15.0,
+   "text": "Kemudian kepala saya ulangi Kepala Badan Pusat Statistik karena sangat penting sekali data tingkat provinsi kabupaten kota sebanyak 548 orang menap Indonesia."
+  },
+  {
+   "t": 1271.0,
+   "d": 7.0,
+   "text": "Makasih, Pak. Mereka silent warrior Pak."
+  },
+  {
+   "t": 1278.0,
+   "d": 5.0,
+   "text": "Bermain data tapi menentukan."
+  },
+  {
+   "t": 1283.0,
+   "d": 14.0,
+   "text": "Selanjutnya seluruh jajaran pemerintah provinsi, kabupaten, kota, dan porkominas siap untuk mendukung program Bapak Presiden untuk melompat bukan hanya bergerak memajukan Indonesia."
+  },
+  {
+   "t": 1297.0,
+   "d": 14.0,
+   "text": "Tolong kalau dijawab nanti kalau siap kita berdiri petarung untuk para rekan sekalian. Silakan berdiri."
+  },
+  {
+   "t": 1311.0,
+   "d": 5.0,
+   "text": "Jawabannya siap dan petarung."
+  },
+  {
+   "t": 1316.0,
+   "d": 17.0,
+   "text": "Kita semua seluruh jajaran pemerintah provinsi, kabupaten, kota, dan Perkomenda siap untuk mendukung program Bapak Presiden untuk melompat memajukan Indonesia. Siaparuh."
+  },
+  {
+   "t": 1333.0,
+   "d": 5.0,
+   "text": "Makasih. [tepuk tangan] Demikian Bapak Presiden, laporan kami."
+  },
+  {
+   "t": 1338.0,
+   "d": 16.0,
+   "text": "Selanjutnya dan segala kerendahan hati kami mohon perkenan Bapak Presiden Republik Indonesia untuk dapat memberikan pengarahan sekaligus membuka secara resmi rapat koordinasi nasional pemerintah pusat dan daerah tahun 2006."
+  },
+  {
+   "t": 1354.0,
+   "d": 22.0,
+   "text": "Semoga Allah Subhanahu wa taala Tuhan yang maha kuasa selalu memberikan kesehatan kepada Bapak, kekuatan untuk selalu memimpin kami dalam rangka untuk merubah bangsa Indonesia, melompat menjadi negara maju. Sekian dan terima kasih. Wasalamualaikum warahmatullahi taala wabarakatuh."
+  },
+  {
+   "t": 1376.0,
+   "d": 34.0,
+   "text": "[tepuk tangan] Hadirin yang kami hormati, selanjutnya marilah kita saksikan bersama penayangan video dari Kementerian Dalam Negeri Indonesia Berdikari yang menggambarkan rangkaian kebijakan capaian serta arah strategis nasional dalam mendukung pelaksanaan program prioritas pemerintah."
+  },
+  {
+   "t": 1410.0,
+   "d": 12.0,
+   "text": "kita sudah bisa mengatakan ya Indonesia sekarang berdiri di atas kaki kita sendiri."
+  },
+  {
+   "t": 1422.0,
+   "d": 9.0,
+   "text": "Berdikari bukan sekedar kata. Ia adalah arah. Ia adalah keputusan sejarah."
+  },
+  {
+   "t": 1431.0,
+   "d": 16.0,
+   "text": "Kemandirian nasional tidak lahir dari satu pusat kekuasaan. melainkan dari denyut nadi yang selaras antara Jakarta sebagai kota poros kebijakan dan desa-desa sebagai denyut kehidupan bangsa."
+  },
+  {
+   "t": 1447.0,
+   "d": 13.0,
+   "text": "Di sanalah sinergi menjadi keniscayaan, bukan pilihan, bukan wacana, melainkan instruksi operasi menuju masa depan Indonesia."
+  },
+  {
+   "t": 1460.0,
+   "d": 4.0,
+   "text": "Dari sinergi itu, hasil nyata pun bertunggu."
+  },
+  {
+   "t": 1464.0,
+   "d": 5.0,
+   "text": "Di sektor pangan, Indonesia kembali menegakkan kedaulatannya."
+  },
+  {
+   "t": 1469.0,
+   "d": 7.0,
+   "text": "Sua bada beras tercapai sebesar 34,7 juta ton pada tahun 2025."
+  },
+  {
+   "t": 1476.0,
+   "d": 13.0,
+   "text": "Sejak lama saya berkeyakinan bahwa apapun terjadi bangsa kita akan aman kalau kita kuasai tangan kita."
+  },
+  {
+   "t": 1489.0,
+   "d": 9.0,
+   "text": "Kalau kita bisa amankan pangan kita, kita bisa jamin bahwa kita bisa beri makan kepada rakyat kita."
+  },
+  {
+   "t": 1498.0,
+   "d": 18.0,
+   "text": "Di desa lahir kekuatan baru. Hingga 30 Januari 2026, sebanyak 83.237 koperasi desa dan kelurahan Merah Putih telah berbadan hukum menjadi tulang punggung ekonomi rakyat."
+  },
+  {
+   "t": 1516.0,
+   "d": 7.0,
+   "text": "Rakyat desa tak lagi sekedar penonton, melainkan pemilik rantai pasoknya sendiri."
+  },
+  {
+   "t": 1523.0,
+   "d": 5.0,
+   "text": "Dari daratan, sinergi itu berlanjut ke pesisir."
+  },
+  {
+   "t": 1528.0,
+   "d": 16.0,
+   "text": "Melalui kampung nelayan, negara hadir membangun ekosistem maritim terpadu, memperkuat produksi, memperpendek rantai distribusi, dan meneguhkan [musik] nelayan sebagai penjaga kedaulatan laut Nusantara."
+  },
+  {
+   "t": 1544.0,
+   "d": 4.0,
+   "text": "Sinergi juga menyentuh masa depan generasi."
+  },
+  {
+   "t": 1548.0,
+   "d": 14.0,
+   "text": "Melalui [musik] program makan bergizi gratis, Kolaborasi Badan Gizi Nasional dan UMKM Daerah memberi nutrisi bagi 55,1 juta anak Indonesia sepanjang [musik] tahun 2025."
+  },
+  {
+   "t": 1562.0,
+   "d": 7.0,
+   "text": "Sekolah rakyat dan sekolah Garuda [musik] hadir untuk memperkuat kualitas sumber daya manusia."
+  },
+  {
+   "t": 1569.0,
+   "d": 24.0,
+   "text": "Hingga 12 Januari 2026, sebanyak 166 sekolah rakyat telah diresmikan oleh Presiden. Sementara [musik] itu, sekolah Garuda diluncurkan di 16 lokasi pada 8 Oktober 2025. [musik] Ini adalah simbol komitmen negara dalam mencetak generasi unggul berdaya saing global."
+  },
+  {
+   "t": 1593.0,
+   "d": 9.0,
+   "text": "Langkah ini diperkuat dengan cek kesehatan gratis bagi 70 juta warga hingga 30 Desember [musik] 2025."
+  },
+  {
+   "t": 1602.0,
+   "d": 8.0,
+   "text": "Karena Indonesia emas tak cukup hanya cerdas, ia harus sehat [musik] dan tangguh."
+  },
+  {
+   "t": 1610.0,
+   "d": 4.0,
+   "text": "Pembangunan rumah layak huni telah [musik] menjangkau hingga pelosok."
+  },
+  {
+   "t": 1614.0,
+   "d": 21.0,
+   "text": "Menghapus backlock hunian melalui program 3 juta rumah. Sementara itu, hilirisasi mengubah kekayaan [musik] alam. menjadi nilai tambah bangsa. Dari baxit, nikel hingga bioenergi didukung [musik] talenta lokal yang tumbuh lewat program magang nasional."
+  },
+  {
+   "t": 1635.0,
+   "d": 5.0,
+   "text": "Di saat yang sama, [musik] pemerintah terus menjaga stabilitas harga komoditas."
+  },
+  {
+   "t": 1640.0,
+   "d": 28.0,
+   "text": "Rantai pasok dipersingkat, koperasi desa bekerja, dan energi diolah di negeri sendiri. Melalui [musik] sinergi pusat dan daerah dalam tim pengendalian inflasi, laju inflasi berhasil dijaga agar tetap terkendali. Ucapan terima kasih kepada semua lintas kementerian di tingkat pusat dan juga di daerah. Ini akan menjadi studi kasus banyak negara akan belajar ke kita."
+  },
+  {
+   "t": 1668.0,
+   "d": 9.0,
+   "text": "Dalam langkah strategis [musik] menuju masa depan, Presiden Prabowo membentuk Danentara sebagai entitas pengelola aset strategis negara."
+  },
+  {
+   "t": 1677.0,
+   "d": 11.0,
+   "text": "Mengkonsolidasikan dan mengelola aset nasional [musik] secara terpadu, profesional, dan berkelanjutan memberi manfaat maksimal bagi kesejahteraan rakyat."
+  },
+  {
+   "t": 1688.0,
+   "d": 18.0,
+   "text": "Pembangunan takkan utuh jika akar keadilan dibiarkan rapuh. Negara hadir menegakkan hukum di [musik] tanah yang memberi kehidupan. Melalui Satgas Penertiban kawasan hutan, jutaan [musik] hektar dikembalikan. Lebih dari R triliun keuangan negara diselamatkan."
+  },
+  {
+   "t": 1706.0,
+   "d": 11.0,
+   "text": "[musik] Bukan untuk dibanggakan, melainkan untuk dijaga [musik] agar hutan tetap menjadi rumah bagi alam dan harapan bagi generasi masa depan."
+  },
+  {
+   "t": 1717.0,
+   "d": 5.0,
+   "text": "Keberhasilan ini bukan milik satu institusi."
+  },
+  {
+   "t": 1722.0,
+   "d": 14.0,
+   "text": "Ini adalah capaian kolektif dari kantor [musik] gubernur hingga balai desa, dari ruang rapat kementerian hingga ladang petani."
+  },
+  {
+   "t": 1736.0,
+   "d": 8.0,
+   "text": "Inilah warisan [musik] yang sedang kita bangun. sebuah langkah pasti menuju Indonesia Emas 2045."
+  },
+  {
+   "t": 1744.0,
+   "d": 19.0,
+   "text": "Ketika pusat memandu dan daerah melaju, Indonesia berdikari bukan lagi sekedar mimpi. Ini [musik] adalah realitas kita hari ini."
+  },
+  {
+   "t": 1763.0,
+   "d": 27.0,
+   "text": "[tepuk tangan] Hadirin yang kami muliakan, selanjutnya marilah kita dengarkan bersama taklimat Presiden Republik Indonesia dilanjutkan dengan pemukulan Palu sebagai tanda peresmian pembukaan Rakornas tahun 2026."
+  },
+  {
+   "t": 1790.0,
+   "d": 21.0,
+   "text": "[tepuk tangan] Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 1811.0,
+   "d": 3.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 1814.0,
+   "d": 5.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh. Selamat pagi."
+  },
+  {
+   "t": 1819.0,
+   "d": 8.0,
+   "text": "Salam sejahtera bagi kita sekalian. Shalom. Salvei."
+  },
+  {
+   "t": 1827.0,
+   "d": 7.0,
+   "text": "Om swastiastu. Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 1834.0,
+   "d": 58.0,
+   "text": "Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka, Menteri Dalam Negeri sebagai penyelenggara kegiatan Jenderal Polisi Purnawirawan Muhammad Tito Karnavian, para menteri koordinator, para menteri, Kepala Badan Jaksa Agung, Kapolri, Panglima TNI, Kepala BIN, Para Penasihat Khusus Presiden, Ketua Dewan Ekonomi Nasional, Ketua KPK, para wakil menteri, Wakil Kepala Badan, dan seluruh anggota Kabinat Merah Putih."
+  },
+  {
+   "t": 1892.0,
+   "d": 3.0,
+   "text": "yang hadir."
+  },
+  {
+   "t": 1895.0,
+   "d": 55.0,
+   "text": "Yang saya hormati dan saya banggakan seluruh kepala daerah setanah air yang hadir, para gubernur, para wakil gubernur, para bupati, para wakil bupati, para walikota, para wakil walikota, dari seluruh seluruh penjuru tanah air yang hadir pada siang hari ini. Para pimpinan DPRD tingkat provinsi, pimpinan DPRD tingkat kabupaten dan kota, DPR Papua dan DPR Aceh yang saya hormati."
+  },
+  {
+   "t": 1950.0,
+   "d": 35.0,
+   "text": "Para eslon 1 kementerian dan lembaga, para panglima kodam, komandan kodairal, panglima kodu, para kapda kajati, dan kabinda dari seluruh tanah air yang hadir, para komandan korem, komandan lanal pangkalan TNI, Komandan Lanut Pangkalan TNI AU, Komandan Kodim Kapolres dan Kajari dari seluruh Indonesia. Yang saya hormati dan saya banggakan."
+  },
+  {
+   "t": 1985.0,
+   "d": 12.0,
+   "text": "[tepuk tangan] Para Kepala Badan Pusat Statistik tingkat Provinsi dan kabupaten kota yang saya hormati dan sebagainya."
+  },
+  {
+   "t": 1997.0,
+   "d": 13.0,
+   "text": "[tepuk tangan] Yang saya hormati seluruh pimpinan instansi tingkat provinsi dan kabupaten kota."
+  },
+  {
+   "t": 2010.0,
+   "d": 13.0,
+   "text": "Para hadirin undangan serta rekan-rekan pers dan media yang hadir."
+  },
+  {
+   "t": 2023.0,
+   "d": 25.0,
+   "text": "Pertama-tama sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan maha besar maha kuasa, bagi umat Islam Allah Subhanahu wa taala yang memiliki sekalian alam."
+  },
+  {
+   "t": 2048.0,
+   "d": 8.0,
+   "text": "Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita memohon pertolongan."
+  },
+  {
+   "t": 2056.0,
+   "d": 15.0,
+   "text": "Kita bersyukur atas kalian atas segala karunia, atas kesehatan, kedamaian yang masih diberikan kepada kita."
+  },
+  {
+   "t": 2071.0,
+   "d": 24.0,
+   "text": "Selagi kita terus berdoa agar saudara-saudara kita yang terkena musibah di beberapa daerah seluruh Indonesia diberi pertolongan, diberi kebaikan secepat mungkin."
+  },
+  {
+   "t": 2095.0,
+   "d": 20.0,
+   "text": "adalah kehormatan dan kebanggaan bagi saya untuk bisa hadir dalam acara istimeewa ini bertemu dengan saudara-saudara semuanya dari seluruh penjuru tanah air."
+  },
+  {
+   "t": 2115.0,
+   "d": 56.0,
+   "text": "Dalam kesempatan ini saya menyampaikan penghargaan yang setinggi-tingginya kepada Menteri Dalam Negeri yang menyelenggarakan acara yang tertib seperti ini. [tepuk tangan] Hati saya bergetar melihat, mendengar, dan merasakan semangat. Saudara-saudara sekalian, [tepuk tangan] kalau semangat saudara sungguh-sungguh berasal dari kalbu, Saudara-saudara sekalian yang paling dalam. masa depan bangsa kita."
+  },
+  {
+   "t": 2171.0,
+   "d": 7.0,
+   "text": "Saya yakin aman dan saya yakin kita akan berhasil."
+  },
+  {
+   "t": 2178.0,
+   "d": 20.0,
+   "text": "[tepuk tangan] Saudara-saudara, banyak yang selalu menilai, banyak dari luar luar bangsa kita yang mengatakan bangsa Indonesia adalah bangsa yang tidak mungkin."
+  },
+  {
+   "t": 2198.0,
+   "d": 12.0,
+   "text": "Indonesia is an impossible nation. An impossible nation."
+  },
+  {
+   "t": 2210.0,
+   "d": 37.0,
+   "text": "How can so many ethnic groups, so many racist religions be united? Mereka tidak bisa membayangkan bagaimana negara yang sekian banyak suku bangsa. kelompok etnis sekian ras, sekian agama besar, ratusan bahasa bisa berkumpul, bisa bersatu, bisa mengejar cita-cita dalam suatu kerangka negara kesatuan."
+  },
+  {
+   "t": 2247.0,
+   "d": 2.0,
+   "text": "Mereka tidak bisa bayangkan."
+  },
+  {
+   "t": 2249.0,
+   "d": 61.0,
+   "text": "[tepuk tangan] Dan terusang aja kita sebagai pemerintahan dari tingkat terpusat sampai tingkat paling dekat sama rakyat, kita harus paham benar peran kita, tugas kita sebagai pemerintahan, sebagai pimpinan rakyat, bangsa kita, rakyat kita adalah rakyat yang baik, rakyat yang ingin hidup dalam ketenangan dan dalam keadaan harmonis."
+  },
+  {
+   "t": 2310.0,
+   "d": 36.0,
+   "text": "Mereka berharap bahkan mereka mendambahkan selalu pemimpin yang baik, pemimpin yang adil, pemimpin yang jujur, pemimpin yang bekerja untuk kepentingan rakyat semuanya. bukan segelintir orang. Bahkan mereka tidak suka pemimpin yang hanya memajukan kepentingan pribadinya saja."
+  },
+  {
+   "t": 2346.0,
+   "d": 7.0,
+   "text": "Ini Saudara-saudara adalah harapan semua rakyat kita."
+  },
+  {
+   "t": 2353.0,
+   "d": 30.0,
+   "text": "Dan hari ini bagi saya adalah suatu kesempatan yang baik bahwa saya bisa bertatap muka dengan hampir bisa dikatakan 99% pemerintah Republik Indonesia dari tingkat pusat sampai tingkat daerah, Saudara-saudara."
+  },
+  {
+   "t": 2383.0,
+   "d": 5.0,
+   "text": "Saya katakan tadi kita dianggap negara yang tidak mungkin."
+  },
+  {
+   "t": 2388.0,
+   "d": 4.0,
+   "text": "The impossible country, the impossible nation."
+  },
+  {
+   "t": 2392.0,
+   "d": 6.0,
+   "text": "Tapi kita juga harus jadi pemimpin yang tidak lugu."
+  },
+  {
+   "t": 2398.0,
+   "d": 5.0,
+   "text": "Kita harus jadi pemimpin yang waspada."
+  },
+  {
+   "t": 2403.0,
+   "d": 10.0,
+   "text": "Kita harus jadi pemimpin yang mengerti, yang tahu situasi."
+  },
+  {
+   "t": 2413.0,
+   "d": 26.0,
+   "text": "Kita harus jadi pemimpin yang mengerti sejarah kita, yang mengerti latar belakang bangsa kita, yang mengerti sejarah Nusantara, yang mengerti sejarah daerah-daerah, yang mengerti sejarah Nusantara dari Sabang sampai Merauke."
+  },
+  {
+   "t": 2439.0,
+   "d": 22.0,
+   "text": "Kita harus paham bahwa ratusan tahun kita ini di intervensi, diganggu, bahkan dijajah. Ini harus kita ngerti, kita harus paham."
+  },
+  {
+   "t": 2461.0,
+   "d": 19.0,
+   "text": "Mereka yang melupakan sejarah akan dihukum oleh sejarah. Mereka yang melupakan sejarah akan terbelit dalam kesalahan-kesalahan yang dilakukan di masa lalu."
+  },
+  {
+   "t": 2480.0,
+   "d": 3.0,
+   "text": "Kenapa saya mengatakan itu, Saudara-saudara?"
+  },
+  {
+   "t": 2483.0,
+   "d": 5.0,
+   "text": "Karena kita mendapat kesempatan hari ini."
+  },
+  {
+   "t": 2488.0,
+   "d": 8.0,
+   "text": "Kita dapat kesempatan untuk melihat bagaimana dunia sebenarnya."
+  },
+  {
+   "t": 2496.0,
+   "d": 24.0,
+   "text": "Kita melihat sekarang negara-negara besar yang mengajarkan kita untuk demokrasi, untuk hak azazi manusia, untuk the rule of law, untuk menjaga lingkungan hidup."
+  },
+  {
+   "t": 2520.0,
+   "d": 5.0,
+   "text": "Merekalah yang melanggar apa yang mereka ajarkan."
+  },
+  {
+   "t": 2525.0,
+   "d": 27.0,
+   "text": "[tepuk tangan] Puluhan ribu wanita, orang tua, anak-anak tidak berdosa dibantai dan banyak negara yang diam."
+  },
+  {
+   "t": 2552.0,
+   "d": 9.0,
+   "text": "Di mana hak azazi manusia? Di mana demokrasi yang mereka ajarkan?"
+  },
+  {
+   "t": 2561.0,
+   "d": 25.0,
+   "text": "Karena itu, Saudara-saudara, kita sebagai pemimpin, kita harus waspada, kita harus mengerti, Saudara-saudara sekalian, perjuangan bangsa yang puncaknya ada dalam proklamasi 17 Agustus 1945."
+  },
+  {
+   "t": 2586.0,
+   "d": 24.0,
+   "text": "Dan dalam penyerahan kedaulatan kepada kita yang kita rebut dengan darah, dengan keringat, dan dengan air mata kita rebut melalui perjuangan ratusan tahun di semua daerah."
+  },
+  {
+   "t": 2610.0,
+   "d": 23.0,
+   "text": "negara ini yang sekarang, Saudara-saudara, yang sekarang ada dalam kendali kita dibangun atas pengorbanan rakyat yang sangat besar."
+  },
+  {
+   "t": 2633.0,
+   "d": 16.0,
+   "text": "Karena itulah kita tidak boleh lupa bahwa adanya kita adalah untuk berbakti mengabdi kepada rakyat kita."
+  },
+  {
+   "t": 2649.0,
+   "d": 12.0,
+   "text": "Ini hal yang selalu mudah kita ucapkan tapi harus kita buktikan, Saudara-saudara."
+  },
+  {
+   "t": 2661.0,
+   "d": 12.0,
+   "text": "Karena itu saya ingin ee dalam taklimat saya menyampaikan beberapa hal."
+  },
+  {
+   "t": 2673.0,
+   "d": 30.0,
+   "text": "Yang pertama, Saudara-saudara, bahwa karena sejarah kita ya, karena kita pernah dijajah karena kita pernah mengalami pemerintahan penjajah yang imperialis dan rasialis."
+  },
+  {
+   "t": 2703.0,
+   "d": 13.0,
+   "text": "rasialis bahwa kita, rakyat kita, pribumi kita pernah dianggap lebih rendah dari anjing."
+  },
+  {
+   "t": 2716.0,
+   "d": 5.0,
+   "text": "Anak-anak muda sekarang tidak merasakan."
+  },
+  {
+   "t": 2721.0,
+   "d": 28.0,
+   "text": "Saya masih melihat prasasti-prasasti saya yang saya lihat satu prasasti tahun 76 saya ulangi tahun '8 tahun '8 28 tahun setelah kedaulatan kemerdekaan masih ada prasasti di kolam renang Manggarai waktu itu."
+  },
+  {
+   "t": 2749.0,
+   "d": 2.0,
+   "text": "sayang mungkin dibongkar."
+  },
+  {
+   "t": 2751.0,
+   "d": 7.0,
+   "text": "Kadang-kadang kita tidak menghormati sejarah kita. Situs-situs bersejarah dibongkar."
+  },
+  {
+   "t": 2758.0,
+   "d": 3.0,
+   "text": "Ini para kepala daerah harus memikirkan."
+  },
+  {
+   "t": 2761.0,
+   "d": 20.0,
+   "text": "Saya mau tanya, di mana stasiun RRI yang digunakan oleh Bung Tomo waktu pertempuran 10 November? Apakah masih ada?"
+  },
+  {
+   "t": 2781.0,
+   "d": 8.0,
+   "text": "Di mana situs-situs Majapahit?"
+  },
+  {
+   "t": 2789.0,
+   "d": 9.0,
+   "text": "Saya dengar ada beberapa yang sudah jadi pabrik, Saudara-saudara."
+  },
+  {
+   "t": 2798.0,
+   "d": 31.0,
+   "text": "Jadi, Saudara-saudara, dengan masalah itu saya ingin juga mengatakan bahwa kita sampai di sini hari ini melalui perjuang perjuangan yang lama dan melalui kepemimpinan presiden-presiden dan pemerintahan-pemerintahan yang terlebih dahulu."
+  },
+  {
+   "t": 2829.0,
+   "d": 21.0,
+   "text": "Presiden dengan pemerintahan, dengan para gubernur, para bupati yang terdahulu, terdahulu, terdahulu semuanya telah menyumbang, semuanya telah berkontribusi terhadap kehadiran kita hari ini."
+  },
+  {
+   "t": 2850.0,
+   "d": 10.0,
+   "text": "Ini saya tidak mengatakan ini sebagai suatu kata-kata indah ini. Saya yakini."
+  },
+  {
+   "t": 2860.0,
+   "d": 12.0,
+   "text": "Karena itu saya selalu mengajak apapun perbedaan kita karena kita berbeda pasti."
+  },
+  {
+   "t": 2872.0,
+   "d": 13.0,
+   "text": "Kita berbeda suku, kita berbeda ras mungkin kita berbeda agama kita berbeda aliran pemikiran politik."
+  },
+  {
+   "t": 2885.0,
+   "d": 11.0,
+   "text": "Tapi kita adalah satu bagian, satu keluarga besar Indonesia."
+  },
+  {
+   "t": 2896.0,
+   "d": 22.0,
+   "text": "[tepuk tangan] Dan kita bersyukur mulai dari presiden pertama dan selanjutnya setiap presiden telah memberi sumbangan yang besar terhadap kelangsungan hidup bangsa Indonesia."
+  },
+  {
+   "t": 2918.0,
+   "d": 17.0,
+   "text": "Kalau kita melihat kekurangan-kekurangan, kalau kita melihat kesalahan-kesalahan ya ada kesalahan, ada kekurangan."
+  },
+  {
+   "t": 2935.0,
+   "d": 5.0,
+   "text": "Karena manusia itu ada kemampuan dan ada batas kemampuan."
+  },
+  {
+   "t": 2940.0,
+   "d": 27.0,
+   "text": "Tetapi kalau kita lihat sekali lagi, kalau kita belajar sejarah, kita lihat konteks bagaimana Bung Karno, Bung Hatta dan pemimpin-pemimpin kita begitu menerima kedolatan pemerintahan, begitu dihantem oleh pemberontakan-pemberontakan, oleh kudeta, macam-macam."
+  },
+  {
+   "t": 2967.0,
+   "d": 26.0,
+   "text": "Ada angkatan perang Ratu Adil dipimpin oleh Westerling. Beberapa hari, 2 minggu setelah penyerahan kedaulatan, terjadi usaha pembunuhan presiden, Wakil Presiden, Perdana Menteri kita dan pimpinan-pimpinan kita."
+  },
+  {
+   "t": 2993.0,
+   "d": 33.0,
+   "text": "2 minggu dan seterusnya muncul, muncul, muncul. Jadi, Saudara-saudara, kita harus sadar konsep Indonesia ini tidak disukai oleh banyak kekuatan-kekuatan di dunia. Dan kita terbuka saja mungkin beberapa kekuatan-kekuatan yang dekat sama kita."
+  },
+  {
+   "t": 3026.0,
+   "d": 19.0,
+   "text": "Karena itu, Saudara-saudara, bahwa dari mulai presiden pertama kita Indonesia tapi seluruh dunia berada di tengah perang ideologi besar."
+  },
+  {
+   "t": 3045.0,
+   "d": 7.0,
+   "text": "Perang ideologi besar di dunia di mana dunia dipecah menjadi blok."
+  },
+  {
+   "t": 3052.0,
+   "d": 20.0,
+   "text": "Ada blok komunis dan blok antikomunis. Blok bisa dikatakan blok demokrasi atau blok kapitalis. Ini kenyataan."
+  },
+  {
+   "t": 3072.0,
+   "d": 8.0,
+   "text": "Jadi Indonesia kita harus sadar bahwa kita tidak hidup sendiri."
+  },
+  {
+   "t": 3080.0,
+   "d": 7.0,
+   "text": "Perang Ukrain akan berpengaruh kepada kita."
+  },
+  {
+   "t": 3087.0,
+   "d": 9.0,
+   "text": "Peristiwa di Gaza berpengaruh kepada kita, Saudara-saudara."
+  },
+  {
+   "t": 3096.0,
+   "d": 11.0,
+   "text": "Jadi, Saudara-saudara, ini yang saya ingin sampaikan ke seluruh barisan pemerintahan."
+  },
+  {
+   "t": 3107.0,
+   "d": 7.0,
+   "text": "Marilah kita waspada."
+  },
+  {
+   "t": 3114.0,
+   "d": 10.0,
+   "text": "Marilah kita mengerti tantangan-tantangan yang ada di dunia ini."
+  },
+  {
+   "t": 3124.0,
+   "d": 10.0,
+   "text": "Saudara-saudara, saya baru pulang dari Eropa, saya ketemu tokoh-tokoh dunia. Saya hadir di Davos."
+  },
+  {
+   "t": 3134.0,
+   "d": 6.0,
+   "text": "Puluhan kepala negara hadir."
+  },
+  {
+   "t": 3140.0,
+   "d": 12.0,
+   "text": "Hampir semua hampir semua merisaukan pecahnya perang dunia ketiga."
+  },
+  {
+   "t": 3152.0,
+   "d": 10.0,
+   "text": "Kita di sini menghadapi tantangan ya."
+  },
+  {
+   "t": 3162.0,
+   "d": 8.0,
+   "text": "Perubahan iklim mengakibatkan kita menerima banyak bencana dan sebagainya."
+  },
+  {
+   "t": 3170.0,
+   "d": 12.0,
+   "text": "Tapi sekarang di tingkat dunia mengkhahuatirkan terjadinya akan terjadinya perang dunia ketiga."
+  },
+  {
+   "t": 3182.0,
+   "d": 4.0,
+   "text": "Saudara-saudara, ada simulasi."
+  },
+  {
+   "t": 3186.0,
+   "d": 14.0,
+   "text": "Kalau terjadi perang dunia ketiga, nuklir, kita yang tidak terlibat saja pasti kena."
+  },
+  {
+   "t": 3200.0,
+   "d": 5.0,
+   "text": "kita akan kena partikel-partikel radioaktif."
+  },
+  {
+   "t": 3205.0,
+   "d": 8.0,
+   "text": "Mungkin ikan-ikan kita nanti akan terkontaminasi semua."
+  },
+  {
+   "t": 3213.0,
+   "d": 15.0,
+   "text": "Akan terjadi nuclear winter karena debunya akan menutup matahari dan menutup mataharinya tidak 1 tahun, tidak 2 tahun."
+  },
+  {
+   "t": 3228.0,
+   "d": 10.0,
+   "text": "tidak 3 tahun. Para ahli mengatakan bisa winternya itu puluhan tahun."
+  },
+  {
+   "t": 3238.0,
+   "d": 16.0,
+   "text": "Ini yang dibicarakan di dunia. Karena itu saya jalankan sebagai mandataris meneruskan warisan pendiri-pendiri bangsa kita."
+  },
+  {
+   "t": 3254.0,
+   "d": 26.0,
+   "text": "Saya menjalankan politik luar negeri yang menganut tetap garis kita bebas aktif tapi nonalign nonblok. Kita tidak akan ikut fakta militer manapun."
+  },
+  {
+   "t": 3280.0,
+   "d": 19.0,
+   "text": "Saya katakan filosofi luar negeri saya adalah 1000 kawan terlalu sedikit, satu lawan terlalu banyak."
+  },
+  {
+   "t": 3299.0,
+   "d": 7.0,
+   "text": "Satu laut apalagi satu musuh itu garis kita."
+  },
+  {
+   "t": 3306.0,
+   "d": 25.0,
+   "text": "Tapi kita mengerti semua ya. Kita mengerti semua. Kalau kita sungguh-sungguh mau nonblok, kalau kita sungguh-sungguh mau tidak terlibat dalam fakta. Kalau kita sungguh-sungguh mau bersahabat sama semua, berarti kita sendiri."
+  },
+  {
+   "t": 3331.0,
+   "d": 7.0,
+   "text": "Kalau kita diancam, kalau kita diserang, tidak akan ada yang bantu kita."
+  },
+  {
+   "t": 3338.0,
+   "d": 8.0,
+   "text": "Saudara-saudara, percaya sama saya, nobody is going to help us."
+  },
+  {
+   "t": 3346.0,
+   "d": 12.0,
+   "text": "Karena itu dari awal Bung Karno mengatakan kita harus berdiri di atas kaki kita sendiri."
+  },
+  {
+   "t": 3358.0,
+   "d": 15.0,
+   "text": "[tepuk tangan] Dan panglima besar kita yang pertama, Panglima Besar Sudirman mengajarkan kepada kita, kita harus percaya kepada kekuatan kita sendiri."
+  },
+  {
+   "t": 3373.0,
+   "d": 13.0,
+   "text": "Saudara-saudara, dengan segala hormat kepada para pakar yang pandai dan pintar, yang punya banyak gelar, saya hormati mereka."
+  },
+  {
+   "t": 3386.0,
+   "d": 11.0,
+   "text": "Tapi dunia ini adalah keadaan nyata, bukan keadaan ideal."
+  },
+  {
+   "t": 3397.0,
+   "d": 18.0,
+   "text": "Saya selalu mengingatkan, mengajarkan yang berlaku di dunia ini sekarang adalah yang kuat akan berbuat apa yang mereka kehendaki."
+  },
+  {
+   "t": 3415.0,
+   "d": 9.0,
+   "text": "Yang lemah akan menderita. Itu yang kita lihat hari ini. Kita lihat di mana-mana."
+  },
+  {
+   "t": 3424.0,
+   "d": 17.0,
+   "text": "Jadi, Saudara-saudara, tugas saya sebagai presiden, sebagai pemegang kepercayaan rakyat yang disumpah, saya harus menjaga bangsa ini."
+  },
+  {
+   "t": 3441.0,
+   "d": 7.0,
+   "text": "Saya harus menjaga rakyat ini."
+  },
+  {
+   "t": 3448.0,
+   "d": 11.0,
+   "text": "Kadang-kadang gampang untuk kita bilang, gampang kita ngomong. Tapi kadang-kadang tidak gampang untuk dilaksanakan."
+  },
+  {
+   "t": 3459.0,
+   "d": 18.0,
+   "text": "Kadang-kadang hati kita bergejolak, tapi kita harus senyum karena kita sudah memilih akan baik sama semua untuk melindungi rakyat kita."
+  },
+  {
+   "t": 3477.0,
+   "d": 5.0,
+   "text": "Kita tidak bisa emosional."
+  },
+  {
+   "t": 3482.0,
+   "d": 8.0,
+   "text": "Kita tidak bisa terlalu idealis."
+  },
+  {
+   "t": 3490.0,
+   "d": 6.0,
+   "text": "Karena yang berlaku adalah dunia nyata, Saudara-saudara."
+  },
+  {
+   "t": 3496.0,
+   "d": 9.0,
+   "text": "Karena kita tidak mau perang, kita harus siap untuk perang."
+  },
+  {
+   "t": 3505.0,
+   "d": 7.0,
+   "text": "Kita tidak niat mengancam siapa siapapa, tapi selalu mereka ganggu kita."
+  },
+  {
+   "t": 3512.0,
+   "d": 19.0,
+   "text": "Kenapa, Saudara-saudara? Karena Indonesia, Nusantara kita, semua pulau-pulau kita adalah kaya dengan sumber daya alam yang luar biasa."
+  },
+  {
+   "t": 3531.0,
+   "d": 10.0,
+   "text": "Inilah karena inilah negara-negara Eropa ratusan tahun ke kita."
+  },
+  {
+   "t": 3541.0,
+   "d": 15.0,
+   "text": "negara-negara di utara ke kita, mereka ke kita ratusan tahun Belanda, Portugis, Spanyol, Perancis, Inggris, Jepang, Mongol."
+  },
+  {
+   "t": 3556.0,
+   "d": 8.0,
+   "text": "Mereka ke sini bukan untuk wisata."
+  },
+  {
+   "t": 3564.0,
+   "d": 8.0,
+   "text": "Mereka pertama datang mau dagang karena bangsa kita baik."
+  },
+  {
+   "t": 3572.0,
+   "d": 7.0,
+   "text": "Kita nih genetika kita nih baik ya kan. Kita suka dengan tamu."
+  },
+  {
+   "t": 3579.0,
+   "d": 11.0,
+   "text": "Benar suka dengan tamu. Semua suku kalau kedatangan tamu diterima dengan baik."
+  },
+  {
+   "t": 3590.0,
+   "d": 7.0,
+   "text": "Walaupun rakyat kita miskin, tamu datang diterima dengan baik."
+  },
+  {
+   "t": 3597.0,
+   "d": 11.0,
+   "text": "Kalau hanya bisa kasih nasi pakai garam, itu dikasih."
+  },
+  {
+   "t": 3608.0,
+   "d": 11.0,
+   "text": "Presiden Singapura yang sekarang pernah cerita sama saya waktu dia masa muda, dia sama istrinya keliling di Sumatera, di Sulawesi Selatan."
+  },
+  {
+   "t": 3619.0,
+   "d": 30.0,
+   "text": "Karena waktu masih muda mereka apa itu backpacker ya backpacking jadi naik naik naik bus numpang suatu saat di tengah sawah hujan badai mereka kesasar tahu-tahu ketemu anak kecil anak kecil membawa mereka ke rumah orang tuanya di mungkin di Sulawesi Selatan, saya tidak tahu namanya apa."
+  },
+  {
+   "t": 3649.0,
+   "d": 10.0,
+   "text": "dukuh ya. Hanya kelompok 4 L rumah diajak ke dalam ketemu orang tuanya."
+  },
+  {
+   "t": 3659.0,
+   "d": 9.0,
+   "text": "Ternyata ini Presiden Singapura cerita sama saya. Dia begini, \"Saya tidak bisa lupa rakyatmu."
+  },
+  {
+   "t": 3668.0,
+   "d": 3.0,
+   "text": "Kami diajak duduk."
+  },
+  {
+   "t": 3671.0,
+   "d": 8.0,
+   "text": "Mereka sangat-sangat miskin. Kami lihat dia hanya makan nasi."
+  },
+  {
+   "t": 3679.0,
+   "d": 6.0,
+   "text": "sama lauknya pisang."
+  },
+  {
+   "t": 3685.0,
+   "d": 5.0,
+   "text": "Bapak, Ibu, dua anak, dua tamu."
+  },
+  {
+   "t": 3690.0,
+   "d": 7.0,
+   "text": "Satu apa itu?"
+  },
+  {
+   "t": 3697.0,
+   "d": 11.0,
+   "text": "Suatu tampang beras, nasi dengan pisang itu dibagi ke tamu dulu."
+  },
+  {
+   "t": 3708.0,
+   "d": 5.0,
+   "text": "Ini sifat bangsa kita."
+  },
+  {
+   "t": 3713.0,
+   "d": 24.0,
+   "text": "Saya mengalami sebagai perwira muda, prajurit muda, rakyat kita di mana-mana keluar memberi sesuatu yang bagi mereka sangat sangat susah. Ini cerita Presiden Singapura 30 tahun yang lalu."
+  },
+  {
+   "t": 3737.0,
+   "d": 11.0,
+   "text": "Sekarang rakyat kita masih banyak yang hanya makan nasi, mungkin dengan daun singkong, mungkin hanya dengan garam."
+  },
+  {
+   "t": 3748.0,
+   "d": 8.0,
+   "text": "Saudara-saudara sekalian, karena itu kita hormati semua pendahulu."
+  },
+  {
+   "t": 3756.0,
+   "d": 20.0,
+   "text": "Tapi kita harus paham bahwa kita masih menghadapi kesulitan, kita masih menghadapi tantangan, kita masih menghadapi kekurangan. Kita tahu bahwa rakyat kita masih banyak yang mengalami kesulitan hidup."
+  },
+  {
+   "t": 3776.0,
+   "d": 10.0,
+   "text": "Sekarang para ahli ekonomi ya ada istilah desil 1, desil 2, desil 3, desil 4 dan sebagainya."
+  },
+  {
+   "t": 3786.0,
+   "d": 15.0,
+   "text": "Dan kita ini kadang-kadang takut bicara apaadanya. Ya, enggak mau kita mengakui, kita enggak mau bilang miskin, enggak enak."
+  },
+  {
+   "t": 3801.0,
+   "d": 12.0,
+   "text": "prasejahtera miskin. Miskin kasihan kita tapi enggak enak kita. Iya kan?"
+  },
+  {
+   "t": 3813.0,
+   "d": 13.0,
+   "text": "prasejahtera. Habis itu ada istilah lagi apa itu eh bahasa Inggrisnya the aspiring middle class."
+  },
+  {
+   "t": 3826.0,
+   "d": 5.0,
+   "text": "Jadi orang yang berusaha naik ke middle class."
+  },
+  {
+   "t": 3831.0,
+   "d": 3.0,
+   "text": "Dia berusaha naik berarti dia belum sampai kan."
+  },
+  {
+   "t": 3834.0,
+   "d": 4.0,
+   "text": "Berarti dia enggak dia bukan kelas menengah."
+  },
+  {
+   "t": 3838.0,
+   "d": 5.0,
+   "text": "Kalau dia enggak kelas menengah dia kelas apa ya?"
+  },
+  {
+   "t": 3843.0,
+   "d": 10.0,
+   "text": "Tapi dia aspiring middle class. Ini BPS pintar juga kalian cari istilah-istilah itu."
+  },
+  {
+   "t": 3853.0,
+   "d": 10.0,
+   "text": "Tapi saya mengerti saudara tidak mau turunkan moril bangsa Indonesia."
+  },
+  {
+   "t": 3863.0,
+   "d": 8.0,
+   "text": "Habis itu the aspiring middle class. Habis itu ada yang rentan miskin."
+  },
+  {
+   "t": 3871.0,
+   "d": 7.0,
+   "text": "Gimana rentan miskin gimana? Iya kan? Hah?"
+  },
+  {
+   "t": 3878.0,
+   "d": 6.0,
+   "text": "Rentan miskin, habis itu miskin baru sangat miskin."
+  },
+  {
+   "t": 3884.0,
+   "d": 6.0,
+   "text": "Saudara-saudara, kita harus berjuang bersama-sama."
+  },
+  {
+   "t": 3890.0,
+   "d": 10.0,
+   "text": "Semua unsur, semua tingkatan, semua latar belakang, semua partai manaun kita harus bersatu. Kita harus berjuang."
+  },
+  {
+   "t": 3900.0,
+   "d": 5.0,
+   "text": "menghilangkan kemiskinan dari bumi Indonesia."
+  },
+  {
+   "t": 3905.0,
+   "d": 8.0,
+   "text": "[tepuk tangan] Kita tidak boleh menyerah. Kita tidak boleh takut dengan kesulitan."
+  },
+  {
+   "t": 3913.0,
+   "d": 7.0,
+   "text": "Kita tidak boleh mengatakan, \"Aduh, apa ma apa bisa? Apa mampu?\" Karena di sini banyak kelompok."
+  },
+  {
+   "t": 3920.0,
+   "d": 6.0,
+   "text": "Ada kelompok-kelompok apa bisa? Apa mampu?"
+  },
+  {
+   "t": 3926.0,
+   "d": 7.0,
+   "text": "Selalu menimbulkan keragu-raguan. Ini orang Indonesia atau orang apa ini, Bu? Saya bingung."
+  },
+  {
+   "t": 3933.0,
+   "d": 5.0,
+   "text": "Ini wartawan masih ada ya?"
+  },
+  {
+   "t": 3938.0,
+   "d": 10.0,
+   "text": "Baik. Ee ini enggak, ini baru pembukaan."
+  },
+  {
+   "t": 3948.0,
+   "d": 13.0,
+   "text": "[tepuk tangan] Saya belum sampai ke halaman pertama belum selesai, Saudara."
+  },
+  {
+   "t": 3961.0,
+   "d": 10.0,
+   "text": "Jadi, Saudara-saudara ya, kita tidak boleh menyerah sebelum bertanding."
+  },
+  {
+   "t": 3971.0,
+   "d": 5.0,
+   "text": "Oh, kemiskinan terlalu banyak, Saudara-saudara."
+  },
+  {
+   "t": 3976.0,
+   "d": 13.0,
+   "text": "Ya, kemiskinan terlalu banyak. Tapi ini tidak bisa kita terima karena kekayaan kita sangat-sangat banyak, sangat-sangat banyak."
+  },
+  {
+   "t": 3989.0,
+   "d": 40.0,
+   "text": "Tapi terus terang aja, kita harus berani mengakui bahwa unsur pimpinan, unsur pimpinan di semua tingkat, unsur elit apa arti elit? elit ya pemimpin elit ya di atas ada elit akademis para profesor elit politik para pemimpin politik elit tentara polisi, para pimpinan tentara polisi, elit yudikatif, elit ya pemimpin."
+  },
+  {
+   "t": 4029.0,
+   "d": 20.0,
+   "text": "Kita harus akui bahwa elit Indonesia masih kurang dalam tugasnya menjaga dan mengelola kekayaan bangsa Indonesia."
+  },
+  {
+   "t": 4049.0,
+   "d": 5.0,
+   "text": "Dan ini sekarang saya gugah kita semua."
+  },
+  {
+   "t": 4054.0,
+   "d": 21.0,
+   "text": "Saya gugah. Mari kita semua sebagai pemimpin, mari kita sekarang membulatkan tekad kita, membenahi diri kita dan unsur kita dan lingkungan kita dan lingkaran kita."
+  },
+  {
+   "t": 4075.0,
+   "d": 15.0,
+   "text": "Mari kita bertekad untuk menyelamatkan, menjaga, dan mengelola kekayaan alam kita untuk sebesar-besarnya kepentingan rakyat kita."
+  },
+  {
+   "t": 4090.0,
+   "d": 6.0,
+   "text": "Saya menggugah, saya mengajak, saya mengajak."
+  },
+  {
+   "t": 4096.0,
+   "d": 9.0,
+   "text": "Mari saudara-saudara kita bersatu. Tidak ada urusan."
+  },
+  {
+   "t": 4105.0,
+   "d": 4.0,
+   "text": "Saudara berasal dari partai mana?"
+  },
+  {
+   "t": 4109.0,
+   "d": 12.0,
+   "text": "Jangan kita terlibat dalam apa itu? Dalam sekat-sekat yang timbul karena sejarah."
+  },
+  {
+   "t": 4121.0,
+   "d": 3.0,
+   "text": "Kita belajar dari sejarah."
+  },
+  {
+   "t": 4124.0,
+   "d": 17.0,
+   "text": "Segala pertikaian, segala permusuhan, segala kesalahan mari kita tanam dalam-dalam."
+  },
+  {
+   "t": 4141.0,
+   "d": 9.0,
+   "text": "Kita bisa bicara, kita bisa ribut terus. Kita bisa ribut terus."
+  },
+  {
+   "t": 4150.0,
+   "d": 32.0,
+   "text": "200 tahun yang lalu e kakek dari kakekmu atau apa itu buyut dari buyutmu waktu itu mencuri sapi saya, sapi buyut saya mau diteruskan permusuhan itu perang 200 300 tahun mau kita teruskan, Saudara-saudara. Saudara, tidak ada gunanya."
+  },
+  {
+   "t": 4182.0,
+   "d": 5.0,
+   "text": "Tidak ada gunanya. Karena dunia ini berkembang sangat cepat."
+  },
+  {
+   "t": 4187.0,
+   "d": 7.0,
+   "text": "Dunia ini berkembang sangat-sangat cepat, Saudara-saudara."
+  },
+  {
+   "t": 4194.0,
+   "d": 17.0,
+   "text": "Nanti ee tahap kedua dari taklimat saya yang khusus intern. Teman-teman wartawan, kita persilakan makan siang di luar."
+  },
+  {
+   "t": 4211.0,
+   "d": 4.0,
+   "text": "Saya akan jelaskan cerita-cerita menarik."
+  },
+  {
+   "t": 4215.0,
+   "d": 14.0,
+   "text": "Intinya, Saudara-saudara, sekarang intinya saya dipilih. Sekarang saya akan bekerja untuk seluruh rakyat Indonesia."
+  },
+  {
+   "t": 4229.0,
+   "d": 6.0,
+   "text": "Saya tidak akan tanya ini gubernurnya partai mana ya?"
+  },
+  {
+   "t": 4235.0,
+   "d": 11.0,
+   "text": "dulu milih calon nomor satu, nomor dua atau nomor tiga. Saya enggak akan tanya."
+  },
+  {
+   "t": 4246.0,
+   "d": 5.0,
+   "text": "Buktinya saya kalah di Sumatera Barat. Benar."
+  },
+  {
+   "t": 4251.0,
+   "d": 6.0,
+   "text": "Tapi tetap MBG sampai ke Sumatera Barat."
+  },
+  {
+   "t": 4257.0,
+   "d": 8.0,
+   "text": "Tetap koperasi merah putih tetap kita bangun, kita rehabilitasi Sumatera Barat."
+  },
+  {
+   "t": 4265.0,
+   "d": 4.0,
+   "text": "Saya juga kalah di Aceh kan."
+  },
+  {
+   "t": 4269.0,
+   "d": 7.0,
+   "text": "Tapi tetap kita bangun Aceh habis habisan. Enggak ada."
+  },
+  {
+   "t": 4276.0,
+   "d": 5.0,
+   "text": "Tidak boleh ada permusuhan, tidak boleh ada sakit hati. Kalah menang biasa."
+  },
+  {
+   "t": 4281.0,
+   "d": 7.0,
+   "text": "Karena kita mengabdi untuk bangsa dan rakyat Indonesia."
+  },
+  {
+   "t": 4288.0,
+   "d": 10.0,
+   "text": "[tepuk tangan] Saya enggak tanya, Pak Bursah. Kau partai mana? Kan enggak saya tanya. Enggak saya tanya kan?"
+  },
+  {
+   "t": 4298.0,
+   "d": 3.0,
+   "text": "Tetap saya dukung beliau."
+  },
+  {
+   "t": 4301.0,
+   "d": 10.0,
+   "text": "Benar karena istrimu kan gerindra ya. Tapi saya enggak tanya dia."
+  },
+  {
+   "t": 4311.0,
+   "d": 4.0,
+   "text": "Saya enggak tanya dia. Kebetulan istrinya Gerindra."
+  },
+  {
+   "t": 4315.0,
+   "d": 20.0,
+   "text": "Enggak ada urusan saya. Eh, kalau Gerindra brengsek, Gerindra pun saya tangkap, Saudara-saudara. Ya, jangan macam-macam. Enggak ada itu. Kita semua bergerak kita. Jadi persaingan pertandingan ya pertandingan."
+  },
+  {
+   "t": 4335.0,
+   "d": 3.0,
+   "text": "Kalau ada pemilihan harus ada pemilihan."
+  },
+  {
+   "t": 4338.0,
+   "d": 14.0,
+   "text": "Dua calon, tiga calon, lima calon enggak apa-apa bagus. Tapi begitu selesai sudahlah kerja. Nah, ini yang saya saya ini yang saya tawarkan."
+  },
+  {
+   "t": 4352.0,
+   "d": 3.0,
+   "text": "Ayo bekerja untuk rakyat."
+  },
+  {
+   "t": 4355.0,
+   "d": 11.0,
+   "text": "Pak Pram dari PDP, tapi tetap saya akan dukung sebagai Gubernur DKI."
+  },
+  {
+   "t": 4366.0,
+   "d": 16.0,
+   "text": "Karena tugas saya, kewajiban saya adalah seluruh rakyat Indonesia termasuk rakyat DKI walaupun gubernurnya partai lain, saya akan dukung beliau supaya DKI aman dan selamat."
+  },
+  {
+   "t": 4382.0,
+   "d": 6.0,
+   "text": "Kan begitu. Nanti 202 ya terserah."
+  },
+  {
+   "t": 4388.0,
+   "d": 8.0,
+   "text": "Iya kan? Enggak apa-apa enggak apa-apa. Benar."
+  },
+  {
+   "t": 4396.0,
+   "d": 28.0,
+   "text": "Jadi, Saudara-saudara, saya sedikit jelaskan ya. yang saya lakukan sekarang, yang saya tawarkan kemarin waktu saya dipilih sebelumnya adalah saya ingin dan saya punya dan saya menyebarluaskan sesuatu yang saya pelajari sekian puluh tahun sehingga saya membuat dan saya pelajari dalam negeri dan luar negeri."
+  },
+  {
+   "t": 4424.0,
+   "d": 4.0,
+   "text": "Saya keliling saya, kawan-kawan saya banyak."
+  },
+  {
+   "t": 4428.0,
+   "d": 13.0,
+   "text": "Saya keliling tiap kali saya satu negara walaupun saya enggak berkuasa dulu saya datang ke Pak Mahatir waktu dia lagi kuat-kuatnya. Pak Mahattir, bagaimana Bapak menghadapi korupsi?"
+  },
+  {
+   "t": 4441.0,
+   "d": 15.0,
+   "text": "Saya tanya, \"Pak, yang mengganjel saya sebagai patriot Indonesia adalah korupsi yang terlalu banyak di Indonesia. Bagaimana Bapak menghandle dia?\" Dia kasih pelajaran, dia kasih tips-tipsnya."
+  },
+  {
+   "t": 4456.0,
+   "d": 9.0,
+   "text": "Dia bilang, \"You bisa atasi korupsi hanya melalui pendidikan. Pendidikan begitu vital."
+  },
+  {
+   "t": 4465.0,
+   "d": 26.0,
+   "text": "Habis itu saya ketemu pemimpin di Thailand. Saya tanya, saya ketemu pemimpin di mana-mana.\" Sehingga saya membuat satu strategi yang sudah ada di buku, yaitu saya beri nama strategi transformasi bangsa. Jadi kita mau menjadi negara maju modern ya."
+  },
+  {
+   "t": 4491.0,
+   "d": 13.0,
+   "text": "Kriteria kita adalah maju modern di mana seluruh rakyat kita mengalami kualitas hidup yang baik."
+  },
+  {
+   "t": 4504.0,
+   "d": 6.0,
+   "text": "Kita tidak bermimpi untuk menjadi high income country."
+  },
+  {
+   "t": 4510.0,
+   "d": 27.0,
+   "text": "Kita tidak bermimpi kita mau hidup seperti Norwegia atau Kanada atau kita hanya mau supaya semua rakyat kita hidup kualitas hidupnya baik. Artinya makan harus cukup sehat, kesehatannya harus dijamin."
+  },
+  {
+   "t": 4537.0,
+   "d": 6.0,
+   "text": "Anak-anaknya harus sekolah dengan baik. dia punya penghasilan yang cukup."
+  },
+  {
+   "t": 4543.0,
+   "d": 18.0,
+   "text": "Dan inilah strategi yang kita buat ya yang saya sebut delapan misi dari Asta Cita, 17 program prioritas dan program hasil terbaik cepat."
+  },
+  {
+   "t": 4561.0,
+   "d": 4.0,
+   "text": "Ya."
+  },
+  {
+   "t": 4565.0,
+   "d": 18.0,
+   "text": "Dan saudara-saudara dari itu ya kalau bisa saya ringkas lebih sederhana yaitu fondasi pertama kita mau tidak mau, suka tidak suka kita harus sembada pangan."
+  },
+  {
+   "t": 4583.0,
+   "d": 8.0,
+   "text": "Sua sebada pangan tidak ada alternatif kalau kita mau merdeka."
+  },
+  {
+   "t": 4591.0,
+   "d": 31.0,
+   "text": "Kalau kita mau sejahtera, kita harus jamin produksi pangan sehingga pangan bisa dinikmati oleh seluruh rakyat kita. Sua sembada pangan adalah syarat. Itu adalah pilar yang utama dari strategi dari strategi yang saya tawarkan dan saya jalankan. Sekarang saya ajak saudara, ayo sama-sama sebagai patriot bangsa."
+  },
+  {
+   "t": 4622.0,
+   "d": 14.0,
+   "text": "Tapi kalau kau tidak mau ikut saya, saya tetap jalan terus karena saya bertekad Indonesia harus mampu mencapai [tepuk tangan] kemerdekaan yang sejati."
+  },
+  {
+   "t": 4636.0,
+   "d": 33.0,
+   "text": "Kemudian swas sembada energi harus nanti ada kelompok apa bisa kita sudah hitung kita punya kelebihan-kelebihan luar biasa. Kenapa kelapa sawit bagi saya katakan itu miracle crop. It is a miracle crop. Ada kelompok nyinyir kelompok kelapa sawit. Iya kan loh Prabowo mau bikin kelapa sawit."
+  },
+  {
+   "t": 4669.0,
+   "d": 6.0,
+   "text": "Iya untuk rakyat Indonesia."
+  },
+  {
+   "t": 4675.0,
+   "d": 9.0,
+   "text": "Karena kelapa sawit itu tidak hanya untuk minyak goreng. Saya ke dunia keliling-keliling."
+  },
+  {
+   "t": 4684.0,
+   "d": 16.0,
+   "text": "Hampir semua pemimpin negara minta ke saya. Kami mohon Indonesia tolong suplly kelapa sawit CPO."
+  },
+  {
+   "t": 4700.0,
+   "d": 11.0,
+   "text": "Saya ke Mesir, saya ke Pakistan, saya ke Rusia, saya ke Belarus, di mana-mana."
+  },
+  {
+   "t": 4711.0,
+   "d": 7.0,
+   "text": "Tolong kelapa sawit tolong. Artinya it's a very strategic commodity."
+  },
+  {
+   "t": 4718.0,
+   "d": 25.0,
+   "text": "Karena dari kelapa sawit kita bisa punya puluhan derivatif cat dinding dari butuh kelapa sawit. Makanan roti harus pakai minyak kelapa sawit dan nanti minyak kelapa dan sebagainya dan sebagainya dan sebagainya. sabun."
+  },
+  {
+   "t": 4743.0,
+   "d": 12.0,
+   "text": "Berapa miliar rakyat dunia harus mandi tiap hari? Kecuali yang malas mandi."
+  },
+  {
+   "t": 4755.0,
+   "d": 11.0,
+   "text": "Kadang-kadang pasukan komando mandinya sekali 2 minggu. Itu kalau di hutan enggak boleh mandi, Saudara-saudara."
+  },
+  {
+   "t": 4766.0,
+   "d": 8.0,
+   "text": "Tapi yang lebih utama kelapa sawit dari kelapa sawit kita bisa bikin solar."
+  },
+  {
+   "t": 4774.0,
+   "d": 13.0,
+   "text": "Jadi kita nanti biodiesel, biosolar itu akan membuat kita bebas dari ketergantungan luar."
+  },
+  {
+   "t": 4787.0,
+   "d": 7.0,
+   "text": "Ya, yang mau pakai bensin terus silakan ya. Orang kaya bayar aja enggak apa-apa."
+  },
+  {
+   "t": 4794.0,
+   "d": 1.0,
+   "text": "Harga dunia."
+  },
+  {
+   "t": 4795.0,
+   "d": 15.0,
+   "text": "Tapi rakyat kita bisa hidup dengan solar. Pesawat terbang aftur. Kita nanti produsen aftur bisa yang terbesar di dunia."
+  },
+  {
+   "t": 4810.0,
+   "d": 57.0,
+   "text": "After [tepuk tangan] bahkan saudara-saudara limbahnya limbahnya kelapa sawit jelanta itu bahan untuk aftur sehingga maaf bangsa-bangsa lain saya tutup saya larang ekspor limbah kelapa sawit ekspor jelantah harus untuk kepentingan rakyat Indonesia dulu baru Saudara-saudara, suasana pada energi, swasta lapangan baru kita harus merubah aliran uang yang dari desa ke kota ke ibu kota dan ke luar negeri kita harus hentikan membalikkan antara lain dengan makan bergizi gratis."
+  },
+  {
+   "t": 4867.0,
+   "d": 5.0,
+   "text": "anak-anak kita harus makan cukup."
+  },
+  {
+   "t": 4872.0,
+   "d": 27.0,
+   "text": "Dan alhamdulillah hari ini tadi malam saya cek ee Kepala BGN kita sudah mencapai 60 juta penerima manfaat 60 juta dalam 1 tahun 1 tahun 4 bulan, 5 bulan 60 juta."
+  },
+  {
+   "t": 4899.0,
+   "d": 3.0,
+   "text": "Tidak ada yang menduga kita mampu."
+  },
+  {
+   "t": 4902.0,
+   "d": 10.0,
+   "text": "Tidak ada yang menduga. Banyak bahkan orang-orang hebat meramalkan pasti gagal ya."
+  },
+  {
+   "t": 4912.0,
+   "d": 12.0,
+   "text": "Sekian ribu keracunan kita makan di restoran paling mahal aja di Jakarta ada yang keracunan."
+  },
+  {
+   "t": 4924.0,
+   "d": 23.0,
+   "text": "Kalau kita jumlahkan berapa ribu yang keracunan dibandingkan berapa miliar makanan yang sudah kita bagi, statistiknya adalah 0,00 8 atau 7."
+  },
+  {
+   "t": 4947.0,
+   "d": 2.0,
+   "text": "Artinya apa?"
+  },
+  {
+   "t": 4949.0,
+   "d": 12.0,
+   "text": "Artinya 99,99 usaha MBG harus dinyatakan berhasil."
+  },
+  {
+   "t": 4961.0,
+   "d": 14.0,
+   "text": "Saya tidak mengerti ya, mungkin dasarnya adalah menganggap lawan politik. Apa saja dibuat harus harus diserang, harus dijelek-jelekan."
+  },
+  {
+   "t": 4975.0,
+   "d": 6.0,
+   "text": "Ya, inilah kita usaha kita untuk menjelaskan."
+  },
+  {
+   "t": 4981.0,
+   "d": 17.0,
+   "text": "Tetapi saya hanya ingin beritahu, Saudara-saudara, saya baru satu hari yang lalu para ahli pakar dari White House sedang mempelajari MBG kita ini."
+  },
+  {
+   "t": 4998.0,
+   "d": 4.0,
+   "text": "Sedang mempelajari MBG kita sendiri."
+  },
+  {
+   "t": 5002.0,
+   "d": 28.0,
+   "text": "3 bulan 4 bulan yang lalu saya terima rombongan dari Rockefeller Institute datang ke saya dan dia mengatakan makan bergizi gratis itu adalah investasi yang terbaik yang bisa dilakukan oleh suatu negara."
+  },
+  {
+   "t": 5030.0,
+   "d": 2.0,
+   "text": "Satu."
+  },
+  {
+   "t": 5032.0,
+   "d": 20.0,
+   "text": "1 dolar atau Rp1 yang kita keluarkan untuk makan bergizi akan menimbulkan lipat ganda minimal lima kali dan dalam jangka panjang akan menjadi 35 kali investasinya itu, Saudara-saudara."
+  },
+  {
+   "t": 5052.0,
+   "d": 22.0,
+   "text": "Ada kecenderungan para orang pintar kita lebih percaya orang asing daripada bangsanya sendiri. Jadi ya cek aja ke Rockfeller Institute karena mereka enggak akan percaya dengan orang-orang ini. Saya enggak ngerti."
+  },
+  {
+   "t": 5074.0,
+   "d": 13.0,
+   "text": "Saya enggak ngerti mereka itu pemikirannya kayak apa, tapi tetap harus kita ajak bicara, Saudara-saudara."
+  },
+  {
+   "t": 5087.0,
+   "d": 27.0,
+   "text": "Saya nanti saudara mungkin 2 3 minggu lagi ya kalau saya bicara di sini saya harus bertanggung jawab. Ini media ini cover saya banyak lagi nunggu kalau bisa. Wah ini blunder apagi Prabowo akan bicara gitu. Iya kan sor ya."
+  },
+  {
+   "t": 5114.0,
+   "d": 5.0,
+   "text": "Saya kaget sendiri."
+  },
+  {
+   "t": 5119.0,
+   "d": 29.0,
+   "text": "Menteri kesehatan you boleh cek kan ini direkam Secretary of Health dari Amerika Serikat. Saya dapat berita ingin jumpa dengan saya, ingin bertanya tentang MBG, Saudara-saudara, dan MBG kita ini sudah sampai 60 juta."
+  },
+  {
+   "t": 5148.0,
+   "d": 14.0,
+   "text": "Hari ini kita akan mencapai 82 juta paling lambat Desember 2026."
+  },
+  {
+   "t": 5162.0,
+   "d": 9.0,
+   "text": "paling lambat dengan kondisi sekarang saja."
+  },
+  {
+   "t": 5171.0,
+   "d": 18.0,
+   "text": "Hari ini MBG telah ee ada dapur ya SPPG yang sudah operasional 22.275."
+  },
+  {
+   "t": 5189.0,
+   "d": 23.0,
+   "text": "dapur operasional dalam proses penilaian penilaian dan pengajuan 13.829 dengan 22.000 saja sekarang kita sudah menciptakan lapan kerja 1 juta."
+  },
+  {
+   "t": 5212.0,
+   "d": 7.0,
+   "text": "22.000* 50 orang yang digaji tiap hari."
+  },
+  {
+   "t": 5219.0,
+   "d": 10.0,
+   "text": "sudah kita ciptakan kerja R juta dan 22.000 dapur itu membutuhkan pemasok."
+  },
+  {
+   "t": 5229.0,
+   "d": 25.0,
+   "text": "Pemasok tomat, wortel, sayur, telur, ikan, ayam, daging dan sebagainya dan sebagainya. di tiap desa, tiap dapur menimbulkan pemasok bisa sampai 10, bisa sampai 20 orang."
+  },
+  {
+   "t": 5254.0,
+   "d": 16.0,
+   "text": "Itu nanti di ujungnya kalau kita sampai 2 juta kita akan menciptakan 3 sampai 5 juta lapan kerja, Saudara-saudara."
+  },
+  {
+   "t": 5270.0,
+   "d": 5.0,
+   "text": "Kita semua paham rakyat kita butuh pekerjaan."
+  },
+  {
+   "t": 5275.0,
+   "d": 12.0,
+   "text": "Tapi kalau kita teriak, teriak-teriak, kita mencela-mencela, menghardik-menghardik, ya enggak akan tercipta."
+  },
+  {
+   "t": 5287.0,
+   "d": 20.0,
+   "text": "Saya buktikan kepada saudara-saudara, Prabowo Subianto sebagai Presiden Republik Indonesia, saya telah menghasilkan sekarang 1 juta kerja hanya dari MBG dan ada tuduhan untuk menjelekkan kita sebagai bangsa."
+  },
+  {
+   "t": 5307.0,
+   "d": 10.0,
+   "text": "Jadi begini ya, kalau saudara tidak suka dengan dua tiga orang, jangan merusak seluruh bangsa."
+  },
+  {
+   "t": 5317.0,
+   "d": 3.0,
+   "text": "Kalau tidak suka sama Prabowo, silakan."
+  },
+  {
+   "t": 5320.0,
+   "d": 7.0,
+   "text": "202 bertarung."
+  },
+  {
+   "t": 5327.0,
+   "d": 9.0,
+   "text": "Iya kan? Sedikit-sedikit mau demo."
+  },
+  {
+   "t": 5336.0,
+   "d": 16.0,
+   "text": "Demo tapi dia tidak berharap demo. Dia berharap kerusuhan. Dan kerusuhan itu mencelakakan bangsa dan negara, Saudara-saudara. Kerusuhan mencelakakan bangsa dan negara."
+  },
+  {
+   "t": 5352.0,
+   "d": 8.0,
+   "text": "Bakar-bakar bomolotov. Saya katakan itu membahayakan."
+  },
+  {
+   "t": 5360.0,
+   "d": 4.0,
+   "text": "Itu pidana. Saya tidak ragu-ragu."
+  },
+  {
+   "t": 5364.0,
+   "d": 11.0,
+   "text": "Kalau demo silakan, tapi mau bagaimana mau demo? kamu 5.000 kali demo tidak akan ada satu pabrik dibuka."
+  },
+  {
+   "t": 5375.0,
+   "d": 7.0,
+   "text": "Jadi kelompok kelompok ini sadar atau tidak sadar saya yakin mereka dikendalikan oleh kekuatan asing."
+  },
+  {
+   "t": 5382.0,
+   "d": 12.0,
+   "text": "Yakin saya. Yakin saya dan saya punya bukti."
+  },
+  {
+   "t": 5394.0,
+   "d": 45.0,
+   "text": "Dan saya menghimbau mereka, \"Hai, hai warga negara Indonesia, apakah kau tidak kasihan sama rakyatmu?\" Saudara-saudara, saya tadi sudah tayangkan capaian-capaian kita dan capaian-capaian ini real, bukan bukan omon-omon."
+  },
+  {
+   "t": 5439.0,
+   "d": 10.0,
+   "text": "Kita telah bentuk dana sovereign well fund."
+  },
+  {
+   "t": 5449.0,
+   "d": 15.0,
+   "text": "Saya telah menghimpun semua kekuatan milik negara dalam satu manajemen, satu pengelolaan yang nilainya adalah 1 triliun US DO."
+  },
+  {
+   "t": 5464.0,
+   "d": 19.0,
+   "text": "Terus lengkapnya adalah 1040 miliar dolar. Aset under management, Saudara-saudara. tadinya terpecah-pecah dalam 1000 1040 perusahaan."
+  },
+  {
+   "t": 5483.0,
+   "d": 8.0,
+   "text": "Bayangkan enggak siapa yang bisa manage 1000 perusahaan?"
+  },
+  {
+   "t": 5491.0,
+   "d": 6.0,
+   "text": "Ini akal-akalan saya katakan."
+  },
+  {
+   "t": 5497.0,
+   "d": 7.0,
+   "text": "Pimpinan-pimpinan BUMN yang dulu harus bertanggung jawab."
+  },
+  {
+   "t": 5504.0,
+   "d": 11.0,
+   "text": "Jangan enak-enak kau. Siap-siap kau dipanggil kejaksaan."
+  },
+  {
+   "t": 5515.0,
+   "d": 16.0,
+   "text": "Kan mereka ngejek Prabowo itu hanya bisa ngomong di podium aja. Oh iya ya. Tunggu aja panggilan lu. Jangan nantang gue lu."
+  },
+  {
+   "t": 5531.0,
+   "d": 9.0,
+   "text": "Saya hanya takut sama rakyat Indonesia dan Tuhan Maha Besar. Saya hanya takut itu."
+  },
+  {
+   "t": 5540.0,
+   "d": 5.0,
+   "text": "Dan kita semuanya harusnya itu, Saudara-saudara."
+  },
+  {
+   "t": 5545.0,
+   "d": 9.0,
+   "text": "Sudahlah kita nih semuanya sebentar lagi dipanggil. Benar."
+  },
+  {
+   "t": 5554.0,
+   "d": 7.0,
+   "text": "Dan kalau dipanggil tidak sesuai nomor urut, tidak sesuai sinoritas."
+  },
+  {
+   "t": 5561.0,
+   "d": 12.0,
+   "text": "Sor ya, belum tentu aku duluan dipanggil. Bisa yang muda-muda di sana tuh. Ah."
+  },
+  {
+   "t": 5573.0,
+   "d": 3.0,
+   "text": "Iya kan?"
+  },
+  {
+   "t": 5576.0,
+   "d": 23.0,
+   "text": "Jadi lebih baik berbuat kebaikan, lebih baik membela rakyat, lebih mulia, Saudara-saudara. Pasti enggak benar, Saudara-saudara. Saya paling kasihan kalau saya lihat ada tokoh atau kawan atau siapa yang diborgel ya kan paku pakai baju apa itu baju orayaannya ya."
+  },
+  {
+   "t": 5599.0,
+   "d": 33.0,
+   "text": "orangnya kan pakai waru orangnya ya kan kasihan anak istrinya sekarang ini sudahlah saudara-saudara ya macam-macam ada digital ada apa susah saudara saudara-saudara kita tadi saya sudah katakan kita sudah mencapai 60 juta penerima manfaat tiap hari Ibu Ibu hamil kita antar makanan."
+  },
+  {
+   "t": 5632.0,
+   "d": 7.0,
+   "text": "Coba tanya di dunia ini, Saudara-saudara, kita nih sekarang jadi role model kita mau dipelajari."
+  },
+  {
+   "t": 5639.0,
+   "d": 12.0,
+   "text": "Ibu hamil diantar makanan orang lansia, orang tua yang hidup sendiri diantar makanan."
+  },
+  {
+   "t": 5651.0,
+   "d": 28.0,
+   "text": "Kasih lihat, kasih tahu saya negara mana dan saudara mungkin ada yang percaya enggak? Tapi nanti saya juga kaget loh, kok White House mempelajari makan bergizi kita ini, Saudara-saudara. Kita sudah mencapai ee total makan yang kita produksi 3 miliar, ya."
+  },
+  {
+   "t": 5679.0,
+   "d": 4.0,
+   "text": "3,7 3,7 miliar."
+  },
+  {
+   "t": 5683.0,
+   "d": 30.0,
+   "text": "Kalau nanti 82 juta pen manfaat, kita akan mencapai secara matematik ee minimal 17 miliar makan yang kita produksi, Saudara-saudara. 70 juta rakyat kita sudah dicek kesehatan gratis pertama kali dalam sejarah. Dan yang kita ketemukan hasilnya ya lumayan menantang."
+  },
+  {
+   "t": 5713.0,
+   "d": 10.0,
+   "text": "Nanti beberapa bulan lagi akan kita wujudkan minimal 28.000 koperasi di tiap desa."
+  },
+  {
+   "t": 5723.0,
+   "d": 18.0,
+   "text": "Dan koperasi itu koperasi yang operasional, punya gudang, punya coach storage dan akan punya dua truk masing-masing koperasi. Tidak akan ada panen yang tidak terjual."
+  },
+  {
+   "t": 5741.0,
+   "d": 5.0,
+   "text": "dulu menunggu siapa yang mau ambil."
+  },
+  {
+   "t": 5746.0,
+   "d": 7.0,
+   "text": "Tengkulaklah, perantara lah. Sekarang tidak. Koperasi bisa ngirim sendiri hasil panennya."
+  },
+  {
+   "t": 5753.0,
+   "d": 22.0,
+   "text": "Kalau belum bisa dijual dia simpan dalam gudang. Dia punya gudang sendiri. Dan kita akan bikin desa-desa nelayan dan proyek-proyek perikanan sehingga rakyat kita akan dapat ikan segar. protein yang harganya mungkin setengah dari daging."
+  },
+  {
+   "t": 5775.0,
+   "d": 13.0,
+   "text": "Tiap keluarga Indonesia harus makan lauk protein tiap hari. Itu cita-cita pemerintah Republik Indonesia. Itu cita-cita saya."
+  },
+  {
+   "t": 5788.0,
+   "d": 14.0,
+   "text": "Dan saudara bisa lihat hasil-hasil kita yang lain. 282.180 180 sekolah telah menerima interactive flat panel."
+  },
+  {
+   "t": 5802.0,
+   "d": 14.0,
+   "text": "Tahun ini sudah selesai. Hampir semua sekolah termasuk yang terluar dan yang terpencil yang tertinggal sudah menerima."
+  },
+  {
+   "t": 5816.0,
+   "d": 8.0,
+   "text": "Di pulau-pulau terpencil, di gunung-gunung tertinggi mereka sudah punya panel interaktif."
+  },
+  {
+   "t": 5824.0,
+   "d": 9.0,
+   "text": "Kemarin di Aceh dan di beberapa ee bagian ada yang rusak karena banjir. Kita akan ganti segera."
+  },
+  {
+   "t": 5833.0,
+   "d": 8.0,
+   "text": "Tahun ini kita akan lengkapi. Kita harap ini cukup untuk satu kelas tiap sekolah."
+  },
+  {
+   "t": 5841.0,
+   "d": 27.0,
+   "text": "tahun ini saya tujuannya adalah tiap sekolah minimal dapat dua lagi minimal sehingga nanti dapat tiga kelas, tiga ruang kelas mudah-mudahan empat ruang kelas akhir 2008 2009 setiap ruang kelas di seluruh Indonesia akan punya interactive digital panel. Artinya apa?"
+  },
+  {
+   "t": 5868.0,
+   "d": 21.0,
+   "text": "Kita bisa mengajar dari Jakarta. Sekolah-sekolah yang gurunya kurang, yang guru matik-matiknya kurang, guru bahasa Inggris kurang, guru fisika, guru biologi, kita bisa nerima pengajaran dari pusat interaktif."
+  },
+  {
+   "t": 5889.0,
+   "d": 11.0,
+   "text": "Saya sebetulnya nanti ujungnya saya bisa lihat ruang kelas gurunya ada atau tidak."
+  },
+  {
+   "t": 5900.0,
+   "d": 12.0,
+   "text": "Saudara-saudara, kita tadi hasil produksi kita tertinggi dalam sejarah, cadangan beras kita di Bulok tertinggi dalam sejarah."
+  },
+  {
+   "t": 5912.0,
+   "d": 12.0,
+   "text": "ee hasil ee investasi kita lapangan kerja baru sudah terbentuk 2,7 juta."
+  },
+  {
+   "t": 5924.0,
+   "d": 6.0,
+   "text": "Kita juga sekarang membuat inovasi yang jarang dilakukan di dunia."
+  },
+  {
+   "t": 5930.0,
+   "d": 11.0,
+   "text": "Anak-anak dari kelompok yang paling tidak mampu kita sekolahkan dalam sekolah berasrama."
+  },
+  {
+   "t": 5941.0,
+   "d": 19.0,
+   "text": "kita keluarkan dari lingkaran kemiskinan. Kita beri pendidikan yang terbaik. Anak-anak yang tidak mungkin sekolah kita sekolah dan kita akan terus tidak boleh ada anak di jalanan yang tidak sekolah. kita akan ambil semua, Saudara-saudara sekalian."
+  },
+  {
+   "t": 5960.0,
+   "d": 14.0,
+   "text": "Ee saya kira sudah nanti yang salah satu program kita yang sangat strategis adalah kampung nelayan."
+  },
+  {
+   "t": 5974.0,
+   "d": 5.0,
+   "text": "Ada 12 juta kampung nelayan kita akan modernisasi."
+  },
+  {
+   "t": 5979.0,
+   "d": 9.0,
+   "text": "Setiap kampung nelayan akan kita bikin jati. dermaga kecil."
+  },
+  {
+   "t": 5988.0,
+   "d": 11.0,
+   "text": "Kita juga beli pabrik es, kita juga beli cold storage, dan kita bantu kapal-kapal ikannya."
+  },
+  {
+   "t": 5999.0,
+   "d": 10.0,
+   "text": "Kapal ikan yang 5 GT beberapa nanti kapal ikan yang lebih besar 30 GT."
+  },
+  {
+   "t": 6009.0,
+   "d": 7.0,
+   "text": "Kita harap ee tiap desa akan dapat satu. Artinya apa?"
+  },
+  {
+   "t": 6016.0,
+   "d": 37.0,
+   "text": "Nelayan-nelaian kita bisa melaut lebih lama, penghasilan mereka naik dan kita sudah punya ee kita sudah punya eh pilot project di Biak yang telah terbukti meningkatkan hasil petani hampir 60% peningkatannya, Saudara-saudara. Demikian adalah hasil-hasil kita. Baru sekelumit, masih banyak lagi hasil kita. Tapi itu highlight ya. Kita telah berbuat banyak."
+  },
+  {
+   "t": 6053.0,
+   "d": 7.0,
+   "text": "Yang paling strategis nanti saya kira adalah danantara."
+  },
+  {
+   "t": 6060.0,
+   "d": 11.0,
+   "text": "Sekarang kita tidak ke luar negeri minta-minta investasi kita. mengajak."
+  },
+  {
+   "t": 6071.0,
+   "d": 8.0,
+   "text": "Kita mengajak dan kita punya kemampuan sekarang."
+  },
+  {
+   "t": 6079.0,
+   "d": 16.0,
+   "text": "Jadi tadi saya sampaikan pokok-pokok yang harus kita ee mulai kita laksanakan adalah hilirisasi."
+  },
+  {
+   "t": 6095.0,
+   "d": 15.0,
+   "text": "Hirisasi ee tahun ini ada 18 proyek hidisasi prioritas 2026."
+  },
+  {
+   "t": 6110.0,
+   "d": 50.0,
+   "text": "Industri smelter aluminium industri stainless steel slap industri olio resin industri ikan file tilapia modul surya terintegrasi industri gasifikasi batubara industri copper road wire and tube industri olio food kelapa sawit industri Industri Karaginan rumpu laut industri bayu aftur dari jelanta industri aspal industri besi baja, industri nata de coco MCT dan tepung kelapa. Dari kelapa kita akan bangun kilang minyak."
+  },
+  {
+   "t": 6160.0,
+   "d": 9.0,
+   "text": "Masa minyak kita kita kirim keluar ke kilang minyak, habis itu kita impor lagi. Iya kan?"
+  },
+  {
+   "t": 6169.0,
+   "d": 11.0,
+   "text": "industri mangan sulfat, industri chemical grade alumina industri clor alkali plant oil storage tanks."
+  },
+  {
+   "t": 6180.0,
+   "d": 12.0,
+   "text": "18 proyek ini akan ciptakan 276.0008 kerja berkualitas dengan investasi rupiah R18 triliun."
+  },
+  {
+   "t": 6192.0,
+   "d": 4.0,
+   "text": "Ini tahun ini akan kita mulai."
+  },
+  {
+   "t": 6196.0,
+   "d": 23.0,
+   "text": "Tapi sebelum itu saya ingin sampaikan kepada para kepala daerah bahwa masalah bangsa ini sekarang adalah juga yang sangat krusial adalah masalah sampah."
+  },
+  {
+   "t": 6219.0,
+   "d": 5.0,
+   "text": "Sampah ini menjadi masalah."
+  },
+  {
+   "t": 6224.0,
+   "d": 10.0,
+   "text": "di proyeksi hampir semua TPA sampah akan mengalami overcapacity pada tahun 2028 bahkan lebih cepat."
+  },
+  {
+   "t": 6234.0,
+   "d": 25.0,
+   "text": "Untuk itu tahun ini kita akan buka 34 proyek pembangunan waste to energy di kota ini. Saya minta ground breaking berapa bulan ini dilaksanakan. Ini kita perkirakan 2 tahun lagi sudah berfungsi."
+  },
+  {
+   "t": 6259.0,
+   "d": 3.0,
+   "text": "Ini investasi cukup besar."
+  },
+  {
+   "t": 6262.0,
+   "d": 35.0,
+   "text": "ee totalnya itu hampir 3,5 miliar dolar untuk 34 ee titik itu. Tetapi setelah saya lihat di beberapa kabupaten, saya yakin bahwa kota-kota kabupaten sudah juga mulai harus ada. Ee dan ini sudah ada inisiatif beapa bupati ee improvisasi ini sedang kita pelajari. mungkin bisa saling menukar pengalaman."
+  },
+  {
+   "t": 6297.0,
+   "d": 3.0,
+   "text": "Penyelesaian masalah sampah."
+  },
+  {
+   "t": 6300.0,
+   "d": 10.0,
+   "text": "Kita perlu kerja sama antara pemerintah pusat dan pemerintah daerah. Tapi kita tidak boleh menunggu."
+  },
+  {
+   "t": 6310.0,
+   "d": 11.0,
+   "text": "Karena itu bila perlu demi kepentingan rakyat pemerintah pusat yang akan memimpin."
+  },
+  {
+   "t": 6321.0,
+   "d": 18.0,
+   "text": "Saudara-saudara sekalian, Saudara-saudara sekalian, saya ingin sekarang membahas masalah juga yang penting."
+  },
+  {
+   "t": 6339.0,
+   "d": 9.0,
+   "text": "Salah satu masalah tadi kita lihat sampah di mana-mana ya."
+  },
+  {
+   "t": 6348.0,
+   "d": 8.0,
+   "text": "Ini harus kita selesaikan."
+  },
+  {
+   "t": 6356.0,
+   "d": 8.0,
+   "text": "Ini tidak bisa dengan caci maki, teriak-teriak, mengejek, ya kan?"
+  },
+  {
+   "t": 6364.0,
+   "d": 4.0,
+   "text": "Tidak bisa. Ini harus kerja benar."
+  },
+  {
+   "t": 6368.0,
+   "d": 17.0,
+   "text": "Realita ini realita, Saudara-saudara. Salah satu yang kita mengerti yang selalu kelompok-kelompok itu kita butuh lapangan kerja. Kita butuh lapangan kerja."
+  },
+  {
+   "t": 6385.0,
+   "d": 3.0,
+   "text": "Ada gap antara yang kaya dan miskin."
+  },
+  {
+   "t": 6388.0,
+   "d": 12.0,
+   "text": "Mengerti kita? Kita sudah mengerti masalahnya ini. Kita sedang atasi, Saudara-saudara. Salah satu adalah pariwisata."
+  },
+  {
+   "t": 6400.0,
+   "d": 10.0,
+   "text": "pariwisata menyerap kerja paling banyak, menyiapkannya juga paling cepat dan lebih murah dari yang lain-lain."
+  },
+  {
+   "t": 6410.0,
+   "d": 19.0,
+   "text": "Tapi saya menggugah, Saudara-saudara sekalian, pariwisata apakah turis mau datang melihat sampah Indonesia indah, dia mau datang lihat kumuh."
+  },
+  {
+   "t": 6429.0,
+   "d": 9.0,
+   "text": "Dia mau ke Bali, pantai Bali kotor."
+  },
+  {
+   "t": 6438.0,
+   "d": 7.0,
+   "text": "Saya di Korea ketemu tokoh-tokoh di Korea, menteri-menteri, jenderal-jenderal."
+  },
+  {
+   "t": 6445.0,
+   "d": 15.0,
+   "text": "Kadang-kadang ya, tentara di mana pun dia enggak pakai basa-basi, bicaranya apa adanya. Dia ngomong ke saya, dia bilang, \"Your excellency, I just came from Bali.\" Oh, Bali so dirty now."
+  },
+  {
+   "t": 6460.0,
+   "d": 5.0,
+   "text": "Bali not nice."
+  },
+  {
+   "t": 6465.0,
+   "d": 9.0,
+   "text": "Wah, saya tapi saya terima itu sebagai koreksi ya. Ini kita harus atasi bersama."
+  },
+  {
+   "t": 6474.0,
+   "d": 4.0,
+   "text": "ini kalau enggak salah."
+  },
+  {
+   "t": 6478.0,
+   "d": 18.0,
+   "text": "Oh sori sebetulnya saya sudah memenuhi syarat sebagai lansia. Lansia."
+  },
+  {
+   "t": 6496.0,
+   "d": 5.0,
+   "text": "Jadi pakai kacamata enggak apa-apa ya."
+  },
+  {
+   "t": 6501.0,
+   "d": 25.0,
+   "text": "Nah, ini ini maaf ya gubernur, bupati-bupati dari Bali ini real loh. Bali tahun bulan Desember 2025 ini panti balik bagaimana turis mau datang ke situ lihat sampah."
+  },
+  {
+   "t": 6526.0,
+   "d": 18.0,
+   "text": "Gubernur, Bupati, SMA, SMP, SD di bawah kendali saudara. Apa susahnya sih entah hari Sabtu, hari Jumat semua anak sekolah kumpul di pantai ini."
+  },
+  {
+   "t": 6544.0,
+   "d": 71.0,
+   "text": "Ini pantai kita. Ini halaman kita. Ayo kita bersihkan ramai-ramai Corve. Apa salahnya kalau bupati dan gubernur tidak bisa saya perintah dan diim dan rem saya perintahkan kau ya gerakkan anak buahmu kor tiap hari atau tiap berapa Corve korve korve kepolisian gerakan kor [tepuk tangan] dan antara semua boom Men, ribuan buahnya Corve."
+  },
+  {
+   "t": 6615.0,
+   "d": 12.0,
+   "text": "Saya tidak mau lihat plastik atau sampah di sekitar kantor-kantor BUMN."
+  },
+  {
+   "t": 6627.0,
+   "d": 10.0,
+   "text": "Semua menteri KL sebelum masuk kantor minimal setengah jam bersihkan lingkunganmu."
+  },
+  {
+   "t": 6637.0,
+   "d": 14.0,
+   "text": "Siap. Siap. Benar ya. Siap. Siap. Jangan siap-siap."
+  },
+  {
+   "t": 6651.0,
+   "d": 5.0,
+   "text": "Minimal setengah jam pagi-pagi sebelum masuk kantor."
+  },
+  {
+   "t": 6656.0,
+   "d": 18.0,
+   "text": "Kalau perlu menteri yang mimpin KLKL semua itu semua kantor ya. Kita ini sekarang harus menyatakan perang terhadap sampah."
+  },
+  {
+   "t": 6674.0,
+   "d": 14.0,
+   "text": "Bagaimana Bupati, walikota ini untuk rakyat kita. Sampah itu bencana. Sampah itu penyakit."
+  },
+  {
+   "t": 6688.0,
+   "d": 4.0,
+   "text": "Kita akan berbuat, kita akan dukung, Saudara-saudara."
+  },
+  {
+   "t": 6692.0,
+   "d": 14.0,
+   "text": "Ya, ini 34 kita segera mulai. Begitu ada uang, kita arahkan ke sini juga."
+  },
+  {
+   "t": 6706.0,
+   "d": 13.0,
+   "text": "Bagaimana kita mau jual, kita mau harapkan pariwisata kalau lingkungan kita enggak benar ya, jorok kotor."
+  },
+  {
+   "t": 6719.0,
+   "d": 9.0,
+   "text": "Saudara-saudara, dalam waktu dekat saya sebetulnya mau mau apa?"
+  },
+  {
+   "t": 6728.0,
+   "d": 9.0,
+   "text": "m-launching apa yang saya sebut gerakan Indonesia asri."
+  },
+  {
+   "t": 6737.0,
+   "d": 4.0,
+   "text": "Aman, sehat, resik, indah."
+  },
+  {
+   "t": 6741.0,
+   "d": 9.0,
+   "text": "Resik saya tanya artinya apa? Artinya bersih, tertib dan sebagainya."
+  },
+  {
+   "t": 6750.0,
+   "d": 30.0,
+   "text": "ini hanya suatu suatu katakanlah ee nama tapi wujudnya tadi ya semua instansi pemerintahan harus memimpin Corve. Anak sekolah enggak apa-apa pagi-pagi 10 menit, 15 menit, setengah jam. Kalau ratusan, ribuan itu cepat itu ya."
+  },
+  {
+   "t": 6780.0,
+   "d": 12.0,
+   "text": "Modalnya nanti apa? Modalnya ee gerobak-gerobak, truk-truk, sampah dan sebagainya."
+  },
+  {
+   "t": 6792.0,
+   "d": 19.0,
+   "text": "Kemudian salah satu dalam rangka indah saya lihat saudara-saudara semua kota, semua kota kecamatan, hampir semua desa kita sekarang, maaf ya terlalu banyak genteng dari seng."
+  },
+  {
+   "t": 6811.0,
+   "d": 8.0,
+   "text": "Sank ini panas untuk penghuni. Sank ini juga berkarat."
+  },
+  {
+   "t": 6819.0,
+   "d": 5.0,
+   "text": "Jadi tidak mungkin Indonesia indah kalau semua genteng dari seng."
+  },
+  {
+   "t": 6824.0,
+   "d": 9.0,
+   "text": "Maaf saya tidak tahu ini dari dulu industri aluminium dari mana ya. Maaf bikin yang lain-lain deh."
+  },
+  {
+   "t": 6833.0,
+   "d": 13.0,
+   "text": "Saya ingin semua atap Indonesia pakai genteng."
+  },
+  {
+   "t": 6846.0,
+   "d": 2.0,
+   "text": "Iya."
+  },
+  {
+   "t": 6848.0,
+   "d": 13.0,
+   "text": "Jadi nanti ini gerakannya adalah gerakan proyeknya adalah proyek gentengisasi seluruh Indonesia."
+  },
+  {
+   "t": 6861.0,
+   "d": 15.0,
+   "text": "Alat-alat genteng itu apa? Alat pabrikpabrik genteng itu tidak mahal. Jadi nanti koperasi-koperasi merah putih akan kita lengkapi dengan pabrik genteng."
+  },
+  {
+   "t": 6876.0,
+   "d": 12.0,
+   "text": "Genteng itu bahan bakunya dari tanah dan dengan dicampur dengan berapa zat limbah lainnya bisa ringan dan kuat."
+  },
+  {
+   "t": 6888.0,
+   "d": 21.0,
+   "text": "Saya dapat laporan dari ee profesor-profesor kita bahwa limbah dari batu bara ya es itu dari batu bara ya itu dicampur dengan tanah bahan genteng yang baik."
+  },
+  {
+   "t": 6909.0,
+   "d": 9.0,
+   "text": "Jadi, Saudara-saudara ee kita akan bantu saudara ya."
+  },
+  {
+   "t": 6918.0,
+   "d": 19.0,
+   "text": "Nah, itu sebelum gentengisasi, sesudah genteng isasi."
+  },
+  {
+   "t": 6937.0,
+   "d": 4.0,
+   "text": "Ini serius ya."
+  },
+  {
+   "t": 6941.0,
+   "d": 5.0,
+   "text": "Bupati, walikota yang tidak mau kotanya indah terserah."
+  },
+  {
+   "t": 6946.0,
+   "d": 15.0,
+   "text": "Yang mau ayo bersama kita bikin bikin kotamu indah, bikin kecamatanmu indah, bikin desamu indah."
+  },
+  {
+   "t": 6961.0,
+   "d": 7.0,
+   "text": "Iya. Bagaimana, Saudara-saudara?"
+  },
+  {
+   "t": 6968.0,
+   "d": 22.0,
+   "text": "Mungkin hal ini enggak ada di buku, tapi kalau kita ingat nenek kita, kakek kita, atasnya itu dulu pakai rumbia atau pakai ijuk atau pakai silap."
+  },
+  {
+   "t": 6990.0,
+   "d": 3.0,
+   "text": "Benar kan?"
+  },
+  {
+   "t": 6993.0,
+   "d": 11.0,
+   "text": "Atau pakai bahan-bahan dari alam. Jadi sejuk sejuk."
+  },
+  {
+   "t": 7004.0,
+   "d": 9.0,
+   "text": "Dulu desa ibu saya di Minahasa itu pakai rumbia semua sejuk."
+  },
+  {
+   "t": 7013.0,
+   "d": 4.0,
+   "text": "Sekarang seng seng."
+  },
+  {
+   "t": 7017.0,
+   "d": 5.0,
+   "text": "Jadi, Saudara-saudara, saya mengajak ini sangat penting."
+  },
+  {
+   "t": 7022.0,
+   "d": 6.0,
+   "text": "Turis dari luar untuk apa didatang melihat seng berkarat?"
+  },
+  {
+   "t": 7028.0,
+   "d": 18.0,
+   "text": "Karat itu lambang lambang degenerasi kita. Saya berharap dalam 2 3 tahun Indonesia tidak akan kelihatan karat."
+  },
+  {
+   "t": 7046.0,
+   "d": 8.0,
+   "text": "Karat adalah lambang degenerasi, bukan lambang kebangkitan."
+  },
+  {
+   "t": 7054.0,
+   "d": 8.0,
+   "text": "Indonesia bangkit, Indonesia harus kuat, Indonesia harus indah, rakyat kita harus bahagia."
+  },
+  {
+   "t": 7062.0,
+   "d": 9.0,
+   "text": "Saudara-saudara, saya kira ini dulu untuk tahap pertama."
+  },
+  {
+   "t": 7071.0,
+   "d": 5.0,
+   "text": "Waktu mungkin untuk isoma ya."
+  },
+  {
+   "t": 7076.0,
+   "d": 20.0,
+   "text": "Nanti kembali saya kasih beberapa pengarahan yang mungkin khusus untuk para pemerintah saja. Terima kasih. Untuk sementara saya break dulu."
+  },
+  {
+   "t": 7096.0,
+   "d": 7.0,
+   "text": "Saya sudah bicara tadi berapa lama ya? Hah? 2 jam ya."
+  },
+  {
+   "t": 7103.0,
+   "d": 31.0,
+   "text": "Iya. Tahap yang kedua ini tidak akan tidak akan 2 jam. Mudah-mudahan saya berusaha 1 jam lagi ya. Tapi sekarang kita break isomah kita bisa ee istirahat sebentar nanti kita kembali lagi mendagri yang atur ya. Mendagri ke mana nih?"
+  },
+  {
+   "t": 7134.0,
+   "d": 6.0,
+   "text": "Oh, sekarang saya harus buka ya. Saya buka."
+  },
+  {
+   "t": 7140.0,
+   "d": 33.0,
+   "text": "Oh, iya. Ini ada pakai apa? Oh."
+  },
+  {
+   "t": 7173.0,
+   "d": 24.0,
+   "text": "ya. Oke. Ee sebentar lagi saya akan resmi buka tapi ee oh ya ini juga dalam rangka Indonesia ASRI ya ee terusang aja saya minta kepada pemerintah ya tolong tertib iklan-iklan, spanduk-spanduk terlalu banyak."
+  },
+  {
+   "t": 7197.0,
+   "d": 9.0,
+   "text": "Kalau saya ke Balikpan dan saya ke Banjarmasin hampir enggak berbeda. Spanduk, spanduk, spanduk, spanduk."
+  },
+  {
+   "t": 7206.0,
+   "d": 6.0,
+   "text": "Kalau saya naik ke Hambalang, spanduk spanduk, spanduk."
+  },
+  {
+   "t": 7212.0,
+   "d": 8.0,
+   "text": "Ayam goreng pesan satu, dapat satu free."
+  },
+  {
+   "t": 7220.0,
+   "d": 8.0,
+   "text": "Kenapa harus besar-besar sih? Turis datang enggak mau lihat spanduk."
+  },
+  {
+   "t": 7228.0,
+   "d": 4.0,
+   "text": "Bogor itu dulu kota paling indah."
+  },
+  {
+   "t": 7232.0,
+   "d": 7.0,
+   "text": "Kota paling indah. Bung Karnoom lebih senang di Bogor daripada Jakarta. Dari dulu aku pengin tinggal di Bogor."
+  },
+  {
+   "t": 7239.0,
+   "d": 4.0,
+   "text": "Akhirnya jadi presiden ya tinggal di Bogor."
+  },
+  {
+   "t": 7243.0,
+   "d": 6.0,
+   "text": "Saudara-saudara terlalu banyak spanduk baliho, iklan."
+  },
+  {
+   "t": 7249.0,
+   "d": 4.0,
+   "text": "Tolong tolong ditertibkan. Ajak bicara."
+  },
+  {
+   "t": 7253.0,
+   "d": 49.0,
+   "text": "pengusaha Kadin HIPMI ya kan asosiasi pengusaha bicara sama mereka yuk bikinlah iklan apa jangan terlalu Iya kan orang ke Bali lihat waduh orang ke Bali ingin lihat Bali dia tidak ingin lihat Kentucky Fried Chicken besar-besar McDonald's ya jalan-jalan protokol ditertibkanlah ya kan ajak bicara baik-baik kalau kau mau buka bengkel apa bukalah bengkel tapi depannya ya sopan gitu ya."
+  },
+  {
+   "t": 7302.0,
+   "d": 4.0,
+   "text": "Ini ini untuk kita semua."
+  },
+  {
+   "t": 7306.0,
+   "d": 4.0,
+   "text": "Kabel-kabel listrik Swan. Sliwan, Sliwan."
+  },
+  {
+   "t": 7310.0,
+   "d": 16.0,
+   "text": "Ya, baik. Ini saya dapat apa? Pointers dari staf saya."
+  },
+  {
+   "t": 7326.0,
+   "d": 14.0,
+   "text": "Mohon izin, Pak. Wartawan masih di lokasi."
+  },
+  {
+   "t": 7340.0,
+   "d": 5.0,
+   "text": "supaya saya enggak enggak bicara macam-macam lah gitu."
+  },
+  {
+   "t": 7345.0,
+   "d": 5.0,
+   "text": "Kalau bicara Indonesia harus asri. Boleh kan? Boleh."
+  },
+  {
+   "t": 7350.0,
+   "d": 8.0,
+   "text": "Baik, terima kasih. Kita break dengan mengucap bismillahirrahmanirrahim."
+  },
+  {
+   "t": 7358.0,
+   "d": 25.0,
+   "text": "Pada pagi hari ini, Senin, 2 Februari 2026, saya Prabowo Subianto, Presiden Republik Indonesia dengan ini secara resmi saya nyatakan rapat koordinasi nasional pemerintah pusat dan daerah tahun 2026 secara resmi dibuka."
+  },
+  {
+   "t": 7383.0,
+   "d": 10.0,
+   "text": "[tepuk tangan] Terima kasih. [musik] Sampai ketemu pada sesi kedua selesai."
+  },
+  {
+   "t": 7393.0,
+   "d": 16.0,
+   "text": "Dengan [musik] demikian, Rakornas Pemerintah pusat dan daerah tahun 2026 secara resmi telah dibuka oleh Presiden Republik Indonesia."
+  },
+  {
+   "t": 7409.0,
+   "d": 3.0,
+   "text": "Pak"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
+}

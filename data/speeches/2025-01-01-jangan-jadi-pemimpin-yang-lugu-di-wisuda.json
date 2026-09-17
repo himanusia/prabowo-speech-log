@@ -1,0 +1,1221 @@
+{
+ "id": "2025-01-01-jangan-jadi-pemimpin-yang-lugu-di-wisuda",
+ "video_id": "b8c4jkzq7J0",
+ "date": "2025-10-18",
+ "date_precise": false,
+ "title": "[FULL] Prabowo: Jangan Jadi Pemimpin yang Lugu! | Pidato Lengkap di Wisuda UKRI 2025 #beritasatu",
+ "channel": "BeritaSatu",
+ "youtube_url": "https://www.youtube.com/watch?v=b8c4jkzq7J0",
+ "duration_s": 3102,
+ "duration_hms": "51:42",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 404,
+ "token_count": 3153,
+ "unique_word_count": 930,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "b8c4jkzq7J0",
+   "url": "https://www.youtube.com/watch?v=b8c4jkzq7J0",
+   "title": "[FULL] Prabowo: Jangan Jadi Pemimpin yang Lugu! | Pidato Lengkap di Wisuda UKRI 2025 #beritasatu",
+   "channel": "BeritaSatu",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 4,
+  "ekonomi": 10,
+  "pendidikan": 19,
+  "kesehatan_dan_gizi": 26,
+  "tata_kelola": 12,
+  "pertahanan_dan_keamanan": 4,
+  "nasional_dan_identitas": 84
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 4
+  },
+  "Kekuatan asing / pengkhianat": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 13
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 28.0,
+   "text": "[Tepuk tangan] Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 28.0,
+   "d": 8.0,
+   "text": "Asalamualaikum. warahmatullahi wabarakatuh. Waalaikumsalam warahmatullah. Selamat pagi."
+  },
+  {
+   "t": 36.0,
+   "d": 7.0,
+   "text": "Salam sejahtera bagi kita sekalian. Shalom. Salve. Om swastiastu."
+  },
+  {
+   "t": 43.0,
+   "d": 4.0,
+   "text": "Namo buddhaya. Salam kebajikan."
+  },
+  {
+   "t": 47.0,
+   "d": 16.0,
+   "text": "Yang saya hormati Rektor Universitas Kebangsaan Republik Indonesia Prof. Sufmi Dasko Ahmad beserta seluruh jajaran rektorat UKRI."
+  },
+  {
+   "t": 63.0,
+   "d": 20.0,
+   "text": "Tamu kehormatan kita, Ketua Badan Pemeriksa Keuangan RI, Dr. Ismayatun, para menteri, para wakil menteri, kepala badan, serta anggota merah putih yang hadir."
+  },
+  {
+   "t": 83.0,
+   "d": 6.0,
+   "text": "Gubernur Jawa Barat yang saya hormati beserta seluruh jajaran."
+  },
+  {
+   "t": 89.0,
+   "d": 60.0,
+   "text": "[Tepuk tangan] Saudara sekalian, Ketua Senat UKRI Prof. Sudrajatwandono, anggota Dewan Wali Amanah Ibu Bianti Ningsih Jwandono, Ibu Mariani Joadi Kusumo, para dosen, tenaga pengajar, civitas akademika UKRI, serta seluruh mahasiswa Universitas Kebangsaan RI yang hadir, juga tokoh tokoh-tokoh bangsa yang berkenan hadir hari ini, yang berada di Badan Pengurus Yayasan Pendidikan Kebangsaan dan Universitas Kebangsaan Republik Indonesia."
+  },
+  {
+   "t": 149.0,
+   "d": 10.0,
+   "text": "Hadir juga sebagai guru besar jenderal Polisi Pawirawan Muhammad Tito Karnavian."
+  },
+  {
+   "t": 159.0,
+   "d": 10.0,
+   "text": "Terima kasih kehormatan Saudara Fadli Zon yang juga kebetulan Menteri Kebudayaan."
+  },
+  {
+   "t": 169.0,
+   "d": 47.0,
+   "text": "Saudara Dadan Hindayana, Kepala Badan Gizi Nasional, Wakil Menteri Pendidikan Tinggi, Sains dan Teknologi Prof. Dr. Stella Kristi yang saya hormati Wakil Menteri Urusan Haji, Saudara Dahnil Anhar Simanjunta, Wakil Menteri UMKM, Saudara Helvi Yuni Moraza, Wakil Menteri Pertanian, Saudara Sudaryono, Menteri Sekretaris Negara, Saudara Prasetyo Hadi yang juga Wakil Ketua BPH H, YPKRI, Direktur Eksekutif"
+  },
+  {
+   "t": 216.0,
+   "d": 24.0,
+   "text": "Institut Kajian Strategis Ukri yang juga Menteri Luar Negeri, Saudara Sugiono, terutama seluruh mahasiswa baru Universitas Kebangsaan RI, para wisudawan dan wisudawati."
+  },
+  {
+   "t": 240.0,
+   "d": 10.0,
+   "text": "hari ini yang lulus dan akan dikukuhkan sebagai sarjana, terutama para orang tua yang hadir pada siang hari ini."
+  },
+  {
+   "t": 250.0,
+   "d": 21.0,
+   "text": "[Tepuk tangan] Pertama-tama tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan maha besar maha kuasa."
+  },
+  {
+   "t": 271.0,
+   "d": 30.0,
+   "text": "Bagi umat Islam Allah Subhanahu wa taala, kita bersyukur atas segala karunia, kesehatan, kedamaian yang masih diberikan kepada kita sehingga hari ini kita dapat hadir pada acara senat terbuka pengukuhan mahasiswa baru dan wisuda sarjana serta Dias natalis 2025 Universitas Kebangsaan Republik Indonesia."
+  },
+  {
+   "t": 301.0,
+   "d": 24.0,
+   "text": "Tentunya saya ucapkan terima kasih atas pelaksanaan acara ini yang tertib dan baik. Saya juga ingin menyampaikan penghargaan dan terima kasih saya sebesar-besarnya kepada Prof."
+  },
+  {
+   "t": 325.0,
+   "d": 3.0,
+   "text": "Dr."
+  },
+  {
+   "t": 328.0,
+   "d": 17.0,
+   "text": "Sufmidasko Ahmad di mana di bawah kepimpinan beliau perkembangan UKRI berjalan sangat pesat."
+  },
+  {
+   "t": 345.0,
+   "d": 22.0,
+   "text": "[Tepuk tangan] Seluruh kegiatan manusia itu terdiri dari tiga macam manusia."
+  },
+  {
+   "t": 367.0,
+   "d": 17.0,
+   "text": "Yang pertama para pemimpin, yang kedua para pengikut atau para peserta."
+  },
+  {
+   "t": 384.0,
+   "d": 14.0,
+   "text": "Yang ketiga yang harus dihindari mereka yang tidak mengerti apa peran mereka. Ah, ini yang ketiga ini yang saudara-saudara harus hindari."
+  },
+  {
+   "t": 398.0,
+   "d": 28.0,
+   "text": "Saudara harus berani jadi pemimpin yang baik atau pengikut yang baik, tapi jangan tidak mengerti peran saudara. Dan kadang-kadang peran itu berbeda pada saat yang beda. Ada saatnya menjadi pemimpin, ada saatnya pemimpin itu menjadi pengikut yang setia."
+  },
+  {
+   "t": 426.0,
+   "d": 12.0,
+   "text": "Jadi setiap kegiatan manusia itu keberhasilan dan kegagalan ditentukan juga oleh pemimpin."
+  },
+  {
+   "t": 438.0,
+   "d": 11.0,
+   "text": "Karena itu harus saya memberi penghargaan kepada kepimpinan Prof. Sufmi Daska Ahmad."
+  },
+  {
+   "t": 449.0,
+   "d": 13.0,
+   "text": "[Tepuk tangan] Beliau berhasil memimpin pengembangan universitas ini dengan baik."
+  },
+  {
+   "t": 462.0,
+   "d": 23.0,
+   "text": "Saudara-saudara sekalian, kunci daripada kepemimpinan yang baik yang bisa mengatasi kesulitan-kesulitan masyarakat sebenarnya tidak terlalu susah."
+  },
+  {
+   "t": 485.0,
+   "d": 13.0,
+   "text": "Sebenarnya yang saya lihat dan saya alami yang utama adalah menggunakan akal sehat."
+  },
+  {
+   "t": 498.0,
+   "d": 3.0,
+   "text": "Itu yang pertama."
+  },
+  {
+   "t": 501.0,
+   "d": 10.0,
+   "text": "Kedua, bertindak atas perhitungan yang teliti."
+  },
+  {
+   "t": 511.0,
+   "d": 14.0,
+   "text": "Ketiga, perhitungan yang teliti harus didasarkan atas kebenaran."
+  },
+  {
+   "t": 525.0,
+   "d": 14.0,
+   "text": "Kalau ini ditaati, tinggal yang terakhir adalah kepribadian, akhlak."
+  },
+  {
+   "t": 539.0,
+   "d": 19.0,
+   "text": "Pemimpin tadi mimpin dengan akal sehat, melakukan perhitungan yang cermat dan teliti. Ketiga, perhitungan di atas dasar kebenaran."
+  },
+  {
+   "t": 558.0,
+   "d": 14.0,
+   "text": "Dan ketiga, kepribadian yang jujur, kepribadian yang tidak korupsi."
+  },
+  {
+   "t": 572.0,
+   "d": 12.0,
+   "text": "[Tepuk tangan] Dengan dasar itu berhasil."
+  },
+  {
+   "t": 584.0,
+   "d": 34.0,
+   "text": "ini saya yakini dan ini saya kira seluruh bangsa melihat hari ini hampir 1 tahun saya memimpin pemerintah Republik Indonesia setelah saya menerima mandat dari rakyat Indonesia tanggal 20 Oktober 2024 berarti Kurang 2 hari ya."
+  },
+  {
+   "t": 618.0,
+   "d": 14.0,
+   "text": "Besok tanggal berapa? 20. Tanggal hari Senin ya. I hari Senin saya sudah 1 tahun memimpin."
+  },
+  {
+   "t": 632.0,
+   "d": 26.0,
+   "text": "[Tepuk tangan] Dan saya kira saudara-saudara, saya bisa katakan saya berani berdiri di hadapan seluruh rakyat Indonesia dengan percaya diri."
+  },
+  {
+   "t": 658.0,
+   "d": 15.0,
+   "text": "Karena kita telah buktikan kepada seluruh bangsa dan seluruh dunia bahwa kita dapat menghasilkan apa yang kita janjikan kepada rakyat."
+  },
+  {
+   "t": 673.0,
+   "d": 14.0,
+   "text": "[Tepuk tangan] Saudara-saudara sekalian, para wisudawan dan wisudawati."
+  },
+  {
+   "t": 687.0,
+   "d": 6.0,
+   "text": "perjalanan perjuangan hidupmu baru mulai."
+  },
+  {
+   "t": 693.0,
+   "d": 29.0,
+   "text": "Baru mulai. Ya, tadi saya senang ee pemberi pidato [Musik] menyampaikan bahwa kalian sebagai anak muda harus berani menatap masa depan dengan tantangannya bahwa hidup tidak gampang."
+  },
+  {
+   "t": 722.0,
+   "d": 15.0,
+   "text": "hidup penuh perjuangan, penuh tantangan, penuh kesulitan."
+  },
+  {
+   "t": 737.0,
+   "d": 9.0,
+   "text": "Tadi saya dengar ada kata-kata siap menghadapi kegagalan."
+  },
+  {
+   "t": 746.0,
+   "d": 11.0,
+   "text": "Kalau mau belajar bagaimana menghadapi kegagalan, saya kira perlu belajar dari Prabowo Subianto."
+  },
+  {
+   "t": 757.0,
+   "d": 22.0,
+   "text": "[Tepuk tangan] Jangan saudara lihat Prabowo Syanto sekarang. tadi apa ulang tahun ya?"
+  },
+  {
+   "t": 779.0,
+   "d": 9.0,
+   "text": "[Tepuk tangan] Jangan keras-keras."
+  },
+  {
+   "t": 788.0,
+   "d": 10.0,
+   "text": "Jadi kalau mau belajar menghadapi kegagalan, belajarlah dari Pak Prabowo Subianto."
+  },
+  {
+   "t": 798.0,
+   "d": 16.0,
+   "text": "Pak Prabowo Subianto itu berkali-kali gagal, berkali-kali jatuh, tapi Prabowo Subianto selalu berdiri kembali."
+  },
+  {
+   "t": 814.0,
+   "d": 16.0,
+   "text": "[Tepuk tangan] jatuh bangkit jatuh berdiri lagi. Itu baru pejuang jatuh."
+  },
+  {
+   "t": 830.0,
+   "d": 12.0,
+   "text": "Apalagi kalau anak laki ya kalau menghadapi kegagalan mama emak yang dicari."
+  },
+  {
+   "t": 842.0,
+   "d": 5.0,
+   "text": "Padahal kita sudah dibesarkan emak kita dari kecil bertahun-tahun."
+  },
+  {
+   "t": 847.0,
+   "d": 14.0,
+   "text": "Kita kok nyari lagi terus Ibu. Ah, itu peranannya Ibu. Terima kasih semua kepada ibu-ibu yang hadir di sini semuanya."
+  },
+  {
+   "t": 861.0,
+   "d": 24.0,
+   "text": "Bagaimana ajaran ustaz-ustaz kita? Surga berada di bawah telapak kaki ibu. Saya yakini itu karena ibu kita membesarkan kita tanpa tanpa harapan apa-apa. Bagaimana lagunya itu? Hanya memberi."
+  },
+  {
+   "t": 885.0,
+   "d": 5.0,
+   "text": "Iya kan? Tak harap kembali."
+  },
+  {
+   "t": 890.0,
+   "d": 11.0,
+   "text": "Tak harap kembali. Itu salah satu lagu favorit aku. Itu bisa nyanyi enggak, ya?"
+  },
+  {
+   "t": 901.0,
+   "d": 6.0,
+   "text": "nyanyi dulu."
+  },
+  {
+   "t": 907.0,
+   "d": 77.0,
+   "text": "kasih ibu supaya enggak ngantuk yang di belakang itu semuanya kasih iu sepanjang beta tak teringgal sepanjang hanya memberi tak harap kembali bagai sang menyindari dunia kasih-Mu kepada beta tak teringgas sepanjang masa hanya memberi tak harap kembali sang surya menyindari dunia."
+  },
+  {
+   "t": 984.0,
+   "d": 9.5,
+   "text": "[Musik] [Tepuk tangan] Terima kasih di hari seperti ini."
+  },
+  {
+   "t": 993.0,
+   "d": 7.0,
+   "text": "Bersyukur kepada Ibu juga kepada Bapak ya."
+  },
+  {
+   "t": 1000.0,
+   "d": 3.0,
+   "text": "Kalau enggak ada Bapak enggak ada kalian juga."
+  },
+  {
+   "t": 1003.0,
+   "d": 51.0,
+   "text": "Jadi inti yang ingin saya sampaikan ya yang saya jalankan ya hadapi masalah, hadapi tantangan. Kadang-kadang kalau kita berniat baik, kalau kita ingin berbuat yang benar, kalau kita ingin menegakkan kebenaran dan keadilan dan kejujuran, kita akan hadapi tantangan yang besar. Karena di dunia ini banyakbanyak banyak orang yang jahat, orang yang zalim, orang yang maling, yang perampok dan penindas itu"
+  },
+  {
+   "t": 1054.0,
+   "d": 19.0,
+   "text": "banyak. Jadi kalau kita mau menegakkan kebenaran, kita pasti akan menghadapi tantangan dan kesulitan. Tapi masalahnya adalah apa kita tunduk, apa kita menyerah, apa kita kalah, apa kita lari?"
+  },
+  {
+   "t": 1073.0,
+   "d": 15.0,
+   "text": "atau kita terus terus berjuang, terus berusaha untuk menegakkan kebenaran, keadilan, dan kejujuran."
+  },
+  {
+   "t": 1088.0,
+   "d": 6.0,
+   "text": "Saudara-saudara, ada yang bertanya ini Prabowo Subianto."
+  },
+  {
+   "t": 1094.0,
+   "d": 12.0,
+   "text": "Kenapa saya sudah ikut pemilihan umum lima kali, lima kali, empat kali kalah."
+  },
+  {
+   "t": 1106.0,
+   "d": 10.0,
+   "text": "Yang terakhir baru diberi kemenangan oleh yang maha kuasa."
+  },
+  {
+   "t": 1116.0,
+   "d": 3.0,
+   "text": "Tapi mungkin itulah kehendaknya."
+  },
+  {
+   "t": 1119.0,
+   "d": 16.0,
+   "text": "Dengan demikian mungkin saya ditempah, saya dicoba, saya diberi kesabaran, dan diberi pengetahuan, ilmu, pengalaman."
+  },
+  {
+   "t": 1135.0,
+   "d": 39.0,
+   "text": "sehingga sekarang kalau menghadapi penipuan-penipuan, kalau menghadapi upaya-upaya untuk merongrong dan terus menghambat atau terus merusak bangsa Indonesia, saya cepat menangkap, saya cepat mencium, saya cepat bisa mengambil kesimp Saudara-saudara sekalian, ini saya kira pesan yang ingin saya sampaikan."
+  },
+  {
+   "t": 1174.0,
+   "d": 9.0,
+   "text": "Pilih anak-anak muda ini harus pilih. Pilih jalan yang mana yang kau pilih."
+  },
+  {
+   "t": 1183.0,
+   "d": 7.0,
+   "text": "Jalan kebenaran penuh kesulitan."
+  },
+  {
+   "t": 1190.0,
+   "d": 7.0,
+   "text": "Jalan menegakkan keadilan."
+  },
+  {
+   "t": 1197.0,
+   "d": 10.0,
+   "text": "Jalan melawan angkara muruka, melawan kezaliman."
+  },
+  {
+   "t": 1207.0,
+   "d": 5.0,
+   "text": "Au cari jalan yang enak."
+  },
+  {
+   "t": 1212.0,
+   "d": 8.0,
+   "text": "Cari jalan yang bisa kaya sesingkat-singkatnya."
+  },
+  {
+   "t": 1220.0,
+   "d": 17.0,
+   "text": "kaya dengan cepat tapi dengan cara menipu, cara korupsi, cara mencuri, cara bohong, Saudara-saudara."
+  },
+  {
+   "t": 1237.0,
+   "d": 17.0,
+   "text": "Jadi, Saudara-saudara, saya berharap saudara akan memilih jalan yang benar. jalan menegakkan kebenaran, keadilan, dan kejujuran."
+  },
+  {
+   "t": 1254.0,
+   "d": 7.0,
+   "text": "Saudara-saudara, dengan demikian bangsa Indonesia kita akan bangkit dan akan kuat."
+  },
+  {
+   "t": 1261.0,
+   "d": 4.0,
+   "text": "Saya selalu suka dengan moto ini."
+  },
+  {
+   "t": 1265.0,
+   "d": 8.0,
+   "text": "Belajar untuk berbakti, raih ilmu untuk bangsa. Ilmu."
+  },
+  {
+   "t": 1273.0,
+   "d": 11.0,
+   "text": "[Tepuk tangan] Ilmu bukan untuk dirimu sendiri. Ya, belajar tidak boleh berhenti."
+  },
+  {
+   "t": 1284.0,
+   "d": 5.0,
+   "text": "Begitu saudara terima gelar, saudara sudah pintar. Tidak."
+  },
+  {
+   "t": 1289.0,
+   "d": 7.0,
+   "text": "Saudara terima gelar baru awal dari perjalanan yang jauh."
+  },
+  {
+   "t": 1296.0,
+   "d": 13.0,
+   "text": "Saya sampai sekarang masih mungkin 2 3 4 jam tiap hari saya belajar tiap hari."
+  },
+  {
+   "t": 1309.0,
+   "d": 7.0,
+   "text": "Boleh tanya ajudan saya, staf saya, saya tidur jam berapa malam?"
+  },
+  {
+   "t": 1316.0,
+   "d": 4.0,
+   "text": "2 jam paling sedikit."
+  },
+  {
+   "t": 1320.0,
+   "d": 23.0,
+   "text": "Saya baca dan sekarang ada alat yang luar biasa untuk anak-anak muda. Sekarang ada ada YouTube, ada internet ya. Zaman saya dulu gak ada."
+  },
+  {
+   "t": 1343.0,
+   "d": 9.0,
+   "text": "Ada chat GPT. W enak sekali kalian ya."
+  },
+  {
+   "t": 1352.0,
+   "d": 2.0,
+   "text": "Hah?"
+  },
+  {
+   "t": 1354.0,
+   "d": 6.0,
+   "text": "Tanya Om, tanya Pakd Google."
+  },
+  {
+   "t": 1360.0,
+   "d": 7.0,
+   "text": "Dulu enggak ada. Kita harus cari sendiri. Sekarang teknologi membantu manusia."
+  },
+  {
+   "t": 1367.0,
+   "d": 12.0,
+   "text": "Tapi teknologi bisa menghancurkan manusia dengan cepat, dengan seketika."
+  },
+  {
+   "t": 1379.0,
+   "d": 6.0,
+   "text": "Teknologi bagus, tapi teknologi juga bisa menyusahkan kita."
+  },
+  {
+   "t": 1385.0,
+   "d": 13.0,
+   "text": "Sekarang gampang bikin kebohongan, gampang menyebarkan kebohongan, gampang dengan AI."
+  },
+  {
+   "t": 1398.0,
+   "d": 5.0,
+   "text": "membuat seolah-olah benar padahal tidak benar."
+  },
+  {
+   "t": 1403.0,
+   "d": 12.0,
+   "text": "Contoh dibikin ee apa itu video-video klip Prabowo itu pintar nyanyi."
+  },
+  {
+   "t": 1415.0,
+   "d": 10.0,
+   "text": "Padahal Prabowo enggak bisa nyanyi tapi dibikin saya pintar nyanyi. Aku diam aja kalau gitu."
+  },
+  {
+   "t": 1425.0,
+   "d": 9.0,
+   "text": "Dibilang lagi dibikin Prabowo pidato dalam bahasa Mandarin. Luar biasa pidatonya."
+  },
+  {
+   "t": 1434.0,
+   "d": 4.0,
+   "text": "Tapi karena saya sedang kampanye, aku diam aja gitu."
+  },
+  {
+   "t": 1438.0,
+   "d": 5.0,
+   "text": "Dibikin Prabowo pintar pidato bahasa Arab."
+  },
+  {
+   "t": 1443.0,
+   "d": 9.0,
+   "text": "Karena aku waktu itu kampanye gua diam aja. Padahal itu salah. Ini saya mau cerita kepada saudara."
+  },
+  {
+   "t": 1452.0,
+   "d": 16.0,
+   "text": "Iya kan? Ada demo yang hadir 100 orang dibilang Rp50.000 Ibu pakai gambar-gambar enggak tahu dari tahun berapa ya. Ini berbahaya."
+  },
+  {
+   "t": 1468.0,
+   "d": 13.0,
+   "text": "Teknologi bisa bantu kita luar biasa dan kita tidak boleh takut teknologi. Tapi teknologi pun harus kita waspada. rakyat harus dikasih tahu."
+  },
+  {
+   "t": 1481.0,
+   "d": 13.0,
+   "text": "Tidak semua yang ada di YouTube, di sosmet itu benar dan baik. Ya. Dan ini sangat penting."
+  },
+  {
+   "t": 1494.0,
+   "d": 13.0,
+   "text": "Teknologi bisa menghilangkan kemiskinan dan kelaparan. Tapi kenapa masih banyak orang miskin dan banyak orang lapar?"
+  },
+  {
+   "t": 1507.0,
+   "d": 12.0,
+   "text": "Saudara-saudara sekalian, karena sering teknologi tidak dipakai untuk kebenaran."
+  },
+  {
+   "t": 1519.0,
+   "d": 7.0,
+   "text": "Dunia sekarang berada di titik-titik yang sangat berbahaya."
+  },
+  {
+   "t": 1526.0,
+   "d": 8.0,
+   "text": "Berapa negara di ujung perang? Bagaimana caranya kita harus mengurangi?"
+  },
+  {
+   "t": 1534.0,
+   "d": 4.0,
+   "text": "mengurangi bahaya tersebut."
+  },
+  {
+   "t": 1538.0,
+   "d": 26.0,
+   "text": "Saya pun sebagai Presiden Republik Indonesia, saya pun diminta untuk ikut berperan bagaimana caranya kita mengurangi kebencian, mengurangi kecurigaan, mengurangi fanatisme, mengurangi dogmatisme."
+  },
+  {
+   "t": 1564.0,
+   "d": 13.0,
+   "text": "Karena fanatisme, dogmatisme, kebencian, kecurigaan ini yang bisa menimbulkan perang."
+  },
+  {
+   "t": 1577.0,
+   "d": 6.0,
+   "text": "Perang antara negara, perang di dalam negara."
+  },
+  {
+   "t": 1583.0,
+   "d": 14.0,
+   "text": "Jadi, Saudara-saudara anak-anak muda, harapan kita waspada selalu menatap masa depan dengan berani, tapi juga dengan waspada."
+  },
+  {
+   "t": 1597.0,
+   "d": 18.0,
+   "text": "Waspada jangan mudah dibohongi. Karena ciri khas bangsa Indonesia adalah bangsa kita. bangsa yang terlalu ramah, terlalu baik."
+  },
+  {
+   "t": 1615.0,
+   "d": 2.0,
+   "text": "Lugu."
+  },
+  {
+   "t": 1617.0,
+   "d": 11.0,
+   "text": "Lugu ini oleh nenek moyang kita diberi pelajaran pemimpin tidak boleh lugu."
+  },
+  {
+   "t": 1628.0,
+   "d": 10.0,
+   "text": "Pemimpin ramah dan sopan tapi tidak boleh lugu. Lugu berarti gampang dibohongi."
+  },
+  {
+   "t": 1638.0,
+   "d": 15.0,
+   "text": "bangsa Indonesia menurut saya sudah lama dan terlalu sering kita dibohongi sehingga kekayaan kita banyak yang dicuri."
+  },
+  {
+   "t": 1653.0,
+   "d": 3.0,
+   "text": "kekayaan bangsa Indonesia."
+  },
+  {
+   "t": 1656.0,
+   "d": 18.0,
+   "text": "Banyak yang tidak bisa kita manfaatkan karena diselewengkan, karena dicuri, karena diselundupkan."
+  },
+  {
+   "t": 1674.0,
+   "d": 9.0,
+   "text": "Ini yang saya hadapi. Ini tugas saya dan pemerintah saya."
+  },
+  {
+   "t": 1683.0,
+   "d": 22.0,
+   "text": "Dan ini pekerjaan kita semua. Saya hanya sebagai ujung tombak karena saya di percaya dipilih oleh rakyat Indonesia untuk memimpin pemerintah dan negara Indonesia sampai dengan tahun 202."
+  },
+  {
+   "t": 1705.0,
+   "d": 15.0,
+   "text": "Saya menyampaikan ini di hari wisuda, Saudara-saudara untuk menyampaikan sesungguhnya bangsa Indonesia sangat kaya."
+  },
+  {
+   "t": 1720.0,
+   "d": 7.0,
+   "text": "Masa depan kalian cukup cerah."
+  },
+  {
+   "t": 1727.0,
+   "d": 22.0,
+   "text": "Asal asal pemimpin-pemimpin yang sekarang ada dan pemimpin-pemimpin yang akan datang waspada, pintar, pandai, dan tidak mudah dibohongi."
+  },
+  {
+   "t": 1749.0,
+   "d": 27.0,
+   "text": "[Tepuk tangan] Ini pidato bagus sekali dibuat ya, banyak sekali. Tapi saya lebih baik saya bicara langsung sebagai orang tuamu dari hati saya."
+  },
+  {
+   "t": 1776.0,
+   "d": 11.0,
+   "text": "Yang wisudawan udah saya kira sudah bosan ya kan dapat pelajaran angkaangkaangka ya kan."
+  },
+  {
+   "t": 1787.0,
+   "d": 8.0,
+   "text": "Sekarang saudara mau cepat selesai acara ini ya kan? Benar. Benar kan?"
+  },
+  {
+   "t": 1795.0,
+   "d": 5.0,
+   "text": "Benar. Mau cepat ketemu orang tua. Betul. Betul."
+  },
+  {
+   "t": 1800.0,
+   "d": 5.0,
+   "text": "Baik, kalau demikian saya akhiri sambutan saya."
+  },
+  {
+   "t": 1805.0,
+   "d": 10.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Hah, katanya mau cepat selesai."
+  },
+  {
+   "t": 1815.0,
+   "d": 7.0,
+   "text": "Lanjut. Panitia berapa lama saya dikasih waktu?"
+  },
+  {
+   "t": 1822.0,
+   "d": 5.0,
+   "text": "Hah? Boleh, Pak. Ya, boleh dong. Gue presiden kok."
+  },
+  {
+   "t": 1827.0,
+   "d": 21.0,
+   "text": "[Tepuk tangan] Saya hanya ngetes kalian itu gini-gini presiden loh, Saudara-saudara."
+  },
+  {
+   "t": 1848.0,
+   "d": 10.0,
+   "text": "Jadi, Saudara-saudara saya sudah lihat angka-angka yang benar."
+  },
+  {
+   "t": 1858.0,
+   "d": 13.0,
+   "text": "Kekayaan kita luar biasa. Tapi sekarang mudah-mudahan kita sebagai bangsa akan bersatu."
+  },
+  {
+   "t": 1871.0,
+   "d": 7.0,
+   "text": "Sama-sama kita sekarang harus menjaga dan mengelola kekayaan kita."
+  },
+  {
+   "t": 1878.0,
+   "d": 4.0,
+   "text": "Saudara-saudara, berbeda tidak masalah."
+  },
+  {
+   "t": 1882.0,
+   "d": 16.0,
+   "text": "di semua usaha silakan ya kita moto kita pun bineka tunggal ika berbeda. Silakan dalam politik berbeda. Tidak ada masalah."
+  },
+  {
+   "t": 1898.0,
+   "d": 9.0,
+   "text": "Ada yang partai A B C D tapi tidak boleh saling menjegal, tidak boleh gontok-gontokan."
+  },
+  {
+   "t": 1907.0,
+   "d": 12.0,
+   "text": "[Tepuk tangan] Budaya Indonesia, demokrasi Indonesia adalah demokrasi kekeluargaan."
+  },
+  {
+   "t": 1919.0,
+   "d": 3.0,
+   "text": "Ekonomi Indonesia adalah ekonomi kekeluargaan."
+  },
+  {
+   "t": 1922.0,
+   "d": 11.0,
+   "text": "Orang-orang yang menghasut sungguh-sungguh mereka adalah di pihak yang salah."
+  },
+  {
+   "t": 1933.0,
+   "d": 9.0,
+   "text": "Mereka adalah penuh dengan ketidakbaikan. Kita tidak boleh menghasut."
+  },
+  {
+   "t": 1942.0,
+   "d": 6.0,
+   "text": "Kita harus bekerja sama seperti tim sepak bola."
+  },
+  {
+   "t": 1948.0,
+   "d": 9.0,
+   "text": "Tidak mungkin satu tim bisa masukin gol kalau tidak kerja sama. Tidak mungkin."
+  },
+  {
+   "t": 1957.0,
+   "d": 23.0,
+   "text": "Bangsa tidak mungkin makmur kalau pimpinannya gontok-gontokan. Kalau pimpinannya karena ambisi ingin berkuasa, menjelek-jelekkan, menghasut, menimbulkan ketakutan, menurunkan optimisme."
+  },
+  {
+   "t": 1980.0,
+   "d": 25.0,
+   "text": "Saya lihat sering podcast apa sekarang podcast ya banyak orang pintar sekarang ya. Pintar banget itu. Ada yang lebih tahu apa yang dipikirkan Prabowo dari Prabowo sendiri."
+  },
+  {
+   "t": 2005.0,
+   "d": 7.0,
+   "text": "Tapi yang paling sedih saya kalau mereka itu menjelekkan bangsa sendiri."
+  },
+  {
+   "t": 2012.0,
+   "d": 4.0,
+   "text": "ini ada inilah itulah itu. Kita tahu semua masalah Indonesia."
+  },
+  {
+   "t": 2016.0,
+   "d": 10.0,
+   "text": "Kita tahu kita butuh lapan kerja."
+  },
+  {
+   "t": 2026.0,
+   "d": 12.0,
+   "text": "Kita mengerti bagaimana kita mau punya lapangan kerja yang banyak kalau ekonomi tidak tumbuh dengan cepat."
+  },
+  {
+   "t": 2038.0,
+   "d": 36.0,
+   "text": "Bagaimana ekonomi mau tumbuh dengan cepat kalau kita ribut di antara pemimpin, saling jelek-jelekin, saling menimbulkan kebencian, mau bikin kerusuhan, bakar katanya katanya aktivis demokrasi, tapi membakar lembaga-lembaga demokrasi. membakar gedung DPR yang dibayar dengan uang rakyat."
+  },
+  {
+   "t": 2074.0,
+   "d": 16.0,
+   "text": "Yang dibayar dengan uang rakyat merusak terminal bus. Yang pakai bus itu orang yang enggak punya mobil, Saudara-saudara."
+  },
+  {
+   "t": 2090.0,
+   "d": 17.0,
+   "text": "Jadi, tapi kita bersyukur rakyat mengerti rakyat tidak akan terpengaruh. Saya yakin itu."
+  },
+  {
+   "t": 2107.0,
+   "d": 7.0,
+   "text": "Kita berada di jalan yang benar. Kita mendapat mandat dari rakyat."
+  },
+  {
+   "t": 2114.0,
+   "d": 22.0,
+   "text": "Dan saya bersama pemerintah saya dan semua koalisi saya dengan semua ormas-ormas yang mendukung saya, kita tidak akan ragu-ragu melaksanakan tugas kita untuk rakyat dan bangsa Indonesia."
+  },
+  {
+   "t": 2136.0,
+   "d": 13.0,
+   "text": "Hari ini makan bergizi sudah mencapai 36,2 juta penerimaan manfaat."
+  },
+  {
+   "t": 2149.0,
+   "d": 14.0,
+   "text": "Artinya bangsa Indonesia, artinya negaramu, pemerintahmu sekarang mampu memberi makan."
+  },
+  {
+   "t": 2163.0,
+   "d": 17.0,
+   "text": "kepada tujuh Singapura tiap hari 36,2 juta."
+  },
+  {
+   "t": 2180.0,
+   "d": 9.0,
+   "text": "12.000 2000 12.20 205 dapur."
+  },
+  {
+   "t": 2189.0,
+   "d": 6.0,
+   "text": "Masing-masing dapur mempekerjakan 50 orang."
+  },
+  {
+   "t": 2195.0,
+   "d": 10.0,
+   "text": "Masing-masing dapur menimbulkan 15 supplier makanan di desa itu."
+  },
+  {
+   "t": 2205.0,
+   "d": 11.0,
+   "text": "Masing-masing supplier mempekerjakan 5 sampai 10 pekerja, petani dan sebagainya."
+  },
+  {
+   "t": 2216.0,
+   "d": 15.0,
+   "text": "Saudara-saudara, ini prestasi yang tidak sedikit, tidak kecil, dan ini kita dibicarakan di dunia internasional."
+  },
+  {
+   "t": 2231.0,
+   "d": 16.0,
+   "text": "[Tepuk tangan] Seminggu yang lalu saya menerima rombongan dari Rockefeller Institute."
+  },
+  {
+   "t": 2247.0,
+   "d": 14.0,
+   "text": "Rockefeller Institute yang sudah bekerja 100 tahun di bidang pangan, di bidang program anti kelaparan dan anti kemiskinan."
+  },
+  {
+   "t": 2261.0,
+   "d": 12.0,
+   "text": "dan dia mengatakan program yang sedang dijalankan oleh Indonesia ini menjadi perhatian seluruh dunia."
+  },
+  {
+   "t": 2273.0,
+   "d": 10.0,
+   "text": "Waktu kita mulai program MBG ini baru 77 negara yang melaksanakan."
+  },
+  {
+   "t": 2283.0,
+   "d": 16.0,
+   "text": "Kita waktu itu kalau tidak salah negara ke-78 atau ke-79. Sekarang sudah ada 100 12 negara dan sebagian besar ikut contoh kita."
+  },
+  {
+   "t": 2299.0,
+   "d": 19.0,
+   "text": "[Tepuk tangan] Kita berani melakukan dan ada beberapa orang pintar, beberapa saja orang pintar atau orang yang menganggap dirinya pintar ya kan."
+  },
+  {
+   "t": 2318.0,
+   "d": 26.0,
+   "text": "atau mengangkat dirinya orang paling pintar di Indonesia yang selalu nyinyir apa nyinyir ya selalu mengejek program ini dan selalu mengangkat-angkat kesulitan atau kesalahan."
+  },
+  {
+   "t": 2344.0,
+   "d": 6.0,
+   "text": "Memang program ini tidak sempurna."
+  },
+  {
+   "t": 2350.0,
+   "d": 17.0,
+   "text": "Dalam pelaksanaan sampai sekarang ada beberapa ribu anak yang sakit perut, keracunan makan, tapi yang dibesarkan adalah keracunan."
+  },
+  {
+   "t": 2367.0,
+   "d": 6.0,
+   "text": "Seolah-olah program ini harus dihentikan, Saudara-saudara."
+  },
+  {
+   "t": 2373.0,
+   "d": 22.0,
+   "text": "yang kita tadi sampaikan adalah 36,2 juta penerima manfaat sampai hari ini mungkin sudah lebih 1,3 1,4 miliar porsi makanan yang diberikan 1 kom 3 ya berapa?"
+  },
+  {
+   "t": 2395.0,
+   "d": 6.0,
+   "text": "1,4 miliar porsi yang sudah dibagikan."
+  },
+  {
+   "t": 2401.0,
+   "d": 9.0,
+   "text": "[Tepuk tangan] yang keracunan makan 8.000 kurang lebih. Benar, Pak Dadan."
+  },
+  {
+   "t": 2410.0,
+   "d": 12.0,
+   "text": "Jadi kalau diambil statistik adalah 0,00 7 atau 0,008."
+  },
+  {
+   "t": 2422.0,
+   "d": 13.0,
+   "text": "Artinya program ini 99,99% [Musik] berhasil."
+  },
+  {
+   "t": 2435.0,
+   "d": 11.0,
+   "text": "Jadi di mana ada usaha manusia yang 99,99% berhasil dibilang gagal."
+  },
+  {
+   "t": 2446.0,
+   "d": 42.0,
+   "text": "Tapi kita tidak mau ada satu pun, tidak boleh ada satuun anak yang sakit. Mungkin karena makanan kurang bagus, kurang bersih dan sebagainya. Tapi kalau 1,4 miliar dibagi 8.000, Ibu saya kira ini masih kalau dalam ilmu pengetahuan, dalam sains ini masih dalam koridor katakanlah ee corridor of error ya. Tapi kita mau zero error, kita mau zero defect."
+  },
+  {
+   "t": 2488.0,
+   "d": 24.0,
+   "text": "Walaupun sangat sulit, tapi kita harus kita sudah perintahkan semua dapur harus punya alat-alat yang terbaik untuk membersihkan dan kita akan sempurnakan terus. Dan juga kita minta semua guru untuk anak-anak sebelum makan cuci tangan yang benar."
+  },
+  {
+   "t": 2512.0,
+   "d": 16.0,
+   "text": "Kalau perlu harus diajarkan bagaimana makan pakai sendok untuk mencegah kalau virus bakteri bisa dari mana saja."
+  },
+  {
+   "t": 2528.0,
+   "d": 27.0,
+   "text": "Ini saya highlight ini karena ini sangat penting. Kita ini dianggap penjuru, dianggap contoh. Selain Brazil, India, Indonesia dianggap yang paling berani dan kita sekarang dianggap ia salah satu yang paling cepat mencapai 36 juta penerimaan manfaat dalam waktu 1 tahun."
+  },
+  {
+   "t": 2555.0,
+   "d": 33.0,
+   "text": "[Tepuk tangan] Brazil membutuhkan 11 tahun untuk mencapai 40 juta kita lakukan dalam 1 tahun. Ini suatu prestasi yang saya anggap harus kita akui. Dan untuk itu saya terima kasih hadir di sini Kepala Badan Gizi Nasional Prof. Dadan Hindayana, profesor dari IPB."
+  },
+  {
+   "t": 2588.0,
+   "d": 6.0,
+   "text": "Jadi, Saudara-saudara leadership pemimpin."
+  },
+  {
+   "t": 2594.0,
+   "d": 7.0,
+   "text": "Dan saya mau kasih tahu, saya kira harus saya kasih tahu karena ini kebenaran."
+  },
+  {
+   "t": 2601.0,
+   "d": 9.0,
+   "text": "Beliau saya beri anggaran 100 triliun."
+  },
+  {
+   "t": 2610.0,
+   "d": 9.0,
+   "text": "[Tepuk tangan] Jangan terlalu cepat tepuk tangan."
+  },
+  {
+   "t": 2619.0,
+   "d": 49.0,
+   "text": "pertama anggarannya di awal tahun 2024 eh 2025 adalah 71 triliun yang kita rencanakan dari penghematan efisiensi yang saya dibantu oleh menteri Menteri-menteri dan tim saya kita bisa kita bisa efisienkan, kita coret yang enggak perlu jalan-jalan ke luar negeri macam-macam ini ya kan perayaan ini, perayaan itu."
+  },
+  {
+   "t": 2668.0,
+   "d": 13.0,
+   "text": "Saya kira tiap kementerian gak perlulah bikin upacara perayaan ulang tahun kementerian cukup sederhana saja. Kita bisa menghemat cukup banyak."
+  },
+  {
+   "t": 2681.0,
+   "d": 20.0,
+   "text": "Dari penghematan itu kita bisa menghemat sekitar 300 triliun dan 100 triliun saya tambahkan e dari 71 triliun saya tambahkan 100 triliun."
+  },
+  {
+   "t": 2701.0,
+   "d": 11.0,
+   "text": "Tapi dalam perjalanan karena memang tidak gampang membangun 30.000 1000 dapur dalam 1 tahun."
+  },
+  {
+   "t": 2712.0,
+   "d": 31.0,
+   "text": "Beliau mengatakan, \"Pak, sampai akhir tahun 2000 25 ini sesungguhnya kami tidak perlu seluruhnya sehingga beliau kembalikan kepada pemerintah pusat ya kepada saya beliau kembalikan 70 triliun.\" 70 triliun beliau kembalikan."
+  },
+  {
+   "t": 2743.0,
+   "d": 6.0,
+   "text": "Ini saya kira dalam sejarah Republik Indonesia hampir enggak pernah terjadi."
+  },
+  {
+   "t": 2749.0,
+   "d": 5.0,
+   "text": "Pejabat mengembalikan uang."
+  },
+  {
+   "t": 2754.0,
+   "d": 39.0,
+   "text": "Biasanya sudah mulai November pejabat menghabis-habiskan uang mencari kegiatan untuk anggaran dihabiskan. Beliau bilang, beliau kembalikan 70 triliun [Tepuk tangan] sehingga 70 triliun ini kita bisa banyak kita gunakan untuk bantu orang yang susah, untuk bantu desa-desa, bantu nelayan, bantu semua yang membutuhkan."
+  },
+  {
+   "t": 2793.0,
+   "d": 5.0,
+   "text": "Jadi saya kira Pak Dadan ini perlu kita hormati sebagai seorang patriot."
+  },
+  {
+   "t": 2798.0,
+   "d": 15.0,
+   "text": "[Tepuk tangan] 70 triliun itu ya itu 4 miliar dolar itu jarang terjadi menurut saya."
+  },
+  {
+   "t": 2813.0,
+   "d": 6.0,
+   "text": "Karena itu anak-anak muda, saya optimis."
+  },
+  {
+   "t": 2819.0,
+   "d": 7.0,
+   "text": "Kalau saya optimis, kalian harus lebih optimis lagi."
+  },
+  {
+   "t": 2826.0,
+   "d": 22.0,
+   "text": "Kalau ada pemimpin-pemimpin seperti Profesor Dadan ini yang tidak mau akal-akalan, beliau bisa aja sudah ada anggarannya, beliau panggil nanti tim beliau panggil anak buahnya. Ayo bikin bikin proyek, bikin proyek, bikin proyek."
+  },
+  {
+   "t": 2848.0,
+   "d": 14.0,
+   "text": "Tidak. Beliau punya tanggung jawab kepada bangsa, negara dan rakyat Indonesia. Kembalikan saya. Terima kasih. Kaget saya. Oh, makanya Presiden sekarang ini agak gagah."
+  },
+  {
+   "t": 2862.0,
+   "d": 14.0,
+   "text": "[Tepuk tangan] Boleh tanya menteri-menteri dan anak buah saya. Kadang-kadang mereka minta, \"Kami punuh anggaran ini, Pak.\" Berapa kau butuh?"
+  },
+  {
+   "t": 2876.0,
+   "d": 11.0,
+   "text": "Saya butuh 5T, saya kasih 10. Bayangkan kapan ada presiden kayak begitu itu?"
+  },
+  {
+   "t": 2887.0,
+   "d": 4.0,
+   "text": "Karena anak buah saya hebat-hebat ya."
+  },
+  {
+   "t": 2891.0,
+   "d": 15.0,
+   "text": "Kalau ada satu dua nakal saya peringati ya kan? Satu kali peringatan masih masih nakal."
+  },
+  {
+   "t": 2906.0,
+   "d": 8.0,
+   "text": "masih enggak mau dengar. Dua kali peringatan, tiga kali apa boleh buat?"
+  },
+  {
+   "t": 2914.0,
+   "d": 4.0,
+   "text": "Resuffel harus diganti."
+  },
+  {
+   "t": 2918.0,
+   "d": 8.0,
+   "text": "Karena demi negara bangsa dan rakyat tidak boleh ada rasa kasihan."
+  },
+  {
+   "t": 2926.0,
+   "d": 2.0,
+   "text": "Yang kasihan rakyat Indonesia."
+  },
+  {
+   "t": 2928.0,
+   "d": 13.0,
+   "text": "[Tepuk tangan] Saya enggak apa-apa dibenci asal rakyat saya tidak benci saya."
+  },
+  {
+   "t": 2941.0,
+   "d": 16.0,
+   "text": "Kalau saya dibenci oleh maling-maling koruptor, manipulator, penipu-penipu yang serakah, enggak apa-apa, enggak ada urusan. Saya dikasih peringatan, Pak. Hati-hati loh, Pak."
+  },
+  {
+   "t": 2957.0,
+   "d": 4.0,
+   "text": "Mereka uangnya banyak."
+  },
+  {
+   "t": 2961.0,
+   "d": 9.0,
+   "text": "Mereka bisa bayar demo. Enggak ada urusan. Yang penting rakyat Indonesia mendukung saya. Saya tidak ragu-ragu."
+  },
+  {
+   "t": 2970.0,
+   "d": 7.0,
+   "text": "Saya tidak ragu-ragu. Saya akan hadapi koruptor-koruptor dan maling-maling. Saya hadapi bersama saudara-saudara."
+  },
+  {
+   "t": 2977.0,
+   "d": 7.0,
+   "text": "Saya yakin. Saya yakin rakyat Indonesia di belakang saya. Saya percaya itu."
+  },
+  {
+   "t": 2984.0,
+   "d": 14.0,
+   "text": "[Tepuk tangan] Saya kira cukup ya. masih 3 4 5 6."
+  },
+  {
+   "t": 2998.0,
+   "d": 9.0,
+   "text": "Ada 13 paragraf lagi. Tapi sudah saya kira intinya sudah kalian mengerti."
+  },
+  {
+   "t": 3007.0,
+   "d": 1.0,
+   "text": "Semangat."
+  },
+  {
+   "t": 3008.0,
+   "d": 2.0,
+   "text": "Semangat optimis."
+  },
+  {
+   "t": 3010.0,
+   "d": 6.0,
+   "text": "Optimis milih jalan yang benar."
+  },
+  {
+   "t": 3016.0,
+   "d": 21.0,
+   "text": "membela kebenaran, keadilan, kejujuran, jadi pemimpin yang tidak akan korup, setia kepada rakyat, setia kepada bangsa, tidak mau jadi antek bangsa lain."
+  },
+  {
+   "t": 3037.0,
+   "d": 1.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 3038.0,
+   "d": 17.0,
+   "text": "[Tepuk tangan] Ingat, belajar untuk berbakti, raih ilmu untuk bangsa."
+  },
+  {
+   "t": 3055.0,
+   "d": 3.0,
+   "text": "Mengabdi kepada bangsa dan negara."
+  },
+  {
+   "t": 3058.0,
+   "d": 5.0,
+   "text": "Kalau ragu-ragu, selalu membela rakyat, Saudara-saudara sekalian."
+  },
+  {
+   "t": 3063.0,
+   "d": 9.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian."
+  },
+  {
+   "t": 3072.0,
+   "d": 17.0,
+   "text": "Shalom salve om santi santi santi om namo budhaya. Salam kebajikan merdeka merdeka merdeka terima kasih selamat berjuang."
+  },
+  {
+   "t": 3089.0,
+   "d": 7.0,
+   "text": "Terima kasih pimpinan Universitas Kebangsaan."
+  },
+  {
+   "t": 3096.0,
+   "d": 3.0,
+   "text": "Luar biasa pekerjaan kalian. Terima kasih."
+  },
+  {
+   "t": 3099.0,
+   "d": 3.0,
+   "text": "[Tepuk tangan]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
+}

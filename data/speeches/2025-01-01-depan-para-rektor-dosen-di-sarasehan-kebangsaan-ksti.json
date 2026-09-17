@@ -1,0 +1,595 @@
+{
+ "id": "2025-01-01-depan-para-rektor-dosen-di-sarasehan-kebangsaan-ksti",
+ "video_id": "GZT7unmONI8",
+ "date": "2026-06-26",
+ "date_precise": false,
+ "title": "[FULL] Pidato Presiden Prabowo Depan Para Rektor-Dosen di Sarasehan Kebangsaan KSTI 2026",
+ "channel": "SUARANTBcom",
+ "youtube_url": "https://www.youtube.com/watch?v=GZT7unmONI8",
+ "duration_s": 1673,
+ "duration_hms": "27:53",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 220,
+ "token_count": 1680,
+ "unique_word_count": 629,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "GZT7unmONI8",
+   "url": "https://www.youtube.com/watch?v=GZT7unmONI8",
+   "title": "[FULL] Pidato Presiden Prabowo Depan Para Rektor-Dosen di Sarasehan Kebangsaan KSTI 2026",
+   "channel": "SUARANTBcom",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 3,
+  "pendidikan": 24,
+  "kesehatan_dan_gizi": 5,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 10,
+  "nasional_dan_identitas": 58
+ },
+ "policy_signals": {
+  "Korupsi dan kebocoran": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 21.0,
+   "text": "Hadirin yang berbahagia, mari kita simak bersama sambutan Presiden Republik Indonesia yang dilanjutkan dengan penekanan tombol sirene sebagai tanda peresmian pembukaan sarasean kebangsaan sekaligus mengawali rangkaian Konvensi Sains Teknologi dan Industri Indonesia 2026."
+  },
+  {
+   "t": 21.0,
+   "d": 18.0,
+   "text": "[tepuk tangan] Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 39.0,
+   "d": 8.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Selamat sore."
+  },
+  {
+   "t": 47.0,
+   "d": 4.0,
+   "text": "Salam sejahtera bagi kita sekalian."
+  },
+  {
+   "t": 51.0,
+   "d": 7.5,
+   "text": "[berdehem] Shalom. Salve. Om swastiastu. Namo buddhaya."
+  },
+  {
+   "t": 58.0,
+   "d": 13.0,
+   "text": "Salam kebajikan. [berdehem] Yang saya hormati Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka."
+  },
+  {
+   "t": 71.0,
+   "d": 10.0,
+   "text": "Yang saya hormati Menteri Pendidikan Tinggi, Sains dan Teknologi sebagai penyelenggara."
+  },
+  {
+   "t": 81.0,
+   "d": 5.0,
+   "text": "Prof. Brian Yuliarto."
+  },
+  {
+   "t": 86.0,
+   "d": 45.0,
+   "text": "Yang saya hormati Ketua Majelis Rektor Perguruan Tinggi Negeri Indonesia yang sekaligus adalah Rektor Universitas Negeri Gorontalo Prof. Dr. Ir. Edward Wolok, para menteri koordinator, para menteri, para ee kepala badan, Jaksa Agung, Panglima TNI, Kapolri, dan [berdehem] para wakil menteri, seluruh anggota Kabinet Merah Putih yang saya hormati."
+  },
+  {
+   "t": 131.0,
+   "d": 34.0,
+   "text": "Yang saya hormati para rektor, para guru besar, [berdehem] para direktur perguruan tinggi, Direktur Politeknik, Pimpinan Lembaga Layanan Pendidikan Tinggi, para dekan, para dosen, seluruh civitas akad akademika dari perguruan tinggi negeri dan swasta di Indonesia."
+  },
+  {
+   "t": 165.0,
+   "d": 9.0,
+   "text": "Para hadirin, tamu undangan, [berdehem] serta rekan-rekan pers dan media yang hadir."
+  },
+  {
+   "t": 174.0,
+   "d": 11.0,
+   "text": "[menghela napas] Saya minta maaf saya tidak sebut satu persatu Menteri Kabinet Merah Putih yang hadir."
+  },
+  {
+   "t": 185.0,
+   "d": 30.0,
+   "text": "tanpa mengurangi rasa hormat juga [berdehem] para rektor universitas, para guru besar, saya juga minta maaf karena ee cukup banyak [berdehem] rektornya saja di sini."
+  },
+  {
+   "t": 215.0,
+   "d": 6.0,
+   "text": "rektor dan pimpinan 261."
+  },
+  {
+   "t": 221.0,
+   "d": 12.0,
+   "text": "[berdehem] Jadi kalau saya minta maaf kalau saya sebut satu-satu [berdehem] saya dimarahin oleh panitia."
+  },
+  {
+   "t": 233.0,
+   "d": 17.0,
+   "text": "Tapi tentunya ini adalah sebuah kehormatan besar bagi saya untuk bicara di hadapan begitu banyak guru-guru besar."
+  },
+  {
+   "t": 250.0,
+   "d": 13.0,
+   "text": "Saya selalu berpendapat bahwa para guru besar adalah orang-orang yang terpintar dari [berdehem] sebuah negara."
+  },
+  {
+   "t": 263.0,
+   "d": 36.0,
+   "text": "Jadi kalau negara mau bangkit, [berdehem] negara mau maju, memang harus dimanfaatkan atau di gerakkan potensi dan kemampuan dari kampus-kampus dari universitas."
+  },
+  {
+   "t": 299.0,
+   "d": 22.0,
+   "text": "Saudara-saudara sekalian, tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Maha Besar, Tuhan Maha Kuasa, bagi umat Islam Allah Subhanahu wa taala."
+  },
+  {
+   "t": 321.0,
+   "d": 14.0,
+   "text": "yang memiliki sekalian alam. [berdehem] Hanya kepadanyaalah kita berdoa dan hanya kepadanyaalah kita memohon pertolongan."
+  },
+  {
+   "t": 335.0,
+   "d": 15.0,
+   "text": "Kita bersyukur atas segala karunia, atas segala berkah dan kebaikan yang diberikan kepada bangsa kita."
+  },
+  {
+   "t": 350.0,
+   "d": 21.0,
+   "text": "Kita masih menikmati keadaan damai di tengah dunia yang penuh perang, pertikaian, kebencian, permusuhan."
+  },
+  {
+   "t": 371.0,
+   "d": 34.0,
+   "text": "Kita bersyukur atas kesehatan dan nafas yang masih diberikan kepada kita sehingga hari ini kita bisa hadir pada acara sarasehan kebangsaan dengan tema Strategi Kemandirian Ekonomi dan Kesejahteraan Indonesia dalam rangka konvensi [berdehem] Sains dan Teknologi Indonesia."
+  },
+  {
+   "t": 405.0,
+   "d": 16.0,
+   "text": "Ini adalah kehormatan yang besar bagi saya untuk bisa bertemu Bapak-bapak, Ibu-ibu sekalian."
+  },
+  {
+   "t": 421.0,
+   "d": 21.0,
+   "text": "Saya pernah bertatap muka dengan para rektor dari seluruh Indonesia dan ini adalah keempat kalinya saya sebagai Presiden Republik Indonesia."
+  },
+  {
+   "t": 442.0,
+   "d": 4.0,
+   "text": "Sebagai Presiden Republik Indonesia ini keempat kalinya."
+  },
+  {
+   "t": 446.0,
+   "d": 13.0,
+   "text": "Dua kali di Istana Merdeka, satu kali di ITB."
+  },
+  {
+   "t": 459.0,
+   "d": 18.0,
+   "text": "Saudara-saudara, [berdehem] Saudara-saudara, saya katakan tadi bukan basa-basi, memang kenyataan demikian."
+  },
+  {
+   "t": 477.0,
+   "d": 16.0,
+   "text": "Saudara-saudara yang menjadi guru besar adalah memang orang-orang terpintar yang dimiliki bangsa Indonesia."
+  },
+  {
+   "t": 493.0,
+   "d": 36.0,
+   "text": "Karena itu setiap inovasi, setiap perubahan, setiap kemajuan di setiap bangsa selama peradaban manusia [berdehem] selalu berasal dari pemikir-pemikir yang terbaik."
+  },
+  {
+   "t": 529.0,
+   "d": 15.0,
+   "text": "Semua perkembangan kehidupan manusia itu ditentukan oleh sains dan teknologi."
+  },
+  {
+   "t": 544.0,
+   "d": 66.0,
+   "text": "dalam arti yang luas dari kelompok-kelompok kecil manusia yang hidupnya berpindah-pindah mencari makan [berdehem] akhirnya menemukan teknologi [berdehem] pertanian muncullah masyar masyarakat-masyarakat agraris, ratusan tahun, ribuan tahun perkembangan manusia, sampailah kita di kondisi sekarang, Saudara-saudara, kita bernegara, kita berbangsa, tujuannya harus kita paham dan kita mengerti, yaitu untuk [berdehem] mencapai"
+  },
+  {
+   "t": 610.0,
+   "d": 11.0,
+   "text": "suatu kehidupan yang layak dan yang baik untuk rakyat kita. Itu tujuan bernegara."
+  },
+  {
+   "t": 621.0,
+   "d": 8.0,
+   "text": "Semua adalah jalan menuju itu."
+  },
+  {
+   "t": 629.0,
+   "d": 51.0,
+   "text": "Karena itu saya sebagai insan, sebagai individu yang diberi kepercayaan oleh bangsa Indonesia untuk memegang kendali pemerintahan adalah tugas saya adalah kewajiban saya untuk menghadapi dan untuk menghadapi kesulitan-kesulitan yang dihadapi bangsa kita dan mencari solusi terhadap kesulitan-kesulitan itu."
+  },
+  {
+   "t": 680.0,
+   "d": 12.0,
+   "text": "Dan dengan demikian [berdehem] saya dari awal sangat sadar peran dan penting para ilmu para guru besar."
+  },
+  {
+   "t": 692.0,
+   "d": 33.0,
+   "text": "Dan karena itu kalau Saudara simak hampir [berdehem] di setiap bidang pemerintahan yang kunci, saya ikut sertakan profesor-profesor dalam posisi-posisi yang sangat menentukan, Saudara-saudara."
+  },
+  {
+   "t": 725.0,
+   "d": 25.0,
+   "text": "Salah satu ilmu kepemimpinan yang saya dapat dalam perjalanan saya adalah bahwa seorang pemimpin, seorang nahqkoda harus seorang nakqoda yang mau aman membawa kapalnya sampai ke tujuan."
+  },
+  {
+   "t": 750.0,
+   "d": 6.0,
+   "text": "dia harus punya awak yang handal."
+  },
+  {
+   "t": 756.0,
+   "d": 5.0,
+   "text": "Itu pelajaran kepemimpinan yang paling dasar."
+  },
+  {
+   "t": 761.0,
+   "d": 37.0,
+   "text": "Kalau kita mau menang sepak bola, kita harus punya manajer yang baik, coach yang baik, pelatih-pelatih yang baik, [mendengus] tukang pijit yang baik, tukang bawa minuman yang baik dan kesebelasan yang terbaik baru kita bisa jadi juara. Sama di semua bidang."
+  },
+  {
+   "t": 798.0,
+   "d": 8.0,
+   "text": "It is not the technology. It is not the equipment."
+  },
+  {
+   "t": 806.0,
+   "d": 6.0,
+   "text": "It is the man and the women behind the equipment."
+  },
+  {
+   "t": 812.0,
+   "d": 8.0,
+   "text": "Ini yang kita sadari. Percuma kita punya pesawat yang paling canggih [berdehem] pilotnya."
+  },
+  {
+   "t": 820.0,
+   "d": 3.0,
+   "text": "tidak handal."
+  },
+  {
+   "t": 823.0,
+   "d": 21.0,
+   "text": "Jadi, Saudara-saudara, dengan kesadaran itu, saya sangat berterima kasih atas inisiatif [berdehem] konvensi ini yang mengikut sertakan sebuah sarasehan kebangsaan."
+  },
+  {
+   "t": 844.0,
+   "d": 14.0,
+   "text": "Saudara-saudara sekalian, [berdehem] saya di hadapan saudara-saudara saya ingin menyampaikan beberapa pragapan [berdehem] saya."
+  },
+  {
+   "t": 858.0,
+   "d": 7.0,
+   "text": "Selalu dalam setiap pertemuan saya menyampaikan ini praanggapan."
+  },
+  {
+   "t": 865.0,
+   "d": 17.0,
+   "text": "Saya berperanggapan kita semua di sini semuanya adalah anak Indonesia yang cinta bangsanya dan rakyatnya."
+  },
+  {
+   "t": 882.0,
+   "d": 3.0,
+   "text": "Kita berbeda pasti."
+  },
+  {
+   "t": 885.0,
+   "d": 9.0,
+   "text": "Kita berbeda suku, kita berbeda agama. Kita berbeda latar belakang."
+  },
+  {
+   "t": 894.0,
+   "d": 17.0,
+   "text": "kita berbeda mungkin ideologi, kita berbeda sejarah kita berbeda pengalaman, Saudara-saudara."
+  },
+  {
+   "t": 911.0,
+   "d": 41.0,
+   "text": "Ada apalagi profesi, ada yang dokter, ada yang insinyur sipil, ada yang insinyur mesin, ada yang insinyur pesawat terbang, ada yang ahli arkeologi, ada yang ahli antropologi, ada yang ahli bahasa, ada mantan tentara, ada pengus usaha berbeda, berbeda. Kita punya latar belakang dan saudara-saudara pengalaman kita pasti berbeda."
+  },
+  {
+   "t": 952.0,
+   "d": 25.5,
+   "text": "Tapi dengan premis tadi, dengan anak Indonesia yang cinta tanah [berdehem] airnya, saya kira dalam perbedaan ini kita harusnya bisa mencari [berdehem] titik-titik kebersamaan."
+  },
+  {
+   "t": 977.0,
+   "d": 9.0,
+   "text": "Inilah yang saya lihat dari apa yang saya pelajari dari sejarah."
+  },
+  {
+   "t": 986.0,
+   "d": 12.0,
+   "text": "Karena salah satu hobi saya, passion saya adalah sejarah."
+  },
+  {
+   "t": 998.0,
+   "d": 18.5,
+   "text": "Dari apa yang saya belajar dari sejarah ribuan tahun, bangsa-bangsa [berdehem] yang elitnya bisa kerja sama itu bangsa itu yang bangkit."
+  },
+  {
+   "t": 1016.0,
+   "d": 30.0,
+   "text": "Bangsa yang elitnya [berdehem] selalu tidak bisa kerja sama, bangsa itu tidak bisa mencapai potensinya. Ini sejarah mengajarkan sampai hari ini, sampai hari ini marilah kita lihat [berdehem] lihat di berita apa yang terjadi di Ukrain, [berdehem] di Eropa."
+  },
+  {
+   "t": 1046.0,
+   "d": 10.0,
+   "text": "Kalau kita lihat rasnya sama, sukunya sama, agamanya juga banyak yang sama."
+  },
+  {
+   "t": 1056.0,
+   "d": 17.0,
+   "text": "perangnya itu sampai puluhan ribu korban mati tiap bulan dan perang di Ukrain sudah lebih lama dari perang dunia kedua."
+  },
+  {
+   "t": 1073.0,
+   "d": 12.0,
+   "text": "Perang di Ukrain sudah lebih lama dari Perang Dunia Kedua. Kita lihat apa yang terjadi di Gaza, di Palestina, di Libanon."
+  },
+  {
+   "t": 1085.0,
+   "d": 5.0,
+   "text": "90% dari Gaza rata."
+  },
+  {
+   "t": 1090.0,
+   "d": 9.0,
+   "text": "Mungkin [berdehem] sama akibatnya dengan Hiroshima atau Nagasaki."
+  },
+  {
+   "t": 1099.0,
+   "d": 4.0,
+   "text": "Lebanon sekarang seperti itu."
+  },
+  {
+   "t": 1103.0,
+   "d": 7.0,
+   "text": "Iran seluruh negara Teluk Yaman."
+  },
+  {
+   "t": 1110.0,
+   "d": 10.0,
+   "text": "Kita tinggal lihat tiap hari perang di Afghanistan, perang di Balukistan, perang di Myanmar."
+  },
+  {
+   "t": 1120.0,
+   "d": 6.0,
+   "text": "Semakin dekat perang antara Wangtai dan Kamboja."
+  },
+  {
+   "t": 1126.0,
+   "d": 36.0,
+   "text": "Saudara-saudara, di tengah ini semua kuncinya adalah antara lain [berdehem] elit yang tidak bisa kerja sama. Jadi, Saudara-saudara bernegara saya kira kita perlu untuk renungkan masalah bernegara. [mendengus] Saya kira, Saudara-saudara, ini adalah kata-kata pembukaan saya."
+  },
+  {
+   "t": 1162.0,
+   "d": 6.0,
+   "text": "Saya selalu berusaha dengan persuasi."
+  },
+  {
+   "t": 1168.0,
+   "d": 8.0,
+   "text": "Saya sebagai pemimpin politik, saya dipilih secara demokratis."
+  },
+  {
+   "t": 1176.0,
+   "d": 14.0,
+   "text": "Saya maju ke rakyat lima kali minta mandat, empat kali tidak diberi mandat."
+  },
+  {
+   "t": 1190.0,
+   "d": 18.0,
+   "text": "Empat kali saya kalah, tapi saya tidak mengganggu pemimpin yang dapat mandat."
+  },
+  {
+   "t": 1208.0,
+   "d": 6.0,
+   "text": "Terima kasih. Karena biasanya kalau saya bilang empat kali kalah, audiens ketawa."
+  },
+  {
+   "t": 1214.0,
+   "d": 5.0,
+   "text": "Ini orang Indonesia itu kalah itu sedih sebetulnya."
+  },
+  {
+   "t": 1219.0,
+   "d": 12.0,
+   "text": "[berdehem] Tapi karena saya sadar, saya mengerti alternatifnya apa."
+  },
+  {
+   "t": 1231.0,
+   "d": 17.0,
+   "text": "Karena kita sudah sepakat, bangsa Indonesia sudah sepakat, kita ingin hidup sebagai negara di mana kedaulatan rakyat yang berkuasa."
+  },
+  {
+   "t": 1248.0,
+   "d": 9.0,
+   "text": "Jadi kedaulatan rakyat wujudnya adalah demokrasi. Demokrasi wujudnya adalah pemilihan."
+  },
+  {
+   "t": 1257.0,
+   "d": 12.0,
+   "text": "Kita mengerti, kita mungkin tidak puas, tapi alternatifnya apa? [berdehem] Apa kita mau gaduh?"
+  },
+  {
+   "t": 1269.0,
+   "d": 17.0,
+   "text": "Habis tiap pemilihan gaduh. Tiap pemilihan gaduh. Yang kalah ribut. Yang kalah ribut. Kapan kita mau menuju kesejahteraan untuk rakyat kita?"
+  },
+  {
+   "t": 1286.0,
+   "d": 26.0,
+   "text": "Bukankah itu kewajiban kita sebagai anak bangsa, sebagai pemimpin, sebagai orang terpintar di negara ini? Bukankah itu segala kepintaran kita harus kita abdikan untuk rakyat kita yang paling miskin dan paling lemah. Bukankah itu?"
+  },
+  {
+   "t": 1312.0,
+   "d": 25.0,
+   "text": "Silakan kalau ada yang berpendapat lain, hak saya katakan kita berbeda. [berdehem] Kalau ada yang berpendapat bahwa gaduh, ribut, bakar-bakar, anarki, kebencian, permusuhan, maki-memaki, itu produktif."
+  },
+  {
+   "t": 1337.0,
+   "d": 14.0,
+   "text": "[berdehem] Sementara negara lain [berdehem] menuju kesejahteraan, menuju terobosan, menuju kekayaan."
+  },
+  {
+   "t": 1351.0,
+   "d": 12.0,
+   "text": "Saudara-saudara, karena itu saya berkali-kali saya datang kepada kampus."
+  },
+  {
+   "t": 1363.0,
+   "d": 12.0,
+   "text": "Saya datang, saya minta orang-orang terpintar tanya Pak [berdehem] Brian, tanya Profesor Sigit."
+  },
+  {
+   "t": 1375.0,
+   "d": 15.0,
+   "text": "Saya tanya profesor-profesor IPB, kenapa kita tidak bisa punya benih gandum? Kenapa kita harus impor gandum?"
+  },
+  {
+   "t": 1390.0,
+   "d": 15.0,
+   "text": "Saya tanya, [berdehem] kenapa kelapa sawit per hektar di Malaysia produktivitasnya lebih dari kita?"
+  },
+  {
+   "t": 1405.0,
+   "d": 15.0,
+   "text": "Kenapa? Saya selalu minta mereka, kenapa Indonesia setelah 81 tahun tidak bisa bikin mobil buatan sendiri?"
+  },
+  {
+   "t": 1420.0,
+   "d": 9.0,
+   "text": "Saya berdiri di depan saudara-saudara. Kalian yang PhD."
+  },
+  {
+   "t": 1429.0,
+   "d": 11.0,
+   "text": "Kenapa kita tidak punya kita beli kita beli motor 10 juta motor tiap tahun?"
+  },
+  {
+   "t": 1440.0,
+   "d": 8.0,
+   "text": "Kenapa tidak ada pabrik buatan Indonesia?"
+  },
+  {
+   "t": 1448.0,
+   "d": 12.0,
+   "text": "Tapi saya terima kasih kampus, saya terima kasih kita mulai ke arah punya mobil sendiri."
+  },
+  {
+   "t": 1460.0,
+   "d": 3.0,
+   "text": "Terima kasih saya."
+  },
+  {
+   "t": 1463.0,
+   "d": 6.0,
+   "text": "Ada satu kepuasaan yang mendalam di hati saya."
+  },
+  {
+   "t": 1469.0,
+   "d": 13.0,
+   "text": "Waktu saya dilantik, saya pulang dari pelantikan. [berdehem] Saya bisa naik mobil buatan Indonesia."
+  },
+  {
+   "t": 1482.0,
+   "d": 13.0,
+   "text": "Desainnya Indonesia [berdehem] dibuat di Indonesia tidak 100% dan tidak ada mobil di dunia yang 100% produknya dari satu negara."
+  },
+  {
+   "t": 1495.0,
+   "d": 10.0,
+   "text": "Tapi kalau 65% 70% itu sudah boleh kita klaim buatan Indonesia."
+  },
+  {
+   "t": 1505.0,
+   "d": 19.5,
+   "text": "Risikonya [berdehem] sekarang selama saya jadi presiden ya harus naik [berdehem] mobil buatan Indonesia waktu bulan-bulan pertama ya lumayan kecuali kalau hujan keras."
+  },
+  {
+   "t": 1524.0,
+   "d": 5.0,
+   "text": "Kalau hujan keras sempat bocor juga itu."
+  },
+  {
+   "t": 1529.0,
+   "d": 24.0,
+   "text": "Tapi saya kembalikan [berdehem] Profesor Sigit gimana nih mobil presiden bocor diperbaiki gak apa-apa minimal kita mulai kita harus berani mulai [berdehem] kita adalah negara keempat terbesar di dunia."
+  },
+  {
+   "t": 1553.0,
+   "d": 6.0,
+   "text": "Kita adalah negara yang kekayaannya luar biasa."
+  },
+  {
+   "t": 1559.0,
+   "d": 20.0,
+   "text": "Jadi, Saudara-saudara, ini sebagai pembukaan. [berdehem] Nanti intinya belum belum ini. Jadi, ee [berdehem] wartawan dengan segala hormat ee Oh, wartawan sudah keluar ya."
+  },
+  {
+   "t": 1579.0,
+   "d": 16.0,
+   "text": "Waduh. Oh, masih ada. Ah, para media, saya hari ini mau bicara dari hati ke hati kepada guru-guru besar, Saudara-saudara."
+  },
+  {
+   "t": 1595.0,
+   "d": 11.0,
+   "text": "Jadi, dengan hormat [mendengus] saya mengundang para wartawan untuk minum kopi di luar."
+  },
+  {
+   "t": 1606.0,
+   "d": 13.0,
+   "text": "Ya, saya yakin Pak Brian sebagai penyelenggara sudah siapkan kopi-kopi yang bagus."
+  },
+  {
+   "t": 1619.0,
+   "d": 16.0,
+   "text": "Karena di sini, Saudara-saudara, saya mau bicara ee [berdehem] dengan saya mau beri apa yang saya punya. Saya mau beri data fakta."
+  },
+  {
+   "t": 1635.0,
+   "d": 3.0,
+   "text": "apa yang saya punya."
+  },
+  {
+   "t": 1638.0,
+   "d": 11.0,
+   "text": "Dan saudara-saudara sebagai ilmuwan monggo kaji, [berdehem] teliti, pelajari."
+  },
+  {
+   "t": 1649.0,
+   "d": 19.0,
+   "text": "Kalau data-data, fakta-fakta itu secara saintifik saudara sudah nilai, saudara anggap relevan, silakan saudara ambil kesimpulan."
+  },
+  {
+   "t": 1668.0,
+   "d": 3.0,
+   "text": "Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
+}

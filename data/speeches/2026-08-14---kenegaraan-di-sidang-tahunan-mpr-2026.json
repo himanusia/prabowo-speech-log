@@ -13,8 +13,8 @@
  "token_count": 7900,
  "unique_word_count": 1910,
  "canonical_overridden": false,
- "canonical_note": null,
- "duplicate_count": 6,
+ "canonical_note": " Digabung dari 2 unggahan acara yang sama.",
+ "duplicate_count": 7,
  "uploads": [
   {
    "video_id": "1-hEfAcRo4k",
@@ -156,6 +156,13 @@
     "search_sambutan"
    ],
    "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "i_Eor1oEhHI",
+   "url": "https://www.youtube.com/watch?v=i_Eor1oEhHI",
+   "title": "[FULL] Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR RI 2026 #BeritaSatu",
+   "channel": "BeritaSatu",
    "canonical": false
   }
  ],

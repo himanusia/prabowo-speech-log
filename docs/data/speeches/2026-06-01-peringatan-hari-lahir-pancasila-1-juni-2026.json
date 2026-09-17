@@ -13,8 +13,8 @@
  "token_count": 1989,
  "unique_word_count": 788,
  "canonical_overridden": false,
- "canonical_note": null,
- "duplicate_count": 2,
+ "canonical_note": " Digabung dari 2 unggahan acara yang sama.",
+ "duplicate_count": 3,
  "uploads": [
   {
    "video_id": "-PNMB8VQ0hY",
@@ -74,6 +74,13 @@
     "search_pidato"
    ],
    "selection_reason": "media_full_speech_candidate",
+   "canonical": false
+  },
+  {
+   "video_id": "HE75VJqkdLc",
+   "url": "https://www.youtube.com/watch?v=HE75VJqkdLc",
+   "title": "[FULL] Pidato Prabowo di Harlah Pancasila, Rakyat Indonesia Jangan Hanya Jadi Penonton!",
+   "channel": "Kompas.com",
    "canonical": false
   }
  ],

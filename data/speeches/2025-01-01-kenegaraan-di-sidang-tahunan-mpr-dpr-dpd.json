@@ -1,0 +1,1644 @@
+{
+ "id": "2025-01-01-kenegaraan-di-sidang-tahunan-mpr-dpr-dpd",
+ "video_id": "nsclpEp_n3Q",
+ "date": "2025-08-15",
+ "date_precise": false,
+ "title": "[FULL] Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR/DPR/DPD 2025 | Kabar Khusus tvOne",
+ "channel": "tvOneNews",
+ "youtube_url": "https://www.youtube.com/watch?v=nsclpEp_n3Q",
+ "duration_s": 4679,
+ "duration_hms": "1:17:59",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 580,
+ "token_count": 5897,
+ "unique_word_count": 1655,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip. Digabung dari 2 unggahan acara yang sama.",
+ "duplicate_count": 1,
+ "uploads": [
+  {
+   "video_id": "nsclpEp_n3Q",
+   "url": "https://www.youtube.com/watch?v=nsclpEp_n3Q",
+   "title": "[FULL] Pidato Kenegaraan Presiden Prabowo di Sidang Tahunan MPR/DPR/DPD 2025 | Kabar Khusus tvOne",
+   "channel": "tvOneNews",
+   "canonical": true
+  },
+  {
+   "video_id": "JKyD1_A-xn0",
+   "url": "https://www.youtube.com/watch?v=JKyD1_A-xn0",
+   "title": "[Full] Standing Applause Sambut Pidato Perdana Presiden Prabowo di Sidang Tahunan MPR 2025",
+   "channel": "KOMPASTV",
+   "canonical": false
+  }
+ ],
+ "topics": {
+  "pangan": 37,
+  "ekonomi": 63,
+  "pendidikan": 32,
+  "kesehatan_dan_gizi": 42,
+  "tata_kelola": 51,
+  "pertahanan_dan_keamanan": 24,
+  "nasional_dan_identitas": 236
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 12
+  },
+  "Hilirisasi": {
+   "count": 1
+  },
+  "Koperasi desa": {
+   "count": 2
+  },
+  "Sekolah Rakyat": {
+   "count": 2
+  },
+  "Korupsi dan kebocoran": {
+   "count": 7
+  }
+ },
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 26.0,
+   "text": "Telah kita saksikan bersama video capaian kepemimpinan Presiden Republik Indonesia, selanjutnya kami mempersilakan kepada Saudara Presiden Republik Indonesia untuk menyampaikan pidato tentang penyampaian laporan kinerja lembaga-lembaga negara dan pidato kenegaraan dalam rangka hari ulang tahun kemerdekaan 80 tahun Republik Indonesia tahun 2025. Kami persilakan."
+  },
+  {
+   "t": 28.0,
+   "d": 45.0,
+   "text": "[Tepuk tangan] [Tepuk tangan] [Tepuk tangan] Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 73.0,
+   "d": 5.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 78.0,
+   "d": 9.0,
+   "text": "Selamat pagi, salam sejahtera bagi kita sekalian. Shalom. Salve Om swastiastu."
+  },
+  {
+   "t": 87.0,
+   "d": 4.0,
+   "text": "Salam kebajikan rahayu-rahayu."
+  },
+  {
+   "t": 91.0,
+   "d": 17.0,
+   "text": "Yang saya hormati saudara Wakil Presiden Republik Indonesia, Saudara Gibran Rakabuming Raka beserta Ibu Selfie Ananda Putri."
+  },
+  {
+   "t": 108.0,
+   "d": 8.0,
+   "text": "Presiden Keenam Republik Indonesia Jenderal TNI Purnawirawan Prof."
+  },
+  {
+   "t": 116.0,
+   "d": 35.0,
+   "text": "Bambango, Presiden Republik Indonesia keet7, Bapak Ir. Joko Widodo, Wakil Presiden Republik Indonesia keenam Jenderal TNI Purnawirawan Tri Sutrisno, Wakil Presiden ke-10 dan ke-12 Republik Indonesia, Bapak Muhammad Yusuf Kala."
+  },
+  {
+   "t": 151.0,
+   "d": 10.0,
+   "text": "Bapak Wakil Presiden ke-11 Republik Indonesia Prof. Budono."
+  },
+  {
+   "t": 161.0,
+   "d": 8.0,
+   "text": "Wakil Presiden ke-13 Republik Indonesia Prof. K. H. Ma'ruf Amin."
+  },
+  {
+   "t": 169.0,
+   "d": 7.0,
+   "text": "Ibu Sinta Niah Abdurrahman Wahid, istri Presiden keempat Republik Indonesia."
+  },
+  {
+   "t": 176.0,
+   "d": 8.0,
+   "text": "Ibu Soraya Hamzah Khas, istri Wakil Presiden Kees9 Republik Indonesia."
+  },
+  {
+   "t": 184.0,
+   "d": 39.0,
+   "text": "Para pimpinan lembaga negara, Ketua Majelis Perwustan Rakyat Republik Indonesia, Saudara Ahmad Muzani beserta para mantan ketua, para wakil ketua, dan seluruh anggota MPRI. Yang saya hormati Ketua Dewan Perwakilan Rakyat Republik Indonesia, Saudari Puan Maharani beserta para mantan ketua, para wakil ketua, dan seluruh anggota DPRRI yang hadir. Ketua Dewan Perwakilan Daerah Republik Indonesia, Saudara Sultan Bakti Najumuddin beserta para mantan ketua, para wakil ketua, dan anggota DPD RI."
+  },
+  {
+   "t": 223.0,
+   "d": 25.0,
+   "text": "Yang saya hormati Ketua Mahkamah Agung Republik Indonesia Prof. Sunarto. Yang saya hormati Ketua Mahkamah Konstitusi Republik Indonesia, Saudara Sohartoyo. Yang saya hormati, Ketua Komisi Yudisial Republik Indonesia, Prof. Am Zulian Rifai. Yang saya hormati Ketua Badan Pemeriksa Keuangan Republik Indonesia, Saudari Isma Yatun."
+  },
+  {
+   "t": 248.0,
+   "d": 14.0,
+   "text": "Para Menteri Koordinator, para Menteri, Kepala Badan Pimpinan Lembaga, Jaksa Agung Panglima TNI, Kapolri Kepala BIN serta seluruh anggota Kabinet Merah Putih yang saya hormati."
+  },
+  {
+   "t": 262.0,
+   "d": 18.0,
+   "text": "Yang terhormat para pimpinan partai politik yang hadir, Partai PDI Perjuangan yang mewakili, ketua umumnya."
+  },
+  {
+   "t": 280.0,
+   "d": 18.0,
+   "text": "Ketua Umum Partai Golongan Karya, Saudara Bahlil Lahadalia, Ketua Umum Partai Gerindra."
+  },
+  {
+   "t": 298.0,
+   "d": 2.0,
+   "text": "saya sendiri."
+  },
+  {
+   "t": 300.0,
+   "d": 27.0,
+   "text": "[Tepuk tangan] Saudara-saudara sekalian. Ketu Ketua Umum Partai Amanat Nasional, Saudara Sukifli Hasan, Ketua Umum Partai Demokrat, Saudara Agus Harurti Yudoyono, Ketua Umum Partai Kebangkitan Bangsa, Saudara Abdul Muhimin Iskandar."
+  },
+  {
+   "t": 327.0,
+   "d": 16.0,
+   "text": "Presiden Partai Keadilan Sejahtera, Saudara Muzamil Yusuf, Ketua Umum Partai Nasional Demokrat, Saudara Suryapaloh."
+  },
+  {
+   "t": 343.0,
+   "d": 25.0,
+   "text": "Para duta besar negara sahabat yang saya hormati, [Tepuk tangan] para ketua parlemen negara sahabat, speaker of the house of representatives from Malaysia, His Excellency Tan Sri Datuk Dr. Johari bin Abdul dari parlemen Malaysia."
+  },
+  {
+   "t": 368.0,
+   "d": 10.0,
+   "text": "Speaker of Legisl Council of Brunei, His Excellency Datuk Sri Setya Awang Haji Abdul Darussalam Rahman."
+  },
+  {
+   "t": 378.0,
+   "d": 15.0,
+   "text": "Speaker of the Parliament of Singapore, His Excellency, Mr. Siya Kianpeng, Speaker of the National Parliament of Timor Leste, her excellency Miss Maria Fernanda Lai."
+  },
+  {
+   "t": 393.0,
+   "d": 11.0,
+   "text": "[Tepuk tangan] Yang saya hormati dan saya banggakan rekan-rekan pers media dari dalam dan luar negeri. Para tamu undangan yang saya hormati."
+  },
+  {
+   "t": 404.0,
+   "d": 17.0,
+   "text": "Para wakil-wakil rakyat yang hadir, Saudara-saudara sekalian yang saya cintai, seluruh rakyat Indonesia sebangsa dan setanah air di mana pun Engkau berada pada hari ini."
+  },
+  {
+   "t": 421.0,
+   "d": 18.0,
+   "text": "Saudara-saudara sekalian yang saya hormati. Pada tanggal 17 Agustus 2025, 80 tahun sudah para pendiri bangsa Indonesia mendeklarasikan kemerdekaan Indonesia."
+  },
+  {
+   "t": 439.0,
+   "d": 10.0,
+   "text": "Proklamasi tanggal 17 Agustus 1945 adalah momen penting dalam perjuangan panjang bangsa ini untuk berdiri di atas kaki kita sendiri."
+  },
+  {
+   "t": 449.0,
+   "d": 11.0,
+   "text": "Setelah Deklarasi kemerdekaan 17 Agustus 1945, bangsa kita berperang selama 5 tahun."
+  },
+  {
+   "t": 460.0,
+   "d": 17.0,
+   "text": "Kita berperang merebut kemerdekaan dengan senjata dan dengan diplomasi dengan semua kekuatan kita hingga kedaulatan kita benar-benar dapat kita rebut dan diakui pada tahun 1949."
+  },
+  {
+   "t": 477.0,
+   "d": 19.0,
+   "text": "Sejak itu para pendahulu saya, Presiden Republik Indonesia pertama hingga Presiden Republik Indonesia yang ketujuh bekerja keras membangun bangsa Indonesia, bekerja keras untuk mewujudkan bangsa yang adil dan makbur."
+  },
+  {
+   "t": 496.0,
+   "d": 19.0,
+   "text": "Presiden Soekarno telah memimpin perjuangan pembentukan Negara Kesatuan Republik Indonesia dan berhasil mempertahankan keutuhan wilayah Republik Indonesia di tengah berbagai intervensi dan invasi dari negara-negara asing."
+  },
+  {
+   "t": 515.0,
+   "d": 7.0,
+   "text": "Presiden Soekarno juga berhasil mengintegrasikan Irian Barat ke dalam NKRI."
+  },
+  {
+   "t": 522.0,
+   "d": 5.0,
+   "text": "Presiden Soeharto melaksanakan pembangunan ekonomi yang merata."
+  },
+  {
+   "t": 527.0,
+   "d": 14.0,
+   "text": "dari Sabang sampai Merauke berhasil mewujudkan suasana pada pangan dan meletakkan dasar dasasar industrialisasi ekonomi dan menurunkan kemiskinan ekstrem."
+  },
+  {
+   "t": 541.0,
+   "d": 14.0,
+   "text": "Presiden Habibi mengenalkan kita ke arah teknologi tinggi, mampu menjaga stabilitas ekonomi di tengah krisis multidimensi tahun 1998."
+  },
+  {
+   "t": 555.0,
+   "d": 9.0,
+   "text": "Presiden Abdurrahman Wahid menjaga stabilitas bangsa, berhasil memperkokoh kerukunan antara suku, agama dan ras."
+  },
+  {
+   "t": 564.0,
+   "d": 9.0,
+   "text": "Sehingga jati diri bangsa Indonesia sebagai bangsa majemuk dalam keharmonisan terbentuk secara kuat dan kokoh."
+  },
+  {
+   "t": 573.0,
+   "d": 10.0,
+   "text": "Presiden Megawati menyelesaikan proses pemulihan ekonomi akibat krisis ekonomi dan moniter yang berkepanjangan."
+  },
+  {
+   "t": 583.0,
+   "d": 18.0,
+   "text": "menyelesaikan ribuan kasus perusahaan-perusahaan yang kolaps akibat krisis moneter 1998 dan melaksanakan pemilihan umum secara langsung untuk pertama kalinya serta memperkuat lembaga-lembaga negara."
+  },
+  {
+   "t": 601.0,
+   "d": 9.0,
+   "text": "Presiden Susilo Bambang Yudoyono mengatasi kerawanan ekonomi karena krisis keuangan dunia 2008."
+  },
+  {
+   "t": 610.0,
+   "d": 33.0,
+   "text": "Berhasil menyelesaikan konflik Aceh dan meletakkan dasar yang kuat untuk pembangunan ekonomi yang adil, merata, dan terencana. Presiden Joko Widodo membangun berbagai infrastruktur penting, meningkatkan konektivitas antara sentra-sentra ekonomi, memimpin kita di saat yang kritis, yaitu pandemi Covid-19. sehingga Indonesia termasuk salah satu negara yang paling cepat pulih dari dampak pandemi, keluar dari"
+  },
+  {
+   "t": 643.0,
+   "d": 13.0,
+   "text": "kesulitan ekonomi, dan juga beliau merintis pembangunan ibu kota negara Nusantara dan meletakkan dasar strategi Hivorisasi sumber daya alam Indonesia."
+  },
+  {
+   "t": 656.0,
+   "d": 33.0,
+   "text": "Seluruh presiden pendahulu saya bersama pemerintah yang mereka pimpin berupaya mewujudkan Indonesia yang lebih dekat dengan cita-cita kemerdekaan kita, yaitu negara yang merdeka, berdaulat, adil dan makbur. negara yang sesuai dengan cita-cita pembentukan negara kita yang tercantum dalam pembukaan Undang-Undang Dasar 1945, yaitu negara yang melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia, memajukan kesejahteraan"
+  },
+  {
+   "t": 689.0,
+   "d": 12.0,
+   "text": "umum, mencerdaskan kehidupan bangsa, dan melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial."
+  },
+  {
+   "t": 701.0,
+   "d": 5.0,
+   "text": "Saudara-saudara sekalian yang saya hormati."
+  },
+  {
+   "t": 706.0,
+   "d": 14.0,
+   "text": "Tujuan kita merdeka adalah untuk merdeka dari kemiskinan, untuk merdeka dari kelaparan, merdeka dari penderitaan."
+  },
+  {
+   "t": 720.0,
+   "d": 13.0,
+   "text": "Negara kita harus bisa berdiri di atas kaki kita sendiri. Negara kita harus berdaulat secara ekonomi dan mampu memenuhi kebutuhan pangan kita sendiri."
+  },
+  {
+   "t": 733.0,
+   "d": 18.0,
+   "text": "Negara kita diberi karunia oleh Allah Subhanahu wa taala, sumber daya yang melimpah ruah. Tantangan kita adalah menjaga dan mengelola kekayaan kita agar cita-cita kemerdekaan kita dapat terwujud dalam waktu sesingkat-singkatnya."
+  },
+  {
+   "t": 751.0,
+   "d": 26.0,
+   "text": "Hadirin sekalian, hari ini 299 hari yang lalu saya berdiri di sini dan diambil sumpah oleh MPR di hadapan wakil-wakil rakyat Indonesia, di hadapan rakyat Indonesia dan terutama di hadapan Tuhan Yang Maha Kuasa bersama wakil presiden saya, Saudara Gibran Rakabomiaka."
+  },
+  {
+   "t": 777.0,
+   "d": 16.0,
+   "text": "Dan di hari yang hikmat ini saya kembali berdiri di depan saudara-saudara, di depan wakil-wakil rakyat untuk menyampaikan laporan kerja pemerintahan yang saya pimpin dan lembaga-lembaga negara."
+  },
+  {
+   "t": 793.0,
+   "d": 19.0,
+   "text": "Pertama saya ingin menyampaikan bahwa transisi kepemimpinan nasional dari Presiden Joko Widodo ke pemerintahan yang saya pimpin berjalan dalam semangat persatuan, penuh kehormatan dan kedewasaan politik."
+  },
+  {
+   "t": 812.0,
+   "d": 13.0,
+   "text": "Peralihan kepemimpinan yang diakui dunia sebagai peralihan yang lancar dan sangat baik adalah bukti demokrasi kita matang dan kuat."
+  },
+  {
+   "t": 825.0,
+   "d": 10.0,
+   "text": "Tidak semua negara mampu melaksanakan transisi kepimpinan dengan baik dan lancar seperti kita."
+  },
+  {
+   "t": 835.0,
+   "d": 19.0,
+   "text": "Di mana-mana ketika saya berada di luar negeri, banyak pemimpin negara sahabat bertanya kepada saya, \"How did you do it? How did Indonesia manage?\" Saya sampaikan mereka, \"Kita berhasil karena kita menganut demokrasi yang khas Indonesia."
+  },
+  {
+   "t": 854.0,
+   "d": 5.0,
+   "text": "Demokrasi yang sejuk, demokrasi yang mempersatukan."
+  },
+  {
+   "t": 859.0,
+   "d": 16.0,
+   "text": "bukan demokrasi yang saling gontok-gontokan, saling menjatuhkan, saling maki-memaki, saling menghujat, bukan demokrasi yang saling membenci."
+  },
+  {
+   "t": 875.0,
+   "d": 4.0,
+   "text": "Inilah yang harus kita pegang tuguh."
+  },
+  {
+   "t": 879.0,
+   "d": 11.0,
+   "text": "Demokrasi warisan nenek moyang kita adalah demokrasi yang sesuai dengan budaya kita. Budaya kekeluargaan, budaya gotong-royong."
+  },
+  {
+   "t": 890.0,
+   "d": 7.0,
+   "text": "Budaya mikwur mendem jero. Budaya saling mengisi."
+  },
+  {
+   "t": 897.0,
+   "d": 9.0,
+   "text": "Budaya saling mendukung. Budaya tepos liro. Budaya menahan diri."
+  },
+  {
+   "t": 906.0,
+   "d": 7.0,
+   "text": "Budaya yang iso rumongso."
+  },
+  {
+   "t": 913.0,
+   "d": 3.0,
+   "text": "Bukan rumongso iso."
+  },
+  {
+   "t": 916.0,
+   "d": 13.0,
+   "text": "Kita paham. dan mengerti bahwa dalam suatu negara modern perlu ada pengawasan, perlu ada transparansi dalam menjalankan kekuasaan."
+  },
+  {
+   "t": 929.0,
+   "d": 11.0,
+   "text": "Kita paham sejarah umat manusia. Jika ada kekuasaan yang tidak diawasi, maka kekuasaan akan menjadi korup."
+  },
+  {
+   "t": 940.0,
+   "d": 6.0,
+   "text": "Kekuasaan yang absolut akan menjadi korup secara absolut."
+  },
+  {
+   "t": 946.0,
+   "d": 6.0,
+   "text": "Kita paham bahwa korupsi adalah masalah besar di bangsa kita."
+  },
+  {
+   "t": 952.0,
+   "d": 10.0,
+   "text": "Perilaku korupsi ada di setiap esolon birokrasi kita, ada di setiap institusi dan organisasi pemerintahan."
+  },
+  {
+   "t": 962.0,
+   "d": 8.0,
+   "text": "Perilaku korup ada di BUMNBUMN kita, ada di BUMD BUMD kita."
+  },
+  {
+   "t": 970.0,
+   "d": 4.0,
+   "text": "Ini bukan fakta yang harus kita tutup-tutupi."
+  },
+  {
+   "t": 974.0,
+   "d": 30.0,
+   "text": "Setelah 299 hari saya memimpin pemerintahan eksekutif, saya semakin saya semakin mengetahui berapa besar tantangan kita, berapa besar penyelewengan yang ada di lingkungan pemerintahan kita. Hal ini tidak baik, tapi harus saya laporkan kepada para wakil-wakil rakyat Indonesia."
+  },
+  {
+   "t": 1004.0,
+   "d": 24.0,
+   "text": "Dalam pidato pelantikan saya di sini, saya sampaikan bangsa Indonesia harus berani melihat kekurangan-kekurangan sendiri. Harus berani melihat kesalahan-kesalahan kita sendiri. Harus berani melihat penyakit-penyakit yang ada di tubuh kita agar kita bisa perbaiki kekurangan-kekurangan tersebut."
+  },
+  {
+   "t": 1028.0,
+   "d": 6.0,
+   "text": "Tanpa mau mengakui tidak mungkin kita mampu memperbaiki."
+  },
+  {
+   "t": 1034.0,
+   "d": 10.0,
+   "text": "Saya disumpah untuk melaksanakan perintah Undang-Undang Dasar Republik kita."
+  },
+  {
+   "t": 1044.0,
+   "d": 15.0,
+   "text": "Karena itu saya tidak ada pilihan lain selain memimpin upaya pemberatasan korupsi dan penyeraiwan di semua lembaga eksekutif dan pemerintah."
+  },
+  {
+   "t": 1059.0,
+   "d": 22.0,
+   "text": "Itulah sebabnya pada awal tahun 2025 ini kami telah identifikasi dan telah selamatkan 300 triliun uang Rp300 triliun dari APBN yang kami lihat rawan diselewengkan."
+  },
+  {
+   "t": 1081.0,
+   "d": 18.0,
+   "text": "Di antaranya anggaran perjalanan dinas luar dan dalam negeri yang begitu besar. anggaran alat turis kantor yang begitu besar dan berbagai anggaran yang selama ini jadi sumber korupsi dan sumber bacaan."
+  },
+  {
+   "t": 1099.0,
+   "d": 13.0,
+   "text": "Efisiensi ini diperintah oleh undang-undang dasar kita yaitu ayat 4 pasal 33 Undang-Undang Dasar Negara Republik Indonesia."
+  },
+  {
+   "t": 1112.0,
+   "d": 21.0,
+   "text": "300 triliun kami geser untuk hal-hal yang lebih produktif dan langsung bisa dirasakan rakyat banyak. Majelis yang terhormat, sebagai Presiden Republik Indonesia saya bertanggung jawab atas pemerintahan eksekutif."
+  },
+  {
+   "t": 1133.0,
+   "d": 5.0,
+   "text": "Saya berkewajiban menegakkan hukum demi keselamatan bangsa."
+  },
+  {
+   "t": 1138.0,
+   "d": 11.0,
+   "text": "Saat ini kita di kita menghadapi realita terjadi kebocoran kekayaan negara kita dalam skala yang sangat besar."
+  },
+  {
+   "t": 1149.0,
+   "d": 7.0,
+   "text": "Kita mengalami suatu kondisi yang saya sebut net outflow of national wealth."
+  },
+  {
+   "t": 1156.0,
+   "d": 12.0,
+   "text": "Janganlah kita menghabiskan tenaga kita untuk mencari siapa yang salah. Kita tidak ada waktu. Kita tidak punya cukup energi untuk mencari kesalahan orang."
+  },
+  {
+   "t": 1168.0,
+   "d": 11.0,
+   "text": "Pemerintah yang saya pimpin harus memusahkan diri untuk mencari solusi yang tepat dan cepat atas masalah pokok ini."
+  },
+  {
+   "t": 1179.0,
+   "d": 10.0,
+   "text": "Ibarat sebuah badan, kalau darahnya terus mengalir keluar, maka pada suatu titik badan itu akan mati."
+  },
+  {
+   "t": 1189.0,
+   "d": 9.0,
+   "text": "Kalau mengalirnya kekayaan kita ke luar negeri, kita biarkan terus-menerus, kita berpotensi jadi negara gagal."
+  },
+  {
+   "t": 1198.0,
+   "d": 14.0,
+   "text": "Karena itu saya berkewajiban untuk mengambil langkah-langkah yang perlu walaupun itu sulit dan juga tidak populer bagi pihak-pihak tertentu."
+  },
+  {
+   "t": 1212.0,
+   "d": 17.0,
+   "text": "Saya harus mengambil langkah-langkah untuk menyelamatkan kekayaan negara agar bisa digunakan untuk kepentingan bangsa kita di hari ini dan di hari esok. Untuk kepentingan generasi sekarang dan generasi mendatang."
+  },
+  {
+   "t": 1229.0,
+   "d": 32.0,
+   "text": "Terus terang saya katakan di sini di hadapan saudara-saudara sekalian kalau kita konsekuen menjalankan apa yang telah dibuat oleh para pendiri bangsa kita, oleh Bung Karno, Bung Hatta, Bung Syahrir, Haji Agus Salim, tokoh-tokoh generasi 45 yaitu rancang bangun blueprint negara, bagaimana negara harus dijalankan yang semua sudah tertuang dalam Undang-Undang Dasar 1945."
+  },
+  {
+   "t": 1261.0,
+   "d": 5.0,
+   "text": "Saya yakin bangsa kita akan selamat."
+  },
+  {
+   "t": 1266.0,
+   "d": 5.0,
+   "text": "Undang-Undang Dasar 1945 harus kita pelajari."
+  },
+  {
+   "t": 1271.0,
+   "d": 12.0,
+   "text": "Undang-Undang Dasar 1945 janganlah menjadi mantra, janganlah menjadi slogan. Hanya di bibir kita teriak-teriak terus."
+  },
+  {
+   "t": 1283.0,
+   "d": 17.0,
+   "text": "Undang-Undang Dasar 194 adalah rancang bangun yang relevan, rancang bangun yang ampuh, rancang bangun yang nyata, dan rancang bangun yang operasional untuk kita gunakan."
+  },
+  {
+   "t": 1300.0,
+   "d": 18.0,
+   "text": "Saya melihat ada kecenderungan dari sebagian kaum elit Indonesia, sebagian orang-orang yang memandang dirinya paling pintar di republik ini."
+  },
+  {
+   "t": 1318.0,
+   "d": 14.0,
+   "text": "Mereka memandang bahwa pemikiran Bung Karno, pemikiran Bung Hatta, pemikiran generasi 45 tidak relevan lagi di zaman sekarang."
+  },
+  {
+   "t": 1332.0,
+   "d": 10.0,
+   "text": "Sudah kuno, sudah lawas untuk menghadapi tantangan abad ke-21."
+  },
+  {
+   "t": 1342.0,
+   "d": 4.0,
+   "text": "Menurut hemat saya, pemikiran tersebut adalah keliru."
+  },
+  {
+   "t": 1346.0,
+   "d": 14.0,
+   "text": "Generasi 45, generasinya Bung Karno, Bung Hatta, Syahrir. Semua tokoh-tokoh itu adalah generasi yang mengalami penjajahan."
+  },
+  {
+   "t": 1360.0,
+   "d": 3.0,
+   "text": "Mereka mengalami imperialisme."
+  },
+  {
+   "t": 1363.0,
+   "d": 14.0,
+   "text": "Mereka sadar dan mereka merasakan melihat bahwa kekayaan Indonesia diangkut ratusan tahun keluar dari Nusantara ini."
+  },
+  {
+   "t": 1377.0,
+   "d": 17.0,
+   "text": "Karena itu mereka menyusun rancang bangun. Mereka buat dokumen yang tidak terlalu panjang tapi sangat eksplisit menjelaskan bagaimana kita harus laksanakan ekonomi kita dan demokrasi kita."
+  },
+  {
+   "t": 1394.0,
+   "d": 13.0,
+   "text": "Saya berkeyakinan apabila kita jalankan rancang bangun yang sudah dibuat oleh para pendahulu kita, kita akan jadi negara yang kuat."
+  },
+  {
+   "t": 1407.0,
+   "d": 15.0,
+   "text": "Saudara-saudara sekalian, kekuatan suatu negara terletak bagaimana negara itu bisa menguasai dan mengelola kekayaan."
+  },
+  {
+   "t": 1422.0,
+   "d": 9.0,
+   "text": "Karena itu kita harus berani koreksi apabila kita telah apabila kita telah mengambil langkah yang keliru."
+  },
+  {
+   "t": 1431.0,
+   "d": 12.0,
+   "text": "Sungguh aneh, negara dengan produksi kelapa sawit terbesar di dunia pernah mengalami kelangkaan minyak goreng."
+  },
+  {
+   "t": 1443.0,
+   "d": 5.0,
+   "text": "Ini aneh sekali. Tidak masuk di akal sehat."
+  },
+  {
+   "t": 1448.0,
+   "d": 17.0,
+   "text": "Dan ternyata memang itu ternyata adalah permainan manipulasi yang tadi sudah disinggung oleh Ketua DPR yang saya beri nama Serakah Nomex."
+  },
+  {
+   "t": 1465.0,
+   "d": 8.0,
+   "text": "[Tepuk tangan] Negara produsen kelapa sawit terbesar di dunia."
+  },
+  {
+   "t": 1473.0,
+   "d": 9.0,
+   "text": "Berminggu-minggu hampir berapa bulan kelapa sawit langka."
+  },
+  {
+   "t": 1482.0,
+   "d": 14.0,
+   "text": "Saudara-saudara juga sungguh aneh kita subsidi pupuk, subsidi alat pertanian, subsidi pestisida, subsidi irigasi, waduk."
+  },
+  {
+   "t": 1496.0,
+   "d": 10.0,
+   "text": "Kita subsidi beras tapi harga pangan kadang-kadang tidak terjangkau oleh sebagian rakyat kita."
+  },
+  {
+   "t": 1506.0,
+   "d": 11.0,
+   "text": "Keanehan-keanehan ini bisa terjadi karena ada distorsi dalam sistem ekonomi kita."
+  },
+  {
+   "t": 1517.0,
+   "d": 18.0,
+   "text": "adalah penyimpangan bahwa sistem ekonomi yang diamanatkan oleh Undang-Undang Dasar 1945 terutama di pasal 33 ayat 1, 2, dan 3 telah kita abaikan."
+  },
+  {
+   "t": 1535.0,
+   "d": 8.0,
+   "text": "Seolah-olah ayat-ayat dalam pasal itu tidak relevan dalam kehidupan kita yang modern di abad ke-21 ini."
+  },
+  {
+   "t": 1543.0,
+   "d": 24.0,
+   "text": "Saudara-saudara sekalian, setelah saya pelajari secara mendalam, saya berkeyakinan Undang-Undang Dasar kita, terutama pasal-pasal yang saya sebut pasal-pasal pengaman seperti pasal 33 ayat 1, 2, 3, dan 4 adalah benteng pertahanan ekonomi kita."
+  },
+  {
+   "t": 1567.0,
+   "d": 9.0,
+   "text": "Ayat 1. Perekonomian disusun sebagai usaha bersama berdasar atas azas kekeluargaan."
+  },
+  {
+   "t": 1576.0,
+   "d": 12.0,
+   "text": "Azas kekeluargaan bukan azas konglomerasi."
+  },
+  {
+   "t": 1588.0,
+   "d": 10.0,
+   "text": "Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara."
+  },
+  {
+   "t": 1598.0,
+   "d": 8.0,
+   "text": "Saudara-saudara sekalian, saya ingin bertanya, apakah beras itu penting bagi negara atau tidak?"
+  },
+  {
+   "t": 1606.0,
+   "d": 6.0,
+   "text": "Penting menguasai atau tidak hajat hidup orang banyak?"
+  },
+  {
+   "t": 1612.0,
+   "d": 4.0,
+   "text": "Apakah penggelilingan padi itu penting bagi negara?"
+  },
+  {
+   "t": 1616.0,
+   "d": 7.0,
+   "text": "Apakah penggilingan padi itu hajat hidup orang banyak?"
+  },
+  {
+   "t": 1623.0,
+   "d": 31.0,
+   "text": "Tapi ada sementara tidak semua saya harus fair ada sementara pengusaha-pengusaha yang justru memanfaatkan kekuatan mereka, kekuatan modal mereka untuk dominasi dan manipulasi kehidupan rakyat. Dan ini tidak bisa kita terima."
+  },
+  {
+   "t": 1654.0,
+   "d": 11.0,
+   "text": "Ayat 3. Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat."
+  },
+  {
+   "t": 1665.0,
+   "d": 5.0,
+   "text": "Saudara-saudara, ayat 4."
+  },
+  {
+   "t": 1670.0,
+   "d": 9.0,
+   "text": "Perekonomian nasional diselenggarakan berdasar atas demokrasi ekonomi dengan prinsip kebersamaan."
+  },
+  {
+   "t": 1679.0,
+   "d": 5.0,
+   "text": "efisiensi berkeadilan."
+  },
+  {
+   "t": 1684.0,
+   "d": 5.0,
+   "text": "Jadi efisiensi ini perintah Undang-Undang Dasar."
+  },
+  {
+   "t": 1689.0,
+   "d": 17.0,
+   "text": "Tapi ada yang demo lawan efisiensi, berwawasan lingkungan, kemandirian, serta dengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional."
+  },
+  {
+   "t": 1706.0,
+   "d": 9.0,
+   "text": "Saudara-saudara, ketika kita tidak konsekuen menjalankan Undang-Undang Dasar kita, terjadilah distorsi ekonomi."
+  },
+  {
+   "t": 1715.0,
+   "d": 11.0,
+   "text": "Terjadilah pemerataan ekonomi yang tidak cepat. Di mana yang menikmati pertumbuhan ekonomi kita hanya segelintir orang saja."
+  },
+  {
+   "t": 1726.0,
+   "d": 13.0,
+   "text": "Terjadilah kondisi di mana pertumbuhan ekonomi rata-rata 5% selama 7 tahun terakhir tidak tercermin dalam kondisi nyata rakyat Indonesia."
+  },
+  {
+   "t": 1739.0,
+   "d": 22.0,
+   "text": "Masih terlalu banyak anak-anak yang kelaparan, petani dan nelayan yang kesulitan menjual hasil panennya. rakyat yang belum memiliki rumah layak huni, guru yang belum dihargai, serta keluarga yang tak sanggup berobat karena biaya atau karena tidak ada fasilitas kesehatan di daerahnya."
+  },
+  {
+   "t": 1761.0,
+   "d": 34.0,
+   "text": "Namun ketika kita konsekuen menjalankan Undang-Undang Dasar kita dalam 299 hari ini, alhamdulillah saya dapat melaporkan bahwa kita telah mencapai berbagai kemajuan-kemajuan yang cukup berarti di tengah konflik politik, konflik ekonomi secara global, perang dagang, perang tarif ekonomi Indonesia masih berhasil tumbuh di atas 5%."
+  },
+  {
+   "t": 1795.0,
+   "d": 17.0,
+   "text": "Tumbuh dalam 5,12% dan para pakar yakin bahwa ini akan semakin meningkat di saat-saat yang akan mendatang."
+  },
+  {
+   "t": 1812.0,
+   "d": 8.0,
+   "text": "Di tengah dunia yang pernah penuh gonjang-gancing, realisasi investasi kita."
+  },
+  {
+   "t": 1820.0,
+   "d": 29.0,
+   "text": "Semester pertama 2025 telah mencapai 942 triliun, naik 13,6% dari tahun lalu. Telah mencapai target APBN 2025 sebelum tahun 2025 berhasil dan berhasil menyerap tenaga kerja Indonesia R.200.000 orang."
+  },
+  {
+   "t": 1849.0,
+   "d": 20.0,
+   "text": "Saudara-saudara sekalian, kita telah melaksanakan intervensi strategis untuk memperbaiki gizi 82 juta anak-anak Indonesia dan ibu-ibu hamil."
+  },
+  {
+   "t": 1869.0,
+   "d": 8.0,
+   "text": "Saudara-saudara sekalian, sekarang kita telah mencapai kemajuan yang membanggakan."
+  },
+  {
+   "t": 1877.0,
+   "d": 10.0,
+   "text": "Pagi ini saya mendapat laporan dari Badan Gizi Nasional sudah 20 juta anak sekolah."
+  },
+  {
+   "t": 1887.0,
+   "d": 12.0,
+   "text": "Anak belum sekolah, ibu hamil dan ibu menyusui sudah menerima makan bergizi gratis setiap hari."
+  },
+  {
+   "t": 1899.0,
+   "d": 4.0,
+   "text": "Terima kasih Badan Gizi Nasional."
+  },
+  {
+   "t": 1903.0,
+   "d": 15.0,
+   "text": "Di hadapan majelis terhormat ini, saya menyampaikan penghargaan saya kepada kepala badan dan seluruh anggota Badan Gizi Nasional yang telah bekerja keras mencapai hal ini."
+  },
+  {
+   "t": 1918.0,
+   "d": 12.0,
+   "text": "Saudara-saudara sekalian, dalam 7 bulan kita berhasil mencapai apa yang negara-negara lain butuh belasan tahun."
+  },
+  {
+   "t": 1930.0,
+   "d": 23.0,
+   "text": "Saya telah jumpa dengan Presiden Brazil dan mantan Presiden Brazil. Brazil butuh 11 tahun untuk mencapai 40 juta makan bergizi gratis setiap hari. Saudara-saudara, kita kadang-kadang harus mengakui bahwa bangsa kita punya kemampuan."
+  },
+  {
+   "t": 1953.0,
+   "d": 2.0,
+   "text": "bangsa kita."
+  },
+  {
+   "t": 1955.0,
+   "d": 7.0,
+   "text": "Bila ada kehendak, banyak yang bisa kita kerjakan bersama."
+  },
+  {
+   "t": 1962.0,
+   "d": 17.0,
+   "text": "Begitu banyak masalah manajemen yang harus kita hadapi agar program ini berjalan baik. Pembangunan fisik dapur, pengelolaan rantai pasok, pelatihan manajer-manajer dan pelaksana-pelaksana."
+  },
+  {
+   "t": 1979.0,
+   "d": 11.0,
+   "text": "Sekali lagi saya tadi ucapan terima kasih kepada Kepala Badan Gizi Nasional, saudara dan anggotamu telah bekerja dengan baik."
+  },
+  {
+   "t": 1990.0,
+   "d": 6.0,
+   "text": "Kita kadang-kadang kalau yang berbuat baik kita lupa ucapan terima kasih."
+  },
+  {
+   "t": 1996.0,
+   "d": 7.0,
+   "text": "Kalau yang berbuat salah kita tidak akan lupa-lupa. Terus diingat."
+  },
+  {
+   "t": 2003.0,
+   "d": 9.0,
+   "text": "Saya juga ucapkan terima kasih kepada semua pihak yang telah mendukung terlaksananya makan bergizi gratis."
+  },
+  {
+   "t": 2012.0,
+   "d": 25.0,
+   "text": "TNI, Polri, Nahdatul Ulama, Muhammadiyah, ormas-ormas, koperasi-koperasi, yayasan-yayasan [Musik] yang telah ramai-ramai terlibat dan bergotong-royong membentuk satuan pelayanan pemunuhan gizi di seluruh provinsi Indonesia."
+  },
+  {
+   "t": 2037.0,
+   "d": 13.0,
+   "text": "Makan bergizi gratis bukan semata program sosial, melainkan fondasi untuk menciptakan generasi yang sehat, cerdas, dan produktif."
+  },
+  {
+   "t": 2050.0,
+   "d": 10.0,
+   "text": "PBB mengatakan bahwa MBG adalah investasi terbaik yang bisa dilakukan oleh sebuah bangsa."
+  },
+  {
+   "t": 2060.0,
+   "d": 9.0,
+   "text": "Walau baru berjalan 8 bulan, hasil dari makan bergizi gratis mulai terasa."
+  },
+  {
+   "t": 2069.0,
+   "d": 17.0,
+   "text": "Angka kehadiran anak di sekolah meningkat, prestasi anak-anak di sekolah meningkat. Per hari ini sudah ada 5.800 satuan pemenuhan pelayanan gizi di 38 provinsi."
+  },
+  {
+   "t": 2086.0,
+   "d": 13.0,
+   "text": "MBG telah menciptakan 290.000 lapangan kerja baru di dapur-dapur dan melibatkan 1 juta petani, nelayan, peternak, dan UMKM."
+  },
+  {
+   "t": 2099.0,
+   "d": 5.0,
+   "text": "MBG mendorong pertumbuhan ekonomi di desa-desa."
+  },
+  {
+   "t": 2104.0,
+   "d": 10.0,
+   "text": "Hadirin sekalian, tidak ada negara yang kuat yang tidak mampu memproduksi pangannya sendiri."
+  },
+  {
+   "t": 2114.0,
+   "d": 23.0,
+   "text": "Oleh karena itu, pemerintah yang saya pimpin bekerja keras untuk memutus ketergantungan pada impor dengan membuka jutaan hektar sawah baru di Kalimantan Tengah, di Kalimantan Barat, di Sumatera, di Papua dan beberapa daerah lain."
+  },
+  {
+   "t": 2137.0,
+   "d": 6.0,
+   "text": "Selain melakukan ekstensifikasi, kami juga melakukan intensifikasi."
+  },
+  {
+   "t": 2143.0,
+   "d": 33.0,
+   "text": "Kami mendorong produksi pangan di desa-desa. Kami memotong birokrasi penyaluran pupuk. Kita salurkan pupuk langsung dari pabrik ke petani-petani dan memberi bantuan alal pertanian kepada para petani kita. Kami juga tingkatkan harga beli gabah menjadi rupiah 6.500 per kg agar petani sebagai produsen menikmati keuntungan yang berarti. Hari ini kita surplus produksi beras."
+  },
+  {
+   "t": 2176.0,
+   "d": 9.0,
+   "text": "Stok cadangan beras nasional kita hari ini lebih dari 4 juta ton."
+  },
+  {
+   "t": 2185.0,
+   "d": 8.0,
+   "text": "Ini adalah tertinggi selama sejarah NKRI."
+  },
+  {
+   "t": 2193.0,
+   "d": 10.0,
+   "text": "untuk pertama kali dalam puluhan tahun Indonesia bisa kembali mengekspor beras dan jagung."
+  },
+  {
+   "t": 2203.0,
+   "d": 12.0,
+   "text": "Saya perhatikan di mana-mana para petani tersenyum karena harga gabah stabil dan penghasilan mereka meningkat."
+  },
+  {
+   "t": 2215.0,
+   "d": 21.0,
+   "text": "Untuk melindungi konsumen Indonesia, pemerintah yang saya pimpin akan selalu mewaspadai kecurangan-kecurangan, manipulasi, penipuan, upaya penimbunan dan menahan distribusi bahan pangan."
+  },
+  {
+   "t": 2236.0,
+   "d": 4.0,
+   "text": "Pemerintah yang saya pimpin tidak akan ragu-ragu."
+  },
+  {
+   "t": 2240.0,
+   "d": 16.0,
+   "text": "Kami akan selalu tegas pada mereka yang melanggar aturan, mereka yang mempersulit kehidupan rakyat, mereka yang cari keuntungan gila-gilaan di atas penderitaan orang kecil."
+  },
+  {
+   "t": 2256.0,
+   "d": 14.0,
+   "text": "Pemerintah yang saya pimpin akan konsekuen menggunakan segala segala kewenangan yang diberikan kepada kami dari Undang-Undang Dasar 1945."
+  },
+  {
+   "t": 2270.0,
+   "d": 46.0,
+   "text": "dan juga Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan, terutama pasal 107 Jungto Pasal 29 ayat 1 yang berbunyi pelaku usaha yang menyimpan barang kebutuhan pokok dan atau barang penting dalam jumlah dan waktu tertentu pada saat terjadi kelangkaan barang gejolak harga dan atau hambatan lalu lintas bisa mendapat pidana penjara paling lama 5 tahun dan atau denda paling banyak Rp50 miliar."
+  },
+  {
+   "t": 2316.0,
+   "d": 26.0,
+   "text": "Hadirin sekalian, saya pastikan perusahaan-perusahaan siapapun yang berani manipulasi dan melanggar, kami akan proses hukum. Dan berdasarkan wewenang konstitusional yang ada pada Presiden Republik Indonesia, kami akan sita yang bisa kami sita."
+  },
+  {
+   "t": 2342.0,
+   "d": 7.0,
+   "text": "Kami akan selamatkan rakyat. Kami akan membela kepentingan rakyat."
+  },
+  {
+   "t": 2349.0,
+   "d": 6.0,
+   "text": "Kami pastikan rakyat Indonesia tidak akan menjadi korban serakah Nomix."
+  },
+  {
+   "t": 2355.0,
+   "d": 22.0,
+   "text": "Korban mereka-mereka yang mengejar keuntungan sebesar-besarnya, menipu dan mengorbankan rakyat Indonesia dan membawa keuntungan itu, kekayaan itu keluar dari Republik Indonesia. Ini harus kita hentikan."
+  },
+  {
+   "t": 2377.0,
+   "d": 11.0,
+   "text": "Selama saya menjabat presiden di Indonesia, jangan pernah anggap yang besar dan yang kaya bisa bertindak seenaknya."
+  },
+  {
+   "t": 2388.0,
+   "d": 15.0,
+   "text": "[Tepuk tangan] Kami tidak gentar dengan kebesaran-Mu. Kami tidak gentar dengan kekayaan-Mu."
+  },
+  {
+   "t": 2403.0,
+   "d": 7.0,
+   "text": "Karena kekayaanmu berasal dari rakyat Indonesia."
+  },
+  {
+   "t": 2410.0,
+   "d": 9.0,
+   "text": "Pemerintah yang saya pimpin tidak akan ragu-ragu membela kepentingan rakyat Indonesia."
+  },
+  {
+   "t": 2419.0,
+   "d": 21.0,
+   "text": "kita akan kita akan gunakan Undang-Undang Dasar 1945 pasal 33 yang sudah sangat jelas cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup banyak dikuasai oleh negara."
+  },
+  {
+   "t": 2440.0,
+   "d": 11.0,
+   "text": "Ini warisan Bung Karno. Ini warisan Bung Hatta. Ini warisan Bung Syahrir. Saya yakin mereka berada di atas kebenaran."
+  },
+  {
+   "t": 2451.0,
+   "d": 21.0,
+   "text": "[Tepuk tangan] Atas dasar inilah hari ini saya umumkan setelah pertimbangan cermat oleh pemerintah untuk melindungi hak rakyat mendapatkan beras yang tepat."
+  },
+  {
+   "t": 2472.0,
+   "d": 35.0,
+   "text": "tempat takaran, tempat kualitas, harga terjangkau, dan usaha penggilingan-pengilingan beras skala besar harus mendapat izin khusus dari pemerintah kalau mereka masih mau bergerak di bidang ini. Kalau tidak yang besar silakanlah pindah ke bidang lain. Jangan main di atas kebutuhan dasar rakyat Indonesia."
+  },
+  {
+   "t": 2507.0,
+   "d": 18.0,
+   "text": "Saudara-saudara sekalian yang saya hormati, dalam 10 bulan terakhir saya bersama Kabinet Merah Putih berupaya memerangi kemiskinan dengan pendekatan holistik, pendekatan menyeluruh."
+  },
+  {
+   "t": 2525.0,
+   "d": 11.0,
+   "text": "Kami ingin angka kemiskinan ekstrem segera turun ke 0% dalam tempo sesingkat-singkatnya."
+  },
+  {
+   "t": 2536.0,
+   "d": 21.0,
+   "text": "Karena itu untuk pertama kali dalam sejarah Republik Indonesia kami telah membentuk sistem data tunggal sosial ekonomi nasional. DTSEN [Tepuk tangan] DTS menjadi pegangan kita."
+  },
+  {
+   "t": 2557.0,
+   "d": 8.0,
+   "text": "Kami pastikan program-program pemerintah untuk masyarakat miskin tepat sasaran."
+  },
+  {
+   "t": 2565.0,
+   "d": 8.0,
+   "text": "Dengan DTSen kami menjaring siapa yang berhak menerima manfaat."
+  },
+  {
+   "t": 2573.0,
+   "d": 14.0,
+   "text": "Sebelumnya kami dapat laporan bahwa masih ada orang kaya yang menikmati subsidi rakyat dengan sekarang kita ingin tepat sasaran."
+  },
+  {
+   "t": 2587.0,
+   "d": 28.0,
+   "text": "Saudara-saudara sekalian, salah satu upaya kita untuk memutus rantai kemiskinan absolut adalah kita membentuk sekolah raja. Kita sudah berhasil membangun dan membuka 100 sekolah rakyat. Kita harapkan tahun depan akan menjadi 200, tahun selanjutnya akan menjadi 300 dan seterusnya."
+  },
+  {
+   "t": 2615.0,
+   "d": 16.0,
+   "text": "[Tepuk tangan] Sekolah rakyat ini diperuntukkan untuk mereka yang dari desil yang terendah, desil 12 dari mereka yang benar-benar penghasilannya sangat-sangat rendah."
+  },
+  {
+   "t": 2631.0,
+   "d": 9.0,
+   "text": "Mereka kita asram, mereka kita berdayakan dengan kualitas pendidikan yang baik."
+  },
+  {
+   "t": 2640.0,
+   "d": 6.0,
+   "text": "ini adalah untuk memutus rantai kemiskinan."
+  },
+  {
+   "t": 2646.0,
+   "d": 19.0,
+   "text": "Anak-anak yang miskin kalau orang tuanya miskin, mereka tidak perlu untuk terus miskin. Ini yang kita telah upayakan dan ini sedang kita kerjakan sekarang. Bagaimana dengan sekolah-sekolah lain?"
+  },
+  {
+   "t": 2665.0,
+   "d": 5.0,
+   "text": "Kita telah juga membentuk sekolah unggulan."
+  },
+  {
+   "t": 2670.0,
+   "d": 14.0,
+   "text": "kita telah membangun dan akan membangun selesaikan sekolah unggulan untuk mengejar ketertinggalan kita di bidang sains dan teknologi."
+  },
+  {
+   "t": 2684.0,
+   "d": 11.0,
+   "text": "Kita bentuk sekolah unggul Garuda rencananya 20 dan akan ada 80 sekolah unggul Garuda transformasi."
+  },
+  {
+   "t": 2695.0,
+   "d": 15.0,
+   "text": "sekolah-sekolah yang sudah ada ikut dalam program ini dan kami juga akan menambah SMA Taruna Nusantara terintegrasi di seluruh pelosok negeri."
+  },
+  {
+   "t": 2710.0,
+   "d": 10.0,
+   "text": "Tahun ini kita juga akan menambah fakultas-fakultas kedokteran di seluruh Indonesia."
+  },
+  {
+   "t": 2720.0,
+   "d": 22.0,
+   "text": "kita ketinggalan dalam menghasilkan dokter-dokter dan dokter gigi. Saudara-saudara sekalian, pendidikan sangat penting. Kita juga akan renovasi lebih dari 13.000 sekolah dan 1400 madrasah."
+  },
+  {
+   "t": 2742.0,
+   "d": 18.0,
+   "text": "Dan ini masih jauh kurang dari yang kita inginkan. Tapi tahun ini ini adalah permulaan. Tahun depan kita akan cari uang untuk menambah hal ini. Juga untuk mengejar ketertinggalan kita tahun ini."
+  },
+  {
+   "t": 2760.0,
+   "d": 46.0,
+   "text": "Kita akan sebarkan 288.000 Ibu layar pintar, smart smart platform, smart TV yang akan kami distribusi ke sekolah-sekolah hingga ke pelosok-pelosok agar anak-anak di desa tertinggal yang tidak ada guru yang bagus bisa dapat mengikuti pelajaran dari guru-guru terbaik yang mengajar secara virtual untuk mencetak pemimpin-pemimpin pemimpin nasional di masa depan. Kami juga telah mencanangkan tadi yang saya sebut 20 sekolah unggul Garuda dan 80 sekolah unggul Garuda Transformasi."
+  },
+  {
+   "t": 2806.0,
+   "d": 12.0,
+   "text": "Saudara-saudara sekalian, kita juga membangun SMA Taruna Nusantara terintegrasi di seluruh pelosok negeri."
+  },
+  {
+   "t": 2818.0,
+   "d": 19.0,
+   "text": "Untuk mengatasi kekurangan dokter dan dokter spesialis tahun ini akan dibuka 148 prodi di 57 Fakultas Kedokteran di seluruh Indonesia. terdiri dari 125 prodi spesialis dan 23 prodi subspesialis."
+  },
+  {
+   "t": 2837.0,
+   "d": 12.0,
+   "text": "Kita juga akan tambahkan 25 prodi umum dan prodi gigi serta meningkatkan kuota mahasiswa kedokteran yang mendapat beasiswa."
+  },
+  {
+   "t": 2849.0,
+   "d": 10.0,
+   "text": "Saudara-saudara sekalian, untuk mengatasi perputaran uang yang terkonsentrasi di ibu kota dan kota-kota besar."
+  },
+  {
+   "t": 2859.0,
+   "d": 31.0,
+   "text": "Kami dirikan 80.000 koperasi desa dan koperasi kelurahan merah putih. Koperasi di setiap desa akan meningkatkan ekonomi desa dan menciptakan jutaan lapangan kerja. Koperasi desa, kelurahan juga akan meringankan beban hidup masyarakat kita dengan menjual beras murah, minyak goreng murah, LPG bersubsidi, pupuk bersubsidi sesuai dengan harga jual."
+  },
+  {
+   "t": 2890.0,
+   "d": 15.0,
+   "text": "Kita juga akan membuat rakyat bisa punya akses kepada protein, kepada ikan dan daging dalam harga yang terjangkau."
+  },
+  {
+   "t": 2905.0,
+   "d": 10.0,
+   "text": "Untuk mempercepat investasi di hilirisasi sumber daya alam dan berbagai bidang strategis untuk membuka lapangan kerja berkualitas."
+  },
+  {
+   "t": 2915.0,
+   "d": 12.0,
+   "text": "Kami bersama DPR RI telah membentuk apa yang kita sebut Badan Pengelola Investasi Dananttara Indonesia."
+  },
+  {
+   "t": 2927.0,
+   "d": 19.0,
+   "text": "dan antara adalah lembaga pengelola investasi dengan aset dalam pengelolaan lebih dari 1 triliun US dolar dan antara akan ciptakan jutaan lapangan kerja berkualitas terutama di bidang hidisasi."
+  },
+  {
+   "t": 2946.0,
+   "d": 12.0,
+   "text": "Alhamdulillah hari ini tingkat pengangguran nasional berhasil turun ke level terendah sejak krisis 1998."
+  },
+  {
+   "t": 2958.0,
+   "d": 10.0,
+   "text": "[Tepuk tangan] Hadirin sekalian, kami juga membangun sistem kesehatan yang lebih adil dan merata."
+  },
+  {
+   "t": 2968.0,
+   "d": 9.0,
+   "text": "Cek kesehatan gratis telah digunakan hari ini oleh lebih dari 18 juta warga."
+  },
+  {
+   "t": 2977.0,
+   "d": 8.0,
+   "text": "66 rumah sakit di 66 kabupaten sedang kami tingkatkan kelasnya."
+  },
+  {
+   "t": 2985.0,
+   "d": 13.0,
+   "text": "Kawasan Ekonomi Khusus Sanur kami hadirkan sebagai pusat pelayanan medis bertaraf internasional agar orang Indonesia tidak harus berobat ke luar negeri."
+  },
+  {
+   "t": 2998.0,
+   "d": 6.0,
+   "text": "Kami tegakkan kedaulatan Indonesia di panggung dunia."
+  },
+  {
+   "t": 3004.0,
+   "d": 39.0,
+   "text": "Kami putuskan Indonesia bergabung dengan BRIks Indonesia juga diundang di mana-mana. menjadi kehormatan dalam perayaan kemerdekaan India dan perayaan hari nasional Prancis. Kami juga berhasil menyelesaikan perundingan dagang Uni Eropa dengan Indonesia SEPA yaitu Comprehensive economic Partnership agreement yang sebenarnya adalah free trade agreement di mana kita bisa akses pasar Eropa dengan tarif nol."
+  },
+  {
+   "t": 3043.0,
+   "d": 5.0,
+   "text": "Kita juga berunding dengan Amerika."
+  },
+  {
+   "t": 3048.0,
+   "d": 11.0,
+   "text": "Indonesia aktif memperjuangkan pengakuan Palestina dan memimpin pembahasan solusi dua negara."
+  },
+  {
+   "t": 3059.0,
+   "d": 18.0,
+   "text": "Saat ini juga dua pesawat Hercules kita sedang beroperasi di Timur Tengah menerjunkan bantuan-bantuan dari udara ke Gaza."
+  },
+  {
+   "t": 3077.0,
+   "d": 8.0,
+   "text": "Saudara-saudara sekalian, kami bekerja untuk menegakkan hukum dan keadilan."
+  },
+  {
+   "t": 3085.0,
+   "d": 21.0,
+   "text": "Salah satu yang penting adalah dalam menegakkan hukum dan keadilan gaji hakim harus dalam keadaan baik. Kami telah naikkan untuk beberapa hakim sampai dengan 280% peningkatannya."
+  },
+  {
+   "t": 3106.0,
+   "d": 7.0,
+   "text": "Kami juga tidak segen-segen membongkar kasus-kasus korupsi besar."
+  },
+  {
+   "t": 3113.0,
+   "d": 14.0,
+   "text": "Bersama TNI dan Polri. Kami pastikan bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat."
+  },
+  {
+   "t": 3127.0,
+   "d": 22.0,
+   "text": "Saudara-saudara sekalian, beberapa saat yang lalu, beapa tahun yang lalu, kita mendapat laporan ada ribuan, ada jutaan perkebunan kelapa sawit yang melanggar hukum, yang menyimpang regulasi."
+  },
+  {
+   "t": 3149.0,
+   "d": 7.0,
+   "text": "Ada yang membuat perkebunan di hutan lindung, ada yang tidak melaporkan."
+  },
+  {
+   "t": 3156.0,
+   "d": 8.0,
+   "text": "luasnya perkebunan mereka. Ada yang dipanggil BPKP tidak mau datang."
+  },
+  {
+   "t": 3164.0,
+   "d": 9.0,
+   "text": "Kami terbitkan Peraturan Presiden Nomor 5 Tahun 2025 tentang penertiban kawasan hutan."
+  },
+  {
+   "t": 3173.0,
+   "d": 34.0,
+   "text": "Dan pada hari ini saya melaporkan di majelis ini bahwa pemerintah Republik Indonesia sudah menguasai kembali 3,1 juta hektar dari potensi 5 juta hektar lahan sawit yang dilaporkan melanggar aturan, tapi kita belum verifikasi."
+  },
+  {
+   "t": 3207.0,
+   "d": 16.0,
+   "text": "Yang sudah jelas kita verifikasi melanggar aturan adalah 3,7 juta hektar dan dari 3,7 juta hektar 3,1 juta sudah dikuasai kembali."
+  },
+  {
+   "t": 3223.0,
+   "d": 22.0,
+   "text": "Saudara-saudara sekalian, perlu saya laporkan juga di sini bahwa ada keputusan pengadilan yang sudah ingkrah 18 tahun yang lalu yang memerintahkan ada kebun-kebun kelapa sawit yang harus disita."
+  },
+  {
+   "t": 3245.0,
+   "d": 9.0,
+   "text": "Tapi tidak ada penegak hukum waktu itu yang mau melaksanakannya. Saya tidak tahu kenapa."
+  },
+  {
+   "t": 3254.0,
+   "d": 24.0,
+   "text": "Tapi saya telah perintahkan dikuasai kembali oleh negara dan untuk itu kita telah menggunakan pasukan-pasukan TNI untuk mengawal tim-tim yang menguasai kebun-kebun tersebut."
+  },
+  {
+   "t": 3278.0,
+   "d": 14.0,
+   "text": "Karena sering terjadi perlawanan, berani-berani melawan pemerintah NKRI yang kita hadapi, Saudara-saudara sekalian."
+  },
+  {
+   "t": 3292.0,
+   "d": 12.0,
+   "text": "Setelah ini kita akan tertibkan juga tambang-tambang yang melanggar aturan."
+  },
+  {
+   "t": 3304.0,
+   "d": 28.0,
+   "text": "Saya telah diberi laporan oleh aparat-aparat bahwa terdapat 1000 63 tambang ilegal dan potensi kekayaan yang dihasilkan oleh 163 tambang ilegal ini."
+  },
+  {
+   "t": 3332.0,
+   "d": 11.0,
+   "text": "di laporkan potensi kerugian negara adalah minimal 300 triliun."
+  },
+  {
+   "t": 3343.0,
+   "d": 15.0,
+   "text": "Saudara-saudara sekalian, saya minta dukungan seluruh MPR."
+  },
+  {
+   "t": 3358.0,
+   "d": 13.0,
+   "text": "Saya minta dukungan seluruh partai politik untuk mendukung ini demi rakyat kita, Saudara-saudara sekalian."
+  },
+  {
+   "t": 3371.0,
+   "d": 60.0,
+   "text": "Dan saya beri peringatan, apakah ada orang-orang besar, orang-orang kuat, jenderal-jenderal dari manaun, apakah jenderal dari TNI atau jenderal dari polisi atau atau mantan jenderal jenderal, tidak ada alasan kami akan bertindak atas nama rakyat [Tepuk tangan] Dan sebagai sesama pimpinan partai, sebagai sesama pimpinan partai, saya ingatkan anggota-anggota semua partai termasuk partai saya Gerindra, cepat-cepat kalau Anda terlibat Anda jadi justice collaborator."
+  },
+  {
+   "t": 3431.0,
+   "d": 14.0,
+   "text": "Anda laporan aja. Karena walaupun kau Gerindra tidak akan saya lindungi, Saudara-saudara sekalian kalau ada yang berani ya."
+  },
+  {
+   "t": 3445.0,
+   "d": 11.0,
+   "text": "Saya telah perintahkan Panglima TNI dan Kapolri, kalau Anda mau ke provinsi ini, pakai pasukan dari provinsi lain."
+  },
+  {
+   "t": 3456.0,
+   "d": 5.0,
+   "text": "Jangan-jangan ada anak buahmu di kebun-kebun itu."
+  },
+  {
+   "t": 3461.0,
+   "d": 12.0,
+   "text": "[Tepuk tangan] Saudara-saudara wakil rakyat, saudara tahu keadaan yang sebenarnya. Benar."
+  },
+  {
+   "t": 3473.0,
+   "d": 28.0,
+   "text": "Saya sudah lama jadi orang Indonesia segala ulah. Apalagi saya ini senior mantan tentara. Jadi junior-junior itu jangan macam-macam ya. Aku tahu kalau rakyat yang nambang ya sudah kita bikin koperasi kita legalkan."
+  },
+  {
+   "t": 3501.0,
+   "d": 3.0,
+   "text": "kita atur, kita legalkan ya."
+  },
+  {
+   "t": 3504.0,
+   "d": 6.0,
+   "text": "Tapi jangan alasan rakyat tahu-tahu nyelundup."
+  },
+  {
+   "t": 3510.0,
+   "d": 6.0,
+   "text": "Nyelundup ratusan triliun nyelundup."
+  },
+  {
+   "t": 3516.0,
+   "d": 20.0,
+   "text": "Saudara-saudara sekalian, harus hitung waktu ini. Saudara dengan kondisi geopolitik yang semakin tidak menentu, Indonesia harus punya pertahanan yang kuat untuk menjaga kekayaan kita."
+  },
+  {
+   "t": 3536.0,
+   "d": 34.0,
+   "text": "Untuk itu tahun ini kita bentuk en komando daerah militer baru, 14 komando daerah angkatan laut komando daerah angkatan udara satu komando operasi udara 6 grup komando pasangan khusus 20 brigade teritorial pembangunan, satu brigade infantry marine 1 resimen korps pasukan gerak cepat 100 batalion teritorial pembangunan, 5 batalion infanter Mayon dan 5 batalyon komando pasukan gerak cepat."
+  },
+  {
+   "t": 3570.0,
+   "d": 11.0,
+   "text": "Langkah ini sejalan dengan doktrin pertahanan kita, pertahanan dan keamanan rakyat semesta sis Hankamrata."
+  },
+  {
+   "t": 3581.0,
+   "d": 17.0,
+   "text": "Di mana seluruh warga negara dan sumber daya nasional didaya gunakan secara total untuk kepentingan pertahanan dan keamanan kita. Saudara-saudara sekalian, kita paham bahwa perang itu destruktif."
+  },
+  {
+   "t": 3598.0,
+   "d": 21.0,
+   "text": "Kita tidak mau perang, kita harus hindari perang. Karena itu politik luar negeri yang saya jalankan dan saya umumkan adalah politik 1000 kawan terlalu sedikit, satu lawan terlalu banyak."
+  },
+  {
+   "t": 3619.0,
+   "d": 9.0,
+   "text": "Kami tetap pada garis non blok, garis non aligned. Kami tidak akan bersihak kepada blok manapun."
+  },
+  {
+   "t": 3628.0,
+   "d": 9.0,
+   "text": "Ini yang kami sampaikan di mana-mana. Bebas aktif. Kita ingin damai dengan semua orang."
+  },
+  {
+   "t": 3637.0,
+   "d": 7.0,
+   "text": "Kami terutama dengan tetangga-tetangga kita, kita ingin selesaikan semua masalah."
+  },
+  {
+   "t": 3644.0,
+   "d": 12.0,
+   "text": "Ada masalah, kadang-kadang masalah garis perbatasan. Masalah ini adalah warisan dari kolonialis, warisan dari penjajah."
+  },
+  {
+   "t": 3656.0,
+   "d": 18.0,
+   "text": "Belanda datang dengan Inggris, dia bikin garis seenak seenak jidatnya. Dia bikin garis itu yang repot kita sekarang. I kan kita mau ditabrakkan sama Malaysia."
+  },
+  {
+   "t": 3674.0,
+   "d": 8.0,
+   "text": "Kita sahabat sama Malaysia, kita satu rumpun."
+  },
+  {
+   "t": 3682.0,
+   "d": 15.0,
+   "text": "Tapi selalu politik di Veda Imper itu selalu ada. Janganlah kita naif. Janganlah kita terus-menerus mau diadu domba."
+  },
+  {
+   "t": 3697.0,
+   "d": 25.0,
+   "text": "Saudara sekalian, setiap elemen negara Indonesia kita marilah kita bekerja keras agar setiap anak Indonesia berangkat ke sekolah dan mendapat makan yang baik. Kita ingin petani, nelayan kita kembali bangga menjadi tulang punggung bangsa, menjadi produsen makanan."
+  },
+  {
+   "t": 3722.0,
+   "d": 4.0,
+   "text": "Hidup petani dan nelayan kita harus baik."
+  },
+  {
+   "t": 3726.0,
+   "d": 15.0,
+   "text": "harus bagus. Untuk itu kita akan bangun dalam waktu yang secepat ini. Tahun ini juga kita harus mulai 1100 desa nelayan."
+  },
+  {
+   "t": 3741.0,
+   "d": 9.0,
+   "text": "Tiap desa nelayan terdiri dari 2.000 kurang lebih 2.000 kepala keluarga."
+  },
+  {
+   "t": 3750.0,
+   "d": 6.0,
+   "text": "Berarti di situ akan hidup ee 2 juta kepala keluarga."
+  },
+  {
+   "t": 3756.0,
+   "d": 20.0,
+   "text": "Kalau satu kepala keluarga terdiri dari Bapak, Ibu, dan tiga anak, berarti lima 5 juta 5 juta 10 juta orang akan hidup dengan baik. Ini akan kita wujudkan dalam waktu dekat."
+  },
+  {
+   "t": 3776.0,
+   "d": 16.0,
+   "text": "Mereka juga akan membayar kembali investasi kita. Jadi ini bukan BLT, ini bukan bagi-bagi uang. Kita pinjamin uang, mereka akan bayar cicil kembali kepada pemerintah."
+  },
+  {
+   "t": 3792.0,
+   "d": 5.0,
+   "text": "Jadi karena mereka akan menghasilkan nilai."
+  },
+  {
+   "t": 3797.0,
+   "d": 13.0,
+   "text": "Kita ingin guru-guru kita semangat mengajar karena dihargai. Kita ingin rakyat kecil bisa tersenyum karena tidak lagi takut sakit, tidak takut lapar, dan tidak takut anaknya tidak bisa sekolah."
+  },
+  {
+   "t": 3810.0,
+   "d": 7.0,
+   "text": "Tidak. Dan kita harus cari lapangan kerja yang sebesar-besarnya dan sebanyak-banyaknya."
+  },
+  {
+   "t": 3817.0,
+   "d": 8.0,
+   "text": "Tujuan kita, tujuan kemerdekaan adalah yen wong cilik iso gemuyu."
+  },
+  {
+   "t": 3825.0,
+   "d": 20.0,
+   "text": "Saudara-saudara sekalian, untuk itu saya memberi apresiasi kepada lembaga-lembaga negara atas kinerja mereka dalam menjalankan roda negara."
+  },
+  {
+   "t": 3845.0,
+   "d": 29.0,
+   "text": "MPR RI melalui visi besar rumah kebangsaan pengawal ideologi Pancasila dan kedotan rakyat secara konsisten terus-menerus sosialis sosialisasikan Pancasila Undang-Undang Dasar 1945 NKRI dan Bineka Tunggal Ika. MPR konsisten turun ke rakyat. Jelaskan empat pilar kehidupan berbangsa dan bernegara."
+  },
+  {
+   "t": 3874.0,
+   "d": 10.0,
+   "text": "Ini sangat penting karena pemahaman Undang-Undang Dasar 1945 bisa menyelamatkan ekonomi kita, bisa menyelamatkan demokrasi kita."
+  },
+  {
+   "t": 3884.0,
+   "d": 30.0,
+   "text": "DPR RRI pada periode awal 2024-29 telah membahas dan mengesahkan 14 rancangan undang-undang dan telah menetapkan program legislasi nasional tahun 2025 dan jangka menengah 2025-2029 sehingga perencanaan penyusunan dan pembawasan RUU berjalan secara terarah dan terukur."
+  },
+  {
+   "t": 3914.0,
+   "d": 33.0,
+   "text": "Pada pelaksanaan fungsi penganggaran, DPR RI telah membantu pemerintah mewujudkan efisiensi berkeadilan di APBN kita yang merupakan mandat dari Undang-Undang Dasar 1945 serta membantu menyusun RAPBN 2026 yang akan saya sampaikan sore hari ini. DPRRI juga telah melaksanakan fungsi pengawasan yang luas melalui 26 panitia kerja pengawasan dan 3 tim pengawasan."
+  },
+  {
+   "t": 3947.0,
+   "d": 40.0,
+   "text": "DPD RI telah menetapkan lebih dari 50 keputusan kelembagaan yang mencerminkan peran aktif dan strategis DPD dalam memperjuangkan aspirasi dan kepentingan daerah di tingkat pusat. Lebih lanjut, DPD RI telah mendukung pembangunan berkelanjutan, aktif menjalankan fungsi pengawasan, pemberian pertimbangan anggaran, serta proaktif memantau dan mengevaluasi RAPERDA dan Perda untuk memastikan kesesuaian regulasi daerah dengan kebijakan nasional."
+  },
+  {
+   "t": 3987.0,
+   "d": 17.0,
+   "text": "BPKRI telah membuktikan integritasnya dan independensinya dalam pemeriksaan, pengelolaan dan tanggung jawab keuangan negara."
+  },
+  {
+   "t": 4004.0,
+   "d": 27.0,
+   "text": "Capaian BPK di tahun 2024 antara lain mendorong peningkatan akuntabilitas tata kelola keuangan negara serta kualitas pertanggungjawaban pelaksanaan anggaran sehingga kementerian dan lembaga yang telah mencapai status wajar tanpa pengecualian mencapai 19 97,7% untuk tahun anggaran 2024."
+  },
+  {
+   "t": 4031.0,
+   "d": 12.0,
+   "text": "mengawal program prioritas nasional, meningkatkan efektivitas belanja APBN, serta penyelamatan puluhan triliun rupiah uang dan aset negara."
+  },
+  {
+   "t": 4043.0,
+   "d": 32.0,
+   "text": "Mahkamah Konstitusi di sepanjang tahun 2024 hingga pertengahan 2025 telah menangani ratusan perkara pengujian undang-undang, perselisihan hasil pemilihan umum, dan perselisihan hasil pemilihan kepala daerah dengan proses persidangan yang efektif, tepat waktu, dan menghasilkan berbagai putusan penting yang menjadi tonggak penguatan demokrasi dan perlindungan hak. konstitusional warga negara."
+  },
+  {
+   "t": 4075.0,
+   "d": 27.0,
+   "text": "Mahkamah Agung secara serius dan berkelanjutan melakukan reformasi peradilan, modernisasi manajemen perkara, penyelesaian sengketa perdata secara cepat, dan berorientasi pada perdamaian serta penanganan perkara pidana dengan pendekatan restorative justice dengan sistem peradilan elektronik."
+  },
+  {
+   "t": 4102.0,
+   "d": 21.0,
+   "text": "atau e-cord di Mahkamah Agung. Jumlah perkara yang didaftarkan di pengadilan tingkat pertama meningkat 30,84% dari tahun sebelumnya. Penyelesaian sengketa perdata dengan nilai gugatan di bawah Rp500 juta meningkat 68%."
+  },
+  {
+   "t": 4123.0,
+   "d": 7.0,
+   "text": "Dan tingkat keberhasilan penyelesaian sengketa melalui mediasi meningkat 28%."
+  },
+  {
+   "t": 4130.0,
+   "d": 31.0,
+   "text": "Capaian ini adalah bukti nyata kerja keras Mahkamah Agung untuk mewujudkan peradilan yang modern, cepat, berbiaya ringan, dan berkeadilan bagi seluruh rakyat Indonesia. Komisi Judisial memainkan peran strategis dalam kesejahteraan rakyat dan kemajuan Indonesia, yaitu dengan menjaga integritas hakim dan meningkatkan kepercayaan publik terhadap integritas hakim."
+  },
+  {
+   "t": 4161.0,
+   "d": 20.0,
+   "text": "Sepanjang tahun 2024 sampai dengan periode Juli 2025, Komisi Judicial telah melaksanakan seleksi calon hakim agung dan hakim adhok yang menghasilkan sebanyak 9 orang calon hakim agung, tiga orang calon hakim adhok di Mahkamah Agung."
+  },
+  {
+   "t": 4181.0,
+   "d": 40.0,
+   "text": "Komisi Yudisial juga telah menerima 3.752 laporan masyarakat terkait dugaan pelanggaran kode etik dan pedoman perilaku hakim dan mengusulkan penjatuhan sanksi kepada 116 orang hakim. Selain itu saya juga mengucapkan terima kasih kepada Bank Indonesia, Otoritas Jasa Keuangan, Lembaga Penjamin Simpan, Komisi Pemberatasan Korupsi, Komisi Pemilihan Umum, Badan Pengawas Pemilu, Ombutsman RI, KomnasHAM dan Lembaga-lembaga nasional lainnya yang"
+  },
+  {
+   "t": 4221.0,
+   "d": 7.0,
+   "text": "telah berkontribusi untuk kemajuan bangsa sesuai dan peran dan kewenangannya."
+  },
+  {
+   "t": 4228.0,
+   "d": 20.0,
+   "text": "Terakhir, saya juga mau gunakan kesempatan ini untuk mengucapkan terima kasih kepada setiap pengusaha nasional yang telah membuka lapan kerja di Indonesia, menanamkan modal di Indonesia dan menyimpan hasil usahanya di Indonesia."
+  },
+  {
+   "t": 4248.0,
+   "d": 14.0,
+   "text": "Jangan salah, tidak semua perusahaan yang besar itu ikut dalam alam mazhab serakah Nomix."
+  },
+  {
+   "t": 4262.0,
+   "d": 8.0,
+   "text": "Justru sebagian besar kita ajak untuk membangun Indonesia bersama."
+  },
+  {
+   "t": 4270.0,
+   "d": 10.0,
+   "text": "Saya sampaikan ke mereka, mereka harus menjadi bagian dari Indonesia Incorporated."
+  },
+  {
+   "t": 4280.0,
+   "d": 47.0,
+   "text": "Indonesia Incorporated adalah konsep pembangunan ekonomi di mana semua stakeholder, semua pemain bergerak dalam satu kesatuan tim nasional. Yang kuat, yang besar punya peranan, yang menengah punya peranan, yang kecil punya peranan kita bantu, yang miskin kita berdayakan. Itu namanya Indonesia Incorporated. Saya sampaikan kalau kita hilangkan kemiskinan, kalau orang yang berada di bawah garis kemiskinan punya uang, punya penghasilan,"
+  },
+  {
+   "t": 4327.0,
+   "d": 19.0,
+   "text": "mereka punya daya beli, mereka akan beli barang-barang dari pabrik-pabrik yang dimiliki oleh perusahaan-perusahaan besar. Itu yang kita namakan suatu ekonomi mata rantai yang saling memperkuat."
+  },
+  {
+   "t": 4346.0,
+   "d": 4.0,
+   "text": "bukan saling menghancurkan."
+  },
+  {
+   "t": 4350.0,
+   "d": 34.0,
+   "text": "Saudara-saudara sekalian, saya percaya dan saya yakin bahwa dengan kita bersatu, dengan kita bergotongroyong, dengan kita mencapai demokrasi sesuai dengan budaya kita, ekonomi sesuai dengan rancang bangun pendiri-pendiri bangsa kita. Insyaallah Indonesia akan semakin kuat, semakin sejahtera."
+  },
+  {
+   "t": 4384.0,
+   "d": 15.0,
+   "text": "[Tepuk tangan] Kita memilih beberapa tonggak sebagai tema kita ya."
+  },
+  {
+   "t": 4399.0,
+   "d": 8.0,
+   "text": "Bersatu, berdaulat, rakyat sejahtera. Rakyat harus sejahtera."
+  },
+  {
+   "t": 4407.0,
+   "d": 10.0,
+   "text": "Kalau rakyat tidak sejahtera, saya katakan kita gagal sebagai negara merdeka."
+  },
+  {
+   "t": 4417.0,
+   "d": 9.0,
+   "text": "Kita akan berhasil sebagai negara merdeka kalau rakyat kita sejahtera. Karena itu marilah kita bekerja sama."
+  },
+  {
+   "t": 4426.0,
+   "d": 18.0,
+   "text": "kita berbeda-beda boleh, tapi satu tujuan kita. Silakan yang berada di luar pemerintah tidak ada masalah. Terima kasih. Kita butuh koreksi, kita butuh pengawasan, kita butuh kritik."
+  },
+  {
+   "t": 4444.0,
+   "d": 7.0,
+   "text": "Walaupun kadang-kadang kritik itu menyesak juga itu."
+  },
+  {
+   "t": 4451.0,
+   "d": 7.0,
+   "text": "Tapi enggak ada masalah. Jangan, jangan berhenti kritik."
+  },
+  {
+   "t": 4458.0,
+   "d": 17.0,
+   "text": "Saya juga minta dari koalisi koalisi kita tetap di dalam koalisi harus berani mengawasi, harus berani koreksi ya."
+  },
+  {
+   "t": 4475.0,
+   "d": 28.0,
+   "text": "Tidak boleh ada yang merasa lebih kuat dari hukum. Tidak boleh ada yang merasa tidak dapat diatur. tidak dapat di periksa. Saya kira itu yang ingin saya sampaikan. Terima kasih sidang majelis yang terhormat ee Dirgahayu Republik Indonesia ke-80."
+  },
+  {
+   "t": 4503.0,
+   "d": 39.0,
+   "text": "[Tepuk tangan] Mungkin inilah tandanya bahwa demokrasi kita kuat karena saya adalah presiden kedelapan Republik Indonesia yang akan memimpin perayaan ee hari kemerdekaan yang ke-elapan Dasa Warsa."
+  },
+  {
+   "t": 4542.0,
+   "d": 21.0,
+   "text": "memang ditakdirkan untuk jadi presiden ke-elapan itu [Tepuk tangan] dan saya adalah bukti bahwa demokrasi kita berjalan karena saya ikut pemilu lima kali."
+  },
+  {
+   "t": 4563.0,
+   "d": 5.0,
+   "text": "Alhamdulillah empat kali kalah."
+  },
+  {
+   "t": 4568.0,
+   "d": 9.0,
+   "text": "Tapi hari ini saya berdiri di depan majelis ini. Terima kasih."
+  },
+  {
+   "t": 4577.0,
+   "d": 4.0,
+   "text": "Terima kasih, Saudara-saudara sekalian."
+  },
+  {
+   "t": 4581.0,
+   "d": 8.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 4589.0,
+   "d": 71.0,
+   "text": "[Tepuk tangan] Shalom salve om santi santi santi om merdeka merdeka merdeka merdeka merdeka merdeka terima kasih selesai [Tepuk tangan] [Tepuk tangan] Saudara Presiden dan Saudara Wakil Presiden, hadirin peserta sidang yang kami muliakan. Terima kasih kepada Saudara Presiden Republik Indonesia yang telah menyampaikan pidato tentang penyampaian laporan kinerja lembaga-lembaga negara sekaligus pidato kenegaraan dalam rangka hari ulang tahun"
+  },
+  {
+   "t": 4660.0,
+   "d": 18.0,
+   "text": "ke-80 kemerdekaan Republik Indonesia tahun 2025. Selanjutnya marilah kita dengarkan persembahan lagu-lagu daerah oleh Orkestra Simfoni Pradityya Wiratama Universitas Pertahanan Republik Indonesia."
+  },
+  {
+   "t": 4678.0,
+   "d": 3.0,
+   "text": "[Musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
+}

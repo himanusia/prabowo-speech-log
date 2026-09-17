@@ -1,0 +1,521 @@
+{
+ "id": "2025-01-01-akan-ada-perlawanan-dari-kelompok-yang-suka",
+ "video_id": "OnqEbFMJHHs",
+ "date": "2026-06-01",
+ "date_precise": false,
+ "title": "[FULL] Pidato Prabowo: Akan Ada Perlawanan dari Kelompok yang Suka Korupsi!",
+ "channel": "tribunjabar video",
+ "youtube_url": "https://www.youtube.com/watch?v=OnqEbFMJHHs",
+ "duration_s": 1068,
+ "duration_hms": "17:48",
+ "source_tier": "media",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 134,
+ "token_count": 1263,
+ "unique_word_count": 490,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "OnqEbFMJHHs",
+   "url": "https://www.youtube.com/watch?v=OnqEbFMJHHs",
+   "title": "[FULL] Pidato Prabowo: Akan Ada Perlawanan dari Kelompok yang Suka Korupsi!",
+   "channel": "tribunjabar video",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 7,
+  "ekonomi": 40,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 10,
+  "tata_kelola": 5,
+  "pertahanan_dan_keamanan": 1,
+  "nasional_dan_identitas": 101
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  },
+  "Hilirisasi": {
+   "count": 2
+  },
+  "Korupsi dan kebocoran": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 12.0,
+   "text": "Kita akan menghadapi perlawanan dari kelompok-kelompok yang suka dengan korupsi."
+  },
+  {
+   "t": 12.0,
+   "d": 7.0,
+   "text": "Hari ini kita peringati 81 tahun hari lahirnya Pancasila."
+  },
+  {
+   "t": 19.0,
+   "d": 25.0,
+   "text": "81 tahun yang lalu, Bung Karno berdiri di hadapan sidang Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia dan menyampaikan gagasan besar yang kemudian menjadi dasar falsafah negara Republik Indonesia."
+  },
+  {
+   "t": 44.0,
+   "d": 6.0,
+   "text": "Pancasila lahir bukan dari ruang kosong."
+  },
+  {
+   "t": 50.0,
+   "d": 10.0,
+   "text": "Pancasila lahir dari sejarah, pengalaman, budaya, dan cita-cita bangsa Indonesia sendiri."
+  },
+  {
+   "t": 60.0,
+   "d": 27.0,
+   "text": "Pancasila adalah sebuah konsensus agung, suatu kesepakatan kebangsaan yang memungkinkan bangsa kita yang terdiri atas ribuan pulau, ratusan suku bangsa, ratusan bahasa, dan ratusan budaya yang berbeda-beda untuk hidup sebagai satu bangsa."
+  },
+  {
+   "t": 87.0,
+   "d": 5.0,
+   "text": "Karena itulah tema peringatan tahun ini."
+  },
+  {
+   "t": 92.0,
+   "d": 11.0,
+   "text": "Pancasila sebagai pemersatu bangsa dan fondasi perdamaian dunia memiliki makna yang sangat mendalam."
+  },
+  {
+   "t": 103.0,
+   "d": 14.0,
+   "text": "Di tengah dunia yang semakin terpecah oleh pertikaian, rivalitas geopolitik, perang dagang, dan ketidakpastian ekonomi."
+  },
+  {
+   "t": 117.0,
+   "d": 5.0,
+   "text": "Indonesia memiliki pegangan yang kokoh."
+  },
+  {
+   "t": 122.0,
+   "d": 7.0,
+   "text": "Pegangan itu adalah Pancasila, Saudara-saudara."
+  },
+  {
+   "t": 129.0,
+   "d": 4.0,
+   "text": "Pancasila bukan sekedar dokumen sejarah."
+  },
+  {
+   "t": 133.0,
+   "d": 10.0,
+   "text": "Pancasila juga tidak boleh sekedar slogan yang kita ucapkan dalam setiap upacara."
+  },
+  {
+   "t": 143.0,
+   "d": 24.0,
+   "text": "Pancasila adalah pedoman untuk mengatur kehidupan berbangsa, kehidupan bermasyarakat, kehidupan bernegara, termasuk bagaimana kita membangun sistem ekonomi nasional kita."
+  },
+  {
+   "t": 167.0,
+   "d": 14.0,
+   "text": "Salah satu tantangan besar bangsa Indonesia hari ini adalah memastikan bahwa pembangunan ekonomi kita benar-benar berjalan sesuai dengan nilai-nilai Pancasila."
+  },
+  {
+   "t": 181.0,
+   "d": 6.0,
+   "text": "Marilah kita selalu jujur kepada diri kita sendiri."
+  },
+  {
+   "t": 187.0,
+   "d": 9.0,
+   "text": "Kita harus mengakui kelemahan-kelemahan dan kesulitan-kesulitan yang kita hadapi."
+  },
+  {
+   "t": 196.0,
+   "d": 8.0,
+   "text": "Selama beberapa dasar warsa terakhir Indonesia ekonominya memang tumbuh."
+  },
+  {
+   "t": 204.0,
+   "d": 14.0,
+   "text": "Tapi apakah pertumbuhan itu sudah merata, sudah dirasakan oleh seluruh rakyat Indonesia secara adil?"
+  },
+  {
+   "t": 218.0,
+   "d": 10.0,
+   "text": "Marilah kita jujur melihat kenyataan yang kita hadapi sekarang."
+  },
+  {
+   "t": 228.0,
+   "d": 6.0,
+   "text": "Kita memiliki sumber daya alam yang luar biasa."
+  },
+  {
+   "t": 234.0,
+   "d": 4.0,
+   "text": "Kita sudah mengerti kekayaan kita luar biasa."
+  },
+  {
+   "t": 238.0,
+   "d": 15.0,
+   "text": "Kita adalah salah satu produsen terbesar komoditas-komunitas penting yang dibutuhkan dunia modern yang dibutuhkan oleh teknologi tinggi."
+  },
+  {
+   "t": 253.0,
+   "d": 22.0,
+   "text": "kita salah satu produsen terbesar mineral-mineral penting tembaga, timah, emas, logam tanah jarang, kita produsen kelapa sawit, batuara, nikel, komunitas-komunitas pertanian lainnya yang sangat penting."
+  },
+  {
+   "t": 275.0,
+   "d": 8.0,
+   "text": "Dan sekarang kita sudah swasembad pangan."
+  },
+  {
+   "t": 283.0,
+   "d": 20.0,
+   "text": "Di mana banyak negara menghadapi kesulitan, kita sudah lebih siap. Namun kita harus mengakui bahwa terlalu lama kekayaan kita tidak sepenuhnya bisa dimanfaatkan untuk kemakmuran rakyat."
+  },
+  {
+   "t": 303.0,
+   "d": 8.0,
+   "text": "Terlalu lama sebagian nilai tambah atas sumber daya kita dinikmati di luar negeri."
+  },
+  {
+   "t": 311.0,
+   "d": 6.0,
+   "text": "Terlalu lama rakyat kita hanya menjadi penonton di atas kekayaan bangsanya sendiri."
+  },
+  {
+   "t": 317.0,
+   "d": 34.0,
+   "text": "Karena itulah saya berkeyakinan bahwa tugas sejarah kita saat ini, tugas sejarah saya sebagai Presiden Republik Indonesia ke-elapan sebagai mandataris rakyat yang disumpah di hadapan rakyat adalah untuk melakukan transformasi bangsa. terutama transformasi ekonomi nasional kita."
+  },
+  {
+   "t": 351.0,
+   "d": 12.0,
+   "text": "Transformasi dari ekonomi yang belum sepenuhnya berlandaskan Pancasila menuju ekonomi yang sungguh-sungguh berdasarkan Pancasila."
+  },
+  {
+   "t": 363.0,
+   "d": 5.0,
+   "text": "Saudara-saudara, apa arti ekonomi berdasarkan Pancasila?"
+  },
+  {
+   "t": 368.0,
+   "d": 7.0,
+   "text": "Pertama, ekonomi yang religius."
+  },
+  {
+   "t": 375.0,
+   "d": 12.0,
+   "text": "ekonomi yang ber kemanusiaan dan ekonomi yang memperkuat persatuan nasional."
+  },
+  {
+   "t": 387.0,
+   "d": 9.0,
+   "text": "Kita percaya bahwa kekayaan alam bukan sekedar komoditas ekonomi."
+  },
+  {
+   "t": 396.0,
+   "d": 25.0,
+   "text": "Kekayaan alam adalah amelola secara bertanggung jawab untuk sebesar-besar kemakmuran rakyat dan juga untuk anak dan cucu kita. untuk masa depan, untuk generasi-generasi yang akan datang."
+  },
+  {
+   "t": 421.0,
+   "d": 7.0,
+   "text": "Pembangunan ekonomi tidak boleh hanya menghasilkan angka-angka statistik."
+  },
+  {
+   "t": 428.0,
+   "d": 9.0,
+   "text": "Pembangunan ekonomi harus menghasilkan kehidupan yang lebih baik bagi seluruh rakyat Indonesia."
+  },
+  {
+   "t": 437.0,
+   "d": 15.0,
+   "text": "Anak-anak kita, anak-anak saudara-saudara yang paling lemah, paling miskin, paling tidak berdaya harus memperoleh gizi yang cukup."
+  },
+  {
+   "t": 452.0,
+   "d": 12.0,
+   "text": "Petani kita harus memperoleh pupuk yang tepat waktu dan harga yang benar."
+  },
+  {
+   "t": 464.0,
+   "d": 11.0,
+   "text": "nelayan kita harus memperoleh akses pasar yang adil dan harus dibantu dan harus diberdayakan."
+  },
+  {
+   "t": 475.0,
+   "d": 11.0,
+   "text": "Para nelayan kita adalah produsen protein yang sangat penting agar rakyat kita bisa jadi rakyat yang kuat."
+  },
+  {
+   "t": 486.0,
+   "d": 10.0,
+   "text": "Pekerja-pekerja kita harus memperoleh kesempatan penghidupan dan penghasilan yang layak."
+  },
+  {
+   "t": 496.0,
+   "d": 7.0,
+   "text": "Nasib pekerja kita harus dilindungi, harus dibantu."
+  },
+  {
+   "t": 503.0,
+   "d": 11.0,
+   "text": "Ketiga, ekonomi kita harus berpihak kepada kepentingan nasional dan kepentingan rakyat."
+  },
+  {
+   "t": 514.0,
+   "d": 7.0,
+   "text": "Ekonomi kita tidak boleh hanya menguntungkan segelintir orang saja."
+  },
+  {
+   "t": 521.0,
+   "d": 11.0,
+   "text": "Sudah terlalu lama harga berbagai KKN alam kita ditentukan oleh pihak lain, ditentukan di negara lain."
+  },
+  {
+   "t": 532.0,
+   "d": 10.0,
+   "text": "Sudah terlalu lama sebagian keuntungan dari sumber daya alam mengalir ke luar negeri dan tidak tinggal di Ibu Pertiwi."
+  },
+  {
+   "t": 542.0,
+   "d": 9.0,
+   "text": "Karena itu pemerintah menentukan ekspor sumber daya alam satu pintu."
+  },
+  {
+   "t": 551.0,
+   "d": 11.0,
+   "text": "Kita juga harus melakukan investasi besar di bidang industrialisasi berdasarkan hilirisasi."
+  },
+  {
+   "t": 562.0,
+   "d": 17.0,
+   "text": "Kita harus memperkuat pengelolaan devisa hasil ekspor dan memastikan bahwa kekayaan Indonesia memberi manfaat sebesar-besarnya kepada seluruh rakyat Indonesia."
+  },
+  {
+   "t": 579.0,
+   "d": 40.0,
+   "text": "Keempat, ekonomi Pancasila adalah ekonomi yang egaliter, ekonomi yang kerakyatan, ekonomi kita berdasarkan rancang bangun cetak biru yang dibuat oleh pendiri-pendiri bangsa kita, oleh Bung Karno, Bung Hatta, Bung Syahrir dan Semua pendiri-pendiri bangsa kita tertuang dengan sangat jelas dalam pasal 33 Undang-Undang Dasar 1945."
+  },
+  {
+   "t": 619.0,
+   "d": 23.0,
+   "text": "Di mana sangat jelas diamanatkan bahwa perekonomian Indonesia disusun sebagai usaha bersama berdasarkan azas kekeluargaan."
+  },
+  {
+   "t": 642.0,
+   "d": 29.0,
+   "text": "Karena itu koperasi harus diperkuat, koperasi harus bangkit, koperasi adalah salah satu alat untuk mengangkat rakyat kita dari keadaan kemiskinan dan ketidakberdayaan."
+  },
+  {
+   "t": 671.0,
+   "d": 14.0,
+   "text": "Usaha kecil dan menengah harus kita perkuat dan desa harus menjadi pusat pertumbuhan ekonomi baru, Saudara-saudara."
+  },
+  {
+   "t": 685.0,
+   "d": 4.0,
+   "text": "Karena itu rakyat harus menjadi pelaku utama dari pembangunan."
+  },
+  {
+   "t": 689.0,
+   "d": 9.0,
+   "text": "bukan sekedar objek pembangunan apalagi hanya menjadi alat pembangunan."
+  },
+  {
+   "t": 698.0,
+   "d": 9.0,
+   "text": "Kelima, ekonomi kita adalah ekonomi yang berkeadilan sosial."
+  },
+  {
+   "t": 707.0,
+   "d": 3.0,
+   "text": "Inilah tujuan dari seluruh perjuangan kita."
+  },
+  {
+   "t": 710.0,
+   "d": 5.0,
+   "text": "Pertumbuhan ekonomi harus disertai pemerataan."
+  },
+  {
+   "t": 715.0,
+   "d": 6.0,
+   "text": "Kemajuan harus dirasakan oleh seluruh rakyat Indonesia."
+  },
+  {
+   "t": 721.0,
+   "d": 8.0,
+   "text": "Saudara-saudara, atas dasar itulah pemerintah saat ini melakukan berbagai langkah transformasi."
+  },
+  {
+   "t": 729.0,
+   "d": 4.0,
+   "text": "Kita tidak hanya mau bicara pembangunan."
+  },
+  {
+   "t": 733.0,
+   "d": 6.0,
+   "text": "Kita sekarang punya cita-cita yang lebih berani."
+  },
+  {
+   "t": 739.0,
+   "d": 11.0,
+   "text": "Kita sedang dan akan menjalankan terus strategi transformasi bangsa."
+  },
+  {
+   "t": 750.0,
+   "d": 13.0,
+   "text": "Strategi kita sejatinya adalah transformasi menjadi haluan yang sejalan dengan Pancasila."
+  },
+  {
+   "t": 763.0,
+   "d": 9.0,
+   "text": "Kita memperkuat hilirisasi sumber daya alam. Kita membangun ketahanan pangan nasional. Kita memperkuat koperasi dan ekonomi desa."
+  },
+  {
+   "t": 772.0,
+   "d": 28.0,
+   "text": "Kita terus memberi makan bergizi gratis untuk membangun generasi Indonesia yang sehat dan unggul dan cerdas. Kita memperkuat pendidikan, kesehatan, dan pembangunan manusia. kita memperbaiki tata kelola agar kekayaan bangsa tidak terus bocor dan tidak terus mengalir ke luar negeri."
+  },
+  {
+   "t": 800.0,
+   "d": 9.0,
+   "text": "Saudara-saudara, suatu transformasi, suatu perubahan yang besar tidak mudah."
+  },
+  {
+   "t": 809.0,
+   "d": 7.0,
+   "text": "Kita akan menghadapi rintangan, kita akan menghadapi tantangan."
+  },
+  {
+   "t": 816.0,
+   "d": 23.0,
+   "text": "Mungkin juga kita akan menghadapi perlawanan dari kelompok-kelompok yang suka dengan korupsi, suka dengan penyeludupan, suka dengan tindakan-tindakan ekonomi yang ilegal."
+  },
+  {
+   "t": 839.0,
+   "d": 13.0,
+   "text": "Kita akan mungkin menghadapi perlawanan dari mereka-mereka yang tidak cinta tanah air, bahkan berusaha terus untuk memperlemah NKRI."
+  },
+  {
+   "t": 852.0,
+   "d": 4.0,
+   "text": "Tapi bangsa yang besar harus berani."
+  },
+  {
+   "t": 856.0,
+   "d": 9.0,
+   "text": "Kita harus berani ambil keputusan yang benar walaupun sulit. Kita harus berani membela rakyat kita."
+  },
+  {
+   "t": 865.0,
+   "d": 11.0,
+   "text": "Kita tidak boleh mewariskan kemudahan jangka pendek, tapi mengorbankan masa depan anak-anak dan cucu-cucu kita."
+  },
+  {
+   "t": 876.0,
+   "d": 9.0,
+   "text": "Tidak ada negara yang merdeka tanpa kemakmuran."
+  },
+  {
+   "t": 885.0,
+   "d": 12.0,
+   "text": "Kita tidak mau jadi bangsa yang tergantung oleh bangsa lain. Karena sesungguhnya tidak ada bangsa lain yang akan kasihan sama kita."
+  },
+  {
+   "t": 897.0,
+   "d": 13.0,
+   "text": "Kalau kita dalam kesulitan, kalau rakyat kita lapar, kalau rakyat kita dalam kesulitan, tidak ada bangsa lain, kekuatan lain yang akan kasihan atau membantu kita."
+  },
+  {
+   "t": 910.0,
+   "d": 25.0,
+   "text": "Sebagaimana pendiri bangsa kita, sebagaimana proklamator kita, Bung Karno pernah menganjurkan kepada kita, kita harus berani berdiri di atas kaki kita sendiri. Itu adalah intisari daripada negara yang berdaulat."
+  },
+  {
+   "t": 935.0,
+   "d": 5.0,
+   "text": "Saudara-saudara, Pancasila telah mempersatukan bangsa Indonesia."
+  },
+  {
+   "t": 940.0,
+   "d": 21.0,
+   "text": "Selama 81 tahun banyak pihak, banyak negara yang mengatakan Indonesia tidak bisa utuh, Indonesia tidak bisa bertahan karena terlalu banyak perbedaan, terlalu banyak suku bangsa, terlalu banyak bahasa daerah, terlalu banyak adat yang berbeda."
+  },
+  {
+   "t": 961.0,
+   "d": 8.0,
+   "text": "Tapi kita buktikan hari ini kita masih menjadi bangsa yang utuh, bangsa yang bersatu."
+  },
+  {
+   "t": 969.0,
+   "d": 34.0,
+   "text": "Dan saya yakin ketika kita menjalankan Pancasila secara sungguh-sungguh di bidang politik, di bidang hukum, di bidang sosial, di bidang budaya, dan terutama di bidang ekonomi, saya yakin Indonesia tidak hanya akan menjadi negara maju dan makmur. Indonesia akan menjadi bangsa yang dihormati oleh bangsa-bangsa lain karena rakyatnya sejahtera."
+  },
+  {
+   "t": 1003.0,
+   "d": 7.0,
+   "text": "Bangsa yang kuat karena persatuannya, bangsa yang makmur karena keadilannya."
+  },
+  {
+   "t": 1010.0,
+   "d": 4.0,
+   "text": "Bangsa yang besar karena kemanusiaannya."
+  },
+  {
+   "t": 1014.0,
+   "d": 5.0,
+   "text": "Bangsa yang mampu menjadi kekuatan bagi perdamaian dunia."
+  },
+  {
+   "t": 1019.0,
+   "d": 9.0,
+   "text": "Bangsa yang tidak minta-minta bantuan, bangsa yang mampu membantu bangsa-bangsa lain."
+  },
+  {
+   "t": 1028.0,
+   "d": 5.0,
+   "text": "Mari kita jaga Pancasila. Mari kita amalkan Pancasila."
+  },
+  {
+   "t": 1033.0,
+   "d": 6.0,
+   "text": "Mari kita wujudkan Indonesia yang adil, makmur, berdaulat, dan bermartabat."
+  },
+  {
+   "t": 1039.0,
+   "d": 7.0,
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom."
+  },
+  {
+   "t": 1046.0,
+   "d": 8.0,
+   "text": "Salve. Om santi santi santi om. Namo budhaya. Salam kebajikan. Salam Pancasila."
+  },
+  {
+   "t": 1054.0,
+   "d": 2.0,
+   "text": "Salam Pancasila."
+  },
+  {
+   "t": 1056.0,
+   "d": 9.0,
+   "text": "Merdeka merdeka merdeka [berteriak] merdeka merdeka merdeka."
+  },
+  {
+   "t": 1065.0,
+   "d": 3.0,
+   "text": "Jangan lupa like, subscribe, dan share ya. Yeah."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": null
+ },
+ "date_source": "tanggal unggah YouTube (perkiraan)"
+}
