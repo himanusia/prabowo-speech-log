@@ -1,0 +1,38 @@
+{
+ "id": "2024-12-03-us-asean-business-council-us-abc-di-istana-negara-jakart",
+ "video_id": null,
+ "date": "2024-12-03",
+ "date_precise": true,
+ "title": "US-ASEAN Business Council (US-ABC), di Istana Negara, Jakarta, 3 Desember 2024",
+ "channel": "Sekretariat Kabinet RI",
+ "youtube_url": null,
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "resmi_setkab",
+ "fetch_method": "setkab_rest_api",
+ "canonical_overridden": false,
+ "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis.",
+ "duplicate_count": 0,
+ "uploads": [],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "Sambutan Presiden Prabowo Subianto pada US-ASEAN Business Council (US-ABC), di Istana Negara, Jakarta, Selasa, 3 Desember 2024 The Coordinating Minister for Economic Affairs, the Honorable Mr. Airlangga Hartarto; Minister of Foreign Affairs, the Honorable Mr. Sugiono; Minister of Investment and Downstream, the Honorable Mr. Rosan Roeslani; Our Cabinet Secretary, Mr. Teddy Indra Wijaya; Vice Minister of Finance, Mr. Thomas Djiwandono; Mr. Hashim Djojohadikusumo from Indonesian Chamber of Commerce and Industry (KADIN); Ambassador Ted Osius, President and CEO of the US-ASEAN Business Council (US-ABC); And, the distinguished members of the business mission of the US-ASEAN Business Council to Indonesia 2024; Ambassador Kamala Lakhdhir, US Ambassador to Indonesia; Ambassador Robert Blake; And, Ladies and Gentlemen. First of all, I would like to welcome you, all of you to Indonesia, but most of you who are domiciled here, I think, thank you for attending this morning’s meeting. I think by now, most of my programs have already been explained in public. I also have met Ambassador Osius in Washington D.C., meeting also many members of the US-ASEAN Business Council. As you know, we have been, my administration has only been active, been in office 44 days, today is our 44 th day. And of these 44 days, 16 days I was traveling. But, I would like to say that I’m very satisfied with the performance of my administration in these 44 days. Most of the targets that we have set for ourselves are being worked upon, many of our commitments we have delivered. And, I have to say that I am very grateful to my team. Yesterday, I had my third full cabinet meeting in 44 days and I reviewed what we have done in 44 days. And, I thanked my team, I thanked my cabinet for their performance. I was pleasantly surprised when I came back and my ministers reported what they have done. I think they’re working very fast and I think this is, maybe perhaps, this will be one of the defining, perhaps the defining characteristic of our cabinet.   *Transkrip pidato presiden berdasarkan rilis video BPMI Sekretariat Presiden"
+  }
+ ],
+ "token_count": 321,
+ "unique_word_count": 0,
+ "snippet_count": 1,
+ "sumber_transkrip": "setkab_resmi",
+ "provenance": {
+  "source": "setkab.go.id REST API (kategori 87)",
+  "link": "https://setkab.go.id/us-asean-business-council-us-abc-di-istana-negara-jakarta-3-desember-2024/",
+  "note": "Transkrip resmi. Tidak ada cap waktu per paragraf."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false
+}

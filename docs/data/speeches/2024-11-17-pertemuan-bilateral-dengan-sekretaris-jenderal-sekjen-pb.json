@@ -1,0 +1,38 @@
+{
+ "id": "2024-11-17-pertemuan-bilateral-dengan-sekretaris-jenderal-sekjen-pb",
+ "video_id": null,
+ "date": "2024-11-17",
+ "date_precise": true,
+ "title": "Pertemuan Bilateral dengan Sekretaris Jenderal (Sekjen) PBB, di Rio de Janeiro, Brasil, 17 November 2024",
+ "channel": "Sekretariat Kabinet RI",
+ "youtube_url": null,
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "resmi_setkab",
+ "fetch_method": "setkab_rest_api",
+ "canonical_overridden": false,
+ "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis.",
+ "duplicate_count": 0,
+ "uploads": [],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "Sambutan Presiden Prabowo pada Pertemuan Bilateral dengan Sekretaris Jenderal (Sekjen) PBB, 17 November 2024 First of all, Your Excellency Secretary General of the United Nations, His Excellency Mr. Antonio Guterres, thank you very much for meeting with us today in the middle of your very busy schedule. I understand you flew 20 hours from Baku, so I really appreciate this meeting. We really appreciate, respect, and support your consistent stand to uphold international peace, international justice, international law. This is really uplifting for us that you are consistent in this. And for us, your stand on many of the issues of concern in this present situation, especially the issue of food security, poverty, the issue of human rights violations, violations of international law, especially in Palestine. And we reaffirm Indonesia’s commitment to support all United Nations’ efforts and we are willing to support. For instance, we are on record as saying that we will support a peacekeeping force in the event there is a possibility of ceasefire and the need for internationally mandated peacekeeping forces, we are ready to provide the forces. So, I also thank you for your letter of the issues that you want to discuss. As you know, in the issue of global climate change, we are very committed, we are very ambitious. We, I plan in my new administration to go completely 100 percent renewable and green. And we really hope that we can achieve this within 10 years, but on several issues we can go faster. For instance, we have already developed the technology to make diesel oil from plants, from palm oil, diesel oil. And we are also now developing to produce benzine/gasoline from palm oil, but the economic cost is still not attractive, so we have to find new better procedures. But we hope maybe in two-three years we can get economically attractive to get gasoline from plants. And renewables, we have a lot of geothermal. I think Indonesia is very blessed with the largest reserves of geothermal energy in the world, I think about 60 percent of geothermal energy is in Indonesia. We have also, of course, abundant solar energy. I think the photovoltaic panels and electricity from solar energy are very attractive, because we are very dispersed, we have a lot of islands, 17,000 islands. But we are committed and we are very optimistic, we are very bullish on this transition to a green energy. So, once again, Secretary General we support you, we are inspired by you, by your committed stand for international peace and international law. And we hope if we can support you in more ways, we are very willing to do so. Thank you very much Secretary General."
+  }
+ ],
+ "token_count": 433,
+ "unique_word_count": 0,
+ "snippet_count": 1,
+ "sumber_transkrip": "setkab_resmi",
+ "provenance": {
+  "source": "setkab.go.id REST API (kategori 87)",
+  "link": "https://setkab.go.id/pertemuan-bilateral-dengan-sekretaris-jenderal-sekjen-pbb-di-rio-de-janeiro-brasil-17-november-2024-2/",
+  "note": "Transkrip resmi. Tidak ada cap waktu per paragraf."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false
+}

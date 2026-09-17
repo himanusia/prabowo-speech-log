@@ -1,0 +1,38 @@
+{
+ "id": "2024-11-09-pertemuan-bilateral-presiden-ri-dengan-presiden-rrt-di-g",
+ "video_id": null,
+ "date": "2024-11-09",
+ "date_precise": true,
+ "title": "Pertemuan Bilateral Presiden RI dengan Presiden RRT, di Great Hall of the People, Beijing, RRT, 9 November 2024",
+ "channel": "Sekretariat Kabinet RI",
+ "youtube_url": null,
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "resmi_setkab",
+ "fetch_method": "setkab_rest_api",
+ "canonical_overridden": false,
+ "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis.",
+ "duplicate_count": 0,
+ "uploads": [],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "Sambutan Presiden Prabowo Subianto pada Pertemuan Bilateral Presiden RI dengan Presiden RRT, 9 November 2024 Your Excellency President Xi Jinping, President of the People’s Republic of China and Distinguished Leaders of the Government of the People’s Republic of China. First of all, I am very grateful that you have received me once again, and I realize that today is a Saturday evening and yet you still receive me with a state ceremony, thank you very much. I thank you also for having received me in April. I was not yet officially certified as President-elect and yet you already received me. I was very surprised because I requested only a short courtesy call as Minister of Defense, but you received me and you give me great honor, once again thank you very much. Also, I thank you very much that you sent a special envoy at my inauguration. I think this also symbolizes the high regard and the respect that you give to the people of Indonesia. Thank you very much. As you know, Indonesia considers China not only as a great power, but as a great civilization. We have lived together for many centuries and our cultures and our people have been interrelated for many many years. Therefore, I think it is only natural that now in the present situation geopolitical and geoeconomic that Indonesia and China have become very close partners in many many fields. So once again President Xi, Distinguished Leaders, I would like to reiterate our commitment to enhance this relationship and to work together for the mutual benefit of our two peoples and for the prosperity, peace, and stability of all of Asia. That is my commitment. I’m convinced that the relationship between Indonesia and China will bring a conducive atmosphere in the strategic situation in Asia, and in our region especially. Our relationship is getting stronger and stronger. China is a strategic economic partner of Indonesia, top investor Indonesia and we thank you very much for your support. For instance, tomorrow I will be invited to a meeting between Indonesian Trade and Industry Chamber of Commerce and top Chinese corporations. And there will be signed agreements totaling more than US$10 billion, I think this is a very significant milestone in our relationship."
+  }
+ ],
+ "token_count": 352,
+ "unique_word_count": 0,
+ "snippet_count": 1,
+ "sumber_transkrip": "setkab_resmi",
+ "provenance": {
+  "source": "setkab.go.id REST API (kategori 87)",
+  "link": "https://setkab.go.id/pertemuan-bilateral-presiden-ri-dengan-presiden-rrt-di-great-hall-of-the-people-beijing-rrt-9-november-2024/",
+  "note": "Transkrip resmi. Tidak ada cap waktu per paragraf."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false
+}

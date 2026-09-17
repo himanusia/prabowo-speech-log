@@ -1,0 +1,38 @@
+{
+ "id": "2024-11-09-pertemuan-bilateral-presiden-ri-dengan-ketua-kongres-rak",
+ "video_id": null,
+ "date": "2024-11-09",
+ "date_precise": true,
+ "title": "Pertemuan Bilateral Presiden RI dengan Ketua Kongres Rakyat Nasional RRT, di Great Hall of the People, Beijing, RRT, 9 November 2024",
+ "channel": "Sekretariat Kabinet RI",
+ "youtube_url": null,
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "resmi_setkab",
+ "fetch_method": "setkab_rest_api",
+ "canonical_overridden": false,
+ "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis.",
+ "duplicate_count": 0,
+ "uploads": [],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "Sambutan Presiden Prabowo Subianto pada Pertemuan Bilateral Presiden RI dengan Ketua Kongres Rakyat Nasional RRT, 9 November 2024 Thank you very much, Your Excellency, for your kind remarks. I, first of all, thank you very much, Your Excellency the Chairman of the National People’s Congress Standing Committee and all Distinguished Members of the National People’s Congress of the People’s Republic of China. It’s a great honor today for me to be received by you. As you know, you mentioned already that this is my first official state visit after I’ve been inaugurated as President of the Republic of Indonesia on the 20 th October. I would like to thank the Government of the People’s Republic of China for sending your Vice President as the Special Envoy of the Government of the People’s Republic of China, the Special Envoy of the President of the People’s Republic of China to my inauguration on the 20 th of October. This is truly a great honor. And also, you mentioned also that even before I was inaugurated officially as the President after winning the mandate, even before I was officially designated the President-elect of Indonesia, your President, your government kindly invited me and received me with great honor. So, yes this is my second visit to the People’s Republic of China this year. This also shows our great regards for the People’s Republic of China, our commitment to maintain and enhance the relationship between our two countries, close friendship and close cooperation. I think this is a symbol of the importance we hold, China-Indonesia relationship. And I will continue to enhance this relationship, I will have good discussions with your President and your government, your Prime Minister. And we will formulate more enhancing ways to increase our cooperation and our friendship. Thank you."
+  }
+ ],
+ "token_count": 285,
+ "unique_word_count": 0,
+ "snippet_count": 1,
+ "sumber_transkrip": "setkab_resmi",
+ "provenance": {
+  "source": "setkab.go.id REST API (kategori 87)",
+  "link": "https://setkab.go.id/pertemuan-bilateral-presiden-ri-dengan-ketua-kongres-rakyat-nasional-rrt-di-great-hall-of-the-people-beijing-rrt-9-november-2024/",
+  "note": "Transkrip resmi. Tidak ada cap waktu per paragraf."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false
+}

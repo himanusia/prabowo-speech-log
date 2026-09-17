@@ -1,0 +1,38 @@
+{
+ "id": "2024-12-25-remarks-of-president-of-the-republic-of-indonesia-on-chr",
+ "video_id": null,
+ "date": "2024-12-25",
+ "date_precise": true,
+ "title": "Remarks of President of the Republic of Indonesia on Christmas 2024 and New Year 2025, in Hambalang, Bogor Regency, West Java Province, December 25, 2024",
+ "channel": "Sekretariat Kabinet RI",
+ "youtube_url": null,
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "resmi_setkab",
+ "fetch_method": "setkab_rest_api",
+ "canonical_overridden": false,
+ "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis.",
+ "duplicate_count": 0,
+ "uploads": [],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "Bismillahirrahmanirrahim. Assalamu’alaikum warahmatullahi wabarakatuh. Wishing peace and prosperity for us all, Shalom, Salve , Om Swastiastu, Namo Buddhaya, Greetings of Virtue, As the President of the Republic of Indonesia and on behalf of the Indonesian Government and on my own behalf, I, Prabowo Subianto, wish all Christians across the country a merry Christmas. May all Christians celebrate Christmas with peace, and receive blessings from God. I also wish a Happy New Year 2025. May the New Year bring us peace, goodness, and blessings. I thank you. Wassalamu’alaikum warahmatullahi wabarakatuh, Wishing peace and prosperity for us all, Shalom, Salve , Om Swastiastu, Namo Buddhaya, Greetings of Virtue, (RAS/MUR)"
+  }
+ ],
+ "token_count": 102,
+ "unique_word_count": 0,
+ "snippet_count": 1,
+ "sumber_transkrip": "setkab_resmi",
+ "provenance": {
+  "source": "setkab.go.id REST API (kategori 87)",
+  "link": "https://setkab.go.id/remarks-of-president-of-the-republic-of-indonesia-on-christmas-2024-and-new-year-2025-in-hambalang-bogor-regency-west-java-province-december-25-2024/",
+  "note": "Transkrip resmi. Tidak ada cap waktu per paragraf."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2024-10-20-jamuan-santap-malam-resmi-untuk-pemimpin-negara-dan-utus",
+ "video_id": null,
+ "date": "2024-10-20",
+ "date_precise": true,
+ "title": "Jamuan Santap Malam Resmi untuk Pemimpin Negara dan Utusan Khusus, di Istana Negara, Jakarta, 20 Oktober 2024",
+ "channel": "Sekretariat Kabinet RI",
+ "youtube_url": null,
+ "duration_s": 0,
+ "duration_hms": "?",
+ "source_tier": "resmi_setkab",
+ "fetch_method": "setkab_rest_api",
+ "canonical_overridden": false,
+ "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis.",
+ "duplicate_count": 0,
+ "uploads": [],
+ "topics": {},
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 0.0,
+   "text": "Sambutan Presiden Prabowo Subianto pada Jamuan Santap Malam Resmi untuk Pemimpin Negara dan Utusan Khusus , 2 0 Oktober 2024 Your presence here not only is a great honor for me personally, but more important it is a great honor for my people and my country. The fact that you have made the effort to travel many many miles to leave your important political and government duties to spend some time with us, is indeed very touching and very moving for us. We are only recently experiencing constitutional democracy. We still have to learn a lot. We realize we have to improve all services and all execution of the ideals of democracy. So, once again, please accept on the behalf of Indonesian people, and on my own behalf, once again, the greatest appreciation, greatest thanks, and my highest assurance that we hold the relationship between Indonesia and all the countries represented here in the highest, highest degree of regard. We would like to continue this relationship and this friendship. Indonesia would like to be the best of neighbors, the best of partners to work together for the common good, common peace, common prosperity. Thank you very much."
+  }
+ ],
+ "token_count": 190,
+ "unique_word_count": 0,
+ "snippet_count": 1,
+ "sumber_transkrip": "setkab_resmi",
+ "provenance": {
+  "source": "setkab.go.id REST API (kategori 87)",
+  "link": "https://setkab.go.id/jamuan-santap-malam-resmi-untuk-pemimpin-negara-dan-utusan-khusus-di-istana-negara-jakarta-20-oktober-2024/",
+  "note": "Transkrip resmi. Tidak ada cap waktu per paragraf."
+ },
+ "speaker_kind": "pidato_prabowo",
+ "worklist_kind": "pidato",
+ "is_fragment": false
+}
