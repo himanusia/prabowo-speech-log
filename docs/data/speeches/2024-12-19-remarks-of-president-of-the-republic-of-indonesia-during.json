@@ -11,7 +11,7 @@
  "source_tier": "resmi_setkab",
  "fetch_method": "setkab_rest_api",
  "canonical_overridden": false,
- "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis.",
+ "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis. | Kembar teks dari entri 2024-12-19-sesi-khusus-konferensi-tingkat-tinggi-ktt-d-8-di-istana- (satu pidato, terbit dua kali di Setkab); disisihkan supaya tidak dihitung dua kali.",
  "duplicate_count": 0,
  "uploads": [],
  "topics": {},
@@ -32,7 +32,7 @@
   "link": "https://setkab.go.id/remarks-of-president-of-the-republic-of-indonesia-during-the-special-session-of-d-8-summit-at-the-presidential-palace-new-administrative-capital-cairo-egypt-december-19-2024/",
   "note": "Transkrip resmi. Tidak ada cap waktu per paragraf."
  },
- "speaker_kind": "pidato_prabowo",
+ "speaker_kind": "lain",
  "worklist_kind": "pidato",
  "is_fragment": false,
  "transkrip_resmi": {

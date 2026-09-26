@@ -14,7 +14,7 @@
  "token_count": 264,
  "unique_word_count": 145,
  "canonical_overridden": false,
- "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip. | Tautan teks resmi dilepas: Pengantar Presiden Prabowo Subianto pada Sidang Perdana Dewan Pertahanan Nasional, di Ista (beda acara).",
  "duplicate_count": 0,
  "uploads": [
   {
@@ -69,12 +69,5 @@
  },
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "kunjungan",
- "is_fragment": false,
- "transkrip_resmi": {
-  "sumber": "Sekretariat Kabinet RI",
-  "link": "https://setkab.go.id/pengantar-presiden-prabowo-subianto-pada-sidang-perdana-dewan-pertahanan-nasional-di-istana-kepresidenan-bogor-jawa-barat-jumat-7-februari-2025/",
-  "judul_resmi": "Pengantar Presiden Prabowo Subianto pada Sidang Perdana Dewan Pertahanan Nasional, di Istana Kepresidenan Bogor, Jawa Barat, Jumat, 7 Februari 2025",
-  "panjang_karakter": 2321,
-  "teks": "Pengantar Presiden Prabowo Subianto pada Sidang Perdana Dewan Pertahanan Nasional, di Istana Kepresidenan Bogor, Jawa Barat, Jumat, 7 Februari 2025 Bismillahirrahmanirrahim . A salamu ’ alaikum warahmatullahi wabarakatuh , Selamat siang, Salam sejahtera bagi kita sekalian, Syalom, S alve , Om Swastiastu, N amo Bud d ha ya, Salam kebajikan. Yang saya hormati Saudara Wakil Presiden Republik Indonesia, para Menteri Koordinator, para Menteri Kabinet Merah Putih, Jaksa Agung, Kepala BIN, Panglima TNI, Kapolri, KSAD, KSAL, KSAU, para anggota tetap Dewan Pertahanan Nasional, serta para anggota pakar strategis industri pertahanan yang saya hormati. Pertama-tama tentunya sebagai insan yang bertakwa, marilah kita tidak henti-hentinya memanjatkan puji syukur kehadirat Tuhan Mahakuasa Allah Swt. atas segala karunia yang telah diberikan kepada kita sekalian, kita masih diberi kesehatan untuk kumpul di tempat yang baik ini melaksanakan kegiatan yang sangat penting yaitu Sidang Perdana Dewan Pertanaan Nasional. Saudara-saudara sekalian, Sebagaimana tadi disampaikan oleh Ketua Harian, bahwa Dewan Pertahanan Nasional itu diamanatkan oleh Undang-undang Nomor 3 Tahun 2002 tentang pertahanan negara, khususnya Pasal 15 tentang pembentukan Dewan Pertahanan Nasional, tapi baru kita wujudkan tahun 2024. Berarti baru 22 tahun sesudah undang-undang disahkan, kita sekarang memiliki Dewan Pertanian Nasional sesuai perintah undang-undang, sesuai dengan amanat dari Undang-undang Nomor 3 Tahun 2002. Saudara-saudara sekalian, Dalam hal ini saya ingin kembali, sebagaimana tadi juga dilaporkan oleh Ketua Harian, vitalnya masalah pertahanan bagi suatu negara. Bahkan, dalam pembukaan undang-undang dasar kita tahun 1945, tujuan nasional pertama adalah melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia. Azas pertama adalah azas perlindungan, artinya azas pertahanan. Jadi, Saudara-saudara, kalau kita pun lihat, dalam bernegara, saya berapa kali sudah menyampaikan, bahwa dalam state craft ataupun aliran bernegara itu ada aliran ideologi, aliran kemakmuran. Tapi yang sekarang menonjol, yang sekarang mencuat, dan yang sekarang sepertinya berlaku adalah aliran bernegara berdasarkan azas realisme. Adanya negara tujuannya adalah s urvival bagi bangsa kita. Saya kira terima kasih kawan-kawan dari media ya."
- }
+ "is_fragment": false
 }

@@ -1512,42 +1512,6 @@
   "topics": {}
  },
  {
-  "id": "2024-12-19-remarks-of-president-of-the-republic-of-indonesia-during",
-  "date": "2024-12-19",
-  "title": "Remarks of President of the Republic of Indonesia during the Special Session of D-8 Summit at the Presidential Palace, New Administrative Capital, Cairo, Egypt, December 19, 2024",
-  "channel": "Sekretariat Kabinet RI",
-  "video_id": null,
-  "youtube_url": null,
-  "duration_s": 0,
-  "duration_hms": "?",
-  "token_count": 363,
-  "unique_word_count": 0,
-  "source_tier": "resmi_setkab",
-  "fetch_method": "setkab_rest_api",
-  "upload_count": 0,
-  "duplicate_count": 0,
-  "para_count": 1,
-  "topics": {}
- },
- {
-  "id": "2024-12-19-remarks-of-president-of-the-republic-of-indonesia-on-the",
-  "date": "2024-12-19",
-  "title": "Remarks of President of the Republic of Indonesia on the Occasion of D-8 Summit at the Presidential Palace, New Administrative Capital, Cairo, Egypt, December 19, 2024",
-  "channel": "Sekretariat Kabinet RI",
-  "video_id": null,
-  "youtube_url": null,
-  "duration_s": 0,
-  "duration_hms": "?",
-  "token_count": 640,
-  "unique_word_count": 0,
-  "source_tier": "resmi_setkab",
-  "fetch_method": "setkab_rest_api",
-  "upload_count": 0,
-  "duplicate_count": 0,
-  "para_count": 1,
-  "topics": {}
- },
- {
   "id": "2024-12-19-sesi-khusus-konferensi-tingkat-tinggi-ktt-d-8-di-istana-",
   "date": "2024-12-19",
   "title": "Sesi Khusus Konferensi Tingkat Tinggi (KTT) D-8, di Istana Kepresidenan New Administrative Capital, Kairo, Mesir, 19 Desember 2024",
@@ -2270,32 +2234,6 @@
    "tata_kelola": 3,
    "pertahanan_dan_keamanan": 0,
    "nasional_dan_identitas": 7
-  }
- },
- {
-  "id": "2025-02-04-keterangan-pers-wakil-ketua-dpr-sufmi-dasco",
-  "date": "2025-02-04",
-  "title": "Keterangan Pers Wakil Ketua DPR Sufmi Dasco Ahmad Sebelum Bertemu Presiden Prabowo, 4 Februari 2025",
-  "channel": "Sekretariat Presiden",
-  "video_id": "Bi4aY-P5ljI",
-  "youtube_url": "https://www.youtube.com/watch?v=Bi4aY-P5ljI",
-  "duration_s": 214,
-  "duration_hms": "3:34",
-  "token_count": 478,
-  "unique_word_count": 227,
-  "source_tier": "official",
-  "fetch_method": "transcript_panel",
-  "upload_count": 1,
-  "duplicate_count": 0,
-  "para_count": 7,
-  "topics": {
-   "pangan": 0,
-   "ekonomi": 0,
-   "pendidikan": 0,
-   "kesehatan_dan_gizi": 0,
-   "tata_kelola": 0,
-   "pertahanan_dan_keamanan": 0,
-   "nasional_dan_identitas": 3
   }
  },
  {
@@ -6685,32 +6623,6 @@
   }
  },
  {
-  "id": "2025-12-31-keterangan-pers-seskab-teddy-terkait-agenda-di",
-  "date": "2025-12-31",
-  "title": "Keterangan Pers Seskab Teddy terkait Agenda Presiden Prabowo di Tapanuli Selatan, 31 Desember 2025",
-  "channel": "Sekretariat Presiden",
-  "video_id": "JJf1NWrjxds",
-  "youtube_url": "https://www.youtube.com/watch?v=JJf1NWrjxds",
-  "duration_s": 148,
-  "duration_hms": "2:28",
-  "token_count": 326,
-  "unique_word_count": 163,
-  "source_tier": "official",
-  "fetch_method": "transcript_panel",
-  "upload_count": 1,
-  "duplicate_count": 0,
-  "para_count": 8,
-  "topics": {
-   "pangan": 0,
-   "ekonomi": 2,
-   "pendidikan": 0,
-   "kesehatan_dan_gizi": 2,
-   "tata_kelola": 0,
-   "pertahanan_dan_keamanan": 0,
-   "nasional_dan_identitas": 0
-  }
- },
- {
   "id": "2025-01-01-kaleidoskop-2025-kepemimpinan-arah-tegas-menuju-berdaulat",
   "date": "2026-01-01",
   "title": "Kaleidoskop 2025: Kepemimpinan Presiden Prabowo, Arah Tegas Menuju Indonesia Berdaulat",
@@ -8875,32 +8787,6 @@
    "pertahanan_dan_keamanan": 20,
    "nasional_dan_identitas": 125,
    "mbg": 0
-  }
- },
- {
-  "id": "2026-06-11-keterangan-pers-wakil-ke-10-dan-ke-12-jusuf",
-  "date": "2026-06-11",
-  "title": "Keterangan Pers Wakil Presiden ke-10 dan ke-12 RI Jusuf Kalla, Istana Merdeka, 11 Juni 2026",
-  "channel": "Sekretariat Presiden",
-  "video_id": "2i10txapRYU",
-  "youtube_url": "https://www.youtube.com/watch?v=2i10txapRYU",
-  "duration_s": 179,
-  "duration_hms": "2:59",
-  "token_count": 261,
-  "unique_word_count": 122,
-  "source_tier": "official",
-  "fetch_method": "transcript_panel",
-  "upload_count": 1,
-  "duplicate_count": 0,
-  "para_count": 11,
-  "topics": {
-   "pangan": 0,
-   "ekonomi": 7,
-   "pendidikan": 0,
-   "kesehatan_dan_gizi": 0,
-   "tata_kelola": 0,
-   "pertahanan_dan_keamanan": 0,
-   "nasional_dan_identitas": 4
   }
  },
  {

@@ -14,7 +14,7 @@
  "token_count": 157,
  "unique_word_count": 118,
  "canonical_overridden": false,
- "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip. | Tautan teks resmi dilepas: Sesi Ketiga Konferensi Tingkat Tinggi (KTT) G20 di Rio de Janeiro, Brasil, 19 November 202 (beda acara).",
  "duplicate_count": 0,
  "uploads": [
   {
@@ -61,12 +61,5 @@
   "imported_by": "scripts/import_panels.py",
   "worklist_kind": null
  },
- "date_source": "tanggal unggah YouTube (perkiraan)",
- "transkrip_resmi": {
-  "sumber": "Sekretariat Kabinet RI",
-  "link": "https://setkab.go.id/sesi-ketiga-konferensi-tingkat-tinggi-ktt-g20-di-rio-de-janeiro-brasil-19-november-2024/",
-  "judul_resmi": "Sesi Ketiga Konferensi Tingkat Tinggi (KTT) G20 di Rio de Janeiro, Brasil, 19 November 2024",
-  "panjang_karakter": 3606,
-  "teks": "Pidato Presiden Prabowo Subianto pada Sesi Ketiga Konferensi Tingkat Tinggi (KTT) G20, 19 November 2024 President Lula; Distinguished Excellencies. Yesterday we have discussed the problems of poverty and hunger. We all have strong commitments to address the issues. Those challenges indeed affect developing countries, their sustainable development, and their energy transition agenda. The G20 must generate tangible actions to help achieve SDGs. We in Indonesia continue to strengthen our commitment. Until 2022, we have achieved 50 percent of the SDGs targets and we are on track to continue to strive, to achieve the SDGs targets. Indonesia’s efforts are not enough. We need collective action and we need the collective effort of the G20. Another important pillar of sustainable development is of course the environment. Indonesia suffers the effect of climate change directly. Our coastal areas are now being inundated by rising ocean levels. We are forced to move our capital city. In the northern coast of Java, the oceans rising by 5 centimeters per year. We are losing hundreds of thousands of hectares of productive land and edible land. Our farmers and our fishermen now are living in this difficult conditions. This will exacerbate poverty and hunger. Therefore, for Indonesia, there is no alternative. We are completely committed to take measures to reduce the temperature of the climate to save our environment and addressing the situation. We are committed to achieve renewable and green energy. We are blessed with many resources. We have now achieved the production of diesel, of biodiesel, and now our diesel needs are addressed 50 percent from plant-based, from palm oil. And also, we are now developing technology to produce gasoline from palm oil. We also have tremendous reserves of geothermal and we plan to retire our coal plants and all the fossil energy plants within the next 15 years. We plan to build more than 75 gigawatts of renewable power in the next 15 years. We also are situated along the equator, therefore we have more than plenty of sunlight to fuel solar based energy. We have other sources of renewables and that’s why we are very optimistic that we can achieve net zero [emission] before 2050. Distinguished Gentlemen, Sustainability, and not exploitation, has to be shared globally. Indonesia I think has the largest tropical forest, maybe only Brazil and some African countries have more forest than us. We have contributed for many many years to cooling the world. We are considered the lungs of the earth. But, we have not seen the promises of the advanced countries to provide carbon credits. This has always been offered to us. Therefore, we need a continued commitment to compensate the role of our forest in maintaining the global temperature. Indonesia is open to optimize the prospects of 557 million tons of Indonesia’s carbon credit. We also have the largest carbon storage capacity and we offer this also to the world. Distinguished Excellencies, I would like to announce that Indonesia is pleased to support international efforts. In this case, we are willing to commit US$30 million to bridge funding gaps on WHO activities. We hope this can positively contribute to the double work done by the United Nations. Moving forward, the G20 must continue its positive impact. The G20’s convening power must unite and bring together advanced and emerging economies, converging different views in response to the world’s most urgent challenges in the spirit of transparency, inclusivity, and consensus as important principles in our G20. Thank you very much."
- }
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }

@@ -1,51 +1,51 @@
 {
  "korpus": {
-  "pidato": 376,
-  "token": 395142,
+  "pidato": 373,
+  "token": 391311,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
   "korupsi": {
-   "kemunculan": 382,
+   "kemunculan": 386,
    "pidato": 87,
-   "persen_pidato": 23.1,
-   "per_1000": 0.97
+   "persen_pidato": 23.3,
+   "per_1000": 0.99
   },
   "mbg": {
    "kemunculan": 332,
    "pidato": 79,
-   "persen_pidato": 21.0,
-   "per_1000": 0.84
+   "persen_pidato": 21.2,
+   "per_1000": 0.85
   },
   "bencana": {
-   "kemunculan": 168,
-   "pidato": 58,
-   "persen_pidato": 15.4,
-   "per_1000": 0.43
+   "kemunculan": 162,
+   "pidato": 57,
+   "persen_pidato": 15.3,
+   "per_1000": 0.41
   },
   "danantara": {
-   "kemunculan": 130,
-   "pidato": 43,
-   "persen_pidato": 11.4,
-   "per_1000": 0.33
+   "kemunculan": 115,
+   "pidato": 40,
+   "persen_pidato": 10.7,
+   "per_1000": 0.29
   },
   "swasembada": {
-   "kemunculan": 127,
-   "pidato": 36,
-   "persen_pidato": 9.6,
-   "per_1000": 0.32
+   "kemunculan": 120,
+   "pidato": 35,
+   "persen_pidato": 9.4,
+   "per_1000": 0.31
   },
   "hilirisasi": {
-   "kemunculan": 105,
-   "pidato": 46,
-   "persen_pidato": 12.2,
-   "per_1000": 0.27
+   "kemunculan": 103,
+   "pidato": 45,
+   "persen_pidato": 12.1,
+   "per_1000": 0.26
   },
   "sawit": {
    "kemunculan": 160,
    "pidato": 37,
-   "persen_pidato": 9.8,
-   "per_1000": 0.4
+   "persen_pidato": 9.9,
+   "per_1000": 0.41
   },
   "karhutla": {
    "kemunculan": 9,
@@ -59,8 +59,8 @@
    "kuartal": "2024-Q4",
    "n": 54,
    "korupsi": {
-    "pidato": 13,
-    "persen": 24.1
+    "pidato": 14,
+    "persen": 25.9
    },
    "mbg": {
     "pidato": 12,
@@ -93,30 +93,30 @@
   },
   {
    "kuartal": "2025-Q1",
-   "n": 56,
+   "n": 55,
    "korupsi": {
-    "pidato": 8,
-    "persen": 14.3
+    "pidato": 7,
+    "persen": 12.7
    },
    "mbg": {
     "pidato": 11,
-    "persen": 19.6
+    "persen": 20.0
    },
    "bencana": {
     "pidato": 3,
-    "persen": 5.4
+    "persen": 5.5
    },
    "danantara": {
-    "pidato": 5,
-    "persen": 8.9
+    "pidato": 3,
+    "persen": 5.5
    },
    "swasembada": {
-    "pidato": 7,
-    "persen": 12.5
+    "pidato": 6,
+    "persen": 10.9
    },
    "hilirisasi": {
-    "pidato": 6,
-    "persen": 10.7
+    "pidato": 5,
+    "persen": 9.1
    },
    "sawit": {
     "pidato": 2,
@@ -201,22 +201,22 @@
   },
   {
    "kuartal": "2025-Q4",
-   "n": 44,
+   "n": 43,
    "korupsi": {
     "pidato": 12,
-    "persen": 27.3
+    "persen": 27.9
    },
    "mbg": {
     "pidato": 8,
-    "persen": 18.2
+    "persen": 18.6
    },
    "bencana": {
-    "pidato": 13,
-    "persen": 29.5
+    "pidato": 12,
+    "persen": 27.9
    },
    "danantara": {
-    "pidato": 4,
-    "persen": 9.1
+    "pidato": 3,
+    "persen": 7.0
    },
    "swasembada": {
     "pidato": 0,
@@ -228,7 +228,7 @@
    },
    "sawit": {
     "pidato": 3,
-    "persen": 6.8
+    "persen": 7.0
    },
    "karhutla": {
     "pidato": 0,
@@ -273,38 +273,38 @@
   },
   {
    "kuartal": "2026-Q2",
-   "n": 43,
+   "n": 42,
    "korupsi": {
     "pidato": 10,
-    "persen": 23.3
+    "persen": 23.8
    },
    "mbg": {
     "pidato": 10,
-    "persen": 23.3
+    "persen": 23.8
    },
    "bencana": {
     "pidato": 2,
-    "persen": 4.7
+    "persen": 4.8
    },
    "danantara": {
     "pidato": 6,
-    "persen": 14.0
+    "persen": 14.3
    },
    "swasembada": {
     "pidato": 5,
-    "persen": 11.6
+    "persen": 11.9
    },
    "hilirisasi": {
     "pidato": 7,
-    "persen": 16.3
+    "persen": 16.7
    },
    "sawit": {
     "pidato": 8,
-    "persen": 18.6
+    "persen": 19.0
    },
    "karhutla": {
     "pidato": 1,
-    "persen": 2.3
+    "persen": 2.4
    }
   },
   {
@@ -346,92 +346,92 @@
  ],
  "ganti": {
   "saya": {
-   "kemunculan": 10087,
-   "pidato": 345,
-   "persen_pidato": 91.8,
-   "per_1000": 25.53
+   "kemunculan": 10035,
+   "pidato": 342,
+   "persen_pidato": 91.7,
+   "per_1000": 25.64
   },
   "kita": {
-   "kemunculan": 14780,
-   "pidato": 345,
-   "persen_pidato": 91.8,
-   "per_1000": 37.4
+   "kemunculan": 14637,
+   "pidato": 340,
+   "persen_pidato": 91.2,
+   "per_1000": 37.41
   },
   "kami": {
-   "kemunculan": 1249,
-   "pidato": 188,
-   "persen_pidato": 50.0,
-   "per_1000": 3.16
+   "kemunculan": 1267,
+   "pidato": 189,
+   "persen_pidato": 50.7,
+   "per_1000": 3.24
   },
   "rakyat": {
-   "kemunculan": 2270,
-   "pidato": 201,
-   "persen_pidato": 53.5,
-   "per_1000": 5.74
+   "kemunculan": 2271,
+   "pidato": 200,
+   "persen_pidato": 53.6,
+   "per_1000": 5.8
   },
   "pemerintah": {
-   "kemunculan": 737,
-   "pidato": 177,
-   "persen_pidato": 47.1,
-   "per_1000": 1.87
+   "kemunculan": 724,
+   "pidato": 173,
+   "persen_pidato": 46.4,
+   "per_1000": 1.85
   },
   "bangsa": {
-   "kemunculan": 2107,
-   "pidato": 193,
-   "persen_pidato": 51.3,
-   "per_1000": 5.33
+   "kemunculan": 2101,
+   "pidato": 190,
+   "persen_pidato": 50.9,
+   "per_1000": 5.37
   },
   "negara": {
-   "kemunculan": 2154,
-   "pidato": 235,
-   "persen_pidato": 62.5,
-   "per_1000": 5.45
+   "kemunculan": 2137,
+   "pidato": 229,
+   "persen_pidato": 61.4,
+   "per_1000": 5.46
   }
  },
  "seri_ganti": [
   {
    "periode": "2024-S2",
    "n": 54,
-   "saya": 27.24,
-   "kita": 42.81,
-   "kami": 2.59,
-   "rakyat": 6.37,
-   "pemerintah": 2.69,
-   "bangsa": 5.85,
-   "negara": 6.33
+   "saya": 27.53,
+   "kita": 42.79,
+   "kami": 2.84,
+   "rakyat": 6.53,
+   "pemerintah": 2.72,
+   "bangsa": 5.92,
+   "negara": 6.45
   },
   {
    "periode": "2025-S1",
-   "n": 107,
-   "saya": 24.32,
-   "kita": 30.94,
-   "kami": 4.92,
-   "rakyat": 4.56,
-   "pemerintah": 1.58,
-   "bangsa": 4.28,
-   "negara": 5.43
+   "n": 106,
+   "saya": 24.53,
+   "kita": 30.15,
+   "kami": 5.43,
+   "rakyat": 4.68,
+   "pemerintah": 1.35,
+   "bangsa": 4.33,
+   "negara": 5.35
   },
   {
    "periode": "2025-S2",
-   "n": 84,
-   "saya": 21.95,
-   "kita": 34.32,
-   "kami": 4.9,
-   "rakyat": 5.5,
-   "pemerintah": 1.82,
-   "bangsa": 3.86,
-   "negara": 5.24
+   "n": 83,
+   "saya": 22.02,
+   "kita": 34.38,
+   "kami": 4.92,
+   "rakyat": 5.52,
+   "pemerintah": 1.83,
+   "bangsa": 3.87,
+   "negara": 5.26
   },
   {
    "periode": "2026-S1",
-   "n": 91,
-   "saya": 29.65,
-   "kita": 39.51,
+   "n": 90,
+   "saya": 29.69,
+   "kita": 39.49,
    "kami": 2.04,
-   "rakyat": 5.38,
+   "rakyat": 5.39,
    "pemerintah": 1.76,
-   "bangsa": 6.59,
-   "negara": 5.32
+   "bangsa": 6.6,
+   "negara": 5.3
   },
   {
    "periode": "2026-S2",
@@ -448,15 +448,15 @@
  "seri_bahasa": [
   {
    "kuartal": "2024-Q4",
-   "n": 73,
-   "inggris": 20,
-   "persen": 27.4
+   "n": 71,
+   "inggris": 18,
+   "persen": 25.4
   },
   {
    "kuartal": "2025-Q1",
-   "n": 57,
-   "inggris": 2,
-   "persen": 3.5
+   "n": 56,
+   "inggris": 1,
+   "persen": 1.8
   },
   {
    "kuartal": "2025-Q2",
@@ -472,9 +472,9 @@
   },
   {
    "kuartal": "2025-Q4",
-   "n": 47,
+   "n": 46,
    "inggris": 4,
-   "persen": 8.5
+   "persen": 8.7
   },
   {
    "kuartal": "2026-Q1",
@@ -484,7 +484,7 @@
   },
   {
    "kuartal": "2026-Q2",
-   "n": 43,
+   "n": 42,
    "inggris": 0,
    "persen": 0.0
   },
@@ -526,10 +526,10 @@
   },
   {
    "jenis": "lain-lain",
-   "n": 236,
-   "median": 318,
+   "n": 233,
+   "median": 309,
    "maks": 9836,
-   "rata2": 799
+   "rata2": 805
   },
   {
    "jenis": "peresmian",

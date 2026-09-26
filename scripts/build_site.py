@@ -593,7 +593,11 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
     hist = home.get("length_histogram", [])
     bln = [m for m in coverage.get("months", []) if m.get("covered")]
 
-    n = home.get("event_count") or 1
+    n = home.get("event_count") or 1            # pidato bertranskrip Indonesia
+    n_semua = len(speeches)                     # seluruh arsip yang terbit
+    tot_token = sum(int(s.get("token_count") or 0) for s in speeches)
+    tot_unggah = sum((s.get("upload_count") or len(s.get("uploads") or []) or 1)
+                     for s in speeches)
     mbg = next((x for x in prog if "mbg" in x["label"].lower()), None)
     kor = next((x for x in conc if "korupsi" in x["label"].lower()), None)
     kita = next((x for x in fr if x["label"] == "kita"), None)
@@ -603,9 +607,9 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
     t1 = top[1] if len(top) > 1 else None
 
     hero = f"""  <div class="hero">
-    <div class="hero__i"><span class="hero__n hero__n--accent">{fmt_int(n)}</span><span class="hero__l">pidato</span></div>
-    <div class="hero__i"><span class="hero__n">{fmt_int(home.get('token_count'))}</span><span class="hero__l">token</span></div>
-    <div class="hero__i"><span class="hero__n">{fmt_int(home.get('upload_count'))}</span><span class="hero__l">unggahan</span></div>
+    <div class="hero__i"><span class="hero__n hero__n--accent">{fmt_int(n_semua)}</span><span class="hero__l">pidato</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(tot_token)}</span><span class="hero__l">token</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(tot_unggah)}</span><span class="hero__l">unggahan</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(L.get('median'))}</span><span class="hero__l">token median</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(L.get('longest'))}</span><span class="hero__l">terpanjang</span></div>
     <div class="hero__i"><span class="hero__n hero__n--kecil">{e(format_span(coverage))}</span><span class="hero__l">rentang</span></div>
@@ -653,7 +657,7 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
         return f"{x:.0f}%" if x is not None else "—"
 
     body = f"""  <h1>{e(SITE_NAME)}</h1>
-  <p class="lede">{fmt_int(n)} pidato bertranskrip Indonesia sejak 20 Oktober 2024 &middot; {fmt_int(home.get('token_count'))} token</p>
+  <p class="lede">{fmt_int(n_semua)} pidato sejak 20 Oktober 2024 &middot; {fmt_int(tot_token)} token</p>
 
 {hero}
 
@@ -683,16 +687,16 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
         <span>kosong</span>
       </div>
     </section>
-{_chart('chart-waktu', 'Garis waktu', f'{fmt_int(n)} pidato', 'tinggi = panjang &middot; klik untuk membuka', '17rem', 'c12')}
+{_chart('chart-waktu', 'Garis waktu', f'{fmt_int(n_semua)} pidato', 'tinggi = panjang &middot; klik untuk membuka', '17rem', 'c12')}
 {_chart('chart-kelengkapan', 'Kelengkapan arsip', f"{fmt_int(len(speeches))} dari {fmt_int(meta.get('era_videos') or 894)} video era kepresidenan", 'per bulan', '13rem', 'c12', False)}
   </div>
 
   <script id="chart-data" type="application/json">{payload}</script>
 """
     return page(
-        f"{SITE_NAME} — {n} pidato",
+        f"{SITE_NAME} — {len(speeches)} pidato",
         body,
-        desc=f"Cara Prabowo berpidato, diukur dari {n} pidato: program yang paling dibahas, "
+        desc=f"Cara Prabowo berpidato, diukur dari {n_semua} pidato: program yang paling dibahas, "
              f"kata yang paling sering diucapkan, dan batas kepercayaan datanya.",
         canonical="/",
         jsonld=json.dumps({
@@ -763,8 +767,17 @@ def render_speech(s: dict, prev: dict | None, nxt: dict | None,
     nav_html = f'<p class="crumb" style="margin-top:1.5rem">{" &middot; ".join(nav)}</p>' if nav else ""
 
     prov = s.get("provenance") or {}
-    bahasa = {"id": "Indonesia", "en": "Inggris"}.get(prov.get("language") or "",
-                                                        prov.get("language") or "—")
+    # Label bahasa untuk pembaca. Nilai mentah metadata takarir (mis.
+    # "Indonesian (auto-generated)") tidak pernah ditampilkan apa adanya.
+    bhs = (prov.get("language") or "").strip()
+    if s.get("transcript_language") == "en" or bhs.lower().startswith("english"):
+        bahasa = "Inggris"
+    elif s.get("tanpa_transkrip"):
+        bahasa = "—"
+    elif not bhs or "indonesian" in bhs.lower() or bhs.lower() == "id":
+        bahasa = "Indonesia"
+    else:
+        bahasa = bhs
     ambil = FETCH_LABEL.get(s.get("fetch_method") or "", s.get("fetch_method") or "—")
     tier = TIER_LABEL.get(s.get("source_tier") or "", s.get("source_tier") or "—")
 

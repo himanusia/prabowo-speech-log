@@ -8,7 +8,8 @@ Keluaran: data/momen.json
 Aturan:
 - Tiap momen WAJIB punya minimal satu URL sumber dan kutipan. Yang tidak,
   dibuang — momen tanpa sumber tidak layak tayang.
-- `pidato_id` divalidasi ke arsip; kalau kosong, dicocokkan lewat tanggal
+- `pidato_id` divalidasi ke entri yang benar-benar terbit (punya halaman);
+  kalau kosong, dicocokkan lewat tanggal
   hanya bila tanggal itu punya TEPAT SATU entri. Ragu = biarkan kosong
   (momen tetap tampil di beranda dengan sumber beritanya).
 - Urut terbaru di atas.
@@ -40,6 +41,20 @@ _STOP = {
 def _kata(x: str) -> set[str]:
     return {w for w in re.findall(r"[a-z0-9]+", (x or "").lower())
             if len(w) > 2 and w not in _STOP}
+
+
+def _terbit(path: Path) -> bool:
+    """True kalau entri ini benar-benar diterbitkan build_site (punya halaman)."""
+    if not path.exists():
+        return False
+    try:
+        d = json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return False
+    if d.get("pra_era"):
+        return False
+    k = d.get("speaker_kind")
+    return k is None or k in ("pidato_prabowo", "prabowo_bicara")
 
 
 def main() -> int:
@@ -79,7 +94,7 @@ def main() -> int:
                 continue
             tgl = (m.get("tanggal") or "")[:10]
             pid = m.get("pidato_id")
-            if pid and not (SPEECHES / f"{pid}.json").exists():
+            if pid and not _terbit(SPEECHES / f"{pid}.json"):
                 pid = None
             if not pid and tgl:
                 kandidat = per_tanggal.get(tgl) or []

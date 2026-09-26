@@ -243,6 +243,15 @@ def main() -> int:
                 "worklist_kind": t.get("kind"),
             },
         }
+        # Arsip ini menerbitkan PIDATO Prabowo. Panel kanal resmi kadang
+        # memuat keterangan pers pejabat lain; tanpa penanda ini entri seperti
+        # itu lolos terbit karena speaker_kind kosong. Lihat build_site.terbit.
+        jl = judul.lower()
+        if ("keterangan pers" in jl or "press statement" in jl
+                or "press conference" in jl or "jumpa pers" in jl):
+            if not re.search(r"presiden|prabowo", jl):
+                rekaman["speaker_kind"] = "lain"
+
         # sinyal program & konsep: hitung kemunculan regex profil
         for p in prog_re:
             n = len(re.findall(p["re"], teks_penuh, re.I))

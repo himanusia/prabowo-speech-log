@@ -79,6 +79,19 @@ def boleh_tempel(d: dict, x: dict) -> bool:
     return teks_en(own[:6000])
 
 
+# Daftar tolak: pasangan yang pernah salah tempel dan sudah ditinjau manusia.
+# Tersimpan di data/setkab-jangan-tempel.json supaya sync tidak mengulangi salahnya.
+BLOKIR = DATA / "setkab-jangan-tempel.json"
+
+
+def blokir() -> set[str]:
+    try:
+        d = json.loads(BLOKIR.read_text(encoding="utf-8"))
+        return set(d.get("tolak") or [])
+    except Exception:
+        return set()
+
+
 def main() -> int:
     if len(sys.argv) < 2:
         print(__doc__)
@@ -114,10 +127,14 @@ def main() -> int:
     # Satu tanggal bisa memuat beberapa pidato berbeda (mis. 20 Okt 2024:
     # pelantikan MPR DAN jamuan santap malam). Menempelkan semuanya ke satu
     # entri adalah kesalahan; jadi dipasangkan berdasarkan kemiripan judul.
+    _tolak = blokir()
     per_tgl: dict[str, list] = defaultdict(list)
     _terlihat: set[str] = set()
     for x in setkab:
         kunci = norm(x["judul"])
+        if kunci in _tolak:
+            print(f"  TOLAK (tinjauan manusia): {x['judul'][:56]}")
+            continue
         if kunci in _terlihat:      # Setkab kadang menerbitkan satu item dua kali
             print(f"  DUPLIKAT setkab dilewati: {x['judul'][:58]}")
             continue
@@ -223,8 +240,20 @@ def main() -> int:
                 tempel += 1
                 continue
             # tidak ada pasangan -> entri baru
+            sid = slug(x["judul"], tgl, str(x["id"]))
+            ada = SPEECHES / f"{sid}.json"
+            if ada.exists():
+                d0 = {}
+                try:
+                    d0 = json.loads(ada.read_text(encoding="utf-8"))
+                except Exception:
+                    pass
+                if norm(d0.get("title")) == norm(x["judul"]):
+                    print(f"  SUDAH    {tgl}  {x['judul'][:58]} (entri sudah ada)")
+                    continue
+                sid = f"{sid}-{x['id']}"
             e = {
-                "id": slug(x["judul"], tgl, str(x["id"])),
+                "id": sid,
                 "video_id": None, "date": tgl, "date_precise": True,
                 "title": x["judul"], "channel": "Sekretariat Kabinet RI",
                 "youtube_url": None, "duration_s": 0, "duration_hms": "?",

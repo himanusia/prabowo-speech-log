@@ -7,6 +7,7 @@
 #
 # Gerbang opsional (default 1 = jalan):
 #   SYNC_SETKAB=0  lewati transkrip resmi Setkab
+#   SYNC_COLLECT=0 lewati tarikan panel YouTube
 #   SYNC_COMMIT=0  jangan commit
 #   SYNC_PUSH=0    jangan push
 #   SYNC_DEPLOY=0  jangan deploy
@@ -55,9 +56,13 @@ else
 fi
 
 # 2. transkrip yang belum ada (panel YouTube, tanpa suara)
-$PY scripts/collect_panel.py --limit "$BATCH" >>"$LOG" 2>&1
-say "collector selesai rc=$?"
-$PY scripts/status.py >>"$LOG" 2>&1 || true
+if [ "${SYNC_COLLECT:-1}" = "1" ]; then
+  $PY scripts/collect_panel.py --limit "$BATCH" >>"$LOG" 2>&1
+  say "collector selesai rc=$?"
+  $PY scripts/status.py >>"$LOG" 2>&1 || true
+else
+  say "collector dilewati (SYNC_COLLECT=0)"
+fi
 
 # 3. masukkan hasil panel ke arsip
 $PY scripts/import_panels.py >>"$LOG" 2>&1 \

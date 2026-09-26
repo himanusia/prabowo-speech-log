@@ -14,7 +14,7 @@
  "token_count": 98,
  "unique_word_count": 64,
  "canonical_overridden": false,
- "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip. | Tautan teks resmi dilepas: Pertemuan Bilateral Presiden RI dengan Presiden Amerika Serikat di White House, Washington (beda acara).",
  "duplicate_count": 0,
  "uploads": [
   {
@@ -59,12 +59,5 @@
  "speaker_kind": "prabowo_bicara",
  "worklist_kind": "ambigu",
  "is_fragment": true,
- "date_source": "tanggal unggah YouTube (perkiraan)",
- "transkrip_resmi": {
-  "sumber": "Sekretariat Kabinet RI",
-  "link": "https://setkab.go.id/pertemuan-bilateral-presiden-ri-dengan-presiden-amerika-serikat-di-white-house-washington-dc-amerika-serikat-12-november-2024/",
-  "judul_resmi": "Pertemuan Bilateral Presiden RI dengan Presiden Amerika Serikat di White House, Washington DC, Amerika Serikat, 12 November 2024",
-  "panjang_karakter": 780,
-  "teks": "Sambutan Presiden Prabowo Subianto pada Pertemuan Bilateral Presiden RI dengan Presiden Amerika Serikat, 12 November 2024 Thank you, thank you President Biden, thank you for receiving me. I also would like to thank you, you phoned me, yourself, upon my election and the… yeah thank you very much and then finally I could make it, and you receive me today. The United States, for us, is a very great friend. The United States supported us in our struggle for independence and helped us many times in our time of need. Therefore, I will work very hard to strengthen Indonesian – United States relationship. And I would like to work towards this end that we have a strong cooperation. Once again, President Biden, thank you very much for receiving me. Thank you, sir. Thank you, sir."
- }
+ "date_source": "tanggal unggah YouTube (perkiraan)"
 }
