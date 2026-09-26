@@ -1,13 +1,13 @@
 # Status pengumpulan
 
-Diperbarui: 2026-09-26T17:56:10+07:00
+Diperbarui: 2026-09-26T18:09:32+07:00
 
 ## Ringkasan
 
 | Keadaan | Jumlah |
 |---|---:|
-| ada_di_arsip | 7 |
-| ok_belum_masuk_arsip | 2 |
+| ada_di_arsip | 8 |
+| ok_belum_masuk_arsip | 1 |
 | panel_kosong | 3 |
 | tanpa_track | 276 |
 

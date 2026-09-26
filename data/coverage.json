@@ -41,8 +41,8 @@
   },
   {
    "month": "2025-04",
-   "events": 19,
-   "tokens": 6830,
+   "events": 18,
+   "tokens": 6747,
    "covered": true
   },
   {
@@ -158,9 +158,9 @@
   },
   {
    "year": "2025",
-   "events": 199,
-   "tokens": 152435,
-   "event_share": 48.7
+   "events": 198,
+   "tokens": 152352,
+   "event_share": 48.5
   },
   {
    "year": "2026",
@@ -172,12 +172,12 @@
  "source_tiers": {
   "resmi_setkab": 40,
   "full_media": 36,
-  "official": 260,
+  "official": 259,
   "media": 73
  },
  "fetch_methods": {
   "setkab_rest_api": 40,
-  "transcript_panel": 317,
+  "transcript_panel": 316,
   "auto_caption_en_orig": 12,
   "tidak_ada_caption": 5,
   "caption_api": 30,

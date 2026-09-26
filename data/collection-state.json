@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-09-26T17:56:10+07:00",
+ "generated_at": "2026-09-26T18:09:32+07:00",
  "channel_total": 4895,
  "era_total": 911,
  "worklist_total": 288,
  "counts": {
-  "ada_di_arsip": 7,
+  "ada_di_arsip": 8,
   "tanpa_track": 276,
   "panel_kosong": 3,
-  "ok_belum_masuk_arsip": 2
+  "ok_belum_masuk_arsip": 1
  },
  "by_kind": {
   "ambigu": {
-   "ada_di_arsip": 6,
+   "ada_di_arsip": 7,
    "tanpa_track": 162,
    "panel_kosong": 3,
-   "ok_belum_masuk_arsip": 2
+   "ok_belum_masuk_arsip": 1
   },
   "kunjungan": {
    "tanpa_track": 112
@@ -28,7 +28,7 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 2,
+ "perlu_impor": 1,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
@@ -1678,7 +1678,7 @@
    "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres, Kairo, 12 April 2025",
    "kind": "ambigu",
    "date": "2025-04-12",
-   "state": "ok_belum_masuk_arsip",
+   "state": "ada_di_arsip",
    "detail": ""
   },
   {
