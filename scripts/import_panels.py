@@ -23,6 +23,7 @@ Pakai:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import sys
@@ -93,6 +94,34 @@ def slug(judul: str, tanggal: str, maks: int = 7) -> str:
         "pidato", "presiden", "prabowo", "subianto", "sambutan", "ri", "republik",
         "indonesia", "full", "lengkap", "live", "resmi", "video"}]
     return f"{tanggal}-{'-'.join(kata[:maks]) or 'pidato'}"
+
+
+def slug_unik(judul: str, tanggal: str, dipakai: set[str]) -> str:
+    """Slug yang tidak menimpa entri lain.
+
+    Dua acara di tanggal yang sama bisa berbagi kata awal yang sama (dua
+    keterangan pers di kota berbeda). Dulu id langsung ditulis ke slug
+    pendek tanpa dicek, jadi tulisan kedua bisa menghapus entri pertama
+    tanpa jejak. Kata ditambah sampai nama berkasnya bebas.
+    """
+    for maks in (7, 12, 20):
+        kandidat = slug(judul, tanggal, maks)
+        if kandidat in dipakai or (SPEECHES / f"{kandidat}.json").exists():
+            continue
+        dipakai.add(kandidat)
+        return kandidat
+    # Fallback: akhiran hash dari (tanggal, judul) supaya nama berkas
+    # deterministik, tidak bergantung urutan impor.
+    dasar = slug(judul, tanggal)
+    sid = hashlib.sha1(f"{tanggal}|{judul}".encode("utf-8")).hexdigest()
+    n = 6
+    while True:
+        kandidat = f"{dasar}-{sid[:n]}"
+        if kandidat not in dipakai and not (SPEECHES / f"{kandidat}.json").exists():
+            break
+        n += 2
+    dipakai.add(kandidat)
+    return kandidat
 
 
 def paragraf(snippets: list[dict]) -> list[dict]:
@@ -174,6 +203,7 @@ def main() -> int:
         grup.setdefault(norm(d.get("title", "")) or d["id"], []).append(d)
 
     dibuat = 0
+    dipakai: set[str] = set()
     for kunci, anggota in grup.items():
         anggota.sort(key=lambda d: -len(d.get("raw_snippets", [])))
         utama = anggota[0]
@@ -214,7 +244,7 @@ def main() -> int:
             x in kanal.lower() for x in prof["source_tiers"]["official_channel_or_title"]) else "media"
 
         rekaman = {
-            "id": slug(judul, tanggal),
+            "id": slug_unik(judul, tanggal, dipakai),
             "video_id": utama["id"],
             "date": tanggal,
             "date_precise": presisi,

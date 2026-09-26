@@ -1,18 +1,16 @@
 {
- "generated_at": "2026-09-26T19:48:23+07:00",
+ "generated_at": "2026-09-26T20:35:57+07:00",
  "channel_total": 4895,
  "era_total": 911,
- "worklist_total": 281,
+ "worklist_total": 279,
  "counts": {
   "tanpa_track": 276,
-  "panel_kosong": 3,
-  "ok_belum_masuk_arsip": 2
+  "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
    "tanpa_track": 162,
-   "panel_kosong": 3,
-   "ok_belum_masuk_arsip": 2
+   "panel_kosong": 3
   },
   "kunjungan": {
    "tanpa_track": 112
@@ -25,7 +23,7 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 2,
+ "perlu_impor": 0,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
@@ -1615,14 +1613,6 @@
    "detail": ""
   },
   {
-   "video_id": "_uezr-fAhnk",
-   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Doha, 12 April 2025",
-   "kind": "ambigu",
-   "date": "2025-04-12",
-   "state": "ok_belum_masuk_arsip",
-   "detail": ""
-  },
-  {
    "video_id": "Czalm_-T57I",
    "title": "Dari Kairo, Presiden El-Sisi Antar Keberangkatan Presiden Prabowo Menuju Doha, Qatar, 12 April 2025",
    "kind": "ambigu",
@@ -1644,14 +1634,6 @@
    "kind": "ambigu",
    "date": "2025-04-12",
    "state": "tanpa_track",
-   "detail": ""
-  },
-  {
-   "video_id": "QnBLUESJgUA",
-   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Kairo, 12 April 2025",
-   "kind": "ambigu",
-   "date": "2025-04-12",
-   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {

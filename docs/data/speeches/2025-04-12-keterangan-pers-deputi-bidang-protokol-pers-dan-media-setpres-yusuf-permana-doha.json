@@ -1,0 +1,81 @@
+{
+ "id": "2025-04-12-keterangan-pers-deputi-bidang-protokol-pers-dan-media-setpres-yusuf-permana-doha",
+ "video_id": "_uezr-fAhnk",
+ "date": "2025-04-12",
+ "date_precise": true,
+ "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Doha, 12 April 2025",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=_uezr-fAhnk",
+ "duration_s": 104,
+ "duration_hms": "1:44",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "token_count": 161,
+ "unique_word_count": 106,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "_uezr-fAhnk",
+   "url": "https://www.youtube.com/watch?v=_uezr-fAhnk",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Doha, 12 April 2025",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 3.0,
+   "text": "Baik, selamat malam teman-teman."
+  },
+  {
+   "t": 3.0,
+   "d": 20.0,
+   "text": "Alhamdulillah malam ini sekitar pukul 21 le 12 menit waktu doa Bapak Presiden Prabowo telah tiba mendarat dengan selamat setelah beliau melakukan perjalanan penerbangan dari Kairo menuju Doha."
+  },
+  {
+   "t": 23.0,
+   "d": 23.0,
+   "text": "Kegiatan agenda Bapak Presiden esok hari tanggal 13 April 2025, Bapak Presiden Prabowo akan melakukan kunjungan resmi kepada Emir Qatar yang mulia Syekh Tamim bin Hamad Altani di istana Amiri Diwan sekitar pukul 11.00."
+  },
+  {
+   "t": 46.0,
+   "d": 20.0,
+   "text": "Ketibaan Bapak Presiden Prabowo di Istana Amir Dewan. Beliau akan disambut upacara kenegaraan. Di sana nantinya akan dikumandangkan dua lagu kebangsaan dari masing-masing negara. Setelah itu beliau akan melakukan inspeksi kepada pasukan kehormatan."
+  },
+  {
+   "t": 66.0,
+   "d": 28.0,
+   "text": "Setelah kegiatan upacara penyambutan, Bapak Presiden dengan Emir Qatar akan melakukan pertemuan bilateral maupun juga tetat di Istana Amiri Iwan. Setelah pertemuan tersebut, kedua pemimpin negara akan menyaksikan beberapa MOU yang sangat strategis untuk meningkatkan kerja sama antara Indonesia dan Qatar."
+  },
+  {
+   "t": 94.0,
+   "d": 7.0,
+   "text": "Acara di istana Amir Dewan akan ditutup dengan jamuan santap siang resmi."
+  },
+  {
+   "t": 101.0,
+   "d": 3.0,
+   "text": "Setelah itu acara selesai. Sementara demikian rekan-rekan media yang dapat kami sampaikan. Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain"
+}
