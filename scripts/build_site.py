@@ -569,10 +569,10 @@ def _chart(id_: str, judul: str, angka: str, unit: str, tinggi: str = "16rem",
     """
     tombol = (f'<button type="button" class="lebih" data-lebih="{id_}" '
               f'aria-expanded="false">semua</button>' if bisa_semua else "")
+    satuan = f'\n          <span class="unit">{unit}</span>' if unit else ""
     return f"""      <section class="card {kelas}">
         <div class="card__h">
-          <h3>{e(judul)}</h3>
-          <span class="unit">{unit}</span>
+          <h3>{e(judul)}</h3>{satuan}
         </div>
         <p class="angka">{angka}</p>
         <div class="chart" id="{id_}" style="height:{tinggi}"></div>
@@ -688,7 +688,7 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
       </div>
     </section>
 {_chart('chart-waktu', 'Garis waktu', f'{fmt_int(n_semua)} pidato', 'tinggi = panjang &middot; klik untuk membuka', '17rem', 'c12')}
-{_chart('chart-kelengkapan', 'Kelengkapan arsip', f"{fmt_int(len(speeches))} dari {fmt_int(meta.get('era_videos') or 894)} video era kepresidenan", 'per bulan', '13rem', 'c12', False)}
+{_chart('chart-kelengkapan', 'Kelengkapan arsip', f"{fmt_int(len(speeches))} dari {fmt_int(meta.get('era_videos') or 894)} video era kepresidenan", '', '13rem', 'c12', False)}
   </div>
 
   <script id="chart-data" type="application/json">{payload}</script>
