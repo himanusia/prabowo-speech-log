@@ -103,9 +103,11 @@ fi
 
 # 7. tayangkan
 if [ "${SYNC_DEPLOY:-1}" = "1" ]; then
-  if [ -z "${CLOUDFLARE_API_TOKEN:-}" ] || [ -z "${CLOUDFLARE_ACCOUNT_ID_1:-}" ]; then
+  CF_TOKEN="${CLOUDFLARE_API_TOKEN:-${CLOUDFLARE_API_KEY:-}}"
+  CF_AKUN="${CLOUDFLARE_ACCOUNT_ID_1:-${CLOUDFLARE_ACCOUNT_ID:-}}"
+  if [ -z "$CF_TOKEN" ] || [ -z "$CF_AKUN" ]; then
     say "kredensial Cloudflare tidak lengkap — deploy dilewati"
-  elif CLOUDFLARE_ACCOUNT_ID="$CLOUDFLARE_ACCOUNT_ID_1" npx --yes wrangler pages deploy docs \
+  elif CLOUDFLARE_ACCOUNT_ID="$CF_AKUN" CLOUDFLARE_API_TOKEN="$CF_TOKEN" npx --yes wrangler pages deploy docs \
        --project-name=prabowo-speech-log --branch=main --commit-dirty=true >>"$LOG" 2>&1; then
     say "deploy sukses"
   else

@@ -121,9 +121,8 @@ transkrip penuhnya dipublikasikan, dengan atribusi video asal di setiap berkas.
    untuk angka yang diucapkan (anggaran, target, persentase).
 3. **Yang masuk hanya pidato, sambutan, dan pernyataan resmi.** Bukan wawancara,
    konferensi pers pendek, atau potongan klip.
-4. **Pidato berbahasa asing tidak masuk** — tidak ada track caption Indonesia.
-5. **Kategori topik adalah sinyal leksikal, bukan klasifikasi.** Dihitung dari daftar
-   kata, jadi bisa salah baca konteks.
+4. **Pidato berbahasa asing tetap diarsipkan** — ditandai `EN`, dan tidak ikut statistik kata.
+5. **Kategori topik dihitung dari daftar kata**, jadi bisa salah baca konteks.
 6. **Materi pihak ketiga.** Kutip video aslinya sebagai sumber, bukan situs ini.
 
 ## Sinkronisasi otomatis
@@ -133,12 +132,16 @@ bangun ulang, lalu tayangkan:
 
 ```bash
 bash scripts/sync.sh              # batch 40, tayangkan
-SYNC_COMMIT=0 SYNC_PUSH=0 SYNC_DEPLOY=0 SYNC_SETKAB=0 bash scripts/sync.sh 3
+SYNC_DISCOVERY=0 SYNC_COLLECT=0 SYNC_COMMIT=0 SYNC_PUSH=0 SYNC_DEPLOY=0 SYNC_SETKAB=0 bash scripts/sync.sh 3
                                   # uji tanpa efek samping
 ```
 
 Jalan otomatis tiap hari 20:30 lewat LaunchAgent `com.himanusia.prabowo-sync`
 (plist ada di `scripts/launchd/`). Log: `data/sync.log`.
+
+Kredensial deploy dibaca dari `~/.hermes/.env` (`CLOUDFLARE_API_TOKEN` dan
+`CLOUDFLARE_ACCOUNT_ID_1`). Tanpa itu, sync tetap jalan sampai commit dan push,
+tetapi langkah deploy dilewati dan situs tetap di versi lama.
 
 ## Lisensi dan atribusi
 

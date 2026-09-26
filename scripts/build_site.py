@@ -337,7 +337,7 @@ def _treemap(items, min_label=6.0):
     return f'<div class="tmap">{"".join(parts)}</div>'
 
 
-def _columns(items, satuan="per 1.000 token"):
+def _columns(items, satuan="per 1.000 kata"):
     """Kolom vertikal: bentuk lain lagi, menonjolkan perbandingan tinggi."""
     if not items:
         return ""
@@ -430,7 +430,7 @@ def _timeline(speeches):
         tanda.append(
             f'<a href="pidato/{e(s["id"])}.html"><rect x="{x - 0.32:.3f}" y="{y:.2f}" '
             f'width="0.64" height="{tinggi:.2f}"><title>{e(s["date"])} — {e(s["title"][:70])} '
-            f'({fmt_int(s["token_count"])} token)</title></rect></a>')
+            f'({fmt_int(s["token_count"])} kata)</title></rect></a>')
     isi = "".join(tanda)
     awal, akhir = e(urut[0]["date"]), e(urut[-1]["date"])
     return (f'<div class="tl">'
@@ -496,7 +496,7 @@ def _cov_cells(coverage: dict) -> str:
         bg = f"color-mix(in srgb, var(--primary) {8 + inten * 62:.0f}%, var(--card))"
         fg = "" if inten < 0.5 else "color:#fff"
         out.append(f'<div class="heat__c" style="background:{bg};border-color:transparent;{fg}" '
-                   f'title="{e(m["month"])}: {m["events"]} pidato, {fmt_int(m["tokens"])} token">'
+                   f'title="{e(m["month"])}: {m["events"]} pidato, {fmt_int(m["tokens"])} kata">'
                    f'<span class="heat__m">{e(m["month"])}</span>'
                    f'<span class="heat__n">{m["events"]}</span></div>')
     return "".join(out)
@@ -517,7 +517,7 @@ def _entries(speeches: list[dict]) -> str:
           <span class="entry__title">{e(judul(s))}{en}
             <span class="entry__meta" style="display:block;font-size:var(--step--1)">
               {e(s.get('channel') or '—')} &middot; {e(s.get('duration_hms') or '—')} &middot;
-              {fmt_int(s.get('token_count', 0))} token &middot; {unggah} unggahan
+              {fmt_int(s.get('token_count', 0))} kata &middot; {unggah} unggahan
             </span>
           </span>
           <span class="entry__meta">{e(TIER_LABEL.get(s.get('source_tier') or '', s.get('source_tier') or ''))}</span>
@@ -608,10 +608,10 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
 
     hero = f"""  <div class="hero">
     <div class="hero__i"><span class="hero__n hero__n--accent">{fmt_int(n_semua)}</span><span class="hero__l">pidato</span></div>
-    <div class="hero__i"><span class="hero__n">{fmt_int(tot_token)}</span><span class="hero__l">token</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(tot_token)}</span><span class="hero__l">kata</span></div>
     <div class="hero__i"><span class="hero__n">{fmt_int(tot_unggah)}</span><span class="hero__l">unggahan</span></div>
-    <div class="hero__i"><span class="hero__n">{fmt_int(L.get('median'))}</span><span class="hero__l">token median</span></div>
-    <div class="hero__i"><span class="hero__n">{fmt_int(L.get('longest'))}</span><span class="hero__l">terpanjang</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(L.get('median'))}</span><span class="hero__l">median kata</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(L.get('longest'))}</span><span class="hero__l">kata terpanjang</span></div>
     <div class="hero__i"><span class="hero__n hero__n--kecil">{e(format_span(coverage))}</span><span class="hero__l">rentang</span></div>
   </div>"""
 
@@ -657,20 +657,20 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
         return f"{x:.0f}%" if x is not None else "—"
 
     body = f"""  <h1>{e(SITE_NAME)}</h1>
-  <p class="lede">{fmt_int(n_semua)} pidato sejak 20 Oktober 2024 &middot; {fmt_int(tot_token)} token</p>
+  <p class="lede">{fmt_int(n_semua)} pidato sejak 20 Oktober 2024 &middot; {fmt_int(tot_token)} kata</p>
 
 {hero}
 
 {_strip_momen(momen or [])}
   <div class="dash">
 {_chart('chart-program', 'Program yang dibahas', f"{len(prog)} program", 'luas kotak = % pidato', '17rem', 'c5')}
-{_chart('chart-kata', 'Kata yang paling sering', 'tanpa kata fungsi', 'hitungan &middot; per 1.000 token &middot; jumlah pidato', '17rem', 'c7')}
-{_chart('chart-topik', 'Topik', f"{len(top)} kategori", 'kepadatan per 1.000 token &middot; jumlah pidato', '15rem', 'c7')}
-{_chart('chart-sapa', 'Kata ganti', f"{len(fr)} kata", 'per 1.000 token', '15rem', 'c5')}
+{_chart('chart-kata', 'Kata yang paling sering', 'tanpa kata fungsi', 'hitungan &middot; per 1.000 kata &middot; jumlah pidato', '17rem', 'c7')}
+{_chart('chart-topik', 'Topik', f"{len(top)} kategori", 'kepadatan per 1.000 kata &middot; jumlah pidato', '15rem', 'c7')}
+{_chart('chart-sapa', 'Kata ganti', f"{len(fr)} kata", 'per 1.000 kata', '15rem', 'c5')}
 {_chart('chart-masalah', 'Kategori masalah', f"{len(conc)} kategori", 'porsi pidato &middot; kemunculan', '14rem', 'c5')}
-{_chart('chart-panjang', 'Panjang pidato', f"median {fmt_int(L.get('median'))} token", 'ribu token &middot; jumlah pidato', '14rem', 'c7')}
-{_chart('chart-volume', 'Volume per bulan', f"{len(bln)} bulan terisi", 'jumlah pidato &middot; token', '15rem', 'c7')}
-{_chart('chart-tahun', 'Kata ganti per tahun', f"{len(home.get('framing_per_year', []))} tahun", 'per 1.000 token', '14rem', 'c5')}
+{_chart('chart-panjang', 'Panjang pidato', f"median {fmt_int(L.get('median'))} kata", 'ribu kata &middot; jumlah pidato', '14rem', 'c7')}
+{_chart('chart-volume', 'Volume per bulan', f"{len(bln)} bulan terisi", 'jumlah pidato &middot; kata', '15rem', 'c7')}
+{_chart('chart-tahun', 'Kata ganti per tahun', f"{len(home.get('framing_per_year', []))} tahun", 'per 1.000 kata', '14rem', 'c5')}
 {_chart('chart-siklus', 'Perhatian program per kuartal', 'porsi pidato', 'korupsi · MBG · bencana', '16rem', 'c12')}
     <section class="card c12">
       <div class="card__h">
@@ -874,7 +874,7 @@ def render_coverage(coverage: dict, meta: dict, speeches: list[dict]) -> str:
         cls = "cov__cell" + ("" if m["covered"] else " cov__cell--empty")
         cells.append(
             f'<div class="{cls}" title="{e(m["month"])}: {m["events"]} pidato, '
-            f'{fmt_int(m["tokens"])} token"><span class="cov__m">{e(m["month"][2:])}</span>'
+            f'{fmt_int(m["tokens"])} kata"><span class="cov__m">{e(m["month"][2:])}</span>'
             f'<span class="cov__n">{m["events"] if m["covered"] else "·"}</span></div>'
         )
 
@@ -923,7 +923,7 @@ def render_coverage(coverage: dict, meta: dict, speeches: list[dict]) -> str:
   <section style="margin-top:1.5rem">
     <h2 style="font-size:var(--step-1)">Per tahun</h2>
     <table class="tbl">
-      <thead><tr><th>Tahun</th><th class="num">Pidato</th><th class="num">Token</th><th class="num">Porsi pidato</th></tr></thead>
+      <thead><tr><th>Tahun</th><th class="num">Pidato</th><th class="num">Kata</th><th class="num">Porsi pidato</th></tr></thead>
       <tbody>
 {chr(10).join(years)}
       </tbody>
@@ -1030,7 +1030,7 @@ def render_about(meta: dict, coverage: dict) -> str:
       <dt>Perangkat</dt><dd><a href="https://github.com/himanusia/youtube-speech-corpus" rel="noopener">youtube-speech-corpus</a></dd>
       <dt>Pidato</dt><dd class="mono">{fmt_int(meta.get('event_count'))}</dd>
       <dt>Unggahan</dt><dd class="mono">{fmt_int(meta.get('upload_count'))}</dd>
-      <dt>Token</dt><dd class="mono">{fmt_int(meta.get('token_count'))}</dd>
+      <dt>Kata</dt><dd class="mono">{fmt_int(meta.get('token_count'))}</dd>
     </dl>
   </section>
 """

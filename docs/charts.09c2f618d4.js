@@ -6,7 +6,7 @@
    tanpa menjalankan JavaScript.
 
    PRINSIP: setiap tooltip menampilkan SEMUA ukuran yang tersedia untuk
-   butir itu (hitungan, per 1.000 token, jumlah pidato, kemunculan,
+   butir itu (hitungan, per 1.000 kata, jumlah pidato, kemunculan,
    rentang tanggal). Grafik tidak menyimpulkan apa pun — pembaca yang
    menilai. Karena itu tidak ada kalimat tafsir di mana pun.
 
@@ -99,7 +99,7 @@
           var w = D.words.slice(0, n).reverse()[p.dataIndex];
           return kepala(w.name) + fakta([
             ['hitungan', nf(w.count)],
-            ['per 1.000 token', w.per1000],
+            ['per 1.000 kata', w.per1000],
             ['pidato yang memuat', w.speeches + ' dari ' + D.coverage.punya],
             ['porsi pidato', w.share + '%']
           ]);
@@ -186,7 +186,7 @@
         formatter: function (p) {
           var x = d[p.dataIndex];
           return kepala(x.name) + fakta([
-            ['kepadatan', x.per1000 + ' per 1.000 token'],
+            ['kepadatan', x.per1000 + ' per 1.000 kata'],
             ['jumlah kata', nf(x.count)],
             ['pidato yang memuat', (x.speeches || 0) + ' dari ' + D.coverage.punya],
             ['porsi pidato', x.share + '%']
@@ -220,7 +220,7 @@
         formatter: function (p) {
           var x = d[p.dataIndex];
           return kepala(x.name) + fakta([
-            ['per 1.000 token', x.per1000],
+            ['per 1.000 kata', x.per1000],
             ['hitungan', nf(x.count)],
             ['pidato yang memuat', (x.speeches || 0) + ' dari ' + D.coverage.punya]
           ]);
@@ -293,7 +293,7 @@
       tooltip: Object.assign(base(t).tooltip, {
         trigger: 'axis', axisPointer: { type: 'shadow' },
         formatter: function (p) {
-          return kepala('≤ ' + p[0].name + ' ribu token')
+          return kepala('≤ ' + p[0].name + ' ribu kata')
             + fakta([['jumlah pidato', p[0].value]]);
         }
       }),
@@ -322,8 +322,8 @@
         formatter: function (p) {
           var x = m[p[0].dataIndex];
           return kepala(x.month) + fakta([
-            ['jumlah pidato', x.events], ['token', nf(x.tokens)],
-            ['rata-rata token', nf(Math.round(x.tokens / Math.max(1, x.events)))]
+            ['jumlah pidato', x.events], ['kata', nf(x.tokens)],
+            ['rata-rata kata', nf(Math.round(x.tokens / Math.max(1, x.events)))]
           ]);
         }
       }),
@@ -360,7 +360,7 @@
         formatter: function (p) {
           var x = y[p[0].dataIndex];
           return kepala(x.year) + fakta([
-            ['jumlah pidato', x.speeches], ['token', nf(x.tokens)],
+            ['jumlah pidato', x.speeches], ['kata', nf(x.tokens)],
             ['kita per 1.000', x.kita], ['saya per 1.000', x.saya],
             ['rasio kita : saya', x.ratio]
           ]);
@@ -395,14 +395,14 @@
           var x = d[p.dataIndex];
           return kepala(x.date) + '<div style="margin-bottom:5px;max-width:340px;white-space:normal">'
             + x.title + '</div>'
-            + fakta([['token', nf(x.tokens)], ['kata unik', nf(x.words)],
+            + fakta([['jumlah kata', nf(x.tokens)], ['kata unik', nf(x.words)],
                      ['unggahan', x.uploads]]);
         }
       }),
       xAxis: { type: 'time', axisLine: { lineStyle: { color: t.border } },
                axisLabel: Object.assign(axisLabel(t), { fontFamily: t.mono, hideOverlap: true }),
                axisTick: { show: false }, splitLine: { show: false } },
-      yAxis: { type: 'value', name: 'token', nameTextStyle: axisLabel(t),
+      yAxis: { type: 'value', name: 'kata', nameTextStyle: axisLabel(t),
                splitLine: split(t),
                axisLabel: Object.assign(axisLabel(t), { fontFamily: t.mono }) },
       series: [{
