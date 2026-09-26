@@ -79,6 +79,149 @@ def yt_at(video_id: str, t) -> str:
     return f"https://www.youtube.com/watch?v={video_id}&t={int(t or 0)}s"
 
 
+# Ikon YouTube untuk tautan video. Manusia butuh ini supaya tahu itu video.
+YT_ICON = ('<svg width="15" height="15" viewBox="0 0 24 24" aria-hidden="true" focusable="false">'
+           '<path fill="#ff0000" d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5'
+           'A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5'
+           's7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8z"/>'
+           '<path fill="#fff" d="M9.6 15.6 15.8 12 9.6 8.4z"/></svg>')
+
+
+# Tingkat sumber, diterjemahkan untuk pembaca manusia.
+TIER_LABEL = {
+    "official": "kanal resmi",
+    "media": "kanal media",
+    "full_media": "kanal media",
+    "resmi_setkab": "transkrip resmi",
+}
+
+
+# Cara pengambilan teks, untuk pembaca manusia.
+FETCH_LABEL = {
+    "caption_api": "takarir YouTube",
+    "transcript_panel": "panel transkrip YouTube",
+    "setkab": "transkrip resmi Setkab",
+    "setkab_api": "transkrip resmi Setkab",
+    "setkab_rest_api": "transkrip resmi Setkab",
+}
+
+
+def _bersih(teks: str) -> str:
+    """Judul unggahan tanpa bumbu berita, untuk tabel unggahan."""
+    try:
+        from rapikan_judul import bersih
+        return bersih(teks or "")
+    except Exception:
+        return teks or ""
+
+
+
+def judul(s: dict) -> str:
+    """Judul tampilan untuk manusia, bukan judul berita kanal.
+
+    Judul asli tetap utuh di `title` (untuk penelusuran); yang ditampilkan
+    adalah versi bersih. `title_tampilan` diisi scripts/rapikan_judul.py;
+    kalau belum ada, fungsi bersih() dari modul yang sama dipakai langsung.
+    """
+    if s.get("title_tampilan"):
+        return s["title_tampilan"]
+    judul_asli = s.get("title") or ""
+    try:
+        from rapikan_judul import bersih  # modul sebelah di scripts/
+        return bersih(judul_asli)
+    except Exception:
+        return judul_asli
+
+
+def _host(u: str) -> str:
+    try:
+        from urllib.parse import urlparse
+        h = urlparse(u).netloc.lower()
+        return h[4:] if h.startswith("www.") else (h or u)
+    except Exception:
+        return u
+
+
+def _momen_load() -> list[dict]:
+    p = DATA / "momen.json"
+    if not p.exists():
+        return []
+    try:
+        d = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    items = d.get("momen") if isinstance(d, dict) else d
+    return [m for m in (items or []) if isinstance(m, dict)]
+
+
+def _momen_sumber(m: dict) -> str:
+    out = []
+    for u in (m.get("sumber") or [])[:4]:
+        if isinstance(u, str) and u.startswith("http"):
+            out.append(f'<a href="{e(u)}" rel="noopener nofollow">{e(_host(u))}</a>')
+    return " ".join(out)
+
+
+def _strip_momen(momen: list[dict]) -> str:
+    """Beranda: momen yang ramai dibicarakan, kutipan + sumbernya."""
+    if not momen:
+        return ""
+
+    def kartu(m: dict) -> str:
+        vid = ""
+        if m.get("video_url"):
+            vid = (f'<a class="yt-link" href="{e(m["video_url"])}" rel="noopener nofollow">'
+                   f'{YT_ICON} Tonton</a>')
+        elif m.get("pidato_id"):
+            vid = f'<a href="pidato/{e(m["pidato_id"])}.html">Buka pidatonya</a>'
+        return f"""    <article class="momen">
+      <div class="momen__h"><span class="chip chip--accent">{e(m.get('tanggal') or '')}</span>
+        <span class="hint">{e((m.get('acara') or '')[:90])}</span></div>
+      <blockquote>&ldquo;{e(m.get('kutipan') or '')}&rdquo;</blockquote>
+      <p class="momen__k">{e(m.get('konteks') or '')}</p>
+      <p class="momen__f">{vid}<span class="momen__src">{_momen_sumber(m)}</span></p>
+    </article>"""
+
+    tampil = [kartu(m) for m in momen[:12]]
+    sisa = [kartu(m) for m in momen[12:]]
+    lain = ""
+    if sisa:
+        lain = ('    <details class="momen__more">\n'
+                f'      <summary>Lihat {len(sisa)} momen lainnya</summary>\n'
+                '      <div class="momen__grid">\n'
+                + chr(10).join(sisa) + "\n"
+                '      </div>\n'
+                '    </details>\n')
+    return f"""  <section class="blok" id="ramai">
+    <h2>Yang ramai dibicarakan</h2>
+    <p class="blok__d">Kutipan dari pidato yang jadi pembicaraan publik, lengkap dengan sumber beritanya.</p>
+    <div class="momen__grid">
+{chr(10).join(tampil)}
+    </div>
+{lain}  </section>
+"""
+
+
+def _sorotan(momen: list[dict]) -> str:
+    """Halaman pidato: momen dari pidato ini yang ramai dibicarakan."""
+    if not momen:
+        return ""
+    items = []
+    for m in momen:
+        konteks = " ".join(x for x in ((m.get("konteks") or "").strip(),
+                                       (m.get("ramai") or "").strip()) if x)
+        items.append(f"""    <div class="sorotan">
+      <blockquote>&ldquo;{e(m.get('kutipan') or '')}&rdquo;</blockquote>
+      <p class="momen__k">{e(konteks)}</p>
+      <p class="momen__f">{_momen_sumber(m)}</p>
+    </div>""")
+    return f"""  <section style="margin-top:1.25rem">
+    <h2 style="font-size:var(--step-1)">Yang ramai dibicarakan</h2>
+{chr(10).join(items)}
+  </section>
+"""
+
+
 # --------------------------------------------------------------------- kerangka
 
 ASSET_V = {"css": "", "js": ""}
@@ -103,6 +246,7 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
 <meta name="twitter:card" content="summary">
 <link rel="stylesheet" href="{rel_root}theme.{ASSET_V['css']}.css">
 <link rel="alternate" type="application/json" href="{rel_root}data/index.json" title="Indeks JSON">
+<link rel="icon" type="image/svg+xml" href="{rel_root}favicon.{ASSET_V['favicon']}.svg">
 <script type="application/ld+json">{jsonld}</script>
 <script type="speculationrules">
 {{"prerender":[{{"where":{{"href_matches":"/*"}},"eagerness":"moderate"}}]}}
@@ -129,7 +273,7 @@ def page(title: str, body: str, *, desc: str = "", canonical: str = "",
 </main>
 <footer class="wrap">
   <p>{e(SITE_NAME)} &middot; <a href="{rel_root}data/index.json">data JSON</a></p>
-  <p class="hint">Transkrip dari caption YouTube (auto-generated). Periksa video aslinya sebelum mengutip.</p>
+  <p class="hint">Sumber teks: takarir YouTube dan transkrip resmi Sekretariat Kabinet. Periksa video aslinya sebelum mengutip.</p>
 </footer>
 <script src="{rel_root}vendor/echarts.{ASSET_V['vendor']}.min.js" defer></script>
 <script src="{rel_root}charts.{ASSET_V['charts']}.js" defer></script>
@@ -370,13 +514,13 @@ def _entries(speeches: list[dict]) -> str:
         rows.append(f"""      <li>
         <a class="entry" href="pidato/{e(s['id'])}.html">
           <span class="entry__date">{e(s['date'])}</span>
-          <span class="entry__title">{e(s['title'])}{en}
+          <span class="entry__title">{e(judul(s))}{en}
             <span class="entry__meta" style="display:block;font-size:var(--step--1)">
               {e(s.get('channel') or '—')} &middot; {e(s.get('duration_hms') or '—')} &middot;
               {fmt_int(s.get('token_count', 0))} token &middot; {unggah} unggahan
             </span>
           </span>
-          <span class="entry__meta">{e(s.get('source_tier') or '')}</span>
+          <span class="entry__meta">{e(TIER_LABEL.get(s.get('source_tier') or '', s.get('source_tier') or ''))}</span>
         </a>
       </li>""")
     return chr(10).join(rows)
@@ -384,9 +528,18 @@ def _entries(speeches: list[dict]) -> str:
 
 def render_daftar(speeches: list[dict], meta: dict, coverage: dict) -> str:
     """Halaman daftar. Dipisah dari beranda: beranda untuk analisis, bukan indeks."""
+    n_en = sum(1 for s in speeches if s.get("transcript_language") == "en")
+    n_nt = sum(1 for s in speeches if s.get("tanpa_transkrip"))
+    rinci = ""
+    if n_en and n_nt:
+        rinci = f" Termasuk {n_en} pidato berbahasa Inggris dan {n_nt} tanpa transkrip."
+    elif n_en:
+        rinci = f" Termasuk {n_en} pidato berbahasa Inggris."
+    elif n_nt:
+        rinci = f" Termasuk {n_nt} pidato tanpa transkrip."
     body = f"""  <h1>Semua pidato</h1>
   <p class="lede">{len(speeches)} pidato, {fmt_int(sum((s.get('upload_count') or len(s.get('uploads') or []) or 1) for s in speeches))} unggahan.
-  Satu baris = satu acara, bukan satu video.</p>
+  Satu baris = satu acara, bukan satu video. Terbaru di atas.{e(rinci)}</p>
 
   <div class="searchbar">
     <input id="q" type="search" placeholder="Cari pidato atau isi transkrip…" aria-label="Cari pidato" autocomplete="off">
@@ -427,157 +580,120 @@ def _chart(id_: str, judul: str, angka: str, unit: str, tinggi: str = "16rem",
       </section>"""
 
 
-def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -> str:
-    """Halaman utama: temuan, bukan daftar grafik.
+def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
+                 momen: list[dict] | None = None) -> str:
+    """Halaman utama: angka korpus dari banyak sudut, plus momen yang
+    ramai dibicarakan."""
+    L = home.get("length") or {}
+    prog = home.get("programs", [])
+    tw = home.get("top_words", [])
+    top = home.get("topics", [])
+    fr = sorted(home.get("framing", []), key=lambda x: -x["per_1000"])
+    conc = home.get("concepts", [])
+    hist = home.get("length_histogram", [])
+    bln = [m for m in coverage.get("months", []) if m.get("covered")]
 
-    Setiap panel menyatakan temuannya di judul, menyertakan penyebut (n dari N),
-    lalu menutup dengan satu kalimat "jadi apa". Frekuensi kata mentah tidak
-    ditampilkan karena tidak memberi pemahaman tanpa pembanding.
-    """
-    ins = json.loads((DATA / "insight.json").read_text(encoding="utf-8"))
-    K = ins["korpus"]
-    N = K["pidato"]
-    ist = ins["istilah"]
-    kuar = ins["seri_kuartal"]
-    ganti = ins["ganti"]
-    sganti = ins["seri_ganti"]
-    bahas = ins["seri_bahasa"]
-    panjang = ins["panjang"]
+    n = home.get("event_count") or 1
+    mbg = next((x for x in prog if "mbg" in x["label"].lower()), None)
+    kor = next((x for x in conc if "korupsi" in x["label"].lower()), None)
+    kita = next((x for x in fr if x["label"] == "kita"), None)
+    saya = next((x for x in fr if x["label"] == "saya"), None)
+    rasio = home.get("kita_saya_ratio")
+    t0 = top[0] if top else None
+    t1 = top[1] if len(top) > 1 else None
 
-    def pct(x): return f"{x:.0f}%"
+    hero = f"""  <div class="hero">
+    <div class="hero__i"><span class="hero__n hero__n--accent">{fmt_int(n)}</span><span class="hero__l">pidato</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(home.get('token_count'))}</span><span class="hero__l">token</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(home.get('upload_count'))}</span><span class="hero__l">unggahan</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(L.get('median'))}</span><span class="hero__l">token median</span></div>
+    <div class="hero__i"><span class="hero__n">{fmt_int(L.get('longest'))}</span><span class="hero__l">terpanjang</span></div>
+    <div class="hero__i"><span class="hero__n hero__n--kecil">{e(format_span(coverage))}</span><span class="hero__l">rentang</span></div>
+  </div>"""
 
-    # ---- panel 1: korupsi makin sering ----
-    awal = [k for k in kuar if k["kuartal"] <= "2025-Q2"]
-    akhir = [k for k in kuar if k["kuartal"] >= "2025-Q3"]
-    def gab(rows, nama):
-        p = sum(r[nama]["pidato"] for r in rows); n = sum(r["n"] for r in rows)
-        return p, n, (p * 100 / n if n else 0)
-    k1p, k1n, k1 = gab(awal, "korupsi")
-    k2p, k2n, k2 = gab(akhir, "korupsi")
-    bar1 = f"""    <div class="pair">
-      <div class="pair__row"><span class="pair__lab">Okt 2024 – Jun 2025</span>
-        <span class="pair__bar"><i style="width:{k1:.0f}%"></i></span>
-        <span class="pair__val">{k1:.0f}% <em>{k1p}/{k1n}</em></span></div>
-      <div class="pair__row"><span class="pair__lab">Jul 2025 – Sep 2026</span>
-        <span class="pair__bar"><i style="width:{k2:.0f}%"></i></span>
-        <span class="pair__val">{k2:.0f}% <em>{k2p}/{k2n}</em></span></div>
-    </div>"""
+    chart_data = {
+        "insight": json.loads((DATA / "insight.json").read_text(encoding="utf-8"))
+                   if (DATA / "insight.json").exists() else {},
+        # UTUH dan multi-metrik. Tiap butir membawa beberapa ukuran
+        # sekaligus supaya pembaca bisa menilai sendiri dari sudut berbeda,
+        # bukan disuguhi satu angka yang sudah ditafsirkan.
+        "words": [{"name": w["word"], "count": w["count"], "per1000": w["per_1000"],
+                   "speeches": w.get("speeches"), "share": w.get("share")} for w in tw],
+        "programs": [{"name": x["label"], "full": x.get("full"), "share": round(x["share"]),
+                      "events": x.get("events"), "mentions": x.get("mentions"),
+                      "per_event": x.get("per_event"), "first": x.get("first"),
+                      "last": x.get("last")} for x in prog],
+        "topics": [{"name": x["topic"].replace("_", " "), "per1000": round(x["per_1000"], 1),
+                    "count": x.get("count"), "speeches": x.get("speeches"),
+                    "share": x.get("share")} for x in top],
+        "framing": [{"name": x["label"], "per1000": round(x["per_1000"], 1),
+                     "count": x.get("count"), "speeches": x.get("speeches")} for x in fr],
+        "concepts": [{"name": x["label"], "full": x.get("full"), "share": round(x["share"]),
+                      "events": x.get("events"), "mentions": x.get("mentions"),
+                      "per_event": x.get("per_event"), "first": x.get("first"),
+                      "last": x.get("last")} for x in conc],
+        "length": {"labels": [x["label"] for x in hist],
+                   "counts": [x["count"] for x in hist]},
+        "months": [{"month": m["month"], "events": m["events"], "tokens": m["tokens"]}
+                   for m in bln],
+        "timeline": [{"date": s["date"], "title": judul(s),
+                      "tokens": s["token_count"] or 0,
+                      "words": s.get("unique_word_count"),
+                      "uploads": s.get("upload_count"),
+                      "url": f"pidato/{s['id']}.html"} for s in speeches],
+        "years": [{"year": y["year"], "speeches": y["speeches"], "tokens": y["tokens"],
+                   "kita": y.get("kita_per_1000"), "saya": y.get("saya_per_1000"),
+                   "ratio": y.get("ratio")} for y in home.get("framing_per_year", [])],
+        "coverage": {"punya": len(speeches), "era": meta.get("era_videos") or 894,
+                     "kosong": len(coverage.get("months_without_events", []))},
+    }
+    payload = json.dumps(chart_data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 
-    # ---- panel 2: fase bahasa inggris ----
-    q1 = next((b for b in bahas if b["kuartal"] == "2024-Q4"), None)
-    sisa = [b for b in bahas if b["kuartal"] > "2024-Q4"]
-    sp = sum(b["inggris"] for b in sisa); sn = sum(b["n"] for b in sisa)
-    bar2 = f"""    <div class="pair">
-      <div class="pair__row"><span class="pair__lab">2024 Q4</span>
-        <span class="pair__bar"><i style="width:{q1['persen'] if q1 else 0:.0f}%"></i></span>
-        <span class="pair__val">{q1['persen'] if q1 else 0:.0f}% <em>{q1['inggris'] if q1 else 0}/{q1['n'] if q1 else 0}</em></span></div>
-      <div class="pair__row"><span class="pair__lab">2025 Q1 – 2026 Q3</span>
-        <span class="pair__bar"><i style="width:{(sp*100/sn if sn else 0):.0f}%"></i></span>
-        <span class="pair__val">{(sp*100/sn if sn else 0):.0f}% <em>{sp}/{sn}</em></span></div>
-    </div>"""
+    def pct(x):
+        return f"{x:.0f}%" if x is not None else "—"
 
-    # ---- panel 3: kata ganti ----
-    urut_g = sorted(ganti.items(), key=lambda x: -x[1]["per_1000"])
-    baris_g = chr(10).join(
-        f'      <div class="pair__row"><span class="pair__lab">{k}</span>'
-        f'<span class="pair__bar"><i style="width:{v["per_1000"]/max(1,max(x[1]["per_1000"] for x in urut_g))*100:.0f}%"></i></span>'
-        f'<span class="pair__val">{v["per_1000"]:.2f} <em>di {v["pidato"]}/{N} pidato</em></span></div>'
-        for k, v in urut_g)
-    bar3 = f'    <div class="pair">\n{baris_g}\n    </div>'
+    body = f"""  <h1>{e(SITE_NAME)}</h1>
+  <p class="lede">{fmt_int(n)} pidato bertranskrip Indonesia sejak 20 Oktober 2024 &middot; {fmt_int(home.get('token_count'))} token</p>
 
-    # ---- panel 4: perhatian bersiklus (garis) ----
-    bar4 = '    <div class="chart" id="chart-siklus" style="height:17rem"></div>'
+{hero}
 
-    # ---- panel 5: yang hampir tidak pernah disebut ----
-    urut_i = sorted(ist.items(), key=lambda x: -x[1]["persen_pidato"])
-    baris_i = chr(10).join(
-        f'      <div class="pair__row"><span class="pair__lab">{k}</span>'
-        f'<span class="pair__bar"><i style="width:{v["persen_pidato"]/max(0.01,max(x[1]["persen_pidato"] for x in urut_i))*100:.1f}%"></i></span>'
-        f'<span class="pair__val">{v["persen_pidato"]:.1f}% <em>{v["pidato"]}/{N} pidato</em></span></div>'
-        for k, v in urut_i)
-    bar5 = f'    <div class="pair">\n{baris_i}\n    </div>'
+{_strip_momen(momen or [])}
+  <div class="dash">
+{_chart('chart-program', 'Program yang dibahas', f"{len(prog)} program", 'luas kotak = % pidato', '17rem', 'c5')}
+{_chart('chart-kata', 'Kata yang paling sering', 'tanpa kata fungsi', 'hitungan &middot; per 1.000 token &middot; jumlah pidato', '17rem', 'c7')}
+{_chart('chart-topik', 'Topik', f"{len(top)} kategori", 'kepadatan per 1.000 token &middot; jumlah pidato', '15rem', 'c7')}
+{_chart('chart-sapa', 'Kata ganti', f"{len(fr)} kata", 'per 1.000 token', '15rem', 'c5')}
+{_chart('chart-masalah', 'Kategori masalah', f"{len(conc)} kategori", 'porsi pidato &middot; kemunculan', '14rem', 'c5')}
+{_chart('chart-panjang', 'Panjang pidato', f"median {fmt_int(L.get('median'))} token", 'ribu token &middot; jumlah pidato', '14rem', 'c7')}
+{_chart('chart-volume', 'Volume per bulan', f"{len(bln)} bulan terisi", 'jumlah pidato &middot; token', '15rem', 'c7')}
+{_chart('chart-tahun', 'Kata ganti per tahun', f"{len(home.get('framing_per_year', []))} tahun", 'per 1.000 token', '14rem', 'c5')}
+{_chart('chart-siklus', 'Perhatian program per kuartal', 'porsi pidato', 'korupsi · MBG · bencana', '16rem', 'c12')}
+    <section class="card c12">
+      <div class="card__h">
+        <h3>Sebaran waktu</h3>
+        <span class="unit">{len(coverage.get('months_without_events', []))} bulan tanpa pidato</span>
+      </div>
+      <div class="heat">{_cov_cells(coverage)}</div>
+      <div class="legend">
+        <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 12%, var(--card))"></span>
+        <span>sedikit</span>
+        <span class="legend__s" style="background:color-mix(in srgb, var(--primary) 70%, var(--card))"></span>
+        <span>banyak</span>
+        <span class="legend__s" style="border-style:dashed;background:transparent"></span>
+        <span>kosong</span>
+      </div>
+    </section>
+{_chart('chart-waktu', 'Garis waktu', f'{fmt_int(n)} pidato', 'tinggi = panjang &middot; klik untuk membuka', '17rem', 'c12')}
+{_chart('chart-kelengkapan', 'Kelengkapan arsip', f"{fmt_int(len(speeches))} dari {fmt_int(meta.get('era_videos') or 894)} video era kepresidenan", 'per bulan', '13rem', 'c12', False)}
+  </div>
 
-    # ---- panel 6: panjang per jenis acara ----
-    baris_p = chr(10).join(
-        f'      <div class="pair__row"><span class="pair__lab">{x["jenis"]}</span>'
-        f'<span class="pair__bar"><i style="width:{x["median"]/max(1,max(y["median"] for y in panjang))*100:.0f}%"></i></span>'
-        f'<span class="pair__val">{fmt_int(x["median"])} <em>median · {x["n"]} pidato</em></span></div>'
-        for x in panjang)
-    bar6 = f'    <div class="pair">\n{baris_p}\n    </div>'
-
-    blok = f"""  <h1>Bagaimana Presiden berbicara, dari 20 Oktober 2024</h1>
-  <p class="lede">{fmt_int(N)} pidato era presiden yang bertranskrip Indonesia,
-  {fmt_int(K['token'])} kata. Tiap angka di halaman ini disertai
-  berapa pidato yang membahasnya, bukan cuma berapa kali katanya muncul.</p>
-
-  <section class="blok">
-    <h2>Korupsi makin sering dibahas</h2>
-    <p class="blok__d">Porsi pidato yang menyebut korupsi atau kebocoran,
-    dibandingkan dua periode.</p>
-{bar1}
-    <p class="blok__t">Pada paruh pertama pemerintahan, {k1p} dari {k1n} pidato
-    menyinggung korupsi. Setelah itu {k2p} dari {k2n}.</p>
-  </section>
-
-  <section class="blok">
-    <h2>Bahasa Inggris hanya di kuartal pertama</h2>
-    <p class="blok__d">Porsi pidato yang lebih banyak berbahasa Inggris
-    daripada Indonesia.</p>
-{bar2}
-    <p class="blok__t">Setelah kuartal pertama, pidato berbahasa Inggris
-    praktis berhenti.</p>
-  </section>
-
-  <section class="blok">
-    <h2>Kata yang dia pakai untuk menyebut diri dan rakyat</h2>
-    <p class="blok__d">Kemunculan per 1.000 kata, dan berapa pidato yang
-    memuatnya.</p>
-{bar3}
-    <p class="blok__t">"Kita" dipakai {ganti['kita']['per_1000']:.1f} kali per
-    1.000 kata, hampir 1,5 kali lebih sering daripada "saya"
-    ({ganti['saya']['per_1000']:.1f}).</p>
-  </section>
-
-  <section class="blok">
-    <h2>Perhatian terhadap program naik dan turun</h2>
-    <p class="blok__d">Porsi pidato yang membahas tiap program, per kuartal.</p>
-{bar4}
-    <p class="blok__t">Penyebutan yang naik lalu turun tidak menunjukkan
-    programnya berhenti, hanya bahwa program itu tidak lagi jadi bahan
-    pidato.</p>
-  </section>
-
-  <section class="blok">
-    <h2>Yang hampir tidak pernah disebut</h2>
-    <p class="blok__d">Porsi pidato yang menyebut tiap istilah, dihitung dengan
-    seluruh varian katanya.</p>
-{bar5}
-    <p class="blok__t">"Karhutla" dicari bersama kebakaran hutan, kebakaran lahan,
-    kabut asap, dan titik api. Hasilnya {ist['karhutla']['pidato']} dari {N} pidato.
-    Sekretariat Presiden menerbitkan klip penanganan karhutla 22&ndash;24 Agustus
-    2026, tetapi klip itu berdurasi 24 sampai 177 detik dan tidak punya caption
-    Indonesia, jadi tidak masuk arsip ini sebagai pidato.</p>
-  </section>
-
-  <section class="blok">
-    <h2>Panjang pidato tergantung panggungnya</h2>
-    <p class="blok__d">Token median per jenis acara. Perbandingan panjang
-    antar jenis acara tidak sepadan.</p>
-{bar6}
-    <p class="blok__t">Pidato kenegaraan {fmt_int(next(x['median'] for x in panjang if x['jenis']=='kenegaraan'))}
-    token median; pidato luar negeri {fmt_int(next(x['median'] for x in panjang if x['jenis']=='luar negeri'))}.
-    Karena itu semua angka di atas dihitung per pidato, bukan per jumlah kata.</p>
-  </section>
-
-  <p class="blok__t"><a href="daftar.html">Lihat seluruh {fmt_int(N)} pidato</a>
-  atau baca <a href="tentang.html">cara penghitungannya</a>.</p>
+  <script id="chart-data" type="application/json">{payload}</script>
 """
-
     return page(
-        f"{SITE_NAME} — {fmt_int(N)} pidato",
-        blok,
-        desc=f"Analisis {fmt_int(N)} pidato Presiden Prabowo sejak 20 Oktober 2024: "
-             f"pergeseran bahasa, kata ganti, dan apa yang dibahas dan tidak dibahas.",
+        f"{SITE_NAME} — {n} pidato",
+        body,
+        desc=f"Cara Prabowo berpidato, diukur dari {n} pidato: program yang paling dibahas, "
+             f"kata yang paling sering diucapkan, dan batas kepercayaan datanya.",
         canonical="/",
         jsonld=json.dumps({
             "@context": "https://schema.org",
@@ -585,9 +701,12 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict) -
             "name": SITE_NAME,
             "description": SITE_TAGLINE,
             "url": SITE_BASE + "/",
-            "hasPart": [{"@type": "CreativeWork", "name": s["title"],
-                         "datePublished": s["date"],
-                         "url": f"{SITE_BASE}/pidato/{s['id']}.html"} for s in speeches],
+            "hasPart": [{
+                "@type": "CreativeWork",
+                "name": judul(s),
+                "datePublished": s["date"],
+                "url": f"{SITE_BASE}/pidato/{s['id']}.html",
+            } for s in speeches],
         }, ensure_ascii=False),
         active="beranda",
     )
@@ -602,26 +721,27 @@ def format_span(coverage: dict) -> str:
 
 # ------------------------------------------------------------------ detail pidato
 
-def render_speech(s: dict, prev: dict | None, nxt: dict | None) -> str:
+def render_speech(s: dict, prev: dict | None, nxt: dict | None,
+                  momen: list[dict] | None = None) -> str:
     vid = s["video_id"]
 
     paras = []
     for p in s["transcript"]:
-        link = yt_at(vid, p["t"])
+        tcell = (f'<a href="{e(yt_at(vid, p["t"]))}" title="Buka di YouTube pada detik ini" '
+                 f'rel="noopener">{ts_short(p["t"])}</a>') if vid else ""
         paras.append(f"""    <div class="para" id="t{p['t']}">
-      <div class="para__t"><a href="{e(link)}" title="Buka di YouTube pada detik ini" rel="noopener">{ts_short(p['t'])}</a></div>
+      <div class="para__t">{tcell}</div>
       <div class="para__text">{e(p['text'])}</div>
     </div>""")
 
     up_rows = []
     for u in s["uploads"]:
-        mark = '<span class="chip chip--ok">kanonik</span>' if u["canonical"] else ""
-        fetch = {"caption_api": "caption API", "transcript_panel": "panel transkrip"}.get(
-            u.get("fetch_method") or "", u.get("fetch_method") or "—")
+        mark = '<span class="chip chip--ok">utama</span>' if u.get("canonical") else ""
+        fetch = FETCH_LABEL.get(u.get("fetch_method") or "", u.get("fetch_method") or "—")
         up_rows.append(f"""        <tr>
           <td>{mark}</td>
           <td><a href="{e(u['url'])}" rel="noopener nofollow">{e(u['video_id'])}</a>
-              <div class="hint">{e((u.get('title') or '')[:80])}</div></td>
+              <div class="hint">{e(_bersih(u.get('title') or '')[:80])}</div></td>
           <td>{e(u.get('channel') or '—')}</td>
           <td class="mono">{e(u.get('upload_date') or '—')}</td>
           <td class="num">{fmt_int(u.get('token_count'))}</td>
@@ -635,33 +755,6 @@ def render_speech(s: dict, prev: dict | None, nxt: dict | None) -> str:
         for k, v in sorted(topics.items(), key=lambda kv: -kv[1]) if v
     )
 
-    sig = s.get("policy_signals") or {}
-    sig_block = ""
-    if sig:
-        ev = sig.get("evidence") or []
-        ev_html = ""
-        if ev:
-            items = []
-            for item in ev[:6]:
-                if isinstance(item, dict):
-                    txt = item.get("text") or item.get("snippet") or ""
-                    t = item.get("start", item.get("t"))
-                else:
-                    txt, t = str(item), None
-                if t is not None:
-                    items.append(f'<li><a href="{e(yt_at(vid, t))}" rel="noopener">{ts_short(t)}</a> — {e(txt)}</li>')
-                else:
-                    items.append(f"<li>{e(txt)}</li>")
-            ev_html = '<ul style="margin:.4rem 0 0;padding-left:1.1rem">' + "".join(items) + "</ul>"
-        sig_block = f"""  <section class="panel" style="margin-top:1rem">
-    <h2 style="font-size:var(--step-1)">Sinyal kebijakan: {e(sig.get('label','—'))}</h2>
-    <p class="hint" style="margin:0">Sinyal total {fmt_int(sig.get('policy_signal_count'))} &middot;
-    token eksak {fmt_int(sig.get('exact_token_count'))} &middot;
-    frasa penuh {fmt_int(sig.get('full_phrase_count'))} &middot;
-    ambigu {fmt_int(sig.get('ambiguous_count'))}</p>
-    {ev_html}
-  </section>"""
-
     nav = []
     if prev:
         nav.append(f'<a href="{e(prev["id"])}.html">&larr; {e(fmt_date(prev["date"]))}</a>')
@@ -669,38 +762,53 @@ def render_speech(s: dict, prev: dict | None, nxt: dict | None) -> str:
         nav.append(f'<a href="{e(nxt["id"])}.html">{e(fmt_date(nxt["date"]))} &rarr;</a>')
     nav_html = f'<p class="crumb" style="margin-top:1.5rem">{" &middot; ".join(nav)}</p>' if nav else ""
 
-    body = f"""  <p class="crumb"><a href="../index.html">Daftar</a> / {e(s['date'])}</p>
-  <h1>{e(s['title'])}</h1>
+    prov = s.get("provenance") or {}
+    bahasa = {"id": "Indonesia", "en": "Inggris"}.get(prov.get("language") or "",
+                                                        prov.get("language") or "—")
+    ambil = FETCH_LABEL.get(s.get("fetch_method") or "", s.get("fetch_method") or "—")
+    tier = TIER_LABEL.get(s.get("source_tier") or "", s.get("source_tier") or "—")
+
+    if s.get("youtube_url"):
+        sumber_dd = (f'<dt>Video</dt><dd><a class="yt-link" href="{e(s["youtube_url"])}" '
+                     f'rel="noopener nofollow">{YT_ICON} YouTube</a></dd>')
+    else:
+        lk = (s.get("provenance") or {}).get("link") or ""
+        isi = (f'<a href="{e(lk)}" rel="noopener nofollow">transkrip resmi Sekretariat Kabinet</a>'
+               if lk else "—")
+        sumber_dd = f'<dt>Sumber teks</dt><dd>{isi}</dd>'
+
+    transkrip_hint = ("Cap waktu di kiri bertaut ke detik yang tepat di YouTube." if vid
+                      else "Transkrip resmi, tanpa cap waktu.")
+
+    body = f"""  <p class="crumb"><a href="../daftar.html">Semua pidato</a> / {e(fmt_date(s['date']))}</p>
+  <h1>{e(judul(s))}</h1>
 
   <div class="chips" style="margin:.5rem 0 1rem">
     <span class="chip chip--accent">{e(fmt_date(s['date']))}</span>
     <span class="chip">{e(s['channel'])}</span>
     <span class="chip">{e(s['duration_hms'] or '—')}</span>
-    <span class="chip">{e(s['source_tier'] or '—')}</span>
-    <span class="chip">{e(s['fetch_method'] or '—')}</span>
+    <span class="chip">{e(tier)}</span>
+    <span class="chip">{e(ambil)}</span>
     <span class="chip">{len(s['uploads'])} unggahan</span>
   </div>
 
   <section class="panel">
     <h2 style="font-size:var(--step-1)">Sumber</h2>
     <dl class="dl">
-      <dt>Video kanonik</dt><dd><a href="{e(s['youtube_url'])}" rel="noopener nofollow">{e(vid)}</a></dd>
-      <dt>Transkrip dari</dt><dd class="mono">engine/data/prabowo/raw/{e(vid)}.json</dd>
-      <dt>Jumlah token</dt><dd class="mono">{fmt_int(s['token_count'])}</dd>
-      <dt>Kata unik</dt><dd class="mono">{fmt_int(s['unique_word_count'])}</dd>
+      {sumber_dd}
       <dt>Durasi</dt><dd class="mono">{e(s['duration_hms'] or '—')} ({fmt_int(s['duration_s'])} detik)</dd>
-      <dt>Bahasa</dt><dd class="mono">{e(s['provenance'].get('language') or '—')}</dd>
-      <dt>Metode</dt><dd class="mono">{e(s['provenance'].get('fetched_via') or '—')}</dd>
-      <dt>Commit engine</dt><dd class="mono">{e((s['provenance'].get('engine_commit') or '—')[:12])}</dd>
+      <dt>Jumlah kata</dt><dd class="mono">{fmt_int(s['token_count'])}</dd>
+      <dt>Kata unik</dt><dd class="mono">{fmt_int(s['unique_word_count'])}</dd>
+      <dt>Bahasa</dt><dd>{e(bahasa)}</dd>
+      <dt>Cara ambil teks</dt><dd>{e(ambil)}</dd>
     </dl>
   </section>
 
   <section style="margin-top:1.25rem">
     <h2 style="font-size:var(--step-1)">Semua unggahan pidato ini</h2>
-    <p class="hint" style="margin:0 0 .5rem">Hanya satu yang dipakai untuk hitungan. Sisanya tetap dicatat.</p>
     <div style="overflow-x:auto">
     <table class="tbl">
-      <thead><tr><th></th><th>Video</th><th>Kanal</th><th>Diunggah</th><th class="num">Token</th><th>Diambil via</th><th>Status</th></tr></thead>
+      <thead><tr><th></th><th>Video</th><th>Kanal</th><th>Diunggah</th><th class="num">Kata</th><th>Diambil via</th><th>Status</th></tr></thead>
       <tbody>
 {chr(10).join(up_rows)}
       </tbody>
@@ -708,17 +816,16 @@ def render_speech(s: dict, prev: dict | None, nxt: dict | None) -> str:
     </div>
   </section>
 
-{sig_block}
+{_sorotan(momen or [])}
 
   <section style="margin-top:1.25rem">
-    <h2 style="font-size:var(--step-1)">Topik yang terdeteksi</h2>
+    <h2 style="font-size:var(--step-1)">Topik</h2>
     <div class="chips">{topic_chips or '<span class="hint">tidak ada</span>'}</div>
-    <p class="hint" style="margin:.5rem 0 0">Sinyal leksikal, bukan klasifikasi.</p>
   </section>
 
   <section style="margin-top:1.75rem">
     <h2 style="font-size:var(--step-1)">Transkrip</h2>
-    <p class="hint" style="margin:0 0 .5rem">Cap waktu di kiri bertaut ke detik yang tepat di YouTube.</p>
+    <p class="hint" style="margin:0 0 .5rem">{transkrip_hint}</p>
     <div class="transcript">
 {chr(10).join(paras)}
     </div>
@@ -726,15 +833,15 @@ def render_speech(s: dict, prev: dict | None, nxt: dict | None) -> str:
 {nav_html}
 """
     return page(
-        f"{s['title']} — {fmt_date(s['date'])}",
+        f"{judul(s)} — {fmt_date(s['date'])}",
         body,
         desc=f"Transkrip lengkap pidato Prabowo, {fmt_date(s['date'])} di {s['channel']}. "
-             f"{fmt_int(s['token_count'])} token, {len(s['uploads'])} unggahan tercatat.",
+             f"{fmt_int(s['token_count'])} kata, {len(s['uploads'])} unggahan tercatat.",
         canonical=f"/pidato/{s['id']}.html",
         jsonld=json.dumps({
             "@context": "https://schema.org",
             "@type": "Article",
-            "headline": s["title"],
+            "headline": judul(s),
             "datePublished": s["date"],
             "inLanguage": "id",
             "url": f"{SITE_BASE}/pidato/{s['id']}.html",
@@ -772,6 +879,13 @@ def render_coverage(coverage: dict, meta: dict, speeches: list[dict]) -> str:
 
     tiers = " ".join(f'<span class="chip">{e(k)} {v}</span>'
                      for k, v in sorted((coverage.get("source_tiers") or {}).items(), key=lambda kv: -kv[1]))
+    komposisi = " ".join(
+        f'<span class="chip">{v} {k}</span>' for k, v in (
+            ("bertranskrip Indonesia", coverage.get("dengan_transkrip_id")),
+            ("berbahasa Inggris", coverage.get("berbahasa_inggris")),
+            ("tanpa transkrip", coverage.get("tanpa_transkrip")),
+        ) if v
+    ) or '<span class="hint">—</span>' 
     methods = " ".join(f'<span class="chip">{e(k)} {v}</span>'
                        for k, v in sorted((coverage.get("fetch_methods") or {}).items(), key=lambda kv: -kv[1]))
 
@@ -814,6 +928,8 @@ def render_coverage(coverage: dict, meta: dict, speeches: list[dict]) -> str:
     <div class="chips">{tiers}</div>
     <p class="hint" style="margin:.9rem 0 .4rem">Cara pengambilan transkrip</p>
     <div class="chips">{methods}</div>
+    <p class="hint" style="margin:.9rem 0 .4rem">Komposisi arsip</p>
+    <div class="chips">{komposisi}</div>
   </section>
 
   <section class="note" style="margin-top:1.75rem">
@@ -847,7 +963,7 @@ def render_about(meta: dict, coverage: dict) -> str:
     <p style="margin:.3rem 0">Pidato yang sama sering diunggah puluhan kanal. Aturannya:</p>
     <ul style="margin:.3rem 0;padding-left:1.2rem">
       <li>Satu peristiwa pidato dihitung <strong>sekali</strong>, walau diunggah banyak kanal.</li>
-      <li>Satu unggahan dipilih jadi <strong>kanonik</strong> — yang dipakai untuk hitungan token.</li>
+      <li>Satu unggahan dipilih sebagai <strong>rekaman utama</strong> — yang dipakai untuk transkrip dan kutipan.</li>
       <li>Pemilihannya bukan sekadar yang terpanjang. Livestream sering terpadding
       pembawa acara, jadi unggahan yang pembukanya jauh dari pola pembuka pidato justru dibuang.</li>
       <li><strong>Semua unggahan lain tetap dicatat</strong> dan ditampilkan di halaman pidato,
@@ -857,14 +973,15 @@ def render_about(meta: dict, coverage: dict) -> str:
 
   <section class="panel">
     <h2 style="font-size:var(--step-1)">Asal transkrip</h2>
-    <p>Sumbernya caption YouTube bahasa Indonesia, bukan transkrip dari audio.
-    Dua jalur dipakai, dan keduanya ditandai per pidato:</p>
+    <p>Tiga sumber teks dipakai, dan jenisnya selalu ditandai di halaman pidato:</p>
     <div class="chips">
-      <span class="chip">caption API</span>
-      <span class="chip">panel transkrip YouTube</span>
+      <span class="chip">takarir YouTube bahasa Indonesia</span>
+      <span class="chip">takarir asli berbahasa Inggris</span>
+      <span class="chip">transkrip resmi Sekretariat Kabinet</span>
     </div>
-    <p class="hint" style="margin:.6rem 0 0">Kedua jalur pernah diuji pada video yang sama dan
-    menghasilkan teks identik (15.621 karakter, 2.362 kata) sebelum dipakai bergantian.</p>
+    <p class="hint" style="margin:.6rem 0 0">Takarir YouTube diambil dua kali dengan
+    cara berbeda pada video yang sama untuk memastikan teksnya sama, lalu dipakai
+    bergantian. Transkrip resmi tidak punya cap waktu.</p>
   </section>
 
   <section class="panel">
@@ -874,12 +991,12 @@ def render_about(meta: dict, coverage: dict) -> str:
   </section>
 
   <section class="panel">
-    <h2 style="font-size:var(--step-1)">Data mesin</h2>
+    <h2 style="font-size:var(--step-1)">Data mentah</h2>
     <p>Versi JSON dari data yang sama, untuk yang mau mengolahnya sendiri:</p>
     <ul style="margin:.3rem 0;padding-left:1.2rem">
       <li><a href="data/index.json">data/index.json</a> — daftar semua pidato</li>
       <li><a href="data/coverage.json">data/coverage.json</a> — peta cakupan</li>
-      <li><a href="data/meta.json">data/meta.json</a> — asal-usul build</li>
+      <li><a href="data/meta.json">data/meta.json</a> — asal-usul data</li>
       <li><code>data/speeches/&lt;slug&gt;.json</code> — satu berkas per pidato, termasuk transkrip penuh</li>
     </ul>
   </section>
@@ -894,11 +1011,10 @@ def render_about(meta: dict, coverage: dict) -> str:
   </section>
 
   <section class="panel" style="margin-top:1.25rem">
-    <h2 style="font-size:var(--step-1)">Asal-usul build</h2>
+    <h2 style="font-size:var(--step-1)">Asal-usul data</h2>
     <dl class="dl">
       <dt>Dibangun</dt><dd class="mono">{e(meta.get('built_at') or '—')}</dd>
-      <dt>Mesin</dt><dd><a href="https://github.com/himanusia/youtube-speech-corpus" rel="noopener">youtube-speech-corpus</a>
-        <span class="mono hint">@ {(meta.get('engine_commit') or '—')[:12]}</span></dd>
+      <dt>Perangkat</dt><dd><a href="https://github.com/himanusia/youtube-speech-corpus" rel="noopener">youtube-speech-corpus</a></dd>
       <dt>Pidato</dt><dd class="mono">{fmt_int(meta.get('event_count'))}</dd>
       <dt>Unggahan</dt><dd class="mono">{fmt_int(meta.get('upload_count'))}</dd>
       <dt>Token</dt><dd class="mono">{fmt_int(meta.get('token_count'))}</dd>
@@ -1020,6 +1136,11 @@ def main() -> int:
     # keterangan pers pejabat lain, kunjungan, atau potongan sangat pendek
     # TIDAK diterbitkan — kalau ikut, judul situsnya jadi tidak jujur.
     def terbit(d):
+        # Pra-era (sebelum 20 Okt 2024) bukan pidato kepresidenan: tidak
+        # diterbitkan. Dulu dua entri seperti ini ikut tampil di daftar dan
+        # membuat klaim "arsip sejak 20 Oktober 2024" tidak konsisten.
+        if d.get("pra_era"):
+            return False
         k = d.get("speaker_kind")
         if k is None:
             return True                      # 67 entri awal, sudah terkurasi
@@ -1028,12 +1149,14 @@ def main() -> int:
     # tapi ditandai `transcript_language` supaya pembaca tahu transkripnya
     # bukan bahasa Indonesia dan tidak ikut statistik kata.
     speeches = [d for d in semua if terbit(d)]
+    speeches.sort(key=lambda d: (d.get("date") or "", d.get("id") or ""))
     disaring = len(semua) - len(speeches)
     index = json.loads((DATA / "index.json").read_text(encoding="utf-8"))
     coverage = json.loads((DATA / "coverage.json").read_text(encoding="utf-8"))
     meta = json.loads((DATA / "meta.json").read_text(encoding="utf-8"))
     home_path = DATA / "home.json"
     home = json.loads(home_path.read_text(encoding="utf-8")) if home_path.exists() else {}
+    momen = _momen_load()
 
     if not speeches:
         print("Tidak ada pidato. Jalankan build_log.py dulu.")
@@ -1051,6 +1174,7 @@ def main() -> int:
     ASSET_V["vendor"] = asset_version(WEB / "vendor" / "echarts.min.js")
     ASSET_V["charts"] = asset_version(WEB / "charts.js")
     ASSET_V["figure"] = asset_version(WEB / "prabowo.svg")
+    ASSET_V["favicon"] = asset_version(WEB / "favicon.svg")
     print(f"versi aset: css={ASSET_V['css']} js={ASSET_V['js']}")
 
     # Bersihkan keluaran lama supaya tidak ada sisa halaman yatim.
@@ -1061,35 +1185,31 @@ def main() -> int:
 
     # Data grafik ditanam ke HTML, bukan diambil lewat fetch, supaya perayap
     # dan pembaca tanpa JavaScript tetap mendapat angka yang sama.
-    _payload = {
-        "insight": json.loads((DATA / "insight.json").read_text(encoding="utf-8"))
-        if (DATA / "insight.json").exists() else {},
-        "words": home.get("top_words", []),
-        "topics": home.get("topics", []),
-        "framing": home.get("framing", []),
-        "concepts": home.get("concepts", []),
-        "programs": home.get("programs", []),
-    }
-    _html = render_index(index, meta, coverage, home)
-    _tag = ('<script id="chart-data" type="application/json">'
-            + json.dumps(_payload, ensure_ascii=False, separators=(",", ":"))
-            + "</script>")
-    (DOCS / "index.html").write_text(_html.replace("</main>", _tag + "\n</main>", 1),
-                                     encoding="utf-8")
+    # Momen riset hanya ditautkan ke entri yang benar-benar ada di arsip.
+    ids = {s["id"] for s in speeches}
+    for m in momen:
+        if m.get("pidato_id") and m["pidato_id"] not in ids:
+            m["pidato_id"] = None
+    (DOCS / "index.html").write_text(
+        render_index(speeches, meta, coverage, home, momen), encoding="utf-8")
     # PENTING: daftar memakai ARSIP lengkap, bukan index.json. index.json
     # berasal dari korpus engine dan hanya memuat 67 acara; memakainya membuat
     # halaman "semua pidato" menampilkan 67 dari 329 tanpa penjelasan.
-    urut = sorted(speeches, key=lambda d: (d.get("date") or "", d.get("id") or ""))
+    urut = list(reversed(speeches))          # terbaru di atas
     (DOCS / "daftar.html").write_text(render_daftar(urut, meta, coverage), encoding="utf-8")
     (DOCS / "cakupan.html").write_text(render_coverage(coverage, meta, speeches), encoding="utf-8")
     (DOCS / "tentang.html").write_text(render_about(meta, coverage), encoding="utf-8")
     (DOCS / "404.html").write_text(render_404(), encoding="utf-8")
 
+    momen_by_id: dict[str, list[dict]] = {}
+    for m in momen:
+        if m.get("pidato_id"):
+            momen_by_id.setdefault(m["pidato_id"], []).append(m)
     for i, s in enumerate(speeches):
         prev = speeches[i - 1] if i > 0 else None
         nxt = speeches[i + 1] if i + 1 < len(speeches) else None
         (DOCS / "pidato" / f"{s['id']}.html").write_text(
-            render_speech(s, prev, nxt), encoding="utf-8")
+            render_speech(s, prev, nxt, momen_by_id.get(s["id"]) or []), encoding="utf-8")
 
     # aset
     # Versi di NAMA BERKAS, bukan di query string.
@@ -1107,19 +1227,20 @@ def main() -> int:
     (DOCS / f"app.{ASSET_V['js']}.js").write_text(APP_JS, encoding="utf-8")
     shutil.copy2(WEB / "charts.js", DOCS / f"charts.{ASSET_V['charts']}.js")
     shutil.copy2(WEB / "prabowo.svg", DOCS / f"prabowo.{ASSET_V['figure']}.svg")
+    shutil.copy2(WEB / "favicon.svg", DOCS / f"favicon.{ASSET_V['favicon']}.svg")
     (DOCS / "vendor").mkdir(exist_ok=True)
     shutil.copy2(WEB / "vendor" / "echarts.min.js",
                  DOCS / "vendor" / f"echarts.{ASSET_V['vendor']}.min.js")
 
     # data mesin
-    for name in ("index.json", "coverage.json", "meta.json"):
+    for name in ("index.json", "coverage.json", "meta.json", "momen.json"):
         shutil.copy2(DATA / name, DOCS / "data" / name)
     for p in (DATA / "speeches").glob("*.json"):
         shutil.copy2(p, DOCS / "data" / "speeches" / p.name)
 
     # indeks pencarian: satu string teks penuh per pidato
     search = {
-        s["id"]: (s["title"] + " " + s["channel"] + " " + s["date"] + " "
+        s["id"]: (judul(s) + " " + s["channel"] + " " + s["date"] + " "
                   + " ".join(p["text"] for p in s["transcript"]))[:400000]
         for s in speeches
     }
@@ -1162,6 +1283,9 @@ def main() -> int:
         "  Cache-Control: public, max-age=31536000, immutable\n"
         "\n"
         "/*.png\n"
+        "  Cache-Control: public, max-age=31536000, immutable\n"
+        "\n"
+        "/*.svg\n"
         "  Cache-Control: public, max-age=31536000, immutable\n"
         "\n"
         "/data/*\n"

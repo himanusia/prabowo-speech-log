@@ -34,5 +34,6 @@
  },
  "speaker_kind": "pidato_prabowo",
  "worklist_kind": "pidato",
- "is_fragment": false
+ "is_fragment": false,
+ "transcript_language": "en"
 }

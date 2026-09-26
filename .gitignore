@@ -11,3 +11,13 @@ venv/
 
 # pratinjau lokal, bukan bagian situs
 preview.html
+
+# log sinkronisasi otomatis
+data/sync.log
+data/sync-launchd.log
+data/.sync.lock
+
+# artefak tarikan yang boleh dibuat ulang
+data/setkab-fetch.json
+data/riset-search-*.json
+data/riset-extract-*.json

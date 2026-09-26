@@ -126,6 +126,20 @@ transkrip penuhnya dipublikasikan, dengan atribusi video asal di setiap berkas.
    kata, jadi bisa salah baca konteks.
 6. **Materi pihak ketiga.** Kutip video aslinya sebagai sumber, bukan situs ini.
 
+## Sinkronisasi otomatis
+
+Pidato dan transkrip baru masuk lewat satu skrip — tarik yang belum ada, impor,
+bangun ulang, lalu tayangkan:
+
+```bash
+bash scripts/sync.sh              # batch 40, tayangkan
+SYNC_COMMIT=0 SYNC_PUSH=0 SYNC_DEPLOY=0 SYNC_SETKAB=0 bash scripts/sync.sh 3
+                                  # uji tanpa efek samping
+```
+
+Jalan otomatis tiap hari 20:30 lewat LaunchAgent `com.himanusia.prabowo-sync`
+(plist ada di `scripts/launchd/`). Log: `data/sync.log`.
+
 ## Lisensi dan atribusi
 
 Kode di repo ini bebas dipakai. **Transkrip pidato bukan milik repo ini** — itu

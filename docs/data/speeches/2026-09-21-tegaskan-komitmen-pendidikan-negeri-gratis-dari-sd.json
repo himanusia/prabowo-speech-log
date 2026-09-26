@@ -1,0 +1,71 @@
+{
+ "id": "2026-09-21-tegaskan-komitmen-pendidikan-negeri-gratis-dari-sd",
+ "video_id": "dboOmJlJtlg",
+ "date": "2026-09-21",
+ "date_precise": false,
+ "title": "Presiden Prabowo Tegaskan Komitmen Pendidikan Negeri Gratis dari SD hingga Perguruan Tinggi",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=dboOmJlJtlg",
+ "duration_s": 62,
+ "duration_hms": "1:02",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 66,
+ "unique_word_count": 39,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "dboOmJlJtlg",
+   "url": "https://www.youtube.com/watch?v=dboOmJlJtlg",
+   "title": "Presiden Prabowo Tegaskan Komitmen Pendidikan Negeri Gratis dari SD hingga Perguruan Tinggi",
+   "channel": "Sekretariat Presiden",
+   "canonical": true,
+   "upload_date": "2026-09-21"
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 9,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 13.0,
+   "text": "Pokoknya biaya pendidikan negeri harus gratis. [musik] Rakyat tidak bisa menunggu lagi."
+  },
+  {
+   "t": 13.0,
+   "d": 5.0,
+   "text": "Anak-anak tidak bisa menunggu. Sekolah-sekolah harus segera diperbaiki."
+  },
+  {
+   "t": 18.0,
+   "d": 25.0,
+   "text": "Atap runtuh. Sekolah-sekolah enggak ada WC [musik] yang bagus harus kita perbaiki. Gaji-gaji guru harus diperbaiki. [musik] Dan saya sangat [musik] setuju saya akan segera mengadakan ratas pokoknya biaya pendidikan negeri harus gratis."
+  },
+  {
+   "t": 43.0,
+   "d": 17.0,
+   "text": "[bersorak] [musik] Biaya pendidikan negeri SD, SMP, SMA, Universitas Negeri harus gratis."
+  },
+  {
+   "t": 60.0,
+   "d": 3.0,
+   "text": "[bersorak]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

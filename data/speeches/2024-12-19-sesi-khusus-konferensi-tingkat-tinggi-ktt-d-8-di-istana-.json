@@ -11,8 +11,8 @@
  "source_tier": "resmi_setkab",
  "fetch_method": "setkab_rest_api",
  "canonical_overridden": false,
- "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis.",
- "duplicate_count": 0,
+ "canonical_note": "Transkrip resmi Sekretariat Kabinet, bukan caption otomatis. Digabung dari 2 unggahan acara yang sama. Digabung dari 2 unggahan acara yang sama.",
+ "duplicate_count": -1,
  "uploads": [],
  "topics": {},
  "policy_signals": {},
@@ -34,5 +34,13 @@
  },
  "speaker_kind": "pidato_prabowo",
  "worklist_kind": "pidato",
- "is_fragment": false
+ "is_fragment": false,
+ "transkrip_resmi": {
+  "sumber": "Sekretariat Kabinet RI",
+  "link": "https://setkab.go.id/sesi-khusus-konferensi-tingkat-tinggi-ktt-d-8-di-istana-kepresidenan-new-administrative-capital-kairo-mesir-19-desember-2024/",
+  "judul_resmi": "Sesi Khusus Konferensi Tingkat Tinggi (KTT) D-8, di Istana Kepresidenan New Administrative Capital, Kairo, Mesir, 19 Desember 2024",
+  "panjang_karakter": 2265,
+  "teks": "Pidato Presiden Prabowo Subianto pada Sesi Khusus Konferensi Tingkat Tinggi (KTT) D-8, di Istana Kepresidenan New Administrative Capital, Kairo, Mesir, Kamis, 19 Desember 2024 Bismillahirrahmanirrahim. Distinguished Heads of Governments/Heads of States, We convene today once again to condemn the outrageous violation of international law, the blatant and flagrant atrocities being carried out. But I would like to make some comments. We must see the situation for what it is, the reality of the situation. We will always say that we support Palestine. We will always say we support Lebanon and Syria. But, what is the support? Because all the resolutions in the United Nations are not respected and will not be respected. We must see the reality that the Muslim countries are not respected. The Muslim population of the world is two billion people, 25 percent of the world are Muslims. We have vast resources, but we cannot unite. We quarrel among ourselves. And then, when our brothers are being destroyed, then we give some declaration of support and we send humanitarian aid. I’m sorry, this is my opinion. Let us see the reality. We must work to have close cooperation between us. We must work to have one voice and not to be divided. Devide et Impera, that is the law of imperialism for thousands of years, and we are being divided. Every day we see Sudan, Muslim leader against Muslim leader. We see Libya, Muslim leader against Muslim leader. We see Yaman, Muslim leader against Muslim leader. When will this end? How can we help the Palestinians if we quarrel among ourselves? Let us be honest. Let us be honest to our people. I’m sorry I have to say this, because I attend so many of the Summits and all we do is give declaration of support. Indonesia will try to do his best in whatever we can do. But I call for unity, I call for cooperation, I call for let us, the Muslim countries, realize what is happening. We are not being respected, they do not care about our voice. Once again, I say they do not care about our voice. Human rights is not for Muslim people. This is the reality. This is very sad. Let us do what we can, but let us face reality and let us be honest with ourselves. Thank you very much. Wassalamu’alaikum warahmatullahi wabarakatuh."
+ },
+ "transcript_language": "en"
 }

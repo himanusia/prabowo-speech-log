@@ -108,6 +108,10 @@ def main() -> int:
         uploads = list(utama.get("uploads") or [])
         ada = {u.get("video_id") for u in uploads}
         for s in lain:
+            # Entri tanpa video (mis. transkrip resmi Setkab) tidak bisa jadi
+            # baris unggahan — cukup tercatat lewat catatan penggabungan.
+            if not s.get("video_id"):
+                continue
             if s["video_id"] not in ada:
                 uploads.append({
                     "video_id": s["video_id"],

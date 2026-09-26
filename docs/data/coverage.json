@@ -1,203 +1,191 @@
 {
- "date_first": "2024-08-27",
- "date_last": "2026-09-09",
- "span_days": 743,
+ "date_first": "2024-10-20",
+ "date_last": "2026-09-24",
+ "span_days": 704,
  "months": [
   {
-   "month": "2024-08",
-   "events": 1,
-   "tokens": 2648,
-   "covered": true
-  },
-  {
-   "month": "2024-09",
-   "events": 0,
-   "tokens": 0,
-   "covered": false
-  },
-  {
    "month": "2024-10",
-   "events": 2,
-   "tokens": 6970,
+   "events": 7,
+   "tokens": 17278,
    "covered": true
   },
   {
    "month": "2024-11",
-   "events": 1,
-   "tokens": 1788,
+   "events": 31,
+   "tokens": 16634,
    "covered": true
   },
   {
    "month": "2024-12",
-   "events": 3,
-   "tokens": 7504,
+   "events": 36,
+   "tokens": 28637,
    "covered": true
   },
   {
    "month": "2025-01",
-   "events": 0,
-   "tokens": 0,
-   "covered": false
+   "events": 20,
+   "tokens": 12514,
+   "covered": true
   },
   {
    "month": "2025-02",
-   "events": 1,
-   "tokens": 1465,
+   "events": 21,
+   "tokens": 17833,
    "covered": true
   },
   {
    "month": "2025-03",
-   "events": 0,
-   "tokens": 0,
-   "covered": false
+   "events": 16,
+   "tokens": 4640,
+   "covered": true
   },
   {
    "month": "2025-04",
-   "events": 1,
-   "tokens": 807,
+   "events": 19,
+   "tokens": 6830,
    "covered": true
   },
   {
    "month": "2025-05",
-   "events": 1,
-   "tokens": 1687,
+   "events": 16,
+   "tokens": 5665,
    "covered": true
   },
   {
    "month": "2025-06",
-   "events": 2,
-   "tokens": 2645,
+   "events": 17,
+   "tokens": 6587,
    "covered": true
   },
   {
    "month": "2025-07",
-   "events": 3,
-   "tokens": 5039,
+   "events": 15,
+   "tokens": 9292,
    "covered": true
   },
   {
    "month": "2025-08",
-   "events": 3,
-   "tokens": 7091,
+   "events": 13,
+   "tokens": 23346,
    "covered": true
   },
   {
    "month": "2025-09",
-   "events": 1,
-   "tokens": 5204,
+   "events": 14,
+   "tokens": 10448,
    "covered": true
   },
   {
    "month": "2025-10",
-   "events": 2,
-   "tokens": 1099,
+   "events": 18,
+   "tokens": 22848,
    "covered": true
   },
   {
    "month": "2025-11",
-   "events": 3,
-   "tokens": 5370,
+   "events": 15,
+   "tokens": 12263,
    "covered": true
   },
   {
    "month": "2025-12",
-   "events": 2,
-   "tokens": 1529,
+   "events": 15,
+   "tokens": 20169,
    "covered": true
   },
   {
    "month": "2026-01",
-   "events": 2,
-   "tokens": 4007,
+   "events": 15,
+   "tokens": 23913,
    "covered": true
   },
   {
    "month": "2026-02",
-   "events": 2,
-   "tokens": 6590,
+   "events": 19,
+   "tokens": 47216,
    "covered": true
   },
   {
    "month": "2026-03",
-   "events": 2,
-   "tokens": 2406,
+   "events": 17,
+   "tokens": 9202,
    "covered": true
   },
   {
    "month": "2026-04",
-   "events": 1,
-   "tokens": 543,
+   "events": 11,
+   "tokens": 6039,
    "covered": true
   },
   {
    "month": "2026-05",
-   "events": 6,
-   "tokens": 16943,
+   "events": 17,
+   "tokens": 18781,
    "covered": true
   },
   {
    "month": "2026-06",
-   "events": 7,
-   "tokens": 19152,
+   "events": 15,
+   "tokens": 23099,
    "covered": true
   },
   {
    "month": "2026-07",
-   "events": 12,
-   "tokens": 32143,
+   "events": 16,
+   "tokens": 35558,
    "covered": true
   },
   {
    "month": "2026-08",
-   "events": 7,
-   "tokens": 21562,
+   "events": 12,
+   "tokens": 26763,
    "covered": true
   },
   {
    "month": "2026-09",
-   "events": 2,
-   "tokens": 4883,
+   "events": 14,
+   "tokens": 10499,
    "covered": true
   }
  ],
- "months_without_events": [
-  "2024-09",
-  "2025-01",
-  "2025-03"
- ],
+ "months_without_events": [],
  "per_year": [
   {
    "year": "2024",
-   "events": 7,
-   "tokens": 18910,
-   "event_share": 10.4
+   "events": 74,
+   "tokens": 62549,
+   "event_share": 18.1
   },
   {
    "year": "2025",
-   "events": 19,
-   "tokens": 31936,
-   "event_share": 28.4
+   "events": 199,
+   "tokens": 152435,
+   "event_share": 48.7
   },
   {
    "year": "2026",
-   "events": 41,
-   "tokens": 108229,
-   "event_share": 61.2
+   "events": 136,
+   "tokens": 201070,
+   "event_share": 33.3
   }
  ],
  "source_tiers": {
-  "media": 15,
-  "full_media": 40,
-  "official": 12
+  "resmi_setkab": 40,
+  "full_media": 36,
+  "official": 260,
+  "media": 73
  },
  "fetch_methods": {
-  "transcript_panel": 29,
-  "caption_api": 33,
+  "setkab_rest_api": 40,
+  "transcript_panel": 317,
+  "auto_caption_en_orig": 12,
+  "tidak_ada_caption": 5,
+  "caption_api": 30,
   "baseline_import": 5
  },
  "known_limits": [
   "Penemuan lewat pencarian YouTube, yang condong ke hasil terbaru — periode lama lebih tipis bukan karena Prabowo lebih jarang bicara.",
-  "Semua caption auto-generated, bukan transkrip dari audio.",
+  "Takarir YouTube dibuat otomatis oleh YouTube, bisa ada salah dengar.",
   "Yang masuk hanya pidato, sambutan, dan pernyataan resmi — bukan wawancara, konferensi pers pendek, atau potongan klip.",
   "Pidato berbahasa asing (forum internasional) tidak punya track Indonesia sehingga tidak masuk."
  ]

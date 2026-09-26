@@ -38,6 +38,7 @@ def load_speeches() -> list[dict]:
     return [d for d in rows
             if terbit(d)
             and d.get("transcript_language") != "en"
+            and not d.get("pra_era")
             # entri yang memang tidak punya transkrip tetap ada di database dan
             # muncul di daftar, tapi tidak boleh masuk hitungan kata: tokennya nol
             # dan bukan karena pidatonya kosong.

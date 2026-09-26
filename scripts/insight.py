@@ -40,10 +40,29 @@ def terbit(d: dict) -> bool:
     return True if k is None else k in ("pidato_prabowo", "prabowo_bicara")
 
 
+_ENW = (" the ", " of ", " and ", " to ", " we ", " will ", " that ", " this ",
+        " with ", " from ", " our ", " has ", " after ", " by ")
+_IDW = (" yang ", " dan ", " dengan ", " kita ", " akan ", " tidak ", " untuk ",
+        " pada ", " dari ", " saya ", " ini ", " itu ", " juga ", " kepada ")
+
+
+def teks_en(t: str) -> bool:
+    """Teks ini Inggris? Dipakai supaya teks Inggris tidak masuk hitungan kata Indonesia."""
+    t = " " + ANOT.sub(" ", re.sub(r"[^a-z ]", " ", (t or "").lower())) + " "
+    en = sum(t.count(w) for w in _ENW)
+    idn = sum(t.count(w) for w in _IDW)
+    return en >= 15 and en > 2 * idn
+
+
 def teks(s: dict) -> str:
-    """Transkrip resmi kalau ada (lebih akurat), kalau tidak caption YouTube."""
+    """Transkrip resmi kalau ada dan bahasanya sewarna, kalau tidak caption YouTube."""
     tr = s.get("transkrip_resmi") or {}
-    t = tr["teks"] if tr.get("teks") else " ".join(p.get("text", "") for p in s.get("transcript", []))
+    rte = tr.get("teks") or ""
+    own = " ".join(p.get("text", "") for p in s.get("transcript", []))
+    if rte:
+        t = own if (teks_en(rte) and own.strip() and not teks_en(own)) else rte
+    else:
+        t = own
     return ANOT.sub(" ", t)
 
 
@@ -61,7 +80,10 @@ def muat() -> list[tuple[dict, str]]:
             continue
         if not d.get("date"):
             continue
-        out.append((d, teks(d)))
+        t = teks(d)
+        if teks_en(t) and (d.get("transcript_language") or "") != "en":
+            continue      # teksnya Inggris walau belum ditandai; jangan campur ke statistik
+        out.append((d, t))
     out.sort(key=lambda x: x[0]["date"])
     return out
 

@@ -1,0 +1,394 @@
+{
+ "id": "2026-09-24-diskusi-dan-akademisi-terkait-penanganan-lahan-gambut",
+ "video_id": "y-Rc97skP0A",
+ "date": "2026-09-24",
+ "date_precise": true,
+ "title": "Diskusi Presiden RI dan Akademisi Terkait Penanganan Lahan Gambut pada Potensi Karhutla, 24-9-2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=y-Rc97skP0A",
+ "duration_s": 1060,
+ "duration_hms": "17:40",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 136,
+ "token_count": 1703,
+ "unique_word_count": 631,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "y-Rc97skP0A",
+   "url": "https://www.youtube.com/watch?v=y-Rc97skP0A",
+   "title": "Diskusi Presiden RI dan Akademisi Terkait Penanganan Lahan Gambut pada Potensi Karhutla, 24-9-2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 16
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 6
+  }
+ },
+ "transcript": [
+  {
+   "t": 9.0,
+   "d": 4.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 13.0,
+   "d": 28.0,
+   "text": "Terima kasih tiap hari ketemu."
+  },
+  {
+   "t": 41.0,
+   "d": 12.0,
+   "text": "Terima kasih terima kasih terima kasihura terima kasihura Pak."
+  },
+  {
+   "t": 53.0,
+   "d": 9.0,
+   "text": "Terima kasih Agus dari UI. dari Riau, Pak. Terima kasih. Sehat selalu, Pak."
+  },
+  {
+   "t": 62.0,
+   "d": 4.0,
+   "text": "Terima kasih."
+  },
+  {
+   "t": 66.0,
+   "d": 35.0,
+   "text": "Pada Kamis siang hari ini, 24 September 2026 atas undangan Bapak Presiden telah hadir di Istandar Merdeka 22 akademisi dari berbagai universitas di dalam dan di luar negeri untuk berdiskusi langsung dengan Bapak Presiden terkait penanganan lahan ganbut yang berpotensi terbakar dari tahun ke tahun. Selanjutnya akan dipersilakan kepada Bapak Mendikti memberikan pengantar. Persilakan. Mohon izin Bapak Presiden, yang kami hormati para menteri, para kepala badan, Bapak Mensesnek, Bapak Seskap."
+  },
+  {
+   "t": 101.0,
+   "d": 13.0,
+   "text": "Setelah minggu lalu kami mendapatkan arahan Bapak Presiden, kami mendata para akademisi, para profesor, serta peneliti yang memang menggeluti gambut."
+  },
+  {
+   "t": 114.0,
+   "d": 16.0,
+   "text": "kami kemudian ee juga diskusi dengan Pak Mesnek, Pak Seskap hari ini menyelenggarakan diskusi panel ahli Bapak sejak pagi hari tadi jam 09.00 ee terkumpul lebih dari 24 orang."
+  },
+  {
+   "t": 130.0,
+   "d": 32.0,
+   "text": "Ee setelah itu kami sampaikan bahwa sore hari Pak Presiden akan menerima dan tadi beberapa peserta juga menyatakan kaget Bapak karena langsung diterima Bapak Presiden apa ee hasil diskusinya yang disampaikan dan mereka teman-teman juga merasa ini baru pertama kali ya hadir ke istana diundang langsung Bapak Presiden untuk mendiskusikan ee sesuatu yang memang ee bidang keahliannya dan sangat penting."
+  },
+  {
+   "t": 162.0,
+   "d": 13.0,
+   "text": "Selanjutnya kami mohon izin perkenan Bapak Presiden untuk memberikan arahan pengantar sebelum nanti dari tim pakar akan menyampaikan hasil diskusi. Terima kasih, Bapak."
+  },
+  {
+   "t": 175.0,
+   "d": 27.0,
+   "text": "Ee saudara-saudara sekalian, para profesor. Jadi masalah yang kita hadapi sebagai bangsa dan negara adalah antara lain kebakaran hutan dan ee khususnya kebakaran hutan yang di atas lahan gambut."
+  },
+  {
+   "t": 202.0,
+   "d": 10.0,
+   "text": "masalahnya masalah kebakaran hutan kita tiap tahun kita mengalami kebakaran hutan."
+  },
+  {
+   "t": 212.0,
+   "d": 22.0,
+   "text": "Ada satu fenomena ya ee bahwa tetangga-tetenga kita juga punya hutan, tapi mungkin mereka tidak punya gambut sebesar kita. Enggak mungkin ya."
+  },
+  {
+   "t": 234.0,
+   "d": 7.0,
+   "text": "Ya, kalian yang lebih tahulah, kalian yang mengerti. Makanya saya mengundang saudara-saudara."
+  },
+  {
+   "t": 241.0,
+   "d": 45.0,
+   "text": "Jadi, Saudara-saudara, kita akan selidiki terus korporasi-korporasi, oknum-oknum yang melakukan pembakaran sengaja. Yang pertama kita harus koreksi, regulasi itu nanti kita harus tegas masih ada delan Perda di kabupaten. Bayangkan yang mau pakai loophole bahwa boleh bakar 2 hektar, which is menurut saya complete nonsense bahwa satu orang boleh bakar 2 hektar."
+  },
+  {
+   "t": 286.0,
+   "d": 5.0,
+   "text": "Kalau dia bakar 2 hektar, bagaimana dihentikan itu kebakaran?"
+  },
+  {
+   "t": 291.0,
+   "d": 10.0,
+   "text": "Satu orang enggak mungkin kalau sudah 1 hektar satu lapangan bola terbakar, satu orang mau hentikan. Kan itu, itu kan menipu."
+  },
+  {
+   "t": 301.0,
+   "d": 32.0,
+   "text": "Perda ini menipu ya. Ini penggalangan. Jadi saya sudah tugaskan TNI nanti mungkin Polri saya turunkan 1000 perwira mayured call kolonel 1000 saya turunkan ke kabaten-kupaten itu untuk memberi edukasi dan solusinya sudah saya berikan. Kalau Anda butuh lahan lapor kita buatkan lahan untuk kalian."
+  },
+  {
+   "t": 333.0,
+   "d": 7.0,
+   "text": "Kita siapkan pompa untuk kalian. Kita ingin rakyat kita sejahtera, tidak mungkin kita mau celakakan rakyat kita."
+  },
+  {
+   "t": 340.0,
+   "d": 5.0,
+   "text": "Oke. Tapi korporasi ah ini lain."
+  },
+  {
+   "t": 345.0,
+   "d": 24.0,
+   "text": "Perusahaan kita sudah ada ketentuan ya, sudah ada kewajiban-kewajiban ya. Tiap hektar harus ada menara, tiap sekian hektar harus ada embung, tiap sekian sudah ada regulasinya. Dan Anda harus punya tim pemadam kebakaran dari karyawan Anda."
+  },
+  {
+   "t": 369.0,
+   "d": 28.0,
+   "text": "Ada perusahaan yang patuh, ada perusahaan yang tidak. Ini harus kita tertibkan. Tapi sekarang utamanya, Saudara-saudara, sebagai ahli tolong saya diberitahu apa langkah terbaik untuk kita cegak kebakaran di kawasan hutan pertama, kedua kawasan hutan yang ada gambutnya."
+  },
+  {
+   "t": 397.0,
+   "d": 14.0,
+   "text": "Dua hal dan ketiga yang saya minta saran dari saudara-saudara, apakah gambut ini bisa kita manfaatkan ke arah produktif?"
+  },
+  {
+   "t": 411.0,
+   "d": 9.0,
+   "text": "Apakah kita bisa tanam tanaman di atas gambut?"
+  },
+  {
+   "t": 420.0,
+   "d": 10.0,
+   "text": "Saya kira itu tiga pertanyaan yang paling penting yang saya butuh dari saudara-saudara sebagai pakar."
+  },
+  {
+   "t": 430.0,
+   "d": 13.0,
+   "text": "Jadi, Saudara-saudara jangan salah ya menerima. Kadang-kadang saya kalau bicara di audiens suka di printir ya, dibilang seolah saya enggak hormati pakar. Saya paling hormat sama pakar."
+  },
+  {
+   "t": 443.0,
+   "d": 23.0,
+   "text": "Enggak bisa apapun saya. Kenapa saya berhasil sebagai perwira? Karena saya selalu cari pakar. Anyway, jadi mohon saya diberi masukan. What can we do supaya tahun depan kita sudahlah. Jadi sekarang saya sudah perintahkan sudahlah kita antisipasi."
+  },
+  {
+   "t": 466.0,
+   "d": 20.0,
+   "text": "Jadi ee ternyata tadi saya dapat laporan kemarin ya dengan segala macam helikopter apa tetap yang paling efektif adalah petugas di darat. Jadi bagaimana saya minta masukan dari saudara-saudara what we have to do ya."
+  },
+  {
+   "t": 486.0,
+   "d": 4.0,
+   "text": "Soal mitigasi fisik kita lakukan ya."
+  },
+  {
+   "t": 490.0,
+   "d": 9.0,
+   "text": "Remadam kebakaran harus siap. Enggak ada jauh sebelum kebakaran bikin embung-embung embung-embung."
+  },
+  {
+   "t": 499.0,
+   "d": 7.0,
+   "text": "Belum ada kebakaran bikin pompa, pompa pompa. Siapkan semua itu."
+  },
+  {
+   "t": 506.0,
+   "d": 14.0,
+   "text": "Nah, tapi dengan gambut kalau bisa Oh, ada jawaban ilmiah. A scientific a scientific solution."
+  },
+  {
+   "t": 520.0,
+   "d": 1.0,
+   "text": "Silakan."
+  },
+  {
+   "t": 521.0,
+   "d": 7.0,
+   "text": "Indonesia adalah global ecosystem chokole or chck point."
+  },
+  {
+   "t": 528.0,
+   "d": 6.0,
+   "text": "Tanpa kita tidak mungkin dunia bisa secara akurat menghitung siklus karbon."
+  },
+  {
+   "t": 534.0,
+   "d": 6.0,
+   "text": "Kita memegang nasib dari banyak bangsa sebenarnya dan oleh karena itu tanggung jawab untuk memahaminya."
+  },
+  {
+   "t": 540.0,
+   "d": 8.0,
+   "text": "Dan bagi seorang ilmuwan, kami ingin melaporkan apa sebenarnya cara kami untuk memahami."
+  },
+  {
+   "t": 548.0,
+   "d": 3.0,
+   "text": "Kami cuma memahaminya dari lensa akademis."
+  },
+  {
+   "t": 551.0,
+   "d": 24.0,
+   "text": "Dan gambut adalah ekosistem hidup yang paling sulit untuk dipahami karena variabelnya banyak sekali. Curah hujan, neraca air, laju cepat atau lambat, tanaman membusuk, beban mekanik atas bangunan yang didirikan di atasnya. Itu semua faktor-faktor yang membuat persamaan matematisnya sangat sulit untuk dipahami. Sangat sulit untuk dipahami."
+  },
+  {
+   "t": 575.0,
+   "d": 12.0,
+   "text": "Dan hadir di depan Pak Presiden adalah ilmuwan-ilmuwan yang paling kompeten di bidangnya yang bisa meneliti ini dari sudut pandang yang amat interdisipliner sebenarnya."
+  },
+  {
+   "t": 587.0,
+   "d": 8.0,
+   "text": "Dan oleh karena itu kita di sini mau berdiskusi tentang tiga hal. Bagaimana kita melindungi dan membudidayakan gambut."
+  },
+  {
+   "t": 595.0,
+   "d": 11.0,
+   "text": "Bagaimana kita memprediksi, memonitor, mendeteksi secara dini titik-titik kerawanan gambut dan apa yang kita harus lakukan kalau kebakaran sudah terjadi."
+  },
+  {
+   "t": 606.0,
+   "d": 21.0,
+   "text": "Ada beberapa poin yang mungkin ee sangat penting ee perlu kita cermati bahwa ee gambut ini sangat sulit dipadamkan ketika sudah mulai terbakar. Mengapa demikian? Karena ee gambut ini memiliki sifat hidrofobik ketika sudah mengalami proses pengeringan yang sangat ekstrem."
+  },
+  {
+   "t": 627.0,
+   "d": 16.0,
+   "text": "Sehingga dari penelitian yang kami lakukan menggunakan water spray di skala laboratorium itu kami menemukan ee angka kurang lebih untuk memadamkan satu ee 1 kg gambut itu butuh 6 lit, Pak Presiden."
+  },
+  {
+   "t": 643.0,
+   "d": 18.0,
+   "text": "Ini angka yang menakjubkan sehingga kalau kita punya 1 hektar lahan gambut begitu mau dikoreksi kita membutuhkan kurang lebih 200.000 1.000 L sampai 1 juta Liter. Ini luar biasa. Artinya untuk dipadamkan."
+  },
+  {
+   "t": 661.0,
+   "d": 31.0,
+   "text": "Kuncinya adalah bagaimana kita mencegah ketika sudah kebakaran itu terjadi sangat sulit. Namun demikian, kebakaran masih saja terjadi. Oleh karenanya kita perlu ee mencoba mengembangkan ee cara untuk mendeteksi sedini mungkin. Salah satunya kita bisa menggunakan skala ee kecil dan sebagainya itu menggunakan thermal camera infrared. Kita bisa menemukan spot-spot. Dan dari hasil penelitian yang kami lakukan itu kita"
+  },
+  {
+   "t": 692.0,
+   "d": 14.0,
+   "text": "menemukan bahwa apabila kita melakukan ee injeksi ke dalam ee lapisan gambut ini sangat mempercepat proses. Namun demikian kita tahu sendiri kalau sudah di lahan gambut aksesnya sangat sulit."
+  },
+  {
+   "t": 706.0,
+   "d": 21.0,
+   "text": "Oleh karena itu kembali mencegah menjadi salah satu kuncinya dan ee seperti yang kami sampaikan tadi apakah water bombing itu efektif? Kalau melihat data yang kami miliki itu tidak efektif ee Bapak Presiden. Tetapi mungkin itu upaya yang mungkin bisa kita lakukan untuk kondisi-kondisi yang sangat ekstrem."
+  },
+  {
+   "t": 727.0,
+   "d": 30.0,
+   "text": "Oleh karena itu ee kami mendorong ee korporasi juga perlu dilengkapi bukan hanya oleh ee tadi ee pidan embung dan sebagainya, tapi pendeteksian yang menggunakan teknologi yang mana bisa memonitor baik menggunakan drone, baik menggunakan menara monitor untuk menemukan hotspot ee dan hotspot itu harus segera ditangani ee sesegera mungkin dan prediksi yang dilakukan ee Dr. Bagus. Mungkin bisa jadi salah satu solusi untuk kita ee memperkirakan ee"
+  },
+  {
+   "t": 757.0,
+   "d": 6.0,
+   "text": "berapa lama ee kondisi darurat itu ee mungkin saja terjadi."
+  },
+  {
+   "t": 763.0,
+   "d": 10.0,
+   "text": "Gambut itu 90% adalah air. Jadi apa yang ada di dalam tanah itu itu adalah underground reservoir."
+  },
+  {
+   "t": 773.0,
+   "d": 19.0,
+   "text": "Nah, cuma sering dibuat kanal-kanal itulah yang mengurangi volume air yang ada di situ. Namun ya ee walaupun dengan kondisi yang seperti kering saat ini, itu kemungkinan airnya tidak akan lebih dari 1,5 m."
+  },
+  {
+   "t": 792.0,
+   "d": 6.0,
+   "text": "Nah, artinya apa? Artinya terbakar di situ. Alat pemadamnya ada di situ, ya."
+  },
+  {
+   "t": 798.0,
+   "d": 39.0,
+   "text": "ada air di situ. Permasalahannya adalah bagaimana mengambil atau mengakses air itu. Ee kami punya satu pengalaman di Riau dengan masyarakat peduli api atau masyarakat peduli ee bencana. tadi Bapak ee menyebutkan bahwa garda terdepan adalah masyarakat di setempat dan saya sangat setuju. Cuma tidak semua MPA itu punya kapasitas bagaimana ee memadamkan api dengan air yang ada di situ. Nah, pengalaman kami dengan MPA di Kabupaten Bengkalis, Provinsi Riau itu"
+  },
+  {
+   "t": 837.0,
+   "d": 45.0,
+   "text": "membuat sumur bor yang dangkal. Jadi karena kedalamannya cuma 1,5 1 m sampai 1,5 paling lama itu bisa kita ambil dengan cepat ya. Jadi ee pengalaman kami itu cukup 10 sampai 15 menit membuat sumur itu. Peralatannya cukup pakai tiang kita ini kemudian diambil dengan pipa dicolok ee hubungan ke ee apa ee pompa robin keluar airnya dalam 10 menit, Pak. Saya rasa itu mungkin bisa di apa edukasi ke masyarakat-masyarakat peduli api yang lain ya. Yang kedua dengan terminologi embung, Pak. Jadi"
+  },
+  {
+   "t": 882.0,
+   "d": 6.0,
+   "text": "embung di gambut itu bukan untuk menampung air karena di bawah sudah underground survoir."
+  },
+  {
+   "t": 888.0,
+   "d": 4.0,
+   "text": "Ee fungsinya adalah untuk mengakses air."
+  },
+  {
+   "t": 892.0,
+   "d": 23.0,
+   "text": "Jadi membuat embung di gambut itu jangan besar-besar karena malah akan memperbesar penguapan ee kearipan lokal di Riau ya kita sebut perigi. Cukup 1 m* 2 m kotak gitu. Dan kami sudah terapkan di ee desa ini tiap ee 300 m ya maaf 200 m. Kenapa 200 m?"
+  },
+  {
+   "t": 915.0,
+   "d": 15.0,
+   "text": "Karena ee ee selang untuk pemadam itu panjangnya dengan kira-kira segitu. Jadi ketika kebakaran ya tinggal masukkan di dalam ee eh kita sebutnya perigian ya. Terima kasih."
+  },
+  {
+   "t": 930.0,
+   "d": 4.0,
+   "text": "Dulu kita pernah punya badan restorasi gambut."
+  },
+  {
+   "t": 934.0,
+   "d": 11.0,
+   "text": "Iya. Kita pernah punya badan rusasi gambut dan manggrove. Nah, beberapa langkah rencana penanganan sebelumnya pada waktu itu sudah kita petakan."
+  },
+  {
+   "t": 945.0,
+   "d": 12.0,
+   "text": "Bahkan ada bukunya, Pak. Bagaimana tata cara kita mengelola lahan gambut tersebut. Nah, ini nampaknya akan bisa menjadi listen l bagaimana kita mengelola ya."
+  },
+  {
+   "t": 957.0,
+   "d": 16.0,
+   "text": "Oke. Oke, kita sepakat dulu. Kita butuh badan ini kita harus harus ada ya Badan Pengelolaan Gambut dan Mangroove BP GMN dia tidak dibawa kementerian dia langsung di bawah presiden."
+  },
+  {
+   "t": 973.0,
+   "d": 5.0,
+   "text": "Saya setuju. Good. Ada lagi tambahan? Siapa lagi mau tambah? Silakan."
+  },
+  {
+   "t": 978.0,
+   "d": 15.0,
+   "text": "Kami menyarankan setiap desa mestinya ada peraturan desa yang berkaitan dengan bagaimana bisa menjaga melakukan mitigasi atas kebakaran termasuk banjir."
+  },
+  {
+   "t": 993.0,
+   "d": 28.0,
+   "text": "Nah, ini penting karena ee ada praktik-praktik baik yang bisa dilakukan Pak Presiden misalnya setiap pekarangan begitu ya misalnya kita bikin buat ee biopori gitu kan. Sekecil apapun sebenarnya itu untuk apa mengedepankan untuk kemandirian mereka di sekitar mereka sehingga apapun itu mereka sudah melakukan ee apa mitigasi terkait itu. Demikian Pak Presiden. Terima kasih."
+  },
+  {
+   "t": 1021.0,
+   "d": 9.0,
+   "text": "Baik. Saya kira benar ya, kita sekarang ambil kesimpulan bahwa kuncinya adalah di desa."
+  },
+  {
+   "t": 1030.0,
+   "d": 36.0,
+   "text": "Rencana saya, saya ingin memperbaiki rumah-rumah mereka dengan MCK, dengan air bersih juga. rencana kita, kita mau tiap desa minimal bisa punya ee apa itu tenaga listrik dari Surya ya minimal 1 MW 1 desa. Jadi ini arah kita nanti ke sana."
+  },
+  {
+   "t": 1066.0,
+   "d": 3.0,
+   "text": "Thank you ya. Oke, I hope so. Thank you very much for Terima kasih, Prof."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

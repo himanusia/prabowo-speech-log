@@ -1,0 +1,96 @@
+{
+ "id": "r4bp5AGbbV4",
+ "url": "https://www.youtube.com/watch?v=r4bp5AGbbV4",
+ "title": "Presiden Prabowo Jajal LRT Jakarta, Kelapa Gading - Manggarai 28 Menit, 16 September 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "en-US",
+   "name": "English (United States) (auto-generated)",
+   "generated": true
+  },
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 2.0,
+   "duration": 5
+  },
+  {
+   "text": "Hari ini adalah hari yang sangat membahagiakan saya. Hari ini adalah hari yang membanggakan bahwa bangsa kita",
+   "start": 7.0,
+   "duration": 10
+  },
+  {
+   "text": "terus teratur. Mungkin tidak fantastis tapi kita maju setapak demi setapak demi",
+   "start": 17.0,
+   "duration": 9
+  },
+  {
+   "text": "setapak. tadi dikatakan 56 tahun yang lalu atau 10 tahun yang lalu. Siapa mengira kita bisa punya sistem",
+   "start": 26.0,
+   "duration": 8
+  },
+  {
+   "text": "transportasi seperti sekarang? Ini di Manggarai ada LRT, ada KRL, ada Trans",
+   "start": 34.0,
+   "duration": 9
+  },
+  {
+   "text": "Jakarta, ada Trans Jaburitabek [mendengus] ya kan kereta ke bandara",
+   "start": 43.0,
+   "duration": 8
+  },
+  {
+   "text": "ini menjadi transport hub dan ini nanti akan dibangun menara-menara perumahan untuk rakyat yang berpenghasilan rendah.",
+   "start": 51.0,
+   "duration": 15
+  },
+  {
+   "text": "[musik]",
+   "start": 66.0,
+   "duration": 6
+  },
+  {
+   "text": "Kita senang banget karena kita naik lat-nya bareng Bapak Presiden.",
+   "start": 72.0,
+   "duration": 4
+  },
+  {
+   "text": "Mimpi [tertawa] enggak tahu dari rumah mimpi apa sampai sini kok bisa ngomong Pak Presiden?",
+   "start": 76.0,
+   "duration": 6
+  },
+  {
+   "text": "Alhamdulillah di DKI Jakarta ini sangat luar biasa untuk aksesibilitasnya juga sudah bagus. Bismillahirrahmanirrahim.",
+   "start": 82.0,
+   "duration": 9
+  },
+  {
+   "text": "Pada siang hari ini, Rabu, 16 September tahun 2026, dengan rahmat Tuhan Yang",
+   "start": 91.0,
+   "duration": 6
+  },
+  {
+   "text": "Maha Besar, saya Prabowo Subianto, Presiden Republik Indonesia dengan ini meresmikan LRT Jakarta jalur Kelapa Gading, Mangai.",
+   "start": 97.0,
+   "duration": 3
+  }
+ ]
+}

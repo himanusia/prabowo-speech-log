@@ -1,28 +1,37 @@
 {
  "id": "2026-02-28-pada-perayaan-tahun-baru-imlek-nasional-2026",
- "video_id": "QTx7kF4pCFo",
+ "video_id": "5OIq7GaU4sI",
  "date": "2026-02-28",
  "date_precise": true,
- "title": "Sambutan Presiden Prabowo pada Perayaan Tahun Baru Imlek Nasional 2026, 28 Februari 2026",
- "channel": "TVRI Nasional",
- "youtube_url": "https://www.youtube.com/watch?v=QTx7kF4pCFo",
+ "title": "Sambutan Presiden Prabowo pada Perayaan Tahun Baru Imlek Nasional 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=5OIq7GaU4sI",
  "duration_s": 257,
  "duration_hms": "4:17",
- "source_tier": "media",
+ "source_tier": "official",
  "fetch_method": "transcript_panel",
- "snippet_count": 36,
- "token_count": 334,
- "unique_word_count": 177,
+ "snippet_count": 37,
+ "token_count": 333,
+ "unique_word_count": 175,
  "canonical_overridden": false,
- "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip. Digabung dari 2 unggahan acara yang sama.",
- "duplicate_count": 1,
+ "canonical_note": "Rekaman utama unggahan kanal resmi Sekretariat Presiden; tiga unggahan acara sama tercatat.",
+ "duplicate_count": 2,
+ "speaker_kind": "pidato_prabowo",
+ "is_fragment": false,
  "uploads": [
+  {
+   "video_id": "5OIq7GaU4sI",
+   "url": "https://www.youtube.com/watch?v=5OIq7GaU4sI",
+   "title": "Sambutan Presiden Prabowo pada Perayaan Tahun Baru Imlek Nasional 2026, 28 Februari 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  },
   {
    "video_id": "QTx7kF4pCFo",
    "url": "https://www.youtube.com/watch?v=QTx7kF4pCFo",
    "title": "Sambutan Presiden Prabowo pada Perayaan Tahun Baru Imlek Nasional 2026, 28 Februari 2026",
    "channel": "TVRI Nasional",
-   "canonical": true
+   "canonical": false
   },
   {
    "video_id": "u5MWBpfpXgs",
@@ -44,139 +53,149 @@
  "policy_signals": {},
  "transcript": [
   {
-   "t": 0.0,
+   "t": 1.0,
    "d": 2.0,
    "text": "Bismillahirrahmanirrahim."
   },
   {
-   "t": 2.0,
-   "d": 8.0,
+   "t": 3.0,
+   "d": 7.0,
    "text": "Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita semua. Shalom."
   },
   {
    "t": 10.0,
-   "d": 7.0,
+   "d": 8.0,
    "text": "Salvei. Om swastiastu. Namo buddhaya. Salam kebajikan."
   },
   {
-   "t": 17.0,
+   "t": 18.0,
    "d": 6.0,
    "text": "Saudara-saudara sebangsa dan setanah air yang merayakan Imlek."
   },
   {
-   "t": 23.0,
-   "d": 7.0,
+   "t": 24.0,
+   "d": 6.0,
    "text": "Yang saya cintai dan yang saya hormati di mana pun saudara berada."
   },
   {
    "t": 30.0,
-   "d": 5.0,
+   "d": 6.0,
    "text": "Saya Prabowo Subianto, Presiden Republik Indonesia."
   },
   {
-   "t": 35.0,
+   "t": 36.0,
    "d": 15.0,
    "text": "Atas nama pribadi dan atas nama pemerintah Republik Indonesia, saya ucapkan selamat tahun baru Imlek 2577 tahun kuda api. Kongsi Fachai."
   },
   {
-   "t": 50.0,
+   "t": 51.0,
    "d": 8.0,
    "text": "Tahun baru Imlek bukan hanya perayaan keagamaan. Imlek adalah momentum kebangsaan."
   },
   {
-   "t": 58.0,
-   "d": 4.0,
+   "t": 59.0,
+   "d": 3.0,
    "text": "Persaudaraan dan persatuan."
   },
   {
    "t": 62.0,
-   "d": 21.0,
+   "d": 22.0,
    "text": "Perayaan Imlek 2026 ini dengan tema Harmoni Imlek Nusantara mencerminkan jati diri bangsa kita sebagai bangsa yang besar karena keberagaman, kuat karena persatuan, dan tegak karena kebersamaan."
   },
   {
-   "t": 83.0,
-   "d": 6.0,
+   "t": 84.0,
+   "d": 5.0,
    "text": "Perayaan ini bukan hanya menampilkan tradisi dan budaya."
   },
   {
    "t": 89.0,
-   "d": 7.0,
+   "d": 8.0,
    "text": "Perayaan ini menegaskan nilai gotongroyong, solidaritas, dan nilai kemanusiaan."
   },
   {
-   "t": 96.0,
+   "t": 97.0,
    "d": 16.0,
    "text": "Imlek Festival 2026 adalah perayaan yang menegaskan bahwa Indonesia tidak dibangun oleh satu suku saja atau satu golongan saja, tetapi oleh seluruh anak bangsa."
   },
   {
-   "t": 112.0,
+   "t": 113.0,
    "d": 5.0,
-   "text": "Perayaan Imlek Toown ini memiliki makna yang sangat dalam."
+   "text": "Perayaan Imlek tahun ini memiliki makna yang sangat dalam."
   },
   {
-   "t": 117.0,
+   "t": 118.0,
    "d": 5.0,
    "text": "Imlek hadir bertampingan dengan bulan suci Ramadan."
   },
   {
-   "t": 122.0,
+   "t": 123.0,
    "d": 17.0,
    "text": "Umat Islam ini adalah wajah asli Indonesia. Berbeda tapi rukun. Beragam tapi satu tujuan. Saudara-saudara sekalian, Indonesia adalah bangsa besar."
   },
   {
-   "t": 139.0,
+   "t": 140.0,
    "d": 4.0,
    "text": "Bangsa besar tidak takut pada perbedaan."
   },
   {
-   "t": 143.0,
-   "d": 34.0,
-   "text": "Bangsa besar justru merawat perbedaan sebagai kekuatan penyelenggaraan Imlek Festival 2026 ini yang berlangsung di berbagai kota di seluruh Indonesia mulai dari Medan, Palembang, Batam, Bogor, Semarang, Solo, Surabaya, Pontianak, Siangkawang, Makassar, dan Manado. Harmoni ini hidup di seluruh Nusantara."
+   "t": 144.0,
+   "d": 6.0,
+   "text": "Bangsa besar justru merawat perbedaan sebagai kekuatan."
   },
   {
-   "t": 177.0,
+   "t": 150.0,
+   "d": 24.0,
+   "text": "Penyelenggaraan Imlek Festival 2026 ini yang berlangsung di berbagai kota di seluruh Indonesia mulai dari Medan, Palembang, Batam, Bogor, Semarang, Solo, Surabaya, Pontianak, Singkawang, Makassar, dan Manado."
+  },
+  {
+   "t": 174.0,
+   "d": 4.0,
+   "text": "Harmoni ini hidup di seluruh Nusantara."
+  },
+  {
+   "t": 178.0,
    "d": 10.0,
    "text": "Ini bukti bahwa persatuan Indonesia bukan hanya slogan. Persatuan Indonesia adalah kenyataan."
   },
   {
-   "t": 187.0,
+   "t": 188.0,
    "d": 15.0,
    "text": "Harmoni Imlek Nusantara adalah simbol bahwa masa depan bangsa ini dibangun oleh kebersamaan, oleh kerja keras, oleh persatuan dan keberanian untuk berdiri sebagai satu bangsa."
   },
   {
-   "t": 202.0,
+   "t": 203.0,
    "d": 14.0,
    "text": "Mari kita songsong tahun baru ini dengan optimisme, dengan keberanian, dengan tekad untuk membawa Indonesia menjadi bangsa yang adil, makmur, dan bermartabat."
   },
   {
-   "t": 216.0,
+   "t": 217.0,
    "d": 11.0,
    "text": "Saya berharap tahun baru kuda api ini membawa keberkahan, kesehatan, kedamaian, dan harapan baru bagi kita semua."
   },
   {
-   "t": 227.0,
+   "t": 228.0,
    "d": 11.0,
-   "text": "Gongsi Facha. Selamat tahun baru. Semoga keberuntungan, kesehatan, dan kebahagiaan menyertai kita semua. Terima kasih."
+   "text": "Gongsi Faai. Selamat tahun baru. Semoga keberuntungan, kesehatan, dan kebahagiaan menyertai kita semua. Terima kasih."
   },
   {
-   "t": 238.0,
+   "t": 239.0,
    "d": 8.0,
    "text": "Wasalamualaikum warahmatullahi wabarakatuh. Salam sejahtera bagi kita sekalian. Shalom."
   },
   {
-   "t": 246.0,
+   "t": 247.0,
    "d": 8.0,
    "text": "Salve. Om. Santi. Santi. Santi. Om. Merdeka."
   },
   {
-   "t": 254.0,
+   "t": 255.0,
    "d": 3.0,
-   "text": "Merdeka. Merdeka. Yeah."
+   "text": "Merdeka. Merdeka."
   }
  ],
  "provenance": {
   "source": "youtube transcript panel via scripts/collect_panel.py",
   "imported_by": "scripts/import_panels.py",
-  "worklist_kind": null
+  "worklist_kind": "pidato"
  }
 }

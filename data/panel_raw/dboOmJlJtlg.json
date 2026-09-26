@@ -1,0 +1,76 @@
+{
+ "id": "dboOmJlJtlg",
+ "url": "https://www.youtube.com/watch?v=dboOmJlJtlg",
+ "title": "Presiden Prabowo Tegaskan Komitmen Pendidikan Negeri Gratis dari SD hingga Perguruan Tinggi",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "en-US",
+   "name": "English (United States) (auto-generated)",
+   "generated": true
+  },
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "raw_snippets": [
+  {
+   "text": "Pokoknya biaya pendidikan negeri harus gratis. [musik] Rakyat tidak bisa menunggu lagi.",
+   "start": 0.0,
+   "duration": 13
+  },
+  {
+   "text": "Anak-anak tidak bisa menunggu. Sekolah-sekolah harus segera diperbaiki.",
+   "start": 13.0,
+   "duration": 5
+  },
+  {
+   "text": "Atap runtuh. Sekolah-sekolah enggak ada WC [musik] yang bagus harus kita perbaiki. Gaji-gaji guru harus",
+   "start": 18.0,
+   "duration": 6
+  },
+  {
+   "text": "diperbaiki. [musik] Dan saya sangat [musik] setuju",
+   "start": 24.0,
+   "duration": 8
+  },
+  {
+   "text": "saya akan segera mengadakan ratas pokoknya biaya pendidikan negeri harus gratis.",
+   "start": 32.0,
+   "duration": 11
+  },
+  {
+   "text": "[bersorak]",
+   "start": 43.0,
+   "duration": 2
+  },
+  {
+   "text": "[musik]",
+   "start": 45.0,
+   "duration": 1
+  },
+  {
+   "text": "Biaya pendidikan negeri SD, SMP, SMA, Universitas Negeri harus gratis.",
+   "start": 46.0,
+   "duration": 14
+  },
+  {
+   "text": "[bersorak]",
+   "start": 60.0,
+   "duration": 3
+  }
+ ]
+}

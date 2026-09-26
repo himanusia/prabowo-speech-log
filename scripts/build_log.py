@@ -445,7 +445,7 @@ def build_coverage(speeches: list[dict]) -> dict:
         "known_limits": [
             "Penemuan lewat pencarian YouTube, yang condong ke hasil terbaru — "
             "periode lama lebih tipis bukan karena Prabowo lebih jarang bicara.",
-            "Semua caption auto-generated, bukan transkrip dari audio.",
+            "Takarir YouTube dibuat otomatis oleh YouTube, bisa ada salah dengar.",
             "Yang masuk hanya pidato, sambutan, dan pernyataan resmi — "
             "bukan wawancara, konferensi pers pendek, atau potongan klip.",
             "Pidato berbahasa asing (forum internasional) tidak punya track Indonesia "

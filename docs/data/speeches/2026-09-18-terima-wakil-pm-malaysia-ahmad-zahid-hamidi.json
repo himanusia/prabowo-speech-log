@@ -1,0 +1,109 @@
+{
+ "id": "2026-09-18-terima-wakil-pm-malaysia-ahmad-zahid-hamidi",
+ "video_id": "ISzFPQWILAk",
+ "date": "2026-09-18",
+ "date_precise": true,
+ "title": "Presiden Prabowo Terima Wakil PM Malaysia Ahmad Zahid Hamidi, Hambalang, 18 September 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ISzFPQWILAk",
+ "duration_s": 199,
+ "duration_hms": "3:19",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 270,
+ "unique_word_count": 143,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ISzFPQWILAk",
+   "url": "https://www.youtube.com/watch?v=ISzFPQWILAk",
+   "title": "Presiden Prabowo Terima Wakil PM Malaysia Ahmad Zahid Hamidi, Hambalang, 18 September 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 1,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {
+  "Bencana dan penanganan": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 10.0,
+   "text": "Asalamualaikum. Waalaikumsalam warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 12.0,
+   "d": 20.0,
+   "text": "Hari ini ee saya mendapat kehormatan, dapat kunjungan dari Timbalan Perdana Menteri Malaysia dengan ee rombongan ya ee beliau kawan lama."
+  },
+  {
+   "t": 32.0,
+   "d": 30.0,
+   "text": "Jadi beliau berkunjung ke saya dan kita bahas berbagai masalah. Yang pertama dari pihak Malaysia menawarkan ee bantuan ingin ikut membantu kita untuk mengatasi kebakaran hutan di Kalimantan."
+  },
+  {
+   "t": 62.0,
+   "d": 13.0,
+   "text": "Hal ini ee saya ee tanggapi dengan ee terima kasih, dengan gembira."
+  },
+  {
+   "t": 75.0,
+   "d": 33.0,
+   "text": "Ee kita juga sudah menerima bantuan dari Jepang, kemudian ee juga beberapa negara menawarkan. Jadi kami sangat ee berterima kasih ee ini adalah masalah ee lingkungan hidup yang mempengaruhi ee banyak ee pihak dan walaupun itu kebakaran di Indonesia tapi dampaknya dirasakan di tetangga-tetangga kita."
+  },
+  {
+   "t": 108.0,
+   "d": 6.0,
+   "text": "Jadi mereka ingin bantu kita dan kita terima dengan baik."
+  },
+  {
+   "t": 114.0,
+   "d": 8.0,
+   "text": "ee dalam waktu dekat mereka akan kirim beberapa helikopter, satu pesawat dan tiga helikopter."
+  },
+  {
+   "t": 122.0,
+   "d": 4.0,
+   "text": "Satu pesawat dan tiga helikopter dan 52 anggota."
+  },
+  {
+   "t": 126.0,
+   "d": 43.0,
+   "text": "Kemudian tim tim tim pemadam kebakaran juga akan dikirim. Ya, ini juga pernah dilakukan berapa tahun yang lalu. Dan ya ini juga saya sedang menyusun ee langkah-langkah pencegahan menyeluruh supaya tidak tiap beberapa tahun muncul lagi, muncul lagi. Saya kira demikian. ee kita juga membahas masalah-masalah ee lain yang cukup bagus, gagasan untuk kita ee kerja sama di bidang industri halal ya dan lain-lain. Saya kira hubungan kita sama Malaysia sangat baik."
+  },
+  {
+   "t": 169.0,
+   "d": 13.0,
+   "text": "Jangan sampai kita ee hal-hal yang apa ya yang mengganggu kita menjadi masalah yang dibesar-besarkan."
+  },
+  {
+   "t": 182.0,
+   "d": 15.0,
+   "text": "Indonesia dan Malaysia adalah saudara. Kita harus bekerja sama. Kita harus pelihara hubungan yang sangat baik. Saya kira itu ya. Iepimana. Terima kasih. Terima kasih. You want to add something? No, no, no. That is perfect statement."
+  },
+  {
+   "t": 197.0,
+   "d": 4.0,
+   "text": "[tertawa] Terima kasih Dat Sri."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

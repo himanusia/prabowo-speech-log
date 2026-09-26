@@ -1278,3 +1278,41 @@ footer {
   .pair__lab{text-align:left}
   .pair__val{min-width:0}
 }
+
+
+/* ------------------------------------- momen yang ramai dibicarakan (beranda) */
+.momen__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
+  gap: var(--sp-4);
+  margin-top: var(--sp-2);
+}
+.momen {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: var(--sp-4);
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+}
+.momen__h { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; }
+.momen blockquote { margin: 0; font-size: var(--step-1); line-height: 1.45; }
+.momen__k { margin: 0; color: var(--muted-fg); font-size: var(--step--1); }
+.momen__f {
+  margin: auto 0 0; padding-top: .4rem;
+  display: flex; align-items: center; gap: .75rem; flex-wrap: wrap;
+  font-size: var(--step--1);
+}
+.momen__src { display: inline-flex; gap: .6rem; flex-wrap: wrap; }
+.momen__src a { color: var(--muted-fg); }
+.momen__more { margin-top: .9rem; }
+.momen__more summary { cursor: pointer; font-weight: 600; }
+
+.yt-link { display: inline-flex; align-items: center; gap: .35rem; font-weight: 600; }
+.yt-link svg { flex: none; }
+
+
+/* ------------------------------------ sorotan momen di halaman pidato */
+.sorotan { border-left: 3px solid var(--primary); padding-left: var(--sp-3); margin-top: var(--sp-4); }
+.sorotan blockquote { margin: 0 0 .35rem; font-size: var(--step-0); line-height: 1.5; }

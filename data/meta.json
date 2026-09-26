@@ -1,11 +1,12 @@
 {
- "built_at": "2026-09-13T11:43:44+07:00",
+ "built_at": "2026-09-26T17:56:17+07:00",
  "engine_commit": "7ad3851ac0ad370eae920907b7e36195417a9995",
  "engine_repo": "https://github.com/himanusia/youtube-speech-corpus",
- "event_count": 67,
- "upload_count": 128,
- "token_count": 159075,
- "date_first": "2024-08-27",
- "date_last": "2026-09-09",
- "generated_captions": 67
+ "event_count": 409,
+ "upload_count": 478,
+ "token_count": 416054,
+ "date_first": "2024-10-20",
+ "date_last": "2026-09-24",
+ "generated_captions": 347,
+ "era_videos": 911
 }

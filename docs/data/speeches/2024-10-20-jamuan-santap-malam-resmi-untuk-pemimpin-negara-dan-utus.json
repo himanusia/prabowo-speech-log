@@ -34,5 +34,13 @@
  },
  "speaker_kind": "pidato_prabowo",
  "worklist_kind": "pidato",
- "is_fragment": false
+ "is_fragment": false,
+ "transkrip_resmi": {
+  "sumber": "Sekretariat Kabinet RI",
+  "link": "https://setkab.go.id/jamuan-santap-malam-resmi-untuk-pemimpin-negara-dan-utusan-khusus-di-istana-negara-jakarta-20-oktober-2024/",
+  "judul_resmi": "Jamuan Santap Malam Resmi untuk Pemimpin Negara dan Utusan Khusus, di Istana Negara, Jakarta, 20 Oktober 2024",
+  "panjang_karakter": 1159,
+  "teks": "Sambutan Presiden Prabowo Subianto pada Jamuan Santap Malam Resmi untuk Pemimpin Negara dan Utusan Khusus , 2 0 Oktober 2024 Your presence here not only is a great honor for me personally, but more important it is a great honor for my people and my country. The fact that you have made the effort to travel many many miles to leave your important political and government duties to spend some time with us, is indeed very touching and very moving for us. We are only recently experiencing constitutional democracy. We still have to learn a lot. We realize we have to improve all services and all execution of the ideals of democracy. So, once again, please accept on the behalf of Indonesian people, and on my own behalf, once again, the greatest appreciation, greatest thanks, and my highest assurance that we hold the relationship between Indonesia and all the countries represented here in the highest, highest degree of regard. We would like to continue this relationship and this friendship. Indonesia would like to be the best of neighbors, the best of partners to work together for the common good, common peace, common prosperity. Thank you very much."
+ },
+ "transcript_language": "en"
 }
