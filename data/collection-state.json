@@ -1,34 +1,31 @@
 {
- "generated_at": "2026-09-26T18:09:32+07:00",
+ "generated_at": "2026-09-26T19:48:23+07:00",
  "channel_total": 4895,
  "era_total": 911,
- "worklist_total": 288,
+ "worklist_total": 281,
  "counts": {
-  "ada_di_arsip": 8,
   "tanpa_track": 276,
   "panel_kosong": 3,
-  "ok_belum_masuk_arsip": 1
+  "ok_belum_masuk_arsip": 2
  },
  "by_kind": {
   "ambigu": {
-   "ada_di_arsip": 7,
    "tanpa_track": 162,
    "panel_kosong": 3,
-   "ok_belum_masuk_arsip": 1
+   "ok_belum_masuk_arsip": 2
   },
   "kunjungan": {
    "tanpa_track": 112
   },
-  "pidato": {
-   "ada_di_arsip": 1,
+  "keterangan_pers": {
    "tanpa_track": 1
   },
-  "keterangan_pers": {
+  "pidato": {
    "tanpa_track": 1
   }
  },
  "remaining": 3,
- "perlu_impor": 1,
+ "perlu_impor": 2,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
@@ -42,59 +39,11 @@
  ],
  "rows": [
   {
-   "video_id": "y-Rc97skP0A",
-   "title": "Discussion Between the President of the Republic of Indonesia and Academics Regarding Peatland Ma...",
-   "kind": "ambigu",
-   "date": null,
-   "state": "ada_di_arsip",
-   "detail": ""
-  },
-  {
-   "video_id": "SJP7yo7fELM",
-   "title": "President Prabowo Monitors Forest and Land Fire Response, Remaining 209.78 Hectares Still Being E...",
-   "kind": "ambigu",
-   "date": null,
-   "state": "ada_di_arsip",
-   "detail": ""
-  },
-  {
-   "video_id": "dboOmJlJtlg",
-   "title": "President Prabowo Affirms Commitment to Free Public Education from Elementary School to University",
-   "kind": "ambigu",
-   "date": null,
-   "state": "ada_di_arsip",
-   "detail": ""
-  },
-  {
    "video_id": "isV4V8w69cA",
    "title": "64 Aircraft and 54,394 Joint Personnel Strengthen Forest and Land Firefighting Operations",
    "kind": "ambigu",
    "date": null,
    "state": "tanpa_track",
-   "detail": ""
-  },
-  {
-   "video_id": "ISzFPQWILAk",
-   "title": "President Prabowo Receives Malaysian Deputy PM Ahmad Zahid Hamidi, Hambalang, September 18, 2026",
-   "kind": "ambigu",
-   "date": "2026-00-00?",
-   "state": "ada_di_arsip",
-   "detail": ""
-  },
-  {
-   "video_id": "j28n1PwpNiQ",
-   "title": "President of Indonesia’s Directives at the Limited Cabinet Meeting on Forest Fire Handling, NTT E...",
-   "kind": "ambigu",
-   "date": null,
-   "state": "ada_di_arsip",
-   "detail": ""
-  },
-  {
-   "video_id": "r4bp5AGbbV4",
-   "title": "President Prabowo Tests Jakarta LRT, Kelapa Gading to Manggarai in 28 Minutes, September 16, 2026",
-   "kind": "ambigu",
-   "date": "2026-00-00?",
-   "state": "ada_di_arsip",
    "detail": ""
   },
   {
@@ -551,14 +500,6 @@
    "kind": "ambigu",
    "date": "2026-03-05",
    "state": "tanpa_track",
-   "detail": ""
-  },
-  {
-   "video_id": "5OIq7GaU4sI",
-   "title": "Sambutan Presiden Prabowo pada Perayaan Tahun Baru Imlek Nasional 2026, 28 Februari 2026",
-   "kind": "pidato",
-   "date": "2026-02-28",
-   "state": "ada_di_arsip",
    "detail": ""
   },
   {
@@ -1674,11 +1615,11 @@
    "detail": ""
   },
   {
-   "video_id": "Bx59-VmSPvY",
-   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres, Kairo, 12 April 2025",
+   "video_id": "_uezr-fAhnk",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Doha, 12 April 2025",
    "kind": "ambigu",
    "date": "2025-04-12",
-   "state": "ada_di_arsip",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {

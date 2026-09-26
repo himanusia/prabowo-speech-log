@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-26T14:42:20+07:00",
+ "generated_at": "2026-09-26T19:48:21+07:00",
  "channel_url": "https://www.youtube.com/@SekretariatPresiden/videos",
  "era_boundary_position": 911,
  "channel_total": 4895,
  "era_total": 911,
- "already_in_archive": 753,
+ "already_in_archive": 760,
  "counts": {
   "ambigu": 563,
   "bukan_prabowo": 79,
@@ -13,11 +13,11 @@
   "keterangan_pers": 50
  },
  "pending_counts": {
-  "ambigu": 173,
   "bukan_prabowo": 76,
+  "ambigu": 167,
   "kunjungan": 112,
-  "pidato": 2,
-  "keterangan_pers": 1
+  "keterangan_pers": 1,
+  "pidato": 1
  },
  "items": [
   {
@@ -27,7 +27,7 @@
    "date": null,
    "date_precise": false,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "KdDuUyHTNFM",
@@ -63,7 +63,7 @@
    "date": null,
    "date_precise": false,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "Oa0-vA_TNz0",
@@ -81,7 +81,7 @@
    "date": null,
    "date_precise": false,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "isV4V8w69cA",
@@ -99,7 +99,7 @@
    "date": "2026-00-00?",
    "date_precise": false,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "JrrbgomQNls",
@@ -126,7 +126,7 @@
    "date": null,
    "date_precise": false,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "r4bp5AGbbV4",
@@ -135,7 +135,7 @@
    "date": "2026-00-00?",
    "date_precise": false,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "STW00MnKxfE",
@@ -2178,7 +2178,7 @@
    "date": "2026-02-28",
    "date_precise": true,
    "kind": "pidato",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "ZQ04p2F6OKU",
@@ -5994,7 +5994,7 @@
    "date": "2025-04-12",
    "date_precise": true,
    "kind": "ambigu",
-   "status": "have"
+   "status": "pending"
   },
   {
    "video_id": "9gdRkImfa1s",
@@ -6012,7 +6012,7 @@
    "date": "2025-04-12",
    "date_precise": true,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "Czalm_-T57I",
@@ -8222,64 +8222,10 @@
  ],
  "todo": [
   {
-   "video_id": "y-Rc97skP0A",
-   "title": "Discussion Between the President of the Republic of Indonesia and Academics Regarding Peatland Ma...",
-   "position": 0,
-   "date": null,
-   "date_precise": false,
-   "kind": "ambigu",
-   "status": "pending"
-  },
-  {
-   "video_id": "SJP7yo7fELM",
-   "title": "President Prabowo Monitors Forest and Land Fire Response, Remaining 209.78 Hectares Still Being E...",
-   "position": 4,
-   "date": null,
-   "date_precise": false,
-   "kind": "ambigu",
-   "status": "pending"
-  },
-  {
-   "video_id": "dboOmJlJtlg",
-   "title": "President Prabowo Affirms Commitment to Free Public Education from Elementary School to University",
-   "position": 6,
-   "date": null,
-   "date_precise": false,
-   "kind": "ambigu",
-   "status": "pending"
-  },
-  {
    "video_id": "isV4V8w69cA",
    "title": "64 Aircraft and 54,394 Joint Personnel Strengthen Forest and Land Firefighting Operations",
    "position": 7,
    "date": null,
-   "date_precise": false,
-   "kind": "ambigu",
-   "status": "pending"
-  },
-  {
-   "video_id": "ISzFPQWILAk",
-   "title": "President Prabowo Receives Malaysian Deputy PM Ahmad Zahid Hamidi, Hambalang, September 18, 2026",
-   "position": 8,
-   "date": "2026-00-00?",
-   "date_precise": false,
-   "kind": "ambigu",
-   "status": "pending"
-  },
-  {
-   "video_id": "j28n1PwpNiQ",
-   "title": "President of Indonesia’s Directives at the Limited Cabinet Meeting on Forest Fire Handling, NTT E...",
-   "position": 11,
-   "date": null,
-   "date_precise": false,
-   "kind": "ambigu",
-   "status": "pending"
-  },
-  {
-   "video_id": "r4bp5AGbbV4",
-   "title": "President Prabowo Tests Jakarta LRT, Kelapa Gading to Manggarai in 28 Minutes, September 16, 2026",
-   "position": 12,
-   "date": "2026-00-00?",
    "date_precise": false,
    "kind": "ambigu",
    "status": "pending"
@@ -8795,15 +8741,6 @@
    "date": "2026-03-05",
    "date_precise": true,
    "kind": "ambigu",
-   "status": "pending"
-  },
-  {
-   "video_id": "5OIq7GaU4sI",
-   "title": "Sambutan Presiden Prabowo pada Perayaan Tahun Baru Imlek Nasional 2026, 28 Februari 2026",
-   "position": 239,
-   "date": "2026-02-28",
-   "date_precise": true,
-   "kind": "pidato",
    "status": "pending"
   },
   {
@@ -10058,9 +9995,9 @@
    "status": "pending"
   },
   {
-   "video_id": "Bx59-VmSPvY",
-   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres, Kairo, 12 April 2025",
-   "position": 665,
+   "video_id": "_uezr-fAhnk",
+   "title": "Keterangan Pers Deputi Bidang Protokol, Pers, dan Media Setpres Yusuf Permana, Doha, 12 April 2025",
+   "position": 663,
    "date": "2025-04-12",
    "date_precise": true,
    "kind": "ambigu",
