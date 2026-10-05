@@ -1,7 +1,7 @@
 {
  "korpus": {
-  "pidato": 373,
-  "token": 392254,
+  "pidato": 374,
+  "token": 392329,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
@@ -14,19 +14,19 @@
   "mbg": {
    "kemunculan": 331,
    "pidato": 79,
-   "persen_pidato": 21.2,
+   "persen_pidato": 21.1,
    "per_1000": 0.84
   },
   "bencana": {
    "kemunculan": 164,
    "pidato": 57,
-   "persen_pidato": 15.3,
+   "persen_pidato": 15.2,
    "per_1000": 0.42
   },
   "danantara": {
    "kemunculan": 114,
    "pidato": 39,
-   "persen_pidato": 10.5,
+   "persen_pidato": 10.4,
    "per_1000": 0.29
   },
   "swasembada": {
@@ -44,7 +44,7 @@
   "sawit": {
    "kemunculan": 158,
    "pidato": 36,
-   "persen_pidato": 9.7,
+   "persen_pidato": 9.6,
    "per_1000": 0.4
   },
   "karhutla": {
@@ -346,45 +346,45 @@
  ],
  "ganti": {
   "saya": {
-   "kemunculan": 10115,
-   "pidato": 342,
+   "kemunculan": 10118,
+   "pidato": 343,
    "persen_pidato": 91.7,
    "per_1000": 25.79
   },
   "kita": {
-   "kemunculan": 14621,
-   "pidato": 340,
+   "kemunculan": 14624,
+   "pidato": 341,
    "persen_pidato": 91.2,
    "per_1000": 37.27
   },
   "kami": {
    "kemunculan": 1270,
    "pidato": 190,
-   "persen_pidato": 50.9,
+   "persen_pidato": 50.8,
    "per_1000": 3.24
   },
   "rakyat": {
-   "kemunculan": 2287,
-   "pidato": 200,
-   "persen_pidato": 53.6,
-   "per_1000": 5.83
+   "kemunculan": 2292,
+   "pidato": 201,
+   "persen_pidato": 53.7,
+   "per_1000": 5.84
   },
   "pemerintah": {
    "kemunculan": 724,
    "pidato": 173,
-   "persen_pidato": 46.4,
+   "persen_pidato": 46.3,
    "per_1000": 1.85
   },
   "bangsa": {
-   "kemunculan": 2085,
-   "pidato": 190,
-   "persen_pidato": 50.9,
+   "kemunculan": 2089,
+   "pidato": 191,
+   "persen_pidato": 51.1,
    "per_1000": 5.32
   },
   "negara": {
-   "kemunculan": 2138,
-   "pidato": 229,
-   "persen_pidato": 61.4,
+   "kemunculan": 2140,
+   "pidato": 230,
+   "persen_pidato": 61.5,
    "per_1000": 5.45
   }
  },
@@ -435,14 +435,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 40,
-   "saya": 22.88,
+   "n": 41,
+   "saya": 22.9,
    "kita": 38.94,
    "kami": 1.86,
-   "rakyat": 7.15,
+   "rakyat": 7.21,
    "pemerintah": 1.75,
-   "bangsa": 5.56,
-   "negara": 5.37
+   "bangsa": 5.61,
+   "negara": 5.4
   }
  ],
  "seri_bahasa": [
@@ -526,10 +526,10 @@
   },
   {
    "jenis": "lain-lain",
-   "n": 233,
+   "n": 234,
    "median": 309,
    "maks": 9836,
-   "rata2": 805
+   "rata2": 802
   },
   {
    "jenis": "peresmian",

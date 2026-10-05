@@ -1,15 +1,17 @@
 {
- "generated_at": "2026-10-04T20:56:20+07:00",
- "channel_total": 4898,
- "era_total": 914,
- "worklist_total": 279,
+ "generated_at": "2026-10-05T21:34:10+07:00",
+ "channel_total": 4900,
+ "era_total": 916,
+ "worklist_total": 281,
  "counts": {
-  "tanpa_track": 276,
+  "ok_belum_masuk_arsip": 1,
+  "tanpa_track": 277,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "tanpa_track": 162,
+   "ok_belum_masuk_arsip": 1,
+   "tanpa_track": 163,
    "panel_kosong": 3
   },
   "kunjungan": {
@@ -23,19 +25,35 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 0,
+ "perlu_impor": 1,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
-  "no_indonesian_track",
-  "ok",
   "ok",
   "ok",
   "no_indonesian_track",
   "no_indonesian_track",
+  "no_indonesian_track",
+  "ok",
   "no_indonesian_track"
  ],
  "rows": [
+  {
+   "video_id": "cW4DzzZ0F3Y",
+   "title": "President Prabowo Leads the 81st TNI Anniversary Ceremony in Cilangkap, October 5, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "WGXvAkru1zI",
+   "title": "Keterangan Pers Menpora Erick Thohir dan Presiden FIFA Gianni Infantino, 5 Oktober 2026",
+   "kind": "ambigu",
+   "date": "2026-10-05",
+   "state": "tanpa_track",
+   "detail": ""
+  },
   {
    "video_id": "isV4V8w69cA",
    "title": "64 Aircraft and 54,394 Joint Personnel Strengthen Forest and Land Firefighting Operations",

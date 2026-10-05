@@ -1,0 +1,101 @@
+{
+ "id": "cW4DzzZ0F3Y",
+ "url": "https://www.youtube.com/watch?v=cW4DzzZ0F3Y",
+ "title": "Presiden Prabowo Pimpin Upacara Peringatan HUT ke-81 TNI di Cilangkap, 5 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "en",
+   "name": "English (auto-generated)",
+   "generated": true
+  },
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 7.0,
+   "duration": 9
+  },
+  {
+   "text": "Kekuatan TNI sejak lahir tidak pernah terpisahkan dari rakyat.",
+   "start": 16.0,
+   "duration": 11
+  },
+  {
+   "text": "TNI adalah tentara rakyat.",
+   "start": 27.0,
+   "duration": 4
+  },
+  {
+   "text": "Jiwa dan ragamu milik rakyat Indonesia.",
+   "start": 31.0,
+   "duration": 5
+  },
+  {
+   "text": "Bangsa kita, negara kita adalah negara yang sangat besar.",
+   "start": 36.0,
+   "duration": 5
+  },
+  {
+   "text": "Kehormatan bangsa Indonesia, kedaulatan bangsa Indonesia,",
+   "start": 41.0,
+   "duration": 6
+  },
+  {
+   "text": "kemerdekaan [musik] bangsa Indonesia, kesejahteraan rakyat kita berada di pundak. Saudara-saudara,",
+   "start": 47.0,
+   "duration": 10
+  },
+  {
+   "text": "saya menyampaikan terima kasih saya, penghormatan saya kepada kalian. Selamat bertugas",
+   "start": 57.0,
+   "duration": 8
+  },
+  {
+   "text": "para prajurit Tentara Nasional Indonesia. Terus mengabdi dengan kehormatan.",
+   "start": 65.0,
+   "duration": 7
+  },
+  {
+   "text": "Terus jaga Indonesia dengan keberanian.",
+   "start": 72.0,
+   "duration": 5
+  },
+  {
+   "text": "terus selalu bersama rakyat sepenuh hatimu.",
+   "start": 77.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 84.0,
+   "duration": 7
+  },
+  {
+   "text": "[musik]",
+   "start": 91.0,
+   "duration": 4
+  },
+  {
+   "text": "[musik]",
+   "start": 95.0,
+   "duration": 3
+  }
+ ]
+}

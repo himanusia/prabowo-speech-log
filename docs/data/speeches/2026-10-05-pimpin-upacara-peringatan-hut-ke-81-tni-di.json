@@ -1,0 +1,85 @@
+{
+ "id": "2026-10-05-pimpin-upacara-peringatan-hut-ke-81-tni-di",
+ "video_id": "cW4DzzZ0F3Y",
+ "date": "2026-10-05",
+ "date_precise": true,
+ "title": "Presiden Prabowo Pimpin Upacara Peringatan HUT ke-81 TNI di Cilangkap, 5 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=cW4DzzZ0F3Y",
+ "duration_s": 91,
+ "duration_hms": "1:31",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 14,
+ "token_count": 80,
+ "unique_word_count": 52,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "cW4DzzZ0F3Y",
+   "url": "https://www.youtube.com/watch?v=cW4DzzZ0F3Y",
+   "title": "Presiden Prabowo Pimpin Upacara Peringatan HUT ke-81 TNI di Cilangkap, 5 Oktober 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 3,
+  "nasional_dan_identitas": 19
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 7.0,
+   "d": 20.0,
+   "text": "[musik] Kekuatan TNI sejak lahir tidak pernah terpisahkan dari rakyat."
+  },
+  {
+   "t": 27.0,
+   "d": 4.0,
+   "text": "TNI adalah tentara rakyat."
+  },
+  {
+   "t": 31.0,
+   "d": 5.0,
+   "text": "Jiwa dan ragamu milik rakyat Indonesia."
+  },
+  {
+   "t": 36.0,
+   "d": 5.0,
+   "text": "Bangsa kita, negara kita adalah negara yang sangat besar."
+  },
+  {
+   "t": 41.0,
+   "d": 31.0,
+   "text": "Kehormatan bangsa Indonesia, kedaulatan bangsa Indonesia, kemerdekaan [musik] bangsa Indonesia, kesejahteraan rakyat kita berada di pundak. Saudara-saudara, saya menyampaikan terima kasih saya, penghormatan saya kepada kalian. Selamat bertugas para prajurit Tentara Nasional Indonesia. Terus mengabdi dengan kehormatan."
+  },
+  {
+   "t": 72.0,
+   "d": 5.0,
+   "text": "Terus jaga Indonesia dengan keberanian."
+  },
+  {
+   "t": 77.0,
+   "d": 7.0,
+   "text": "terus selalu bersama rakyat sepenuh hatimu."
+  },
+  {
+   "t": 84.0,
+   "d": 14.0,
+   "text": "[musik] [musik] [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}
