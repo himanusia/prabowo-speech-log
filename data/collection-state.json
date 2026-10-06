@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-05T21:34:10+07:00",
- "channel_total": 4900,
- "era_total": 916,
+ "generated_at": "2026-10-06T20:36:22+07:00",
+ "channel_total": 4901,
+ "era_total": 917,
  "worklist_total": 281,
  "counts": {
   "ok_belum_masuk_arsip": 1,
@@ -30,17 +30,17 @@
  "block_tail": [
   "ok",
   "ok",
-  "ok",
   "no_indonesian_track",
   "no_indonesian_track",
   "no_indonesian_track",
   "ok",
-  "no_indonesian_track"
+  "no_indonesian_track",
+  "ok"
  ],
  "rows": [
   {
-   "video_id": "cW4DzzZ0F3Y",
-   "title": "President Prabowo Leads the 81st TNI Anniversary Ceremony in Cilangkap, October 5, 2026",
+   "video_id": "mzZQIZ1naPs",
+   "title": "President Prabowo Witnesses Indonesia National Team's Struggle to Win the 2026 FIFA ASEAN Cup, Oc...",
    "kind": "ambigu",
    "date": "2026-00-00?",
    "state": "ok_belum_masuk_arsip",

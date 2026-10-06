@@ -1,0 +1,70 @@
+{
+ "id": "2026-10-05-saksikan-perjuangan-timnas-juarai-fifa-asean-cup",
+ "video_id": "mzZQIZ1naPs",
+ "date": "2026-10-05",
+ "date_precise": true,
+ "title": "Presiden Prabowo Saksikan Perjuangan Timnas Indonesia Juarai FIFA ASEAN Cup 2026, 5 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=mzZQIZ1naPs",
+ "duration_s": 165,
+ "duration_hms": "2:45",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 112,
+ "unique_word_count": 73,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "mzZQIZ1naPs",
+   "url": "https://www.youtube.com/watch?v=mzZQIZ1naPs",
+   "title": "Presiden Prabowo Saksikan Perjuangan Timnas Indonesia Juarai FIFA ASEAN Cup 2026, 5 Oktober 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 2
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 25.0,
+   "d": 43.0,
+   "text": "Indonesia [tepuk tangan] [bersorak] Pak Menteri [bersorak] [musik] Biar ku sa pergi jauh dimu."
+  },
+  {
+   "t": 68.0,
+   "d": 32.0,
+   "text": "[musik] [musik][bernyanyi] U yang kucint [musik] kuhargai [musik] [musik] yang negeriku jami."
+  },
+  {
+   "t": 100.0,
+   "d": 75.0,
+   "text": "yang [musik][bernyanyi] sebenku dan rumahku di [musik] sas ku [musik] kubanggakan kita gembira kita bersyukur [musik] kita bangga perjuangan tim kita ya mereka tidak menyerah sampai detik-detik terakhir saya kira membanggakan dan ini contoh ya contoh semangat tidak menyerah dan kita bisa berhasil dan ini mungkin ee pertama kali dalam sejarah ya kita menang pertandingan FIFA antar bangsa ya. Jadi saya kira bonus Pak mengasih bonus Pak. Apakah mengasih"
+  },
+  {
+   "t": 175.0,
+   "d": 12.0,
+   "text": "bonus Pak? yaitu diatur oleh siap ketua umum PSSI ya. Oke yaih. Terima kasih ya."
+  },
+  {
+   "t": 187.0,
+   "d": 3.0,
+   "text": "Congratulation"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

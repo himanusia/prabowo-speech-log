@@ -1,14 +1,14 @@
 {
  "korpus": {
-  "pidato": 374,
-  "token": 392329,
+  "pidato": 375,
+  "token": 392425,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
   "korupsi": {
    "kemunculan": 384,
    "pidato": 87,
-   "persen_pidato": 23.3,
+   "persen_pidato": 23.2,
    "per_1000": 0.98
   },
   "mbg": {
@@ -32,13 +32,13 @@
   "swasembada": {
    "kemunculan": 120,
    "pidato": 35,
-   "persen_pidato": 9.4,
+   "persen_pidato": 9.3,
    "per_1000": 0.31
   },
   "hilirisasi": {
    "kemunculan": 100,
    "pidato": 44,
-   "persen_pidato": 11.8,
+   "persen_pidato": 11.7,
    "per_1000": 0.25
   },
   "sawit": {
@@ -346,45 +346,45 @@
  ],
  "ganti": {
   "saya": {
-   "kemunculan": 10118,
-   "pidato": 343,
+   "kemunculan": 10120,
+   "pidato": 344,
    "persen_pidato": 91.7,
    "per_1000": 25.79
   },
   "kita": {
-   "kemunculan": 14624,
-   "pidato": 341,
+   "kemunculan": 14630,
+   "pidato": 342,
    "persen_pidato": 91.2,
-   "per_1000": 37.27
+   "per_1000": 37.28
   },
   "kami": {
    "kemunculan": 1270,
    "pidato": 190,
-   "persen_pidato": 50.8,
+   "persen_pidato": 50.7,
    "per_1000": 3.24
   },
   "rakyat": {
    "kemunculan": 2292,
    "pidato": 201,
-   "persen_pidato": 53.7,
+   "persen_pidato": 53.6,
    "per_1000": 5.84
   },
   "pemerintah": {
    "kemunculan": 724,
    "pidato": 173,
-   "persen_pidato": 46.3,
-   "per_1000": 1.85
+   "persen_pidato": 46.1,
+   "per_1000": 1.84
   },
   "bangsa": {
-   "kemunculan": 2089,
-   "pidato": 191,
-   "persen_pidato": 51.1,
-   "per_1000": 5.32
+   "kemunculan": 2090,
+   "pidato": 192,
+   "persen_pidato": 51.2,
+   "per_1000": 5.33
   },
   "negara": {
    "kemunculan": 2140,
    "pidato": 230,
-   "persen_pidato": 61.5,
+   "persen_pidato": 61.3,
    "per_1000": 5.45
   }
  },
@@ -435,14 +435,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 41,
-   "saya": 22.9,
-   "kita": 38.94,
+   "n": 42,
+   "saya": 22.89,
+   "kita": 38.97,
    "kami": 1.86,
-   "rakyat": 7.21,
-   "pemerintah": 1.75,
+   "rakyat": 7.2,
+   "pemerintah": 1.74,
    "bangsa": 5.61,
-   "negara": 5.4
+   "negara": 5.39
   }
  ],
  "seri_bahasa": [
@@ -540,10 +540,10 @@
   },
   {
    "jenis": "luar negeri",
-   "n": 26,
-   "median": 255,
+   "n": 27,
+   "median": 238,
    "maks": 2412,
-   "rata2": 371
+   "rata2": 361
   }
  ]
 }

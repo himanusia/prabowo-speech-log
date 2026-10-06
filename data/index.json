@@ -10123,5 +10123,31 @@
    "pertahanan_dan_keamanan": 3,
    "nasional_dan_identitas": 19
   }
+ },
+ {
+  "id": "2026-10-05-saksikan-perjuangan-timnas-juarai-fifa-asean-cup",
+  "date": "2026-10-05",
+  "title": "Presiden Prabowo Saksikan Perjuangan Timnas Indonesia Juarai FIFA ASEAN Cup 2026, 5 Oktober 2026",
+  "channel": "Sekretariat Presiden",
+  "video_id": "mzZQIZ1naPs",
+  "youtube_url": "https://www.youtube.com/watch?v=mzZQIZ1naPs",
+  "duration_s": 165,
+  "duration_hms": "2:45",
+  "token_count": 112,
+  "unique_word_count": 73,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 5,
+  "topics": {
+   "pangan": 0,
+   "ekonomi": 0,
+   "pendidikan": 0,
+   "kesehatan_dan_gizi": 0,
+   "tata_kelola": 0,
+   "pertahanan_dan_keamanan": 0,
+   "nasional_dan_identitas": 2
+  }
  }
 ]
