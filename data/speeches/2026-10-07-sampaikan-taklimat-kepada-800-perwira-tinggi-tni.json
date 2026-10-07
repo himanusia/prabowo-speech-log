@@ -1,0 +1,60 @@
+{
+ "id": "2026-10-07-sampaikan-taklimat-kepada-800-perwira-tinggi-tni",
+ "video_id": "uqSYTxvsUnI",
+ "date": "2026-10-07",
+ "date_precise": true,
+ "title": "Presiden Prabowo Sampaikan Taklimat kepada 800 Perwira Tinggi TNI & Polri, 7 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=uqSYTxvsUnI",
+ "duration_s": 88,
+ "duration_hms": "1:28",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "token_count": 147,
+ "unique_word_count": 96,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "uqSYTxvsUnI",
+   "url": "https://www.youtube.com/watch?v=uqSYTxvsUnI",
+   "title": "Presiden Prabowo Sampaikan Taklimat kepada 800 Perwira Tinggi TNI & Polri, 7 Oktober 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 12.0,
+   "d": 33.0,
+   "text": "Atas nama keluarga besar Tentara Nasional Indonesia, kami menyampaikan terima kasih dan penghargaan yang setinggi-tingginya kepada Bapak Presiden atas undangan dan kesempatan yang diberikan kepada TNI untuk mengikuti kegiatan ini. Kegiatan ini merupakan momentum untuk menyamakan visi, memperkurat soliditas dan sinergi, serta menyatukan langkah seluruh jajaran TNI dalam melaksanakan tugas pengabdian kepada bangsa dan negara."
+  },
+  {
+   "t": 45.0,
+   "d": 28.0,
+   "text": "Kehadiran seluruh per tinggi PORI pada kesempatan ini merupakan momentum penting untuk menerima secara langsung arahan kebijakan dan penekanan Bapak Presiden sehingga dapat menjadi pedoman dalam pelaksanaan tugas dan kepemimpinan di satuan masing-masing."
+  },
+  {
+   "t": 73.0,
+   "d": 27.0,
+   "text": "Sengaja saya mengundang para per tinggi menjelang pemerintahan yang saya pimpin 2 tahun. Saya ingin memberi suatu gambaran keadaan yang kita hadapi sebagai bangsa dan sebagai negara. Di sini juga saya mengundang tidak semua senior yang e mungkin punya kesempatan hadir pada hari ini dan juga ee mereka-mereka yang saya anggap ee masih perlu mengikuti perkembangan ee negara dan bangsa kita."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

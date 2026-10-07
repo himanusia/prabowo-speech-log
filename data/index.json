@@ -10149,5 +10149,31 @@
    "pertahanan_dan_keamanan": 0,
    "nasional_dan_identitas": 2
   }
+ },
+ {
+  "id": "2026-10-07-sampaikan-taklimat-kepada-800-perwira-tinggi-tni",
+  "date": "2026-10-07",
+  "title": "Presiden Prabowo Sampaikan Taklimat kepada 800 Perwira Tinggi TNI & Polri, 7 Oktober 2026",
+  "channel": "Sekretariat Presiden",
+  "video_id": "uqSYTxvsUnI",
+  "youtube_url": "https://www.youtube.com/watch?v=uqSYTxvsUnI",
+  "duration_s": 88,
+  "duration_hms": "1:28",
+  "token_count": 147,
+  "unique_word_count": 96,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 3,
+  "topics": {
+   "pangan": 0,
+   "ekonomi": 0,
+   "pendidikan": 0,
+   "kesehatan_dan_gizi": 0,
+   "tata_kelola": 0,
+   "pertahanan_dan_keamanan": 2,
+   "nasional_dan_identitas": 7
+  }
  }
 ]

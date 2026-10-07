@@ -1,0 +1,86 @@
+{
+ "id": "uqSYTxvsUnI",
+ "url": "https://www.youtube.com/watch?v=uqSYTxvsUnI",
+ "title": "Presiden Prabowo Sampaikan Taklimat kepada 800 Perwira Tinggi TNI & Polri, 7 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "en",
+   "name": "English (auto-generated)",
+   "generated": true
+  },
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 11,
+ "raw_snippets": [
+  {
+   "text": "Atas nama keluarga besar Tentara Nasional Indonesia, kami menyampaikan terima kasih dan penghargaan yang setinggi-tingginya kepada Bapak Presiden",
+   "start": 12.0,
+   "duration": 8
+  },
+  {
+   "text": "atas undangan dan kesempatan yang diberikan kepada TNI untuk mengikuti kegiatan ini. Kegiatan ini merupakan",
+   "start": 20.0,
+   "duration": 8
+  },
+  {
+   "text": "momentum untuk menyamakan visi, memperkurat soliditas dan sinergi, serta menyatukan langkah seluruh jajaran TNI",
+   "start": 28.0,
+   "duration": 9
+  },
+  {
+   "text": "dalam melaksanakan tugas pengabdian kepada bangsa dan negara.",
+   "start": 37.0,
+   "duration": 8
+  },
+  {
+   "text": "Kehadiran seluruh per tinggi PORI pada kesempatan ini merupakan momentum penting untuk menerima secara langsung",
+   "start": 45.0,
+   "duration": 8
+  },
+  {
+   "text": "arahan kebijakan dan penekanan Bapak Presiden sehingga dapat menjadi pedoman dalam",
+   "start": 53.0,
+   "duration": 8
+  },
+  {
+   "text": "pelaksanaan tugas dan kepemimpinan di satuan masing-masing.",
+   "start": 61.0,
+   "duration": 12
+  },
+  {
+   "text": "Sengaja saya mengundang para per tinggi menjelang pemerintahan yang saya pimpin",
+   "start": 73.0,
+   "duration": 8
+  },
+  {
+   "text": "2 tahun. Saya ingin memberi suatu gambaran keadaan yang kita hadapi sebagai bangsa dan sebagai negara. Di",
+   "start": 81.0,
+   "duration": 9
+  },
+  {
+   "text": "sini juga saya mengundang tidak semua senior yang e mungkin punya kesempatan",
+   "start": 90.0,
+   "duration": 7
+  },
+  {
+   "text": "hadir pada hari ini dan juga ee mereka-mereka yang saya anggap ee masih perlu mengikuti perkembangan ee negara dan bangsa kita.",
+   "start": 97.0,
+   "duration": 3
+  }
+ ]
+}

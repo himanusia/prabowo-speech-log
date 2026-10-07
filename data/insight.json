@@ -1,20 +1,20 @@
 {
  "korpus": {
-  "pidato": 375,
-  "token": 392425,
+  "pidato": 376,
+  "token": 392572,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
   "korupsi": {
    "kemunculan": 384,
    "pidato": 87,
-   "persen_pidato": 23.2,
+   "persen_pidato": 23.1,
    "per_1000": 0.98
   },
   "mbg": {
    "kemunculan": 331,
    "pidato": 79,
-   "persen_pidato": 21.1,
+   "persen_pidato": 21.0,
    "per_1000": 0.84
   },
   "bencana": {
@@ -346,46 +346,46 @@
  ],
  "ganti": {
   "saya": {
-   "kemunculan": 10120,
-   "pidato": 344,
-   "persen_pidato": 91.7,
+   "kemunculan": 10125,
+   "pidato": 345,
+   "persen_pidato": 91.8,
    "per_1000": 25.79
   },
   "kita": {
-   "kemunculan": 14630,
-   "pidato": 342,
+   "kemunculan": 14632,
+   "pidato": 343,
    "persen_pidato": 91.2,
-   "per_1000": 37.28
+   "per_1000": 37.27
   },
   "kami": {
-   "kemunculan": 1270,
-   "pidato": 190,
-   "persen_pidato": 50.7,
+   "kemunculan": 1271,
+   "pidato": 191,
+   "persen_pidato": 50.8,
    "per_1000": 3.24
   },
   "rakyat": {
    "kemunculan": 2292,
    "pidato": 201,
-   "persen_pidato": 53.6,
+   "persen_pidato": 53.5,
    "per_1000": 5.84
   },
   "pemerintah": {
    "kemunculan": 724,
    "pidato": 173,
-   "persen_pidato": 46.1,
+   "persen_pidato": 46.0,
    "per_1000": 1.84
   },
   "bangsa": {
-   "kemunculan": 2090,
-   "pidato": 192,
-   "persen_pidato": 51.2,
+   "kemunculan": 2093,
+   "pidato": 193,
+   "persen_pidato": 51.3,
    "per_1000": 5.33
   },
   "negara": {
-   "kemunculan": 2140,
-   "pidato": 230,
-   "persen_pidato": 61.3,
-   "per_1000": 5.45
+   "kemunculan": 2143,
+   "pidato": 231,
+   "persen_pidato": 61.4,
+   "per_1000": 5.46
   }
  },
  "seri_ganti": [
@@ -435,14 +435,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 42,
-   "saya": 22.89,
-   "kita": 38.97,
-   "kami": 1.86,
-   "rakyat": 7.2,
+   "n": 43,
+   "saya": 22.92,
+   "kita": 38.92,
+   "kami": 1.87,
+   "rakyat": 7.19,
    "pemerintah": 1.74,
-   "bangsa": 5.61,
-   "negara": 5.39
+   "bangsa": 5.64,
+   "negara": 5.42
   }
  ],
  "seri_bahasa": [
@@ -512,10 +512,10 @@
   },
   {
    "jenis": "sidang kabinet",
-   "n": 15,
+   "n": 16,
    "median": 543,
    "maks": 6710,
-   "rata2": 2011
+   "rata2": 1894
   },
   {
    "jenis": "hari besar",

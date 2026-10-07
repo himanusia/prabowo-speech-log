@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-06T20:36:22+07:00",
- "channel_total": 4901,
- "era_total": 917,
+ "generated_at": "2026-10-07T20:36:15+07:00",
+ "channel_total": 4902,
+ "era_total": 918,
  "worklist_total": 281,
  "counts": {
   "ok_belum_masuk_arsip": 1,
@@ -29,18 +29,18 @@
  "blocked_suspected": false,
  "block_tail": [
   "ok",
-  "ok",
   "no_indonesian_track",
   "no_indonesian_track",
   "no_indonesian_track",
   "ok",
   "no_indonesian_track",
+  "ok",
   "ok"
  ],
  "rows": [
   {
-   "video_id": "mzZQIZ1naPs",
-   "title": "President Prabowo Witnesses Indonesia National Team's Struggle to Win the 2026 FIFA ASEAN Cup, Oc...",
+   "video_id": "uqSYTxvsUnI",
+   "title": "President Prabowo Delivers Briefing to 800 Senior TNI & Polri Officers, October 7, 2026",
    "kind": "ambigu",
    "date": "2026-00-00?",
    "state": "ok_belum_masuk_arsip",
