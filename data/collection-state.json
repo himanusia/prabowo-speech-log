@@ -1,16 +1,14 @@
 {
- "generated_at": "2026-10-07T20:36:15+07:00",
+ "generated_at": "2026-10-08T21:07:20+07:00",
  "channel_total": 4902,
  "era_total": 918,
- "worklist_total": 281,
+ "worklist_total": 280,
  "counts": {
-  "ok_belum_masuk_arsip": 1,
   "tanpa_track": 277,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "ok_belum_masuk_arsip": 1,
    "tanpa_track": 163,
    "panel_kosong": 3
   },
@@ -25,7 +23,7 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 1,
+ "perlu_impor": 0,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
@@ -38,14 +36,6 @@
   "ok"
  ],
  "rows": [
-  {
-   "video_id": "uqSYTxvsUnI",
-   "title": "President Prabowo Delivers Briefing to 800 Senior TNI & Polri Officers, October 7, 2026",
-   "kind": "ambigu",
-   "date": "2026-00-00?",
-   "state": "ok_belum_masuk_arsip",
-   "detail": ""
-  },
   {
    "video_id": "WGXvAkru1zI",
    "title": "Keterangan Pers Menpora Erick Thohir dan Presiden FIFA Gianni Infantino, 5 Oktober 2026",

@@ -1,22 +1,21 @@
 # Status pengumpulan
 
-Diperbarui: 2026-10-07T20:36:15+07:00
+Diperbarui: 2026-10-08T21:07:20+07:00
 
 ## Ringkasan
 
 | Keadaan | Jumlah |
 |---|---:|
-| ok_belum_masuk_arsip | 1 |
 | panel_kosong | 3 |
 | tanpa_track | 277 |
 
-**Sisa yang masih bisa ditarik: 3** dari 281 video era presiden.
+**Sisa yang masih bisa ditarik: 3** dari 280 video era presiden.
 
 ## Per jenis
 
 | Jenis | Total | Sudah | Sisa |
 |---|---:|---:|---:|
-| ambigu | 167 | 1 | 166 |
+| ambigu | 166 | 0 | 166 |
 | keterangan_pers | 1 | 0 | 1 |
 | kunjungan | 112 | 0 | 112 |
 | pidato | 1 | 0 | 1 |
