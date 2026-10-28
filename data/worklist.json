@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:26:24+07:00",
+ "generated_at": "2026-10-28T20:35:57+07:00",
  "channel_url": "https://www.youtube.com/@SekretariatPresiden/videos",
  "era_boundary_position": 943,
  "channel_total": 4927,
@@ -1498,10 +1498,10 @@
   },
   {
    "video_id": "FrEfcNiDYDQ",
-   "title": "Istana untuk Anak Sekolah: SMPN 94 dan SMPN 4 Jakarta, 19 Mei 2026",
+   "title": "The Palace for Students: SMPN 94 and SMPN 4 Jakarta, May 19, 2026",
    "position": 164,
-   "date": "2026-05-19",
-   "date_precise": true,
+   "date": "2026-00-00?",
+   "date_precise": false,
    "kind": "ambigu",
    "status": "have"
   },
