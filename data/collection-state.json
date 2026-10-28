@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-10-08T21:07:20+07:00",
- "channel_total": 4902,
- "era_total": 918,
- "worklist_total": 280,
+ "generated_at": "2026-10-28T20:26:36+07:00",
+ "channel_total": 4927,
+ "era_total": 943,
+ "worklist_total": 286,
  "counts": {
-  "tanpa_track": 277,
+  "tanpa_track": 283,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "tanpa_track": 163,
+   "tanpa_track": 167,
    "panel_kosong": 3
   },
   "kunjungan": {
-   "tanpa_track": 112
+   "tanpa_track": 114
   },
   "keterangan_pers": {
    "tanpa_track": 1
@@ -27,15 +27,63 @@
  "blocked_suspected": false,
  "block_tail": [
   "ok",
-  "no_indonesian_track",
-  "no_indonesian_track",
-  "no_indonesian_track",
   "ok",
-  "no_indonesian_track",
   "ok",
-  "ok"
+  "ok",
+  "ok",
+  "ok",
+  "ok",
+  "no_indonesian_track"
  ],
  "rows": [
+  {
+   "video_id": "8aoNyzTe2fY",
+   "title": "Presiden Prabowo Terima Menlu Singapura Vivian Balakrishnan, Hambalang, 28 Oktober 2026",
+   "kind": "ambigu",
+   "date": "2026-10-28",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "bVqQzA4H_lA",
+   "title": "Presiden Prabowo Beri Penghormatan Terakhir kepada Alm. Subagyo Hadi Siswoyo di Mabesad, 20 Okt 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "gNo6YTXQAd8",
+   "title": "Presiden Prabowo Menerima Sekjen PBB Antonio Guterres, Hambalang, 18 Oktober 2026",
+   "kind": "ambigu",
+   "date": "2026-10-18",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "I0CLYdkaNQM",
+   "title": "Kedatangan Sekjen PBB António Guterres di Indonesia, 17 Oktober 2026",
+   "kind": "ambigu",
+   "date": "2026-10-17",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "zKFsT8q5l_Y",
+   "title": "Presiden Mesir Abdel Fattah El-Sisi Tiba di Jakarta untuk Kunjungan Kenegaraan, 10 Oktober 2026",
+   "kind": "kunjungan",
+   "date": "2026-10-10",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "G7UdkdGRjec",
+   "title": "Presiden Prabowo Bertolak ke Halmahera Tengah, Luncurkan Hilirisasi Senilai Rp180 Triliun, 8-10-2026",
+   "kind": "kunjungan",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
   {
    "video_id": "WGXvAkru1zI",
    "title": "Keterangan Pers Menpora Erick Thohir dan Presiden FIFA Gianni Infantino, 5 Oktober 2026",

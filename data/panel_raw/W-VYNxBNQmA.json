@@ -1,0 +1,106 @@
+{
+ "id": "W-VYNxBNQmA",
+ "url": "https://www.youtube.com/watch?v=W-VYNxBNQmA",
+ "title": "[HIGHLIGHT] Kunjungan Kenegaraan Presiden Republik Arab Mesir Abdel Fattah El-Sisi",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "en",
+   "name": "English (auto-generated)",
+   "generated": true
+  },
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "raw_snippets": [
+  {
+   "text": "Indonesian air welcome",
+   "start": 4.0,
+   "duration": 8
+  },
+  {
+   "text": "[musik]",
+   "start": 12.0,
+   "duration": 2
+  },
+  {
+   "text": "pertama saya sekali lagi ingin menyampaikan selamat datang kepada",
+   "start": 14.0,
+   "duration": 8
+  },
+  {
+   "text": "yang mulia Presiden Abdul Fattah LC beserta seluruh delegasi di Jakarta, [musik] Indonesia.",
+   "start": 22.0,
+   "duration": 10
+  },
+  {
+   "text": "Ini adalah kehormatan besar bagi saya dapat menerima kunjungan kenegaraan.",
+   "start": 32.0,
+   "duration": 11
+  },
+  {
+   "text": "Dalam kunjungan saya ke Mesir pada bulan April 2025, kami telah sepakat untuk",
+   "start": 43.0,
+   "duration": 7
+  },
+  {
+   "text": "meningkatkan hubungan kedua negara, Indonesia dan Mesir ke tingkat kemitraan strategis.",
+   "start": 50.0,
+   "duration": 9
+  },
+  {
+   "text": "Kunjungan Yang Mulia kali ini menjadi tonggak penting dalam memperkuat kemitraan tersebut.",
+   "start": 59.0,
+   "duration": 10
+  },
+  {
+   "text": "Saya yakin hubungan Indonesia Mesir akan terus tumbuh semakin erat dan semakin memberi manfaat yang nyata bagi kedua",
+   "start": 69.0,
+   "duration": 9
+  },
+  {
+   "text": "[musik] bangsa dan rakyat kita.",
+   "start": 78.0,
+   "duration": 15
+  },
+  {
+   "text": "[musik]",
+   "start": 93.0,
+   "duration": 11
+  },
+  {
+   "text": "[musik]",
+   "start": 104.0,
+   "duration": 3
+  },
+  {
+   "text": "Thank you for Indonesia.",
+   "start": 107.0,
+   "duration": 4
+  },
+  {
+   "text": "stronn Indonesia Egypt",
+   "start": 111.0,
+   "duration": 9
+  },
+  {
+   "text": "[musik]",
+   "start": 120.0,
+   "duration": 3
+  }
+ ]
+}

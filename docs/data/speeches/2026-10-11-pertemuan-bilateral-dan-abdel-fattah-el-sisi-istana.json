@@ -1,0 +1,110 @@
+{
+ "id": "2026-10-11-pertemuan-bilateral-dan-abdel-fattah-el-sisi-istana",
+ "video_id": "6b5SCjp-G-A",
+ "date": "2026-10-11",
+ "date_precise": true,
+ "title": "Pertemuan Bilateral Presiden Prabowo dan Presiden Abdel Fattah El-Sisi, Istana Merdeka, 11 Okt 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=6b5SCjp-G-A",
+ "duration_s": 330,
+ "duration_hms": "5:30",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 36,
+ "token_count": 257,
+ "unique_word_count": 143,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "6b5SCjp-G-A",
+   "url": "https://www.youtube.com/watch?v=6b5SCjp-G-A",
+   "title": "Pertemuan Bilateral Presiden Prabowo dan Presiden Abdel Fattah El-Sisi, Istana Merdeka, 11 Okt 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 3,
+  "pendidikan": 2,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 11
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 24.0,
+   "text": "Yang saya hormati Presiden Republik Arab Mesir yang mulia Abdul Fateh Said Husein Khalil, LC beserta delegasi dari Republik Arab Mesir. yang saya hormati."
+  },
+  {
+   "t": 25.0,
+   "d": 22.0,
+   "text": "Pertama-tama saya ingin ucapkan selamat datang di Jakarta, di Indonesia, kepada saudara saya Presiden LCC beserta seluruh delegasi Mesir."
+  },
+  {
+   "t": 47.0,
+   "d": 7.0,
+   "text": "Terima kasih atas kehormatan yang diberikan kepada saya."
+  },
+  {
+   "t": 54.0,
+   "d": 16.0,
+   "text": "dan ee delegasi saya pada saat saya berkunjung ke Mesir tahun 2024 dan tahun 2025 yang lalu."
+  },
+  {
+   "t": 70.0,
+   "d": 29.0,
+   "text": "Terima kasih juga atas kunjungan Yang Mulia. Sekarang hari ini Indonesia dan Mesir memiliki hubungan yang telah terjalin lama dan kita bertekad untuk terus memperluas dan meningkatkan hubungan ini."
+  },
+  {
+   "t": 99.0,
+   "d": 25.0,
+   "text": "Kita tidak lupa dukungan Mesir pada saat Indonesia melaksanakan perjuangan kemerdekaan melawan penjajah dalam perang kemerdekaan kita tahun 45 sampai tahun 49."
+  },
+  {
+   "t": 124.0,
+   "d": 51.0,
+   "text": "Yang mulia, kita ingin untuk meningkatkan dan mendorong hasil nyata di bidang-bidang yang sangat penting. Yang pertama di bidang ekonomi, perdagangan, dan investasi, di bidang pendidikan, sains dan teknologi dan di bidang kelautan. perikanan dan juga di bidang pertahanan. Pertemuan hari ini akan semakin memperdalam kerja sama kedua negara kita dan sekaligus berkontribusi bagi perdamaian, stabilitas dan kemakmuran di kawasan."
+  },
+  {
+   "t": 175.0,
+   "d": 18.0,
+   "text": "Sebagaimana yang mulia pasti sudah tahu bahwa mayoritas yang sangat besar dari rakyat Indonesia beragama muslim."
+  },
+  {
+   "t": 193.0,
+   "d": 13.0,
+   "text": "Sehingga apa yang terjadi di dunia Islam pasti menjadi perhatian yang sangat besar bagi rakyat Indonesia."
+  },
+  {
+   "t": 206.0,
+   "d": 34.0,
+   "text": "Karena itu secara sejarah kami sangat memandang peran Mesir dalam dunia Islam dan dunia Arab. Karena itu ee percayalah bahwa Yang Mulia kalau datang ke Indonesia yang mulia berada di antara keluarga sendiri."
+  },
+  {
+   "t": 240.0,
+   "d": 6.0,
+   "text": "Terima kasih. Saya persilakan Yang Mulia menyampaikan sambutan pembukaan."
+  },
+  {
+   "t": 246.0,
+   "d": 6.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 252.0,
+   "d": 79.0,
+   "text": "Rais bravoant Kqiramad yahulqadqa isqbalf abna mahalqirukumia الشرا"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

@@ -1,0 +1,764 @@
+{
+ "id": "2026-10-21-sidang-kabinet-paripurna-2-tahun-pertama-pemerintahan",
+ "video_id": "hre_6PRas1s",
+ "date": "2026-10-21",
+ "date_precise": true,
+ "title": "Sidang Kabinet Paripurna 2 Tahun Pertama Pemerintahan Kerja Nyata untuk Negeri, 21 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=hre_6PRas1s",
+ "duration_s": 2169,
+ "duration_hms": "36:09",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 274,
+ "token_count": 3461,
+ "unique_word_count": 1012,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "hre_6PRas1s",
+   "url": "https://www.youtube.com/watch?v=hre_6PRas1s",
+   "title": "Sidang Kabinet Paripurna 2 Tahun Pertama Pemerintahan Kerja Nyata untuk Negeri, 21 Oktober 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 29,
+  "ekonomi": 30,
+  "pendidikan": 3,
+  "kesehatan_dan_gizi": 11,
+  "tata_kelola": 12,
+  "pertahanan_dan_keamanan": 6,
+  "nasional_dan_identitas": 30
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 4
+  },
+  "Danantara": {
+   "count": 5
+  },
+  "Hilirisasi": {
+   "count": 4
+  },
+  "Koperasi desa": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 2
+  },
+  "Bencana dan penanganan": {
+   "count": 6
+  }
+ },
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 18.0,
+   "text": "Yang terhormat Bapak Presiden dan seluruh anggota kabinet. Atas izin Bapak Presiden, selanjutnya akan dipaparkan secara singkat Bapak Menko Perekonomian terkait kestabilan ekonomi. Kemudian nanti akan dilanjutkan oleh Ketua OJK terkait Bursa saham dan pasar modal."
+  },
+  {
+   "t": 20.0,
+   "d": 30.0,
+   "text": "Kemudian Bapak Menteri Investasi terkait investasi masuk dan tenaga kerja dan program hilirisasi. Selanjutnya Bapak Menko Hilirisasi dan Transisi Energi merangkap Menteri ESDM terkait kesiapan minyak dan listrik serta program hilirisasi. Lalu Menteri Pertanian Bapak Kepala BNPB terkait update Karotla dilanjutkan dengan Bapak Kapori terkait korporasi dalam dan luar negeri."
+  },
+  {
+   "t": 50.0,
+   "d": 8.0,
+   "text": "Untuk yang pertama dipersilakan kepada Bapak Menko Perekonomian. Dipersilakan."
+  },
+  {
+   "t": 58.0,
+   "d": 24.0,
+   "text": "Pertama, ekonomi dan stabilitas sektorial ini ekonomi kita terus tumbuh di atas 5% yaitu 5,45% di mana ini lebih tinggi dari global rata-rata yang 3% dan kita di sini tertinggi di ee di G20 Pak Presiden, dan juga salah satu yang tertinggi di ASEAN."
+  },
+  {
+   "t": 82.0,
+   "d": 6.0,
+   "text": "Tingkat inflasi juga tetap dijaga di atas 2,5 plus minus 1% yaitu 3,28."
+  },
+  {
+   "t": 88.0,
+   "d": 19.0,
+   "text": "Memang kemarin agak penaikan sedikit walaupun dalam range tetapi ini hasil pertanian yaitu cabai merah dan cabai keriting. Dari segi ee manufaktur optimis PMI naik lagi di 52,4 diatur di atas 50. Kemudian surplus dagang kita juga positif 7,25."
+  },
+  {
+   "t": 107.0,
+   "d": 4.0,
+   "text": "Dari segi konsumen positif 118,1."
+  },
+  {
+   "t": 111.0,
+   "d": 12.0,
+   "text": "Pengangguran sejak 94 ini pengangguran terendah Pak Presiden 4,65% dan rasio gini juga terus membaik 0,368."
+  },
+  {
+   "t": 123.0,
+   "d": 12.0,
+   "text": "Defisit APBN dijaga 1,24% ini masih on track. BI Rate terima kasih Gubernur BI kemarin tidak menaikkan tingkat suku bunga di 5,75%."
+  },
+  {
+   "t": 135.0,
+   "d": 5.0,
+   "text": "Yield daripada surat berharga untuk 10 tahun di 7,21%."
+  },
+  {
+   "t": 140.0,
+   "d": 7.0,
+   "text": "Cadangan devisa masih cukup membiayai 6,5 bulan impor yaitu 146,3 bilun."
+  },
+  {
+   "t": 147.0,
+   "d": 8.0,
+   "text": "Kredit bank tumbuh double digit 13,65%. Dana dari masyarakat 10,94."
+  },
+  {
+   "t": 155.0,
+   "d": 10.0,
+   "text": "Modal perbankan juga solid Pak Presiden, 24,10 dan kredit macet ee 2,11% relatif kecil."
+  },
+  {
+   "t": 165.0,
+   "d": 16.0,
+   "text": "Selanjutnya ee kami langsung pada program yang Q4 stimulus. Ini sudah ada presiden bahwa program satu orang satu rekening ini dijalankan di kuartal keempat ee anggarannya R,28 triliun."
+  },
+  {
+   "t": 181.0,
+   "d": 9.0,
+   "text": "Kemudian bantuan pangan beras 10 kg per bulan untuk 33,24 juta KPM. Ini anggarannya 17,54."
+  },
+  {
+   "t": 190.0,
+   "d": 8.0,
+   "text": "Kemudian bantuan subsidi upah Rp300.000 untuk 3 bulan ee sekaligus nanti di NovemberDesember."
+  },
+  {
+   "t": 198.0,
+   "d": 5.0,
+   "text": "Nah, ini diberikan kepada 13,3 juta pekerja anggarannya 11,97."
+  },
+  {
+   "t": 203.0,
+   "d": 20.0,
+   "text": "Kemudian stimulus NATAR ini sudah disepakati diskon 30% daripada tiket, kemudian 30% juga untuk ee kapal. Kemudian jasa kepelabuhan juga ee diberikan ee spesial harga dari ASDP."
+  },
+  {
+   "t": 223.0,
+   "d": 7.0,
+   "text": "Kemudian juga PPN ditanggung pemerintah untuk perjalanan udara di dalam negeri."
+  },
+  {
+   "t": 230.0,
+   "d": 34.0,
+   "text": "Jadi ee ini program yang ee sebetulnya program yang ini sudah disetujui ee di bulan pertengahan tahun ini efeknya kepada 6,6 juta dan biayanya sekitar 883,4 miliar. Nah, kemudian direktif Bapak Presiden untuk program tahun depan yang diharapkan ini bisa dimulai di jauh di bulan Januari yaitu magang nasional dilanjutkan 150.000 peserta. Kemudian juga vokasi nasional ini juga dilanjutkan untuk 300.000 peserta. Kemudian PPH ditanggung ee"
+  },
+  {
+   "t": 264.0,
+   "d": 27.0,
+   "text": "pemerintah untuk pekerja dengan gaji maksimal R10 juta. Itu juga untuk seluruh sektor. Kemudian evaluasi mengenai peningkatan batas PTKP yang sekarang 54 juta tentu ee mempertimbangkan inflasi dan upah ee minimum. Kemudian PPN ditanggung pemerintah juga dilanjutkan untuk rumah di atas 2 miliar dan maksimum 5 miliar."
+  },
+  {
+   "t": 291.0,
+   "d": 31.0,
+   "text": "relaksasi iuran dari jaminan kehilangan kerja dan jaminan ee kematian. Kemudian tambahan ee manfaat jaminan ee kerja dan KPR bersubsidi dan MBT plus untuk sektor ee perhiasan perubahan daripada standar yang sementara ini bebas emas 99,959% ini seetulnya standar industrinya seharusnya 99,9%. Demikian Bapak Presiden mohon arahan."
+  },
+  {
+   "t": 322.0,
+   "d": 11.0,
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Terima kasih Bapak Menko Perekonomian."
+  },
+  {
+   "t": 333.0,
+   "d": 9.0,
+   "text": "Selanjutnya dipersilakan kepada Ketua Otoritas Jasa Keuangan Ibu Friderika. Dipersilakan."
+  },
+  {
+   "t": 342.0,
+   "d": 3.0,
+   "text": "Konsen kita saat ini adalah pasar modal."
+  },
+  {
+   "t": 345.0,
+   "d": 32.0,
+   "text": "Sejak Januari 2026 ini kita melakukan reformasi integritas di pasar modal Indonesia. Kami ee meningkatkan bagaimana transparansi, likuiditas, kemudian eh enforcement dan juga kita menguatkan sinergitas ee di antara lembaga. Laporan emiten kita mencatatkan pertumbuhan yang sangat baik. Sebetulnya di Q2 2026. Kalau kita melihat di Q2 2026 bahwa perusahaan tercatat ini secara pendapatan meningkat 15,9%"
+  },
+  {
+   "t": 377.0,
+   "d": 24.0,
+   "text": "dan net profitnya juga tumbuh. Jadi dari total 962 emiten yang tercatat di pasar modul Indonesia, 74%-nya adalah mencatatkan laba. Saya ingin menunjukkan kepada Bapak, Ibu semua bahwa fundamental ekonomi dan juga fundamental perusahaan-perusahaan yang tercatat di pasar modal Indonesia adalah sangat kuat. Kemudian yang berikutnya, apa yang terjadi tanggal 16 Oktober kemarin?"
+  },
+  {
+   "t": 401.0,
+   "d": 31.0,
+   "text": "Bagaimana kami melakukan asesmen terhadap apa yang terjadi di pasar saham kita? Bapak, Ibu yang saya hormati, kita tadi Bapak Presiden di ee arahan sempat menyebut nama MSCI. MSCI itu adalah global index provider menjadi acuan para global eh fund eh para manajer investasi dunia. ketika dia mau masuk ke suatu negara, maka dia akan melihat eh global index provider ini sebagai acuan. Tidak hanya MSI tapi ada Foodsi Russel, ada Bloomberg index dan sebagainya. Nah,"
+  },
+  {
+   "t": 432.0,
+   "d": 12.0,
+   "text": "kami melihat Bapak dan Ibu untuk MS ini next slide itu adalah di report mereka di bulan Juni 2026 ini menindaklanjuti apa yang terjadi di Januari 206."
+  },
+  {
+   "t": 444.0,
+   "d": 27.0,
+   "text": "Mereka mengatakan bahwa apabila dirasa nanti di November itu adalah perbaikan yang dilakukan oleh market kita itu tidak cukup, maka mereka akan mengeluarkan consultation di bulan November. Namun demikian eh mereka mengeluarkan announcement dari New York bahwa MSCI itu kemudian memberikan catatan ancaman kepada Indonesia untuk bisa turun tidak hanya kepada frontier market tetapi kepada stand alone market."
+  },
+  {
+   "t": 471.0,
+   "d": 30.0,
+   "text": "Apa itu sebenarnya yang dimaksud dengan emerging kemudian eh frontier dan stand alone? Next page. Kita melihat secara umum review mereka sendiri bulan Juni mengatakan bahwa Indonesia 16 dari 18 indikator dibandingkan dengan negara-negara emerging market kita sangat positif. Di halaman berikutnya ini adalah penilaian benchmark aturan terkait dengan freeat disclosure kepemilikan dan high share holid concentration. Kalau kita melihat di sini Indonesia dibandingkan dengan"
+  },
+  {
+   "t": 501.0,
+   "d": 30.0,
+   "text": "negara-negara lain terkait dengan ketentuan untuk initial public offering yang 15 sampai 25% kemudian disclosure Bapak dan Ibu kita bisa melihat kita ini 1% sudah kita buka sementara market lain tuh di atas 5%. Kemudian untuk klasifikasi dan tipe investor kita sudah punya 39 tipe klasifikasi investor yang ini sangat granular dibandingkan dengan negara lain yang bahkan tidak ada rinciannya dan sebagainya. Dan ini adalah hal-hal yang sudah kita ee ee"
+  },
+  {
+   "t": 531.0,
+   "d": 26.0,
+   "text": "lakukan terkait dengan konsern MSCI dan langkah yang sudah kita lakukan. Ada satu hal yang mungkin menjadi catatan yang kita juga objektif menerima adalah melalui enforcement yang dipandang belum cukup keras. Jumat kemarin Bapak Presiden izin kami melaporkan bahwa kami telah melakukan sanksi mungkin terbesar dalam sejarah pasar Mul Indonesia. kita untuk pihak terkait yang melakukan coordinated trading, kita memberikan sanksi sebesar Rp1,5 triliun dan juga"
+  },
+  {
+   "t": 557.0,
+   "d": 31.0,
+   "text": "ada dua lagi perusahaan yang kita ee tengarai melakukan praktik-praktik manipulasi di pasar. Kita lakukan dengan koordinasi yang sangat erat dengan KSSK, Kementerian Koordinator dan juga Danantara. Alhamdulillah 2 hari ini market kita sudah rebound. Ini kekuatan domestik Bapak karena asing masih net dalam 2 hari terakhir sebesar Rp3,3 triliun dan kemarin itu masih R1 triliun. Tapi ini kekuatan domestik yang melakukan buyback dan investor rytil kita yang juga luar biasa gitu, Bapak."
+  },
+  {
+   "t": 588.0,
+   "d": 24.0,
+   "text": "Dan tentunya terima kasih kepada Danantara atasaran Bapak juga ini juga sangat luar biasa membantu pemulihan pasar kita. ke depan Bapak kami akan cermati, kami akan lakukan terus perbaikan-perbaikan yang ada supaya market kita semakin kredibel, semakin liquid, semakin transparan, dan bisa menjadi rumah untuk investasi masyarakat kita ke depan. terkait dengan ee bagaimana Indonesia menjadi reference"
+  },
+  {
+   "t": 612.0,
+   "d": 17.0,
+   "text": "price untuk komunitas bursa mineral dan komunitas strategis. Insyaallah nanti sesuai dengan undang-undang juga akan mulai beroperasi di awal tahun Januari ini karena 1 Januari libur insyaallah 4 Januari 2026. Dem."
+  },
+  {
+   "t": 629.0,
+   "d": 14.0,
+   "text": "Terima kasih Ibu Ketua OJK. Selanjutnya dipersilakan Menteri Investasi merangkap Kepala Darantara dipersilakan menjelaskan mengenai investasi. kemudian perampingan BUMN serta perkembangan danantara tersendiri. Dipersilakan."
+  },
+  {
+   "t": 643.0,
+   "d": 31.0,
+   "text": "Terima kas mohon maaf. Terima kasih Bapak Presiden, Bapak Wakil Presiden, dan Bapak-bapak, Ibu-ibu yang saya hormati. capaian realisasi investasi 2 tahun kabinet merah putih di bawah Bapak perintahan Bapak Presiden eh ingin saya laporkan sedikit dari triwulan ke4 2024 mulai bulan Oktober 2024 sampai dengan ee sampai dengan September 2026. Jadi total investasi yang sudah masuk sebesar hampir 4.000 triliun Bapak Presiden atau"
+  },
+  {
+   "t": 674.0,
+   "d": 48.0,
+   "text": "3.923,2 triliun. Memang ini adalah lompatan yang sangat signifikan karena memang kalau kita lihat dalam 5 tahun terakhir targetnya adalah 13.032,8 triliun ee berbanding 10 tahun terakhir itu adalah 9, 9.100 triliun dan penyerapan tenaga kerjanya mencapai 5.485.94 944 orang dan kontribusi Jawa luar jawanya memang luar Jawa adalah 51,8% atau 2.31 31 triliun dan Jawa 48,2% atau R892,2 triliun dan investasi dalam negerinya 50,9% atau 1998,"
+  },
+  {
+   "t": 722.0,
+   "d": 32.0,
+   "text": "triliun dan penambahan modal asing adalah 24,5 triliun. Jadi ini adalah selama 2 tahun persis Bapak Presiden dari ee apa ee 2 tahun kabinet merah putih di bawah pimpinan Bapak Presiden dan Bapak Wakil Presiden. dan antara Bapak streamlining yang kami jalankan dalam rangka meningkatkan efisiensi, meningkatkan produktivitas dan juga mengoptimalisasi aset ee saat ini sudah mencapai 364 perusahaan yang yang sudah kita lakukan"
+  },
+  {
+   "t": 754.0,
+   "d": 15.0,
+   "text": "streamlining atau penutupan dan angka ini akan terakselerasi sampai dengan bulan Desember sehingga target kami untuk bisa melakukan streamlining insyaallah mencapai 700 perusahaan itu bisa terwujud di akhir bulan Desember."
+  },
+  {
+   "t": 769.0,
+   "d": 16.0,
+   "text": "Bapak Presiden dan juga dari segi pertumbuhan apa ee pertumbuhan ee ee profitabilitas juga meningkat ee cukup signifikan Bapak sehingga pada target mungkin di akhir tahun ini bisa mencapai 334 triliun."
+  },
+  {
+   "t": 785.0,
+   "d": 7.0,
+   "text": "Mungkin itu laporan dari saya Bapak Presiden, Bapak Wakil Presiden. Terima kasih. Terima kasih, Bapak Menteri Investasi."
+  },
+  {
+   "t": 792.0,
+   "d": 10.0,
+   "text": "Selanjutnya dipersilakan Bapak Menko Hilirisasi Transisi Energi merangkap Menteri FDM terkait kesiapan energi terutama minyak dan listrik."
+  },
+  {
+   "t": 802.0,
+   "d": 3.0,
+   "text": "Dipersilakan Bapak Balil Dalia."
+  },
+  {
+   "t": 805.0,
+   "d": 24.0,
+   "text": "SL Bapak Presiden dan Bapak Ibu semua kami laporkan Bapak Presiden terkait dengan kondisi BBM kita untuk ee cadangan BBM kita sekarang untuk pertid Bapak Presiden di angka 16 sampai 18 hari ini yang subsidi RON 90. Kalau yang lainnya semua di atas standar minimum nasional."
+  },
+  {
+   "t": 829.0,
+   "d": 32.0,
+   "text": "Izin kami laporkan di kejadian kemarin di Bali itu sesungguhnya yang terjadi adalah bukan persoalan cadangan nasionalnya, tetapi distribusi dari Jawa Timur ke Bali itu yang terlambat kapal kurang lebih sekitar harusnya masuk. 30 pagi masuknya malam. Alhamdulillah hari ini di Bali Bapak Presiden stoknya sudah mencapai 12 hari. Cuman memang kita harus antisipasi di beberapa wilayah yang akibat daripada cuaca ini pendangkalan sungai. Di Kalimantan itu"
+  },
+  {
+   "t": 861.0,
+   "d": 10.0,
+   "text": "terjadi pendangkalan sungai. Di Papua juga di Asmat itu terjadi pendangkalan sungai yang tadinya bisa lewat laut sekarang kita harus putar lewat darat."
+  },
+  {
+   "t": 871.0,
+   "d": 6.0,
+   "text": "Jadi secara umum untuk stok nasional kita insyaallah aman di atas rata-rata."
+  },
+  {
+   "t": 877.0,
+   "d": 5.0,
+   "text": "LPG juga di atas rata-rata 13 hari. Yang lainnya di atas 20 hari."
+  },
+  {
+   "t": 882.0,
+   "d": 12.0,
+   "text": "Perpres sudah ditandatangani untuk pengadaan seluruh krut BBM dan LPG akan dilakukan langsung secara G2G lewat BLU."
+  },
+  {
+   "t": 894.0,
+   "d": 10.0,
+   "text": "Untuk solar, Pak Presiden, alhamdulillah sudah tidak kita lakukan impor. Jadi clear khususnya solar M48, solar CN51 kita masih sebagian melakukan impor."
+  },
+  {
+   "t": 904.0,
+   "d": 20.0,
+   "text": "Kami laporkan bahwa untuk kondisi listrik di Batam yang kemarin sempat error sudah bisa tertangani. Dan sekarang program kita untuk listrik adalah bagaimana memastikan di semua wilayah tidak ada lagi pemadaman bergilir. Yang berikut slide menyangkut dengan ekspor batuara."
+  },
+  {
+   "t": 924.0,
+   "d": 15.0,
+   "text": "Kami laporkan bahwa dalam APBN pendapatan target APBN kita di PNBP itu target PNBP kita di 2026 sebesar Rp13,63 triliun."
+  },
+  {
+   "t": 939.0,
+   "d": 14.0,
+   "text": "Realisasi sampai dengan Januari Oktober sekarang, Bapak Presiden, kami laporkan sudah mencapai Rp17,74 triliun atau sudah mencapai 98,42%."
+  },
+  {
+   "t": 953.0,
+   "d": 13.0,
+   "text": "dibandingkan dengan volume dengan periode yang sama di 2025 itu baru mencapai 94,98 triliun tapi sekarang sudah mencapai 127 triliun."
+  },
+  {
+   "t": 966.0,
+   "d": 14.0,
+   "text": "Target kita nanti untuk membantu Menteri Keuangan dalam rangka menambal defisit terhadap subsidi BBM itu kita akan mencapai 165 triliun, Pak Menteri Keuangan. Jadi surplus sekitar 30 lebih."
+  },
+  {
+   "t": 980.0,
+   "d": 2.0,
+   "text": "Ini untuk PNBP."
+  },
+  {
+   "t": 982.0,
+   "d": 8.0,
+   "text": "Januari sampai September 2025 ekspor batu bara kita itu R74 juta."
+  },
+  {
+   "t": 990.0,
+   "d": 11.0,
+   "text": "Sementara pada periode yang sama di Januari sampai September itu menjadi 343 juta. Terjadi koreksi kurang lebih sekitar 30 juta. Tetapi pendapatan negara kita naik."
+  },
+  {
+   "t": 1001.0,
+   "d": 11.0,
+   "text": "Jadi barang produksi turun pendapatan naik. Nah ekspor kita Januari September di 2025 itu 21 miliar."
+  },
+  {
+   "t": 1012.0,
+   "d": 6.0,
+   "text": "Nah, Januari sampai September sekarang sudah mencapai 23,71 hampir 24 miliar."
+  },
+  {
+   "t": 1018.0,
+   "d": 6.0,
+   "text": "Di satu siswa Presiden kami laporkan juga terkait dengan ekspor Nikel."
+  },
+  {
+   "t": 1024.0,
+   "d": 16.0,
+   "text": "Nah, sampai dengan Agustus itu kita sudah melakukan ekspor kurang lebih sekitar 24,5 miliar US Do. Kalau Januari Agustus 2025 itu 21,2."
+  },
+  {
+   "t": 1040.0,
+   "d": 7.0,
+   "text": "Demikian terima kasih. Terima kasih Bapak Menko Bahlil."
+  },
+  {
+   "t": 1047.0,
+   "d": 8.0,
+   "text": "Selanjutnya dipersilakan Bapak Menteri Pertanian terkait kesiapan dan cadangan pangan. Dipersilakan Bapak Amran Sulaiman."
+  },
+  {
+   "t": 1055.0,
+   "d": 15.0,
+   "text": "Cadangan stok beras Indonesia NTP 48 ee NTP nilai tukar petani karena kebijakan Bapak Presiden ee harga pupuk turun 20%."
+  },
+  {
+   "t": 1070.0,
+   "d": 6.0,
+   "text": "[tepuk tangan] dinikmati 115 juta petani Indonesia."
+  },
+  {
+   "t": 1076.0,
+   "d": 28.0,
+   "text": "Kemudian ee HPP harga gaba beras naik sehingga sekarang NTP-nya nilai tukar petani 131 dan ini tertinggi sejak 92 bahkan sejak merdeka. Stok kita. Izin Bapak Presiden sejak 92 sampai dengan tahun 2026 pernah dulu mencapai 2,6 juta tahun '84."
+  },
+  {
+   "t": 1104.0,
+   "d": 19.0,
+   "text": "Itu suasembada pada saat ee Pak Harto kepemimpinan beliau. Kemudian sekarang 2026 stok kita pada bulan Oktober itu 4,5 6 juta ton tertinggi sepanjang sejarah."
+  },
+  {
+   "t": 1123.0,
+   "d": 4.0,
+   "text": "Bahkan pernah mencapai 53 ee 7 juta ton."
+  },
+  {
+   "t": 1127.0,
+   "d": 28.0,
+   "text": "Kekuatan pangan kita sekarang standing crop dengan di HOREK. Standing crop artinya eh standing corop artinya tanaman yang ada di lapangan sekarang itu jumlah estimasi produksi 10 juta ton. Kemudian hore, hotel, rumah tangga dan seterusnya itu ada 10 juta ton. Di gudang 4,5 juta ton."
+  },
+  {
+   "t": 1155.0,
+   "d": 17.0,
+   "text": "Total 25 juta ton. Kebutuhan per bulan itu 2,5 juta ton. Artinya apa? Kalau 25 juta ton bagi ee 2,5 itu 10 bulan sampai bulan Juli tahun depan stok kita aman."
+  },
+  {
+   "t": 1172.0,
+   "d": 11.0,
+   "text": "[tepuk tangan] Izin Bapak Presiden. Berikutnya PDB sektor pertanian naik 5,74%."
+  },
+  {
+   "t": 1183.0,
+   "d": 8.0,
+   "text": "Ini juga tertinggi sejak1 sampaiat 2025."
+  },
+  {
+   "t": 1191.0,
+   "d": 4.0,
+   "text": "Berikutnya ekspor kita."
+  },
+  {
+   "t": 1195.0,
+   "d": 27.0,
+   "text": "Ekspor. Ekspor sektor pertanian naik 166 juta ekspor kita impor turun 41 eh sori 166 triliun. Impor kita turun 41 triliun totalnya 208 triliun. Itu nilai tambah yang didapatkan petani karena harga pupuk turun 20%. HPP dinaikkan oleh Bapak Presiden."
+  },
+  {
+   "t": 1222.0,
+   "d": 7.0,
+   "text": "Kemudian ada lahan yang akan digarap 2 juta hektar ke depan. Lahan mineral."
+  },
+  {
+   "t": 1229.0,
+   "d": 8.0,
+   "text": "Kalau ini kita garap, kita mampu menyediakan pangan untuk penduduk kita 500 juta orang ke depan."
+  },
+  {
+   "t": 1237.0,
+   "d": 9.0,
+   "text": "Tahap pertama kami rapat tadi dengan TNI dan Pak Menhan untuk menggarak seluas 500.000 hektar."
+  },
+  {
+   "t": 1246.0,
+   "d": 14.0,
+   "text": "Lahannya ini 2 juta hektar. kembali yang tadi 2 juta hektar kami sudah siapkan petanya untuk mencukupi pangan kita untuk penduduk 500 juta orang ke depan."
+  },
+  {
+   "t": 1260.0,
+   "d": 8.0,
+   "text": "Kemudian ini tambahan ya tambahan Bapak Presiden ini lahan rawa mineral yang kita ee sudah garap."
+  },
+  {
+   "t": 1268.0,
+   "d": 8.0,
+   "text": "Kemudian yang kita maaf ini untuk ee untuk beras."
+  },
+  {
+   "t": 1276.0,
+   "d": 2.0,
+   "text": "Beras. Izin Bapak Presiden. Beras, jagung."
+  },
+  {
+   "t": 1278.0,
+   "d": 6.0,
+   "text": "Beras, jagung, kedelek. Apa saja tanaman pangan yang kita butuhkan itu kita tanam."
+  },
+  {
+   "t": 1284.0,
+   "d": 15.0,
+   "text": "Jadi yang mana ee minus ini yang kita tanam nanti ke depan. Tapi lahannya kita siapkan. Kami tadi dengan Pak Menhan, TNI kami sudah rapat ee tadi siang menentukan 500.000 hektar pertama."
+  },
+  {
+   "t": 1299.0,
+   "d": 10.0,
+   "text": "Insyaallah bukan untuk etanol ya. Etanol lain Bapak Presiden. Lain lagi. Lain lagi Bapak Presiden. Oke, terima kasih."
+  },
+  {
+   "t": 1309.0,
+   "d": 7.0,
+   "text": "Jadi ini adalah 2 juta yang akan kita tambah tambahan lahan kita. Lahannya ya."
+  },
+  {
+   "t": 1316.0,
+   "d": 5.0,
+   "text": "Lahan ee mineral. Lahan rawa mineral. Ini rawa ya."
+  },
+  {
+   "t": 1321.0,
+   "d": 3.0,
+   "text": "Rawa mineral Bapak Presiden bukan gambut. Iya."
+  },
+  {
+   "t": 1324.0,
+   "d": 10.0,
+   "text": "Ini ada ee 10 juta hektar seluruh Indonesia kami garap sementara 500.000 1000 hektar bersama TNI."
+  },
+  {
+   "t": 1334.0,
+   "d": 11.0,
+   "text": "Jadi kita tidak akan buka ee kita tidak akan buka hutan primer untuk produksi pangan kita selanjutnya."
+  },
+  {
+   "t": 1345.0,
+   "d": 6.0,
+   "text": "Kita tidak perlu buka hutan primer. Siap. Tidak, Bapak Presiden? Bagus."
+  },
+  {
+   "t": 1351.0,
+   "d": 13.0,
+   "text": "Kemudian ada yang mengatakan bahwa ada elnino. Tahun 2025 juga. Elnino, Bapak Presiden 202. eh sori Lanina 2026 itu Elnino kekeringan."
+  },
+  {
+   "t": 1364.0,
+   "d": 4.0,
+   "text": "Kemudian tahun depan adalah Lanina basa."
+  },
+  {
+   "t": 1368.0,
+   "d": 20.0,
+   "text": "Izin Bapak Presiden. Ee kemarin ada inflasi sedikit kami diskusi dengan Pak Medagri. Pak Tito. Terima kasih Pak. Tiap hari Senin ada rapat inflasi. Ada nomali. Izin Bapak Presiden. Kami ee sudah diskusi dengan Pak Kapori dengan kabar es krim."
+  },
+  {
+   "t": 1388.0,
+   "d": 12.0,
+   "text": "itu ada anomali untuk ayam telur sekarang surplus kita ekspor Bapak Presiden tapi harga di tingkat peternak itu jatuh 21.000."
+  },
+  {
+   "t": 1400.0,
+   "d": 35.0,
+   "text": "Kami sudah minta tolong ke ee Kepala BGN Pak Sudaryono sudah minta tolong untuk konsumsi telur biasanya satu kali per minggu jadi dua kali tiga kali. Tapi ternyata produksi karena melimpahu Bapak Presiden masih turun. Tetapi harga di konsumen itu naik melebihi harga eciciran tertinggi. Jadi ada anomali izin Bapak Presiden kami sudah kirim surat ke Pak Kapori agar semua yang bermain-main ditindak. Seperti kemarin beras premium fortifikasi dijual"
+  },
+  {
+   "t": 1435.0,
+   "d": 21.0,
+   "text": "Rp56.000. Tetapi kami periksa di lab IPB ternyata harusnya harga Rp3.000 tapi dijual Rp56.000 per kilo. Dan ini tidak benar, Bapak Presiden. Insyaallah dalam waktu dekat kami selesaikan. Terima kasih, Bapak Presiden. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 1456.0,
+   "d": 19.0,
+   "text": "Oke, selanjutnya dipersilakan Bapak Kepala Badan Nasional Penanggulangan Bencana untuk memaparkan khususnya terkait KHUDla dan apa-apa yang sudah dikerjakan dan akan dikerjakan. Dipersilakan kepada Letnan Jenderal TNI Kristomai."
+  },
+  {
+   "t": 1475.0,
+   "d": 30.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh. Jadi mohon izin Bapak Presiden melaporkan bahwa sejak kami dilantik pada tanggal 15 Oktober 2026, kami terus mengambil langkah memperbaiki metode penghitungan dengan menggunakan citra satelit. Bapak, hari ini ee terjadi penurunan di beberapa tempat dari lima provinsi prioritas awalnya enam provinsi, Bapak. Tapi di Riau sudah kami keluarkan karena di Riau tidak ada pemunculan titik api lagi. Sehingga ada lima provinsi prioritas hari ini Kalimantan Tengah, Sumatera Selatan,"
+  },
+  {
+   "t": 1505.0,
+   "d": 34.0,
+   "text": "Kalimantan Selatan, Jambi, dan Kalimantan Barat. Dan untuk yang mengalami pengaikan Bapak itu adalah di ee Provinsi Sumatera Selatan dan Jambi hari ini Pak. Tapi tidak terlalu signifikan. Kami terus berkoordinasi Pak, dengan BMKG. kami kemarin beserta ee kepala staf angkatan darat, ketua BMKG ee BPGMN kami mengunjungi Sumsel dan ee Kalteng Kalsel untuk melihat langsung bagaimana ee operasi penanganan Kahrula ini di lapangan Bapak. Dan tentunya ee kami mengucapkan terima"
+  },
+  {
+   "t": 1539.0,
+   "d": 31.0,
+   "text": "kasih Bapak atas dedikasi prajurit TNI PORI, Manggal Akni, ee masyarakat Budai api yang ada di lapangan. Mereka terus bekerja keras, Bapak. Dan laporan dari beberapa pemerintah daerah sangat mendukung adanya batuan teritorial pembangunan Bapak sangat terbantu karena merekalah yang bisa kita kerahkan secara cepat dan militan, Pak, di lapangan. Kemudian untuk semai dry a sendiri Pak, dari tanggal 20 Oktober itu ada 3.900 kg yang sudah kita semai dengan menggunakan 5 sorti."
+  },
+  {
+   "t": 1570.0,
+   "d": 16.0,
+   "text": "Kemudian di Sumatera Selatan ada 800 kg 1 sorti, Bapak. sehingga ada penurunan ee PM PM2 2,5 turun. Kemudian jarak pandang atau visibility dari di Palembang saya bisa dari 700 m menjadi ee 7.000 m, Bapak."
+  },
+  {
+   "t": 1586.0,
+   "d": 10.0,
+   "text": "Ee dipersilakan Bapak Kapori untuk menjelaskan kepada Bapak Presiden terkait data korporasi dalam dan di luar negeri. Dipersilakan Bapak Kapori."
+  },
+  {
+   "t": 1596.0,
+   "d": 8.0,
+   "text": "Kami izin menyampaikan terkait dengan penegakan hukum Karutla yang kami laksanakan. Yang pertama terkait dengan perorangan."
+  },
+  {
+   "t": 1604.0,
+   "d": 13.0,
+   "text": "Ada 13 Polda yang melakukan penegakan hukum, 286 LP. Luas yang terbakar adalah 5.856 hektar, jumlah tersangka 243."
+  },
+  {
+   "t": 1617.0,
+   "d": 40.0,
+   "text": "Dalam lidik 32, henti lik 9, proses sidik lanjut 189, selesai 56 perkara. Ini untuk kasus perorangan, Pak. Kemudian untuk korporasi berdasarkan laporan terakhir tanggal 20 Oktober kemarin pukul 18.00 penegakan hukum yang kami lakukan 10 Polda dan 1 Direktorat Tip itu ada 100 Lp luas yang terbakar itu 29.534,99 jumlah tersangka 13 henti didik 6 proses penyidikan 94 kasus."
+  },
+  {
+   "t": 1657.0,
+   "d": 12.0,
+   "text": "Untuk progresnya ya tadi seperti yang saya sampaikan ada 100 Lp 6 dalam lidik 94 penyidikan, 13 tersangka telah ditetapkan sebagai korporasi."
+  },
+  {
+   "t": 1669.0,
+   "d": 23.0,
+   "text": "Kemudian dari 94 kasus yang naik sidik 23 Lp ini direkomendasikan untuk pencabutan izin dan 11 telah ditetapkan sebagai tersangka, 12 belum ditetapkan ditetapkan sebagai tersangka. Ah, untuk 71 laporan polisi, proses penyidikan belum direkomendasikan untuk cabut izin."
+  },
+  {
+   "t": 1692.0,
+   "d": 13.0,
+   "text": "Namun dua di antaranya sudah naik tersangka, 69 belum naik. Ini adalah korporasi yang terafiliasi PMA atau asing. Ada 22 korporasi, Bapak."
+  },
+  {
+   "t": 1705.0,
+   "d": 7.0,
+   "text": "11 korporasi ini dari 23 korporasi yang telah ditetapkan sebagai tersangka."
+  },
+  {
+   "t": 1712.0,
+   "d": 21.0,
+   "text": "Nah, 11 korporasi ini kalau dari konsesi itu 209.933 hektar yang terbakar 11.105,39 hektar. Yang 12 korporasi belum tersangka luas konsesinya 166.756 hektar yang terbakar 8.849."
+  },
+  {
+   "t": 1733.0,
+   "d": 14.0,
+   "text": "Nah, dari 11 korporasi ini 8 korporasi itu di Kalimantan Barat, Bapak. dua koperasi di wilayah Kalimantan Tengah, satu koperasi di Kalimantan Selatan."
+  },
+  {
+   "t": 1747.0,
+   "d": 15.0,
+   "text": "Baik ee Saudara-saudara, demikian kita terima beberapa paparan ya. Ee saya ingin saya kira memberi sedikit rangkuman ya."
+  },
+  {
+   "t": 1762.0,
+   "d": 11.0,
+   "text": "Ee yang pertama kita perlu selalu memelihara arah arah kompas kita ya."
+  },
+  {
+   "t": 1773.0,
+   "d": 5.0,
+   "text": "Kita menuju tujuan kita apa?"
+  },
+  {
+   "t": 1778.0,
+   "d": 44.0,
+   "text": "Tujuan kita saya tegaskan adalah agar kita bisa mengkonsolidasikan ya mengamankan, menjaga, mengelola, dan meyakinkan bahwa kekayaan kita berada di tangan bangsa Indonesia. yang selama ini kita mengetahui bahwa sebagian yang cukup besar dari kekayaan kita tidak tinggal di Indonesia."
+  },
+  {
+   "t": 1822.0,
+   "d": 12.0,
+   "text": "Dan sampai sekarang pun usaha-usaha penyelundupan, usaha-usaha transfer pricing, under invoicing berjalan."
+  },
+  {
+   "t": 1834.0,
+   "d": 24.0,
+   "text": "kita terpaksa mengambil tindakan untuk survival kita sebagai bangsa. Ya, untuk itu saya telah melaporkan pada tanggal 20 Mei yang lalu, hari kebangkitan nasional."
+  },
+  {
+   "t": 1858.0,
+   "d": 52.0,
+   "text": "Langkah kita yang saya laporkan ke MPR di mana secara vokal seluruh fraksi menyetujui adalah bahwa kita akan menerapkan ee ekspor satu pintu melalui DSI yaitu suatu perusahaan BUMN. ya, PT dan Antara Sumber Daya Indonesia yang akan monitor dan menyalurkan ekspor kita dan ini kita harapkan bisa ee mengamankan kebocoran-kebocoran yang terjadi selama ini, Saudara-saudara."
+  },
+  {
+   "t": 1910.0,
+   "d": 8.0,
+   "text": "Apa yang kita lakukan ini untuk keselamatan kita? Swas pada pangan ya ee danantara."
+  },
+  {
+   "t": 1918.0,
+   "d": 2.0,
+   "text": "ekspor satu pintu."
+  },
+  {
+   "t": 1920.0,
+   "d": 8.0,
+   "text": "Begitu banyak keberhasilan kita ya. Jadi saya minta jangan kita minder lagi. Jangan kita we are on the right track."
+  },
+  {
+   "t": 1928.0,
+   "d": 10.0,
+   "text": "MBG strategis, MBG vital, banyak kekurangan dalam pelaksanaan MBG."
+  },
+  {
+   "t": 1938.0,
+   "d": 44.0,
+   "text": "Kita akui 13 orang sudah ditelepon tersangka, 203 orang diperiksa Kejaksaan Agung. sudah diberhentikan dengan tidak hormat 353 orang dalam proses diperiksa Inspektorat BGN 2600 orang. Jangan ragu-ragu ya pecat, bersihkan sampai bersih ya. MBG ini strategis dan sangat penting untuk masa depan anak-anak kita. Kemudian koperasi Desa Merah Putih hari ini dilaporkan sudah operasional ee 10.000 ya 10.000 sudah operasional juga."
+  },
+  {
+   "t": 1982.0,
+   "d": 14.0,
+   "text": "Langkah-langkah lain ya ee perumahan kita juga bedah rumah kita paling besar saya kira 440.000 rumah ya."
+  },
+  {
+   "t": 1996.0,
+   "d": 7.0,
+   "text": "Renovasi sekolah juga dalam 2 tahun kita sudah hampir 90.000 sekolah yang kita renovasi."
+  },
+  {
+   "t": 2003.0,
+   "d": 22.0,
+   "text": "Ya, saya terima kasih Satgas Jembatan ya, ketuanya Pak Maruli terima kasih berhasil sekarang sudah mendekati 5.000 jembatan ya dalam 1 tahun bekerja 5.000 jembatan."
+  },
+  {
+   "t": 2025.0,
+   "d": 7.0,
+   "text": "kita sudah hubungkan 12.000 desa lebih."
+  },
+  {
+   "t": 2032.0,
+   "d": 16.0,
+   "text": "Kita punya rencana besar ya, tapi kita sudah anggarkan 66 rumah sakit daerah ya, 22 sudah jadi saudara-saudara."
+  },
+  {
+   "t": 2048.0,
+   "d": 20.0,
+   "text": "Sekarang juga kita bikin ee mal mall pelayanan publik juga dengan ee dengan digitalisasi pemerintahan dan pelayanan khususnya untuk penyaluran ee bantuan sosial."
+  },
+  {
+   "t": 2068.0,
+   "d": 15.0,
+   "text": "Saudara-saudara, yang tadi kita alami di Bali ee keterlambatan pasokan minyak ya bukan karena stoknya enggak ada, karena distribusinya."
+  },
+  {
+   "t": 2083.0,
+   "d": 29.0,
+   "text": "Jadi saya perintahkan Menteri ISDM, saya perintahkan Dirut Pertamina ya, saya perintahkan danantara, kemudian ee BUMNBMN yang ada itu untuk meriksa lagi kontrak-kontrak itu. Saya kira itu dari saya, Saudara-saudara ya. Sekali lagi terima kasih atas ee bantuan saudara-saudara, dukungan saudara kepada saya."
+  },
+  {
+   "t": 2112.0,
+   "d": 10.0,
+   "text": "Terima kasih ee tokoh-tokoh nasional yang bergabung di Dewan Pertimbangan Presiden. Ini kehormatan bagi saya ya."
+  },
+  {
+   "t": 2122.0,
+   "d": 21.0,
+   "text": "[tepuk tangan] Begitu banyak tokoh-tokoh nasional. Terima kasih ada Pak Harel Tanjung, ada Pak Wiranto, ada Pak Hatar Jasa yang enggak kalah rambut putihnya ya."
+  },
+  {
+   "t": 2143.0,
+   "d": 9.0,
+   "text": "Orang lihat ini aja apalagi di TV dilihat ke sana itu ngeri."
+  },
+  {
+   "t": 2152.0,
+   "d": 3.0,
+   "text": "Itulah namanya apa?"
+  },
+  {
+   "t": 2155.0,
+   "d": 6.0,
+   "text": "Persatuan nasional ya. Persatuan nasional."
+  },
+  {
+   "t": 2161.0,
+   "d": 10.0,
+   "text": "Jadi pekerjaan banyak, tantangan banyak, kelemahan kita banyak. Kerja sama kita atasi bersama ya. We have to work as a team. Wasalamualaikum warahmatullahi wabarakatuh. [tepuk tangan]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

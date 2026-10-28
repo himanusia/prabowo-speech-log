@@ -1,0 +1,108 @@
+{
+ "id": "2026-10-20-sekilas-cuplikan-hasil-nyata-2-tahun-pemerintahan",
+ "video_id": "J8Tb-7yW2RY",
+ "date": "2026-10-20",
+ "date_precise": false,
+ "title": "Sekilas Cuplikan Hasil Nyata 2 Tahun Pemerintahan",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=J8Tb-7yW2RY",
+ "duration_s": 149,
+ "duration_hms": "2:29",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 22,
+ "token_count": 219,
+ "unique_word_count": 126,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "J8Tb-7yW2RY",
+   "url": "https://www.youtube.com/watch?v=J8Tb-7yW2RY",
+   "title": "Sekilas Cuplikan Hasil Nyata 2 Tahun Pemerintahan",
+   "channel": "Sekretariat Presiden",
+   "canonical": true,
+   "published": "2026-10-20"
+  }
+ ],
+ "topics": {
+  "pangan": 2,
+  "ekonomi": 0,
+  "pendidikan": 1,
+  "kesehatan_dan_gizi": 6,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 22
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 10.0,
+   "text": "Selamat malam saudara sekalian. Setelah saya dilantik, saya akan umumkan kabinet pemerintah Republik Indonesia. Periode tahun 2024-2029."
+  },
+  {
+   "t": 10.0,
+   "d": 3.0,
+   "text": "Kami beri nama kabinet Merah Putih."
+  },
+  {
+   "t": 13.0,
+   "d": 4.0,
+   "text": "Pemirsa, Presiden Prabu [musik] melantik kabinet merah putih."
+  },
+  {
+   "t": 17.0,
+   "d": 7.0,
+   "text": "Kabinet merah putih mulai mengembang tugas dan amanah."
+  },
+  {
+   "t": 24.0,
+   "d": 6.0,
+   "text": "setia bangsa dan Indonesia."
+  },
+  {
+   "t": 30.0,
+   "d": 18.0,
+   "text": "Hanya apabila kita bisa menjaga dan mengelola dengan baik semua kekayaan kita, kita bisa memberi pelayanan kepada rakyat kita, seharusnya kita bangga [musik] bahwa ternyata dalam kurun waktu ini telah banyak masalah dan kesulitan yang telah kita selesaikan."
+  },
+  {
+   "t": 48.0,
+   "d": 6.0,
+   "text": "Kita berjuang agar rakyat kita [musik] sejahtera."
+  },
+  {
+   "t": 54.0,
+   "d": 31.0,
+   "text": "Kita berjuang agar petani, nelayan, buruh seluruh rakyat Indonesia sejahtera, agar mereka hidup dengan baik, agar anak-anak bisa sekolah dengan baik, agar mereka punya rumah yang layak, agar mereka kalau sakit bisa ke rumah sakit, bisa ke poliklinik. Itu tujuan kita merdeka. Bangsa Indonesia harus mandiri. [musik] Bangsa Indonesia harus berdiri di atas kaki kita sendiri. Sekarang kita buktikan kepada rakyat bahwa [musik]"
+  },
+  {
+   "t": 85.0,
+   "d": 7.0,
+   "text": "kita bertekad untuk mengamankan dan menyelamatkan kekayaan negara."
+  },
+  {
+   "t": 92.0,
+   "d": 12.0,
+   "text": "[musik] Ini adalah bukti bahwa Indonesia mampu memanfaatkan kekayaan alamnya sendiri untuk kepentingan rakyatnya sendiri."
+  },
+  {
+   "t": 104.0,
+   "d": 33.0,
+   "text": "[musik] [musik] [musik] [musik] Saudara-saudara, kita [musik] siap bekerja keras menuju Indonesia Mas menjadi bangsa yang kuat. Merdeka, berdaulat, [musik] adil, dan makmur."
+  },
+  {
+   "t": 137.0,
+   "d": 12.0,
+   "text": "Cita-cita kita lebih besar. Pekerjaan kita masih banyak, perjalanan perjuangan kita masih jauh. Tapi kita sudah melihat apa yang kita sudah sampai. [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu",
+  "date_source": "tanggal unggah YouTube (dikonversi ke WIB), bukan tanggal acara",
+  "date_from_upload": true
+ }
+}

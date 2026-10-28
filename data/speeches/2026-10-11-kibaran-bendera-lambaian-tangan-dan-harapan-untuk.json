@@ -1,0 +1,60 @@
+{
+ "id": "2026-10-11-kibaran-bendera-lambaian-tangan-dan-harapan-untuk",
+ "video_id": "K0jaZRNWLVg",
+ "date": "2026-10-11",
+ "date_precise": true,
+ "title": "Kibaran Bendera, Lambaian Tangan, dan Harapan untuk Indonesia–Mesir, 11 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=K0jaZRNWLVg",
+ "duration_s": 79,
+ "duration_hms": "1:19",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "token_count": 130,
+ "unique_word_count": 80,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "K0jaZRNWLVg",
+   "url": "https://www.youtube.com/watch?v=K0jaZRNWLVg",
+   "title": "Kibaran Bendera, Lambaian Tangan, dan Harapan untuk Indonesia–Mesir, 11 Oktober 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 54.0,
+   "text": "[musik] Tadi tuh kita di sini ee lihat [bernyanyi] jalan-jalan aja. Ternyata ada acara di sini. Tadi di sini tuh kita sudah lihat ee apa iring-iringan Buddha yang Iya. penyambutan ee Presiden Mesir yang luar biasa seru, keren, tapi juga tetap tertib nih. Kita berharap semoga kerja sama ee antara negara Indonesia dan Mesir ini semakin membaik, semakin erat gitu dan ee kita sebagai masyarakat ee mendapatkan impact dari kerja sama ini. Seperti itu sih."
+  },
+  {
+   "t": 56.0,
+   "d": 13.0,
+   "text": "Happy banget sih. Terus juga aku juga melihat kayak pertama kali untuk menyambut presiden dari luar negeri, terus juga prepare benar-benar prepare kayak dari payung terus juga bendera seperti ini gitu."
+  },
+  {
+   "t": 69.0,
+   "d": 12.0,
+   "text": "Selamat datang untuk Bapak Presiden e dari Mesir ke Indonesia dan juga semoga kerja samanya bisa berjalan dengan baik dan juga menguntungkan bagi kedua negara."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

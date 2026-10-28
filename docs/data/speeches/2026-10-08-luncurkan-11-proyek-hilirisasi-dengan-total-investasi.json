@@ -1,0 +1,67 @@
+{
+ "id": "2026-10-08-luncurkan-11-proyek-hilirisasi-dengan-total-investasi",
+ "video_id": "eEQE07C0vyc",
+ "date": "2026-10-08",
+ "date_precise": false,
+ "title": "Presiden Prabowo Luncurkan 11 Proyek Hilirisasi dengan Total Investasi Rp180 Triliun di Maluku Utara",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=eEQE07C0vyc",
+ "duration_s": 100,
+ "duration_hms": "1:40",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 111,
+ "unique_word_count": 79,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "eEQE07C0vyc",
+   "url": "https://www.youtube.com/watch?v=eEQE07C0vyc",
+   "title": "Presiden Prabowo Luncurkan 11 Proyek Hilirisasi dengan Total Investasi Rp180 Triliun di Maluku Utara",
+   "channel": "Sekretariat Presiden",
+   "canonical": true,
+   "published": "2026-10-08"
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 3,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 3
+ },
+ "policy_signals": {
+  "Hilirisasi": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 5.0,
+   "d": 51.0,
+   "text": "[musik] [bersorak] [musik] [musik] Hari ini kita akan meluncurkan ekspor Perdana Baterai Kendaraan Listrik. Kita juga akan meluncurkan 11 proyek hilirisasi terdiri dari komersialisasi empat proyek industri dan dimulai pembangunan tujuh proyek industri baru di kawasan ini, kawasan [musik] Indonesia Wabe Bay Industrial Park."
+  },
+  {
+   "t": 56.0,
+   "d": 46.0,
+   "text": "[musik] Tuhan yang maha kuasa telah memberi kepada kita anugerah kekayaan alam yang sangat bernilai [musik] dan sangat besar. Tapi kekayaan alam tersebut harus mampu kita kelola dengan [musik] baik sehingga dapat memberi manfaat kesejahteraan dan kemakmuran bagi rakyat dan bangsa kita. Harapan saya untuk PTIWIP semoga semakin maju, semakin bisa membuka lowongan pekerjaan bagi banyak orang dan apa ee semua yang disampaikan itu bisa [musik] terealisasikan."
+  },
+  {
+   "t": 102.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu",
+  "date_source": "tanggal unggah YouTube (dikonversi ke WIB), bukan tanggal acara",
+  "date_from_upload": true
+ }
+}

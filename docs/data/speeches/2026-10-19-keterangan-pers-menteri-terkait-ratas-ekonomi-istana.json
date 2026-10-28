@@ -1,0 +1,215 @@
+{
+ "id": "2026-10-19-keterangan-pers-menteri-terkait-ratas-ekonomi-istana",
+ "video_id": "Y1md9X1DZ4s",
+ "date": "2026-10-19",
+ "date_precise": true,
+ "title": "Keterangan Pers Menteri Terkait Ratas Ekonomi, Istana Merdeka, 19 oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Y1md9X1DZ4s",
+ "duration_s": 670,
+ "duration_hms": "11:10",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 85,
+ "token_count": 1257,
+ "unique_word_count": 418,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Y1md9X1DZ4s",
+   "url": "https://www.youtube.com/watch?v=Y1md9X1DZ4s",
+   "title": "Keterangan Pers Menteri Terkait Ratas Ekonomi, Istana Merdeka, 19 oktober 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 3,
+  "ekonomi": 28,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 2,
+  "tata_kelola": 10,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 13
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 2.0,
+   "d": 3.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 5.0,
+   "d": 12.0,
+   "text": "Salam sejahtera bagi kita semua. Ee saya didampingi oleh Pak Menteri Keuangan, Pak, kemudian Gubernur BI dan ee Kepala UJK."
+  },
+  {
+   "t": 17.0,
+   "d": 37.0,
+   "text": "Hari ini Bapak Presiden memanggil ee tim ekonomi terutama untuk meng-update ee situasi perekonomian ee menjelang ee akhir tahun ini dan juga sekaligus ee dalam rangka 2 tahun ee pemerintahan Pak Presiden, Pak Prabowo. Tadi kami sampaikan bahwa kondisi makroekonomi relatif ee stabil. ee juga disampaikan terkait dengan ee kondisi pertumbuhan ekonomi, kemudian juga terkait dengan target inflasi dan juga ee terkait"
+  },
+  {
+   "t": 54.0,
+   "d": 42.0,
+   "text": "dengan situasi makro dari perbankan, kemudian juga dari ee investasi yang sudah berjalan dan dari berbagai ee angka-angka makro itu. Kemudian juga ee kami membahas bagaimana caranya untuk meningkatkan ekspor. Jadi ekspor kita akan pac dari seluruh sektor termasuk manufaktur sehingga ee berbagai ee hal yang bisa mengurangi ekspor nanti akan kita ee di bottle necking yang sudah diberikan penugasan oleh Bapak Presiden melalui Satgas. Selanjutnya saya minta"
+  },
+  {
+   "t": 96.0,
+   "d": 10.0,
+   "text": "Pak ee Menteri Keuangan terkait dengan ee APBN yang juga tadi disampaikan kepada Bapak Presiden. Silakan, Pak Menteri."
+  },
+  {
+   "t": 106.0,
+   "d": 4.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh, Teman-teman media semua."
+  },
+  {
+   "t": 110.0,
+   "d": 38.0,
+   "text": "Jadi ee satu aspek dari kondisi ekonomi makro yang kita sampaikan adalah bagaimana APBN terus bekerja melihat kondisi di dunia global impactnya kepada perekonomian domestik dan bagaimana penanganan ee pelaksanaan APBN untuk sisa tahun 2026 ini. Kita lihat sebenarnya kondisi ekonomi dunia itu cukup volatile. Jadi cukup banyak ee Amerika Serikat punya gerakan yang ee masih meningkat terus termasuk inflasinya masih tinggi. Lalu kemudian"
+  },
+  {
+   "t": 148.0,
+   "d": 11.0,
+   "text": "Eropa juga mengalami kondisi yang kita tahu cukup ee volatile. Nah, ini semuanya memiliki dampak di global yang pasti akan terkena dampak ke Indonesia."
+  },
+  {
+   "t": 159.0,
+   "d": 10.0,
+   "text": "Kami melaporkan pada Bapak Presiden kondisi ekonomi makro masih sangat resilien. Kondisi transaksi di masyarakat juga masih sangat resilien."
+  },
+  {
+   "t": 169.0,
+   "d": 33.0,
+   "text": "Jadi, kita akan terus menjaga stabilitas ke depan dan tetap mendorong pertumbuhan. Khusus tentang ekonomi ee pelaksanaan APBN. Tadi kami melaporkan kepada Bapak Presiden bahwa di dalam sisa ee tahun 2026 ini Kementerian Keuangan akan terus melakukan penelaahan dan efisiensi anggaran. Nah, teman-teman media telah mengetahui juga bahwa langkah-langkah yang dilakukan oleh Kementerian Keuangan adalah bagian dari langkah-langkah akhir tahun yang memang secara rutin dilakukan untuk"
+  },
+  {
+   "t": 202.0,
+   "d": 20.0,
+   "text": "memastikan anggaran itu terlaksana namun tetap dilaksanakan dengan efisien. Namun kalau kita mengatakan efisiensi anggaran itu bukan berarti bahwa menyetop anggaran. Karena untuk Q4 ini APBN akan belanja 1000 sekitar R1.300 triliun."
+  },
+  {
+   "t": 222.0,
+   "d": 32.0,
+   "text": "lebih tinggi dibandingkan Q4 tahun 2025 yaitu Rp1.200 triliun. Jadi belanja APBN akan terus lebih tinggi dibandingkan Q4 tahun lalu dan ini akan mendorong kegiatan ekonomi di masyarakat termasuk ee layanan publik pemerintah dan juga perlindungan sosial ee bantuan pangan sudah mulai bergulir untuk ee Q4 dan ini akan mendorong kegiatan konsumsi dan mendorong ee apa namanya kegiatan ee government expenditure di"
+  },
+  {
+   "t": 254.0,
+   "d": 20.0,
+   "text": "perekonomian kita. Dan tentu nanti bersama Bank Indonesia kita akan terus bekerja sama memastikan stabilitas dari ee sektor keuangan Indonesia dan kita akan terus mendukung teman-teman di OJK yang melakukan pengawasan mikroprudensial. Mungkin dari saya itu dulu ke Bu Gubernur. Silakan Gubernur."
+  },
+  {
+   "t": 274.0,
+   "d": 2.0,
+   "text": "Baik, terima kasih Bapak Menko."
+  },
+  {
+   "t": 276.0,
+   "d": 4.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 280.0,
+   "d": 13.0,
+   "text": "dari Bank Indonesia. Tadi kami melaporkan terkait dengan stabilitas ee karena tetap Bank Indonesia ee fokus kita adalah menjaga stabilitas rupiah baik dalam kaitannya dengan inflasi maupun kaitannya dengan nilai tukar."
+  },
+  {
+   "t": 293.0,
+   "d": 31.0,
+   "text": "Untuk inflasi kami juga laporkan untuk inflasi inti yang menjadi ee ee ee menggambarkan pergerakan dari perekonomian masih cukup terkendali di bulan September masih 2,8%. Memang kami juga laporkan yang memang perlu menjadi perhatian adalah inflasi di pangan ya, volatile food inflation yang memang mencapai 5%. Nah, ini ee tadi kami laporkan dan juga eh koordinasi nanti dengan Kementerian Pertanian bagaimana kita bisa menjaga untuk volatile food inflation agar masuk di dalam koridor"
+  },
+  {
+   "t": 324.0,
+   "d": 13.0,
+   "text": "Bank Indonesia 3 2,5 1%. Kemudian untuk rupiah ee kita tahu juga global eh situasinya juga ee tadi disampaikan oleh Pak Menk bahwa volatilitas masih tinggi."
+  },
+  {
+   "t": 337.0,
+   "d": 31.0,
+   "text": "Mereka menghadapi situasi higher for longer juga inflasi yang jauh di atas target mereka eh dan fat fund rate diperkakan naik namun probability di bulan Oktober akan menjadi lebih kecil saat ini. Ee sehingga itu yang tentu menjadi ee salah satu tantangan buat rupiah kita. ee tapi so far 2 hari ini rupiah ee bisa kami ee apa kami jaga stabilitasnya ee sehingga ee terjadi memang pelambatan ee sedikit perlambatan dan itu juga sesuai dengan beberapa"
+  },
+  {
+   "t": 368.0,
+   "d": 31.0,
+   "text": "negara di emerging market. Intinya Bank Indonesia akan selalu tetap berjaga di pasar. kami diminta juga oleh Bapak Presiden untuk ee terus melihat upayakan ee kebijakan-kebijakan yang kami miliki ee apakah itu bentuknya intervensi di spot DNDF dan NDF ataupun juga dalam bentuk insentif ee biaya hedging yang juga sudah kami berikan sejak bulan ee akhir bulan Juni yang lalu dan hingga saat ini sudah bisa mendatangkan inflow baik dalam bentuk efek swap ataupun"
+  },
+  {
+   "t": 399.0,
+   "d": 10.0,
+   "text": "dalam bentuk DNDF senilai sekitar 8 miliar sampai 9 miliar US Do. Jadi ee itu yang disampaikan ee dari kami tadi kami menyampaikan dua hal seperti itu."
+  },
+  {
+   "t": 409.0,
+   "d": 9.0,
+   "text": "Terima kasih. Mungkin wasalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Terima kasih Pak Menko."
+  },
+  {
+   "t": 418.0,
+   "d": 13.0,
+   "text": "Rekan-rekan media yang saya hormati, selamat malam. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera untuk kita semua. Tadi kami ee ee melaporkan kepada Bapak Presiden terkait perkembangan terkini."
+  },
+  {
+   "t": 431.0,
+   "d": 32.0,
+   "text": "Tentu saja terkait dengan stabilitas sektor keuangan tadi menyambung apa yang disampaikan oleh Pak Menko, Pak Menku, dan juga Ibu Gubernur Bank Indonesia terkhusus terkait dengan ee pasar modal Indonesia. kami juga sampaikan kepada beliau dan ee kami menyampaikan akan meneruskan reformasi pasar modal terkait dengan peningkatan transparansi, kemudian likuiditas, dan tadi pesan khusus juga terpenting adalah bagaimana kita terus menegakkan ee enforcement ya kepada mereka-mereka yang telah"
+  },
+  {
+   "t": 463.0,
+   "d": 33.0,
+   "text": "melakukan pelanggaran ee terkait dengan coordinated trading dan lain sebagainya sehingga ee kita ee akan semakin terus menegakkan ee kredibilitas, integritas, dan juga terus melakukan enforcement terhadap ee berbagai pelanggaran yang telah terjadi. Dan ini harapannya menimbulkan efek jera sehingga ke depan pasar modal Indonesia semakin likuid, semakin transparan dan menjadi tempat investasi yang baik ee untuk investor baik itu foreign maupun domestik."
+  },
+  {
+   "t": 496.0,
+   "d": 35.0,
+   "text": "Apalagi sekarang ee dengan domestik investor retail kita sudah mencapai Rp32.700. SEID yang tentu saja ini juga ee menaruh harapan besar ee untuk pasar model Indonesia ke depan bisa menjadi tempat investasi untuk ee jangka panjang yang baik untuk masyarakat Indonesia. Dari saya itu. Terima kasih. Ada pertanyaan? Silakan, Pak."
+  },
+  {
+   "t": 531.0,
+   "d": 43.0,
+   "text": "adaamaan ya. Jadi untuk ee [berdehem] pelaksana ee menyelesaikan akhir tahun 2026 yang namanya mencari efisiensi di anggaran itu adalah pekerjaan yang kontinue. Jadi anggarannya sudah ditetapkan, tetapi dalam pelaksanaan anggarannya kita selalu mencari ruang untuk membuat apakah memang perlu anggaran sedemikian besar. Karena itu poinnya adalah bukan tentang potong anggarannya, tetapi bagaimana mencapai output dari ee yang"
+  },
+  {
+   "t": 574.0,
+   "d": 16.0,
+   "text": "direncanakan dengan pelaksanaan yang efisien. Saya ambil contoh MBG, makan bergizi gratis. Kita sekarang sudah mengalami perubahan pengelolaan yang luar biasa dan itu dilakukan oleh manajemen badan gizi nasional yang baru."
+  },
+  {
+   "t": 590.0,
+   "d": 31.0,
+   "text": "Sehingga dengan manajemen yang baru, punya pengelolaan yang baru, kemudian efisiensinya terbentuk. Nah, dengan demikian nanti kita pahami bahwa akan ada ee pelaksanaan anggaran yang lebih efisien. Ini yang terus kita cari. Namun seluruh anggaran, seluruh kegiatan prioritas dari pemerintah dan Bapak Presiden terus kita jalankan. Karena itu kita yakin bahwa belanjanya akan mencapai R.300 triliun di Q4 dan ini lebih tinggi dari tahun lalu. Dengan belanja pemerintah yang lebih tinggi"
+  },
+  {
+   "t": 621.0,
+   "d": 27.0,
+   "text": "berarti dorongan dari belanja pemerintah terhadap pertumbuhan ekonomi juga akan ada efek positif. Ini yang kita cari sehingga yang namanya APBN itu menumbuhkan ekonomi. Namun APBN juga melindungi masyarakat dan dilaksanakan dengan cara yang efisien sehingga dia kredibel. Saya rasa itu. Makasih ya. Ada lagi? Silakan."
+  },
+  {
+   "t": 648.0,
+   "d": 19.0,
+   "text": "Ee defisit APBN tetap di angka yang kita laporkan kepada badan anggaran di bulan Juli yang lalu yaitu sekitar 2,85% dari PDB. Itu outlook yang kita jaga dan menjadi ee eh working agenda kita ee sampai dengan akhir tahun. Ya, makasih."
+  },
+  {
+   "t": 667.0,
+   "d": 2.0,
+   "text": "Baik, terima kasih. Selamat malam."
+  },
+  {
+   "t": 669.0,
+   "d": 3.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam. Makasih ya. Makasih ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain"
+}

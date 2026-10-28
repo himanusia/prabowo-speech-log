@@ -1,0 +1,76 @@
+{
+ "id": "K0jaZRNWLVg",
+ "url": "https://www.youtube.com/watch?v=K0jaZRNWLVg",
+ "title": "Kibaran Bendera, Lambaian Tangan, dan Harapan untuk Indonesia–Mesir, 11 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "en",
+   "name": "English (auto-generated)",
+   "generated": true
+  },
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 9,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 2.0,
+   "duration": 22
+  },
+  {
+   "text": "Tadi tuh kita di sini ee lihat [bernyanyi] jalan-jalan aja. Ternyata ada acara di sini. Tadi di sini tuh kita sudah lihat ee apa iring-iringan Buddha",
+   "start": 24.0,
+   "duration": 10
+  },
+  {
+   "text": "yang Iya. penyambutan ee Presiden Mesir yang luar biasa seru, keren, tapi juga tetap tertib nih. Kita berharap semoga",
+   "start": 34.0,
+   "duration": 8
+  },
+  {
+   "text": "kerja sama ee antara negara Indonesia dan Mesir ini semakin membaik, semakin erat gitu dan ee kita sebagai masyarakat",
+   "start": 42.0,
+   "duration": 10
+  },
+  {
+   "text": "ee mendapatkan impact dari kerja sama ini. Seperti itu sih.",
+   "start": 52.0,
+   "duration": 4
+  },
+  {
+   "text": "Happy banget sih. Terus juga aku juga melihat kayak pertama kali untuk menyambut presiden dari luar negeri, terus juga prepare benar-benar prepare",
+   "start": 56.0,
+   "duration": 9
+  },
+  {
+   "text": "kayak dari payung terus juga bendera seperti ini gitu.",
+   "start": 65.0,
+   "duration": 4
+  },
+  {
+   "text": "Selamat datang untuk Bapak Presiden e dari Mesir ke Indonesia dan juga semoga kerja samanya bisa berjalan dengan baik",
+   "start": 69.0,
+   "duration": 9
+  },
+  {
+   "text": "dan juga menguntungkan bagi kedua negara.",
+   "start": 78.0,
+   "duration": 3
+  }
+ ]
+}

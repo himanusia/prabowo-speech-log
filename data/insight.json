@@ -1,57 +1,57 @@
 {
  "korpus": {
-  "pidato": 376,
-  "token": 392572,
+  "pidato": 386,
+  "token": 400381,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
   "korupsi": {
-   "kemunculan": 384,
-   "pidato": 87,
-   "persen_pidato": 23.1,
-   "per_1000": 0.98
+   "kemunculan": 386,
+   "pidato": 88,
+   "persen_pidato": 22.8,
+   "per_1000": 0.96
   },
   "mbg": {
-   "kemunculan": 331,
-   "pidato": 79,
-   "persen_pidato": 21.0,
+   "kemunculan": 335,
+   "pidato": 80,
+   "persen_pidato": 20.7,
    "per_1000": 0.84
   },
   "bencana": {
-   "kemunculan": 164,
-   "pidato": 57,
-   "persen_pidato": 15.2,
-   "per_1000": 0.42
+   "kemunculan": 166,
+   "pidato": 58,
+   "persen_pidato": 15.0,
+   "per_1000": 0.41
   },
   "danantara": {
-   "kemunculan": 114,
-   "pidato": 39,
+   "kemunculan": 119,
+   "pidato": 40,
    "persen_pidato": 10.4,
-   "per_1000": 0.29
+   "per_1000": 0.3
   },
   "swasembada": {
    "kemunculan": 120,
    "pidato": 35,
-   "persen_pidato": 9.3,
-   "per_1000": 0.31
+   "persen_pidato": 9.1,
+   "per_1000": 0.3
   },
   "hilirisasi": {
-   "kemunculan": 100,
-   "pidato": 44,
-   "persen_pidato": 11.7,
-   "per_1000": 0.25
+   "kemunculan": 111,
+   "pidato": 47,
+   "persen_pidato": 12.2,
+   "per_1000": 0.28
   },
   "sawit": {
-   "kemunculan": 158,
-   "pidato": 36,
+   "kemunculan": 160,
+   "pidato": 37,
    "persen_pidato": 9.6,
    "per_1000": 0.4
   },
   "karhutla": {
-   "kemunculan": 9,
-   "pidato": 5,
-   "persen_pidato": 1.3,
-   "per_1000": 0.02
+   "kemunculan": 11,
+   "pidato": 7,
+   "persen_pidato": 1.8,
+   "per_1000": 0.03
   }
  },
  "seri_kuartal": [
@@ -346,46 +346,46 @@
  ],
  "ganti": {
   "saya": {
-   "kemunculan": 10125,
-   "pidato": 345,
-   "persen_pidato": 91.8,
-   "per_1000": 25.79
+   "kemunculan": 10214,
+   "pidato": 354,
+   "persen_pidato": 91.7,
+   "per_1000": 25.51
   },
   "kita": {
-   "kemunculan": 14632,
-   "pidato": 343,
-   "persen_pidato": 91.2,
-   "per_1000": 37.27
+   "kemunculan": 14831,
+   "pidato": 353,
+   "persen_pidato": 91.5,
+   "per_1000": 37.04
   },
   "kami": {
-   "kemunculan": 1271,
-   "pidato": 191,
-   "persen_pidato": 50.8,
-   "per_1000": 3.24
+   "kemunculan": 1343,
+   "pidato": 198,
+   "persen_pidato": 51.3,
+   "per_1000": 3.35
   },
   "rakyat": {
-   "kemunculan": 2292,
-   "pidato": 201,
-   "persen_pidato": 53.5,
-   "per_1000": 5.84
+   "kemunculan": 2303,
+   "pidato": 206,
+   "persen_pidato": 53.4,
+   "per_1000": 5.75
   },
   "pemerintah": {
-   "kemunculan": 724,
-   "pidato": 173,
-   "persen_pidato": 46.0,
+   "kemunculan": 738,
+   "pidato": 177,
+   "persen_pidato": 45.9,
    "per_1000": 1.84
   },
   "bangsa": {
-   "kemunculan": 2093,
-   "pidato": 193,
+   "kemunculan": 2102,
+   "pidato": 198,
    "persen_pidato": 51.3,
-   "per_1000": 5.33
+   "per_1000": 5.25
   },
   "negara": {
-   "kemunculan": 2143,
-   "pidato": 231,
-   "persen_pidato": 61.4,
-   "per_1000": 5.46
+   "kemunculan": 2157,
+   "pidato": 238,
+   "persen_pidato": 61.7,
+   "per_1000": 5.39
   }
  },
  "seri_ganti": [
@@ -435,14 +435,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 43,
-   "saya": 22.92,
-   "kita": 38.92,
-   "kami": 1.87,
-   "rakyat": 7.19,
-   "pemerintah": 1.74,
-   "bangsa": 5.64,
-   "negara": 5.42
+   "n": 53,
+   "saya": 21.79,
+   "kita": 37.6,
+   "kami": 2.59,
+   "rakyat": 6.62,
+   "pemerintah": 1.75,
+   "bangsa": 5.2,
+   "negara": 5.06
   }
  ],
  "seri_bahasa": [
@@ -498,10 +498,10 @@
  "panjang": [
   {
    "jenis": "kenegaraan",
-   "n": 19,
+   "n": 21,
    "median": 3452,
    "maks": 7900,
-   "rata2": 3437
+   "rata2": 3279
   },
   {
    "jenis": "partai / ormas",
@@ -512,10 +512,10 @@
   },
   {
    "jenis": "sidang kabinet",
-   "n": 16,
+   "n": 17,
    "median": 543,
    "maks": 6710,
-   "rata2": 1894
+   "rata2": 1867
   },
   {
    "jenis": "hari besar",
@@ -526,10 +526,10 @@
   },
   {
    "jenis": "lain-lain",
-   "n": 234,
+   "n": 240,
    "median": 309,
    "maks": 9836,
-   "rata2": 802
+   "rata2": 793
   },
   {
    "jenis": "peresmian",
@@ -540,10 +540,10 @@
   },
   {
    "jenis": "luar negeri",
-   "n": 27,
-   "median": 238,
+   "n": 28,
+   "median": 255,
    "maks": 2412,
-   "rata2": 361
+   "rata2": 357
   }
  ]
 }

@@ -1,0 +1,84 @@
+{
+ "id": "2026-10-11-highlight-kunjungan-kenegaraan-arab-mesir-abdel-fattah",
+ "video_id": "W-VYNxBNQmA",
+ "date": "2026-10-11",
+ "date_precise": false,
+ "title": "[HIGHLIGHT] Kunjungan Kenegaraan Presiden Republik Arab Mesir Abdel Fattah El-Sisi",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=W-VYNxBNQmA",
+ "duration_s": 119,
+ "duration_hms": "1:59",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 15,
+ "token_count": 104,
+ "unique_word_count": 75,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "W-VYNxBNQmA",
+   "url": "https://www.youtube.com/watch?v=W-VYNxBNQmA",
+   "title": "[HIGHLIGHT] Kunjungan Kenegaraan Presiden Republik Arab Mesir Abdel Fattah El-Sisi",
+   "channel": "Sekretariat Presiden",
+   "canonical": true,
+   "published": "2026-10-11"
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 9
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 4.0,
+   "d": 28.0,
+   "text": "Indonesian air welcome [musik] pertama saya sekali lagi ingin menyampaikan selamat datang kepada yang mulia Presiden Abdul Fattah LC beserta seluruh delegasi di Jakarta, [musik] Indonesia."
+  },
+  {
+   "t": 32.0,
+   "d": 11.0,
+   "text": "Ini adalah kehormatan besar bagi saya dapat menerima kunjungan kenegaraan."
+  },
+  {
+   "t": 43.0,
+   "d": 16.0,
+   "text": "Dalam kunjungan saya ke Mesir pada bulan April 2025, kami telah sepakat untuk meningkatkan hubungan kedua negara, Indonesia dan Mesir ke tingkat kemitraan strategis."
+  },
+  {
+   "t": 59.0,
+   "d": 10.0,
+   "text": "Kunjungan Yang Mulia kali ini menjadi tonggak penting dalam memperkuat kemitraan tersebut."
+  },
+  {
+   "t": 69.0,
+   "d": 24.0,
+   "text": "Saya yakin hubungan Indonesia Mesir akan terus tumbuh semakin erat dan semakin memberi manfaat yang nyata bagi kedua [musik] bangsa dan rakyat kita."
+  },
+  {
+   "t": 93.0,
+   "d": 18.0,
+   "text": "[musik] [musik] Thank you for Indonesia."
+  },
+  {
+   "t": 111.0,
+   "d": 12.0,
+   "text": "stronn Indonesia Egypt [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan",
+  "date_source": "tanggal unggah YouTube (dikonversi ke WIB), bukan tanggal acara",
+  "date_from_upload": true
+ },
+ "title_tampilan": "Kunjungan Kenegaraan Presiden Republik Arab Mesir Abdel Fattah El-Sisi"
+}
