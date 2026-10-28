@@ -401,12 +401,16 @@ def build_coverage(speeches: list[dict]) -> dict:
 
     per_month: dict[str, dict] = defaultdict(lambda: {"events": 0, "tokens": 0})
     for s in speeches:
+        if not s.get("date"):
+            # tanggal kosong: tidak ditempatkan di bulan mana pun
+            continue
         m = s["date"][:7]
         per_month[m]["events"] += 1
         per_month[m]["tokens"] += s["token_count"] or 0
 
-    if speeches:
-        start = _month_range(speeches[0]["date"][:7], speeches[-1]["date"][:7])
+    bertanggal = [s for s in speeches if s.get("date")]
+    if bertanggal:
+        start = _month_range(bertanggal[0]["date"][:7], bertanggal[-1]["date"][:7])
     else:
         start = []
 
@@ -417,9 +421,9 @@ def build_coverage(speeches: list[dict]) -> dict:
         "covered": m in per_month,
     } for m in start]
 
-    per_year = Counter(s["date"][:4] for s in speeches)
+    per_year = Counter(s["date"][:4] for s in bertanggal)
     year_tokens = defaultdict(int)
-    for s in speeches:
+    for s in bertanggal:
         year_tokens[s["date"][:4]] += s["token_count"] or 0
 
     tier = Counter(s["source_tier"] for s in speeches)
@@ -428,8 +432,8 @@ def build_coverage(speeches: list[dict]) -> dict:
     gaps = [m["month"] for m in months if not m["covered"]]
 
     return {
-        "date_first": speeches[0]["date"] if speeches else None,
-        "date_last": speeches[-1]["date"] if speeches else None,
+        "date_first": bertanggal[0]["date"] if bertanggal else None,
+        "date_last": bertanggal[-1]["date"] if bertanggal else None,
         "span_days": _span_days(speeches),
         "months": months,
         "months_without_events": gaps,

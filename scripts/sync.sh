@@ -68,6 +68,11 @@ fi
 $PY scripts/import_panels.py >>"$LOG" 2>&1 \
   && say "panel masuk arsip" || say "import_panels gagal"
 
+# 3b. entri baru yang judulnya tidak memuat tanggal: ambil tanggal unggah
+# dari YouTube supaya id tidak jadi "None-..." dan build tetap jalan.
+$PY scripts/perbaiki_tanggal.py >>"$LOG" 2>&1 \
+  && say "tanggal entri dilengkapi" || say "perbaiki_tanggal gagal"
+
 # 4. transkrip resmi Sekretariat Kabinet
 if [ "${SYNC_SETKAB:-1}" = "1" ]; then
   $PY scripts/fetch_setkab.py >>"$LOG" 2>&1 \

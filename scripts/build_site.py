@@ -418,7 +418,9 @@ def _timeline(speeches):
     """Garis waktu: SETIAP pidato jadi satu tanda. Menggantikan daftar di beranda."""
     if not speeches:
         return ""
-    urut = sorted(speeches, key=lambda s: s["date"])
+    urut = sorted((s for s in speeches if s.get("date")), key=lambda s: s["date"])
+    if not urut:
+        return ""
     n = len(urut)
     W, H = 100.0, 100.0
     hi = max((s["token_count"] or 0) for s in urut) or 1
@@ -644,7 +646,8 @@ def render_index(speeches: list[dict], meta: dict, coverage: dict, home: dict,
                       "tokens": s["token_count"] or 0,
                       "words": s.get("unique_word_count"),
                       "uploads": s.get("upload_count"),
-                      "url": f"pidato/{s['id']}.html"} for s in speeches],
+                      "url": f"pidato/{s['id']}.html"} for s in speeches
+                     if s.get("date")],
         "years": [{"year": y["year"], "speeches": y["speeches"], "tokens": y["tokens"],
                    "kita": y.get("kita_per_1000"), "saya": y.get("saya_per_1000"),
                    "ratio": y.get("ratio")} for y in home.get("framing_per_year", [])],
@@ -1253,7 +1256,7 @@ def main() -> int:
 
     # indeks pencarian: satu string teks penuh per pidato
     search = {
-        s["id"]: (judul(s) + " " + s["channel"] + " " + s["date"] + " "
+        s["id"]: (judul(s) + " " + s["channel"] + " " + (s["date"] or "") + " "
                   + " ".join(p["text"] for p in s["transcript"]))[:400000]
         for s in speeches
     }

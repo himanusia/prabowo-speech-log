@@ -42,7 +42,10 @@ def load_speeches() -> list[dict]:
             # entri yang memang tidak punya transkrip tetap ada di database dan
             # muncul di daftar, tapi tidak boleh masuk hitungan kata: tokennya nol
             # dan bukan karena pidatonya kosong.
-            and not d.get("tanpa_transkrip")]
+            and not d.get("tanpa_transkrip")
+            # Entri tanpa tanggal tidak bisa masuk hitungan per tahun/cakupan.
+            # Dulu satu entri seperti ini mematikan seluruh build (date=None).
+            and d.get("date")]
 
 
 def text_of(s: dict) -> str:
