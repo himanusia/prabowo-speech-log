@@ -1,0 +1,118 @@
+{
+ "id": "2026-10-29-beri-bonus-kepada-atlet-peraih-medali-asian",
+ "video_id": "rfESt9TS2Hg",
+ "date": "2026-10-29",
+ "date_precise": false,
+ "title": "Presiden Prabowo Beri Bonus kepada Atlet Peraih Medali Asian Games dan Asian Para Games Aichi-Nagoya",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=rfESt9TS2Hg",
+ "duration_s": 180,
+ "duration_hms": "3:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 25,
+ "token_count": 236,
+ "unique_word_count": 138,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "rfESt9TS2Hg",
+   "url": "https://www.youtube.com/watch?v=rfESt9TS2Hg",
+   "title": "Presiden Prabowo Beri Bonus kepada Atlet Peraih Medali Asian Games dan Asian Para Games Aichi-Nagoya",
+   "channel": "Sekretariat Presiden",
+   "canonical": true,
+   "published": "2026-10-29"
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 14.0,
+   "d": 45.0,
+   "text": "[musik] Alhamdulillah di Asian Games dari target 4 medalimas kita berhasil meraih lima medalimas 11 perak 23 perunggu untuk totalnya nya 39 medali di Asian Paragames dari target 7 medali emas kita berhasil meraih 15 perak 37 perenggu total 73 medali saudara-saudara."
+  },
+  {
+   "t": 59.0,
+   "d": 15.0,
+   "text": "putra-putri terbaik bangsa, saudara telah berjuang keras untuk membela kehormatan bangsa. Untuk itu saya ucapkan terima kasih, Saudara-saudara."
+  },
+  {
+   "t": 74.0,
+   "d": 9.0,
+   "text": "Bonus bukan sekedar hadiah. Bonus adalah pengakuan, penghargaan atas jerih paya."
+  },
+  {
+   "t": 83.0,
+   "d": 4.0,
+   "text": "Saudara-saudara, terima kasih perjuangan kalian."
+  },
+  {
+   "t": 87.0,
+   "d": 5.0,
+   "text": "Terima kasih telah mengharumkan nama Indonesia."
+  },
+  {
+   "t": 92.0,
+   "d": 10.0,
+   "text": "Berjuang terus, berprestasi terus. Indonesia harus jadi bangsa yang menang. Merdeka!"
+  },
+  {
+   "t": 102.0,
+   "d": 4.0,
+   "text": "Merdeka! Merdeka! Merdeka!"
+  },
+  {
+   "t": 106.0,
+   "d": 6.0,
+   "text": "Suatu mimpi yang terwujud bagi saya apalagi bisa menyumbangkan medali emas."
+  },
+  {
+   "t": 112.0,
+   "d": 4.0,
+   "text": "ee suatu hal dan suatu momen yang tidak akan pernah saya lupakan sih."
+  },
+  {
+   "t": 116.0,
+   "d": 13.0,
+   "text": "Sangat luar biasa, Mbak. Karena ee di Jepang kemarin sebenarnya lawannya cukup berat, tapi karena izin Tuhan saya bisa bawa pulang medali untuk Asia kali ini."
+  },
+  {
+   "t": 129.0,
+   "d": 2.0,
+   "text": "Alhamdulillah ee saya sangat bersyukur."
+  },
+  {
+   "t": 131.0,
+   "d": 28.0,
+   "text": "Saya ucapkan terima kasih banyak untuk ee Pak Presiden ee Pak Onora, Pak SDM dan Ketua NPC kami. Ee terima kasih untuk apresiasi dan semoga kami bisa menambah prestasi di event-event selanjutnya. harapannya ke depannya pastinya ee generasi muda banyak ee bibit-bibit unggul lagi kemudian ee lebih bisa meraih prestasi di kanca internasional."
+  },
+  {
+   "t": 159.0,
+   "d": 32.0,
+   "text": "Pertama-pertama puji syukur yang pastinya ee sangat-sangat membanggakan tim ee bulu tangkis Indonesia bisa mendali emas di Beregu Putra dan juga di perorangan Gandap Putra. ee pastinya sangat membanggakan untuk ee kita semua dan ini kami persembahkan untuk Indonesia."
+  },
+  {
+   "t": 191.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu",
+  "date_source": "tanggal unggah YouTube (dikonversi ke WIB), bukan tanggal acara",
+  "date_from_upload": true
+ }
+}

@@ -10435,5 +10435,31 @@
    "pertahanan_dan_keamanan": 0,
    "nasional_dan_identitas": 1
   }
+ },
+ {
+  "id": "2026-10-29-beri-bonus-kepada-atlet-peraih-medali-asian",
+  "date": "2026-10-29",
+  "title": "Presiden Prabowo Beri Bonus kepada Atlet Peraih Medali Asian Games dan Asian Para Games Aichi-Nagoya",
+  "channel": "Sekretariat Presiden",
+  "video_id": "rfESt9TS2Hg",
+  "youtube_url": "https://www.youtube.com/watch?v=rfESt9TS2Hg",
+  "duration_s": 180,
+  "duration_hms": "3:00",
+  "token_count": 236,
+  "unique_word_count": 138,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 14,
+  "topics": {
+   "pangan": 0,
+   "ekonomi": 0,
+   "pendidikan": 0,
+   "kesehatan_dan_gizi": 0,
+   "tata_kelola": 0,
+   "pertahanan_dan_keamanan": 0,
+   "nasional_dan_identitas": 7
+  }
  }
 ]

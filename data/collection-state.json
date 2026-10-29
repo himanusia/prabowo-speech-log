@@ -1,14 +1,16 @@
 {
- "generated_at": "2026-10-28T20:35:57+07:00",
- "channel_total": 4927,
- "era_total": 943,
- "worklist_total": 286,
+ "generated_at": "2026-10-29T20:36:16+07:00",
+ "channel_total": 4928,
+ "era_total": 944,
+ "worklist_total": 287,
  "counts": {
+  "ok_belum_masuk_arsip": 1,
   "tanpa_track": 283,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
+   "ok_belum_masuk_arsip": 1,
    "tanpa_track": 167,
    "panel_kosong": 3
   },
@@ -23,7 +25,7 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 0,
+ "perlu_impor": 1,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
@@ -32,10 +34,18 @@
   "ok",
   "ok",
   "ok",
-  "ok",
-  "no_indonesian_track"
+  "no_indonesian_track",
+  "ok"
  ],
  "rows": [
+  {
+   "video_id": "rfESt9TS2Hg",
+   "title": "Presiden Prabowo Beri Bonus kepada Atlet Peraih Medali Asian Games dan Asian Para Games Aichi-Nagoya",
+   "kind": "ambigu",
+   "date": null,
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
   {
    "video_id": "8aoNyzTe2fY",
    "title": "Presiden Prabowo Terima Menlu Singapura Vivian Balakrishnan, Hambalang, 28 Oktober 2026",
