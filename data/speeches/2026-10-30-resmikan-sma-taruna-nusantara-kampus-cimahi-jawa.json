@@ -1,0 +1,728 @@
+{
+ "id": "2026-10-30-resmikan-sma-taruna-nusantara-kampus-cimahi-jawa",
+ "video_id": "Ps_VMC8_OZs",
+ "date": "2026-10-30",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan SMA Taruna Nusantara Kampus Cimahi, Jawa Barat, 30 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Ps_VMC8_OZs",
+ "duration_s": 1680,
+ "duration_hms": "28:00",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 220,
+ "token_count": 1855,
+ "unique_word_count": 637,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Ps_VMC8_OZs",
+   "url": "https://www.youtube.com/watch?v=Ps_VMC8_OZs",
+   "title": "Presiden Prabowo Resmikan SMA Taruna Nusantara Kampus Cimahi, Jawa Barat, 30 Oktober 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 4,
+  "pendidikan": 52,
+  "kesehatan_dan_gizi": 16,
+  "tata_kelola": 2,
+  "pertahanan_dan_keamanan": 4,
+  "nasional_dan_identitas": 80
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 1
+  },
+  "IKN": {
+   "count": 1
+  },
+  "Korupsi dan kebocoran": {
+   "count": 2
+  },
+  "Bencana dan penanganan": {
+   "count": 3
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 69.0,
+   "text": "Presiden Republik Indonesia tiba di tempat acara [musik] membela [bernyanyi] yang benar maju besar [musik] serang serahnya [musik] mau serta tentu kita bergerak berang serang merdeka merdeka [musik] Merda, ma [musik] bismillahirrahman Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 70.0,
+   "d": 4.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 74.0,
+   "d": 8.0,
+   "text": "Selamat siang, salam sejahtera bagi kita sekalian. Shalom, Om swastiastu, Namo Buddhaya, rahayu."
+  },
+  {
+   "t": 82.0,
+   "d": 8.0,
+   "text": "Yang terhormat Bapak Presiden Republik Indonesia Jenderal TNI Purnawirawan Rabo Subianto."
+  },
+  {
+   "t": 90.0,
+   "d": 41.0,
+   "text": "Yang kami hormati jajaran kabinet merah putih yang hadir pada acara siang hari ini, para pengurus sekolah, pamong, dan tentu saja seluruh siswa siswi SMA Taruna Nusantara kampus Cimahi yang saya cintai dan saya banggakan. Puji syukur ke hadirat Allah Subhanahu wa taala, Tuhan yang maha kuasa pada siang hari iniakilembaga Jumat 30 Oktober 2026 kita diberikan kesempatan dan izin untuk bisa bertemu dengan Bapak Presiden Republik Indonesia di kampus Cimahi ini."
+  },
+  {
+   "t": 131.0,
+   "d": 15.0,
+   "text": "Dan kami ucapkan terima kasih yang sebesar-besarnya Bapak Presiden telah bersedia meluangkan waktunya untuk hadir dan meresmikan SMA Taro Nusantara kampus Cimah ini."
+  },
+  {
+   "t": 146.0,
+   "d": 3.0,
+   "text": "Yang terhormat Bapak Presiden, hadirin sekalian."
+  },
+  {
+   "t": 149.0,
+   "d": 38.0,
+   "text": "Mencerdaskan kehidupan bangsa merupakan salah satu tujuan lahirnya Negara Kesatuan Republik Indonesia. Tujuan diproklamirkannya kemerdekaan Republik Indonesia. Dan saya kira dalam rangka mencapai tujuan tersebut semua kita memiliki tanggung jawab yang besar dan khususnya Bapak Presiden sejak mudanya juga merupakan bagian yang tidak terlepaskan dari upaya mencapai tujuan salah satu tujuan bernegara tersebut."
+  },
+  {
+   "t": 187.0,
+   "d": 16.0,
+   "text": "SMA Tar Nusantara merupakan bayi yang lahir dari buah pikiran Bapak Presiden bahkan jauh sebelum beliau menjadi seorang pejabat yang sifatnya nasional."
+  },
+  {
+   "t": 203.0,
+   "d": 19.0,
+   "text": "Dan saat beliau menjadi Menteri Pertahanan, ide untuk mengembangkan SMA Tarun Nusantara, SMA Tar Nusantara yang lain dipikirkan dan akhirnya dieksekusi dan salah satunya menjadi apa yang saat ini, siang ini akan beliau resmikan."
+  },
+  {
+   "t": 222.0,
+   "d": 14.0,
+   "text": "Sebagai laporan Bapak, kampus ini menampung 677 siswa dan siswi. Dan ini merupakan kampus kedua yang akan diresmikan langsung oleh Bapak Presiden."
+  },
+  {
+   "t": 236.0,
+   "d": 35.0,
+   "text": "Sekali lagi kami mengucapkan terima kasih yang sebesar-besarnya merupakan kebanggaan bagi kami yang lahir dari kampus SMA Tarun Nusantara untuk bisa hadir bersama Bapak siang hari ini. Dan sekali lagi kampus SMA Taru Nusantara dipersembahkan untuk masa depan bangsa dan negara. Dan semoga kami putra-putri Taruna Nusantara ini bisa terus mengemban amanah lahirnya kampus tercinta tersebut. Terima kasih. Saya kira itu saja yang ingin saya sampaikan."
+  },
+  {
+   "t": 271.0,
+   "d": 4.0,
+   "text": "Sekali lagi terima kasih Bapak Presiden. Terima kasih para hadirin sekalian."
+  },
+  {
+   "t": 275.0,
+   "d": 18.0,
+   "text": "Selanjutnya kami mohon kesediaan Bapak untuk meresmikan kampus SMA Taruna Nusantara Cimai ini. Asalamualaikum warahmatullahi wabarakatuh. Salam sejahtera. Shalom. Om santi syanti shanti om. Namo buddhaya rahayu."
+  },
+  {
+   "t": 293.0,
+   "d": 11.0,
+   "text": "Saudara-saudara sekalian, sebagai usaha kita bersama sebagai anak-anak bangsa."
+  },
+  {
+   "t": 304.0,
+   "d": 9.0,
+   "text": "Kita ingin membangun bangsa dan negara yang berhasil."
+  },
+  {
+   "t": 313.0,
+   "d": 7.0,
+   "text": "Bangsa negara sesuai cita-cita pendiri bangsa kita."
+  },
+  {
+   "t": 320.0,
+   "d": 3.0,
+   "text": "Bangsa yang modern."
+  },
+  {
+   "t": 323.0,
+   "d": 16.0,
+   "text": "bangsa yang rakyatnya sejahtera, bangsa yang keluar dari segala kesulitan dengan baik."
+  },
+  {
+   "t": 339.0,
+   "d": 4.0,
+   "text": "Bangsa yang merdeka."
+  },
+  {
+   "t": 343.0,
+   "d": 8.0,
+   "text": "Merdeka artinya bebas dari ketergantungan sama bangsa lain."
+  },
+  {
+   "t": 351.0,
+   "d": 11.0,
+   "text": "Merdeka artinya memberi kehidupan yang baik kepada seluruh rakyat Indonesia."
+  },
+  {
+   "t": 362.0,
+   "d": 6.0,
+   "text": "Negara yang berhasil adalah negara yang tidak ada rakyatnya yang lapar."
+  },
+  {
+   "t": 368.0,
+   "d": 10.0,
+   "text": "Negara yang berhasil adalah negara di mana ada keadilan."
+  },
+  {
+   "t": 378.0,
+   "d": 8.0,
+   "text": "Negara yang berhasil adalah negara yang hidup dalam keadaan damai."
+  },
+  {
+   "t": 386.0,
+   "d": 10.0,
+   "text": "Itu adalah cita-cita pendiri bangsa. Itu adalah cita-cita kita. Itu adalah cita-cita orang tuamu semua."
+  },
+  {
+   "t": 396.0,
+   "d": 7.0,
+   "text": "Tidak ada orang tua yang ingin anaknya hidup dengan tidak baik."
+  },
+  {
+   "t": 403.0,
+   "d": 10.0,
+   "text": "Tidak ada orang tua yang ingin anaknya gagal dalam hidup."
+  },
+  {
+   "t": 413.0,
+   "d": 49.0,
+   "text": "apapun agama kita, apapun suku kita, apapun ras kita, apapun latar belakang kita, setiap orang tua menginginkan anak-anaknya hidup dengan baik, Saudara-saudara. Karena itu bernegara membangun suatu negara nation building adalah sebenarnya kunci daripada keberhasilan nation building adalah pendidikan."
+  },
+  {
+   "t": 462.0,
+   "d": 40.0,
+   "text": "pendidikan dari sangat awal pendidikan dari sebelum lahir pendidikan orang tua, pendidikan usia dini, pendidikan taman kanak-kanak, pendidikan sekolah dasar, sekolah menengah, pertama, sekolah lanjutan dan seterusnya."
+  },
+  {
+   "t": 502.0,
+   "d": 3.0,
+   "text": "Pendidikan ada yang formal, ada yang informal."
+  },
+  {
+   "t": 505.0,
+   "d": 5.0,
+   "text": "Kunci daripada negara yang berhasil adalah pendidikan."
+  },
+  {
+   "t": 510.0,
+   "d": 10.0,
+   "text": "Pendidikan yang baik memerlukan investasi yang besar."
+  },
+  {
+   "t": 520.0,
+   "d": 9.0,
+   "text": "Pendidikan yang baik membutuhkan guru-guru yang baik, yang hebat."
+  },
+  {
+   "t": 529.0,
+   "d": 8.0,
+   "text": "Negara yang unggul dilahirkan oleh guru-guru yang hebat."
+  },
+  {
+   "t": 537.0,
+   "d": 10.0,
+   "text": "Untuk mendapatkan guru-guru yang hebat perlu investasi yang besar, Saudara-saudara."
+  },
+  {
+   "t": 547.0,
+   "d": 4.0,
+   "text": "Ibarat suatu lingkaran."
+  },
+  {
+   "t": 551.0,
+   "d": 8.0,
+   "text": "Ibarat mana yang lebih dulu, telur atau ayam."
+  },
+  {
+   "t": 559.0,
+   "d": 10.0,
+   "text": "Kita butuh pendidikan yang baik, tapi kita butuh investasi yang besar. Kita butuh dana yang besar."
+  },
+  {
+   "t": 569.0,
+   "d": 8.0,
+   "text": "Karena itu sumber daya bangsa harus diamankan."
+  },
+  {
+   "t": 577.0,
+   "d": 20.0,
+   "text": "Sumber daya bangsa harus dijaga. Sumber daya bangsa tidak boleh dicuri, tidak boleh diselewengkan, tidak boleh dikorupsi."
+  },
+  {
+   "t": 597.0,
+   "d": 16.0,
+   "text": "korupsi, penyelewengan penyalahgunaan wewenang sesungguhnya adalah awal kehancuran bangsa."
+  },
+  {
+   "t": 613.0,
+   "d": 29.0,
+   "text": "Saudara-saudara, gagasan mendirikan sekolah semacam Taruna Nusantara berawal dari kesadaran bahwa bangsa yang berhasil, bangsa yang unggul memerlukan pemimpin-pemimpin yang unggul."
+  },
+  {
+   "t": 642.0,
+   "d": 6.0,
+   "text": "Pemimpin yang unggul harus diseleksi yang baik."
+  },
+  {
+   "t": 648.0,
+   "d": 15.0,
+   "text": "Seleksi yang baik unggul. Tidak unggul hanya otaknya, unggul badannya unggul jiwanya unggul hatinya."
+  },
+  {
+   "t": 663.0,
+   "d": 7.0,
+   "text": "Saudara-saudara, orang pintar tapi hatinya jahat."
+  },
+  {
+   "t": 670.0,
+   "d": 3.0,
+   "text": "sangat berbahaya."
+  },
+  {
+   "t": 673.0,
+   "d": 8.0,
+   "text": "Yang terjadi adalah penderitaan, ketidakadilan, bencana."
+  },
+  {
+   "t": 681.0,
+   "d": 16.0,
+   "text": "Karena itu SMA Taruna Nusantara lahir sebagai gagasan untuk mencari tunas-tunas pemimpin-pemimpin yang baik."
+  },
+  {
+   "t": 697.0,
+   "d": 22.0,
+   "text": "Gagasan awal adalah kita cari anak-anak yang terpintar dari seluruh Indonesia, dari semua golongan, dari semua suku, semua ras, dan semua agama."
+  },
+  {
+   "t": 719.0,
+   "d": 16.0,
+   "text": "Dan ide awal adalah diberi beasiswa penuh supaya tidak ada perbedaan anaknya orang miskin tapi pintar harus dapat kesempatan."
+  },
+  {
+   "t": 735.0,
+   "d": 12.0,
+   "text": "Itu gagasan awal dan itu gagasan yang kita ingin pertahankan sekarang, Saudara-saudara."
+  },
+  {
+   "t": 747.0,
+   "d": 23.0,
+   "text": "Sekolah semacam SMA Taruna Nusantara memang bisa dipandang elitis, tapi sebetulnya maksudnya adalah untuk mencari bibit-bibit yang baik, bibit-bibit unggul."
+  },
+  {
+   "t": 770.0,
+   "d": 17.0,
+   "text": "Ibarat kita akan menghadapi olimpiade, kita harus punya lembaga kaderisasi atlet."
+  },
+  {
+   "t": 787.0,
+   "d": 7.0,
+   "text": "Kita harus didik, harus memberi dia latihan yang baik, saranaanya baik, perlengkapan yang baik."
+  },
+  {
+   "t": 794.0,
+   "d": 9.0,
+   "text": "Saudara-saudara, ini ibarat kita mau berhasil sebagai bangsa. Kita perlu insinyur yang hebat."
+  },
+  {
+   "t": 803.0,
+   "d": 7.0,
+   "text": "Kita perlu ilmuwan yang hebat. Kita perlu dokter-dokter yang hebat."
+  },
+  {
+   "t": 810.0,
+   "d": 6.0,
+   "text": "Kita perlu ahli-ahli biologi yang hebat."
+  },
+  {
+   "t": 816.0,
+   "d": 6.0,
+   "text": "Kita perlu penemu-penemu teknologi yang hebat."
+  },
+  {
+   "t": 822.0,
+   "d": 5.0,
+   "text": "Dari mana kita tidak bisa nunggu?"
+  },
+  {
+   "t": 827.0,
+   "d": 8.0,
+   "text": "seolah-olah bibit-bibit itu akan jatuh dari pohon. Tidak."
+  },
+  {
+   "t": 835.0,
+   "d": 21.0,
+   "text": "Kita harus mencari, kita harus memberi kesempatan dan nanti maksudnya adalah bibit-bibit unggul ini, hasil daripada lembaga ini akan berkarya."
+  },
+  {
+   "t": 856.0,
+   "d": 20.0,
+   "text": "akan berbuat, akan memberi kebaikan untuk negara, akan memberi penemuan untuk negara, akan memberi kekayaan untuk negara."
+  },
+  {
+   "t": 876.0,
+   "d": 20.0,
+   "text": "ini maksudnya sekarang dari SMA TN yang pertama yang dibentuk di Magelang sekian puluh tahun yang lalu."
+  },
+  {
+   "t": 896.0,
+   "d": 3.0,
+   "text": "Berapa tahun yang lalu?"
+  },
+  {
+   "t": 899.0,
+   "d": 9.0,
+   "text": "Angkatan pertama 90 tahun 90. Tahun 90."
+  },
+  {
+   "t": 908.0,
+   "d": 55.0,
+   "text": "berarti 36 tahun yang lalu dibentuk waktu itu oleh panglima ABRI waktu itu Pak Beni Murdani dan sekarang hasilnya sudah ada menteri koordinator sudah ada berapa ada dua Menko sudah ada Jenderal sudah ada Meknek, sudah ada SESCAP, sudah ada Kepala BMKG, Kepala BNPB juga lulusan TN ya."
+  },
+  {
+   "t": 963.0,
+   "d": 35.0,
+   "text": "Kepala Badan Gizi Nasional TN. mungkin di kabinet banyak sekali TN sudah mulai muncul [tepuk tangan] dan saya harus katakan, saya harus akui yang dari TN kinerja dan prestasinya baik."
+  },
+  {
+   "t": 998.0,
+   "d": 20.0,
+   "text": "[tepuk tangan] Kalau saya bilang baik sekali, nanti mereka kurang motivasi. Jadi baik supaya mereka ngejar baik sekali. Ya kan? Kalau baik sekali itu ee A iya kan?"
+  },
+  {
+   "t": 1018.0,
+   "d": 7.0,
+   "text": "A itu nilainya berapa? 90 93 gitu ya."
+  },
+  {
+   "t": 1025.0,
+   "d": 9.0,
+   "text": "94. Kalau 100 itu milik Tuhan. Iya kan?"
+  },
+  {
+   "t": 1034.0,
+   "d": 7.0,
+   "text": "Benar, Saudara-saudara."
+  },
+  {
+   "t": 1041.0,
+   "d": 28.0,
+   "text": "Jadi, Saudara-saudara, anak-anakku yang masih mulai sepak terjangmu, saya percaya kalian akan berbuat yang terbaik, kalian akan belajar yang terbaik, kalian akan mengambil nilai-nilai dari SMA Taruna Nusantara."
+  },
+  {
+   "t": 1069.0,
+   "d": 6.0,
+   "text": "Nilai-nilai SMA Tasara adalah nilai kebangsaan."
+  },
+  {
+   "t": 1075.0,
+   "d": 8.0,
+   "text": "Nilai tadi satu nusa, Bang. Satu bangsa dan satu bahasa."
+  },
+  {
+   "t": 1083.0,
+   "d": 5.0,
+   "text": "Sumpah Pemuda lahir sebelum kemerdekaan."
+  },
+  {
+   "t": 1088.0,
+   "d": 10.0,
+   "text": "Bayangkan pemuda-pemuda pemudi tersebut usianya sangat muda melahirkan suatu sumpah yang demikian cemerlang."
+  },
+  {
+   "t": 1098.0,
+   "d": 3.0,
+   "text": "Luar biasa kita harus akui."
+  },
+  {
+   "t": 1101.0,
+   "d": 7.0,
+   "text": "Dan karena sumpah pemuda itulah kita sekarang masih utuh sebagai bangsa."
+  },
+  {
+   "t": 1108.0,
+   "d": 9.0,
+   "text": "Karena bangsa sebesar kita macam-macam ideologi yang ingin diterapkan."
+  },
+  {
+   "t": 1117.0,
+   "d": 38.0,
+   "text": "Kita bersyukur pendiri-pendiri bangsa kita, pejuang-pejuang kemerdekaan merasakan meyakini bahwa hanya dengan persatuan, hanya dengan bineka tunggal ika, hanya dengan mengakui dan menghormati semua suku dan semua agama dan semua ras dan semua budaya dan semua adat kita bisa bernegara dengan baik."
+  },
+  {
+   "t": 1155.0,
+   "d": 10.0,
+   "text": "Alhamdulillah terus-menerus kita berusaha dipecah belah."
+  },
+  {
+   "t": 1165.0,
+   "d": 4.0,
+   "text": "Anak-anakku belajarlah sejarah."
+  },
+  {
+   "t": 1169.0,
+   "d": 6.0,
+   "text": "Saya pernah saya sudah tegur menteri-menteri pendidikan."
+  },
+  {
+   "t": 1175.0,
+   "d": 4.0,
+   "text": "Terima kasih hadir Menteri Pendidikan Dasar."
+  },
+  {
+   "t": 1179.0,
+   "d": 10.0,
+   "text": "Saya juga sudah bicara kelemahan bangsa Indonesia. Pemimpin-pemimpinnya lupa sejarah."
+  },
+  {
+   "t": 1189.0,
+   "d": 8.0,
+   "text": "Bahkan ada pemimpin-pemimpin yang malas belajar sejarah."
+  },
+  {
+   "t": 1197.0,
+   "d": 7.0,
+   "text": "Mereka yang malas belajar sejarah akan dihukum oleh sejarah."
+  },
+  {
+   "t": 1204.0,
+   "d": 3.0,
+   "text": "Ini [berdehem] pelajaran ribuan tahun."
+  },
+  {
+   "t": 1207.0,
+   "d": 8.0,
+   "text": "Teknologi berubah, tapi sifat manusia tidak berubah."
+  },
+  {
+   "t": 1215.0,
+   "d": 11.0,
+   "text": "Jadi kalau kita tidak belajar sejarah, kita akan mengulangi kesalahan-kesalahan sejarah."
+  },
+  {
+   "t": 1226.0,
+   "d": 6.0,
+   "text": "kesalahan-kesalahan yang dilakukan oleh pendahulu kita."
+  },
+  {
+   "t": 1232.0,
+   "d": 13.0,
+   "text": "Saudara-saudara, pelajaran sejarah yang paling sakit bagi Indonesia adalah kita pernah dijajah oleh bangsa lain."
+  },
+  {
+   "t": 1245.0,
+   "d": 6.0,
+   "text": "Kenapa berhasil kita dijajah? Karena kita tidak bersatu."
+  },
+  {
+   "t": 1251.0,
+   "d": 12.0,
+   "text": "Pangeran yang satu, lebih baik dia kerja sama dengan orang asing daripada kerja sama dengan saudaranya sendiri."
+  },
+  {
+   "t": 1263.0,
+   "d": 6.0,
+   "text": "Ini sejarah kita. Ini yang harus kita belajar."
+  },
+  {
+   "t": 1269.0,
+   "d": 15.0,
+   "text": "Kelompok penjajah ratusan tahun, ribuan tahun mereka punya ajaran di VEDA @ Impera."
+  },
+  {
+   "t": 1284.0,
+   "d": 6.0,
+   "text": "Pecah belah, pecah belah."
+  },
+  {
+   "t": 1290.0,
+   "d": 8.0,
+   "text": "Jangan kita ulangi kesalahan-kesalahan pendahulu-pendahulu kita."
+  },
+  {
+   "t": 1298.0,
+   "d": 7.0,
+   "text": "Pendahulu kita banyak kecemerlangan, tapi kita harus belajar dari kekurangannya."
+  },
+  {
+   "t": 1305.0,
+   "d": 29.0,
+   "text": "Jadi, Saudara-saudara saya terima kasih kepada semua unsur yang telah bekerja keras sehingga kita bisa menghasilkan sudah sekarang kampus di Malang, kampus di Cimahi, kampus di Pagar Alam, kampus di Sulawesi Utara dan kampus di IKN. Enam kampus."
+  },
+  {
+   "t": 1334.0,
+   "d": 8.0,
+   "text": "sudah ada enam kampus yang operasional yang sudah beroperasi."
+  },
+  {
+   "t": 1342.0,
+   "d": 19.0,
+   "text": "Terima kasih unsur-unsur yang telah bekerja keras sehingga kita hasilkan anak-anak yang sekarang menempuh pendidikan di sini."
+  },
+  {
+   "t": 1361.0,
+   "d": 23.0,
+   "text": "nilai-nilai yang kita ajarkan saya minta dipertahankan nilai Pancasila, nilai kebangsaan ya karena masih banyak kelompok-kelompok yang sesungguhnya tidak suka dengan Pancasila. Mereka ingin punya paham lain."
+  },
+  {
+   "t": 1384.0,
+   "d": 6.0,
+   "text": "Ada yang ingin mendirikan negara agama."
+  },
+  {
+   "t": 1390.0,
+   "d": 6.0,
+   "text": "Ada yang ingin mendirikan negara berdasarkan suku."
+  },
+  {
+   "t": 1396.0,
+   "d": 10.0,
+   "text": "Ada yang ingin mendirikan negara berdasarkan ras."
+  },
+  {
+   "t": 1406.0,
+   "d": 4.0,
+   "text": "Ini sumber perpecahan."
+  },
+  {
+   "t": 1410.0,
+   "d": 6.0,
+   "text": "Kita lihat di seluruh dunia sekarang perang pertikaian."
+  },
+  {
+   "t": 1416.0,
+   "d": 13.0,
+   "text": "Perang pertikaian pertumpuan darah puluhan ribu ibu-ibu, anak-anak orang tidak berdosa mati tiap hari."
+  },
+  {
+   "t": 1429.0,
+   "d": 8.0,
+   "text": "Kenapa pemimpin-pemimpinnya tidak waspada? Kenapa terpecah?"
+  },
+  {
+   "t": 1437.0,
+   "d": 9.0,
+   "text": "Dan ada kelompok-kelompok di Indonesia yang ingin negara kita pecah."
+  },
+  {
+   "t": 1446.0,
+   "d": 3.0,
+   "text": "Yang ingin negara kita pecah."
+  },
+  {
+   "t": 1449.0,
+   "d": 14.0,
+   "text": "Tapi percayalah kekuatan NKRI besar kita waspada sekarang dan kita akan atasi semua masalah itu dengan baik."
+  },
+  {
+   "t": 1463.0,
+   "d": 9.0,
+   "text": "Mereka-mereka yang hatinya tidak baik pasti ketahuan."
+  },
+  {
+   "t": 1472.0,
+   "d": 26.0,
+   "text": "Dan saya ingatkan mereka-mereka yang tidak setia kepada Pancasila, tidak setia kepada NKRI atau mereka-mereka yang serakah, mereka-mereka yang bermental mafia yang tujuannya adalah merampok kekayaan negara pasti akan gagal."
+  },
+  {
+   "t": 1498.0,
+   "d": 5.0,
+   "text": "Itu pelajaran ribuan tahun peradaban manusia."
+  },
+  {
+   "t": 1503.0,
+   "d": 9.0,
+   "text": "Yang jahat pasti akan kalah."
+  },
+  {
+   "t": 1512.0,
+   "d": 3.0,
+   "text": "Itu pasti. Tidak usah kita ragu-ragu."
+  },
+  {
+   "t": 1515.0,
+   "d": 8.0,
+   "text": "Ya, Saudara-saudara. Saya kira itu yang ingin saya sampaikan."
+  },
+  {
+   "t": 1523.0,
+   "d": 9.0,
+   "text": "Belajarilah dengan baik para pamong, para guru. Bimbinglah dengan baik ya."
+  },
+  {
+   "t": 1532.0,
+   "d": 10.0,
+   "text": "Bimbing mereka dengan sebaik-baiknya ke arah yang sebaik-baiknya untuk bangsa dan negara. Itu."
+  },
+  {
+   "t": 1542.0,
+   "d": 3.0,
+   "text": "Itu yang ingin saya sampaikan."
+  },
+  {
+   "t": 1545.0,
+   "d": 4.0,
+   "text": "Terima kasih atas perhatian saudara-saudara."
+  },
+  {
+   "t": 1549.0,
+   "d": 10.0,
+   "text": "Tanamkan terus nilai patriotisme integritas daripada ratusan orang pintar."
+  },
+  {
+   "t": 1559.0,
+   "d": 16.0,
+   "text": "Berilah kepada negara pemuda-pemudi yang jujur, yang bersih hatinya, yang penuh cinta tanah air. Baru kita berhasil sebagai bangsa dan negara."
+  },
+  {
+   "t": 1575.0,
+   "d": 3.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 1578.0,
+   "d": 12.0,
+   "text": "Dengan mengucap bismillahirrahmanirrahim pada siang hari ini, hari Jumat, 30 Oktober tahun 2026."
+  },
+  {
+   "t": 1590.0,
+   "d": 22.0,
+   "text": "Dengan rahmat Tuhan yang Maha Besar, saya Prabowo Subianto dengan ini meresmikan SMA Taruna Nusantara kampus Cimahi. Terima kasih."
+  },
+  {
+   "t": 1612.0,
+   "d": 15.0,
+   "text": "Kami turut bangga dan sangat ee merasa terhormat sekali karena kami dapat merasakan kedatangan dari kepala negara kita yaitu Bapak Presiden Prabowo Subianto dalam ee konteks untuk [musik] menyelenggarakan peresmian sekolah kami."
+  },
+  {
+   "t": 1627.0,
+   "d": 18.0,
+   "text": "Fasilitas di SMA Taru Nusantara sudah sangat lengkap dan menunjang fasilitas [musik] dan dalam pengembangan siswa di SMA Taru Nusantara. Karena di sini [musik] semua bentuk fasilitas itu sudah mendukung baik ekstrakurikuler, kegiatan belajar mengajar, maupun kegiatan tumbuh kembang siswa."
+  },
+  {
+   "t": 1645.0,
+   "d": 24.0,
+   "text": "Sangat lengkap mulai dari kesehatan, kelas, akademik, maupun kegiatan ekstrakurikuler semua dilengkapi dan juga dengan kondisi yang optimal. Selain itu juga kami SMA merupakan suatu sekolah yang berbesel penuh. J tidak ada siswa yang membayar dan difasilitasi penuh oleh negara. Tentunya saya ingin berkontribusi bagi bangsa negara Indonesia. Saya ingin menjadi bagian dari pemimpin [musik] bangsa Indonesia"
+  },
+  {
+   "t": 1669.0,
+   "d": 9.0,
+   "text": "karena saya ingin ee menjadi bagian dari generasi emas 2045. Tentunya itu ada di generasi saya."
+  },
+  {
+   "t": 1678.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

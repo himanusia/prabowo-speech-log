@@ -1,18 +1,21 @@
 {
- "generated_at": "2026-10-30T20:36:07+07:00",
- "channel_total": 4930,
- "era_total": 946,
- "worklist_total": 286,
+ "generated_at": "2026-10-31T20:38:34+07:00",
+ "channel_total": 4918,
+ "era_total": 948,
+ "worklist_total": 288,
  "counts": {
+  "ok_belum_masuk_arsip": 2,
   "tanpa_track": 283,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
+   "ok_belum_masuk_arsip": 1,
    "tanpa_track": 167,
    "panel_kosong": 3
   },
   "kunjungan": {
+   "ok_belum_masuk_arsip": 1,
    "tanpa_track": 114
   },
   "keterangan_pers": {
@@ -23,19 +26,35 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 0,
+ "perlu_impor": 2,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
   "ok",
   "ok",
   "ok",
-  "ok",
-  "ok",
   "no_indonesian_track",
+  "ok",
+  "ok",
   "ok"
  ],
  "rows": [
+  {
+   "video_id": "Ps_VMC8_OZs",
+   "title": "President Prabowo Inaugurates Taruna Nusantara High School, Cimahi Campus, West Java, October 30,...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "R5VujmTPlsI",
+   "title": "Using Whoosh, President Prabowo Arrives in Halim in the Afternoon After a Visit to West Java, Oct...",
+   "kind": "kunjungan",
+   "date": null,
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
   {
    "video_id": "8aoNyzTe2fY",
    "title": "Presiden Prabowo Terima Menlu Singapura Vivian Balakrishnan, Hambalang, 28 Oktober 2026",

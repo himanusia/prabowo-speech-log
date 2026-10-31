@@ -1,0 +1,70 @@
+{
+ "id": "2026-10-30-gunakan-whoosh-tiba-di-halim-siang-hari",
+ "video_id": "R5VujmTPlsI",
+ "date": "2026-10-30",
+ "date_precise": true,
+ "title": "Gunakan Whoosh, Presiden Prabowo Tiba di Halim Siang Hari Usai Kunjungan ke Jabar, 30 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=R5VujmTPlsI",
+ "duration_s": 24,
+ "duration_hms": "0:24",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "token_count": 36,
+ "unique_word_count": 22,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "R5VujmTPlsI",
+   "url": "https://www.youtube.com/watch?v=R5VujmTPlsI",
+   "title": "Gunakan Whoosh, Presiden Prabowo Tiba di Halim Siang Hari Usai Kunjungan ke Jabar, 30 Oktober 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 0
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 27.0,
+   "d": 8.0,
+   "text": "Presiden sehat-sehat selalu, Pak. Ini mau ke mana? Baru pada pulang. Dari Bandung. Dari Bandung."
+  },
+  {
+   "t": 35.0,
+   "d": 2.0,
+   "text": "Oh, dari Bandung. Iya."
+  },
+  {
+   "t": 37.0,
+   "d": 9.0,
+   "text": "Enak ya? Cepatnya Pak Presiden berdaulat. Pak Presiden."
+  },
+  {
+   "t": 46.0,
+   "d": 2.0,
+   "text": "Berdaulat Pak Presiden."
+  },
+  {
+   "t": 48.0,
+   "d": 3.0,
+   "text": "Bapak pengin salim Pak dari Bandung."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "kunjungan"
+ }
+}

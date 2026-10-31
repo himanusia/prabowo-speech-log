@@ -1,0 +1,56 @@
+{
+ "id": "R5VujmTPlsI",
+ "url": "https://www.youtube.com/watch?v=R5VujmTPlsI",
+ "title": "Gunakan Whoosh, Presiden Prabowo Tiba di Halim Siang Hari Usai Kunjungan ke Jabar, 30 Oktober 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "en",
+   "name": "English (auto-generated)",
+   "generated": true
+  },
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 5,
+ "raw_snippets": [
+  {
+   "text": "Presiden sehat-sehat selalu, Pak. Ini mau ke mana? Baru pada pulang. Dari Bandung. Dari Bandung.",
+   "start": 27.0,
+   "duration": 8
+  },
+  {
+   "text": "Oh, dari Bandung. Iya.",
+   "start": 35.0,
+   "duration": 2
+  },
+  {
+   "text": "Enak ya? Cepatnya Pak Presiden berdaulat. Pak Presiden.",
+   "start": 37.0,
+   "duration": 9
+  },
+  {
+   "text": "Berdaulat Pak Presiden.",
+   "start": 46.0,
+   "duration": 2
+  },
+  {
+   "text": "Bapak pengin salim Pak dari Bandung.",
+   "start": 48.0,
+   "duration": 3
+  }
+ ]
+}

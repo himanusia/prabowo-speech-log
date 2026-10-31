@@ -10461,5 +10461,57 @@
    "pertahanan_dan_keamanan": 0,
    "nasional_dan_identitas": 7
   }
+ },
+ {
+  "id": "2026-10-30-gunakan-whoosh-tiba-di-halim-siang-hari",
+  "date": "2026-10-30",
+  "title": "Gunakan Whoosh, Presiden Prabowo Tiba di Halim Siang Hari Usai Kunjungan ke Jabar, 30 Oktober 2026",
+  "channel": "Sekretariat Presiden",
+  "video_id": "R5VujmTPlsI",
+  "youtube_url": "https://www.youtube.com/watch?v=R5VujmTPlsI",
+  "duration_s": 24,
+  "duration_hms": "0:24",
+  "token_count": 36,
+  "unique_word_count": 22,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 5,
+  "topics": {
+   "pangan": 0,
+   "ekonomi": 0,
+   "pendidikan": 0,
+   "kesehatan_dan_gizi": 0,
+   "tata_kelola": 0,
+   "pertahanan_dan_keamanan": 0,
+   "nasional_dan_identitas": 0
+  }
+ },
+ {
+  "id": "2026-10-30-resmikan-sma-taruna-nusantara-kampus-cimahi-jawa",
+  "date": "2026-10-30",
+  "title": "Presiden Prabowo Resmikan SMA Taruna Nusantara Kampus Cimahi, Jawa Barat, 30 Oktober 2026",
+  "channel": "Sekretariat Presiden",
+  "video_id": "Ps_VMC8_OZs",
+  "youtube_url": "https://www.youtube.com/watch?v=Ps_VMC8_OZs",
+  "duration_s": 1680,
+  "duration_hms": "28:00",
+  "token_count": 1855,
+  "unique_word_count": 637,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 134,
+  "topics": {
+   "pangan": 0,
+   "ekonomi": 4,
+   "pendidikan": 52,
+   "kesehatan_dan_gizi": 16,
+   "tata_kelola": 2,
+   "pertahanan_dan_keamanan": 4,
+   "nasional_dan_identitas": 80
+  }
  }
 ]
