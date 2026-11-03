@@ -1,0 +1,93 @@
+{
+ "id": "2026-11-03-keterangan-pers-menko-bidang-hilirisasi-dan-transisi",
+ "video_id": "Nc8UoSurqzE",
+ "date": "2026-11-03",
+ "date_precise": true,
+ "title": "Keterangan Pers Menko Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia, 3 November 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=Nc8UoSurqzE",
+ "duration_s": 153,
+ "duration_hms": "2:33",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 21,
+ "token_count": 321,
+ "unique_word_count": 169,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "Nc8UoSurqzE",
+   "url": "https://www.youtube.com/watch?v=Nc8UoSurqzE",
+   "title": "Keterangan Pers Menko Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia, 3 November 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 1,
+  "ekonomi": 5,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 4
+ },
+ "policy_signals": {
+  "B50 / biodiesel": {
+   "count": 1
+  },
+  "Bencana dan penanganan": {
+   "count": 2
+  }
+ },
+ "transcript": [
+  {
+   "t": 1.0,
+   "d": 14.0,
+   "text": "Tadi kami melakukan rapat terbatas dengan Bapak Presiden. Kami membahas ee terkait dengan perkembangan ee ekonomi sekarang dikaitkan dengan persoalan geopolitik."
+  },
+  {
+   "t": 15.0,
+   "d": 39.0,
+   "text": "Kemudian tadi kita membahas berbagai sektor ee baik dari sisi BUMN-nya maupun dari sisi pertanian maupun kami dari ada sisi perikanannya ya. Saya kebetulan dari sektor energi Bapak Presiden menanyakan kesiapan tentang implementasi daripada E20 dalam rangka mendorong ee ketahanan energi kita E20 sampai dengan E50. Dan kami sudah menyiapkan ee renstranya saya dengan Pak Mentulunya itu adalah kolaborasi antara Pak Ment SDM dan menyangkut dengan B50 tetap kita"
+  },
+  {
+   "t": 54.0,
+   "d": 19.0,
+   "text": "pertahankan karena ini adalah geopolitik yang tidak pernah kita tahu ujungnya ke mana. Di samping itu kita akan membangun storage ee beberapa di wilayah Sumatera untuk ketika kita melakukan impor crot itu semuanya bisa ada tempatnya di atas 20 hari. target kita bisa sampai dengan ee 60 hari."
+  },
+  {
+   "t": 73.0,
+   "d": 7.0,
+   "text": "Pak, soal larangan ekspor SDAW ee negara perentara tadi dilaporkan juga enggak, Pak? Mungkin respon."
+  },
+  {
+   "t": 80.0,
+   "d": 33.0,
+   "text": "Oh, kalau itu saya sering melaporkan kepada Bapak Presiden bahwa neraca perdagangan kita ini kan kita harus betul-betul melihat sebagai bagian daripada pondasi ee pertumbuhan ekonomi kita. Jadi kalau kita mau ekspor ke Jepang, mau ekspor ke Eropa, sekarang kita lagi mendorong untuk langsung dari negara kita ke negara tujuan ekspor. Ya, Pak Berlin tadi kan ada pembangunan storage itu kapan sih, Pak, dimulainya misalnya eh di akhir FS-nya sudah selesai. Di akhir"
+  },
+  {
+   "t": 113.0,
+   "d": 9.0,
+   "text": "tahun ini akan memulai untuk kita ngecek lokasinya dari sisi keamanan baik dalam konteks gempanya maupun keamanan lokalnya ya."
+  },
+  {
+   "t": 122.0,
+   "d": 21.0,
+   "text": "potensi pendapatan negara dari larangan itu gim eh storage-nya kita akan berusaha untuk mencapai target ee standar minimum dunia. Standar minimum dunia itu kan di 3 bulan ya 90 hari. Jadi kita akan mendekati ke sanalah minimal ee kalau tidak sama minimal mendekati ke sana. Akan dirancang malam gitu ya, Pak ya."
+  },
+  {
+   "t": 143.0,
+   "d": 11.0,
+   "text": "Iya. Salah satu di antaranya adalah kita rancang jangan sampai ee kondisi di mana kita meletakkan storage itu punya ee peluang atau potensi besar untuk jadi bencana. Itu kan menyangkut keselamatan ya."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain"
+}
