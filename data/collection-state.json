@@ -1,16 +1,14 @@
 {
- "generated_at": "2026-11-03T20:36:23+07:00",
- "channel_total": 4935,
- "era_total": 951,
- "worklist_total": 287,
+ "generated_at": "2026-11-04T20:36:43+07:00",
+ "channel_total": 4936,
+ "era_total": 952,
+ "worklist_total": 286,
  "counts": {
-  "ok_belum_masuk_arsip": 1,
   "tanpa_track": 283,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "ok_belum_masuk_arsip": 1,
    "tanpa_track": 167,
    "panel_kosong": 3
   },
@@ -25,7 +23,7 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 1,
+ "perlu_impor": 0,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
@@ -38,14 +36,6 @@
   "ok"
  ],
  "rows": [
-  {
-   "video_id": "Nc8UoSurqzE",
-   "title": "Keterangan Pers Menko Bidang Hilirisasi dan Transisi Energi Bahlil Lahadalia, 3 November 2026",
-   "kind": "ambigu",
-   "date": "2026-11-03",
-   "state": "ok_belum_masuk_arsip",
-   "detail": ""
-  },
   {
    "video_id": "8aoNyzTe2fY",
    "title": "Presiden Prabowo Terima Menlu Singapura Vivian Balakrishnan, Hambalang, 28 Oktober 2026",
