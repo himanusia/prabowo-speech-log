@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-05T20:36:58+07:00",
- "channel_total": 4936,
- "era_total": 952,
- "worklist_total": 286,
+ "generated_at": "2026-11-06T20:36:40+07:00",
+ "channel_total": 4937,
+ "era_total": 953,
+ "worklist_total": 287,
  "counts": {
-  "tanpa_track": 283,
+  "tanpa_track": 284,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "tanpa_track": 167,
+   "tanpa_track": 168,
    "panel_kosong": 3
   },
   "kunjungan": {
@@ -28,14 +28,22 @@
  "block_tail": [
   "ok",
   "ok",
-  "ok",
   "no_indonesian_track",
   "ok",
   "ok",
   "ok",
-  "ok"
+  "ok",
+  "no_indonesian_track"
  ],
  "rows": [
+  {
+   "video_id": "GTkGngNOupg",
+   "title": "Presiden Prabowo Terima Surat Kepercayaan dari Sebelas Duta Besar LBBP Negara Sahabat, 6 Nov 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
   {
    "video_id": "8aoNyzTe2fY",
    "title": "Presiden Prabowo Terima Menlu Singapura Vivian Balakrishnan, Hambalang, 28 Oktober 2026",
