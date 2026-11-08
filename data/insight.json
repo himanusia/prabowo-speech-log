@@ -1,26 +1,26 @@
 {
  "korpus": {
-  "pidato": 389,
-  "token": 402490,
+  "pidato": 390,
+  "token": 402561,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
   "korupsi": {
    "kemunculan": 390,
    "pidato": 89,
-   "persen_pidato": 22.9,
+   "persen_pidato": 22.8,
    "per_1000": 0.97
   },
   "mbg": {
    "kemunculan": 335,
    "pidato": 80,
-   "persen_pidato": 20.6,
+   "persen_pidato": 20.5,
    "per_1000": 0.83
   },
   "bencana": {
    "kemunculan": 167,
    "pidato": 59,
-   "persen_pidato": 15.2,
+   "persen_pidato": 15.1,
    "per_1000": 0.41
   },
   "danantara": {
@@ -348,43 +348,43 @@
   "saya": {
    "kemunculan": 10243,
    "pidato": 356,
-   "persen_pidato": 91.5,
-   "per_1000": 25.45
+   "persen_pidato": 91.3,
+   "per_1000": 25.44
   },
   "kita": {
-   "kemunculan": 14893,
-   "pidato": 355,
+   "kemunculan": 14894,
+   "pidato": 356,
    "persen_pidato": 91.3,
    "per_1000": 37.0
   },
   "kami": {
-   "kemunculan": 1356,
-   "pidato": 200,
-   "persen_pidato": 51.4,
+   "kemunculan": 1357,
+   "pidato": 201,
+   "persen_pidato": 51.5,
    "per_1000": 3.37
   },
   "rakyat": {
    "kemunculan": 2304,
    "pidato": 207,
-   "persen_pidato": 53.2,
+   "persen_pidato": 53.1,
    "per_1000": 5.72
   },
   "pemerintah": {
    "kemunculan": 738,
    "pidato": 177,
-   "persen_pidato": 45.5,
+   "persen_pidato": 45.4,
    "per_1000": 1.83
   },
   "bangsa": {
    "kemunculan": 2134,
    "pidato": 200,
-   "persen_pidato": 51.4,
+   "persen_pidato": 51.3,
    "per_1000": 5.3
   },
   "negara": {
    "kemunculan": 2185,
    "pidato": 239,
-   "persen_pidato": 61.4,
+   "persen_pidato": 61.3,
    "per_1000": 5.43
   }
  },
@@ -435,14 +435,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 56,
-   "saya": 21.58,
-   "kita": 37.39,
-   "kami": 2.68,
+   "n": 57,
+   "saya": 21.56,
+   "kita": 37.37,
+   "kami": 2.69,
    "rakyat": 6.46,
    "pemerintah": 1.7,
-   "bangsa": 5.46,
-   "negara": 5.28
+   "bangsa": 5.45,
+   "negara": 5.27
   }
  ],
  "seri_bahasa": [
@@ -526,10 +526,10 @@
   },
   {
    "jenis": "lain-lain",
-   "n": 241,
+   "n": 242,
    "median": 308,
    "maks": 9836,
-   "rata2": 790
+   "rata2": 787
   },
   {
    "jenis": "peresmian",

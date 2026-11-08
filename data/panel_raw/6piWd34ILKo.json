@@ -1,0 +1,76 @@
+{
+ "id": "6piWd34ILKo",
+ "url": "https://www.youtube.com/watch?v=6piWd34ILKo",
+ "title": "Presiden Prabowo Terima 10 Mantan Kapolri beserta Kapolri, Hambalang, 8 November 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 10,
+ "raw_snippets": [
+  {
+   "text": "Kami bersama dengan para Mas, apa kabar, Mas? Aduh, baik. Salam dari Mbak ya. Sehat?",
+   "start": 0.0,
+   "duration": 8
+  },
+  {
+   "text": "Sehat ya? Alhamdulillah. Sehatnya orang tua banyak. Kita semua sudah juga tua, Mas.",
+   "start": 8.0,
+   "duration": 10
+  },
+  {
+   "text": "Pada ngakunya saudara BHD Pak Badin",
+   "start": 18.0,
+   "duration": 7
+  },
+  {
+   "text": "Pakantoro komisnya masih. Oh iya.",
+   "start": 25.0,
+   "duration": 5
+  },
+  {
+   "text": "Cuma asta ma siap.",
+   "start": 30.0,
+   "duration": 4
+  },
+  {
+   "text": "Siap, Pak. Siap. Asep, Pak. Terima. Terima kasih Pak. Terima kasih.",
+   "start": 34.0,
+   "duration": 8
+  },
+  {
+   "text": "Terima kasih, Mas. Mas, apa kabar, Mas? Sehat.",
+   "start": 42.0,
+   "duration": 6
+  },
+  {
+   "text": "Aduh, sama-sama GSG.",
+   "start": 48.0,
+   "duration": 9
+  },
+  {
+   "text": "Asalamualaikum warahmatullahi wabarakatuh.",
+   "start": 57.0,
+   "duration": 2
+  },
+  {
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh.",
+   "start": 59.0,
+   "duration": 3
+  }
+ ]
+}

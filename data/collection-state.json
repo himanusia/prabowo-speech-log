@@ -1,14 +1,16 @@
 {
- "generated_at": "2026-11-07T20:36:07+07:00",
- "channel_total": 4937,
- "era_total": 953,
- "worklist_total": 287,
+ "generated_at": "2026-11-08T20:36:59+07:00",
+ "channel_total": 4938,
+ "era_total": 954,
+ "worklist_total": 288,
  "counts": {
+  "ok_belum_masuk_arsip": 1,
   "tanpa_track": 284,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
+   "ok_belum_masuk_arsip": 1,
    "tanpa_track": 168,
    "panel_kosong": 3
   },
@@ -23,19 +25,27 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 0,
+ "perlu_impor": 1,
  "blocked_suspected": false,
  "block_tail": [
-  "ok",
   "ok",
   "no_indonesian_track",
   "ok",
   "ok",
   "ok",
   "ok",
-  "no_indonesian_track"
+  "no_indonesian_track",
+  "ok"
  ],
  "rows": [
+  {
+   "video_id": "6piWd34ILKo",
+   "title": "Presiden Prabowo Terima 10 Mantan Kapolri beserta Kapolri, Hambalang, 8 November 2026",
+   "kind": "ambigu",
+   "date": "2026-11-08",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
   {
    "video_id": "GTkGngNOupg",
    "title": "President Prabowo Receives Letters of Credence from Eleven Ambassadors Extraordinary and Plenipot...",

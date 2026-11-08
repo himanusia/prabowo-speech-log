@@ -10513,5 +10513,31 @@
    "pertahanan_dan_keamanan": 4,
    "nasional_dan_identitas": 80
   }
+ },
+ {
+  "id": "2026-11-08-terima-10-mantan-kapolri-beserta-kapolri-hambalang",
+  "date": "2026-11-08",
+  "title": "Presiden Prabowo Terima 10 Mantan Kapolri beserta Kapolri, Hambalang, 8 November 2026",
+  "channel": "Sekretariat Presiden",
+  "video_id": "6piWd34ILKo",
+  "youtube_url": "https://www.youtube.com/watch?v=6piWd34ILKo",
+  "duration_s": 62,
+  "duration_hms": "1:02",
+  "token_count": 71,
+  "unique_word_count": 47,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 9,
+  "topics": {
+   "pangan": 0,
+   "ekonomi": 0,
+   "pendidikan": 0,
+   "kesehatan_dan_gizi": 0,
+   "tata_kelola": 0,
+   "pertahanan_dan_keamanan": 0,
+   "nasional_dan_identitas": 0
+  }
  }
 ]
