@@ -1,33 +1,33 @@
 {
- "generated_at": "2026-11-08T20:36:49+07:00",
+ "generated_at": "2026-11-09T20:37:16+07:00",
  "channel_url": "https://www.youtube.com/@SekretariatPresiden/videos",
  "era_boundary_position": 954,
  "channel_total": 4938,
  "era_total": 954,
- "already_in_archive": 782,
+ "already_in_archive": 783,
  "counts": {
   "ambigu": 586,
-  "bukan_prabowo": 95,
-  "kunjungan": 199,
+  "bukan_prabowo": 94,
+  "kunjungan": 200,
   "pidato": 24,
   "keterangan_pers": 50
  },
  "pending_counts": {
-  "ambigu": 172,
-  "bukan_prabowo": 90,
-  "kunjungan": 114,
+  "ambigu": 171,
+  "bukan_prabowo": 89,
+  "kunjungan": 115,
   "keterangan_pers": 1,
   "pidato": 1
  },
  "items": [
   {
    "video_id": "6piWd34ILKo",
-   "title": "Presiden Prabowo Terima 10 Mantan Kapolri beserta Kapolri, Hambalang, 8 November 2026",
+   "title": "President Prabowo Receives 10 Former National Police Chiefs and Current National Police Chief, Ha...",
    "position": 0,
-   "date": "2026-11-08",
-   "date_precise": true,
+   "date": null,
+   "date_precise": false,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "GTkGngNOupg",
@@ -850,7 +850,7 @@
   },
   {
    "video_id": "YfThNWTDsX0",
-   "title": "Independence Day Celebration for Everyone",
+   "title": "Perayaan Kemerdekaan untuk Semua",
    "position": 92,
    "date": null,
    "date_precise": false,
@@ -1957,7 +1957,7 @@
   },
   {
    "video_id": "_Nk4pAl8C-w",
-   "title": "Palace for School Children: SMPN 39 Jakarta",
+   "title": "Istana untuk Anak Sekolah: SMPN 39 Jakarta",
    "position": 215,
    "date": null,
    "date_precise": false,
@@ -2128,11 +2128,11 @@
   },
   {
    "video_id": "-qWd5hJwO9U",
-   "title": "Press Statement by Head of the State-Owned Enterprises Regulatory Agency Dony Oskaria, Jakarta, A...",
+   "title": "Keterangan Pers Kepala Badan Pengaturan BUMN Dony Oskaria, Jakarta, 7 April 2026 1",
    "position": 234,
-   "date": null,
-   "date_precise": false,
-   "kind": "bukan_prabowo",
+   "date": "2026-04-07",
+   "date_precise": true,
+   "kind": "ambigu",
    "status": "pending"
   },
   {
@@ -2236,10 +2236,10 @@
   },
   {
    "video_id": "1y5JYu2nxqE",
-   "title": "President Prabowo's remarks at the Indonesia-Japan Business Forum, Tokyo, March 30, 2026",
+   "title": "Sambutan Presiden Prabowo pada Forum Bisnis Indonesia-Jepang, Tokyo, 30 Maret 2026",
    "position": 246,
-   "date": "2026-00-00?",
-   "date_precise": false,
+   "date": "2026-03-30",
+   "date_precise": true,
    "kind": "pidato",
    "status": "have"
   },
@@ -6691,11 +6691,11 @@
   },
   {
    "video_id": "tLM3iOgnuGY",
-   "title": "President Prabowo Receives Courtesy Call from NDB President Dilma Rousseff, March 25, 2025",
+   "title": "Presiden Prabowo Terima Kunjungan Kehormatan Presiden NDB Dilma Rousseff, 25 Maret 2025",
    "position": 741,
-   "date": "2025-00-00?",
-   "date_precise": false,
-   "kind": "ambigu",
+   "date": "2025-03-25",
+   "date_precise": true,
+   "kind": "kunjungan",
    "status": "pending"
   },
   {
@@ -7501,10 +7501,10 @@
   },
   {
    "video_id": "GP1U9lau9hU",
-   "title": "Press Statement by President Prabowo After Inaugurating Strategic Electricity Projects, January 2...",
+   "title": "Keterangan Pers Presiden Prabowo Usai Resmikan Proyek Strategis Ketenagalistrikan, 20 Januari 2025",
    "position": 831,
-   "date": null,
-   "date_precise": false,
+   "date": "2025-01-20",
+   "date_precise": true,
    "kind": "keterangan_pers",
    "status": "have"
   },
@@ -8609,15 +8609,6 @@
  ],
  "todo": [
   {
-   "video_id": "6piWd34ILKo",
-   "title": "Presiden Prabowo Terima 10 Mantan Kapolri beserta Kapolri, Hambalang, 8 November 2026",
-   "position": 0,
-   "date": "2026-11-08",
-   "date_precise": true,
-   "kind": "ambigu",
-   "status": "pending"
-  },
-  {
    "video_id": "GTkGngNOupg",
    "title": "President Prabowo Receives Letters of Credence from Eleven Ambassadors Extraordinary and Plenipot...",
    "position": 1,
@@ -9137,6 +9128,15 @@
    "date": "2026-04-12",
    "date_precise": true,
    "kind": "kunjungan",
+   "status": "pending"
+  },
+  {
+   "video_id": "-qWd5hJwO9U",
+   "title": "Keterangan Pers Kepala Badan Pengaturan BUMN Dony Oskaria, Jakarta, 7 April 2026 1",
+   "position": 234,
+   "date": "2026-04-07",
+   "date_precise": true,
+   "kind": "ambigu",
    "status": "pending"
   },
   {
@@ -10599,11 +10599,11 @@
   },
   {
    "video_id": "tLM3iOgnuGY",
-   "title": "President Prabowo Receives Courtesy Call from NDB President Dilma Rousseff, March 25, 2025",
+   "title": "Presiden Prabowo Terima Kunjungan Kehormatan Presiden NDB Dilma Rousseff, 25 Maret 2025",
    "position": 741,
-   "date": "2025-00-00?",
-   "date_precise": false,
-   "kind": "ambigu",
+   "date": "2025-03-25",
+   "date_precise": true,
+   "kind": "kunjungan",
    "status": "pending"
   },
   {
