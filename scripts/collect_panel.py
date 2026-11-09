@@ -46,7 +46,10 @@ WORKLIST = DATA / "worklist.json"
 
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 PROFILE = Path("/tmp/yt-collector-profile")
-PORT = 9333
+# Port khusus kolektor. JANGAN pakai port browser lain: dulu 9333 dipakai
+# Google Flow MCP (Chrome non-headless, ~/.flow-mcp/chrome-profile), jadi
+# collector menumpang di jendela itu dan tab YouTube Prabowo muncul di layar.
+PORT = 9345
 
 # --------------------------------------------------------------------- JS ---
 
@@ -197,9 +200,22 @@ def launch_browser() -> None:
 
 
 def is_up() -> bool:
+    """True hanya kalau port dipegang Chrome headless milik kolektor.
+
+    Kalau port dipakai browser lain (mis. Google Flow MCP), berhenti dengan
+    pesan jelas — jangan menumpang jendela yang kelihatan di layar.
+    """
     try:
         with urllib.request.urlopen(f"http://127.0.0.1:{PORT}/json/version", timeout=2) as r:
+            ua = (json.loads(r.read().decode()) or {}).get("User-Agent", "")
+            if "HeadlessChrome" not in ua:
+                raise SystemExit(
+                    f"port {PORT} dipakai browser lain (bukan headless): {ua}\n"
+                    "collector menolak menumpang; pakai PORT lain atau tutup browser itu."
+                )
             return r.status == 200
+    except SystemExit:
+        raise
     except Exception:
         return False
 
