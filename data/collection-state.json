@@ -1,21 +1,19 @@
 {
- "generated_at": "2026-11-09T20:37:26+07:00",
- "channel_total": 4938,
- "era_total": 954,
+ "generated_at": "2026-11-10T20:36:51+07:00",
+ "channel_total": 4940,
+ "era_total": 956,
  "worklist_total": 288,
  "counts": {
-  "tanpa_track": 284,
-  "panel_kosong": 3,
-  "ok_belum_masuk_arsip": 1
+  "tanpa_track": 285,
+  "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "tanpa_track": 167,
-   "panel_kosong": 3,
-   "ok_belum_masuk_arsip": 1
+   "tanpa_track": 169,
+   "panel_kosong": 3
   },
   "kunjungan": {
-   "tanpa_track": 115
+   "tanpa_track": 114
   },
   "keterangan_pers": {
    "tanpa_track": 1
@@ -25,19 +23,27 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 1,
+ "perlu_impor": 0,
  "blocked_suspected": false,
  "block_tail": [
-  "no_indonesian_track",
   "ok",
   "ok",
   "ok",
   "ok",
   "no_indonesian_track",
   "ok",
-  "ok"
+  "ok",
+  "no_indonesian_track"
  ],
  "rows": [
+  {
+   "video_id": "gxB_49ITc4c",
+   "title": "Presiden Prabowo Akan Anugerahkan Gelar Pahlawan Nasional Tahun 2026, Istana Negara, 10 Nov 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
   {
    "video_id": "GTkGngNOupg",
    "title": "President Prabowo Receives Letters of Credence from Eleven Ambassadors Extraordinary and Plenipot...",
@@ -500,14 +506,6 @@
    "kind": "kunjungan",
    "date": "2026-04-12",
    "state": "tanpa_track",
-   "detail": ""
-  },
-  {
-   "video_id": "-qWd5hJwO9U",
-   "title": "Keterangan Pers Kepala Badan Pengaturan BUMN Dony Oskaria, Jakarta, 7 April 2026 1",
-   "kind": "ambigu",
-   "date": "2026-04-07",
-   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {
@@ -1808,9 +1806,9 @@
   },
   {
    "video_id": "tLM3iOgnuGY",
-   "title": "Presiden Prabowo Terima Kunjungan Kehormatan Presiden NDB Dilma Rousseff, 25 Maret 2025",
-   "kind": "kunjungan",
-   "date": "2025-03-25",
+   "title": "President Prabowo Receives Courtesy Call from NDB President Dilma Rousseff, March 25, 2025",
+   "kind": "ambigu",
+   "date": "2025-00-00?",
    "state": "tanpa_track",
    "detail": ""
   },

@@ -44,12 +44,13 @@ RAW = DATA / "panel_raw"
 PROGRESS = DATA / "panel-progress.jsonl"
 WORKLIST = DATA / "worklist.json"
 
-CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-PROFILE = Path("/tmp/yt-collector-profile")
+CHROME = os.environ.get(
+    "CHROME_BIN", "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome")
+PROFILE = Path(os.environ.get("YT_COLLECTOR_PROFILE", "/tmp/yt-collector-profile"))
 # Port khusus kolektor. JANGAN pakai port browser lain: dulu 9333 dipakai
 # Google Flow MCP (Chrome non-headless, ~/.flow-mcp/chrome-profile), jadi
 # collector menumpang di jendela itu dan tab YouTube Prabowo muncul di layar.
-PORT = 9345
+PORT = int(os.environ.get("YT_COLLECTOR_PORT", "9345"))
 
 # --------------------------------------------------------------------- JS ---
 
