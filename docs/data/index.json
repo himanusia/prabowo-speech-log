@@ -10539,5 +10539,31 @@
    "pertahanan_dan_keamanan": 0,
    "nasional_dan_identitas": 0
   }
+ },
+ {
+  "id": "2026-11-11-hadiri-pembentangan-kain-merah-putih-24-km",
+  "date": "2026-11-11",
+  "title": "Presiden Prabowo Hadiri Pembentangan Kain Merah Putih 24 Km dan Resmikan Masjid Giok Baitul 'Ala",
+  "channel": "Sekretariat Presiden",
+  "video_id": "8PEDnbxMUO0",
+  "youtube_url": "https://www.youtube.com/watch?v=8PEDnbxMUO0",
+  "duration_s": 135,
+  "duration_hms": "2:15",
+  "token_count": 152,
+  "unique_word_count": 106,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 6,
+  "topics": {
+   "pangan": 0,
+   "ekonomi": 0,
+   "pendidikan": 0,
+   "kesehatan_dan_gizi": 0,
+   "tata_kelola": 0,
+   "pertahanan_dan_keamanan": 0,
+   "nasional_dan_identitas": 3
+  }
  }
 ]

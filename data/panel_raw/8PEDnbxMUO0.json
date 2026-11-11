@@ -1,0 +1,91 @@
+{
+ "id": "8PEDnbxMUO0",
+ "url": "https://www.youtube.com/watch?v=8PEDnbxMUO0",
+ "title": "Presiden Prabowo Hadiri Pembentangan Kain Merah Putih 24 Km dan Resmikan Masjid Giok Baitul 'Ala",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 13,
+ "raw_snippets": [
+  {
+   "text": "Terima kasih atas kehormatan diberikan kepada saya. Saya diundang hari ini oleh tokoh-tokoh Kabupaten Nagan Raya. Juga",
+   "start": 4.0,
+   "duration": 9
+  },
+  {
+   "text": "terima kasih kepada seluruh warga dan saudara-saudara sekalian yang telah ikut menerima saya dan saya menyaksikan",
+   "start": 13.0,
+   "duration": 8
+  },
+  {
+   "text": "sendiri sepanjang 24 km membentengi bendera merah putih. Saya kira ini rekor dunia.",
+   "start": 21.0,
+   "duration": 32
+  },
+  {
+   "text": "Kita masih ingat saudara-saudara kita yang mengalami kesulitan. dan musibah di mana-mana. Kita sedang bekerja keras",
+   "start": 53.0,
+   "duration": 9
+  },
+  {
+   "text": "untuk ee memperbaiki keadaan semuanya.",
+   "start": 62.0,
+   "duration": 5
+  },
+  {
+   "text": "Alhamdulillah sudah dalam berapa bulan kondisi di Aceh, Sumatera Utara, dan Sumatera Barat",
+   "start": 67.0,
+   "duration": 9
+  },
+  {
+   "text": "sudah banyak daerah yang sudah pulih ya 100% ada yang masih sisa beberapa persen.",
+   "start": 76.0,
+   "duration": 10
+  },
+  {
+   "text": "Kita bekerja keras, kita harus siap dunia iklim dunia sedang ee",
+   "start": 86.0,
+   "duration": 9
+  },
+  {
+   "text": "banyak perubahan kita antisipasi tapi kita akan kerahkan segala kemampuan kita untuk menghadapinya.",
+   "start": 95.0,
+   "duration": 16
+  },
+  {
+   "text": "Dengan mengucap bismillahirrahmanirrahim pada siang hari ini, hari Rabu, 11 November",
+   "start": 111.0,
+   "duration": 8
+  },
+  {
+   "text": "2026, dengan rahmat Allah Subhanahu wa taala, saya Prabowo Subianto, Presiden",
+   "start": 119.0,
+   "duration": 7
+  },
+  {
+   "text": "Republik Indonesia dengan ini meresmikan Masjid Giok Baitul Ala Nagan Raya.",
+   "start": 126.0,
+   "duration": 10
+  },
+  {
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh.",
+   "start": 136.0,
+   "duration": 3
+  }
+ ]
+}

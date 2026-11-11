@@ -1,7 +1,7 @@
 {
  "korpus": {
-  "pidato": 390,
-  "token": 402561,
+  "pidato": 391,
+  "token": 402713,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
@@ -26,7 +26,7 @@
   "danantara": {
    "kemunculan": 119,
    "pidato": 40,
-   "persen_pidato": 10.3,
+   "persen_pidato": 10.2,
    "per_1000": 0.3
   },
   "swasembada": {
@@ -38,7 +38,7 @@
   "hilirisasi": {
    "kemunculan": 111,
    "pidato": 47,
-   "persen_pidato": 12.1,
+   "persen_pidato": 12.0,
    "per_1000": 0.28
   },
   "sawit": {
@@ -346,45 +346,45 @@
  ],
  "ganti": {
   "saya": {
-   "kemunculan": 10243,
-   "pidato": 356,
+   "kemunculan": 10249,
+   "pidato": 357,
    "persen_pidato": 91.3,
-   "per_1000": 25.44
+   "per_1000": 25.45
   },
   "kita": {
-   "kemunculan": 14894,
-   "pidato": 356,
+   "kemunculan": 14902,
+   "pidato": 357,
    "persen_pidato": 91.3,
    "per_1000": 37.0
   },
   "kami": {
    "kemunculan": 1357,
    "pidato": 201,
-   "persen_pidato": 51.5,
+   "persen_pidato": 51.4,
    "per_1000": 3.37
   },
   "rakyat": {
    "kemunculan": 2304,
    "pidato": 207,
-   "persen_pidato": 53.1,
+   "persen_pidato": 52.9,
    "per_1000": 5.72
   },
   "pemerintah": {
    "kemunculan": 738,
    "pidato": 177,
-   "persen_pidato": 45.4,
+   "persen_pidato": 45.3,
    "per_1000": 1.83
   },
   "bangsa": {
    "kemunculan": 2134,
    "pidato": 200,
-   "persen_pidato": 51.3,
+   "persen_pidato": 51.2,
    "per_1000": 5.3
   },
   "negara": {
    "kemunculan": 2185,
    "pidato": 239,
-   "persen_pidato": 61.3,
+   "persen_pidato": 61.1,
    "per_1000": 5.43
   }
  },
@@ -435,14 +435,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 57,
-   "saya": 21.56,
-   "kita": 37.37,
+   "n": 58,
+   "saya": 21.59,
+   "kita": 37.4,
    "kami": 2.69,
-   "rakyat": 6.46,
+   "rakyat": 6.44,
    "pemerintah": 1.7,
-   "bangsa": 5.45,
-   "negara": 5.27
+   "bangsa": 5.44,
+   "negara": 5.26
   }
  ],
  "seri_bahasa": [
@@ -533,10 +533,10 @@
   },
   {
    "jenis": "peresmian",
-   "n": 35,
+   "n": 36,
    "median": 216,
    "maks": 3552,
-   "rata2": 733
+   "rata2": 717
   },
   {
    "jenis": "luar negeri",
