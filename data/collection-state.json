@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T20:36:59+07:00",
- "channel_total": 4941,
- "era_total": 957,
+ "generated_at": "2026-11-12T20:36:33+07:00",
+ "channel_total": 4942,
+ "era_total": 958,
  "worklist_total": 289,
  "counts": {
   "ok_belum_masuk_arsip": 1,
@@ -9,13 +9,13 @@
   "panel_kosong": 3
  },
  "by_kind": {
-  "kunjungan": {
-   "ok_belum_masuk_arsip": 1,
-   "tanpa_track": 114
-  },
   "ambigu": {
+   "ok_belum_masuk_arsip": 1,
    "tanpa_track": 169,
    "panel_kosong": 3
+  },
+  "kunjungan": {
+   "tanpa_track": 114
   },
   "keterangan_pers": {
    "tanpa_track": 1
@@ -30,19 +30,19 @@
  "block_tail": [
   "ok",
   "ok",
-  "ok",
   "no_indonesian_track",
   "ok",
   "ok",
   "no_indonesian_track",
+  "ok",
   "ok"
  ],
  "rows": [
   {
-   "video_id": "8PEDnbxMUO0",
-   "title": "Presiden Prabowo Hadiri Pembentangan Kain Merah Putih 24 Km dan Resmikan Masjid Giok Baitul 'Ala",
-   "kind": "kunjungan",
-   "date": null,
+   "video_id": "uq_XY9MGzFY",
+   "title": "President Prabowo Inaugurates Nagan Raya People's School Campus, November 11, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
    "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
@@ -1200,9 +1200,9 @@
   },
   {
    "video_id": "yomkQzmtkCs",
-   "title": "Bilateral Meeting of President Prabowo with President Dina Ercilia Boluarte Zegarra, August 11, 2025",
+   "title": "Pertemuan Bilateral Presiden Prabowo dengan Presiden Dina Ercilia Boluarte Zegarra, 11 Agustus 2025",
    "kind": "ambigu",
-   "date": "2025-00-00?",
+   "date": "2025-08-11",
    "state": "tanpa_track",
    "detail": ""
   },

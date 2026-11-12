@@ -1,0 +1,427 @@
+{
+ "id": "2026-11-11-resmikan-sekolah-rakyat-kampus-nagan-raya-11",
+ "video_id": "uq_XY9MGzFY",
+ "date": "2026-11-11",
+ "date_precise": true,
+ "title": "Presiden Prabowo Resmikan Sekolah Rakyat Kampus Nagan Raya, 11 November 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=uq_XY9MGzFY",
+ "duration_s": 1238,
+ "duration_hms": "20:38",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 173,
+ "token_count": 1528,
+ "unique_word_count": 575,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "uq_XY9MGzFY",
+   "url": "https://www.youtube.com/watch?v=uq_XY9MGzFY",
+   "title": "Presiden Prabowo Resmikan Sekolah Rakyat Kampus Nagan Raya, 11 November 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 12,
+  "ekonomi": 1,
+  "pendidikan": 45,
+  "kesehatan_dan_gizi": 15,
+  "tata_kelola": 5,
+  "pertahanan_dan_keamanan": 2,
+  "nasional_dan_identitas": 47
+ },
+ "policy_signals": {
+  "MBG": {
+   "count": 3
+  },
+  "Sekolah Rakyat": {
+   "count": 18
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 66.0,
+   "text": "Budaya Aceh laga hanaban lum [musik] [bernyanyi] panang ngon dua mata [musik] budaya pedang putimang bebutmu [musik][bernyanyi] dalam budaya luar [musik] beb dalam budaya [musik] gelumpang angin gcang [musik] agamang generasi semangat [musik] [musik] hadirin yang kami hormati mengawali acara laporan Menteri Sosial Bapak Saifulah Yusuf."
+  },
+  {
+   "t": 66.0,
+   "d": 3.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 69.0,
+   "d": 5.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 74.0,
+   "d": 17.0,
+   "text": "Selamat siang dan salam sejahtera untuk kita semua. yang kita muliakan, kita banggakan, kita hormati Presiden Republik Indonesia, Bapak Jenderal TNI Purnawirawan Prabowo Subianto. Tepuk tangan untuk Presiden kita."
+  },
+  {
+   "t": 91.0,
+   "d": 31.0,
+   "text": "[tepuk tangan] Alhamdulillah hari ini didampingi oleh Menko Pembangunan Manusia dan Kebudayaan Pak Sugiono. Terima kasih. Menteri Sekretaris Negara Pak Prasetyo Hadi, Menteri Pekerjaan Umum Pak Dodi Hanggodo, Menteri Dalam Negeri Muhammad Tito Karnavian, Bapak Sekretaris Kabinet yang juga sekaligus Duta Sekolah Rakyat Bapak Tedi Indrawijaya."
+  },
+  {
+   "t": 122.0,
+   "d": 30.0,
+   "text": "Hadir bersama kita anggota Badan Pemeriksa Keuangan Pak Haidir Abdurrahman, Wakil Gubernur Aceh, Pak Fadrullah, Pangdam Iskandar Muda, Kapolda Aceh, dan ini kebanggaan kita Bupati Lakan Raya, Pak Teku Raden Kumang, SH., MH, Wakil Bupati Nakan Raya, Raja Sayang. Para kepala sekolah, dan juga para guru, wali asuh, wali asrama."
+  },
+  {
+   "t": 152.0,
+   "d": 23.0,
+   "text": "serta yang paling saya cintai para pendamping sosial khusus di sini hadir juga perwakilan orang tua Pak Presiden di belakang kami ini. Sebagian di sini sebagian lagi masih di luar dan tercinta anak-anak sekalian siswa Sekolah Rakyat Kampus Nagan Raya yang saya banggakan."
+  },
+  {
+   "t": 175.0,
+   "d": 36.0,
+   "text": "Izin Bapak Presiden, Sekolah Rakyat Kampus Nagan Raya atas lahan 8 hektar yang disediakan Pemerintah Kabupaten Agan Raya dan dibangun oleh pekerja Kementerian Pekerjaan Hukum atas arahan Bapak Presiden. Daya tampungnya per hari ini 1260 siswa yang akan ditingkatkan menjadi lebih dari 2.000 Ibu siswa untuk tingkat SD, SMP, dan SMA yang beroperasi sejak tanggal 31 Juli 2026."
+  },
+  {
+   "t": 211.0,
+   "d": 15.0,
+   "text": "Ini adalah satu dari 100 sekolah rakyat permanen yang dibangun di seluruh Indonesia. Di Aceh terdapat sekolah rakyat, lima permanen, empat rintisan dengan total siswa lebih dari 2.000 siswa."
+  },
+  {
+   "t": 226.0,
+   "d": 14.0,
+   "text": "Secara nasional sekolah rakyat kini menampung kurang lebih 50 45.000 siswa beroperasi di 34 provinsi dan 158 kabupaten kota."
+  },
+  {
+   "t": 240.0,
+   "d": 12.0,
+   "text": "Mereka didampingi empat ya. Boleh tepuk tangan lebih keras lagi. Kompak tepuk tangan."
+  },
+  {
+   "t": 252.0,
+   "d": 16.0,
+   "text": "Mereka didampingi 4.974 guru dan 15.346 tenaga kependidikan termasuk 6.824 wali asuh dan 2.608 wali asrama."
+  },
+  {
+   "t": 268.0,
+   "d": 31.0,
+   "text": "Bapak Presiden yang kami hormati. Kita tahu, kita semua paham bahwa Sekolah Rakyat adalah gagasan langsung dari Bapak Presiden Prabowo. Tidak membuka pendaftaran. Yang ada adalah penjangkauan berbasis data melalui pendamping sosial bekerja sama dengan pemerintah daerah. dan kami telah mengetuk 1,5 juta pintu rumah keluarga paling tidak mampu. Kami menemukan mereka yang selama ini tidak terlihat sebagaimana yang sering disampaikan oleh Bapak Presiden."
+  },
+  {
+   "t": 299.0,
+   "d": 14.0,
+   "text": "Yang pertama, 61% orang tua siswa berpenghasilan di bawah Rp1 juta per bulan. Yang kedua, 66% menanggung 4 jiwa atau lebih."
+  },
+  {
+   "t": 313.0,
+   "d": 22.0,
+   "text": "3 48% ayahnya petani, buru harian atau nelayan. Dan yang keempat 4 33% masih menumpang atau menyewa rumah. Kami juga menemukan luka yang tidak terlihat dari luar. 36% siswa memiliki masalah emosional."
+  },
+  {
+   "t": 335.0,
+   "d": 5.0,
+   "text": "35% sulit bergaul dengan teman sebaya."
+  },
+  {
+   "t": 340.0,
+   "d": 21.0,
+   "text": "Tetapi alhamdulillah Bapak Presiden melalui pendampingan selama lebih 1 tahun lebih terakhir ini yang sudah yang sudah beroperasi sejak tahun 2025 banyak sekali siswa-siswa sekolah rakyat bisa pulih kembali kemudian mereka bahkan berprestasi."
+  },
+  {
+   "t": 361.0,
+   "d": 30.0,
+   "text": "Atas arahan Bapak Presiden, ada tiga pendekatan di sekolah rakyat. Pertama adalah edukasi. Kedua, rehabilitasi bagi yang memerlukan dan yang ketiga adalah pemberdayaan dengan penekanan pada vokasi. Untuk itu dalam kesempatan yang baik ini kami mohon kesediaan Bapak Presiden untuk bisa meresmikan satu dari 100 sekolah rakyat yang telah dibangun tahun ini dan insyaallah tahun depan akan dibangun lagi karena target Pak Presiden di setiap kabupaten kota"
+  },
+  {
+   "t": 391.0,
+   "d": 24.0,
+   "text": "berdiri satu gedung permanen sekolah rakyat. Dengan segala hormat, dengan rasa terima kasih yang luar biasa kepada Pemerintah Provinsi Aceh, Gubernur dan Wakil Gubernur. Terima kasih kepada Bupati dan Wakil Bupati yang luar biasa Nagan Raya. Kami izin Bapak Presiden bisa menandatangani prasti yang sudah kamiediakan. Kurang lebihnya mohon maaf."
+  },
+  {
+   "t": 415.0,
+   "d": 4.0,
+   "text": "Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 419.0,
+   "d": 3.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 422.0,
+   "d": 10.0,
+   "text": "Selanjutnya mari kita simak bersama sambutan Presiden Republik Indonesia sekaligus meresmikan Sekolah Rakyat Kampus Nagan Raya."
+  },
+  {
+   "t": 432.0,
+   "d": 1.0,
+   "text": "Bismillahirrahmanirrahim."
+  },
+  {
+   "t": 433.0,
+   "d": 3.0,
+   "text": "Asalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 436.0,
+   "d": 8.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 444.0,
+   "d": 41.0,
+   "text": "Selamat siang. Salam sejahtera bagi kita sekalian. Yang saya hormati Menteri Sosial sebagai penyelenggara, Saudara Saifulah Yusuf beserta seluruh jajaran Kementerian Sosial, Menteri Koordinator Pembangunan Manusia dan Kebudayaan, Saudara Sugiono, Menteri Sekretaris Negara, Saudara Prasetio Hadi, Menteri Dalam Negeri Jenderal Polisi Purnawirao Karnavian, Menteri Pekerjaan Umum, Saudara Dodi Hanggodo,"
+  },
+  {
+   "t": 485.0,
+   "d": 5.0,
+   "text": "Sekretaris Kabinet Lenan Kolonel Infantry Teddy Indrawijaya."
+  },
+  {
+   "t": 490.0,
+   "d": 33.0,
+   "text": "Yang saya hormati Pangdam Iskandar Muda Brigadir Jenderal TNI Mahesa Fitriadi, Kapolda Aceh Irjan Pol Rudi Setiawan, Wakil Gubernur Aceh, Saudara Fadullah, Bupati Nagan Raya, Saudara Teku Raja Kemangan, ya, anggota BPK yang saya hormati. Hadir juga jauh-jauh dari Jakarta, Saudara-saudara."
+  },
+  {
+   "t": 523.0,
+   "d": 4.0,
+   "text": "Orang Aceh orang Aceh Putra."
+  },
+  {
+   "t": 527.0,
+   "d": 11.0,
+   "text": "Iya. Terima kasih para kepala sekolah, para guru, tenaga pendidik sekolah rakyat."
+  },
+  {
+   "t": 538.0,
+   "d": 14.0,
+   "text": "Yang saya cintai anak-anakku, siswa-siswi sekolah rakyat, seluruh hadirin undangan, orang tua, murid, rekan-rekan pers dan media yang hadir."
+  },
+  {
+   "t": 552.0,
+   "d": 15.0,
+   "text": "Tentunya tidak henti-hentinya kita panjatkan puji syukur kehadirat Allah Subhanahu wa taala, Tuhan maha besar yang memiliki sekalian alam."
+  },
+  {
+   "t": 567.0,
+   "d": 7.0,
+   "text": "Hanya kepadalah kita berdoa dan hanya kepadanyalah kita minta pertolongan."
+  },
+  {
+   "t": 574.0,
+   "d": 13.0,
+   "text": "Kita senantiasa bersyukur atas segala berkah karunia kebaikan, kedamaian yang masih diberikan kepada kita."
+  },
+  {
+   "t": 587.0,
+   "d": 16.0,
+   "text": "atas nafas dan kesehatan yang masih diberikan kepada kita sehingga kita dapat berkumpul di siang hari ini pada acara peresmian Sekolah Rakyat Nagan Raya."
+  },
+  {
+   "t": 603.0,
+   "d": 55.0,
+   "text": "Hari ini saya dapat kehormatan diundang ke Kabupaten Nagan Raya dan saya disambut oleh masyarakat dengan sangat antusias [mendengus] begitu tiba selama sejauh 24 km masyarakat memegang bendera merah putih sepanjang 24 km ini [tepuk tangan] mungkin dicek ini mungkin rekor dunia bendera terpanjang di dunia. Terima kasih. [tepuk tangan] Terima kasih masyarakat Nagan Raya yang telah mengambil inisiatif tersebut."
+  },
+  {
+   "t": 658.0,
+   "d": 16.0,
+   "text": "Saya waktu berapa minggu lalu bupati Anda ketemu saya di Jakarta dan mendesak saya akan hadir pada tanggal 11 November."
+  },
+  {
+   "t": 674.0,
+   "d": 12.0,
+   "text": "Begitu saya dengar ada bendera sepanjang 24 km, akhirnya saya putuskan harus hadir supaya saya bisa melihat sendiri."
+  },
+  {
+   "t": 686.0,
+   "d": 12.0,
+   "text": "Dan akhirnya saya melihat sendiri dan saya akhirnya saya hormat sama rakyat Nagan Raya. Terima kasih."
+  },
+  {
+   "t": 698.0,
+   "d": 10.0,
+   "text": "[tepuk tangan] Terima kasih atas kesetiaan kepada negara dan bangsa dan merah putih."
+  },
+  {
+   "t": 708.0,
+   "d": 10.0,
+   "text": "Tadi saya mendapat kehormatan meresmikan renovasi Masjid Giok, Masjid Agung Baitul Ala."
+  },
+  {
+   "t": 718.0,
+   "d": 7.0,
+   "text": "Ternyata ini masjid giok terbesar di dunia."
+  },
+  {
+   "t": 725.0,
+   "d": 30.0,
+   "text": "[tepuk tangan] Naganaya saya kira sebentar lagi akan jadi pusat tujuan wisata dari banyak negara ingin melihat masjid giok satu-satunya di dunia. [tepuk tangan] Nagan Raya juga terkenal pertanian sangat pertaniannya sangat maju."
+  },
+  {
+   "t": 755.0,
+   "d": 6.0,
+   "text": "dan selalu menjadi lumbung beras."
+  },
+  {
+   "t": 761.0,
+   "d": 4.0,
+   "text": "Untuk itu kita akan dukung terus."
+  },
+  {
+   "t": 765.0,
+   "d": 6.0,
+   "text": "Saya sudah kasih instruksi irigasi segera diperbaiki."
+  },
+  {
+   "t": 771.0,
+   "d": 28.0,
+   "text": "ee lahan-lahan pertanian dibantu, didukung dengan ee benih yang terbaik, teknologi yang terbaik dengan ee pupuk pestisida dan semua dukungan supaya produksi bisa meningkat dan supaya penghasilan para petani meningkat dengan sangat-sangat baik."
+  },
+  {
+   "t": 799.0,
+   "d": 31.0,
+   "text": "[tepuk tangan] Petani, buruh tani dan nelayan adalah produsen menghasilkan pangan untuk negara. Jadi kehidupannya, kualitas hidupnya harus sangat baik. Itu tekad saya, tekad pemerintah saya memperbaiki hidup rakyat Indonesia seluruhnya, terutama yang paling lapisan paling bawah. Kita ingin menghilangkan kemiskinan dari bumi Indonesia."
+  },
+  {
+   "t": 830.0,
+   "d": 14.0,
+   "text": "[tepuk tangan] Antara lain melalui sekolah-sekolah, sekolah rakyat. Kita dukung produksi, kita dukung pendidikan."
+  },
+  {
+   "t": 844.0,
+   "d": 10.0,
+   "text": "Saya bertekad pendidikan Indonesia harus meningkat drastis dalam waktu yang sesingkat-singkatnya. Itu tekad saya."
+  },
+  {
+   "t": 854.0,
+   "d": 40.0,
+   "text": "Itu usaha saya, itu perhatian saya, itu fokus saya sebagai Presiden Republik Indonesia. Pendidikan yang terbaik untuk anak-anak kita juga gizi untuk anak-anak kita. Kita harus menghilangkan kelaparan dari seluruh rakyat. Mereka yang sudah kaya, mereka yang tidak perlu MBG, gak usah, enggak apa-apa. Tapi rakyat kita yang lain kalau dia perlu MBG, dia harus mendapat MBG yang terbaik di seluruh Indonesia. Saudara-saudara sekalian, insyaallah Indonesia akan bangkit."
+  },
+  {
+   "t": 894.0,
+   "d": 14.0,
+   "text": "[tepuk tangan] Dan anak-anakku yang di sini, kalian akan bangkit, kalian akan tumbuh menjadi manusia-manusia yang baik, manusia-manusia yang terhormat yang akan dapat kualitas hidup yang sebaik-baiknya. Terima kasih."
+  },
+  {
+   "t": 908.0,
+   "d": 15.0,
+   "text": "[tepuk tangan] Saya kira itu yang ingin saya sampaikan. Saya bangga dan saya gembira hari ini dan ini akan kita teruskan."
+  },
+  {
+   "t": 923.0,
+   "d": 6.0,
+   "text": "Terima kasih kepala sekolah, terima kasih jajaran Kementerian Sosial."
+  },
+  {
+   "t": 929.0,
+   "d": 8.0,
+   "text": "Bina anak-anak ini dengan sebaik-baiknya ya. Mereka harus menghadapi masa depan yang lebih baik."
+  },
+  {
+   "t": 937.0,
+   "d": 9.0,
+   "text": "petani, buruh, nelayan dalam waktu yang secepat-cepatnya akan kita perbaiki semua kualitas hidupnya."
+  },
+  {
+   "t": 946.0,
+   "d": 13.0,
+   "text": "Itu tekad saya dan itu rencana kita dan itu akan kita wujudkan dalam waktu-waktu yang dekat. Saya tidak bicara di kelak kemudian hari. Saya bicara dalam waktu yang sesingkat-singkatnya."
+  },
+  {
+   "t": 959.0,
+   "d": 4.0,
+   "text": "Terima kasih. Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 963.0,
+   "d": 4.0,
+   "text": "Waalaikumsalam warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 967.0,
+   "d": 34.0,
+   "text": "[berteriak] Dan dengan mengucap bismillahirrahmanirrahim pada siang hari ini, hari Rabu, 11 November 2026, dengan rahmat Allah Subhanahu wa taala, saya Prabowo Subianto, Presiden Republik Indonesia dengan ini meresmikan Sekolah Rakyat Kampus Nagan Raya. Terima kasih. [tepuk tangan] Wasalamualaikum warahmatullahi wabarakatuh."
+  },
+  {
+   "t": 1001.0,
+   "d": 24.0,
+   "text": "Waalaikumsalam. Selanjutnya penandatanganan prasasti."
+  },
+  {
+   "t": 1025.0,
+   "d": 15.0,
+   "text": "Dengan demikian Sekolah Rakyat Kampus Nagan Raya telah diresmikan oleh Presiden Republik Indonesia."
+  },
+  {
+   "t": 1040.0,
+   "d": 14.0,
+   "text": "[musik] Presidenku tetap mesti ada yang tak [bernyanyi] sebarkan."
+  },
+  {
+   "t": 1054.0,
+   "d": 59.0,
+   "text": "Presidenku [musik] janganlah doa [musik] rakyat akan [musik] presidenku [bernyanyi][musik] tetaplah kuat [bernyanyi] meski ada [musik] yang sepat presidenku [musik] janganlah lelah doa [musik][bernyanyi] rakyat tak akan kudang [musik] presiden Prabowo Subianto, [musik] mungkin Bapak tidak mengenal nama kami."
+  },
+  {
+   "t": 1113.0,
+   "d": 8.0,
+   "text": "[musik] tidak tidak pernah bertemu ayah dan ibu kami."
+  },
+  {
+   "t": 1121.0,
+   "d": 9.0,
+   "text": "Tetapi kebijakan Bapak telah mengetuk pintu rumah kami."
+  },
+  {
+   "t": 1130.0,
+   "d": 7.0,
+   "text": "Masuk ke dapur, tempat Ibu menana ke harapan."
+  },
+  {
+   "t": 1137.0,
+   "d": 8.0,
+   "text": "[musik] Hadir di meja makan tempat kami mensyukuri kehidupan."
+  },
+  {
+   "t": 1145.0,
+   "d": 8.0,
+   "text": "Bapak Presiden, jika kelak kami berhasil, kami ingin dunia tahu."
+  },
+  {
+   "t": 1153.0,
+   "d": 14.0,
+   "text": "Kami [musik] berhasil karena Bapa telah memberikan kami kesempatan [musik] untuk mengubah garis kehidupan."
+  },
+  {
+   "t": 1167.0,
+   "d": 19.0,
+   "text": "[tepuk tangan] [musik] U tetaplah kuat meski [musik] ada [bernyanyi] yang tak sepakat."
+  },
+  {
+   "t": 1186.0,
+   "d": 19.0,
+   "text": "[musik] Presidenku janganlah lelah. [musik] Doa rakyat tak akan [bernyanyi] [musik] kuda."
+  },
+  {
+   "t": 1205.0,
+   "d": 16.0,
+   "text": "[musik] Presidenku tetap sa meski [musik] yang selah."
+  },
+  {
+   "t": 1221.0,
+   "d": 7.0,
+   "text": "Presidenku [musik] janganlah [bernyanyi] gelau."
+  },
+  {
+   "t": 1228.0,
+   "d": 10.0,
+   "text": "Doa rakyat tak akan puda. [bernyanyi] nya [musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

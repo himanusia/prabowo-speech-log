@@ -1,6 +1,6 @@
 # Status pengumpulan
 
-Diperbarui: 2026-11-11T20:36:59+07:00
+Diperbarui: 2026-11-12T20:36:33+07:00
 
 ## Ringkasan
 
@@ -16,9 +16,9 @@ Diperbarui: 2026-11-11T20:36:59+07:00
 
 | Jenis | Total | Sudah | Sisa |
 |---|---:|---:|---:|
-| ambigu | 172 | 0 | 172 |
+| ambigu | 173 | 1 | 172 |
 | keterangan_pers | 1 | 0 | 1 |
-| kunjungan | 115 | 1 | 114 |
+| kunjungan | 114 | 0 | 114 |
 | pidato | 1 | 0 | 1 |
 
 ## Yang belum ditarik

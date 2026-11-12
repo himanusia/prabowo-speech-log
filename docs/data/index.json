@@ -10565,5 +10565,31 @@
    "pertahanan_dan_keamanan": 0,
    "nasional_dan_identitas": 3
   }
+ },
+ {
+  "id": "2026-11-11-resmikan-sekolah-rakyat-kampus-nagan-raya-11",
+  "date": "2026-11-11",
+  "title": "Presiden Prabowo Resmikan Sekolah Rakyat Kampus Nagan Raya, 11 November 2026",
+  "channel": "Sekretariat Presiden",
+  "video_id": "uq_XY9MGzFY",
+  "youtube_url": "https://www.youtube.com/watch?v=uq_XY9MGzFY",
+  "duration_s": 1238,
+  "duration_hms": "20:38",
+  "token_count": 1528,
+  "unique_word_count": 575,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 75,
+  "topics": {
+   "pangan": 12,
+   "ekonomi": 1,
+   "pendidikan": 45,
+   "kesehatan_dan_gizi": 15,
+   "tata_kelola": 5,
+   "pertahanan_dan_keamanan": 2,
+   "nasional_dan_identitas": 47
+  }
  }
 ]

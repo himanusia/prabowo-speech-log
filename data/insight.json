@@ -1,21 +1,21 @@
 {
  "korpus": {
-  "pidato": 391,
-  "token": 402713,
+  "pidato": 392,
+  "token": 404174,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
   "korupsi": {
    "kemunculan": 390,
    "pidato": 89,
-   "persen_pidato": 22.8,
-   "per_1000": 0.97
+   "persen_pidato": 22.7,
+   "per_1000": 0.96
   },
   "mbg": {
-   "kemunculan": 335,
-   "pidato": 80,
-   "persen_pidato": 20.5,
-   "per_1000": 0.83
+   "kemunculan": 338,
+   "pidato": 81,
+   "persen_pidato": 20.7,
+   "per_1000": 0.84
   },
   "bencana": {
    "kemunculan": 167,
@@ -27,24 +27,24 @@
    "kemunculan": 119,
    "pidato": 40,
    "persen_pidato": 10.2,
-   "per_1000": 0.3
+   "per_1000": 0.29
   },
   "swasembada": {
    "kemunculan": 120,
    "pidato": 35,
-   "persen_pidato": 9.0,
+   "persen_pidato": 8.9,
    "per_1000": 0.3
   },
   "hilirisasi": {
    "kemunculan": 111,
    "pidato": 47,
    "persen_pidato": 12.0,
-   "per_1000": 0.28
+   "per_1000": 0.27
   },
   "sawit": {
    "kemunculan": 160,
    "pidato": 37,
-   "persen_pidato": 9.5,
+   "persen_pidato": 9.4,
    "per_1000": 0.4
   },
   "karhutla": {
@@ -346,46 +346,46 @@
  ],
  "ganti": {
   "saya": {
-   "kemunculan": 10249,
-   "pidato": 357,
+   "kemunculan": 10284,
+   "pidato": 358,
    "persen_pidato": 91.3,
-   "per_1000": 25.45
+   "per_1000": 25.44
   },
   "kita": {
-   "kemunculan": 14902,
-   "pidato": 357,
+   "kemunculan": 14932,
+   "pidato": 358,
    "persen_pidato": 91.3,
-   "per_1000": 37.0
+   "per_1000": 36.94
   },
   "kami": {
-   "kemunculan": 1357,
-   "pidato": 201,
-   "persen_pidato": 51.4,
-   "per_1000": 3.37
+   "kemunculan": 1373,
+   "pidato": 202,
+   "persen_pidato": 51.5,
+   "per_1000": 3.4
   },
   "rakyat": {
-   "kemunculan": 2304,
-   "pidato": 207,
-   "persen_pidato": 52.9,
-   "per_1000": 5.72
+   "kemunculan": 2330,
+   "pidato": 208,
+   "persen_pidato": 53.1,
+   "per_1000": 5.76
   },
   "pemerintah": {
-   "kemunculan": 738,
-   "pidato": 177,
-   "persen_pidato": 45.3,
-   "per_1000": 1.83
+   "kemunculan": 742,
+   "pidato": 178,
+   "persen_pidato": 45.4,
+   "per_1000": 1.84
   },
   "bangsa": {
-   "kemunculan": 2134,
-   "pidato": 200,
-   "persen_pidato": 51.2,
-   "per_1000": 5.3
+   "kemunculan": 2135,
+   "pidato": 201,
+   "persen_pidato": 51.3,
+   "per_1000": 5.28
   },
   "negara": {
-   "kemunculan": 2185,
-   "pidato": 239,
-   "persen_pidato": 61.1,
-   "per_1000": 5.43
+   "kemunculan": 2190,
+   "pidato": 240,
+   "persen_pidato": 61.2,
+   "per_1000": 5.42
   }
  },
  "seri_ganti": [
@@ -435,14 +435,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 58,
-   "saya": 21.59,
-   "kita": 37.4,
-   "kami": 2.69,
-   "rakyat": 6.44,
-   "pemerintah": 1.7,
-   "bangsa": 5.44,
-   "negara": 5.26
+   "n": 59,
+   "saya": 21.63,
+   "kita": 37.1,
+   "kami": 2.83,
+   "rakyat": 6.64,
+   "pemerintah": 1.71,
+   "bangsa": 5.36,
+   "negara": 5.23
   }
  ],
  "seri_bahasa": [
@@ -533,10 +533,10 @@
   },
   {
    "jenis": "peresmian",
-   "n": 36,
+   "n": 37,
    "median": 216,
    "maks": 3552,
-   "rata2": 717
+   "rata2": 739
   },
   {
    "jenis": "luar negeri",
