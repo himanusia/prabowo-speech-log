@@ -1,17 +1,15 @@
 {
- "generated_at": "2026-11-12T20:36:33+07:00",
- "channel_total": 4942,
- "era_total": 958,
- "worklist_total": 289,
+ "generated_at": "2026-11-13T20:37:58+07:00",
+ "channel_total": 4944,
+ "era_total": 960,
+ "worklist_total": 290,
  "counts": {
-  "ok_belum_masuk_arsip": 1,
-  "tanpa_track": 285,
+  "tanpa_track": 287,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "ok_belum_masuk_arsip": 1,
-   "tanpa_track": 169,
+   "tanpa_track": 171,
    "panel_kosong": 3
   },
   "kunjungan": {
@@ -25,25 +23,33 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 1,
+ "perlu_impor": 0,
  "blocked_suspected": false,
  "block_tail": [
-  "ok",
-  "ok",
   "no_indonesian_track",
   "ok",
   "ok",
   "no_indonesian_track",
   "ok",
-  "ok"
+  "ok",
+  "no_indonesian_track",
+  "no_indonesian_track"
  ],
  "rows": [
   {
-   "video_id": "uq_XY9MGzFY",
-   "title": "President Prabowo Inaugurates Nagan Raya People's School Campus, November 11, 2026",
+   "video_id": "t_V52SzlRVA",
+   "title": "Presiden Prabowo Anugerahkan Bintang Jasa, beri Santunan Anak para Relawan Karhutla, Bencana & Nakes",
    "kind": "ambigu",
-   "date": "2026-00-00?",
-   "state": "ok_belum_masuk_arsip",
+   "date": null,
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "44XKqw6zP_s",
+   "title": "President Prabowo Receives Vice President Gibran's Resignation Letter, Merdeka Palace, November 1...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "tanpa_track",
    "detail": ""
   },
   {
@@ -1200,9 +1206,9 @@
   },
   {
    "video_id": "yomkQzmtkCs",
-   "title": "Pertemuan Bilateral Presiden Prabowo dengan Presiden Dina Ercilia Boluarte Zegarra, 11 Agustus 2025",
+   "title": "Bilateral Meeting of President Prabowo with President Dina Ercilia Boluarte Zegarra, August 11, 2025",
    "kind": "ambigu",
-   "date": "2025-08-11",
+   "date": "2025-00-00?",
    "state": "tanpa_track",
    "detail": ""
   },
