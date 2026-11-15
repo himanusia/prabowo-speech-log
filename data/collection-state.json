@@ -1,15 +1,17 @@
 {
- "generated_at": "2026-11-14T20:36:03+07:00",
- "channel_total": 4946,
- "era_total": 962,
+ "generated_at": "2026-11-15T20:38:32+07:00",
+ "channel_total": 4947,
+ "era_total": 963,
  "worklist_total": 290,
  "counts": {
-  "tanpa_track": 287,
+  "ok_belum_masuk_arsip": 1,
+  "tanpa_track": 286,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "tanpa_track": 171,
+   "ok_belum_masuk_arsip": 1,
+   "tanpa_track": 170,
    "panel_kosong": 3
   },
   "kunjungan": {
@@ -23,19 +25,27 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 0,
+ "perlu_impor": 1,
  "blocked_suspected": false,
  "block_tail": [
-  "no_indonesian_track",
   "ok",
   "ok",
   "no_indonesian_track",
   "ok",
   "ok",
   "no_indonesian_track",
-  "no_indonesian_track"
+  "no_indonesian_track",
+  "ok"
  ],
  "rows": [
+  {
+   "video_id": "6N_jL_AZH3s",
+   "title": "President Prabowo Opens the 114th Muhammadiyah Tanwir and Anniversary in Palu, November 14, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
   {
    "video_id": "t_V52SzlRVA",
    "title": "Presiden Prabowo Anugerahkan Bintang Jasa, beri Santunan Anak para Relawan Karhutla, Bencana & Nakes",
@@ -113,14 +123,6 @@
    "title": "Presiden Prabowo Bertolak ke Halmahera Tengah, Luncurkan Hilirisasi Senilai Rp180 Triliun, 8-10-2026",
    "kind": "kunjungan",
    "date": "2026-00-00?",
-   "state": "tanpa_track",
-   "detail": ""
-  },
-  {
-   "video_id": "WGXvAkru1zI",
-   "title": "Keterangan Pers Menpora Erick Thohir dan Presiden FIFA Gianni Infantino, 5 Oktober 2026",
-   "kind": "ambigu",
-   "date": "2026-10-05",
    "state": "tanpa_track",
    "detail": ""
   },

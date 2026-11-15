@@ -1,0 +1,75 @@
+{
+ "id": "2026-11-14-buka-tanwir-dan-milad-ke-114-muhammadiyah-di",
+ "video_id": "6N_jL_AZH3s",
+ "date": "2026-11-14",
+ "date_precise": true,
+ "title": "Presiden Prabowo Buka Tanwir dan Milad ke-114 Muhammadiyah di Palu, 14 November 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=6N_jL_AZH3s",
+ "duration_s": 80,
+ "duration_hms": "1:20",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "token_count": 100,
+ "unique_word_count": 68,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "6N_jL_AZH3s",
+   "url": "https://www.youtube.com/watch?v=6N_jL_AZH3s",
+   "title": "Presiden Prabowo Buka Tanwir dan Milad ke-114 Muhammadiyah di Palu, 14 November 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 0,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 7
+ },
+ "policy_signals": {},
+ "transcript": [
+  {
+   "t": 17.0,
+   "d": 19.0,
+   "text": "[musik] Kebesaran Muhammadiyah adalah karena Muhammadiyah bekerja sungguh-sungguh di bidang yang dipilihnya. mengabdi secara nyata kepada bangsa dan rakyat Indonesia."
+  },
+  {
+   "t": 36.0,
+   "d": 20.0,
+   "text": "Demi keselamatan rakyat kita, perlu adanya kebersamaan, perlu adanya gotongroyong, perlu adanya suasana sejuk, suasana damai, perlu adanya kolaborasi kerja sama antara semua elemen pemimpin."
+  },
+  {
+   "t": 56.0,
+   "d": 14.0,
+   "text": "Bangsa yang berhasil itu adalah bangsa yang unsur pemimpin-pemimpinnya bisa kerja sama."
+  },
+  {
+   "t": 70.0,
+   "d": 8.0,
+   "text": "[musik] Ya, terima kasih kepada Bapak Presiden Prabowo sudah datang ke Kota Palu."
+  },
+  {
+   "t": 78.0,
+   "d": 16.0,
+   "text": "Semoga Bapak sehat selalu. Maju terus, Pak. [musik] Jangan menyerah. untuk Bapak Presiden Prabowo Sudianto semoga selalu sehat, panjang umur, Allah jaga. Allah jaga dan rakyat bersama Bapak. Amin."
+  },
+  {
+   "t": 94.0,
+   "d": 3.0,
+   "text": "[musik]"
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ }
+}

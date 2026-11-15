@@ -1,0 +1,91 @@
+{
+ "id": "6N_jL_AZH3s",
+ "url": "https://www.youtube.com/watch?v=6N_jL_AZH3s",
+ "title": "Presiden Prabowo Buka Tanwir dan Milad ke-114 Muhammadiyah di Palu, 14 November 2026",
+ "channel": "Sekretariat Presiden",
+ "selection_reason": "panel_fetch",
+ "discovery_origins": [
+  "official_channel"
+ ],
+ "available_tracks": [
+  {
+   "code": "en",
+   "name": "English (auto-generated)",
+   "generated": true
+  },
+  {
+   "code": "id",
+   "name": "Indonesian (auto-generated)",
+   "generated": true
+  }
+ ],
+ "status": "ok",
+ "language": "Indonesian (auto-generated)",
+ "language_code": "id",
+ "is_generated": true,
+ "is_translatable": true,
+ "fetch_method": "transcript_panel",
+ "snippet_count": 12,
+ "raw_snippets": [
+  {
+   "text": "[musik]",
+   "start": 17.0,
+   "duration": 4
+  },
+  {
+   "text": "Kebesaran Muhammadiyah adalah karena Muhammadiyah bekerja sungguh-sungguh di",
+   "start": 21.0,
+   "duration": 6
+  },
+  {
+   "text": "bidang yang dipilihnya. mengabdi secara nyata kepada bangsa dan rakyat Indonesia.",
+   "start": 27.0,
+   "duration": 9
+  },
+  {
+   "text": "Demi keselamatan rakyat kita, perlu adanya kebersamaan, perlu adanya",
+   "start": 36.0,
+   "duration": 6
+  },
+  {
+   "text": "gotongroyong, perlu adanya suasana sejuk, suasana damai, perlu adanya",
+   "start": 42.0,
+   "duration": 7
+  },
+  {
+   "text": "kolaborasi kerja sama antara semua elemen pemimpin.",
+   "start": 49.0,
+   "duration": 7
+  },
+  {
+   "text": "Bangsa yang berhasil itu adalah bangsa yang unsur pemimpin-pemimpinnya bisa kerja sama.",
+   "start": 56.0,
+   "duration": 14
+  },
+  {
+   "text": "[musik]",
+   "start": 70.0,
+   "duration": 3
+  },
+  {
+   "text": "Ya, terima kasih kepada Bapak Presiden Prabowo sudah datang ke Kota Palu.",
+   "start": 73.0,
+   "duration": 5
+  },
+  {
+   "text": "Semoga Bapak sehat selalu. Maju terus, Pak. [musik] Jangan menyerah. untuk Bapak Presiden Prabowo Sudianto semoga selalu sehat,",
+   "start": 78.0,
+   "duration": 8
+  },
+  {
+   "text": "panjang umur, Allah jaga. Allah jaga dan rakyat bersama Bapak. Amin.",
+   "start": 86.0,
+   "duration": 8
+  },
+  {
+   "text": "[musik]",
+   "start": 94.0,
+   "duration": 3
+  }
+ ]
+}

@@ -1,26 +1,26 @@
 {
  "korpus": {
-  "pidato": 392,
-  "token": 404174,
+  "pidato": 393,
+  "token": 404270,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
   "korupsi": {
    "kemunculan": 390,
    "pidato": 89,
-   "persen_pidato": 22.7,
+   "persen_pidato": 22.6,
    "per_1000": 0.96
   },
   "mbg": {
    "kemunculan": 338,
    "pidato": 81,
-   "persen_pidato": 20.7,
+   "persen_pidato": 20.6,
    "per_1000": 0.84
   },
   "bencana": {
    "kemunculan": 167,
    "pidato": 59,
-   "persen_pidato": 15.1,
+   "persen_pidato": 15.0,
    "per_1000": 0.41
   },
   "danantara": {
@@ -342,49 +342,85 @@
     "pidato": 4,
     "persen": 10.0
    }
+  },
+  {
+   "kuartal": "2026-Q4",
+   "n": 20,
+   "korupsi": {
+    "pidato": 2,
+    "persen": 10.0
+   },
+   "mbg": {
+    "pidato": 2,
+    "persen": 10.0
+   },
+   "bencana": {
+    "pidato": 2,
+    "persen": 10.0
+   },
+   "danantara": {
+    "pidato": 1,
+    "persen": 5.0
+   },
+   "swasembada": {
+    "pidato": 0,
+    "persen": 0.0
+   },
+   "hilirisasi": {
+    "pidato": 3,
+    "persen": 15.0
+   },
+   "sawit": {
+    "pidato": 1,
+    "persen": 5.0
+   },
+   "karhutla": {
+    "pidato": 2,
+    "persen": 10.0
+   }
   }
  ],
  "ganti": {
   "saya": {
    "kemunculan": 10284,
    "pidato": 358,
-   "persen_pidato": 91.3,
+   "persen_pidato": 91.1,
    "per_1000": 25.44
   },
   "kita": {
-   "kemunculan": 14932,
-   "pidato": 358,
+   "kemunculan": 14933,
+   "pidato": 359,
    "persen_pidato": 91.3,
    "per_1000": 36.94
   },
   "kami": {
    "kemunculan": 1373,
    "pidato": 202,
-   "persen_pidato": 51.5,
+   "persen_pidato": 51.4,
    "per_1000": 3.4
   },
   "rakyat": {
-   "kemunculan": 2330,
-   "pidato": 208,
-   "persen_pidato": 53.1,
-   "per_1000": 5.76
+   "kemunculan": 2333,
+   "pidato": 209,
+   "persen_pidato": 53.2,
+   "per_1000": 5.77
   },
   "pemerintah": {
    "kemunculan": 742,
    "pidato": 178,
-   "persen_pidato": 45.4,
+   "persen_pidato": 45.3,
    "per_1000": 1.84
   },
   "bangsa": {
-   "kemunculan": 2135,
-   "pidato": 201,
-   "persen_pidato": 51.3,
-   "per_1000": 5.28
+   "kemunculan": 2138,
+   "pidato": 202,
+   "persen_pidato": 51.4,
+   "per_1000": 5.29
   },
   "negara": {
    "kemunculan": 2190,
    "pidato": 240,
-   "persen_pidato": 61.2,
+   "persen_pidato": 61.1,
    "per_1000": 5.42
   }
  },
@@ -435,14 +471,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 59,
-   "saya": 21.63,
-   "kita": 37.1,
+   "n": 60,
+   "saya": 21.61,
+   "kita": 37.07,
    "kami": 2.83,
-   "rakyat": 6.64,
+   "rakyat": 6.67,
    "pemerintah": 1.71,
-   "bangsa": 5.36,
-   "negara": 5.23
+   "bangsa": 5.39,
+   "negara": 5.22
   }
  ],
  "seri_bahasa": [
@@ -493,6 +529,12 @@
    "n": 41,
    "inggris": 1,
    "persen": 2.4
+  },
+  {
+   "kuartal": "2026-Q4",
+   "n": 20,
+   "inggris": 0,
+   "persen": 0.0
   }
  ],
  "panjang": [
@@ -505,10 +547,10 @@
   },
   {
    "jenis": "partai / ormas",
-   "n": 24,
-   "median": 2001,
+   "n": 25,
+   "median": 1990,
    "maks": 5204,
-   "rata2": 2150
+   "rata2": 2068
   },
   {
    "jenis": "sidang kabinet",

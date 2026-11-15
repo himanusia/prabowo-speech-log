@@ -1,7 +1,7 @@
 {
  "date_first": "2024-10-20",
- "date_last": "2026-11-11",
- "span_days": 752,
+ "date_last": "2026-11-14",
+ "span_days": 755,
  "months": [
   {
    "month": "2024-10",
@@ -155,8 +155,8 @@
   },
   {
    "month": "2026-11",
-   "events": 3,
-   "tokens": 1751,
+   "events": 4,
+   "tokens": 1851,
    "covered": true
   }
  ],
@@ -166,30 +166,30 @@
    "year": "2024",
    "events": 72,
    "tokens": 61546,
-   "event_share": 17.1
+   "event_share": 17.0
   },
   {
    "year": "2025",
    "events": 196,
    "tokens": 151548,
-   "event_share": 46.4
+   "event_share": 46.3
   },
   {
    "year": "2026",
-   "events": 154,
-   "tokens": 212924,
-   "event_share": 36.5
+   "events": 155,
+   "tokens": 213024,
+   "event_share": 36.6
   }
  ],
  "source_tiers": {
   "resmi_setkab": 38,
   "full_media": 36,
-  "official": 275,
+  "official": 276,
   "media": 73
  },
  "fetch_methods": {
   "setkab_rest_api": 38,
-  "transcript_panel": 332,
+  "transcript_panel": 333,
   "auto_caption_en_orig": 12,
   "tidak_ada_caption": 5,
   "caption_api": 30,

@@ -10591,5 +10591,31 @@
    "pertahanan_dan_keamanan": 2,
    "nasional_dan_identitas": 47
   }
+ },
+ {
+  "id": "2026-11-14-buka-tanwir-dan-milad-ke-114-muhammadiyah-di",
+  "date": "2026-11-14",
+  "title": "Presiden Prabowo Buka Tanwir dan Milad ke-114 Muhammadiyah di Palu, 14 November 2026",
+  "channel": "Sekretariat Presiden",
+  "video_id": "6N_jL_AZH3s",
+  "youtube_url": "https://www.youtube.com/watch?v=6N_jL_AZH3s",
+  "duration_s": 80,
+  "duration_hms": "1:20",
+  "token_count": 100,
+  "unique_word_count": 68,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 6,
+  "topics": {
+   "pangan": 0,
+   "ekonomi": 0,
+   "pendidikan": 0,
+   "kesehatan_dan_gizi": 0,
+   "tata_kelola": 0,
+   "pertahanan_dan_keamanan": 0,
+   "nasional_dan_identitas": 7
+  }
  }
 ]
