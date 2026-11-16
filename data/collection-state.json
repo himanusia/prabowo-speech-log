@@ -1,17 +1,15 @@
 {
- "generated_at": "2026-11-15T20:38:32+07:00",
- "channel_total": 4947,
- "era_total": 963,
- "worklist_total": 290,
+ "generated_at": "2026-11-16T20:36:35+07:00",
+ "channel_total": 4951,
+ "era_total": 967,
+ "worklist_total": 293,
  "counts": {
-  "ok_belum_masuk_arsip": 1,
-  "tanpa_track": 286,
+  "tanpa_track": 290,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "ok_belum_masuk_arsip": 1,
-   "tanpa_track": 170,
+   "tanpa_track": 174,
    "panel_kosong": 3
   },
   "kunjungan": {
@@ -25,25 +23,49 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 1,
+ "perlu_impor": 0,
  "blocked_suspected": false,
  "block_tail": [
   "ok",
-  "ok",
-  "no_indonesian_track",
-  "ok",
-  "ok",
   "no_indonesian_track",
   "no_indonesian_track",
-  "ok"
+  "ok",
+  "no_indonesian_track",
+  "no_indonesian_track",
+  "no_indonesian_track",
+  "no_indonesian_track"
  ],
  "rows": [
   {
-   "video_id": "6N_jL_AZH3s",
-   "title": "President Prabowo Opens the 114th Muhammadiyah Tanwir and Anniversary in Palu, November 14, 2026",
+   "video_id": "kQtbhyk7CcI",
+   "title": "President Prabowo Attends the 27th ASEAN-Republic of Korea Summit, Manila, November 16, 2026",
    "kind": "ambigu",
    "date": "2026-00-00?",
-   "state": "ok_belum_masuk_arsip",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "P7lJXyw-98I",
+   "title": "President Prabowo Attends the 6th ASEAN-Australia Summit, Manila, November 16, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "Fwx9Ba2vZFg",
+   "title": "President Prabowo Attends the 29th ASEAN-China Summit, Manila, November 16, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "DgeyNaPHYLg",
+   "title": "President Prabowo Attends the 49th ASEAN Summit Plenary Session, Manila, November 15, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
    "detail": ""
   },
   {
