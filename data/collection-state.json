@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-16T20:36:35+07:00",
- "channel_total": 4951,
- "era_total": 967,
- "worklist_total": 293,
+ "generated_at": "2026-11-17T20:38:32+07:00",
+ "channel_total": 4954,
+ "era_total": 970,
+ "worklist_total": 296,
  "counts": {
-  "tanpa_track": 290,
+  "tanpa_track": 293,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "tanpa_track": 174,
+   "tanpa_track": 177,
    "panel_kosong": 3
   },
   "kunjungan": {
@@ -29,7 +29,7 @@
   "ok",
   "no_indonesian_track",
   "no_indonesian_track",
-  "ok",
+  "no_indonesian_track",
   "no_indonesian_track",
   "no_indonesian_track",
   "no_indonesian_track",
@@ -37,34 +37,58 @@
  ],
  "rows": [
   {
-   "video_id": "kQtbhyk7CcI",
-   "title": "President Prabowo Attends the 27th ASEAN-Republic of Korea Summit, Manila, November 16, 2026",
+   "video_id": "U6bDLLWfciU",
+   "title": "KTT Asia Timur, Presiden Serukan Dialog dan Kepercayaan Strategis Kunci Jaga Perdamaian Indo-Pasifik",
    "kind": "ambigu",
-   "date": "2026-00-00?",
+   "date": null,
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "nRvIZXvZiIk",
+   "title": "ASEAN-India, President Prabowo Pushes for Strengthened ASEAN-India Maritime Cooperation and Conne...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "tGfv4ZuOQis",
+   "title": "ASEAN-Japan, President Prabowo Emphasizes Strategic Partnership Realized Through Concrete Action",
+   "kind": "ambigu",
+   "date": null,
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "kQtbhyk7CcI",
+   "title": "ASEAN-ROK, President Prabowo: ASEAN Must Become a Technology Industry Powerhouse, Not Just a Market",
+   "kind": "ambigu",
+   "date": null,
    "state": "tanpa_track",
    "detail": ""
   },
   {
    "video_id": "P7lJXyw-98I",
-   "title": "President Prabowo Attends the 6th ASEAN-Australia Summit, Manila, November 16, 2026",
+   "title": "ASEAN-Australia, President Affirms Strategic Partnership to Deliver Tangible Results & Public Wel...",
    "kind": "ambigu",
-   "date": "2026-00-00?",
+   "date": null,
    "state": "tanpa_track",
    "detail": ""
   },
   {
    "video_id": "Fwx9Ba2vZFg",
-   "title": "President Prabowo Attends the 29th ASEAN-China Summit, Manila, November 16, 2026",
+   "title": "ASEAN-China, President Calls for Peace to be Maintained, Prosperity to be Shared",
    "kind": "ambigu",
-   "date": "2026-00-00?",
+   "date": null,
    "state": "tanpa_track",
    "detail": ""
   },
   {
    "video_id": "DgeyNaPHYLg",
-   "title": "President Prabowo Attends the 49th ASEAN Summit Plenary Session, Manila, November 15, 2026",
+   "title": "ASEAN Summit Plenary, President Emphasizes the Importance of ASEAN Resilience and Unity in Facing...",
    "kind": "ambigu",
-   "date": "2026-00-00?",
+   "date": null,
    "state": "tanpa_track",
    "detail": ""
   },
