@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-18T20:35:51+07:00",
- "channel_total": 4936,
- "era_total": 971,
- "worklist_total": 297,
+ "generated_at": "2026-11-19T20:38:15+07:00",
+ "channel_total": 4958,
+ "era_total": 974,
+ "worklist_total": 300,
  "counts": {
-  "tanpa_track": 294,
+  "tanpa_track": 297,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "tanpa_track": 178,
+   "tanpa_track": 181,
    "panel_kosong": 3
   },
   "kunjungan": {
@@ -36,6 +36,30 @@
   "no_indonesian_track"
  ],
  "rows": [
+  {
+   "video_id": "ViQp569YVFE",
+   "title": "President Putin: Indonesia Is One of the Fastest Growing Economies in the World",
+   "kind": "ambigu",
+   "date": null,
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "YOYV7kirpek",
+   "title": "APEC Summit, President Prabowo: USD 86.8 Billion Investment & Hopes for World Peace in the Hands ...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "l2MkkUXn3U4",
+   "title": "Presiden Prabowo Hadiri Jamuan Makan Malam KTT APEC 2026, Shenzhen, 18 November 2026",
+   "kind": "ambigu",
+   "date": "2026-11-18",
+   "state": "tanpa_track",
+   "detail": ""
+  },
   {
    "video_id": "CRUh4HGg0q8",
    "title": "President Prabowo Witnesses MoUs with China Worth USD71.8 Billion, Over IDR 1,300 Trillion",
