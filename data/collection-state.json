@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-19T20:38:15+07:00",
- "channel_total": 4958,
- "era_total": 974,
- "worklist_total": 300,
+ "generated_at": "2026-11-20T20:39:45+07:00",
+ "channel_total": 4961,
+ "era_total": 977,
+ "worklist_total": 303,
  "counts": {
-  "tanpa_track": 297,
+  "tanpa_track": 300,
   "panel_kosong": 3
  },
  "by_kind": {
-  "ambigu": {
-   "tanpa_track": 181,
-   "panel_kosong": 3
-  },
   "kunjungan": {
-   "tanpa_track": 114
+   "tanpa_track": 115
+  },
+  "ambigu": {
+   "tanpa_track": 183,
+   "panel_kosong": 3
   },
   "keterangan_pers": {
    "tanpa_track": 1
@@ -36,6 +36,30 @@
   "no_indonesian_track"
  ],
  "rows": [
+  {
+   "video_id": "YxGXYXgE78g",
+   "title": "Presiden Prabowo Tiba di Tanah Air usai Hadiri KTT ke-49 ASEAN dan KTT APEC 2026, 20 November 2026",
+   "kind": "kunjungan",
+   "date": "2026-11-20",
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "91ObsV_X-y4",
+   "title": "President Prabowo and President Xi Jinping Affirm Strengthening of Indonesia-China Strategic Part...",
+   "kind": "ambigu",
+   "date": null,
+   "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "UK69chMtRIg",
+   "title": "Presiden Prabowo dan Presiden Putin Gelar Pertemuan Empat Mata di Sela KTT APEC 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
   {
    "video_id": "ViQp569YVFE",
    "title": "President Putin: Indonesia Is One of the Fastest Growing Economies in the World",
