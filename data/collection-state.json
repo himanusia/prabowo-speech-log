@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-20T20:39:45+07:00",
- "channel_total": 4961,
- "era_total": 977,
- "worklist_total": 303,
+ "generated_at": "2026-11-21T20:37:57+07:00",
+ "channel_total": 4962,
+ "era_total": 978,
+ "worklist_total": 304,
  "counts": {
-  "tanpa_track": 300,
+  "tanpa_track": 301,
   "panel_kosong": 3
  },
  "by_kind": {
+  "ambigu": {
+   "tanpa_track": 184,
+   "panel_kosong": 3
+  },
   "kunjungan": {
    "tanpa_track": 115
-  },
-  "ambigu": {
-   "tanpa_track": 183,
-   "panel_kosong": 3
   },
   "keterangan_pers": {
    "tanpa_track": 1
@@ -36,6 +36,14 @@
   "no_indonesian_track"
  ],
  "rows": [
+  {
+   "video_id": "e-q7yXR7EMY",
+   "title": "President Prabowo Witnesses $15 Billion MoU, Strengthening Indonesia-China Investment Cooperation",
+   "kind": "ambigu",
+   "date": null,
+   "state": "tanpa_track",
+   "detail": ""
+  },
   {
    "video_id": "YxGXYXgE78g",
    "title": "Presiden Prabowo Tiba di Tanah Air usai Hadiri KTT ke-49 ASEAN dan KTT APEC 2026, 20 November 2026",
