@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-21T20:37:57+07:00",
- "channel_total": 4962,
- "era_total": 978,
- "worklist_total": 304,
+ "generated_at": "2026-11-22T20:36:32+07:00",
+ "channel_total": 4963,
+ "era_total": 979,
+ "worklist_total": 305,
  "counts": {
-  "tanpa_track": 301,
+  "tanpa_track": 302,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
-   "tanpa_track": 184,
+   "tanpa_track": 185,
    "panel_kosong": 3
   },
   "kunjungan": {
@@ -36,6 +36,14 @@
   "no_indonesian_track"
  ],
  "rows": [
+  {
+   "video_id": "Dh6PC8QwEcg",
+   "title": "Indonesia on the Stage of the 49th ASEAN Summit and APEC China 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "tanpa_track",
+   "detail": ""
+  },
   {
    "video_id": "e-q7yXR7EMY",
    "title": "President Prabowo Witnesses $15 Billion MoU, Strengthening Indonesia-China Investment Cooperation",
