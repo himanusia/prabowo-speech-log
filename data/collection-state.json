@@ -1,16 +1,18 @@
 {
- "generated_at": "2026-11-22T20:36:32+07:00",
+ "generated_at": "2026-11-23T20:36:42+07:00",
  "channel_total": 4963,
  "era_total": 979,
- "worklist_total": 305,
+ "worklist_total": 306,
  "counts": {
   "tanpa_track": 302,
-  "panel_kosong": 3
+  "panel_kosong": 3,
+  "ok_belum_masuk_arsip": 1
  },
  "by_kind": {
   "ambigu": {
    "tanpa_track": 185,
-   "panel_kosong": 3
+   "panel_kosong": 3,
+   "ok_belum_masuk_arsip": 1
   },
   "kunjungan": {
    "tanpa_track": 115
@@ -23,7 +25,7 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 0,
+ "perlu_impor": 1,
  "blocked_suspected": false,
  "block_tail": [
   "no_indonesian_track",
@@ -33,7 +35,7 @@
   "no_indonesian_track",
   "no_indonesian_track",
   "no_indonesian_track",
-  "no_indonesian_track"
+  "ok"
  ],
  "rows": [
   {
@@ -270,9 +272,9 @@
   },
   {
    "video_id": "6Cg4kJBNs3A",
-   "title": "President Prabowo's Statement at the BRICS Summit Open Session in India, September 13, 2026",
+   "title": "Pernyataan Presiden Prabowo dalam Sesi Terbuka KTT BRICS India, 13 September 2026",
    "kind": "ambigu",
-   "date": "2026-00-00?",
+   "date": "2026-09-13",
    "state": "tanpa_track",
    "detail": ""
   },
@@ -450,6 +452,14 @@
    "kind": "ambigu",
    "date": null,
    "state": "tanpa_track",
+   "detail": ""
+  },
+  {
+   "video_id": "zIdrmMUEIJM",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Jakarta, 4 Juni 2026",
+   "kind": "ambigu",
+   "date": "2026-06-04",
+   "state": "ok_belum_masuk_arsip",
    "detail": ""
   },
   {

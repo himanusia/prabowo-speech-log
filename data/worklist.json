@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:35:55+07:00",
+ "generated_at": "2026-11-23T20:36:18+07:00",
  "channel_url": "https://www.youtube.com/@SekretariatPresiden/videos",
  "era_boundary_position": 979,
  "channel_total": 4963,
@@ -7,15 +7,15 @@
  "already_in_archive": 787,
  "counts": {
   "ambigu": 606,
-  "kunjungan": 200,
-  "bukan_prabowo": 99,
+  "kunjungan": 201,
+  "bukan_prabowo": 98,
   "pidato": 24,
   "keterangan_pers": 50
  },
  "pending_counts": {
-  "ambigu": 188,
+  "ambigu": 189,
   "kunjungan": 115,
-  "bukan_prabowo": 93,
+  "bukan_prabowo": 92,
   "keterangan_pers": 1,
   "pidato": 1
  },
@@ -778,10 +778,10 @@
   },
   {
    "video_id": "6Cg4kJBNs3A",
-   "title": "President Prabowo's Statement at the BRICS Summit Open Session in India, September 13, 2026",
+   "title": "Pernyataan Presiden Prabowo dalam Sesi Terbuka KTT BRICS India, 13 September 2026",
    "position": 84,
-   "date": "2026-00-00?",
-   "date_precise": false,
+   "date": "2026-09-13",
+   "date_precise": true,
    "kind": "ambigu",
    "status": "pending"
   },
@@ -814,7 +814,7 @@
   },
   {
    "video_id": "OBpFpAEfjAg",
-   "title": "INDONESIA WINS!!! The Indonesian Contingent Heads to the 20th Asian Games in Aichi-Nagoya, Japan",
+   "title": "INDONESIA MENANG!!! Kontingen Indonesia Menuju Asian Games ke-20 Aichi Nagoya Jepang",
    "position": 88,
    "date": null,
    "date_precise": false,
@@ -1633,11 +1633,11 @@
   },
   {
    "video_id": "zIdrmMUEIJM",
-   "title": "Press Statement by State Secretary Prasetyo Hadi, Jakarta, June 4, 2026",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Jakarta, 4 Juni 2026",
    "position": 179,
-   "date": "2026-00-00?",
-   "date_precise": false,
-   "kind": "bukan_prabowo",
+   "date": "2026-06-04",
+   "date_precise": true,
+   "kind": "ambigu",
    "status": "pending"
   },
   {
@@ -2272,10 +2272,10 @@
   },
   {
    "video_id": "FcQWWbV_Vyo",
-   "title": "Press Statement by Cabinet Secretary Teddy Indra Wijaya, Jakarta, April 10, 2026",
+   "title": "Keterangan Pers Seskab Teddy Indra Wijaya, Jakarta, 10 April 2026",
    "position": 250,
-   "date": "2026-00-00?",
-   "date_precise": false,
+   "date": "2026-04-10",
+   "date_precise": true,
    "kind": "ambigu",
    "status": "have"
   },
@@ -2371,11 +2371,11 @@
   },
   {
    "video_id": "gwb4z3Lfl2g",
-   "title": "Handover of Control of the Palace, Front Page of the Merdeka Palace, 5 April 2026",
+   "title": "Serah Terima Kawal Istana, Halaman Depan Istana Merdeka, 5 April 2026",
    "position": 261,
    "date": "2026-04-05",
    "date_precise": true,
-   "kind": "ambigu",
+   "kind": "kunjungan",
    "status": "have"
   },
   {
@@ -5098,10 +5098,10 @@
   },
   {
    "video_id": "gZFyA9zWoBk",
-   "title": "President Prabowo Arrives in Singapore to Attend National Day Parade, Singapore, August 9, 2025",
+   "title": "Presiden Prabowo Tiba di Singapura untuk Hadiri Parade Hari Nasional, Singapura, 9 Agustus 2025",
    "position": 564,
-   "date": "2025-00-00?",
-   "date_precise": false,
+   "date": "2025-08-09",
+   "date_precise": true,
    "kind": "kunjungan",
    "status": "have"
   },
@@ -9096,10 +9096,10 @@
   },
   {
    "video_id": "6Cg4kJBNs3A",
-   "title": "President Prabowo's Statement at the BRICS Summit Open Session in India, September 13, 2026",
+   "title": "Pernyataan Presiden Prabowo dalam Sesi Terbuka KTT BRICS India, 13 September 2026",
    "position": 84,
-   "date": "2026-00-00?",
-   "date_precise": false,
+   "date": "2026-09-13",
+   "date_precise": true,
    "kind": "ambigu",
    "status": "pending"
   },
@@ -9298,6 +9298,15 @@
    "position": 176,
    "date": null,
    "date_precise": false,
+   "kind": "ambigu",
+   "status": "pending"
+  },
+  {
+   "video_id": "zIdrmMUEIJM",
+   "title": "Keterangan Pers Mensesneg Prasetyo Hadi, Jakarta, 4 Juni 2026",
+   "position": 179,
+   "date": "2026-06-04",
+   "date_precise": true,
    "kind": "ambigu",
    "status": "pending"
   },
