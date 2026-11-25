@@ -1,0 +1,100 @@
+{
+ "id": "2026-11-25-keterangan-pers-dirut-garuda-thomas-sugiarto-oentoro",
+ "video_id": "ZmzHF4MkZcA",
+ "date": "2026-11-25",
+ "date_precise": true,
+ "title": "Keterangan Pers Dirut Garuda Thomas Sugiarto Oentoro, 25 November 2026",
+ "channel": "Sekretariat Presiden",
+ "youtube_url": "https://www.youtube.com/watch?v=ZmzHF4MkZcA",
+ "duration_s": 153,
+ "duration_hms": "2:33",
+ "source_tier": "official",
+ "fetch_method": "transcript_panel",
+ "snippet_count": 19,
+ "token_count": 265,
+ "unique_word_count": 127,
+ "canonical_overridden": false,
+ "canonical_note": "Diimpor oleh import_panels.py dari panel transkrip.",
+ "duplicate_count": 0,
+ "uploads": [
+  {
+   "video_id": "ZmzHF4MkZcA",
+   "url": "https://www.youtube.com/watch?v=ZmzHF4MkZcA",
+   "title": "Keterangan Pers Dirut Garuda Thomas Sugiarto Oentoro, 25 November 2026",
+   "channel": "Sekretariat Presiden",
+   "canonical": true
+  }
+ ],
+ "topics": {
+  "pangan": 0,
+  "ekonomi": 0,
+  "pendidikan": 0,
+  "kesehatan_dan_gizi": 0,
+  "tata_kelola": 1,
+  "pertahanan_dan_keamanan": 0,
+  "nasional_dan_identitas": 1
+ },
+ "policy_signals": {
+  "Danantara": {
+   "count": 1
+  }
+ },
+ "transcript": [
+  {
+   "t": 0.0,
+   "d": 18.0,
+   "text": "Ya. Eh, selamat malam, Teman-teman. Eh, barusan saya baru bertemu dengan Bapak Presiden dan untuk memberikan ke dia ee Bapak ee update mengenai transformasi di Garuda semenjak saya menjadi ee di rout."
+  },
+  {
+   "t": 18.0,
+   "d": 14.0,
+   "text": "Jadi dalam hal ini kita ee berbincang selama hampir 2 jam yaitu melihat ee perkembangan di Garuda dan apa saja yang kita harus lakukan ke depannya."
+  },
+  {
+   "t": 32.0,
+   "d": 27.0,
+   "text": "Permintaan ee Presiden adalah transformasi di Garuda ini harus total dan kita harus mengembalikan Garuda sebagai maskap eh world class yang mana eh Garuda diharapkan untuk bisa sustainable dan juga profitable ke depannya. Bukan hanya untuk generasi ee kita sekarang, tapi untuk generasi masa depan."
+  },
+  {
+   "t": 59.0,
+   "d": 12.0,
+   "text": "Untuk itu ee saya mohon dengan teman-teman untuk tetap ee membantu dalam ee menyiarkan perbaikan-perbaikan yang ada di Garuda."
+  },
+  {
+   "t": 71.0,
+   "d": 29.0,
+   "text": "Transformasi ini tidak mudah ya, karena Garuda itu sudah dikenal sebagai maskapai nasional dan juga maskapai yang punya legasi yang cukup banyak. Nah, dengan itu ee nanti Bapak Presiden minta saya untuk ee mengupdate dia secara berkala atas program transformasi yang kita akan jalankan ke depannya. Itu saja, Pak."
+  },
+  {
+   "t": 100.0,
+   "d": 7.0,
+   "text": "Baru, Pak, itu selalu ada, tapi ee itu nanti harus dilakukan secara detail."
+  },
+  {
+   "t": 107.0,
+   "d": 14.0,
+   "text": "Bapak lebih enggak soal S ee ya itu akan akan dibahas sesuai dengan apa yang sudah dibicarakan dengan ee pihak ee pelita dan juga ee Danantara sebagai pembekasan."
+  },
+  {
+   "t": 121.0,
+   "d": 21.0,
+   "text": "Kalau menjelang Naru ada instruksi enggak, Pak? dari Pak Presiden tadi disampaikan, Presiden hanya berharap kita bisa ee melayani masyarakat Indonesia secara baik dan memberikan ee layanan layanan yang terbaik juga. Jadi itu saja dari Bapak Presiden."
+  },
+  {
+   "t": 142.0,
+   "d": 8.0,
+   "text": "Ee itu akan di ee sampaikan oleh ee pemerintah secara langsung. Itu saja, Teman-teman. Selamat malam."
+  },
+  {
+   "t": 150.0,
+   "d": 3.0,
+   "text": "Terima kasih."
+  }
+ ],
+ "provenance": {
+  "source": "youtube transcript panel via scripts/collect_panel.py",
+  "imported_by": "scripts/import_panels.py",
+  "worklist_kind": "ambigu"
+ },
+ "speaker_kind": "lain"
+}

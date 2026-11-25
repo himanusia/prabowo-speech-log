@@ -1,14 +1,16 @@
 {
- "generated_at": "2026-11-24T20:44:00+07:00",
- "channel_total": 4963,
- "era_total": 979,
- "worklist_total": 305,
+ "generated_at": "2026-11-25T20:36:52+07:00",
+ "channel_total": 4955,
+ "era_total": 983,
+ "worklist_total": 307,
  "counts": {
+  "ok_belum_masuk_arsip": 2,
   "tanpa_track": 302,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
+   "ok_belum_masuk_arsip": 2,
    "tanpa_track": 185,
    "panel_kosong": 3
   },
@@ -23,7 +25,7 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 0,
+ "perlu_impor": 2,
  "blocked_suspected": false,
  "block_tail": [
   "no_indonesian_track",
@@ -31,11 +33,27 @@
   "no_indonesian_track",
   "no_indonesian_track",
   "no_indonesian_track",
-  "no_indonesian_track",
-  "no_indonesian_track",
+  "ok",
+  "ok",
   "ok"
  ],
  "rows": [
+  {
+   "video_id": "ZmzHF4MkZcA",
+   "title": "Press Statement by Garuda President Director Thomas Sugiarto Oentoro, November 25, 2026",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
+  {
+   "video_id": "OptNjM6zaAs",
+   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, 24 November 2026",
+   "kind": "ambigu",
+   "date": "2026-11-24",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
   {
    "video_id": "Dh6PC8QwEcg",
    "title": "Indonesia on the Stage of the 49th ASEAN Summit and APEC China 2026",
