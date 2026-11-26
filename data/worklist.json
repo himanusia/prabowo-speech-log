@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-25T20:36:13+07:00",
+ "generated_at": "2026-11-26T20:36:49+07:00",
  "channel_url": "https://www.youtube.com/@SekretariatPresiden/videos",
  "era_boundary_position": 983,
- "channel_total": 4955,
+ "channel_total": 4951,
  "era_total": 983,
- "already_in_archive": 788,
+ "already_in_archive": 790,
  "counts": {
   "ambigu": 608,
   "bukan_prabowo": 101,
@@ -13,8 +13,8 @@
   "keterangan_pers": 50
  },
  "pending_counts": {
-  "ambigu": 190,
   "bukan_prabowo": 94,
+  "ambigu": 188,
   "kunjungan": 115,
   "keterangan_pers": 1,
   "pidato": 1
@@ -27,7 +27,7 @@
    "date": "2026-00-00?",
    "date_precise": false,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "5SQqMfr_YDg",
@@ -54,7 +54,7 @@
    "date": "2026-11-24",
    "date_precise": true,
    "kind": "ambigu",
-   "status": "pending"
+   "status": "have"
   },
   {
    "video_id": "Dh6PC8QwEcg",
@@ -8869,24 +8869,6 @@
   }
  ],
  "todo": [
-  {
-   "video_id": "ZmzHF4MkZcA",
-   "title": "Press Statement by Garuda President Director Thomas Sugiarto Oentoro, November 25, 2026",
-   "position": 0,
-   "date": "2026-00-00?",
-   "date_precise": false,
-   "kind": "ambigu",
-   "status": "pending"
-  },
-  {
-   "video_id": "OptNjM6zaAs",
-   "title": "Keterangan Pers Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani, 24 November 2026",
-   "position": 3,
-   "date": "2026-11-24",
-   "date_precise": true,
-   "kind": "ambigu",
-   "status": "pending"
-  },
   {
    "video_id": "Dh6PC8QwEcg",
    "title": "Indonesia on the Stage of the 49th ASEAN Summit and APEC China 2026",
