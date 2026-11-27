@@ -1,14 +1,16 @@
 {
- "generated_at": "2026-11-26T20:36:50+07:00",
- "channel_total": 4951,
- "era_total": 983,
- "worklist_total": 305,
+ "generated_at": "2026-11-27T20:36:54+07:00",
+ "channel_total": 4968,
+ "era_total": 984,
+ "worklist_total": 306,
  "counts": {
+  "ok_belum_masuk_arsip": 1,
   "tanpa_track": 302,
   "panel_kosong": 3
  },
  "by_kind": {
   "ambigu": {
+   "ok_belum_masuk_arsip": 1,
    "tanpa_track": 185,
    "panel_kosong": 3
   },
@@ -23,19 +25,27 @@
   }
  },
  "remaining": 3,
- "perlu_impor": 0,
+ "perlu_impor": 1,
  "blocked_suspected": false,
  "block_tail": [
   "no_indonesian_track",
   "no_indonesian_track",
   "no_indonesian_track",
   "no_indonesian_track",
-  "no_indonesian_track",
+  "ok",
   "ok",
   "ok",
   "ok"
  ],
  "rows": [
+  {
+   "video_id": "SRy1_f5LiWA",
+   "title": "President Prabowo Attends the Peak of the 2026 National Teacher's Day Commemoration, SICC, Novemb...",
+   "kind": "ambigu",
+   "date": "2026-00-00?",
+   "state": "ok_belum_masuk_arsip",
+   "detail": ""
+  },
   {
    "video_id": "Dh6PC8QwEcg",
    "title": "Indonesia on the Stage of the 49th ASEAN Summit and APEC China 2026",

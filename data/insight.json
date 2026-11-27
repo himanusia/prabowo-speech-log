@@ -1,26 +1,26 @@
 {
  "korpus": {
-  "pidato": 393,
-  "token": 404270,
+  "pidato": 394,
+  "token": 409630,
   "catatan": "Hanya pidato era presiden yang bertranskrip Indonesia."
  },
  "istilah": {
   "korupsi": {
-   "kemunculan": 390,
-   "pidato": 89,
-   "persen_pidato": 22.6,
-   "per_1000": 0.96
+   "kemunculan": 401,
+   "pidato": 90,
+   "persen_pidato": 22.8,
+   "per_1000": 0.98
   },
   "mbg": {
-   "kemunculan": 338,
-   "pidato": 81,
-   "persen_pidato": 20.6,
-   "per_1000": 0.84
+   "kemunculan": 340,
+   "pidato": 82,
+   "persen_pidato": 20.8,
+   "per_1000": 0.83
   },
   "bencana": {
-   "kemunculan": 167,
-   "pidato": 59,
-   "persen_pidato": 15.0,
+   "kemunculan": 168,
+   "pidato": 60,
+   "persen_pidato": 15.2,
    "per_1000": 0.41
   },
   "danantara": {
@@ -33,19 +33,19 @@
    "kemunculan": 120,
    "pidato": 35,
    "persen_pidato": 8.9,
-   "per_1000": 0.3
+   "per_1000": 0.29
   },
   "hilirisasi": {
    "kemunculan": 111,
    "pidato": 47,
-   "persen_pidato": 12.0,
+   "persen_pidato": 11.9,
    "per_1000": 0.27
   },
   "sawit": {
    "kemunculan": 160,
    "pidato": 37,
    "persen_pidato": 9.4,
-   "per_1000": 0.4
+   "per_1000": 0.39
   },
   "karhutla": {
    "kemunculan": 11,
@@ -345,22 +345,22 @@
   },
   {
    "kuartal": "2026-Q4",
-   "n": 20,
+   "n": 21,
    "korupsi": {
-    "pidato": 2,
-    "persen": 10.0
+    "pidato": 3,
+    "persen": 14.3
    },
    "mbg": {
-    "pidato": 2,
-    "persen": 10.0
+    "pidato": 3,
+    "persen": 14.3
    },
    "bencana": {
-    "pidato": 2,
-    "persen": 10.0
+    "pidato": 3,
+    "persen": 14.3
    },
    "danantara": {
     "pidato": 1,
-    "persen": 5.0
+    "persen": 4.8
    },
    "swasembada": {
     "pidato": 0,
@@ -368,60 +368,60 @@
    },
    "hilirisasi": {
     "pidato": 3,
-    "persen": 15.0
+    "persen": 14.3
    },
    "sawit": {
     "pidato": 1,
-    "persen": 5.0
+    "persen": 4.8
    },
    "karhutla": {
     "pidato": 2,
-    "persen": 10.0
+    "persen": 9.5
    }
   }
  ],
  "ganti": {
   "saya": {
-   "kemunculan": 10284,
-   "pidato": 358,
+   "kemunculan": 10373,
+   "pidato": 359,
    "persen_pidato": 91.1,
-   "per_1000": 25.44
+   "per_1000": 25.32
   },
   "kita": {
-   "kemunculan": 14933,
-   "pidato": 359,
-   "persen_pidato": 91.3,
-   "per_1000": 36.94
+   "kemunculan": 15021,
+   "pidato": 360,
+   "persen_pidato": 91.4,
+   "per_1000": 36.67
   },
   "kami": {
-   "kemunculan": 1373,
-   "pidato": 202,
-   "persen_pidato": 51.4,
-   "per_1000": 3.4
+   "kemunculan": 1422,
+   "pidato": 203,
+   "persen_pidato": 51.5,
+   "per_1000": 3.47
   },
   "rakyat": {
-   "kemunculan": 2333,
-   "pidato": 209,
-   "persen_pidato": 53.2,
-   "per_1000": 5.77
+   "kemunculan": 2340,
+   "pidato": 210,
+   "persen_pidato": 53.3,
+   "per_1000": 5.71
   },
   "pemerintah": {
-   "kemunculan": 742,
-   "pidato": 178,
-   "persen_pidato": 45.3,
-   "per_1000": 1.84
+   "kemunculan": 748,
+   "pidato": 179,
+   "persen_pidato": 45.4,
+   "per_1000": 1.83
   },
   "bangsa": {
-   "kemunculan": 2138,
-   "pidato": 202,
-   "persen_pidato": 51.4,
+   "kemunculan": 2167,
+   "pidato": 203,
+   "persen_pidato": 51.5,
    "per_1000": 5.29
   },
   "negara": {
-   "kemunculan": 2190,
-   "pidato": 240,
-   "persen_pidato": 61.1,
-   "per_1000": 5.42
+   "kemunculan": 2200,
+   "pidato": 241,
+   "persen_pidato": 61.2,
+   "per_1000": 5.37
   }
  },
  "seri_ganti": [
@@ -471,14 +471,14 @@
   },
   {
    "periode": "2026-S2",
-   "n": 60,
-   "saya": 21.61,
-   "kita": 37.07,
-   "kami": 2.83,
-   "rakyat": 6.67,
-   "pemerintah": 1.71,
+   "n": 61,
+   "saya": 21.31,
+   "kita": 35.83,
+   "kami": 3.21,
+   "rakyat": 6.35,
+   "pemerintah": 1.68,
    "bangsa": 5.39,
-   "negara": 5.22
+   "negara": 5.02
   }
  ],
  "seri_bahasa": [
@@ -532,7 +532,7 @@
   },
   {
    "kuartal": "2026-Q4",
-   "n": 20,
+   "n": 21,
    "inggris": 0,
    "persen": 0.0
   }
@@ -561,10 +561,10 @@
   },
   {
    "jenis": "hari besar",
-   "n": 22,
+   "n": 23,
    "median": 246,
-   "maks": 3715,
-   "rata2": 1035
+   "maks": 5763,
+   "rata2": 1240
   },
   {
    "jenis": "lain-lain",

@@ -10617,5 +10617,31 @@
    "pertahanan_dan_keamanan": 0,
    "nasional_dan_identitas": 7
   }
+ },
+ {
+  "id": "2026-11-26-hadiri-puncak-peringatan-hari-guru-nasional-2026",
+  "date": "2026-11-26",
+  "title": "Presiden Prabowo Hadiri Puncak Peringatan Hari Guru Nasional 2026, SICC, 26 November 2026",
+  "channel": "Sekretariat Presiden",
+  "video_id": "SRy1_f5LiWA",
+  "youtube_url": "https://www.youtube.com/watch?v=SRy1_f5LiWA",
+  "duration_s": 6424,
+  "duration_hms": "1:47:04",
+  "token_count": 5763,
+  "unique_word_count": 1581,
+  "source_tier": "official",
+  "fetch_method": "transcript_panel",
+  "upload_count": 1,
+  "duplicate_count": 0,
+  "para_count": 392,
+  "topics": {
+   "pangan": 3,
+   "ekonomi": 5,
+   "pendidikan": 241,
+   "kesehatan_dan_gizi": 23,
+   "tata_kelola": 13,
+   "pertahanan_dan_keamanan": 8,
+   "nasional_dan_identitas": 125
+  }
  }
 ]
